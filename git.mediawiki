@@ -107,8 +107,10 @@ git push origin master
 #* The save-stage-commit-push workflow within a branch is the same as for master. The key difference is that when pushing, you need to use <tt>git push origin branchName</tt> instead of <tt>git push origin master</tt>
 #* It is also possible for multiple people to collaborate on the same branch. The first person to create the branch simply does <tt>git push origin branchName</tt>. People who subsequently want to collaborate on that branch must do "git fetch origin branchName</tt> so that their local repository gets that branch, and subsequently they can work on it in the same way as the person who created the branch.
 
-# Understand what happens to stages and commits when switching between branches
-#* 
+# Understand what happens to stages and commits when switching between branches using <tt>git checkout</tt>
+#* Committed changes do not get transferred.
+#* However, git attempts to transfer all the staged-but-not-committed changes as well as all the saved-but-not-staged changes.
+#* If any of the files to which either set of changes applies is different in the two branches, git will throw an error, telling you to commit, stash, or discard your changes to avoid them being overwritten by checkout. If the changes involve adding new files that you have not yet staged, git will print an error about untracked working tree files.
 
 # Once you are working in a separate branch, this reduces the barrier to pushing to the remote origin.
 #* If you are making all your changes in master, then pushing incomplete changes to the remote origin can be disruptive to collaborators and confuse any person or automated process that deploys directly to production from the remote origin. If, however, you are in your own branch, then you can push this branch to the remote origin. It will not affect the copy of the master in the remote origin, and therefore not disrupt anything.
