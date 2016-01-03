@@ -16,20 +16,20 @@ Git's chief use case is source code management. Its algorithm for merging change
 # A few other key terms (that will be explained with more context later):
 #* A "commit" is a checkpoint of a complete state of the Git repository. Each commit has a unique identifier and it is possible to revert to any commit. Each commit includes a commit time, a committing user, and optionally, a commit message (that should ideally describe the most recent changes included in the commit).
 #* A "branch" can be thought of as a version of the Git repository. The default branch is called "master". At any point, a new branch can be created cloning the existing state of the Git repository. The branches can subsequently diverge. One can switch between branches, and one can eventually merge branches.
-#* The "status" of the repository provides information on the current branch, what changes may have been made that are not committed, and whether the changes are synced with the remote origin. If there are no uncommitted changes, then git considers the status to be clean. Note that changes to files marked to be ignored are not considered when reporting the status.
-
+#* The term HEAD is used for the most recent checkpoint. In each repository, each branch has a HEAD.
+#* The "status" of the repository provides information on the current branch, what changes may have been made that are not committed, and whether the changes are synced with the remote origin. If there are no uncommitted changes, then git considers the status to be clean (another way of saying this is that the branch is at its HEAD). A clean status reports an empty result when you run <tt> git status --porcelain</tt>. Note that changes to files marked to be ignored are not considered when reporting the status.
 === Understanding the three main uses of Git ===
 
-# The first use case for Git is as a way of eriodic checkpointing through commits
-#* Each git commit creates a checkpoint that you can revert to at a later stage if you discover subsequent problems. In this respect, Git is a substitute for version control systems like Subversion. 
-#* The most relevant git commands here are git stage (synonymous to git add) and git commit. 
-#* Other related commands are git reset, git mv, and git rm.
-#* You can see the full commit history using git log.
+# The first use case for Git is as a way of periodic checkpointing through commits.<ref>[http://gitref.org/index.html Introduction to the Git Reference] says: "This is essentially what Git is. You tell Git you want to save a snapshot of your project with the git commit command and it basically records a manifest of what all of the files in your project look like at that point. Then most of the commands work with those manifests to see how they differ or pull content out of them, etc."</ref>
+#* Each git commit creates a checkpoint that you can revert to at a later stage if you discover subsequent problems. In this respect, Git is a substitute for version control systems like Subversion, with the key distinction that whereas SVN operates at the level of individual files, Git operates at the level of the repository.
+#* The most relevant git commands here are <tt>git stage</tt> (synonymous to <tt>git add</tt>) and <tt>git commit</tt>. 
+#* Other related commands are <tt>git reset</tt>, <tt>git mv</tt>, and <tt>git rm</tt>.
+#* You can see the full commit history using <tt>git log</tt>.
 
 # The second use case for Git is working with multiple branches
 #* It is possible to create multiple branches of your repository where you work on different changes. 
-#* The most relevant commands for creating and switching between branches are git branch and git checkout. 
-#* The relevant command for reconciling changes between branches is git merge.
+#* The most relevant commands for creating and switching between branches are <tt>git branch</tt> and <tt>git checkout</tt>. 
+#* The relevant command for reconciling changes between branches is <tt>git merge</tt> (more generally, <tt>git merge</tt> can be used to try to merge any two commits, and the commits at the HEAD for two different branches are a natural candidate for things to merge).
 
 # The third use case for Git is collaborating across different devices and users, possibly including a web-based access from the remote origin.
 #* To push changes from your local repository to the remote origin, use git push. 
