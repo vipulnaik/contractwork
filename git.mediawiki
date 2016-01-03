@@ -104,8 +104,8 @@ git push origin master
 #* The first of these commands creates a new branch with that name, but does not switch to it. The second command creates the branch and switches to it.
 #* With both commands, the entire current state is transferred to the new branch. This means that the commit history till this point, the set of staged-but-not-committed changes, and the set of saved-but-not-staged changes, all get inherited by the new branch.
 #* To switch to an already existing branch in your local repository, do <tt>git checkout branchName</tt>
-#* The save-stage-commit-push cycle within a branch is the same as for master. The key difference is that when pushing, you need to use <tt>git push origin branchName</tt> instead of <tt>git push origin master</tt>
-#* It is also possible for multiple people to collaborate on the same branch. The first person to create the branch simply does "git push origin branchName". People who subsequently want to collaborate on that branch must do "git fetch origin branchName" so that their local repository gets that branch, and subsequently they can work on it in the same way as the person who created the branch.
+#* The save-stage-commit-push workflow within a branch is the same as for master. The key difference is that when pushing, you need to use <tt>git push origin branchName</tt> instead of <tt>git push origin master</tt>
+#* It is also possible for multiple people to collaborate on the same branch. The first person to create the branch simply does <tt>git push origin branchName</tt>. People who subsequently want to collaborate on that branch must do "git fetch origin branchName</tt> so that their local repository gets that branch, and subsequently they can work on it in the same way as the person who created the branch.
 
 # Understand what happens to stages and commits when switching between branches
 #* 
