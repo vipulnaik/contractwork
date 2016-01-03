@@ -1,0 +1,1 @@
+A place for initial drafts of articles I publish elsewhere on the Internet (often in places I don't control).
