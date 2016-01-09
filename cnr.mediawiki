@@ -1,0 +1,75 @@
+'''Consular nonreviewability''' (sometimes written as '''consular non-reviewability''', and also called '''consular absolutism''') refers to the doctrine in immigration law in the United States where the visa decisions made by United States consular officers (who work for the [[United States Department of State]]) cannot be appealed in the United States judicial system. It is closely related to the [[plenary power]] doctrine that immunizes from judicial review the substantive immigration decisions of the [[United States Congress]] and the executive branch of the United States government.<ref name=scotus>{{cite web|url=http://www.scotusblog.com/2015/02/argument-preview-the-doctrine-of-consular-non-reviewability-historical-relic-or-good-law/|title = Argument preview: The doctrine of consular non-reviewability – historical relic or good law?|last = Johnson|first = Kevin|date = February 18, 2015|accessdate = September 29, 2015|publisher = SCOTUSblog}}</ref><ref name=dobkin>{{cite web|url = https://www.law.yale.edu/system/files/area/conference/ilroundtable/ILR13_DIDonaldDobkinChallengingtheDoctrine.pdf|title = Challenging the Doctrine of Consular Non-Reviewability in Immigration Cases|last = Dobkin|first = Donald|accessdate = January 8, 2016}}</ref>
+
+== Distinction between USCIS decisions and Department of State decisions ==
+
+Consular nonreviewability specifically applies to decisions made by consular officers representing the United States in other countries, who are employees of the [[United States Department of State]]. It does not apply to decisions made by [[United States Citizenship and Immigration Services]].<ref name=shusterman>{{cite web|url = http://shusterman.com/supreme-court-consular-nonreviewability-kerry-v-din/|title = Supreme Court and Consular Non-Reviewability: Kerry v. Din|last = Shusterman|first = Carl|accessdate = January 7, 2015}}</ref> USCIS decisions can in principle be appealed in court, though the [[plenary power]] doctrine still applies, so that the USCIS gets a lot of deference.<ref name=shusterman/>
+
+For many immigrant and non-immigrant visas, the approval of a petition or application from the USCIS is a prerequisite for obtaining the visa. However, the visa may be denied despite the USCIS application having been approved, and consular non-reviewability insulates such decisions from challenge.<ref name=dobkin/> For instance, in the case of ''[[Kerry v. Din]]'' (2015) the applicant whose visa was denied had gotten USCIS approval through a [[Form I-130]] filed by his wife, but his visa was nonetheless denied and the United States government claimed that detailed explanation of the reason of denial was not necessary.<ref name=shusterman/>
+
+== Review and reconsideration within the Department of State ==
+
+Consular nonreviewability does not mean that the Department of State cannot reconsider its immigration decisions. There are a number of avenues for redress within the Department of State for somebody whose visa is denied. 
+
+=== Re-application and submission of additional information ===
+
+These include:<ref name=lawandborder>{{cite web|url = http://lawandborder.com/options-after-a-consular-officer-denies-your-visa-application/|title = Options after a Consular Officer Denies Your U.S. Visa Application|accessdate = October 22, 2015|publisher = U.S. & China Visa Law Blog|last = Chodorow|first = Gary}}</ref>
+
+* '''Section 214(b) refusals''': These are refusals for non-immigrant visas where the consular officer is unconvinced of the applicant's non-immigrant intent. This ground of refusal cannot be appealed, but the applicant is free to apply again for a visa (paying the visa fee again). Past refusals are on the record and the applicant is therefore in principle expected to show a change in circumstances to explain why he/she would now qualify for a visa. However, since different consular officers make decisions based on their own discretion the applicant may well qualify when applying the second time despite no change to circumstances.
+* '''Section 221(g) refusals''': These "quasi-refusals" mean that the consular officer has deferred a final decision on the applicant, and will complete the decision once additional information from the applicant or the United States goverment becomes available. If the pending information needs to come from the applicant, there is a time limit of one year, if the applicant exceeds the time limit, after which the applicant needs to re-apply. If the pending information needs to come from the United States government, there is no time limit. The various grounds for such quasi-refusals:
+** Suspension of Action on Petition
+** Addition evidence is required
+** Withdrawal of application (while it is pending adjudication)
+
+=== Supervisorial review ===
+
+The [[Code of Federal Regulations]] states that all non-immigrant visa denials should be reviewed by a supervisor. However, the Foreign Affairs Manual states that as many refusals as practical, but not more than 20%, should be reviewed, as soon as possible, but deferrable by up to 120 days if the applicant wishes to submit additional evidence. For immigrant visa applications, the review must take place as soon as administratively feasible (but within 30 days) unless the applicant wishes to submit additional evidence (in which case there is no time limit). Supervisorial review of 214(b) refusals (failure to establish non-immigrant intent) require the supervisor to re-interview the applicant.<ref name=lawandborder/>
+
+=== It may be possible to appeal a decision within a consulate ===
+
+In some limited circumstances, the decisions of consular officers may be appealed within the consulate. However, there are no procedural guarantees of this.
+
+== Scope and exceptions ==
+
+A few exceptions to the doctrine of consular nonreviewability have emerged over the years:
+
+# Challenges to the underlying guidelines or rules used by consulates may be contestable, if it can be shown that these guidelines do not serve the purpose they are stated to server.
+# In cases where consular officers are supposed to follow clear procedural guidelines, their failure to follow such guidelines may be contestable.
+
+Consular nonreviewability is strongest in cases where the judgments are purely discretionary, since in this case no guidelines are violated.
+== History of consular nonreviewability ==
+
+Since it almost by definition excludes judicial review, cases challenging the doctrine of consular nonreviewability are heard quite rarely in court. However, since its establishment in 1950, the doctrine has evolved somewhat in response to court challenges.
+
+=== Prior precedents ===
+
+Although these cases predate the formal recognition of the concept of consular nonreviewability, they have been cited as important precedents for the court cases that have affirmed the doctrine.<ref name=dobkin/>
+
+* ''[[Chae Chan Ping v. United States]]'' (1889): In this case, a Chinese-born United States resident was denied re-entry to the United States after a trip to China, in accordance with the [[Scott Act (1888)|Scott Act]]. He filed a lawsuit against the United States government, and lost. In its decision, the Supreme Court wrote that the power to exclude foreigners rested with the executive branch of the government, and any international grievances arising from this were the province of the political department of the government.
+* ''London v. Phelps'' (1927)
+* ''Ulrich v. Kellogg'' 
+
+=== ''Knauff v. Shaughnessy'' (1950) ===
+
+This was the landmark decision establishing the [[plenary power]] doctrine, that immunizes from judicial review the substantive immigration decisions of the [[United States Congress]] and the executive branch of the United States government According to the ''Knauff'' court, "whatever the procedure authorized by Congress, it is due process as far as an alien denied entry is concerned."<ref name=scotus/><ref name=dobkin>{{cite web|title = Challenging the Doctrine of Consular Non-reviewability in Immigration Cases|last = Dobkin|first = Donald|date = November 1, 2009|accessdate = September 29, 2015}}</ref>
+
+In this case, Shaughnessy, the alien wife of a citizen who had served for the United States in [[World War II]] sought admission to the United States (and would ordinarily have been eligible based on the [[War Brides Act]]), but was denied admission by the United States based on confidential information. The Attorney General denied a hearing, arguing that a hearing would reveal sensitive information that would be detrimental to the interests of the United States. The Supreme Court upheld the Attorney General's decision, clarifying that the denial of entry to the alien wife was not unconstitutional, and that it is "not within the province of any court, unless expressly authorized by law, to review the determination of the political branch of Government to exclude a certain alien."<ref name=justia>{{cite web|url=https://supreme.justia.com/cases/federal/us/338/537/|title = Knauff v. Shaughnessy, 338 U.S. 537 (1950)|publisher = [[Justia]]|accessdate = September 29, 2015}}</ref>
+
+=== ''Kleindienst v. Mandel'' (1972) ===
+
+''[[Kleindienst v. Mandel]]'', 408 U.S 753 (172) was a [[United States Supreme Court]] decision that upheld that the [[United States Attorney General]] has the right to refuse somebody's entry to the [[United States]], as he has been empowered to do so in 212 (a) (28) of the [[Immigration and Nationality Act of 1952]].
+
+This action was brought to compel Attorney General Kleindienst to grant a temporary nonimmigrant visa to a [[Belgium|Belgian]] journalist and [[Marxism|Marxian]] theoretician whom the American plaintiff-appellees, [[Ernest Mandel]] et al., had invited to participate in academic conferences and discussions in the US. The alien had been found ineligible for admission under 212 (a) (28) (D) and (G) (v) of the Immigration and Nationality Act of 1952, barring those who advocate or publish "the economic, international, and governmental doctrines of world communism." Kleindienst had declined to waive ineligibility as he has the power to do under 212 (d) of the Act, basing his decision on unscheduled activities engaged in by the alien on a previous visit to the United States, when a waiver was granted.
+
+=== ''Kerry v. Din'' (2015) ===
+
+''[[Kerry v. Din]]'' (576 U.S. ___) (2015) was a [[United States Supreme Court]] decision that upheld the doctrine of consular nonreviewability. The case was filed by Fauzia Din, a United States citizen who had arrived in the country as a [[refugee]] from [[Afghanistan]] in 2000. In September 2006, she married Kanishka Berashk, a citizen of [[Afghanistan]], who had worked as a civil servant under the [[Taliban]] regime.(add official reference from Wikipedia's Kerry v. Din page)<ref name=shusterman/> Din then submitted a [[Form I-130]] petition to the [[United States Citizenship and Immigration Services]], sponsoring Berashk under the Immediate Relative category. The petition was approved by the USCIS.
+
+Berashk used the approved Form I-130 to apply for a visa to entire the United States. However, in June 2009, he was informed that his visa was denied; the stated reason for the denial was that he had provided material support to a terrorist but no further details were provided. Din filed suit in the [[United States District Court for the Northern District of California]] arguing that the government denied her due process of law by depriving her of her "constitutional right to live in the United States with her spouse." The District Court rejected her argument, but the [[Ninth Circuit Court of Appeals]] reversed. The United States appealed the reversal in the Supreme Court.
+
+The case was won by the United States, with the Supreme Court split in its opinion. [[Antonin Scalia]], [[John G. Roberts]], and [[Clarence Thomas]] wrote plurality opinions. [[Anthony Kennedy]] and [[Samuel Alito]] concurred. [[Stephen Breyer]] wrote a dissenting opinion, in which he was joined by [[Ruth Bader Ginsburg]], [[Sonia Sotomayor]], and [[Elena Kagan]]. Scalia's opinion argued that the denial of a visa did not implicate a fundamental libert interest, and that it differed from ''[[Loving v. Virginia]]'' in that the right to marriage was not being questioned. Kennedy's concurrence argued that the explanation offered by the consulate for the denial (i.e., that Berashk had provided material support to a terrorist organization) fulfilled the government's obligations, and that further details were not required in cases where the application was denied due to terrorism or national security concerns. On the other hand, Breyer's dissent argued that forbidding people from living together did effectively impede the right to marry, and that the level of explanation offered for the denial was inadequate, similar to "telling a criminal defendant that he is accused of breaking the law."
+
+
+== References ==
+
+{{reflist}}
+

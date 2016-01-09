@@ -1,0 +1,30 @@
+==== Paper filing ====
+
+Anybody who can file Form 1040 (regardless of whether they need to) is allowed to file on paper.
+
+Form 1040, along with its variants, schedules, and instructions, can be downloaded as [[Portable Document Format|PDF]]s from the [[Internal Revenue Service]] website. Finalized versions of the forms for the tax year (which in the US is the same as the calendar year) are released near the end of January of the following year.
+
+Paper forms can be filled and saved electronically using a compatible PDF reader such as [[Adobe Acrobat Reader]], and then printed. This way, it is easy to keep electronic copies of one's filled forms despite filing by paper. Alternatively, they can be printed out and filled by hand. A combination of the approaches may also be used, with some content filled in electronically and additional content written in by hand. As a general rule, where possible, it makes sense to fill electronically, but in some cases filling by hand may be necessary (for instance, if additional notes of explanation need to be added, or the font used for electronic filling is too large to fit the information in the space provided.
+
+The only parts of the form that cannot be filled electronically are in the signature lines. These include the signature, date, and phone number.
+
+Put the "If filed by paper ..."
+
+==== Electronic filing ====
+
+==== Comparison ====
+
+==== Signature requirement =====
+
+As a general rule, other forms and schedules attached with Form 1040 do not need to be signed by the taxpayer. Note that some of these forms may have a signature requirement if they were being filed in isolation, but none when being filed with Form 1040. 
+
+== Release cycle ==
+
+Form 1040, as well as its variants (1040A and 1040EZ) are updated annually. The following is the typical cycle for releasing updates:
+
+* The [[rate schedule (federal income tax)|rate schedule]] is generally released around September of the year ''before'' the relevant tax year (which in the United States coincides with the calendar year). For instance, for the 2015 tax year, the rate schedule was released in September 2014. This gives people a chance to incorporate tax levels into their financial planning for the year. Note that the rate schedule is only a small part of the tax code, and a lot of the fine print of the tax code for the tax year is not determined at this stage.(insert ref)
+* At the end of December, tentatively final drafts of Form 1040, its variants, and its instructions bookklet, are released. This is purely for informational purposes, and people are not supposed to file using this form.<ref name=drafts>{{cite web|url = https://apps.irs.gov/app/picklist/list/draftTaxForms.html|title = Draft Tax Forms|publisher = [[Internal Revenue Service]]|accessdate = January 4, 2016}}</ref>
+* Toward the end of January of the ''next'' year, the finalized version of Form 1040 is released. The filled-in forms are officially due by April 15, so taxpayers who intend to file on time have 2.5-3 months to fill in the forms after their official release.
+
+
+Official versions of tax forms for previous years (i.e., years before the tax year that is the preceding calendar year) can be accessed in a separate section of the IRS website.<ref>{{cite web|url = http://apps.irs.gov/app/picklist/list/priorFormPublication.html|title = Prior Year Products|publisher = [[Internal Revenue Service]]|accessdate = January 4, 2016}}</ref> The Forms do allow taxpayers to specify a different tax year than the one officially printed on the form; however, when filing for a different complete tax year, it is preferable to download the tax form for that year rather than download the form for the current year and change the date. This is because both the form and the underlying tax law change every year.
