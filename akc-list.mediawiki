@@ -1,0 +1,104 @@
+List of bounty offers for Alex K. Chen.
+
+For each, there is a "start by" date and a "finish by" date. The start
+by date is to encourage a reasonable starting time and reduce the risk
+of substantial conflict in our ideas of what exactly the page should
+contain.
+
+Wherever it says "(to be determined)" that means a candidate hasn't
+yet been decided for the week. AKC is free to propose candidates from
+within the long list below, or even some other candidate, by the Tuesday before the deadline.
+
+At the end of each Monday, AKC should have completed a total of at
+least (number of weeks so far - 4) bounties. The "-4" is to account
+for the fact that AKC expected January off.
+
+AKC can do multiple bounties a week, thereby building a surplus of
+bounties completed, allowing him to take more time off later in the
+year.
+
+
+* Start by January 8, finish by January 11: Timeline of online food delivery
+* Start by January 15, finish by January 18: (to be determined by Tuesday January 12)
+* Start by January 22, finish by January 25: (to be determined by Tuesday January 19)
+* Start by January 29, finish by February 1: (to be determined by Tuesday January 26)
+
+(more weeks, months to be added).
+
+== Timeline pages ==
+
+In general, for timeline pages, we expect about 1-5% of the pageviews
+that we see for the corresponding page whose timeline page it is.
+
+=== Technology ===
+
+* Timeline of Amazon.com: The Amazon.com page gets 200K views a month,
+  so we should expect 2K-10K pageviews per month. (Note that there is
+  a lot of history on the main Amazon.com page, which should probably
+  go in a separate History of Amazon.com page, but that's a separate
+  thing you may want to do independently and I'm not attaching a
+  bounty to that).
+
+  Proposed bounty amount: $250 for a fairly comprehensive timeline
+  page, less based on how much you cover.
+
+* Timeline of Intel: The Intel page gets about 65K views a month, so
+  we should expect 600-2500 pageviews per month.
+
+  Proposed bounty amount: $150 for a fairly comprehensive timeline
+  page, less based on how much you cover.
+
+* Timeline of Microsoft: There is already a page on the history of
+  Microsoft, but it would be interesting to do a timeline version
+  thereof (which will have substantial overlap but still be structured
+  differently and should add some value).
+
+  Proposed bounty amount: $125 for a fairly comprehensive timeline
+  that nonetheless adds value over and above the history page (and
+  therefore survives deletion).
+
+* Timeline of Instagram: The Instagram page gets 150K views a month,
+  so we should expect 1.5-7.5K pageviews per month.
+
+  Proposed bounty amount: $100
+
+* Timeline of LinkedIn: The LinkedIn page gets 70K views a month, so
+  we should expect 700-3500 pageviews per month.
+
+  Proposed bounty amount: $75
+
+* Timeline of Xiaomi: The Xiaomi page gets 40K views a month, so we
+  should expect 400-2000 pageviews per month.
+  
+  Proposed bounty amount: $75
+
+* Timeline of GitHub: The GitHub page gets 40K views a month, so we
+  should expect 400-2000 pageviews per month.
+
+  Proposed bounty amount: $50
+
+=== Clothing retail ===
+
+In addition to bounties below, extra $25 bounty for first clothing
+retail page, as a reward for expanding your capability set.
+
+* Timeline of Nordstrom: Nordstrom gets about 18K a month.
+
+  Proposed bounty: $50
+
+* Timeline of Forever 21: Forever 21 gets about 12K a month.
+
+  Proposed bounty: $40
+
+* Timeline of Saks Fifth Avenue: Saks Fifth Avenue gets about 10K a month.
+  
+  Proposed bounty: $35
+
+
+== Philanthropy pages ==
+
+* Open Philanthropy Project: Won't get many pageviews but of strategic
+  importance.
+
+  Proposed bounty amount: $100, can be done any time but should have
+  substantive new content.
