@@ -51,11 +51,9 @@ that we see for the corresponding page whose timeline page it is.
 In addition to bounties below, extra $25 bounty for first clothing
 retail page, as a reward for expanding your capability set.
 
-* Timeline of Nordstrom: Nordstrom gets about 18K a month.
- Proposed bounty: $50
+* Timeline of Nordstrom: Nordstrom gets about 18K a month. Proposed bounty: $50
 
-* Timeline of Forever 21: Forever 21 gets about 12K a month.
- Proposed bounty: $40
+* Timeline of Forever 21: Forever 21 gets about 12K a month. Proposed bounty: $40
 
 * Timeline of Saks Fifth Avenue: Saks Fifth Avenue gets about 10K a month.  Proposed bounty: $35
 
