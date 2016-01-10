@@ -4,7 +4,7 @@
 
 Consular nonreviewability specifically applies to decisions made by consular officers representing the United States in other countries, who are employees of the [[United States Department of State]]. It does not apply to decisions made by [[United States Citizenship and Immigration Services]].<ref name=shusterman>{{cite web|url = http://shusterman.com/supreme-court-consular-nonreviewability-kerry-v-din/|title = Supreme Court and Consular Non-Reviewability: Kerry v. Din|last = Shusterman|first = Carl|accessdate = January 7, 2015}}</ref> USCIS decisions can in principle be appealed in court, though the [[plenary power]] doctrine still applies, so that the USCIS gets a lot of deference.<ref name=shusterman/>
 
-For many immigrant and non-immigrant visas, the approval of a petition or application from the USCIS is a prerequisite for obtaining the visa. However, the visa may be denied despite the USCIS application having been approved, and consular non-reviewability insulates such decisions from challenge.<ref name=dobkin/> For instance, in the case of ''[[Kerry v. Din]]'' (2015) the applicant whose visa was denied had gotten USCIS approval through a [[Form I-130]] filed by his wife, but his visa was nonetheless denied and the United States government claimed that detailed explanation of the reason of denial was not necessary.<ref name=shusterman/>
+For many immigrant and non-immigrant visas, the approval of a petition or application from the USCIS is a prerequisite for obtaining the visa. However, the visa may be denied despite the USCIS application having been approved, and consular nonreviewability insulates such decisions from challenge.<ref name=dobkin/> For instance, in the case of ''[[Kerry v. Din]]'' (2015) the applicant whose visa was denied had gotten USCIS approval through a [[Form I-130]] filed by his wife, but his visa was nonetheless denied and the United States government claimed that detailed explanation of the reason of denial was not necessary.<ref name=shusterman/>
 
 == Review and reconsideration within the Department of State ==
 
@@ -30,13 +30,14 @@ In some limited circumstances, the decisions of consular officers may be appeale
 
 == Scope and exceptions ==
 
-A few exceptions to the doctrine of consular nonreviewability have emerged over the years:
+A few exceptions to the doctrine of consular nonreviewability have emerged over the years:<ref name=dobkin/>
 
-# Challenges to the underlying guidelines or rules used by consulates may be contestable, if it can be shown that these guidelines do not serve the purpose they are stated to server.
-# In cases where consular officers are supposed to follow clear procedural guidelines, their failure to follow such guidelines may be contestable.
+# The ''Mandel'' test, namely, that the consulate did not provide a "facially legitimate and bona fide" reason for the rejection, and it might infringe on the constitutional rights of United States citizens.
+# In cases where a consular officer rejects the application based on an underlying statute or regulation, it may sometimes be appealed on these two grounds:
+#* Claims that the underlying statute or regulation being applied is unconstitutional
+#* Claims that the consular officer made a procedural error in applying the statute.
 
-Consular nonreviewability is strongest in cases where the judgments are purely discretionary, since in this case no guidelines are violated.
-== History of consular nonreviewability ==
+== History ==
 
 Since it almost by definition excludes judicial review, cases challenging the doctrine of consular nonreviewability are heard quite rarely in court. However, since its establishment in 1950, the doctrine has evolved somewhat in response to court challenges.
 
