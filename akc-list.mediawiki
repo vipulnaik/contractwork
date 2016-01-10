@@ -7,9 +7,10 @@ contain.
 
 Wherever it says "(to be determined)" that means a candidate hasn't
 yet been decided for the week. AKC is free to propose candidates from
-within the long list below, or even some other candidate, by the Tuesday before the deadline.
+within the long list below, or even some other candidate, by the
+Tuesday before the deadline.
 
-At the end of each Monday, AKC should have completed a total of at
+At the end of each Sunday, AKC should have completed a total of at
 least (number of weeks so far - 4) bounties. The "-4" is to account
 for the fact that AKC expected January off.
 
@@ -18,10 +19,10 @@ bounties completed, allowing him to take more time off later in the
 year.
 
 
-* Start by January 8, finish by January 11: Timeline of online food delivery
-* Start by January 15, finish by January 18: (to be determined by Tuesday January 12)
-* Start by January 22, finish by January 25: (to be determined by Tuesday January 19)
-* Start by January 29, finish by February 1: (to be determined by Tuesday January 26)
+* Start by January 8, finish by January 10: Timeline of online food delivery
+* Start by January 15, finish by January 17: (to be determined by Tuesday January 12)
+* Start by January 22, finish by January 24: (to be determined by Tuesday January 19)
+* Start by January 29, finish by January 31: (to be determined by Tuesday January 26)
 
 (more weeks, months to be added).
 
