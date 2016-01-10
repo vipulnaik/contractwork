@@ -15,7 +15,7 @@ that.
 At the end of each Sunday, AKC should have completed a total of at
 least (number of weeks so far - 4) bounties. The "-4" is to account
 for the fact that AKC expected January off. The "number of weeks so
-far" is measured starting January 2, i.e., the end of January 10 marks
+far" is measured starting January 4, i.e., the end of January 10 marks
 the end of the first week.
 
 AKC can do multiple bounties a week, thereby building a surplus of
