@@ -30,6 +30,11 @@ year.
 
 (more weeks, months to be added).
 
+== Completed pages ==
+
+* Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
+* Timeline of Amazon.com: $250
+
 == Timeline pages ==
 
 In general, for timeline pages, we expect about 1-5% of the pageviews
@@ -37,7 +42,6 @@ that we see for the corresponding page whose timeline page it is.
 
 === Technology ===
 
-* Timeline of Amazon.com: The Amazon.com page gets 200K views a month, so we should expect 2K-10K pageviews per month. (Note that there is a lot of history on the main Amazon.com page, which should probably go in a separate History of Amazon.com page, but that's a separate thing you may want to do independently and I'm not attaching a bounty to that). Proposed bounty amount: $250 for a fairly comprehensive timeline page, less based on how much you cover.
 
 * Timeline of Intel: The Intel page gets about 65K views a month, so we should expect 600-2500 pageviews per month. Proposed bounty amount: $150 for a fairly comprehensive timeline page, less based on how much you cover.
 

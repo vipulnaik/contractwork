@@ -1,0 +1,58 @@
+A '''Request For Evidence''' ('''RFE'''), is a request issued by the [[United States Citizenship and Immigration Services]] to petitioners for residency, citizenship, family visas, and employment visas. Examples of petitions for which a RFE may be issued are [[Form I-129]] (alien worker authorization), Form I-140 (immigrant worker authorization), and [[Form I-130]] (family visas).<ref name=2005-memo/><ref name=2013-memo/><ref name=nolo>{{cite web|url = http://www.nolo.com/legal-encyclopedia/how-handle-request-evidence-rfe-from-uscis.html|title = How to Handle a Request for Evidence (RFE) From USCIS. RFEs can cause anxiety and worry for immigration applicants. Learn how to act swiftly in responding to an RFE.|last = Gasson|first = Kristina|publisher = [[NOLO]]|accessdate = January 16, 2016}}</ref>
+
+== Situations where it is used ==
+
+The RFE is intended for use in cases where the adjudicator (the person evaluating the petition) believes that there is not enough to approve the petition, but also believes that the petition may be redeemable, and that there is no clear factual or statutory basis for denial.<ref name=2013-memo>{{cite web|url = http://www.uscis.gov/sites/default/files/USCIS/Laws/Memoranda/2013/June%202013/Requests%20for%20Evidence%20%28Final%29.pdf|title = Policy Memorandum|date = June 3, 2013|accessdate = January 16, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+
+The RFE, when used, should be as clear as possible about what types of additional evidence are needed to fill in the gap, and what inconsistencies or problems have been found in the evidence submitted so far. It is not intended for use for the adjudicator's reassurance in cases where there is enough evidence to approve the petition.<ref name=2005-memo>{{cite web|url = http://www.uscis.gov/sites/default/files/USCIS/Laws/Memoranda/Static_Files_Memoranda/Archives%201998-2008/2005/rfe021605.pdf|title = Interoffice Memorandum|publisher = [[United States Citizenship and Immigration Services]]|date = February 16, 2005|accessdate = Janaury 16, 2016}}</ref>
+
+== Related communications ==
+
+=== Differences with RFE ===
+
+The following are some key differences between the RFE and NOID:<ref name=nolo/><ref name=2005-memo/><ref name=2013-memo/>
+
+* ''Likelihood of denial'': The RFE is issued when there is significant uncertainty about whether the petition will be approved, whereas the NOID is generally used when a denial is quite likely.
+* ''Accompanying information'': A RFE comes with a list of additional types of evidence needed. A NOID comes equipped with a list of reasons for denial. While the two lists are somewhat related (insofar as a reason for denial translates to a piece of evidence that could overturn the denial) they have different framings.
+* ''Time given to respond'': The time given to respond to a RFE is generally greater than that for a NOID.
+
+=== Request for clarification ===
+
+In cases where the USCIS simply needs answers to a few specific questions (such as a complete translation), it simply issues a Request for Clarification instead of a RFE.<ref name=2005-memo/>
+
+== Tips for avoiding RFEs ==
+
+Submitting clear and complete documentation in the petition itself can minimize the need for RFEs. The USCIS website offers the following tips to avoid RFEs:<ref>{{cite web|url = https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/general-tips-evidence|title = General Tips for Evidence|publisher = [[United States Citizenship and Immigration Services]]|date = March 3, 2015|accessdate = January 16, 2016}}</ref>
+
+* '''Inconsistencies in documents''' should be explained and evidence to reconcile the incosistencies should be included.
+* '''Unavailability of documents''' should be explained with clear evidence.
+* '''Probative value''': Some kinds of documents are considered more authoritative and have more probative value. For instance, income tax returns have more probaative value than letters from family or friends.
+* '''Incomplete translations''' should be avoided. Any documents being submitted in a language other than English must be translated in their entirety.
+
+== Types of evidence requested ==
+
+RFEs typically request one or more of the following types of evidence:
+* ability of employer to pay
+* periods of current or prior stay in the United States
+* prior work experience
+* educational details or evaluation
+* documents supporting claims of exceptional ability or outstanding research
+
+== Response protocol ==
+
+The time within which the response to a RFE must be sent is indicated on the RFE. It generally varies between 30 and 90 days. If no response is received within the time indicated on the RFE, the USCIS will process the application without considering the additional evidence, which in most cases means a denial (because petitions where there was enough evidence to accept should not have RFEs in the first place).<ref name=nolo/>
+
+The petitioner has only one chance to respond to a RFE. There are four possible responses:<ref name=nolo/>
+
+* The petitioner can submit all the requested evidence.
+* The petitioner can "partially respond" by submitting some of the requested evidence. The USCIS will use the partial submission along with the earlier submission to evaluate the petition.
+* The petitioner can choose not to respond, so a final decision will be based on the original petition. This usually means a denial.
+* You can withdraw your application.
+
+When responding to a RFE, the petitioner may attach additional pieces of evidence over and above those explicitly requested in the RFE.
+
+== Relation with processing timeline ==
+
+The expected processing time for petitions is generally defined as the time till an approval, denial, RFE, or NOID is issued. Therefore, the time taken while waiting for a response from the petitioner is not counted as part of the processing time. After the petitioner responds, the expected additional processing time is comparable with the processing time for a complete first application.
+
+For petitions that request the [[Premium Processing Service]], the expected processing time to a first response (approval, denial, RFE, or NOID) is 15 days, and the time after receiving a response to the RFE is another 15 days.<ref name=uscis-premium-processing>{{cite web|url=http://www.uscis.gov/forms/how-do-i-use-premium-processing-service|title = How Do I Use the Premium Processing Service?|publisher = [[United States Citizenship and Immigration Services]]|accessdate = April 4, 2015}}</ref>

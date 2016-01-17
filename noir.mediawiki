@@ -1,0 +1,41 @@
+A '''Notice of Intent to Revoke''' ('''NOIR''') is a communication sent by the [[United States Citizenship and Immigration Services]] to a petitioner about a previously approved petition, telling him or her that the USCIS intends to revoke the petition, along with the reasons for revocation, and giving the petitioner a fixed amount of time to respond.<ref name=uscis>{{cite web|url = https://www.uscis.gov/unassigned/immigrant-visa-petitions-returned-state-department-consular-offices|title = Immigrant Visa Petitions Returned by the State Department Consular Offices|publisher = [[United States Citizenship and Immigration Services]]|accessdate = January 17, 2016}}</ref> NOIRs may be issued for immigrant visa petitions ([[Form I-130]] and [[Form I-140]])<ref name=uscis/> and for non-immigrant visa petitions ([[Form I-129]] and [[Form I-129F]]).<ref name=lawandborder-consular/>
+
+== Response protocol ==
+
+The NOIR is sent to, and the response must be sent by, the petitioner (or an attorney representing the petitioner, if the petitioner is using an attorney) rather than the beneficiary. A copy may be sent to the beneficiary for information.
+
+If the petitioner responds within the specified time, then the petitioner's response is considered when making a final decision on whether to revoke the petition. Otherwise, the petition is revoked once the specified time is over. An extension may be granted at the discretion of USCIS if the petitioner needs additional time to obtain documentation from abroad or for other meritorious reasons; however, the petitioner ''must'' respond in a timely manner to the NOIR by the stated deadline, and provide a reason for requesting the extra time.<ref name=uscis/>
+
+== Steps ==
+
+=== The petition is returned for revocation/revalidation (usually by a consular officer) ===
+
+The NOIR is generally issued when new evidence is presented to the USCIS suggesting that the petition was approved in error (i.e., it should not have been approved) ''or'' there has been a change in circumstances making the petition no longer approvable. The most common impetus for issuing a NOIR is that a consular officer (an employee of the [[United States Department of State]]) evaluating the beneficiary's visa application based on an approved petition comes across evidence suggesting that the petition should not have been approved, or is no longer approvable.<ref name=uscis/> The consular officer issues a Section 221(g) quasi-refusal to the visa applicant, and returns the petition to USCIS for revocation/revalidation.<ref name=uscis/> Petitions relating to non-immigrant visas (such as [[Form I-129]] and [[Form I-129F]]) are returned to the Kentucky Service Center whereas petitions related to immigrant visas (such as [[Form I-130]] and [[Form I-140]]) are returned to the [[National Visa Center]].<ref name=lawandborder-consular/>
+
+=== The USCIS updates the case status ===
+
+A USCIS case officer is assigned the task of re-adjudicating the petition. Information about the petition is updated in the USCIS system so that it is reflected in the Case Status Online as well as available to the [[National Customer Service Center]]. The petitioner is also notified of the petition being returned.<ref name=lawandborder-consular/><ref name=dhs-recommendations/>
+
+=== After an initial re-adjudication, the USCIS revalidates the petition, issues a NOIR, or issues a Notice of Automatic Revocation ===
+
+After re-adjudicating the petition, the USCIS may either refuse to take any revocation action, issue a NOIR, or issue a Notice of Automatic Revocation.<ref name=uscis/><ref name=lawandborder-consular>{{cite web|url = http://lawandborder.com/update-consular-recommendations-to-revoke-visa-petitions/|title = Update: Consular Recommendations to Revoke Visa Petitions|publisher = U.S. & China Visa Law Blog|last = Chodorow|first = Gary|date = July 17, 2008|accessdate = January 16, 2016}}</ref><ref name=dhs-recommendations>{{cite web|url = https://www.dhs.gov/xlibrary/assets/cisomb_Recommendation33_aug_24_07.pdf|title = Recommendations on the Processing of Petitions that are Returned by the U.S. Department of State for Revocation/Revalidation|date = August 24, 2007|accessdate = January 16, 2016}}</ref> If the USCIS revalidates the petition (either directly, or after receiving additional information from the petitioner in response to the NOID), then the same visa application can be resumed with the new information.
+
+== Processing timeline and uncertainty ==
+
+In 2007, Prakash Khatri, the USCIS ombudsman, sought comments from petitioners and beneficiaries on how to improve the system surrounding consular returns of petitions. The chief complaint by petitioners and beneficiaries was the lack of transparency about what was going on between the time the consular officer returned the petition to the USCIS and the USCIS issuing a NOIR, and this uncertainty often led to the filing of multiple duplicate petitions, thereby increasing costs for petitioners and creating an unnecessary caseload for the USCIS. The following recommendations were made:<ref name=dhs-recommendations/><ref name=lawandborder-consular/>
+
+* Issue receipt notices to customers when the petition file is returned and received by USCIS Service Centers: The USCIS agreed to this recommendation, and also promised to update the Case Status Online and the [[National Customer Service Center]] to reflect the information.
+* Establish a nationwide standard for the re-adjudication of petitions returned by consular offices for revocation or revalidation and amends the Operating Instructions/Adjudicator's Field Manual accordingly; include a "REVOCATION" entry in the processing time reports: The USCIS declined to do this, stating that processing times for returned petitions varied widely because of the possibility of a lengthy fraud investigation.
+* Provide additional information about revocation or revalidation processes on the USCIS website: USCIS agreed to do so but did not immediately make changes to the website.
+
+== Relationship with RFE and NOID ==
+
+There are two other kinds of communication that the USCIS uses for petitions: the [[Request For Evidence]] (RFE) and the [[Notice of Intent to Deny]] (NOID). The RFE and NOID differ from the NOIR in one important respect: the RFE and NOID are used for petitions still being adjudicated (i.e., ones that have not yet been approved) whereas the NOIR is used for petitions that have been approved.
+
+In particular, even after the NOIR is issued, the corresponding petition is still considered approved and a beneficiary who is in the United States in a status based on that petition is still considered to be in legal status. It is only after the final revocation that the petitioner's status is in jeopardy.
+
+Another difference between NOIRs and the other two is that there are no standard processing timelines for how much time it should take between receiving a returned petition and issuing a NOIR, but there are guidelines on standard processing times for the "initial review" that should end in approval, denial, RFE, or NOID.<ref name=lawandborder-consular/><ref name=dhs-recommendations/>
+
+== References ==
+
+{{reflist}}
