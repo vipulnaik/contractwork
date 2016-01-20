@@ -10,7 +10,7 @@ This is my first annual review blog post. I previously did month-in-review posts
 
 <em>For background information, see my <a href="/wikipedia">site page about Wikipedia</a></em>
 
-In 2015, the pages I created fell into a few domains:
+In 2015, the <a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Vipul%20Naik%20in%202015&language=en&year=2015">pages I created</a> were largely in a few domains:
 
 <ul>
 	<li><a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Vipul%20Naik%20about%20United%20States%20migration%20forms&language=en&year=2015">Migration history</a>: <a href="http://en.wikipedia.org/wiki/Chae_Chan_Ping_v._United_States">Chae Chan Ping v. United States</a>, <a href="http://en.wikipedia.org/wiki/Angell_Treaty_of_1880">Angell Treaty of 1880</a>, <a href="http://en.wikipedia.org/wiki/Chy_Lung_v._Freeman">Chy Lung v. Freeman</a>, and <a href="http://en.wikipedia.org/wiki/Chinese_Confession_Program">Chinese Confession Program</a>.</li>
@@ -20,11 +20,18 @@ In 2015, the pages I created fell into a few domains:
 	<li>Other migration-related pages: <a href="http://en.wikipedia.org/wiki/H-1B1_visa">H-1B1 visa</a>, <a href="http://en.wikipedia.org/wiki/Targeted_Employment_Area">Targeted Employment Area</a>, <a href="http://en.wikipedia.org/wiki/Catch_and_release_(U.S._immigration_policy)">Catch and release (U.S. immigration policy).</li>
 	<li>Pages related to various aspects of government: <a href="http://en.wikipedia.org/wiki/Traveler_Redress_Inquiry_Program">Traveler Redress Inquiry Program</a>, <a href="http://en.wikipedia.org/wiki/Analytics.usa.gov">Analytics.usa.gov</a>.</li>
 	<li>Pages related to nonprofits and altruism: <a href="http://en.wikipedia.org/wiki/Animal_Charity_Evaluators">Animal Charity Evaluators</a>, <a href="http://en.wikipedia.org/wiki/Nonprofit_Marketplace_Initiative">Nonprofit Marketplace Initiative</a>, and <a href="http://en.wikipedia.org/wiki/Niskanen_Center">Niskanen Center</a>.</li>
+	<li><a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Vipul%20Naik%20about%20technology%20companies&language=en&year=2015">Technology companies</a>: <a href="http://en.wikipedia.org/wiki/AirPair">AirPair</a>, <a href="http://en.wikipedia.org/wiki/Chartbeat">Chartbeat</a>, <a href="http://en.wikipedia.org/wiki/Gusto_(software)">Gusto</a>, and <a href="http://en.wikipedia.org/wiki/Zenefits">Zenefits</a>.</li>
 </ul>
 
-2015 was a slow year for Wikipedia editing for me, compared to the peak of 2014, but it was still higher than 2013 and significantly above previous years. Pages I created in 2015 got 283,445 views in 2015, with a monthly run rate of about 37,000 (note that the annual total is less than the monthly run rate since many pages were created near the end of the year). Pages I created over my lifetime got a total of 1,983,596 views, up from 1,118,970 last year. Most of the increase is attributable to pages created in 2014 (that now had a full year rather than only the partial year they got in 2014) and 2015 (that didn't even exist in 2014). The monthly pageview count is currently in the 175,000-200,000 range, which means that in 2016, I expect between 2.1 million and 2.4 million views for pages I have already created; I don't expect the new pages I create in 2016 to significantly affect the estimate.
+The above isn't a comprehensive list of pages I created, but it should give a flavor of the key themes.
 
-<em>Content plans for 2016:</em> I intend to only create pages related to taxes and migration. In 2015, pages I created related to migration got about 70,000 views, and I had created only a couple of pages on taxes. This will change significantly in 2016. I expect the pages about taxes to get a large number of views, and the pages about migration to get a decent but not a large number of views. My reason for focusing on these is independent interest in understanding the topics, and the difficulty of outsourcing this work given its complexity.
+Starting April 2015, I started <a href="/sponsored-wikipedia-editing/">sponsored Wikipedia editing by Alex K. Chen</a>. Some of the pages I had been considering creating myself I therefore paid him to create. Some examples of these pages include <a href="http://en.wikipedia.org/wiki/Timeline_of_Uber">timeline of Uber</a>, <a href="http://en.wikipedia.org/wiki/Timeline_of_Reddit">timeline of Reddit</a>, and <a href="http://en.wikipedia.org/wiki/Timeline_of_Square">timeline of Square</a>. You can see his entire contribution history <a href="http://en.wikipedia.org/wiki/Special:Contributions/Simfish">here</a>; note that not all the pages he created, even after I started paying him, were created at my behest.
+
+<em>Impact in 2015</em>: 2015 was a slow year for Wikipedia editing for me, compared to the peak of 2014, but it was still higher than 2013 and significantly above previous years. Pages I created in 2015 <a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Vipul%20Naik%20in%202015&language=en&year=2015">got 283,445 views in 2015</a>, with a monthly run rate of about 37,000 (note that the annual total is less than that obtained by extrapolating from the monthly run rate, since many pages were created after the beginning of the year). 
+
+Pages I created over my lifetime <a href="http://wikipediaviews.org/displayviewsformultipeyears.php?tag=Pages%20created%20by%20Vipul%20Naik">got a total of 1,983,596 views, up from 1,118,970 last year</a>. Most of the increase is attributable to pages created in 2014 (that now had a full year rather than only the partial year they got in 2014) and 2015 (that didn't even exist in 2014). The monthly pageview count is currently in the 175,000-200,000 range, which means that in 2016, I expect between 2.1 million and 2.4 million views for pages I have already created; I don't expect the new pages I create in 2016 to significantly affect the estimate.
+
+<em>Content plans for 2016:</em> I intend to only create pages related to taxes and migration, though it's possible I'll create a few other pages on the side while investigating specific issues. In 2015, pages I created related to migration got about 70,000 views, and I had created only a couple of pages on taxes. This will change significantly in 2016. I expect the pages about taxes to get a large number of views, and the pages about migration to get a decent but not a large number of views. My reason for focusing on these is independent interest in understanding the topics, and the difficulty of outsourcing this work given its complexity (with that said, I am experimenting with paying others to create some pages in these domains).
 
 <h4>Subject wikis</h4>
 
@@ -50,12 +57,25 @@ I started editing WikiHow in May 2015. In 2015, I significantly edited one exist
 	<li>Transportation: Significant improvements to <a href="http://www.wikihow.com/Ride-Bay-Area-Rapid-Transit-%28BART%29">Ride Bay Area Rapid Transit (BART)</a> and creation of <a href="http://www.wikihow.com/Ride-BART-from-the-East-Bay-to-San-Francisco">Ride BART from the East Bay to San Francisco</a>.</li>
 	<li>Productivity: <a href="http://www.wikihow.com/Efficiently-Work-Offline">Efficiently Work Offline</a>.</li>
 	<li>Analytics: <a href="http://www.wikihow.com/Gauge-the-Popularity-of-a-Topic-Online">Gauge the Popularity of a Topic Online</a>.</li>
-	<li>Amazon Web Services: 3 articles.</li>
+	<li>Amazon Web Services: <a href="http://www.wikihow.com/Optimize-Your-Amazon-EC2-Costs">Optimize Your Amazon EC2 Costs</a>, <a href="http://www.wikihow.com/Optimize-Your-Amazon-S3-Costs">Optimize Your Amazon S3 Costs</a>, and <a href="www.wikihow.com/Use-Amazon-EC2-Spot-Instances">Use Amazon EC2 Spot Instances</a>.</li>
 </ul>
-<h4>Other things</h4>
 
-I expect the extended weekend of Thanksgiving to be mostly work-free and therefore I hope to get some content creation work done at the time. I intend to have published, by the end of the month, one blog post for the Effective Altruism Forum and one blog post for <em>Open Borders: The Case</em>. However, I'm not very sure I'll accomplish either goal.
+<h4>Blogging</h4>
+
+I blogged in three locations in 2015:
+
+<ul>
+	<li>I wrote 17 blog posts for <em>Open Borders: The Case</em>. You can see all my blog posts for the site <a href="http://openborders.info/blog/author/vipulnaik/">here</a>. I had originally founded the site back in 2012; you can read more about my interest in the subject <a href="/openborders">here</a>. Most of this blogging was in the first three months (January to March) and in July and August, with a couple of posts in between. I haven't blogged since August 4, when my last post was published.</li>
+	<li>I wrote three blog posts (plus one post submitted on behalf of somebody else who didn't have an account at the time) on the Effective Altruism Forum. You can see all my posts <a href="http://effective-altruism.com/user/vipulnaik/submitted/">here</a> and read more about my connection with the subject <a href="http://vipulnaik.com/effective-altruism/">here</a>.</li>
+	<li>I wrote one blog post on <em>Less Wrong</em>: <a href="http://lesswrong.com/lw/lxc/the_great_decline_in_wikipedia_pageviews/">The great decline in Wikipedia pageviews (condensed version)</a>. I published the longer version on my site <a href="http://vipulnaik.com/blog/the-great-decline-in-wikipedia-pageviews-full-version/">here</a>.</li>
+</ul>
+
+<em>Plan for 2016</em>: I intend to return to blogging for <em>Open Borders: The Case</em>, probably after finishing up more of my migration-related Wikipedia pages. I'd like to return to blogging after I have a more solid understanding of many of the topics that I'll be touching on in future blog posts. I might also do one or more blog posts for the other two sites, but don't have definite plans on those fronts.
 
 <h4>Entertainment</h4>
 
-I enjoyed listening to and bought the MP3 for <a href="http://en.wikipedia.org/wiki/Love_Me_like_You_Do">Love Me like You Do</a>, sung by Ellie Goulding and used for the movie <em>Fifty Shades of Grey</em>. I also listened to <a href="http://en.wikipedia.org/wiki/Gangnam_Style">Gangnam Style</a> and the <a href="http://www.youtube.com/watch?v=wcLNteez3c4">female version featuring Hyuna and Psy</a>, which I enjoyed but not enough to buy either.
+I bought about 20 MP3 songs, ranging from standard pop music to Bollywood movie songs (total annual cost $22.78). I still maintained my Pandora subscription, but shifted more of my non-purchased-song consumption to YouTube.
+
+Similarly, I maintained my <a href="http://www.erosnow.com">Eros Now</a> subscription, but didn't use it much. I did start subscribing to <a href="http://www.viki.com">Viki</a> (a site that specializes in Korean, Chinese, Taiwanese, and Japanese dramas and has high-quality translated subtitles plus in-video comments by other watchers) for a variety of reasons, but primarily so that I could watch <a href="https://www.viki.com/tv/29411c-remember">Remember</a>.
+
+<em>Plan for 2016</em>: Pretty similar to 2015. I expect to re-evaluate my Pandora and Eros subscriptions closer to renewal, and re-evaluate my Viki subscription after <em>Remember</em> finishes airing.
