@@ -2,7 +2,7 @@
 
 Improvements to existing pages:
 
-* On Form 1099, add more discussion of filing methods for Form 1099-MISC, and include information about support by payroll software (Gusto formerly ZenPayroll, ADP, Paychex) and tax compliance software (like TurboTax).
+* On Form 1099-MISC, add more discussion of filing methods for Form 1099-MISC, and include information about support by payroll software (Gusto formerly ZenPayroll, ADP, Paychex) and tax compliance software (like TurboTax).
 
 Pay: $10
 
