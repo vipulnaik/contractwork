@@ -1,39 +1,36 @@
+== Completed pages ==
+
+Form 1040 though published on January 1, 2016 is counted in 2015.
+
+* Green Card Test: $25
+* Triplebyte (didn't publish to main, but got ready in user space): $25
+* Form 1099: $50
+* Form 1099-MISC: $100
+* Form W-9: $50
+
 == Taxes ==
 
-Improvements to existing pages:
+=== Improvements to existing pages ===
 
-* On Form 1099-MISC, add more discussion of filing methods for Form 1099-MISC, and include information about support by payroll software (Gusto formerly ZenPayroll, ADP, Paychex) and tax compliance software (like TurboTax).
+* On Form 1099-MISC, add more discussion of filing methods for Form 1099-MISC, and include information about support by payroll software (Gusto formerly ZenPayroll, ADP, Paychex) and tax compliance software (like TurboTax). Pay: $10
 
-Pay: $10
+* On Form 1040, discuss the OMB controversy: https://en.wikipedia.org/wiki/Tax_protester_administrative_arguments#The_Paperwork_Reduction_Act_.28OMB_control_number.29_argument Pay: $5
 
-* On Form 1040, discuss the OMB controversy:
+* On Form 1040, discuss the relationship with state tax returns in more detail. Pay: $5
 
-https://en.wikipedia.org/wiki/Tax_protester_administrative_arguments#The_Paperwork_Reduction_Act_.28OMB_control_number.29_argument
+* Restructure IRS tax forms page after finishing up the various pages on other forms, to make it better use the fact that there now exist pages on the individual tax forms. Page: $15
 
-Pay: $5
+=== New pages ===
 
-* On Form 1040, discuss the relationship with state tax returns in more detail.
+* Form W-2. Pay: $100 if completed by January 31
 
-Pay: $5
+* Form W-4: Pay: $25
 
-New pages:
+* Filing Information Returns Electronically (FIRE). Pay: $25
 
-* Form W-2
+* Form 1096. Pay: $25
 
-Pay: $100 if completed by January 31
+* Form 1042-S. Pay: $25
 
-* Filing Information Returns Electronically (FIRE)
+* De minimis fringe benefit(s) (decide whether to pluralize). Pay: $25
 
-Pay: $25
-
-* Form W-9
-
-Pay: $50
-
-* Form 1096
-
-Pay: $25
-
-* Form 1042-S
-
-Pay: $25
