@@ -18,7 +18,7 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 
 * On Form 1040, discuss the relationship with state tax returns in more detail. Pay: $5
 
-* Restructure IRS tax forms page after finishing up the various pages on other forms, to make it better use the fact that there now exist pages on the individual tax forms. Page: $15
+* Restructure IRS tax forms page after finishing up the various pages on other forms, to make it better use the fact that there now exist pages on the individual tax forms. Pay: $15
 
 === New pages ===
 
