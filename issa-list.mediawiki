@@ -7,6 +7,7 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Form 1099: $50
 * Form 1099-MISC: $100
 * Form W-9: $50
+* Form 1096. Pay: $25
 
 == Taxes ==
 
@@ -27,8 +28,6 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Form W-4: Pay: $25
 
 * Filing Information Returns Electronically (FIRE). Pay: $25
-
-* Form 1096. Pay: $25
 
 * Form 1042-S. Pay: $25
 
