@@ -2,9 +2,22 @@ The [[United States Citizenship and Immigration Services]] is a subdivision of t
 
 Note that these processing times do not include the processing times for [[U.S. Department of Labor]] forms (such as [[Labor Condition Application]] and [[labor certification]]) that are prerequisites for some USCIS petitions and forms, nor do they include the [[National Visa Center]] wait times for immigrant visas, the wait time for getting visas from a U.S. consulate abroad, or border wait times.
 
+== Various kinds of USCIS processing ==
+
+The USCIS offers processing time information for many different kinds of processing:<ref name=uscis-official/><ref name=aila-processing-times>{{cite web|url = http://www.aila.org/infonet/processing-time-reports|title = Processing Time Reports|publisher = [[American Immigraiton Lawyers Association]]|accessdate = January 24, 2015}}</ref>
+
+* Processing forms (applications and petitions) at its Service Centers: There are four service centers: [[California]] Service Center, [[Nebraska]] Service Center, [[Vermont]] Service Center, and [[Texas]] Service Center. All USCIS immigration forms (but not the naturalization forms) go through Service Centers.<ref name=uscis-official/>
+* Field Office processing: This is the final stage of processing for some forms that also require in-person interviews. These include [[Form I-485]], [[Form N-400]] and [[Form N-600]]. Note that when Form I-485 is filed concurrently with Form I-130, then the Form I-130 is first processed at the Service Center and then the Form I-485 is processed at the field office. The total wait time is the sum of the wait times for both forms.<ref name=uscis-official/>
+* [[National Benefits Center]] processing: Some USCIS immigration forms go through the NBC. These are Forms I-102, I-131, I-600, I-601A, I-765, I-817, I-824, and I-90.<ref name=uscis-official/>
+* Immigrant Investor Program Office (that processes Form I-526 petitions whose approval allows one to obtain an EB-5 visa).<ref name=uscis-official/>
+* International Operations Offices: These offices are used for [[Direct Consular Filing]] for some forms, notably [[Form I-130|I-130]] (most international offices), Form I-360, and Form I-730 (available only in some offices).<ref name=uscis-official/>
+* [[Administrative Appeals Office]]: This processes appeals to USCIS decisions for most USCIS forms, with the exception of [[Form I-130]] and Form I-360.<ref name=aao-processing-times>{{cite web|url=https://www.uscis.gov/about-us/directorates-and-program-offices/administrative-appeals-office-aao/aao-processing-times|title = AAO Processing Times|publisher = [[United States Citizenship and Immigration Services]]|accessdate = January 24, 2015}}</ref>
+
+People submitting USCIS petitions often need to submit forms to other United States government agencies, either as a prerequisite to the USCIS petition or after it. Examples include the [[Labor Condition Application]] and [[labor certification]] handled by the [[U.S. Department of Employer]] (necessary for some employment-based petitions) and visa applications to United States consulates based on approved petitions. The total time for the entire process could therefore be significantly greater than the time taken by USCIS processing. In addition, for immigrant visas that have numerical quotas, there is an additional wait time with the [[National Visa Center]] to get an immigrant visa number.
+
 == The USCIS processing queue ==
 
-Each form or petition the USCIS receives is put in a [[queue]] for processing once it is received by the service center or field office that will process it. The queue that a form is put in depends on two aspects:<ref name=uscis-official/>
+Each form or petition the USCIS receives is put in a [[queue]] for processing once it is received by the part of the USCIS (typically a service center or field office) that will process it. The queue that a form is put in depends on two aspects:<ref name=uscis-official/>
 
 * The service center or field office where the form is being processed.
 * The type of form (note that the form number alone does not determine the queue, because there may be many categories that use the same form number; for instance, [[Form I-129]] is used for many different kinds of temporary work authorization, and each of them has a separate queue). Note that there are separate queues for follow-up filings related to forms, such as appeals or responses to a [[Request For Evidence]], [[Notice of Intent to Deny]], or [[Notice of Intent to Revoke]].
@@ -13,6 +26,46 @@ The queue operates in a standard [[first in, first out]] fashion: a form that is
 
 The time between the date of receipt of the form by the service center or field office and the date it is reviewed is called the "processing time" of the form. Due to the way the queue operates, the processing times for forms processed close by in time will be similar. Therefore, to estimate processing times for forms that are currently being reviewed, it suffices to know the date of receipt.
 
-=== Target processing times and backlogs ===
+=== Processing time goals and backlogs ===
 
-For each form, USCIS has a target processing time. If the processing time at a given time for a particular service center and form is significantly higher than the processing time, USCIS may either increase allocation of resources within the Service Center to process that form, or (in some extreme cases) reallocate some of the caseload to a different service center.
+For each form, USCIS has a processing time goal.<ref name=uscis-official/> These target processing times are set by the USCIS Office of Performance and Quality (OPQ)<ref name=telecon/> that was established in January 2010.
+
+If, at a given time for a particular service center and form is significantly higher than the processing time, USCIS may either increase allocation of resources within the Service Center to process that form, or (in some extreme cases) reallocate some of the caseload to a different service center.
+
+Typical reasons for increased backlog include significant additional demands on USCIS resources due to the introduction of new categories of forms or an increase in usage of existing forms. For instance, in the aftermath of [[Barack Obama]]'s executive action on [[Deferred Action for Childhood Arrivals]] in June 2012, the USCIS faced increased workloads, and this was one of the factors in significantly increased wait times for [[Form I-130]] petitions.<ref name=lawandborder-processing-times/>
+
+=== Courses of action for delayed processing ===
+
+For [[Form I-765]] applications for an [[employment authorization document]], there is a promised 90-day processing time. If a Form I-765 application is close to or beyond the 90-day processing timeframe, the applicant may take the following actions:<ref name=telecon/>
+
+* Contact the USCIS [[National Customer Service Center]]
+* Submit a case inquiry using DHS Form 7001 to the Ombudsman's Office
+
+For Forms I-129 and I-140, the petitioner may use the [[Premium Processing Service]] to get an initial review within 15 calendar days. The petitioner can obtain the Premium Processing Service for an already submitted application and can in fact obtain it electronically. The 15 calendar day clock begins from the time the petitioner's Premium Processing Service application is received by the USCIS.
+
+In general, if a petition or application has not received a response even though the USCIS is showing a later date of applications currently being processed, the petitioner or applicant can raise the issue with the USCIS National Customer Service Center.
+== Reporting of processing times ==
+
+On the 15th of every month, the USCIS publishes information, for each of its processing queues (i.e., for every combination of service center/field office/other subdivision and form type) the processing time as observed 45 days ago. For instance, on January 15, 2016, the USCIS published this information for forms being processed as of November 30, 2015. The 45-day gap is to allow the USCIS to verify the data for quality.<ref name=uscis-official/><ref name=aila-processing-times/><ref name=telecon>{{cite web|url = http://www.dhs.gov/telecon-recap-application-processing-times-conversation-uscis-office-performance-and-quality|title = Telecon Recap: Application Processing Times: A Conversation with USCIS Office of Performance and Quality|accessdate = January 24, 2015|publisher = [[United States Citizenship and Immigration Services]]}}</ref> Due to the 45-day delay in reporting, the information published by USCIS may not be very helpful to applicants for some forms whose processing times fluctuate wildly.<ref name=telecon/>
+
+The USCIS reports processing times in two formats. For the categories where the USCIS is meeting its processing time goal, it simply reports the processing time goal in months. For other forms, the USCIS reports the average date of receipt for the forms being processed on the date the processing times were observed. For instance, in the data released on January 15, the USCIS reported the dates of forms being processed (for each combination of service center/field office/other subdivision and form category) as of November 30.<ref name=uscis-official/><ref name=lawandborder-processing-times>{{cite web|url = http://lawandborder.com/abysmal-uscis-processing-times-130-immediate-relative-immigrant-petitions/|title = USCIS Processing Times for Immediate Relative I-130s Improving|last = Chodorow|first = Gary|date = May 3, 2014|accessdate = January 17, 2016|publisher = Law and Border}}</ref>
+
+A few other caveats need to be noted when interpreting reported processing times:
+
+* '''Initial review only; excludes active suspense''': While all forms being processed for initial review are processed in the order in which they were received, forms that are re-processed after receiving a response to a [[Request For Evidence]], [[Notice of Intent to Deny]], or a request for clarification from the applicant may not bear a relationship with the date of receipt of the original form. Forms that are awaiting a response from the applicant are said to be in "active suspense". When reporting processing times, the USCIS removes data on forms in active suspense. This is part of the quality control done by the USCIS and is one of the reasons for the 45-day delay in reporting.<ref name=telecon/>
+* '''Data skewed by Premium Processing''': The USCIS does not separate out data for petitions that have requested the [[Premium Processing Service]], i.e., its estimate of processing time includes both petitions that have requested Premium Processing and those that have not. While this does not affect form categories ineligible for Premium Processing, it does skew the reported processing times for the forms eligible for Premium Processing. For instance, a [[Form I-129]] petition that did ''not'' have a Premium Processing Service request will likely take ''more'' time to process than the processing time reported by the USCIS.<ref name=telecon/>
+* '''Guidelines for processing times for petitions after they receive a response to a RFE or NOID''': There are no general processing times reported for petitions after they receive a response to a RFE or NOID, since it varies from case to case, and it is best to communicate directly with the Service Center.
+
+== Addiitonal statistics ==
+
+The USCIS also publishes quarterly reports (i.e., once every three months) for each form giving detailed statistics (by field office/service center location) of the number of applications received, accepted, denied, and pending.<ref name=uscis-statistics>{{cite web|url = http://www.uscis.gov/tools/reports-studies/immigration-forms-data|title = Immigration and Citizenship Data|accessdate = January 24, 2015|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+
+== Premium Processing Service ==
+
+{{further|Premium Processing Service}}
+
+The USCIS offers a [[Premium Processing Service]] at an additional fee of $1225 for [[Form I-129]] (non-immigrant worker) and [[Form I-140]] (immigrant worker) petitions. The Premium Processing Service has a fee of $1225 and promises an initial review from the USCIS within 15 calendar days of receipt of the form, after which time it may approve, deny, or issue a [[Request For Evidence]] or [[Notice of Intent to Deny]].<ref name=uscis-premium-processing/> For the special case of cap-subject [[H-1B visa]]s where the applications are concentrated in the beginning of April, the start date for the 15-day countdown is generally delayed due to the huge influx of applications.<ref name=uscis-premium-processing>{{cite web|url=http://www.uscis.gov/forms/how-do-i-use-premium-processing-service|title = How Do I Use the Premium Processing Service?|publisher = [[United States Citizenship and Immigration Services]]|accessdate = April 4, 2015}}</ref>
+
+The Premium Processing Service was introduced in 2001 for Form I-129<ref name=endelman>{{cite web|url=http://www.ilw.com/articles/2001,0612-Endelman.shtm|title = Be Careful of What You Wish For: The Hidden Meaning of Premium Processing Fees|last = Endelman|first = Gary|publisher = [[Immigration Daily]]|date = June 12, 2001|accessdate = April 5, 2015}}</ref> and extended to Form I-140 in 2006.<ref>{{cite web|url=http://www.visaserve.com/Articles/New-Premium-Process-Rules-are-in-Effect.pdf|title = New Premium Processing Rules are in Effect|date = May 23, 2006|accessdate = April 5, 2015}}</ref>
+
+The USCIS has been asked to extend the Premium Processing Service to Form I-526 (for EB-5 investors) and has also formulated proposals to do so, but as of January 2016, still uses the Premium Processing Service only for Forms I-129 and I-140.<ref name=eb5-expediting>{{cite web|url=http://www.eb5investors.com/blog/Expediting-an-EB-5-Application|title = Expediting an EB-5 Application|last= Kalmykov|first = Kate|date = August 28, 2012|accessdate = April 5, 2015|publisher = Greenberg Traurig LLC}}</ref><ref name=eb5-premium-processing-forum-question>{{cite web|url=http://www.eb5investors.com/qa/premium-processing-alternative-available-through-uscis-for-eb5|title = Is there a premium processing alternative available through the USCIS for EB5 regional center applications?|accessdate = April 5, 2015}}</ref>

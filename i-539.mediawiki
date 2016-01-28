@@ -1,0 +1,36 @@
+'''Form I-539, Application to Extend/Change Nonimmigrant Status''' is one of the [[USCIS immigration forms|forms]] issued by the [[United States Citizenship and Immigration Services]]. It is used by people currently in the United States in a non-immigrant status to change the classification for their status and/or extend their stay with their current status. Both the current status and the status to which the transition is being sought ''must'' be non-immigrant visa statuses.<ref name=nolo-b/><ref name=nolo>{{cite web|url = http://www.nolo.com/legal-encyclopedia/filling-out-form-i-539-extend-nonimmigrant-visa.html|title = Filling Out Form I-539 to Extend Nonimmigrant Visa. Line-by-line instructions for filling out the application for an extension of your nonimmigrant status.|accessdate = January 25, 2016|publisher = [[NOLO]]}}</ref><ref name=uscis>{{cite web|url = http://www.uscis.gov/sites/default/files/files/form/i-539.pdf|title = USCIS Form I-539, Application to Extend/Change Nonimmigrant Status|publisher = [[United States Citizenship and Immigration Services]]|accessdate = January 25, 2016}}</ref>
+
+== Eligible current statuses ==
+
+=== Categories of current status from which any extension of stay or change of status while in the United States requires Form I-539 ===
+
+The general logic is that Form I-539 is required to extend stay in cases where the current status is not acquired through authorization from the USCIS or a designated United States government agency, but rather is acquired either as a temporary visa directly obtained from a consulate or as a dependent on another person who did acquire the status through authorization. When processing Form I-539, therefore, the USCIS plays a similar role as a consular officer would.
+
+For instance, people on [[H-4 visa]]s (dependents on people on the other types of H visas) need to use Form I-539 to extend stay, where those on the other H visas, such as the [[H-1B visa]], directly apply to renew or update their authorization through [[Form I-129]].
+
+For the following current statuses, any extension of stay beyond that specified on the [[Form I-94]] requires the filing of Form I-539:<ref name=nolo/>
+
+* [[A visa]]: ambassadors, public ministers, career diplomatic or consular officers and their immediate family members
+* A-3 visa: attendants, servants, and personal employees of A visa holders and their immediate family members
+* [[B visa]] (B-1/B-2 are the business and tourism visas)
+* CW-1 dependents
+* E visa dependents
+* F visa (only the public secondary school case) and dependents
+* G 
+* G-5
+
+=== Visa Waiver Program entrants are not eligible ===
+
+Anybody who entered using the [[Visa Waiver Program]] cannot use Form I-539 except in exceptional circumstances.<ref name=nolo-b>{{cite web|url = http://www.nolo.com/legal-encyclopedia/how-extend-your-stay-change-your-status-while-b-visa.html|title = How to Extend Your Stay or Change Your Status While on a B Visa. The steps you must take as a B visa entrant to request an extension of stay in the U.S.|last = Gasson|first = Kristina|accessdate = January 25, 2016|publisher = [[NOLO]]}}</ref>
+
+== Effect on visa ==
+
+As a general rule, Form I-539 does not extend the validity of existing visas. To the contrary, a change of status accomplished through Form I-539 can invalidate the existing visa.
+
+=== In case of extension of stay ===
+
+Form I-539 may be used to extend one's stay on the same status as one currently has. This extension of stay does not change the terms of one's entry visa. In particular, it does not change whether the visa was a single-entry visa or a multiple-entry visa, nor does it change the period of validity (i.e., the expiration date) of the visa.
+
+=== In case of change of status ===
+
+When Form I-539 is used to change status, it invalidates any visa obtained that was associated with the applicant's previous status. Thus, whenever the applicant next travels outside the United States, the applicant is required to obtain a new visa to re-enter the United States.<ref name=alllaw>{{cite web|url = http://www.alllaw.com/articles/nolo/us-immigration/stay-longer-with-i-539-application.html|title = Can You Stay in the U.S. Longer With an I-539 Application?If you want to stay in the U.S. beyond the time limit of your current visa, you may be able to file an I-539 application to extend or change your visa status, without leaving the country first|publisher = [[AllLaw]]|accessdate = January 25, 2016}}</ref> Also, the applicant cannot use [[automatic visa revalidation]] to re-enter the United States after changing status until the applicant obtains a new visa.
