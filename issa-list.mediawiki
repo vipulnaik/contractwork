@@ -37,3 +37,13 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Form 990. Pay: $100
 
 * 83(b) election. Pay: $100
+
+== Nonprofits ==
+
+* Move the page
+  https://en.wikipedia.org/wiki/International_Council_for_the_Control_of_Iodine_Deficiency_Disorders
+  to the new title (Iodine Global Network) and update the information
+  about the page based on GiveWell's reviews and new website
+  information. Also include that GiveWell mentioned it in their
+  standout charities again in 2015, and describe the updated review. Pay: $25
+
