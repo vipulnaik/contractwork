@@ -44,13 +44,15 @@ that we see for the corresponding page whose timeline page it is.
 
 * Timeline of Intel: The Intel page gets about 65K views a month, so we should expect 600-2500 pageviews per month. Proposed bounty amount: $150 for a fairly comprehensive timeline page, less based on how much you cover.
 
-* Timeline of Microsoft: There is already a page on the history of Microsoft, but it would be interesting to do a timeline version thereof (which will have substantial overlap but still be structured differently and should add some value). Proposed bounty amount: $125 for a fairly comprehensive timeline that nonetheless adds value over and above the history page (and therefore survives deletion).
+* Timeline of Microsoft [ALMOST COMPLETED]: There is already a page on the history of Microsoft, but it would be interesting to do a timeline version thereof (which will have substantial overlap but still be structured differently and should add some value). Proposed bounty amount: $125 for a fairly comprehensive timeline that nonetheless adds value over and above the history page (and therefore survives deletion).
 
 * Timeline of Instagram: The Instagram page gets 150K views a month, so we should expect 1.5-7.5K pageviews per month. Proposed bounty amount: $100
 
 * Timeline of LinkedIn: The LinkedIn page gets 70K views a month, so we should expect 700-3500 pageviews per month. Proposed bounty amount: $75
 
 * Timeline of Xiaomi: The Xiaomi page gets 40K views a month, so we should expect 400-2000 pageviews per month.  Proposed bounty amount: $75
+
+* Timeline of Dropbox: The Dropbox page gets 35K views a month, so we should expect 350-1750 pageviews per month. Proposed bounty amount: $75
 
 * Timeline of GitHub: The GitHub page gets 40K views a month, so we should expect 400-2000 pageviews per month. Proposed bounty amount: $50
 
