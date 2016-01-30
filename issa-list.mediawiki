@@ -47,3 +47,5 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
   information. Also include that GiveWell mentioned it in their
   standout charities again in 2015, and describe the updated review. Pay: $25
 
+* Open Philanthropy Project. Conditional to it containing substantive
+  content and not getting quickly deleted. Pay: $100
