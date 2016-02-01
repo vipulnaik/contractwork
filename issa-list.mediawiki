@@ -10,6 +10,10 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Form 1096: $25
 * Form W-2: $100
 
+=== Non-page payments ===
+
+* stats.grok.se -> Wikimedia API fix: $80
+
 == Taxes ==
 
 === Improvements to existing pages ===
