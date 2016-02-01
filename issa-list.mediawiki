@@ -36,8 +36,6 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 
 * De minimis fringe benefit(s) (decide whether to pluralize). Pay: $25
 
-* Form 1120. Pay: $100
-
 * Form 990. Pay: $100
 
 * 83(b) election. Pay: $100
@@ -53,3 +51,11 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 
 * Open Philanthropy Project. Conditional to it containing substantive
   content and not getting quickly deleted. Pay: $100
+
+== Migration ==
+
+* Stokes interview. Pay: $50
+
+* Form I-140. Pay: $150
+
+* Form I-485. Pay: $150
