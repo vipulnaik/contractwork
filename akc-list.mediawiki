@@ -24,7 +24,7 @@ year.
 
 * Start by January 8, finish by January 10: Timeline of online food delivery
 * Start by January 15, finish by January 17: Timeline of Amazon.com
-* Start by January 22, finish by January 24: Timeline of Microsoft [note: this was almost completeld but not fully by the deadline; however, since we have a buffer of 4 it's okay]
+* Start by January 22, finish by January 24: Timeline of Microsoft
 * Start by January 29, finish by January 31: Timeline of Intel
 
 (more weeks, months to be added).
@@ -33,6 +33,7 @@ year.
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
+* Timeline of Microsoft: $125
 
 == Timeline pages ==
 
@@ -43,8 +44,6 @@ that we see for the corresponding page whose timeline page it is.
 
 
 * Timeline of Intel: The Intel page gets about 65K views a month, so we should expect 600-2500 pageviews per month. Proposed bounty amount: $150 for a fairly comprehensive timeline page, less based on how much you cover.
-
-* Timeline of Microsoft [ALMOST COMPLETED]: There is already a page on the history of Microsoft, but it would be interesting to do a timeline version thereof (which will have substantial overlap but still be structured differently and should add some value). Proposed bounty amount: $125 for a fairly comprehensive timeline that nonetheless adds value over and above the history page (and therefore survives deletion).
 
 * Timeline of Instagram: The Instagram page gets 150K views a month, so we should expect 1.5-7.5K pageviews per month. Proposed bounty amount: $100
 
