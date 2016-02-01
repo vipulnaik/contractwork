@@ -53,6 +53,8 @@ that we see for the corresponding page whose timeline page it is.
 
 * Timeline of Dropbox: The Dropbox page gets 35K views a month, so we should expect 350-1750 pageviews per month. Proposed bounty amount: $75
 
+* Timeline of Amazon Web Services: The Amazon Web Services page gets about 40K views a month, so we should expect 400-2000 pageviews per month. Proposed bounty amount: $60
+
 * Timeline of GitHub: The GitHub page gets 40K views a month, so we should expect 400-2000 pageviews per month. Proposed bounty amount: $50
 
 === Clothing retail ===
