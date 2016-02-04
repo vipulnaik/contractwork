@@ -9,6 +9,7 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Form W-9: $50
 * Form 1096: $25
 * Form W-2: $100
+* Form 990: $100
 
 === Non-page payments ===
 
@@ -35,8 +36,6 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Form 1042-S. Pay: $25
 
 * De minimis fringe benefit(s) (decide whether to pluralize). Pay: $25
-
-* Form 990. Pay: $100
 
 * 83(b) election. Pay: $100
 
