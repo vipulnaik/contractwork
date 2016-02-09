@@ -1,0 +1,93 @@
+The '''Legal Immigration Family Equity Act''' of 2000, also known as the '''LIFE Act''' and as the '''Legal Immigration and Family Equity Act''', along with its Amendments, made some changes to laws surrounding immigration for family members of United States citizens and [[Lawful Permanent Resident]]s, as well as people eligible for employment-based immigrant visas, in the direction of making it easier for family members and immigrant workers to move and stay to the United States.<ref name=uscis-green-card>{{cite web|url = https://www.uscis.gov/green-card/other-ways-get-green-card/green-card-through-legal-immigration-family-equity-life-act|title = Green Card Through the Legal Immigration Family Equity (LIFE) Act|accessdate = February 8, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref><ref name=procol>{{cite web|url = http://immigration.procon.org/view.answers.php?questionID=000793|title = What Was the 2000 Legal Immigration Family Equity (LIFE) Act?|publisher = [[ProCon.org]]|accessdate = February 8, 2016}}</ref>
+
+== History ==
+
+The LIFE Act was one of many legislative changes surrounding immigration enforcement in the United States that sought to compromise between the goal of ending unauthorized migration and recogning the interests of United States citizens and lawful permanent residents in being together with their families.
+
+=== Family-based and employment-based immigration and the development of long waiting times ===
+
+The basic framework for family-based and employment-based immigration was laid out in the [[Immigration and Nationality Act of 1965]], and the categories were expanded, with a clear preference ordering, with the [[Immigration Act of 1990]].
+
+The INA placed a limit of 20,000 on the number of immigrants from each [[country of chargeability]] within each year. For large countries in particular, this limit was much less than the number of people who sought to migrate through family-based and employment-based migration. This led to many cases of people who had approved petitions for family-based or employment-based immigration but needed to wait several years in order to be able to legally immigrate or adjust status to that of Lawful Permanent Resident. Some of these people stayed in the United States, going out of status, while others waited outside the United States for long periods of time.
+
+=== Growth of the removal/deportation machinery ===
+
+Util the 1980s, most removals of unauthorized aliens happened through formal [[removal proceedings]] that involved a hearing before an immigration judge. However, in the 1990s, the United States government decided to add to its toolkit of removal strategies to deal with the scale of presence of unauthorized aliens. Some of the summary removal procedures introduced over this time include [[expedited removal]] (launched 1996/1997), [[stipulated removal]] (launched 1995), and [[reinstatement of removal]] (launched 1998), and administrative removal for aggravated felons (introduced 1988, expanded with the [[Antiterrorism and Effective Death Penalty Act]] of 1996, and the [[Illegal Immigration Reform and Immigrant Responsibility Act]] of 1996.
+
+=== Previous steps ===
+
+In 1994, the United States Congress enacted Section 245(i) of the INA, permitting certain individuals who were otherwise ineligible for adjustment of status in the United States to pay a penalty fee for the convenience of adjusting status without leaving the United States. Prior to enactment of the LIFE Act Amendments, the window for preserving adjustment eligibility under Section 245(i) ended or cut off on January 14, 1998, after which only "grandfathered" individuals (beneficiaries of labor certifications or immigrant visa petitions filed on or before that date) were eligible to adjust status under Section 245(i) . The cut-off date of Section 245(i) changed several times; however, then President Clinton signed into law a provision that changed the nature of Section 245(i) to “grandfather” those individuals in the United States for whom an immigrant visa or application for labor certification was filed on or before January 14, 1998.<ref name=uscis-green-card/>
+
+On December 21, 2000, the LIFE Act Amendments temporarily restored eligibility under Section 245(i) by replacing the previous cut-off date of January 14, 1998, with a new date, April 30, 2001. Accordingly, a beneficiary of a labor certification application or immigrant visa petition filed on or before April 30, 2001, preserves an individual’s eligibility to adjust status under Section 245(i) if certain conditions are met. The LIFE Act added a significant requirement to Section 245(i). If the qualifying petition or labor certification was filed after the previous cut-off date of January 14, 1998, the individual must have been physically present in the United States on the date of enactment (December 21, 2000) in order to qualify for Section 245(i) benefits under LIFE.<ref name=uscis-green-card/>
+
+== Provisions ==
+
+=== Overlooking of unlawful presence if other conditions for obtaining a Green Card are met ===
+
+The LIFE Act allows some people to obtain Green Cards (i.e., adjust to Lawful Permanent Resident status) regardless of the following factors that might otherwise create bars to obtaining Green Cards:<ref name=uscis-green-card/>
+
+* The manner they entered the United States
+* Working in the United States without authorization
+* Failing to continuously maintain lawful status since entry
+
+The Act only applies to people who already had an approved petition that they had applied for prior to the Act coming into force. Explicitly, the following conditions need to all be satisfied:
+
+* The applicant must be the beneficiary of a qualified immigrant petition ([[Form I-130]] or [[Form I-140]]) or application for [[labor certification]] (necessary for some Form I-140) filed on or before April 30, 2001.
+* In the case that the petition was filed between January 15, 1998 and April 30 , 2001, the applicant must have been physically present in the United States on December 21, 2000. There is no requirement of physical presence for petitions filed earlier.
+* The applicant is currently the beneficiary of a qualifying immigrant petition (either the original Form I-130 or Form I-140 or a subsequently filed immigrant petition).
+* The applicant has a visa number immediately available. In the case of numerically limited categories, this means that the applicant's Priority Date must be current.
+* The applicant is admissible to the United States.
+* The qualifying petition or qualifying application for labor certification must have been "properly filed", i.e., signed and submitted with the corrected fees) and "approvable" (meritorious based on the facts and "non-frivolous") when filed.
+
+In order to apply under this provision of the LIFE Act, one must file Supplement A along with Form I-485 for [[Adjustment of Status]].
+
+It is also important to note that the petition used for Adjustment of Status may be different from the original petition with a date prior to April 30, 2001 that is used as a basis for being eligible for the LIFE Act.<ref name=uscis-green-card/>
+
+==== Relation with removal proceedings ====
+
+For It is important to note that protection from removal proceedings kicks in ''only after'' the Form I-485, along with Supplement A, has been properly filed and a visa number is available to the applicant. 
+
+Until then, removal proceedings may be initiated against the person for unauthorized entry or unlawful presence. If the person eligible under this provision of the LIFE Act departs the United States after accruing unlawful presence, the person may be subject to a 3-year or 10-year bar to re-entry (depending on the extend of unlawful presence) ''despite'' the fact that, had the person continued to stay in the United States, the person could have applied to adjust status.<ref name=uscis-green-card/>
+
+=== V visa ===
+
+{{further|V visa}}
+
+The V visa is a visa category introduced as part of the LIFE Act. A person is eligible for a V visa if both these conditions are satisfied:<ref name=uscis-v-visa>{{cite web|url = https://www.uscis.gov/family/family-green-card-holders-permanent-residents/v-visa/v-nonimmigrant-visas|title = V Nonimmigrant Visas|accessdate = February 8, 2016|publisher = [[United States Citizenship and Immigration Services]]|date = July 7, 2015}}</ref>
+
+* A [[Form I-130]] petition was filed on or before December 21, 2000 listing that person as beneficiary.
+* It has been at least three years since the Form I-130 petition was filed, and the petition is either still being processed or has been processed but the associated immigrant visa or [[Adjustment of Status]] application is still pending.
+
+While the V visa in principle applies to all categories listed on the Form I-130, it is rarely needed for people in the IR category (i.e., the spouses or immediate relatives of US citizens) because these are uncapped categories, so that a visa can be obtained within a few months of USCIS approval, and [[USCIS processing times]] are generally not more than a year. 
+
+The V visa is most relevant for the F category of Form I-130, which is numerically capped, and where the wait time for one's Priority Date to become current can be several years.
+
+The V visa status may be obtained in these two ways, depending on where the beneficiary is:
+
+* If the beneficiary is already in the United States, then he/she can apply using [[Form I-539]] (Application to Extend/Change Nonimmigrant Status) along with Form I-693.<ref name=uscis-v-visa/>
+* If the beneficiary is outside the United States, he/she needs to go through consular processing, i.e., get a visa from a United States consulate.<ref name=uscis-v-visa/><ref>{{cite web|url = http://travel.state.gov/content/visas/en/immigrate/family/nonimmigrant-spouse-children-permanent-resident.html|title = Nonimmigrant (V) Visa for Spouse and Children of a Lawful Permanent Resident (LPR)|publisher = [[U.S. Department of State]]|accessdate = February 8, 2016}}</ref>
+
+The V visa allows the Form I-130 beneficiary to travel to the United States and engage in work and study there, while waiting for the Priority Date to become current so as to be able to apply for an immigrant visa and/or for [[Adjustment of Status]].
+
+Since the V visa applies only for Form I-130 petitions that were filed on or before December 21, 2000, its relevance has declined over time. Proposals to expand the scope to applications filed later have been stalled.
+
+=== K-3/K-4 visas ===
+
+K-3 and K-4 visas were created as part of the LIFE Act.<ref name=procon/> These are non-immigrant visas intended for the spouse (K-3 visa) and dependents under age 21 of the spouse (K-4 visa) of a United States citizen.<ref name=uscis-k-visa>{{cite web|url = https://www.uscis.gov/family/family-us-citizens/k3-k4-visa/k-3k-4-nonimmigrant-visas|title = K-3/K-4 Nonimmigrant Visas|accessdate = [[United States Citizenship and Immigration Services]]}}</ref> The following are the eligibility requirements for the K-3 visa:
+
+* The visa applicant must be married to a United States citizen
+* The visa applicant must have a pending [[Form I-130]] petition filed by the U.S. citizen spouse listing him/her as beneficiary.
+
+A child may be eligible for the K-4 visa if he or she is unmarried, under 21, and the child of a qualified K-3 nonimmigrant visa applicant.<ref name=uscis-k-visa/>
+
+In order for the applicant to obtain the K-3 visa, the U.S. citizen spouse must file a [[Form I-129F]] listing the applicant as beneficiary (this is in addition to the pending Form I-130 petition).
+
+The K-3 status (and any dependent K-4 status) automatically expires 30 days after any of these:
+
+* The USCIS denies or revokes the Form I-130 petition
+* The USCIS denies or revokes the [[Adjustment of Status]] application by the K-3 nonimmigrant
+* The marriage is terminated through divorce or annulment
+
+== References ==
+
+{{reflist}}

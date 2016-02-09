@@ -1,0 +1,99 @@
+The '''National Visa Center''' ('''NVC''') is a center that is part of the [[U.S. Department of State]] that plays the role of holding immigrant visa petitions (as well as Form I-129F petitions for [[K visa|K-1/K-3 visas]]) approved by the [[United States Citizenship and Immigration Services]] until an immigrant visa number becomes available for the petition, at which point it arranges for the visa applicant(s) (the petition beneficiaries) to take the visa interview at a consulate abroad.<ref name=travel/><ref name=nvc-contact>{{cite web|url = https://travel.state.gov/content/visas/en/immigrate/immigrant-process/approved/contact.html|title = The Immigrant Visa Process: Begin National Visa Center (NVC) Processing|publisher = [[U.S. Department of State]]|accessdate = February 4, 2016}}</ref><ref name=immihelp-nvc>{{cite web|url = http://www.immihelp.com/immigrant-visa/national-visa-center-nvc.html|title = National Visa Center (NVC)|accessdate = February 4, 2016}}</ref><ref name=shusterman>{{cite web|url = http://shusterman.com/nvc.html|title = National Visa Center|accessdate = February 4, 2016}}</ref> It is located in [[Portsmouth, New Hampshire|Portsmouth]], [[New Hampshire]].<ref name=travel/> It was established in 1994 on the site of an Air Force base that was closed down by the [[Pentagon]].<ref name=shusterman/>
+
+In most cases, the person or entity that files the original USCIS petition (also known as the petitioner) differs from the person (or persons) on whose behalf the petition is filed (also known as the beneficiary or beneficiaries). The beneficiaries are the persons who may subsequently apply for a visa based on the approved petition, and NVC's communication is with the beneficiary (with the petitioner getting a notification at the beginning). In this article, the terms "beneficiary" and "visa applicant" are both used based on context.
+
+== Petitions that go through the NVC ==
+
+=== Form I-130 petitions ===
+
+{{further|Form I-130}}
+
+Form I-130, Petition for Alien Relative, is used by United States citizens and permanent residents to petition for immigrant status for their immediate relatives. The IR subcategory in the Form I-130 category is uncapped, and therefore the NVC immediately begins processing the application. However, the F subcategory has numerical limits, and is generally backlogged, and therefore applications in this category may have to wait.
+
+=== Form I-140 petitions ===
+
+Form I-140, Immigrant Petition for Alien Worker, is used by United States businesses (and in some cases, by the immigrant beneficiary himself or herself) to petition for immigrant worker status for the beneficiary in one of the categories EB-1, EB-2, and EB-3. Some of these categories have no numerical limits, whereas others (with less restrictive provisions) do (be more specific). The numerically capped categories may be held by the NVC for a while.
+
+=== Other immigrant visa petitions that go through NVC ===
+
+The following immigrant status petitions also get sent to NVC:
+
+* Forms I-600, I-600A, I-800, and I-800A, used for adoption of an orphan by a United States citizen (the IR-3 and IR-4 categories).
+* Form I-360, used for the [[EB-4 visa]] as well as some other special immigrant categories.<ref name=i-360>{{cite web|url = https://www.uscis.gov/i-360|title = I-360, Petition for Amerasian, Widow(er), or Special Immigrant|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+* Form I-526, for the [[EB-5 visa]]<ref>{{cite web|url = https://www.uscis.gov/i-526|title = I-526, Immigrant Petition by Alien Entrepreneur|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+
+=== Form I-129F petitions ===
+
+Form I-129F is a non-immigrant visa petition intended for the fiance(e) and children of the fiance(e) of a United States citizen or lawful permanent resident, with the intention of marriage with the fiance(e). The corresponding visa category is the [[K visa]]. 
+
+If the petitioner and beneficiary fiance(e) marry within three months, the fiance(e) can undergo [[Adjustment of Status]]. This is a rare case of a non-immigrant visa category with explicit immigrant intent. There are no cutoff dates for these petitions.
+
+=== Provisional Unlawful Presence Waiver ===
+
+A Provisional Unlawful Presence Waiver is a waiver provided by the USCIS indicating that it waives unlawful presence in the United States as a ground of inadmissibility for a given applicant. It is obtained by applying with Form I-601A to the USCIS. It is used by people currently unlawfully present in the United States prior to departing the United States for a consular interview. USCIS notifies NVC once the Form I-601A is approved and the Provisional Unlawful Presence Waiver is granted, so that NVC can process any visa application for the applicant based on a petition listing him or her as a beneficiary.<ref name=pupw>{{cite web|url = https://travel.state.gov/content/dam/visas/I-601AProvisionalWaiver/Provisional%20Waiver%20English.pdf|title = For Provisional Waiver I-601A Applicants: The National Visa Center Process and You|accessdate = February 5, 2016|publisher = [[U.S. Department of State]]}}</ref><ref name=pupw-uscis>{{cite web|url = https://www.uscis.gov/family/family-us-citizens/provisional-waiver/provisional-unlawful-presence-waivers|title = Provisional Unlawful Presence Waivers|accessdate = February 5, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+
+== Distinction between immigrant visa applications outside the United States and Adjustment of Status applications ==
+
+There are two ways to become a United States [[Lawful Permanent Resident]]. 
+
+# Have an immigrant status petition listing one as a beneficiary approved and then use that to apply for an immigrant visa from outside the United States. In this case, after receiving the immigrant visa, the beneficiary can apply for a Green Card for delivery to their United States address, and then enter on the immigrant visa and transition to LPR status upon entry.<ref name=travel/>
+# Be in the United States in another status and then file a Form I-485 petition for [[Adjustment of Status]] either concurrently with or after receiving approval for the immigrant status petition. In this case, the approval of Form I-485 transitions the beneficiary to Lawful Permanent Resident status.<ref>{{cite web|url = https://www.uscis.gov/green-card/green-card-processes-and-procedures/adjustment-status|title = Adjustment of Status|publisher = [[United States Citizenship and Immigration Services]]|accessdate = February 7, 2016}}</ref>
+
+The key difference between the two methods is that for (1), the key decision to approve the beneficiary's transition is made by a consular officer employed by the [[U.S. Department of State]] and stationed in another country, whereas for (2), the final decision is made by a USCIS Field Officer.
+
+The National Visa Center is involved only for method (1). In case method (2) is being used, the NVC will not receive the petition at all if the Adjustment of Status application (Form I-485) is filed concurrently with the petition. If, however, the petition is filed as a standalone petition, the NVC may contact the beneficiary, and the beneficiary must indicate to the NVC in response that he or she is adjusting status and does not intend to apply for a visa. In this case, the NVC holds on to the petition until it is requested by a USCIS Field Office. If the applicant does not respond, the NVC continues processing it for a visa application.
+
+However, the numerical limits apply to all petitions regardless of whether method (1) or method (2) is used, and are managed by the Visa Reporting and Control Division of the Department of State.
+
+For Form I-130 and I-360, in some cases, another option called [[Direct Consular Filing]] (that bypasses the NVC) is available; however, this applies only to categories with no numerical limits.
+
+== Steps ==
+
+=== The petition is received by the USCIS ===
+
+When the USCIS receives a petition, it puts it in a processing queue handled by USCIS and marks the date of receipt of the petition. If approved, and in the case that the category is numerically capped, the petition's Priority Date will be set to this date of receipt. Note that for I-140 petitions that require [[labor certification]], the Priority Date is set as the date that the application for labor certification is received.<ref name=checkdate>{{cite web|url = https://travel.state.gov/content/visas/en/immigrate/immigrant-process/approved/checkdate.html|title = The Immigrant Visa Process|publisher = [[U.S. Department of State]]|accessdate = February 5, 2016}}</ref>
+
+The USCIS may take some time to approve the petition. The USCIS publishes both its processing time goals and its current [[USCIS processing times|processing times]], which are approximately 5 months. For some petitions, the USCIS may issue a [[Request For Evidence]] or [[Notice of Intent to Deny]]. The USCIS may deny the petition and the denial may be appealed. For Form I-140 petitions, it is also possible to speed up the process by availing of the [[Premium Processing Service]]. Throughout the process, the NVC is not involved.
+
+It is only if and after the USCIS approves the petition and only in the case that the petition indicates that the beneficiary will use it to apply for a visa from outside the United States, that the petition is forwarded to the NVC in Portsmouth, New Hampshire. 
+
+As soon as it receives the petition from the USCIS, NVC gives the petition a case number through which the status of the petition may be tracked and contacts the applicant confirming that the petition was received. Note that this case number differs from the USCIS case number and also from the immigrant visa number (that, for capped categories, may not be immediately available).<ref name=case-number>{{cite web|url = https://my.uscis.gov/helpcenter/article/how-do-i-contact-the-national-visa-center-nvc-to-find-out-what-is-going-on-with-my-case|title = How do I contact the National Visa Center (NVC) to find out what is going on with my case?|publisher = [[United States Citizenship and Immigration Services]]|accessdate = February 5, 2016}}</ref>
+
+=== For numerically limited visas, the National Visa Center may hold the petition till a visa number becomes available ===
+
+For visas in numerically limited categories, the date that the petition is received by the USCIS is treated as the Priority Date for the application, with the exception of petitions that require [[labor certification]]. For petitions requiring labor certification (as is the case for some Form I-140 petitions) the Priority Date is the date the application for labor certification was received by the [[U.S. Department of Labor]].<ref name=checkdate/>
+
+Applications are processed from earlier to later Priority Dates. At any given point in time, the cutoff date (also known as the Qualifying Date) for current processing for each category is available, and published in the [[Visa Bulletin]].<ref name=travel>{{cite web|url = https://travel.state.gov/content/visas/en/immigrate/nvc.html|title = National Visa Center|accessdate = February 5, 2015|publisher = [[U.S. Department of State]]}}</ref>
+
+If the Priority Date is earlier than the cutoff date for that category at the time NVC receives the petition, it immediately starts processing the application. However, if the Priority Date is later than the cutoff date, NVC holds the application till the cutoff date is about to approach the Priority Date. At this point, NVC contacts the beneficiary and starts the processing. An application whose Priority Date is earlier than the cutoff date is termed "current".
+
+NVC is ''not'' responsible for managing the queue of applications or updating the cutoff dates. That responsibility lies with the Visa Reporting and Control Division of the [[U.S. Department of State]], that also publishes the [[Visa Bulletin]] and issues immigrant visa numbers. Moreover, the applications that go through the NVC are not the only ones in the queue; the queue also includes [[Adjustment of Status]] applications.
+
+Some implications of the way Priority Dates work:
+
+* The [[USCIS processing times|time taken by the USCIS to process the petition]] affects the total time taken to obtain the visa ''only'' if it is in an uncapped category ''or'' it exceeds the NVC wait times. This is because the Priority Date for a petition is set as the date that the USCIS receives the petition, not the date it starts or finishes processing the petition.
+* There can be a considerable period of time during which a person outside the United States is the beneficiary of an approved visa petition but cannot enter the United States in immigrant status because the Priority Date has not yet become current. Under these conditions, it can be difficult to enter the United States in non-immigrant status because of the clearly demonstrated immigrant intent; however, it may still be possible to use a [[B visa]] by demonstrating that one's visit will be short and that one does not intend to apply for [[Adjustment of Status]].
+
+=== NVC processes the application, arranging for a consular interview ===
+
+NVC does the following to move forward on the beneficiary's visa application:<ref name=travel/>
+
+# It invoices the beneficiary for visa application fees
+# It collects the visa application and supporting documentation
+# It holds the visa petition until an interview can be scheduled with a consular officer at a U.S. Embassy or Consulate.
+
+NVC's first communication with the visa applicant, even before collecting fees, asks the applicant to choose an agent to represent him or her in communication with the NVC.<ref name=nvc-contact/> The applicant may do so online through Form DS-261, Choice of Address and Agent.<ref>{{cite web|url = https://travel.state.gov/content/visas/en/immigrate/immigrant-process/approved/Step_1_Choose_an_agent.html|title = Step 1: Choose an Agent|publisher = [[U.S. Department of State]]|accessdate = February 5, 2016}}</ref> There is also an outdated equivalent form called Form DS-3032, that is filed by paper.<ref>{{cite web|url = http://www.immihelp.com/immigrant-visa/form-ds-3032-agent-of-choice-and-address.html|title = Form DS-3032 - Choice of Address and Agent for Immigrant Visa Applicants|publisher = ImmiHelp|accessdate = February 5, 2016}}</ref><ref name=visajourney>{{cite web|url = http://www.visajourney.com/forums/topic/341791-ds-3032-and-ds-261-question/|title = DS-3032 and DS-261 Question|publisher = VisaJourney|accessdate = February 5, 2016}}</ref>
+
+=== The NVC hands things off to the consulate or embassy interviewing the applicant===
+
+After the NVC schedules the interview and forwards the materials to the consulate, the responsibility for further processing belongs to the consulate.
+
+If the consular officer adjudicating the beneficiary's visa application believes the underlying USCIS petition was approved in error or is no longer approvable the officer may return the petition to USCIS for revocation/reconsideration. This communication occurs directly between the consulate and the USCIS. NVC is no longer involved.
+
+=== Termination of registration ===
+
+The registration of an immigrant visa petitions is terminated if the beneficiary fails to apply for an immigrant visa within a year of notice of immigrant visa availability. However, the petition may be reinstated if, within two years of notice of visa availability, the alien establishes that the failure to apply was for reasons beyond the alien’s control.<ref name=nvc-contact/>
+
+== References ==
+
+{{reflist}}
