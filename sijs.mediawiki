@@ -1,0 +1,98 @@
+'''Special Immigrant Juvenile Status''' (SIJS) (sometimes also written as '''Special Immigrant Juveniles (SIJ) Status''') is a special way for minors currently in the United States to adjust status to that of [[Lawful Permanent Resident]] despite unauthorized entry or unlawful presence in the United States, that might usually make them inadmissible to the United States and create bars to [[Adjustment of Status]].<ref name=nolo-sijs-eligilibity>{{cite web|url = http://www.nolo.com/legal-encyclopedia/special-immigrant-juvenile-status-who-is-eligible.html|title = Special Immigrant Juvenile Status: Who Is Eligible. Young undocumented people who have been made wards of the state or assigned a guardian may qualify for a U.S. green card.|publisher = [[NOLO]]|accessdate = February 9, 2016|last = Neal|first = Mary}}</ref><ref name=uscis-sijs>{{cite web|url = https://www.uscis.gov/green-card/special-immigrant-juveniles/special-immigrant-juveniles-sij-status|title = Special Immigrant Juveniles (SIJ) Status|publisher = [[United States Citizenship and Immigration Services]]|accessdate = February 9, 2016}}</ref><ref name=ilrc>{{cite web|url = http://www.ilrc.org/resources/special-immigrant-juvenile-status-sijs|title = Special Immigrant Juvenile Status (SIJS)|publisher = Immigrant Legal Resource Center|accessdate = February 9, 2016}}</ref>
+
+== History ==
+
+The [[Immigration Act of 1990]] amended the [[Immigration and Nationality Act of 1965]] to add the Special Immigrant Juvenile Status.<ref name=uscis-sij-history/> Specifically, Section 203(b)(4) allocates a percentage of visas to "Special Immigrants", and Section 101(a)(27)(J) defines Special Immigrant Juveniles.<ref name=ilrc/> The scope of SIJS was clarified and expanded as part of the Trafficking Victims Protection Reauthorization Act of 2008.<ref name=ilrc/><ref name=uscis-sij-history>{{cite web|url = https://www.uscis.gov/green-card/special-immigrant-juveniles/history-sij-status|title = History of SIJ Status|publisher = [[United States Citizenship and Immigration Services]]|accessdate = February 9, 2016}}</ref>
+
+Some questions surrounding the validity of court orders used in Form I-360 petitions were settled as part of the settlement agreement for ''Perez-Olano v. Holder''.<ref name=perez-olano/>
+
+The program's usage has significantly increased since 2013, and the increase has been attributed to the use of these special statuses by some of the child migrants who arrived as part of the [[2014 American immigration crisis|2014 child migrant surge]].<ref name=npr-surge>{{cite web|url = http://www.npr.org/2015/11/22/456669013/with-asylum-out-of-reach-some-minors-seek-out-special-visas|title = With Asylum Out Of Reach, Some Minors Seek Out Special Visas|publisher = [[National Public Radio]]|date = November 22, 2015|accessdate = February 10, 2016}}</ref><ref name=ipc-surge>{{cite web|url = http://www.immigrationpolicy.org/special-reports/children-danger-guide-humanitarian-challenge-border|title = Children in Danger: A Guide to the Humanitarian Challenge at the Border|publisher = [[Immigration Policy Center]]|accessdate = February 10, 2016}}</ref>
+
+== Eligibility and limitations ==
+
+The following are some important eligibility constraints on SIJS:<ref name=nolo-sijs-eligibility/><ref name=ilrc/>
+
+* It applies only to people already in the United States, but it does matter if their entry or subsequent stay in the United States was unlawful.
+* It applies only in cases where one or both of the applicant's parents were guilty of abuse, neglect, or abandonment of the applicant, ''and'' it is not in the applicant's best interests to return to his or her home country. A State Court finding to this effect is necessary. Note that it is not necessary that both parents be engaged in these behaviors. It is also not necessary that the applicant be permanently estranged from the offending parent.
+* In order to be eligible, the Form I-360 petition must be filed while the applicant is still a minor (the age limit might be 18 or 21, depending on the United States state the applicant is in). However, approval of the application and eventual grant of Lawful Permanent Resident status and citizenship may take several years and the applicant may be an adult by that time.
+
+SIJS places limitations on family sponsorship. In particular:<ref name=-scis-sijs/><ref name=nolo-sijs-eligibility/><ref name=ilrc/>
+
+* Somebody who acquires [[Lawful Permanent Resident]] status through SIJS cannot sponsor sibilings while in LPR status, but must first naturalize and become a United States citizen.
+* A person who acquires Lawful Permanent Resident status through SIJS can ''never'' sponsor either of his or her parents (through [[Form I-130]]). The stated reason for this is that the finding of abuse, neglect, or abandonment means that it does not make sense to sponsor one's parent. However, the restriction on sponsorship applies to both parents, even if the finding of abuse or neglect applied to only one.
+
+When comparing SIJS with [[Deferred Action for Childhood Arrivals]], law resource [[NOLO]] noted that whereas DACA does not confer any real legal status, SIJS does. However, it noted the limitation on sponsorship of one's non-abusive parent as a potential drawback of SIJS.<ref name=nolo-sijs-eligibility/>
+
+== Application process ==
+
+Special Immigrant Juvenile Status is adjudicated by the [[United States Citizenship and Immigration Services]].
+
+=== State court finding of abuse, neglect, or abandaonment ===
+
+A first step to applying for SIJS is to obtain a State Court finding (in the United States state where the applicant resides) that the applicant is neglected, abused, or abandoned by one or both parents, and that it is not in the child's best interest to return to his or her home country. Court terms, procedures, and legal standards vary from state to state.<ref name=nolo-sijs-application-process>{{cite web|url = http://www.nolo.com/legal-encyclopedia/special-immigrant-juvenile-status-application-process.html|accessdate = February 9, 2016|publisher = [[NOLO]]|last = Neal|first = Mary}}</ref> The abuse or neglect may be brought to the attention of the court by:
+
+* The police or a child welfare agency
+* The child's non-abusive parent
+* A family member or friend
+
+=== Form I-360 Petition for Special Immigrant Juvenile Status ===
+
+The applicant must petition for Special Immigrant Juvenile Status using [[Form I-360]], Petition for Amerasian, Widow(er), or Special Immigrant.<ref name=uscis-sij-process>{{cite web|url = https://www.uscis.gov/green-card/special-immigrant-juveniles/sij-petition-process|title = SIJ Petition Process|accessdate = February 9, 2016}}</ref> Form I-360 is a generic form that covers many categories of special immigrants. To use it for SIJS, one must check box c in Part 2.<ref name=i-360>{{cite web|url = https://www.uscis.gov/i-360|title = I-360, Petition for Amerasian, Widow(er), or Special Immigrant|publisher = [[United States Citizenship and Immigration Services]]|accessdate = February 10, 2016}}</ref><ref name=i-360-pdf>{{cite web|url = https://www.uscis.gov/sites/default/files/files/form/i-360.pdf|title = I-360, Petition for Amerasian, Widow(er), or Special Immigrant|publisher = [[United States Citizenship and Immigration Services]]|accessdate = February 10, 2016}}</ref> The Form I-360 petition must be accompanied by documents including a birth certificate (or other proof of age) and copies of the court order of dependency, custody, or guardianship. There is no fee for filing this application.<ref name=nolo-sijs-application-process/><ref name=uscis-sij-forms>{{cite web|url = https://www.uscis.gov/green-card/special-immigrant-juveniles/sij-forms-you-may-need|title = SIJ: Forms You May Need|accessdate = February 10, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+
+The form may be filled by the child or a guardian acting on the child's behalf. If the child is over the age of 14, he/she must sign the form, otherwise it may be signed by the guardian who filled it out with a clear indication of who the guardian was and what child the guardian was signing on behalf of.<ref name=nolo-sijs-application-process/> For the Form I-360 to be considered valid, both these conditions must be satisfied:<ref name=nolo-sijs-eligibility/>
+
+* The court order must be valid at the time of filing of the form.
+* The child must be a minor at the time of filing of the form (the age could be 18 or 21 depending on the state).
+
+As part of a settlement agreement for a class action lawsuit, the USCIS has agreed to accept Form I-360 petitions where the underlying court order has ceased to be valid solely on account of age.<refn name=perez-olano/>
+
+=== Form I-485 for Adjustment of Status ===
+
+Form I-485, requesting [[Adjustment of Status]] to that of Lawful Permanent Resident, may be filed either concurrently with Form I-360 or separately after the petition has been approved. Even if filed concurrently, the forms are processed by USCIS in sequence, so that action on Form I-485 begins only after Form I-360 is approved.<ref name=uscis-sij-forms/> There may be some wait times after the approval of Form I-360 before the Adjustment of Status application can be processed, due to numerical limits on the number of people per year who can use Special Immigrant Juvenile Status; however, in general the Priority Dates for these applications are current for most [[country of chargeability|countries of chargeability]].<ref name=ilrc/> SIJS falls under the EB-4 category.<ref name=perez-olano>{{cite web|url = https://www.uscis.gov/sites/default/files/USCIS/Laws/Memoranda/2015/2015-0624_Perez-Olano_Settlement_Agreement_PM_Effective.pdf|title = Policy Memorandum: Updated Implementation of the Special Immigrant Juvenile ''Perez-Olano'' Settlement Agreement|date = June 25, 2015|accessdate = February 10, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+
+Once the Form I-485 is approved, the applicant transitions to Lawful Permanent Resident status and acquires a Green Card, at which point he or she becomes just like any other LPR, with the exception of not being able to sponsor siblings (till naturalization) or parents (ever).
+
+=== Other forms ===
+
+People seeking SIJS may file these forms, typically along with Form I-485:<ref name=uscis-sij-forms/>
+
+* Form I-765, Application for Employment Authorization, to obtain an [[Employment Authorization Document]]: SIJS applicants are allowed to file Form I-765 along with Form I-485, or after filing a Form I-485 was filed with a fee or accepted by USCIS. The main reason for filing Form I-765 is to allow the applicant to start working even after his or her Adjustment of Status application is in process. Usually, the Form I-765 application is approved in a few months and the applicant receives an Employment Authorization Document (EAD) card and can start working. Once te Form I-485 is approved and the applicant becomes a Lawful Permanent Resident, the EAD card is no longer necessary.<ref name=uscis-sij-process/>
+* Form I-601, Application for Waiver of Grounds of Inadmissibility: If the applicant would otherwise be inadmissible to the United States (for instance due to unlawful entry or unauthorized stay) then Form I-601 must be included. The form is used to state one's existing grounds of inadmissibility and ask for them to be waived. There is a fee for this form. This form must be filed along with Form I-485.<ref name=uscis-sij-process/><ref name=uscis-sij-green-card-inadmissibility>{{cite web|url = https://www.uscis.gov/green-card/special-immigrant-juveniles/green-card-based-sij-status|title = Green Card Based on SIJ Status|accessdate = February 10, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+* Form I-912, Request for Fee Waiver: The Form I-360 does not have a fee when used for SIJS. However, the Forms I-485 and I-601 have fees. In order to not have to pay those fees, Form I-912 must be included, listing all the forms one is filing that one is unable to pay the fee for.<ref name=uscis-sij-process/>
+
+== Statistics ==
+
+=== Statistics for Form I-360 ===
+
+The USCIS releases and updates a dataset on the number of applications received, approved, and denied by quarter for SIJS.<ref>{{cite web|url = https://www.uscis.gov/tools/reports-studies/immigration-forms-data/data-set-form-i-360-petition-special-immigrant-juveniles|title = Data Set: Form I-360 Petition for Special Immigrant Juveniles|accessdate = February 10, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref> According to this data set, the usage of the program has been steadily increasing, and the rate of petition processing has not completely kept pace, resulting in an increase in the number of pending applications at any given point in time.<ref>{{cite web|url = https://www.uscis.gov/sites/default/files/USCIS/Resources/Reports%20and%20Studies/Immigration%20Forms%20Data/Citizenship/I360_sij_performancedata_fy2015_qtr4.pdf|title = Number of I-360 Petitions for Special Immigrant with a Classification of Special Immigrant Juvenile (SIJ) by Fiscal Year and Case Status 2010-2015|publisher = [[United States Citizenship and Immigration Services]]|accessdate = February 10, 2016}}</ref> Note that counts of petitions received, approved and denied are during the period in question, whereas counts of petitions pending are at the end of the period.
+
+{| class="wikitable" border="1"
+! Period !! Petitions received !! Approved !! Denied !! Pending
+|-
+| 2010 || 1646 || 1590 || 97 || 35
+|-
+| 2011 || 2226 || 1869 || 84 || 47
+|-
+| 2012 || 2968 || 2726 || 119 || 220
+|-
+| 2013 || 3994 || 3431 || 190 || 702
+|-
+| 2014 || 5776 || 4606 || 247 || 1826
+|-
+| 2015 || 11500 || 8739 || 412 || 4357
+|}
+
+The increase since 2013 has been attributed to the use of these special statuses by some of the child migrants who arrived as part of the [[2014 American immigration crisis|2014 child migrant surge]].<ref name=npr-surge/><ref name=ipc-surge/>
+
+Despite this increase in the number of pending applications, the [[USCIS processing times|processing times]] for Form I-360, as reported by USCIS, are still within the processing time goal of 5 months.<ref name=uscis-processing-times>{{cite web|url = https://egov.uscis.gov/cris/processTimesDisplayInit.do|title =  USCIS Processing Time Information|publisher = [[United States Citizenship and Immigration Services]]|accessdate = January 22, 2015}}</ref>
+
+=== Statistics for Adjustment of Status applications ===
+
+For most countries of chargeability, the Priority Dates for the EB-4 category that SIJS falls in is current, which means there are no wait times on account of the numerical limits.<ref name=visa-bulletin>{{cite web|url = http://travel.state.gov/content/visas/en/immigrate/immigrant-process/approved/checkdate.html|accessdate = February 10, 2016|publisher = [[U.S. Department of State]]}}</ref>
+
+The [[USCIS processing times|processing time]] for Form I-485 is listed as 4 months; however, processing times may be longer in case the FOrm I-485 is accompanied by a Form I-601, since the processing time for the Form I-601 is about 7 months.<ref name=uscis-processing-times/>
+
+
+== References ==
+
+{{reflist}}

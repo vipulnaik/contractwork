@@ -1,0 +1,19 @@
+=== The student pays the SEVIS fee ===
+
+In order to transition to student status, the prospective student must pay a one-time SEVIS fee using Form I-901.<ref>{{cite web|url = https://internationalaffairs.uchicago.edu/page/students/admitted|ttile = Admitted Students|publisher = [[University of Chicago]]|accessdate = February 9, 2016}}</ref> Note that this fee applies both to people who are not currently in the United States (and need a visa) and to those who plan to change status using [[Form I-539]].<ref name=studyinthestates-i-539>{{cite web|url = https://studyinthestates.dhs.gov/2013/07/what-is-the-form-i-539|title = What is the Form I-539?|date = June 18, 2013|accessdate = February 1, 2016|publisher = [[U.S. Department of Homeland Security]]}}</ref>
+
+=== For students outside the United States: the student applies for a visa and then enters the United States ===
+
+If the student is outside the United States, then he/she must apply for a student visa (F or M). The visa interview must be scheduled for no fewer than 120 days prior to the start date indicated on the Form I-20.<ref name=uchicago-visa>{{cite web|url = https://internationalaffairs.uchicago.edu/page/getting-your-student-visa|title = Getting Your Student Visa|accessdate = February 9, 2016|publisher = [[University of Chicago]]}}</ref>
+
+=== For students in the United States in a different status: the student can (under some conditions) apply to change status ===
+
+If the student is already in the United States in another status, it may be possible to change status using [[Form I-539]]. However, there are many limitations. For instance, the process generally takes 3–6 months, which can be considerably longer than traveling outside the United States and getting a new visa.<ref name=iss>{{cite web|url = https://iss.washington.edu/procedures/change-status|title = Change of Nonimmigrant Status|accessdate = February 1, 2016}}</ref>
+
+For those who entered the United States using a [[B visa]], having an annotation on the visa saying that the entrant is a "Prospective Student" is generally a prerequisite for the Form I-539 application to be accepted.<ref name=nolo-b>{{cite web|url = http://www.nolo.com/legal-encyclopedia/how-extend-your-stay-change-your-status-while-b-visa.html|title = How to Extend Your Stay or Change Your Status While on a B Visa. The steps you must take as a B visa entrant to request an extension of stay in the U.S.|last = Gasson|first = Kristina|accessdate = January 25, 2016|publisher = [[NOLO]]}}</ref><ref name=cmu>{{cite web|url = https://www.cmu.edu/oie/forstu/pdf/change-status.pdf|title = Change of Non-immigrant Status to F-1 Status|accessdate = February 1, 2016}}</ref>
+
+In general, the USCIS does not approve transition to student status with a start date more than 30 days prior to the program start date. Therefore, applications where the applicant's current status expires more than 30 days before the start date of their program are likely to be rejected.<ref name=i-539-instructions>{{cite web|url = http://www.uscis.gov/sites/default/files/files/form/i-539instr.pdf|title = Instructions for Application to Extend/Change Nonimmigrant Status|publisher = [[United States Citizenship and Immigration Services]]|accessdate = February 1, 2016}}</ref>
+
+=== For students transferring from one educational institution to another ===
+
+Transfer students do not need to file Form I-539 or pay the SEVIS fee again.

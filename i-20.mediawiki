@@ -1,0 +1,102 @@
+{{other uses|I-20 (disambiguation)}}
+The Form '''I-20''' (also known as the Certificate of Eligibility for Nonimmigrant (F-1) Student Status-For Academic and Language Students) is a [[United States Department of Homeland Security]], specifically [[U.S. Immigration and Customs Enforcement|ICE]] and the [[Student and Exchange Visitor Program]] (SEVP), document issued by SEVP-certified schools ([[college]]s, [[university|universities]], and [[vocational school]]s) that provides supporting information on a student's F or M status.<ref name=studyinthestates>{{cite web|url = https://studyinthestates.dhs.gov/2013/01/what-is-the-form-i-20|title =  What is the Form I-20?|date = January 28, 2013|accessdate = February 9, 2016}}</ref><ref name=educationusa>{{cite web|url = https://educationusa.state.gov/foreign-institutions-and-governments/understanding-us-higher-education/international-student|title = International Student Visas|publisher = EducationUSA|accessdate = February 9, 2016}}</ref> Since the introduction of the [[Student and Exchange Visitor Information System]] (SEVIS) run by SEVP, the form also includes the student tracking number ([[SEVIS]] ID number) and school code. The Form I-20 is only for F-1, F-2, M-1, and M-2 statuses. J-1 and J-2 status holders have an equivalent Form [[J-1 visa|DS-2019]] which is issued by a [[United States Department of State]]-designated J exchange visitor program.
+
+== Overall role ==
+
+=== SEVP-certified institution ===
+
+The Form I-20 is issued by a Designated School Official (DSO) at the institution (college, university, or vocational school). Only institutions that are SEVP-certified can issue Form I-20s. An institution can acquire SEVP certification by filing Form I-17 with [[U.S. Immigration and Customs Enforcement]] (this is a one-time process).<ref>{{cite web|url = https://www.ice.gov/sevis/i17|title = Overview of the SEVP certification process|publisher = [[U.S. Immigration and Customs Enforcement]]|accessdate = February 9, 2016}}</ref> Note that an institution can be SEVP-certified despite not holding national or regional accreditation.<ref name=educationusa/> Conversely, an institution may hold national or regional accreditation but may have chosen not to obtain SEVP certification if it does not intend to admit international students in the F, J, or M status.
+
+A large university typically has an international office that manages its participation in the SEVP, and all the DSOs work for this office. The international office manages updates to the SEVIS record and issuing of new paper Form I-20s. Students who have any change to their plans (such as program end date, course load, leave of absence, return from leave of absence) must communicate these changes with their international office.
+
+=== Student SEVIS record and Form I-20 ===
+
+At the time the first Form I-20 is issued to the student (after accepting the offer of admission from the institution) a record is created for the student in the Student and Exchange Visitor Information System (SEVIS). At any given time, the responsibility for keeping the student's SEVIS record up to date falls with the SEVP-certified institution the student is currently enrolled in. If the student transfers to a different SEVP-certified institution, the responsibility of updating the SEVIS record now falls on the new institution.<ref name=ice-dso-faq/>
+
+The Form I-20 can be thought of as a paper representation of the most up-to-date SEVIS information on record for the student's current enrollment. Whenever there are substantive changes to the information, the SEVIS record is updated, and a new Form I-20 is issued to the student by the institution with the updated information. The student must use the most up-to-date Form I-20 when demonstrating student status.<ref name=ice-schools>{{Cite web|url = https://www.ice.gov/sevis/schools/|title = Requirements of Schools Seeking F & M Certification|accessdate = February 10, 2016|publisher = [[U.S. Immigration and Customs Enforcement]]}}</ref>
+ 
+== Process ==
+
+=== Issuance of first Form I-20 ===
+
+Once the prospective student has accepted the institution's offer of admission, the institution issues a Form I-20 to the student.<ref name=educationusa/><ref name=studyinthestates/>
+
+Apart from biographical information about the student (including the student's name, date of birth, citizenship, etc.), there are two main pieces of information that must be entered in the student's SEVIS record and the initial Form I-20.
+
+* Program details: The program name, start date, and end date.
+* How the student intends to meet tuition and living expenses for the first year the student is in the program, or until the end date indicated on the I-20, whichever is shorter.
+
+Each international office may follow its own rules or guidelines regarding the type of documentation it requests from the student or from other departments in order to be able to issue the I-20. The jargon used for this documentation will also vary by institution. For instance, the [[University of Chicago]] and [[University of Michigan]] uses the term "Financial Resources Statement" for the statement that students need to submit to it regarding how they will meet their expenses.<ref>{{cite web|url = https://internationalaffairs.uchicago.edu/frs|title = Qualifying for your I-20 or DS-2019|publisher = [[University of Chicago]]|accessdate = February 9, 2016}}</ref><ref>{{cite web|url = http://www.internationalcenter.umich.edu/immig/forms/I20-DS2019state-finance.pdf|title = Financial Resources Statement for Issuance of Form I-20 or DS-2019|accessdate = February 9, 2016}}</ref>, while the [[University of Illinois at Urbana-Champaign]] uses the term "Declaration & Certification of Finances for I-20/DS-2019 Application".<ref>{{cite web|url = http://www.grad.illinois.edu/sites/default/files/pdfs/certoffinances.pdf|title = Declaration & Certification of Finances for I-20 / DS-2019 Application FOR INTERNATIONAL APPLICANTS ONLY|accessdate = February 9, 2016}}</ref>
+
+After receiving information from the student and institution regarding the program length and end date, the international office creates the student's SEVIS record, gets a SEVIS number for the student, and issues a Form I-20. A physical copy of the form may be mailed to the student overseas. In the case that the student has a SEVIS record from previous student status, the existing SEVIS record should be transferred.<ref name=ice-dso-faq>{{cite web|url = https://www.ice.gov/sevis/f1-transfers|title = Transfers for F-1 Students|publisher = [[U.S. Immigration and Customs Enforcement]]|accessdate = February 9, 2016}}</ref>
+
+The international office may refuse to issue a Form I-20 if the student is unable to demonstrate how he or she plans to cover expenses for the first year. 
+
+=== Use of Form I-20 while transitioning to student status ===
+
+The Form I-20 is used in the following stages of the transition to student status in the United States:
+
+* The SEVIS number on the I-20 is needed while paying the SEVIS fee.<ref name=sevis-payment>{{cite web|url = https://fmjfee.com/i901fee/desktop/students/applicantValidation.htm|title = Student and Exchange Visitor Program: I-901 Fee|publisher = [[U.S. Immigration and Customs Enforcement]]|accessdate = February 10, 2016}}</ref>
+* It is needed when applying for the [[F visa]] or [[M visa]], both when filling the application form and during the interview. The consular officer interviewing the applicant may ask for additional substantiation regarding how the applicant intends to cover expenses during the first year.<ref name=immihelp-student-visa-documents>{{cite web|url = http://www.immihelp.com/visas/studentvisa/f1-visa-documents.html|title = Documents for F1 Visa Applicant|publisher = ImmiHelp|accessdate = February 10, 2016}}</ref>
+* It is needed when seeking admission to the United States. At the time of admission, a valid visa as well as a valid I-20 are needed. At the time of initial entry, the officer at the port of entry checks that the program start date is at most 30 days ahead, and that the I-20 has a valid travel signature.<ref>{{cite web|url = https://internationalaffairs.uchicago.edu/page/arriving-us-airport-or-port-entry|title = Arriving in the U.S. at the Airport or the Port of Entry|accessdate = February 9, 2016}}</ref> It is also necessary that, at the time of initial entry, the school the student intends to intend matches the school on the student's visa and the student's I-20, though this is not a requirement in the future.<ref name=ice-dso-faq/> The officer at the port of entry also issues a [[Form I-94]] with expiration date indicated as "D/S" (Duration of Status), which means that the student is in authorized status in the United States until the program end date indicated on the I-20 (and can stay in the United States for up to 60 days after that).
+* For those who are not seeking admission to the United States but simply changing status, a copy of the Form I-20 needs to be attached along with the [[Form I-539]] application to change status.<ref name=i-539-guidance>{{cite web|url = http://www.uscis.gov/sites/default/files/USCIS/Resources/C2en.pdf|title = I am a nonimmigrant. How do I change to another nonimmigrant status?|publisher = [[United States Citizenship and Immigration Services]]|accessdate = February 1, 2016}}</ref>
+
+For those entering the United States in student status, the date of entry to the United States is treated as the start date for the student being in the F or M student status (even if this is before the program start date). For those transitioning to student status from another status, the date of transition indicated on the Form I-539 is treated as the start date.
+
+== Subsequent use of Form I-20 ==
+
+=== Establishing legality of status and stay ===
+
+The Form I-20 serves as evidence of the legality of the student's current presence in the United States. Note that a valid visa is ''not'' necessary for being in lawful student status; a valid visa is ''only'' needed when entering or re-entering the United States.<ref name=visa-vs-status-uchicago>{{cite web|url = https://internationalaffairs.uchicago.edu/page/visa-vs-status|title = Visa vs. Status: One can expire; the other may not!|accessdate = February 10, 2016|publisher = [[University of Chicago]]}}</ref>
+
+=== Documentation of student status for United States government purposes ===
+
+The Form I-20 may be used to demonstrate student status when applying for United States government documents and benefits such as [[Individual Taxpayer Identification Number]] (ITIN) and [[Social Security Number]].<ref>{{cite web|url = https://www.socialsecurity.gov/pubs/EN-05-10181.pdf|title = International Students And Social Security Numbers|publisher = [[Social Security Administration]]|accessdate = February 10, 2016}}</ref>
+
+=== Travel and travel signatures ===
+
+Whenever the student re-enters the United States after traveling, the student must have all of these at the time of arrival at the port of entry:<ref>{{cite web|url = https://iss.washington.edu/travel_signatures|title = Travel Signatures|accessdate = February 9, 2016}}</ref>
+
+* A valid passport (valid for at least six more months)
+* A valid F or M visa
+* A valid I-20 (i.e., an I-20 whose program end date has not yet arrived)
+* A travel signature on the I-20 (page 3) from the DSO that is at most one year old (six months in the case of students currently on post-completion [[Optional Practical Training]])
+
+Since travel signatures are valid for only a year, students need to periodically get updated travel signatures on their I-20 from their international student office. The purpose of this requirement is to avoid cases where people who are no longer enrolled as students at an institution keep using an outdated Form I-20 to get in. In particular, when adding a new travel signature to the OPT, it is the responsibility of the international student office to make sure that the student is still enrolled at the institution. In case the Form I-20 runs out of space for travel signatures, the international office may print out a new Form I-20 for the student.
+
+In the special case of [[automatic visa revalidation]], whereby the student returns to the United States after a trip to Canada, Mexico, or a nearby island for at most 30 days, it is not necessary to have a valid visa at the time of re-entry. However, it is still necessary to have a valid Form I-20 and a travel signature.<ref name=travel-visas>{{cite web|url = https://iss.washington.edu/travel-visas|title = Travel & Visas|accessdate = February 9, 2016}}</ref>
+
+== Changes to Form I-20 ==
+
+In general, whenever there are changes to the information in Form I-20, a new Form I-20 is issued.<ref name=ice-schools/> The student is advised to keep all historical Forms I-20 for the record but only the most recent copy should be used for travel or as proof of current student status.
+
+===Changing the program end date ===
+
+It may happen that the student's actual program end date falls earlier or later than what the student expected. It is necessary that a new I-20 be issued reflecting the current program end date, both prior to the program's actual end and prior to the stated program end date on the Form I-20.
+
+If the Form I-20 is being shortened, the international office may require the student to submit evidence showing that the student has enough academic credits to graduate early.<ref name=shortenprogram/> if the Form I-20 is being extended, then, in addition to any evidence from the student about changed academic plans, the international office also needs an updated statement of financial resources for the new I-20 to cover up to one year of the I-20 extension.
+
+After the change to the program end date is made in the student's SEVIS record, the new Form I-20 is issued to the student.
+
+It is important to note that the program end date on the Form I-20 need not coincide with the graduation date. Rather, it is the end date of the student's enrollment in courses. It is not possible to extend the program end date simply in order to be able to stay around till the graduation ceremony. If the graduation ceremony falls outside the 60-day grace period of completion of coursework, then the student must find some other way to be legally present for it (for instance, by staying around on [[Optional Practical Training]], or getting a [[B visa]] for the graduation ceremony).<ref name=shortenprogram>{{cite web|url = https://internationalaffairs.uchicago.edu/page/shortenprogram|title = Finishing Courses Earlier Than I-20/DS-2019 End Date|accessdate = February 9, 2016|publisher = [[University of Chicago]]}}</ref>
+
+=== Other changes ===
+
+The following are some other types of major updates to the student's SEVIS record that require changes to the Form I-20. In all cases, the student must contact the international office beforehand and have a new I-20 issued in advance:<ref name=iss-special-cases>{{cite web|url = https://iss.washington.edu/procedures/drop-and-withdrawl|title = Dropping a Course, Withdrawal, and On-Leave Status|publisher = [[University of Washington]]}}</ref>
+
+* Reduced Course Load: This means that the student is not enrolled as a full-time student. Reasons for granting RCL include final quarter/semester, medical condition, and academic difficulties. Academic difficulties in turn include improper course level placement, academic difficulties with the English language, or unfamiliarity with American teaching methods.<ref name=uchicago-rcl>{{cite web|url = https://internationalaffairs.uchicago.edu/page/maintaining-full-time-course-load|title = Maintaining a Full Time Course Load|publisher = [[University of Chicago]]}}</ref><ref name=iss-special-cases/>
+* Practical Training, including [[Optional Practical Training]] (pre-completion and post-completion) and [[Curricular Practical Training]]<ref>{{cite web|url = https://internationalaffairs.uchicago.edu/page/opt-optional-practical-training|title = OPT (Optional Practical Training)|accessdate = February 10, 2016|publisher = [[University of Chicago]]}}</ref>
+* Leave of Absence and Withdrawal<ref>{{cite web|url = https://internationalaffairs.uchicago.edu/page/leave-absence-and-withdrawal|title = Leave of Absence and Withdrawal|accessdate = February 10, 2016|publisher = [[University of Chicago]]}}</ref>
+
+==See also==
+*[[College admissions in the United States]]
+*[[F-1 visa]]
+*[[J-1 visa]]
+*[[M-1 visa]]
+==External links==
+*[http://educationusa.state.gov/usvisa.htm State Department education visa page]
+*[http://www.uscis.gov/ United States Customs and Immigration Services]
+
+
+[[Category:United States Department of Homeland Security|I-020]]
+[[Category:United States government forms|I-020]]
