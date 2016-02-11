@@ -1,6 +1,70 @@
 {{other uses|I-20 (disambiguation)}}
 The Form '''I-20''' (also known as the Certificate of Eligibility for Nonimmigrant (F-1) Student Status-For Academic and Language Students) is a [[United States Department of Homeland Security]], specifically [[U.S. Immigration and Customs Enforcement|ICE]] and the [[Student and Exchange Visitor Program]] (SEVP), document issued by SEVP-certified schools ([[college]]s, [[university|universities]], and [[vocational school]]s) that provides supporting information on a student's F or M status.<ref name=studyinthestates>{{cite web|url = https://studyinthestates.dhs.gov/2013/01/what-is-the-form-i-20|title =  What is the Form I-20?|date = January 28, 2013|accessdate = February 9, 2016}}</ref><ref name=educationusa>{{cite web|url = https://educationusa.state.gov/foreign-institutions-and-governments/understanding-us-higher-education/international-student|title = International Student Visas|publisher = EducationUSA|accessdate = February 9, 2016}}</ref> Since the introduction of the [[Student and Exchange Visitor Information System]] (SEVIS) run by SEVP, the form also includes the student tracking number ([[SEVIS]] ID number) and school code. The Form I-20 is only for F-1, F-2, M-1, and M-2 statuses. J-1 and J-2 status holders have an equivalent Form [[J-1 visa|DS-2019]] which is issued by a [[United States Department of State]]-designated J exchange visitor program.
 
+== Structure ==
+
+=== Current structure of I-20 ===
+
+The I-20 was updated starting June 2015, with all new I-20s issued using the new format starting June 26, 2016, and the new I-20 necessary for all students seeking entry or re-entry starting July 2016. The main reason for the update to the form was the standardization of names in SEVIS. The changes include:<ref name=i-20-redesign>{{Cite web|url = https://studyinthestates.dhs.gov/2015/06/coming-soon-a-redesigned-form-i-20|title = Coming Soon: A Redesigned Form I-20|date = June 18, 2015|accessdate = February 10, 2016}}</ref>
+
+* More prominence to the SEVIS number.
+* Better separation of student information from dependent information.
+* Expandable field boxes that display information about cap gap extension, change of status, event history and other authorizations. 
+* General design improvements that include moving the instructions to the third page of the Form I-20, as well as the removal of the barcode, and the blocks for visa and port of entry information.
+* The new Request Mass Reprint functionality that allows DSOs to reprint Forms I-20 for multiple students at a time. 
+
+The new Form I-20 is three pages long. Each dependent gets an additional three pages, with the same format.<ref>{{cite web|url = https://studyinthestates.dhs.gov/sites/default/files/Form%20I-20%20SAMPLE.pdf|title = I-20, Certificate of Eligibility for Nonimigrant Student Status}}</ref>
+
+Page 1 contains the following:
+
+* The SEVIS ID (printed in bold on top)
+* Student's biographical information: various kinds of names, countries of birth and citizenship, and date of birth
+* The class of admission (F-1 or M-1; in case of additional pages added for dependents, the class of admission is F-2 or M-2)
+* School information (school name, school address, school SEVIS code, and name of the DSO)
+* Information about the program of study: Program name, education level, normal program length, start and end date, English proficiency
+* Financial information for the first year of studies, with one column for estimated funding costs and another column for funding sources
+* Remarks
+* School attestation, signed and dated by the DSO
+* Student attestation, signed and dated by the student
+
+Page 2 contains the following (this is information that appeared on Page 3 in the previous I-20):
+
+* Employment authorization (such as for [[Optional Practical Training]] or [[Curricular Practical Training]])
+* Information on change of status or the cap-gap extension (for post-completion OPT)
+* Event history (as a table)
+* Other authorizations (as a table)
+* Travel signatures
+
+In the case of long event histories, Page 2 could spill over to multiple pages.
+
+Page 3 contains instructions.
+
+=== Structure of I-20 until June 2015 ===
+
+The Form I-20 used until June 2015 has three pages, of which the second page is an instructions page, so that only the first and third pages contain information specific to the student's SEVIS record.<ref>{{cite web|url = http://www.brandeis.edu/isso/current/checkin/I20_pg1_and_pg3_before_6-29-15.pdf|title = SAMPLE Certificate of Eligibility I-20 (for F visa holders)|publisher = [[Brandeis University]]}}</ref>
+
+Page 1 contains the following:
+
+* SEVIS number
+* Student's biographical information (name, country of birth, country of citizenship)
+* Information about the school and Designated School Official who needs to be informed upon the student's arrival
+* The student's degree program, reporting date, and program end date.
+* Whether the student is proficient in the English language.
+* How the student intends to meet his/her first year of expenses.
+* Name and signature of the DSO, along with the date.
+* Name and signature of the student, along with the date.
+
+Page 3 includes the following:
+
+* The student's name
+* Information on any work authorization, including [[Optional Practical Training]] and [[Curricular Practical Training]]
+* A section for travel signatures. A travel signature at most 1 year old is necessary whenever re-entering the United States
+
+An additional Page 4 may be included for information on the student's dependents, if any.
+
+== History == 
+
+Student visas had bee 
 == Overall role ==
 
 === SEVP-certified institution ===
