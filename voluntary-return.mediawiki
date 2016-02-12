@@ -1,0 +1,23 @@
+''''Voluntary return''', also known as '''Voluntary departure''', '''Administrative voluntary departure''', and '''voluntary deportation''', is a process where somebody who is in [[removal proceedings]] and scheduled for a hearing before an immigration judge chooses to return to his or her home country, and in return, [[U.S. Immigration and Customs Enforcement]], after making sure that the person actually departs the United States, makes sure not to put a removal order in the person's immigration record.<ref name=nolo>{{cite web|url = http://www.alllaw.com/articles/nolo/us-immigration/voluntary-departure-deportation.html|title = Voluntary Departure: Why "Volunteer" to be Deported? If you're facing removal from the U.S. (deportation) and have no means of defense, you may request voluntary departure to avoid some future immigration consequences.|publisher = [[NOLO]]|accessdate = February 12, 2016}}</ref><ref name=cpvisa>{{cite web|url = http://www.cpvisa.com/article_2.html|title = VOLUNTARY DEPARTURE OR REMOVAL: IS THERE ANY DIFFERENCE?|last = Pierce|first = Curtis|last2 = Marot|first2 = John Eric|publisher = CPVisa.com|accessdate = February 12, 2016}}</ref>
+
+==Types of voluntary return ==
+
+There are various types of voluntary return:
+
+* Voluntary return at a port of entry or at the border, by an Arriving Alien (seeking admission to the United States). This requires the consent of the alien as well as the [[U.S. Customs and Border Protection]] officers handling the alien.
+* Voluntary return while in [[removal proceedings]] prior to the hearing. This requires the consent both of the alien and the [[U.S. Immigration and Customs Enforcement]] officers handling the alien.
+* Voluntary return during the hearing. This requires the consent of the alien and the Immigration Judge (IJ).
+* Voluntary 
+=== Voluntary return at a port of entry ===
+
+If [[U.S. Customs and Border Protection]] believes that an Arriving Alien is not admissible to the United States, then there are three ways for the Arriving Alien to return:<ref name=asianjournal>{{cite web|url = http://asianjournal.com/immigration/expedited-removal-withdrawal-of-application-for-admission-and-voluntary-return/|title = Expedited removal, withdrawal of application for admission and voluntary return|publisher = Asian Journal|accessdate = February 12, 2016}}</ref>
+
+* An order of [[expedited removal]] against the alien. In this case, all the consequences associated with a removal order apply to the alien. This does not require consent from the alien; however, if the alien claims to be eligible for asylum, then a [[credible fear]] interview must be arranged. An expedited removal order carries with it all the penalties associated with a removal order, including a 5-year bar to re-entry.
+* The alien chooses Withdrawal of Application for Admission. This is a discretionary option offered by CBP sometimes, and needs to be agreed to both by CBP and by the alien. The alien could then re-apply for admission to the United States without any blemish on his or her immigration record. This option is usually offered if the CBP officers believe the alien made a genuine mistake and may in fact be admissible if he or she applied properly, for instance, by getting a more appropriate visa, or filing Form I-192.<ref>{{cite web|url = http://www.borderimmigrationlawyer.com/withdrawal-of-application-for/|title = Withdrawal of Application for Admission|last = Murphy|first = Sarah|publisher = Border Immigration Lawyer|accessdate = February 12, 2016}}</ref>
+* The alien undergoes voluntary return. This is a discretionary choice for the CBP. While this does not create a bar to re-entry, it differs from a withdrawal of application in that there is a record of the application for admission being ''denied'' rather than ''withdrawn''.
+
+Previously, a fourth method called the "turn-around", was common at non-designate ports of entry (such as land or sea borders), whereby the alien was simply physically obstructed from entering the United States, and asked to returned. Border turn-arounds are rarer now and have been replaced by the options above.<ref name=asianjournal/>
+
+== References ==
+
+{{reflist}}
