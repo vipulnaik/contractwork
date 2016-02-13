@@ -25,7 +25,9 @@ year.
 * Start by January 8, finish by January 10: Timeline of online food delivery
 * Start by January 15, finish by January 17: Timeline of Amazon.com
 * Start by January 22, finish by January 24: Timeline of Microsoft
-* Start by January 29, finish by January 31: Timeline of Intel
+* Start by January 29, finish by January 31 [delayed]: Timeline of Intel
+* Start by February 2, finish by February 7 [delayed]: CrunchFund
+* Start by February 9, finish by February 14: MG Siegler
 
 (more weeks, months to be added).
 
@@ -34,6 +36,7 @@ year.
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
 * Timeline of Microsoft: $125
+* Timeline of Intel: $150
 
 == Timeline pages ==
 
@@ -41,9 +44,6 @@ In general, for timeline pages, we expect about 1-5% of the pageviews
 that we see for the corresponding page whose timeline page it is.
 
 === Technology ===
-
-
-* Timeline of Intel: The Intel page gets about 65K views a month, so we should expect 600-2500 pageviews per month. Proposed bounty amount: $150 for a fairly comprehensive timeline page, less based on how much you cover.
 
 * Timeline of Instagram: The Instagram page gets 150K views a month, so we should expect 1.5-7.5K pageviews per month. Proposed bounty amount: $100
 
