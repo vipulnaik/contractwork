@@ -17,3 +17,5 @@
 * Form 1099-R: Pay: $50
 
 * Form 1099-K: Pay: $30
+
+* Individual Shared Responsibility Provision: Pay: $40
