@@ -13,3 +13,7 @@
 * Form 1042-S. Pay: $25
 
 * De minimis fringe benefit(s) (decide whether to pluralize). Pay: $25
+
+* Form 1099-R: Pay: $50
+
+* Form 1099-K: Pay: $30
