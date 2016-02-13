@@ -29,16 +29,6 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 
 === New pages ===
 
-* Form 1095: Pay: $25
-
-* Form W-4: Pay: $25
-
-* Filing Information Returns Electronically (FIRE). Pay: $25
-
-* Form 1042-S. Pay: $25
-
-* De minimis fringe benefit(s) (decide whether to pluralize). Pay: $25
-
 * 83(b) election. Pay: $100
 
 == Nonprofits ==
