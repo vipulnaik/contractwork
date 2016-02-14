@@ -2,11 +2,11 @@
 
 * Form W-4: Pay: $30
 
+* Form 1095: Pay: $30
+ 
 == Taxes ==
 
 === New pages ===
-
-* Form 1095: Pay: $25
 
 * Filing Information Returns Electronically (FIRE). Pay: $25
 
