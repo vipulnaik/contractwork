@@ -1,8 +1,17 @@
 == Completed pages ==
 
+=== Fully completed ===
+
 * Form W-4: Pay: $30
 
 * Form 1095: Pay: $30
+
+* Individual shared responsibility provision: Pay: $40
+
+=== Almost done but need to be finished more satisfactorily ===
+
+* Form 1042: Pay for full completion: $25. Pay for current work:
+  $15. Remaining pay: $10.
  
 == Taxes ==
 
@@ -10,12 +19,9 @@
 
 * Filing Information Returns Electronically (FIRE). Pay: $25
 
-* Form 1042-S. Pay: $25
-
 * De minimis fringe benefit(s) (decide whether to pluralize). Pay: $25
 
 * Form 1099-R: Pay: $50
 
 * Form 1099-K: Pay: $30
 
-* Individual Shared Responsibility Provision: Pay: $40
