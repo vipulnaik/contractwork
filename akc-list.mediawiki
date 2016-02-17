@@ -27,7 +27,7 @@ year.
 * Start by January 22, finish by January 24: Timeline of Microsoft
 * Start by January 29, finish by January 31 [delayed]: Timeline of Intel
 * Start by February 2, finish by February 7 [delayed]: CrunchFund
-* Start by February 9, finish by February 14: MG Siegler
+* Start by February 9, finish by February 14 [delayed]: Garry Tan
 
 (more weeks, months to be added).
 
@@ -37,6 +37,7 @@ year.
 * Timeline of Amazon.com: $250
 * Timeline of Microsoft: $125
 * Timeline of Intel: $150
+* CrunchFund: $50
 
 == Timeline pages ==
 
@@ -75,8 +76,6 @@ done. Since you're entering this page category for the first time on a
 bounty it's important we stay on the same page here.
 
 === Firms ===
-
-* CrunchFund. Proposed bounty: $50
 
 * Initialized Capital. Proposed bounty: $50
 
