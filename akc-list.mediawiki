@@ -26,8 +26,9 @@ year.
 * Start by January 15, finish by January 17: Timeline of Amazon.com
 * Start by January 22, finish by January 24: Timeline of Microsoft
 * Start by January 29, finish by January 31 [delayed]: Timeline of Intel
-* Start by February 2, finish by February 7 [delayed]: CrunchFund
-* Start by February 9, finish by February 14 [delayed]: Garry Tan
+* Start by February 5, finish by February 7 [delayed]: CrunchFund
+* Start by February 12, finish by February 14 [delayed]: Garry Tan
+* Start by February 19, finish by February 21 [on-track]: M. G. Siegler
 
 (more weeks, months to be added).
 
@@ -38,7 +39,7 @@ year.
 * Timeline of Microsoft: $125
 * Timeline of Intel: $150
 * CrunchFund: $50
-
+* Garry Tan: $50 [pending some minor fixes to citations]
 == Timeline pages ==
 
 In general, for timeline pages, we expect about 1-5% of the pageviews
@@ -86,8 +87,6 @@ bounty it's important we stay on the same page here.
 === People ===
 
 * M.G. Siegler. Proposed bounty: $50
-
-* Garry Tan. Proposed bounty: $50
 
 * Paige Craig. Proposed bounty: $50
 
