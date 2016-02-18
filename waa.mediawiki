@@ -1,4 +1,4 @@
-'''Withdrawal of application for admission''' is an option that [[U.S. Department of Homeland Security]] might offer to an Arriving Alien whereby the alien chooses to withdraw his or her application to enter the United States, and immediately departs the United States. Unlike an order of removal (including [[expedited removal]] as well as orders obtained as a result of [[removal proceedings]]), a withdrawal of application for admission does not create a bar to future entry.<ref name=borderimmigrationlawyer>{{cite web|url = http://www.borderimmigrationlawyer.com/withdrawal-of-application-for/|title = Withdrawal of Application for Admission|last = Murphy|first = Sarah|publisher = Border Immigration Lawyer|accessdate = February 15, 2016}}</ref><ref name=asianjournal>{{cite web|url = http://asianjournal.com/immigration/expedited-removal-withdrawal-of-application-for-admission-and-voluntary-return/|title = Expedited removal, withdrawal of application for admission and voluntary return|publisher = Asian Journal|date = April 22, 2014|accessdate = February 15, 2016}}</ref>
+'''Withdrawal of application for admission''' is an option that [[U.S. Department of Homeland Security]] might offer to an Arriving Alien whereby the alien chooses to withdraw his or her application to enter the United States, and immediately departs the United States. Unlike an order of removal (including [[expedited removal]] as well as orders obtained as a result of [[removal proceedings]]), a withdrawal of application for admission does not create a bar to future entry.<ref name=borderimmigrationlawyer>{{cite web|url = http://www.borderimmigrationlawyer.com/withdrawal-of-application-for/|title = Withdrawal of Application for Admission|last = Murphy|first = Sarah|publisher = Border Immigration Lawyer|accessdate = February 15, 2016}}</ref><ref name=asianjournal>{{cite web|url = http://asianjournal.com/immigration/expedited-removal-withdrawal-of-application-for-admission-and-voluntary-return/|title = Expedited removal, withdrawal of application for admission and voluntary return|publisher = Asian Journal|date = April 22, 2014|accessdate = February 15, 2016}}</ref><ref name=justice>{{cite web|url = http://www.justice.gov/sites/default/files/eoir/legacy/2014/08/15/Fundamentals_of_Immigration_Law.pdf|title = Fundamentals of Immigration Law|publisher = [[U.S. Department of Justice]]|date = August 15, 2014|accessdate = February 18, 2016|last = Wiegand|first = Charles}}</ref>
 
 == Types of withdrawal ==
 
@@ -24,10 +24,10 @@ Withdrawal of application may be sought at any of these stages:<ref name=borderi
 
 Arriving Aliens undergo initial inspection at a designated port of entry (such as an airport or seaport) by [[U.S. Customs and Border Protection]] officials.
 
-When an alien presents himself or herself for admission at a designated port of entry, the usual course of action is for a CBP officer to let the alien in. If the alien is entering on a nonimmigrant visa, a [[Form I-94]] is issued, whereas if the alien is entering using the [[Visa Waiver Program]], Form I-94W is issued. If the CBP officer believes that the alien should not be admitted, the alien may be taken in for extended questioning, after which the alien may either be allowed to enter the United States, or face one of these fates:
+When an alien presents himself or herself for admission at a designated port of entry, the usual course of action is for a CBP officer to let the alien in. If the alien is entering on a nonimmigrant visa, a [[Form I-94]] is issued, whereas if the alien is entering using the [[Visa Waiver Program]], Form I-94W is issued. Lawful Permanent Residents are not issued any form upon re-entry. If the CBP officer believes that the alien should not be admitted, the alien may be taken in for extended questioning, after which the alien may either be allowed to enter the United States, or face one of these fates:
 
-* Withdrawal of application for admission/consular notification: Here, the applicant withdraws the application to enter the United States. If the entry was visa-based, this is also accompanied by a consular notification to cancel the visa.
-* Voluntary return, also known as administrative voluntary departure: Here, the application for admission is denied and the alien is returned, but there is no order of removal against the alien and therefore no penalties for repeated attempt at entry.
+* Withdrawal of application for admission/consular notification: Here, the applicant withdraws the application to enter the United States. If the entry was visa-based, the corresponding visa may or may not be canceled, depending on the specifics.
+* Voluntary return, also known as administrative voluntary departure: Here, the application for admission is denied and the alien is returned, but there is no order of removal against the alien and therefore no bar to repeated entry.
 * [[Expedited removal]]
 * [[Removal proceedings]] that involve a hearing before an Immigration Judge (this is quite rare for arriving aliens, since any arriving alien deemed removable can be removed through expedited removal.
 
@@ -53,15 +53,62 @@ In the case of a withdrawal of application for admission at a designated port of
 
 === Withdrawal of application for admission with the consent of an immigration judge ===
 
+It is sometimes possible for the Immigration Judge (IJ) to allow the alien to withdraw the application for admission during [[removal proceedings]]. Note that this applies ''only'' to Arriving Aliens, who were never admitted into the United States, but rather were stopped by CBP at the time of attempted entry and placed in removal proceedings. Usually, the consent of the [[U.S. Department of Homeland Security]] is necessary in order for the applicant to be allowed to withdraw the application at this stage. The IJ cannot grant permission to withdraw untilhe or she is satisfied:<ref name=borderimmigrationlawyer/>
+
+# that the individual possesses both the means and intent to depart immediately; and
+# that the individual has established that factors directly relating to the issue of inadmissibility indicate that granting withdrawal would be in the interest of justice. 
+
 == Consequences ==
 
 === Entry in the alien's immigration record ===
+
+The Form I-275 (and for people entering as LPRs, Form I-407) becomes part of the alien's immigration record, potentially affecting future attempts to be admitted to the United States or apply for visas.
 
 === Effect on validity of documents used for seeking admission ===
 
 A withdrawal of application for admission does not automatically invalidate the documents used (if any) to seek admission. 
 
 In cases of application for admission using an entry visa be invalidated in particular cases. Essentially, the visa remains intact where the reason for inadmissibility does not extend to invalidating the visa. An example would be if the alien simply forgot to bring along all the necessary documentation while traveling but has it at home.<ref name=ifm/> Regardless of whether the visa is invalidated, the withdrawal of application for admission does ''not'' directly invalidate any underlying USCIS application or petition (such as [[Form I-129]] or [[Form I-130]]), or other form (such as [[I-20 (form)|Form I-20]] for students) that was a prerequisite to obtaining the visa.<ref name=ifm/>
+
+== History ==
+
+=== Prior to the IIRIRA ===
+
+Prior to the [[Illegal Immigration Reform and Immigrant Responsibility Act of 1996]], withdrawal of application for admission was not recognized in any statute or regulation. The rules surrounding it were only articulated in [[Board of Immigration Appeals]] (BIA) decisions. Three important decisions were:<ref name=justice/>
+
+* Matter of Vargas-Molina (1971) recognized that an Immigration Judge (IJ) could discretionarily allow an alien to withdraw the application for admission during removal proceedings. However, in order for this to happen, the alien needed to convince the IJ that it was in the best interests of justice.
+* Matter of Gutierrez (1988) clarified that the alien needed to demonstrate to the IJ that he or she would immediately depart the United States in order to be able to withdraw the application. It also clarified that withdrawal of application for admission should not be construed as a form of relief from removal. Further, if excludability (now called inadmissibility) were established, the approval of the INS (now the U.S. Department of Homeland Security) was needed to allow withdrawal.
+
+=== Withdrawal of application for admission as recognized in the IIRIRA ===
+
+The [[Illegal Immigration Reform and Immigrant Responsibility Act of 1996]] officially recognized withdrawal of application for admission. It stated that withdrawal of application for admission was a discretionary option that the [[Attornet General]] could offer at any time in lieu of either [[expedited removal]] or [[removal proceedings]].<ref name=justice/>
+
+== Comparison with other procedures ==
+
+=== Comparison with removal procedures ===
+
+Withdrawal of application for admission is an alternative to [[expedited removal]]. Whereas withdrawal of application for admission requires the consent of both the authorities (CBP or the Immigration Judge) and the alien, expedited removal does not require the alien's consent. An alien who refuses to withdraw the application for admission may instead be subject to expedited removal.
+
+Other ways an alien may receive an order of removal include [[stipulated removal]] (requires the consent of the alien and the Immigration Judge), [[reinstatement of removal]] (only applicable to somebody who re-enters unlawfully after having previously being removed), and [[removal proceedings]] (order given by the Immigration Judge).
+
+An alien who receives an order of removal is subject to a re-entry bar that may be five, ten, or twenty years depending on the circumstances.<ref name=re-entry>{{cite web|url = http://www.alllaw.com/articles/nolo/us-immigration/reentry-after-removal-deportation.html|title = Reentry To The U.S. After Removal (Deportation)|publisher = AllLaw|accessdate = February 18, 2016}}</ref> In contrast, there are no re-entry bars in case of withdrawal of application for admission.<ref name=borderimmigrationlawyer/>
+
+The main disadvantage of a withdrawal of application for admission is that it constitutes consent on the alien's part to the charges made in the Form I-275, and therefore makes it harder for the alien to challenge or appeal the finding. Expedited removal orders can be challenged with the CBP (though not appealed) and the findings of removal proceedings allow for appeals with the [[Board of Immigration Appeals]].
+
+=== Comparison with voluntary return ===
+
+Another option that is somewhat similar to withdrawal of application for admission is voluntary return. The two are similar in the following respects:
+
+* In both cases, the alien does not formally enter the United States.
+* Neither of them involves a removal order, and therefore neither carries the re-entry bar (5, 10 or 20 years) associated with a removal order.
+* Both of them are offered discretionarily by the [[U.S. Department of Homeland Security]], usually the [[U.S. Customs and Border Protection]] officer at the [[port of entry]] or deferred inspection site.
+* Both of them require consent from the alien as well, though if the alien fails to consent, he or she may be subject to [[expedited removal]] instead, which carries more severe penalties.
+
+However, the two differ somewhat in the context where they are offered: 
+
+* Withdrawal of application for admission applies ''only'' to Arriving Aliens who present themselves for admission at a port of entry, whereas voluntary return applies to people apprehended by [[Border Patrol]], usually at a land border.<ref name=asianjournal/><ref name=immigrationtexas>{{cite web|url = https://immigrationtexas.wordpress.com/2013/01/18/voluntary-departure-vs-voluntary-return-vs-deportation/|title = Voluntary Departure vs. Voluntary Return vs. Deportation|last = Gutierrez|first = Jennifer|publisher = Immigration Texas|date = January 18, 2013|accessdate = February 18, 2016}}</ref>
+* Withdrawal of application for admission is typically granted only in cases where the CBP officer involved genuinely believes that the alien did not engage in misrepresentation or try to break the law or conceal information, but voluntary return may be granted even in cases where it is believed that the applicant may have been trying to violate immigration law.
+* Withdrawal of application for admission is carried out through the issuing of immigration forms (I-275, etc.) whereas voluntary return requires no signed statement and in general involves less formality.
 
 == References ==
 
