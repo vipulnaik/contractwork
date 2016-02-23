@@ -1,0 +1,35 @@
+'''''Fong Yue Ting v. United States''''' [[case citation|149 U.S. 698]], decided by the [[United States Supreme Court]] on May 15, 1893, was a case challenging provisions of the [[Geary Act]] of 1892 that extended and amended the [[Chinese Exclusion Act]] of 1882. The provisions in question required Chinese in the United States to obtain certificates of residency, and allowed for the arrest and deportation of Chinese who had failed to obtain these certificates, even if they had not violated any other laws.<ref name=justia>{{cite web|url = https://supreme.justia.com/cases/federal/us/149/698/case.html|title = Fong Yue Ting v. United States|publisher = [[Justia]]|accessdate = February 18, 2016}}</ref><ref name=i2us>{{cite web|url = http://immigrationtounitedstates.org/503-fong-yue-ting-v-united-states.html|title = Fong Yue Ting v. United States|publisher = Immigration to the United States|accessdate = February 18, 2016}}</ref><ref name=findlaw>{{cite web|url = http://caselaw.findlaw.com/us-supreme-court/149/698.html|title = United States Supreme Court. FONG YUE TING v. U S, (1893) No. 108|accessdate = February 18, 2016|publisher = [[FindLaw]]}}</ref>
+
+== The case ==
+
+=== Backdrop of laws ===
+
+In 1868, the United States and China entered into the [[Burlingame Treaty]], establishing formal friendly relations between the two countries, and granting China [[most favored nation]] status. The treaty encouraged immigration from China, and granted some privileges to citizens of either country residing in the other, but withheld the privilege of naturalization for immigrants from China.
+
+On November 17, 1880, the Burlingame Treaty was amended to suspend but not prohibit immigration from China. The amendment was called the Treaty Regulating Immigration from China, and historians refer to it as the [[Angell Treaty of 1880]]. The prefix stated: "The United States, because of the constantly increasing immigration of Chinese labourers to the territory of the United States and the embarrassments consequent upon such immigration now desires to negotiate a modification of the existing Treaties which shall not be in direct contravention to their spirit."<ref>{{cite book|title = China and the International System, 1840-1949: Power, Presence, and Perceptions in a Century of Humiliation|last = Scott|first = David|url = https://books.google.com/books?id=6U_DPS4vfO0C&pg=PA77&lpg=PA77&dq=%22treaty+regulating+immigration+from+china%22&source=bl&ots=ovPyk0Nmkp&sig=MwKtx51QSmO3PWuN31ast-qrqdM&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMIsMzIlsjcyAIVUs5jCh2CAQY2#v=onepage&q=%22treaty%20regulating%20immigration%20from%20china%22&f=false}}</ref>
+
+In 1882, the [[Chinese Exclusion Act]] was passed, forbidding (for ten years) the immigration of skilled and unskilled laborers from China to the United States. The rights of prior immigrants were not significantly amended. An 1884 Amendment to the Chinese Exclusion Act required Chinese citizens to obtain re-entry permits if they wished to return after temporarily leaving the United States. On October 1, 1888, the United States government passed the [[Scott Act (1888)|Scott Act]]. Authored by [[William Lawrence Scott]] of [[Pennsylvania]], the act was signed into law by United States President [[Grover Cleveland]] on October 1, 1888.<ref name=harpweek>{{cite web|url=http://immigrants.harpweek.com/ChineseAmericans/2KeyIssues/ScottAct.htm|title = Scott Act (1888)|publisher = Harpweek|accessdate = January 16, 2015}}</ref><ref>{{cite book|title = The Oxford Guide to United States Supreme Court Decisions|url = http://books.google.com/books?id=48DrskXOpLUC&pg=PA53&lpg=PA53&dq=scott+act+1888&source=bl&ots=d_u_SSdUtQ&sig=ZsmXCe7qZSMuQjiPjqoaZeCEFcg|accessdate = January 16, 2015}}</ref> The act forbade re-entry of Chinese immigrants to the United States who would not otherwise be eligible to enter the United States if immigrating for the first time. This went against the privileges that the Burlingame Treaty gave Chinese immigrants to the United States.
+
+In 1892, as the ten-year period for the original Chinese Exclusion Act was scheduled to expire, the exclusion was extended for another 10 years with the [[Geary Act]]. The Geary Act, however, included a number of additional provisions affecting the lives of Chinese already living in the United States. One key set of provisions shifted the burden of proof for demonstrating the right to be in the United States on to the Chinese resident.
+
+The chief enforcement mechanism for this change was "certificates of residence". Chinese already in the United States were required to possess "certificates of residence" that served as proof that they had entered the United States legally and had the right to remain in the country. The certificates of residence contained the name, age, local residence, occupation, and photograph of the applicant.
+
+The following requirements for the certificate were relevant:
+
+* The Chinese resident needed two white witnesses to testify to the person's immigration status in order to be issued the certificate.
+* All Chinese laborers currently in the United States were required to obtain the certification within a year of the passage of the law, with a duplicate kept in the office of the Collector of Internal Revenue.
+
+The following enforcement penalties gave teeth to the requirement for a certificate:
+
+* Any Chinese laborer within the United States without this certificate of residence was "deemed and adjudged to be unlawfully in the United States", they could be arrested and forced to do hard labor, and be deported after a year.
+* Penalties were prescribed for falsification of information on the certificates.
+* Chinese were denied bail in ''[[habeas corpus]]'' proceedings. In particular, this meant that any Chinese detained on account of not having certificates could not be released on bail.
+
+In particular, possession of the certificate ''itself'' became a requirement of law, regardless of whether the person had entered unlawfully.
+
+
+
+== References ==
+
+{{reflist}}
+

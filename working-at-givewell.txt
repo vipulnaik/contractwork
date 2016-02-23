@@ -1,0 +1,44 @@
+Michael Dickens recently wrote a <a href="http://mdickens.me/2016/02/13/modeling_the_value_of_marginal_givewell_research_analysts/">post</a> trying to compute the marginal value of GiveWell research analysts. After commenting on his Facebook post sharing the post, I figured that it may make sense to expand my comments into a separate post. A key difference between the approach used by Michael and that used by me is that Michael's post is a more theoretical exercise while my post tries to look at a lot of numbers. Second Michael seems to make a number of implicit assumptions about GiveWell's competency and the optimality of their approach given their goals. While I don't categorically disagree with these implicit claims, I do not bake these assumptions into my analysis.
+
+Despite the greater attempt at empiricism in my analysis, it should still be treated as a largely exploratory and preliminary analysis. If you are actually considering working at GiveWell, I doubt that this would be anywhere close to a deciding factor.
+
+<h4>Evaluation challenges stemming from size</h4>
+
+This is also my first attempt to trying to tease out the marginal value of employees at an organization. So the novelty of the exercise alone makes it challenging. However, there are some additional challenges.
+
+<ul>
+	<li>GiveWell's employee headcount has been increasing significantly between mid-2013 and the end of 2015, whereas their impact is harder to judge on a finer level than annual, because most of their money is moved in December or January. When comparing employee headcount against outcomes in 2015, it's hard to decide what employee count to use for 2015.</li>
+	<li>Staff currently listed as working for GiveWell (on their official site) have been doing work for the Open Philanthropy Project, which has a totally different mode of operation and is much more recent. I want to restrict this post to evaluation of GiveWell, and it's hard to get a good estimate of the effective GiveWell headcount.</li>
+	<li>In addition to their staff, GiveWell also pays conversation notes writers for part-time work. It's not clear whether to include this in the employee headcount or not.</li>
+</ul>
+
+I believe that the effective number of GiveWell staff averaged over 2015 (excluding staff time for the Open Philanthropy Project) was 12 (estimate range of 10 to 15), and including conversation notes writers, around 15 (estimate range of 12 to 20). I will use these numbers for various estimations exercises later. GiveWell hopes to cleanly fork off the Open Philanthropy Project by the end of 2016, at which point we'll have a clearer idea of the effective staff time spent for GiveWell (with the caveat that it'll still be the case that GiveWell staff sometimes work for the Open Philanthropy Project and Open Philanthropy Project staff sometimes work for GiveWell, billing each other for the hours).
+
+<h4>Evaluation challenge stemming from ambiguity regarding impact metric</h4>
+
+The simplest and perhaps most tempting model of impact is the magnitude of money moved. It's tempting because, with that metric, it's easy to quantify both total impact and average (not marginal) impact per employee.
+
+There are a number of ways the model of impact could be made more sophisticated. One is to keep the focus on money moved, but consider the quality of recipients of the money, and the counterfactual uses the money moved would have been put to. Note that even this measure of impact does not directly attempt to measure the quality or factual accuracy of GiveWell's charity reviews. Rather, what matters is how objectively great the charities recommended are, and how much money GiveWell is able to move towards them.
+
+The second is to consider broader effects beyond money moved, such as effect on the philanthropy sector and in particular on the "effective altruist" movement (thus, even though I do not count Open Philanthropy Project as part of GiveWell, "creating the seed for what would eventually become the Open Philanthropy Project" can legitimately be listed as an achievement of GiveWell). While I intend to discuss such effects, I will do so only after exhausting the basic set of things that can be said regarding money moved.
+
+<h4>Money moved per employee metrics</h4>
+
+In 2015, GiveWell moved $69.4 million in Good Ventures money to its top charities, and $28 million from non-Good Ventures donors. The money donated through Good Ventures was based on vetting and recommendation by GiveWell, though the magnitude of the grants appears to have been first mooted by Good Ventures (particularly the first $25 million grant to GiveDirectly).
+
+Thus, here are the estimates of money moved in 2015 per employee:
+
+<ul>
+	<li>Including Good Ventures and other donors from money moved, excluding conversation notes writers: $8 million ($6.5 million to $10 million) per employee.</li>
+	<li>Including Good Ventures and other donors from money moved, including conversation notes writers: $6.5 million ($5 million to $8 million) per employee.</li>
+	<li>Excluding Good Ventures from money moved, excluding conversation notes writers: $2.2 million ($1.9 million to $2.8 million) per employee.</li>
+	<li>Excluding Good Ventures from money moved, including conversation notes writers: $1.9 million ($1.4 million to $2.2 million) per employee.</li>
+</ul>
+
+The reason for reporting estimates excluding Good Ventures is that Good Ventures is a "captive donor" for GiveWell and the Open Philanthropy Project: Good Ventures is committed to donating a fixed and large amount of money, mostly with the help of GiveWell and the Open Philanthropy Project, and the main limiting factor to money moved at present is how much money GiveWell suggests Good Ventures donate now (versus later). Estimates excluding Good Ventures provide a better sense of how well GiveWell is influencing donors who are less captive to it. On the other hand, there are legitimate reasons for including Good Ventures.
+
+As can be seen above, the estimates span a wide range, but even the lowest estimate stands at $1.4 million whereas the highest estimate is $10 million. Thus, even the most conservative of these estimates suggests a money moved per employee of over a million. An even more pessimistic estimate could be obtained by considering the year-end staff count of GiveWell (including people who work mainly on the Open Philanthropy Project) plus the conversation notes writer count. This would stand at about 35, but even this clear overestimate yields a number of $800,000 per employee in non-Good Ventures money moved.
+
+One of the often cited numbers is that at an efficiently run software company, the revenue generated per engineer should be over a million dollars a year, and over ten times the engineer's salary. These numbers are averages, not marginal values, insofar as they are reflecting a good level of efficiency of the organization as a whole. At this level, the software company has room to make mistakes as well as to make long-term investments. GiveWell is in a comparable situation for a nonprofit. Its money moved per employee is well over ten times the annual cost per employee, and over a million dollars. The total magnitude of GiveWell's entire expenses (in the range of $2 million to $4 million) is dwarfed by the money it influences. Therefore, GiveWell has room to make mistakes, to be inefficient, and to make long-term bets without jeopardizing its core value proposition significantly. Even if GiveWell's new employees completely failed to add value, GiveWell as a whole has not been jeopardized.
+
+The above line of reasoning is convincing as far as it goes, but to me, an elucidation of mechanism is crucial. Even if GiveWell as a whole is having way more influence than its cost, I want to 
