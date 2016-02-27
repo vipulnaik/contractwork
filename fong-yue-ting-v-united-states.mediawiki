@@ -1,6 +1,24 @@
+{{Infobox SCOTUS case
+  |Litigants=Fong Yue Ting v. United States
+  |ArgueDate=May 10
+  |ArgueYear=1893
+  |DecideDate=May 15
+  |DecideYear=1893
+  |FullName=Fong Yue Ting v. United States
+  |USVol=149
+  |USPage=698
+  |Prior=Appeal from the Circuit Court of the United States for the Southern District of New York
+  |Holding=
+  |LawsApplied=[[Geary Act]]
+  |SCOTUS=1893
+  |Plurality=Gray
+  |JoinPlurality=Blatchford, Brown, Gray, Harlan, Jackson, Shiras
+  |Dissent=Brewer, Field, Fuller
+}}
+
 '''''Fong Yue Ting v. United States''''' [[case citation|149 U.S. 698]], decided by the [[United States Supreme Court]] on May 15, 1893, was a case challenging provisions of the [[Geary Act]] of 1892 that extended and amended the [[Chinese Exclusion Act]] of 1882. The provisions in question required Chinese in the United States to obtain certificates of residency, and allowed for the arrest and deportation of Chinese who had failed to obtain these certificates, even if they had not violated any other laws.<ref name=justia>{{cite web|url = https://supreme.justia.com/cases/federal/us/149/698/case.html|title = Fong Yue Ting v. United States|publisher = [[Justia]]|accessdate = February 18, 2016}}</ref><ref name=i2us>{{cite web|url = http://immigrationtounitedstates.org/503-fong-yue-ting-v-united-states.html|title = Fong Yue Ting v. United States|publisher = Immigration to the United States|accessdate = February 18, 2016}}</ref><ref name=findlaw>{{cite web|url = http://caselaw.findlaw.com/us-supreme-court/149/698.html|title = United States Supreme Court. FONG YUE TING v. U S, (1893) No. 108|accessdate = February 18, 2016|publisher = [[FindLaw]]}}</ref>
 
-== The case ==
+== Background ==
 
 === Backdrop of laws ===
 
@@ -9,6 +27,8 @@ In 1868, the United States and China entered into the [[Burlingame Treaty]], est
 On November 17, 1880, the Burlingame Treaty was amended to suspend but not prohibit immigration from China. The amendment was called the Treaty Regulating Immigration from China, and historians refer to it as the [[Angell Treaty of 1880]]. The prefix stated: "The United States, because of the constantly increasing immigration of Chinese labourers to the territory of the United States and the embarrassments consequent upon such immigration now desires to negotiate a modification of the existing Treaties which shall not be in direct contravention to their spirit."<ref>{{cite book|title = China and the International System, 1840-1949: Power, Presence, and Perceptions in a Century of Humiliation|last = Scott|first = David|url = https://books.google.com/books?id=6U_DPS4vfO0C&pg=PA77&lpg=PA77&dq=%22treaty+regulating+immigration+from+china%22&source=bl&ots=ovPyk0Nmkp&sig=MwKtx51QSmO3PWuN31ast-qrqdM&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMIsMzIlsjcyAIVUs5jCh2CAQY2#v=onepage&q=%22treaty%20regulating%20immigration%20from%20china%22&f=false}}</ref>
 
 In 1882, the [[Chinese Exclusion Act]] was passed, forbidding (for ten years) the immigration of skilled and unskilled laborers from China to the United States. The rights of prior immigrants were not significantly amended. An 1884 Amendment to the Chinese Exclusion Act required Chinese citizens to obtain re-entry permits if they wished to return after temporarily leaving the United States. On October 1, 1888, the United States government passed the [[Scott Act (1888)|Scott Act]]. Authored by [[William Lawrence Scott]] of [[Pennsylvania]], the act was signed into law by United States President [[Grover Cleveland]] on October 1, 1888.<ref name=harpweek>{{cite web|url=http://immigrants.harpweek.com/ChineseAmericans/2KeyIssues/ScottAct.htm|title = Scott Act (1888)|publisher = Harpweek|accessdate = January 16, 2015}}</ref><ref>{{cite book|title = The Oxford Guide to United States Supreme Court Decisions|url = http://books.google.com/books?id=48DrskXOpLUC&pg=PA53&lpg=PA53&dq=scott+act+1888&source=bl&ots=d_u_SSdUtQ&sig=ZsmXCe7qZSMuQjiPjqoaZeCEFcg|accessdate = January 16, 2015}}</ref> The act forbade re-entry of Chinese immigrants to the United States who would not otherwise be eligible to enter the United States if immigrating for the first time. This went against the privileges that the Burlingame Treaty gave Chinese immigrants to the United States.
+
+=== The Geary Act ===
 
 In 1892, as the ten-year period for the original Chinese Exclusion Act was scheduled to expire, the exclusion was extended for another 10 years with the [[Geary Act]]. The Geary Act, however, included a number of additional provisions affecting the lives of Chinese already living in the United States. One key set of provisions shifted the burden of proof for demonstrating the right to be in the United States on to the Chinese resident.
 
@@ -27,8 +47,33 @@ The following enforcement penalties gave teeth to the requirement for a certific
 
 In particular, possession of the certificate ''itself'' became a requirement of law, regardless of whether the person had entered unlawfully.
 
+=== Other general legislation surrounding immigration ===
 
+In addition to the legislation focused specifically on the Chinese, there were some other pieces of legislation addressing migration at large:
 
+* [[Page Act of 1875]] applied broadly to Asian migrants, forbidding the entry of forced laborers, women suspected of intending to engage in prostitution, and people considered to be convicts in their own country.
+* [[Immigration Act of 1882]] was the first broad United States federal immigration enforcement law. The law established a head tax on migrants arriving by sea that would finace the costs of immigration enforcement, and also started the process of developing a federal immigration bureaucracy.
+* [[Immigration Act of 1891]] amended the Immigration Act of 1882. It centralized immigration enforcement under the executive branch of the Federal Government. It gave the Secretary of the Treasury the authority to set rules governing entry at sea and land borders. It also marked the first step toward regulating the borders with [[Canada]] and [[Mexico]].<ref name=i2us-1891>{{cite web|url = http://immigrationtounitedstates.org/585-immigration-act-of-1891.html|title = Immigration Act of 1891|publisher = Immigration to the United States|accessdate = February 27, 2016}}</ref>
+
+=== Court precedents ===
+
+At the time of the case, there were a few important Supreme Court precedents.
+
+* ''[[Chew Heong v. United States]]'' (1884): This occurred in the aftermath of the 1884 Amendment to the [[Chinese Exclusion Act]] that required Chinese in the United States to obtain re-entry permits. Chew Heong, a citizen of China who lived in the United States departed the United States for the Hawaiian Islands in 1881, and returned after it became active. He was denied entry, and sued. In a spit decision, the Supreme Court ruled in favor of the litigant, since he would have been able to qualify for a re-entry permit had he applied.<ref name=lii-chew-heong>{{cite web|url = https://www.law.cornell.edu/supremecourt/text/112/536|title = CHEW HEONG v. UNITED STATES.|publisher = [[Legal Information Institute]]|accessdate = February 27, 2016}}</ref>
+* ''[[Chae Chan Ping v. United States]]'' (1889): This occurred in the aftermath of the [[Scott Act (1888)|Scott Act]], that forbade re-entry of Chinese who had previously been residing in the United States. Chae Chan Ping, who had departed prior to the passage of the Act but arrived after it was active, was denied entry and sued. In a unanimous decision, the United States Supreme Court ruled against the litigant. The decision was an important precedent for the Supreme Court's deference to the [[plenary power]] of the United States legislative branches in immigration law and in their authority to overturn the terms of international treaties.
+* ''Nishimura Ekiu v. United States'' (1891, decided 1892): Nishimura Ekiu, a female from Japan, was denied entry to the United States by the officer at the [[San Francisco]] port of entry because of suspicion that her story that her husband would meet her in the United States was false, errors in her passport, and concerns that she would not be able to sustain herself in the United States. The denial was based on authority granted as part of the Immigration Act of 1891. The United States Supreme Court sided with the government, agreeing with the government's claim that it had the authority to deny people entry. The court also did not reexamine evidence from the litigant challenging the reasons for denying her entry.<ref name=lii-ekiu>{{cite web|url = https://www.law.cornell.edu/supremecourt/text/142/651|title = NISHIMURA EKIU v. UNITED STATES|publisher = [[Legal Information Institute]]|accessdate = February 27, 2016}}</ref>
+
+== The case ==
+
+=== Case details ===
+
+The case in question involved three Chinese citizens currently in the United States, each of whom had not successfully obtained certificates of residence, though with slight differences:<ref name=justia/>
+
+* The first one claimed that he had arrived in the United States from China in or before 1879. For more than a year, he had resided in [[New York City]]. He wasarrested by the marshal for not having a certificate of residence and had never applied for one.
+* The second one was similar to the first, except that the Chinese citizen had been shown to a judge, who had agreed to let the marshal hold him.
+* The third one had applied for a certificate of residence but had not been gratnted one, because all the witnesses he was able to secure were Chinese, and the Geary Act required white witnesses, and was then arrested.
+
+In all three cases, the petitioner (the Chinese citizen) alleged that his arrest and detention were without due process of law, and were therefore unconstitutional and void.
 == References ==
 
 {{reflist}}
