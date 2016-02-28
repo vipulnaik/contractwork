@@ -1,0 +1,37 @@
+=== Table of number of conjugacy classes of subgroups ===
+
+{| class="sortable" border="1"
+! Group !! Second part of GAP ID (ID is (24,second part)) !! Nilpotency class !! Supersolvable? !! Derived length !! Number of subgroups of order 2 (must be positive)!! Number of subgroups of order 4 (must be 1) !! Number of conjugacy classes of subgroups of order 3 (must be 1) !! Number of isomorphism classes of subgroups of order 6 (at most 3 by size considerations) !! Total number of isomorphism classes subgroups (includes trivial subgroup and whole group)
+|-
+| [[dicyclic group:Dic12]] || 1 || not nilpotent || Yes || 2 || 1 || 1 || 1 || 1 || 6
+|-
+| [[cyclic group:Z12]] || 2 || 1 || Yes || 1 || 1 || 1 || 1 || 1 || 6
+|-
+| [[alternating group:A4]] || 3 || not nilpotent || No || 2 || 1 || 1 || 1 || 0 || 5
+|-
+| [[dihedral group:D12]] || 4 || not nilpotent || Yes || 2 || 3 || 1 || 1 || 3 || 10
+|-
+| [[direct product of Z6 and Z2]] || 5 || 1 || Yes || 1 || 3 || 1 || 1 || 3 || 10
+|-
+! Possibility set || -- || 1 if nilpotent || Yes, No || 1, 2 || 1, 3 || 1 || 1 || 0, 1, 3 || 5, 6, 10
+|}
+
+=== Table of number of isomorphism  classes of subgroups ===
+
+The number of isomorphism classes of subgroups of a given order is bounded from above by both the number of conjugacy classes of subgroups of that order and the number of isomorphism classes of all groups of that order. Moreover, if the number of conjugacy classes is positive, so is the number of isomorphism classes.
+
+{| class="sortable" border="1"
+! Group !! Second part of GAP ID (ID is (24,second part)) !! Nilpotency class !! Supersolvable? !! Derived length !! Number of isomorphism classes of subgroups of order 2 (must be 1)!! Number of isomorphism classes of subgroups of order 4 (must be 1) !! Number of isomorphism classes of subgroups of order 3 (must be 1) !! Number of isomorphism classes of subgroups of order 6 (at most 2) !! Total number of isomorphism classes of subgroups (includes trivial subgroup and whole group)
+|-
+| [[dicyclic group:Dic12]] || 1 || not nilpotent || Yes || 2 || 1 || 1 || 1 || 1 || 6
+|-
+| [[cyclic group:Z12]] || 2 || 1 || Yes || 1 || 1 || 1 || 1 || 1 || 6
+|-
+| [[alternating group:A4]] || 3 || not nilpotent || No || 2 || 1 || 1 || 1 || 0 || 5
+|-
+| [[dihedral group:D12]] || 4 || not nilpotent || Yes || 2 || 1 || 1 || 1 || 2 || 7
+|-
+| [[direct product of Z6 and Z2]] || 5 || 1 || Yes || 1 || 1 || 1 || 1 || 1 || 6
+|-
+! Possibility set || -- || 1 if nilpotent || Yes, No || 1, 2 || 1 || 1 || 1 || 0, 1, 2 || 5, 6, 7
+|}
