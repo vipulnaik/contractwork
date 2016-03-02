@@ -30,6 +30,7 @@ year.
 * Start by February 12, finish by February 14 [delayed]: Garry Tan
 * Start by February 19, finish by February 21 [on-track]: M. G. Siegler
 * Start by February 26, finish by February 28 [on-track]: Paige Craig
+* Start by February 29, finish by March 6 [on-track]: Scott Stanford (investor)
 
 (more weeks, months to be added).
 
@@ -41,6 +42,9 @@ year.
 * Timeline of Intel: $150
 * CrunchFund: $50
 * Garry Tan: $50 [pending some minor fixes to citations]
+* M. G. Siegler: $50 [pending improvements to citations to the extent that tags get removed; if this does not happen then $30]
+* Paige Craig: $50
+
 == Timeline pages ==
 
 In general, for timeline pages, we expect about 1-5% of the pageviews
@@ -86,9 +90,5 @@ bounty it's important we stay on the same page here.
 * Data Collective. Proposed bounty: $50
 
 === People ===
-
-* M.G. Siegler. Proposed bounty: $50
-
-* Paige Craig. Proposed bounty: $50
 
 * Scott Stanford (investor). Proposed bounty: $50 [he is the co-boss of Menlo Ventures along with Shervin Pishevar]
