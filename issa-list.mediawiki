@@ -49,6 +49,14 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 
 * Stokes interview. Pay: $50
 
+* Board of Immigration Appeals [NOT A NEW PAGE]: Basically expand this page a lot explaining what kind of appeals reach this, how they process appeals, what precedential value is attached to decisions made, and how BIA decisions can be appealed in the courts. Pay: $125
+
+* Termination of registration [and maybe a separate page on Singh v. Clinton, though arguably that may not be sufficiently distinctive and can just be part of the termination of registration page]: The process where a person's priority date and "place in the queue" is lost if the person doesn't respond within two years of a visa number becoming available. Discuss roles of NVC, USCIS, and the special role played by court precedents including Singh v. Clinton
+
+* H-1B-dependent employer. Pay: $45
+
+* Public Law 111-230. Pay: $25
+
 ==== Forms and approvals ====
 
 * Form I-140. Pay: $150
@@ -66,4 +74,16 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * National Benefit Center (still not sure if it's National Benefit Center or National Benefits Center). Pay: $50
 
 * USCIS National Customer Service Center. Pay: $50
+
+==== Non-migration programs affecting migrants ====
+
+* Systematic Alien Verification for Entitlements (SAVE): A tool for state agencies to query the federal government's databases to return a best guess on the immigration and citizeship status of people, used e.g. when deciding whether to allow the alien access to a welfare benefit. Lots of stuff to understand here re: history, practice, critiques etc. Pay: $50
+
+==== Minor fixes/expansions ====
+
+* Add in appeals processing time and some other things to Form I-130 page to bring it to par with Form I-140 page. Pay: $15
+
+* Expand Labor Condition Application page to discuss "Multiple LCA" stuff. Pay: $15
+
+* Expand Form I-129 page to include mention of Labor Condition Application (when the form is used for H-1B/H-1B1/E-3) and other similar pre-applications that need to be done for the other statuses that use Form I-129. Pay: $15
 
