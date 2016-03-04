@@ -91,4 +91,4 @@ bounty it's important we stay on the same page here.
 
 === People ===
 
-* Scott Stanford (investor). Proposed bounty: $50 [he is the co-boss of Menlo Ventures along with Shervin Pishevar]
+* Scott Stanford (investor). Proposed bounty: $50
