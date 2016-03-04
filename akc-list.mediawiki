@@ -41,8 +41,8 @@ year.
 * Timeline of Microsoft: $125
 * Timeline of Intel: $150
 * CrunchFund: $50
-* Garry Tan: $50 [pending some minor fixes to citations]
-* M. G. Siegler: $50 [pending improvements to citations to the extent that tags get removed; if this does not happen then $30]
+* Garry Tan: $50
+* M. G. Siegler: $50
 * Paige Craig: $50
 
 == Timeline pages ==
