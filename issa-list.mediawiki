@@ -43,9 +43,9 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 
 * Stokes interview. Pay: $50
 
-* Board of Immigration Appeals [NOT A NEW PAGE]: Basically expand this page a lot explaining what kind of appeals reach this, how they process appeals, what precedential value is attached to decisions made, and how BIA decisions can be appealed in the courts. Pay: $125
+* Board of Immigration Appeals (NOT A NEW PAGE): Basically expand this page a lot explaining what kind of appeals reach this, how they process appeals, what precedential value is attached to decisions made, and how BIA decisions can be appealed in the courts. Pay: $125
 
-* Termination of registration [and maybe a separate page on Singh v. Clinton, though arguably that may not be sufficiently distinctive and can just be part of the termination of registration page]: The process where a person's priority date and "place in the queue" is lost if the person doesn't respond within two years of a visa number becoming available. Discuss roles of NVC, USCIS, and the special role played by court precedents including Singh v. Clinton
+* Termination of registration (and maybe a separate page on Singh v. Clinton, though arguably that may not be sufficiently distinctive and can just be part of the termination of registration page): The process where a person's priority date and "place in the queue" is lost if the person doesn't respond within two years of a visa number becoming available. Discuss roles of NVC, USCIS, and the special role played by court precedents including Singh v. Clinton
 
 * H-1B-dependent employer. Pay: $45
 
@@ -57,7 +57,7 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 
 * Form I-129F: Pay: $125
 
-* Form I-485. Pay: $150 [let's discuss if this will add enough value over and above the Adjustment of Status page before starting work on it though]
+* Form I-485. Pay: $150 (let's discuss if this will add enough value over and above the Adjustment of Status page before starting work on it though)
 
 * Provisional Unlawful Presence Waiver. Pay: $50
 
