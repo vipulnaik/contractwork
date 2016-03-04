@@ -25,12 +25,12 @@ year.
 * Start by January 8, finish by January 10: Timeline of online food delivery
 * Start by January 15, finish by January 17: Timeline of Amazon.com
 * Start by January 22, finish by January 24: Timeline of Microsoft
-* Start by January 29, finish by January 31 [delayed]: Timeline of Intel
-* Start by February 5, finish by February 7 [delayed]: CrunchFund
-* Start by February 12, finish by February 14 [delayed]: Garry Tan
-* Start by February 19, finish by February 21 [on-track]: M. G. Siegler
-* Start by February 26, finish by February 28 [on-track]: Paige Craig
-* Start by February 29, finish by March 6 [on-track]: Scott Stanford (investor)
+* Start by January 29, finish by January 31 (delayed): Timeline of Intel
+* Start by February 5, finish by February 7 (delayed): CrunchFund
+* Start by February 12, finish by February 14 (delayed): Garry Tan
+* Start by February 19, finish by February 21 (on-track): M. G. Siegler
+* Start by February 26, finish by February 28 (on-track): Paige Craig
+* Start by February 29, finish by March 6 (on-track): Scott Stanford (investor)
 
 (more weeks, months to be added).
 
