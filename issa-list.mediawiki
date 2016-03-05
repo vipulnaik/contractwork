@@ -54,6 +54,8 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 
 ==== Forms and approvals ====
 
+USCIS forms: 
+
 * Form I-129F: Pay: $125
 
 * Form I-485. Pay: $150 (let's discuss if this will add enough value over and above the Adjustment of Status page before starting work on it though)
@@ -61,6 +63,14 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Provisional Unlawful Presence Waiver. Pay: $50
 
 * Form I-360: Pay: $125
+
+Department of State forms:
+
+* Form DS-160: $175
+
+* Form DS-260: $175
+
+* Form DS-230: Price to be determined after completion of Form DS-260, which is the newer, electronic version (maybe we can just add DS-230 discussion in DS-260 page and redirect).
 
 ==== Centers ====
 
