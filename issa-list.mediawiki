@@ -10,6 +10,7 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Form 1096: $25
 * Form W-2: $100
 * Form 990: $100
+* Form I-140. Pay: $150, plus $18 for other miscellaneous improvements
 
 === Non-page payments ===
 
@@ -52,8 +53,6 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Public Law 111-230. Pay: $25
 
 ==== Forms and approvals ====
-
-* Form I-140. Pay: $150
 
 * Form I-129F: Pay: $125
 
