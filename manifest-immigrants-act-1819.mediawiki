@@ -1,15 +1,47 @@
-The '''Steerage Act of 1819''', also called the '''Manifest of Immigrants Act''', was an Act passed on March 2, 1819, effective January 1, 1820. It was the first law in the [[United States]] regulating the condition of transportation used by miigrants arriving by sea.<ref name=i2us>{{cite web|url = http://immigrationtous.net/190-manifest-of-immigrants-act-united-states-1819.html|title = Manifest of Immigrants Act (United States) (1819)|publisher = Immigration to North America|accessdate = March 2, 2016}}</ref><ref name=sunnycv>{{cite web|url = http://www.sunnycv.com/steve/ar/immig/steerage.html|title = Steerage Act of 1819|accessdate = March 2, 2016}}</ref> In addition to regulating conditions in ships, the act also required ship captains to deliver and report a list of passengers with their demographic information to the district collector.<ref name=sunnycv/><ref name=i2us/> The Act, that was amended six times, was finally superseded by the [[Carriage of Passengers Act]] of 1855.<ref name=i2us/> At the time of passage of the Act, the United States had no laws restricting immigration. In fact, the first federal legislation regulating immigration, the [[Page Act of 1875]], was over 50 years in the future.
+The '''Steerage Act of 1819''', also called the '''Manifest of Immigrants Act''', was an Act passed on March 2, 1819, effective January 1, 1820. It was the first law in the [[United States]] regulating the conditions of transportation used by people arriving and departing by sea.<ref name=uwb-fulltext/><ref name=i2us>{{cite web|url = http://immigrationtous.net/190-manifest-of-immigrants-act-united-states-1819.html|title = Manifest of Immigrants Act (United States) (1819)|publisher = Immigration to North America|accessdate = March 2, 2016}}</ref><ref name=sunnycv>{{cite web|url = http://www.sunnycv.com/steve/ar/immig/steerage.html|title = Steerage Act of 1819|accessdate = March 2, 2016}}</ref><ref name=guarding-the-gates>{{cite web|url = https://books.google.com/books?id=5H0HEOAjDD4C&pg=PA19&lpg=PA19&dq=manifest+of+immigrants+act&source=bl&ots=ATOSguMUUW&sig=lAwYQhHM2eDqTYrALtelV6bGkac&hl=en&sa=X&ved=0ahUKEwihv7mUt6LLAhVM8GMKHeotAgwQ6AEIPTAG#v=onepage&q=manifest%20of%20immigrants%20act&f=false|title = Guarding the Gates: Immigration and National Security|last = LeMay|first = Michael}}</ref> In addition to regulating conditions in ships, the act also required ship captains to deliver and report a list of passengers with their demographic information to the district collector.<ref name=sunnycv/><ref name=i2us/> The Act, that was amended six times, was finally superseded by the [[Carriage of Passengers Act]] of 1855.<ref name=i2us/> At the time of passage of the Act, the United States had no laws restricting immigration. In fact, the first federal legislation regulating immigration, the [[Page Act of 1875]], was over 50 years in the future.
 
 ==Historical context ==
 
 === Growth of the United States as an attractive immigrant destination ===
 
-The [[United States]], that had formally begun as a nation on ... and grown in size as a result of the [[Louisiana Purchase]], was becoming an attractive destination ... 
+When the Act was passed, [[Europe]] was entering a period of relative peace after many wars, and the United States was also becoming a more stable and prosperous nation. The volume of migration from Europe to the United States was increasing. Many of these migrants arrived in cramped conditions, leading to concerns surrounding the conditions of passage that would lead to the passage of the Act.<ref name=sunnycv/>
+
+=== Previous regulations related to non-citizens ===
+
+Until this Act, the United States Congress had placed no limitations regulating voluntary migration. There had been a few related areas where regulations had been imposed:<ref name=open-collections>{{cite web|url = http://ocp.hul.harvard.edu/immigration/timeline.html|title = Key Dates and Landmarks in United States Immigration History|accessdate = March 7, 2016|publisher = [[Harvard University]] Library Open Collections Program}}</ref><ref name=edhelper>{{cite web|url = http://edhelper.com/ReadingComprehension_54_186.html|title = United States Immigration Laws in the 18th and 19th Centuries|last = Skelton|first = Sheri|publisher = edHelper.com|accessdate = March 8, 2016}}</ref>
+
+* The [[Naturalization Act of 1790]] established a uniform rule of [[naturalization]] (conversion of a non-U.S. citizen to U.S. citizenship) that included a two-year residency requirement for aliens who are "free white persons" of [[good moral character]]. This was increased to 14 years by the [[Alien and Sedition Acts]] of 1798 and then reduced to five years in 1802.
+* The Aien and Sedition Acts also permitted the then President, Federalist [[John Adams]], to deport foreigners deemed to be dangerous.
+* The [[Act Prohibiting Importation of Slaves]] banned the importation of new slaves into the United States. Pased in 1807, it went in effect on January 1, 1808.
+
 == Provisions ==
 
-=== Regulations on 
+=== Regulations on the conditions of travel ===
+
+There were two main regulations on the condition of travel, to prevent overcrowding and unsanitary conditions on ships:<ref name=uwb-fulltext>{{cite web|url = http://library.uwb.edu/static/USimmigration/1819_steerage_act.html|title = 1819 Steerage Act (An act regulating passenger ships and vessels)|accessdate = March 8, 2016}}</ref>
+
+# '''Section 1''': A limit of two passengers for every five tons of ship burden (Section 1).
+# '''Section 2''': The master of the vessel was required to pay a penalty of $150 for each passenger carried above the maximum capacity (Section 2).
+# '''Section 3''': For all ships departing the United States, at least 60 gallons of water, 100 pounds of bread, 100 pounds of salted provisions, and one gallon of vinegar for every passenger (at the time of departure).
+
+=== Requirement to submit a manifest of passengers ===
+
+Section 4 of the Act required ship captains or masters to report a list of all passengers taken on board abroad, including name, sex, age, and occupation. The report was also to include the number of passengers who had died on board the ship during the voyage. The presence of this section has led to the act sometimes being referred to as the Manifest of Immigrants Act.<ref name=i2us/> The report was to be delivered to the collector of the district in which the ship landed.<Ref name=guarding-the-gates/><ref name=american-immigration>{{cite web|url = https://books.google.com/books?id=PPFnBwAAQBAJ&pg=PT2276&lpg=PT2276&dq=manifest+of+immigrants+act&source=bl&ots=4Wd5VWWUnn&sig=KOu3P1xO7U8yYlkMxHwDPRa_mKs&hl=en&sa=X&ved=0ahUKEwihv7mUt6LLAhVM8GMKHeotAgwQ6AEIQDAH#v=onepage&q=manifest%20of%20immigrants%20act&f=false|title = American Immigration: An Encyclopedia of Political, Social, and Cultural ..., section Manifest of Immigrants Act (1819)|last = Ciment|first = James|last2 = Radzilowski|first2 = John}}</ref><ref name=uwb-fulltext/>
+
+Section 5 of the Act mandated that each district collector who received manifests must, every quarter (i.e., every three months), deposit these manifests with the Secretary of State, who in turn was required to present a summary to the [[United States Congress]] at each session.<ref name=uwb-fulltext/><ref name=sunnycv/>
+
+== Subsequent changes ==
+
+The Steerage Act of 1819 was amended six times with minor changes to the regulations on the conditions of travel, until it was finally superseded by the Carriage of Passengers Act of 1855.<ref name=i2us/><ref name=sunnycv/> The Carriage of Passengers Act replaced Section 4 of the Act with a somewhat modified requirement that additionally required the manifest to include "that part of the ship or vessel which the passenger had occupied during the voyage."<ref name=sunnycv/>
+
+Section 4 of the Act led to the first set of federal records on the composition of the flow of migrants to the United States.<ref name=american-immigration/> It would be significant in the future both for governments trying to understand and regulate migration levels and for individuals attempting to learn more about their ancestors' arrival in the United States.<ref name=american-immigration/><ref name=ancestry>{{cite web|url = http://www.ancestry.com/cs/immigration-all|title = Travel with your ancestors on the journey that led to you.|publisher = [[Ancestry.com]]|accessdate = March 8, 2016}}</ref>
+
 == Similar Acts in other countries ==
 
-The regulation of the conditions of sea transportation began in the 19th century, generally before meaningful restrictions on migration were imposed. In the United Kingdom, the first such law was the [[Passenger Act of 1803]]. In addition to its stated purpose of reducing unsafe and uncomfortable journeys, the Act was suspected as a way to control emigration, by making it more expensive for peopleto leave for Canada, where rent was cheaper. The Act was repealed in 1826.
+The regulation of the conditions of sea transportation began in the 19th century, generally before meaningful restrictions on migration were imposed. In the United Kingdom, the first such law was the [[Passenger Act of 1803]]. In addition to its stated purpose of reducing unsafe and uncomfortable journeys, the Act was suspected as a way to control emigration, by making it more expensive for peopleto leave for Canada, where rent was cheaper. The Act was repealed in 1826.<ref>{{cite web|url = http://www.collectionscanada.gc.ca/immigrants/021017-2131-e.html|title = Ill-Prepared|accessdate = March 8, 2016|publisher = Library and Archives (Canada)}}</ref>
 
-The first regulation of sea transportation in Canada occurred in 1869.
+The first regulation of the conditions of transportation by sea in Canada was the Immigration Act of 1869.<ref>{{cite web|url = https://www.pier21.ca/research/immigration-history/immigration-act-1869|title = Immigration Act, 1869|publisher = Canada Museum of Immigration at Pier 21|accessdate = March 8, 2016}}</ref>
+
+== References ==
+
+{{reflist}}
