@@ -31,6 +31,9 @@ year.
 * Start by February 19, finish by February 21 (on-track): M. G. Siegler
 * Start by February 26, finish by February 28 (on-track): Paige Craig
 * Start by February 29, finish by March 6 (on-track): Scott Stanford (investor)
+* Start by March 7, finish by March 13: Initialized Capital
+* Start by March 14, finish by March 20: Data Collective
+* Start by March 21, finish by March 27: David M. Gates
 
 (more weeks, months to be added).
 
@@ -44,6 +47,9 @@ year.
 * Garry Tan: $50
 * M. G. Siegler: $50
 * Paige Craig: $50
+* Scott Stanford (investor): $50
+* Initialized Capital: $50
+* Data Collective: $50
 
 == Timeline pages ==
 
@@ -83,11 +89,8 @@ bounty it's important we stay on the same page here.
 
 === Firms ===
 
-* Initialized Capital. Proposed bounty: $50
-
 * Menlo Ventures. Proposed bounty: $50
 
-* Data Collective. Proposed bounty: $50
 
 === People ===
 
