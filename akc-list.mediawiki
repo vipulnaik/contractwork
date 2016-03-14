@@ -91,7 +91,6 @@ bounty it's important we stay on the same page here.
 
 * Menlo Ventures. Proposed bounty: $50
 
-
 === People ===
 
 * Scott Stanford (investor). Proposed bounty: $50
@@ -105,3 +104,7 @@ bounty it's important we stay on the same page here.
 == Other concepts ==
 
 * Newsjacking (the concept, not just the book by that name): $35. It's been deleted before, so be very careful to create something that will survive deletion. If it gets deleted in 30 days you don't make the money.
+
+== Books ==
+
+* The Entrepreneurial State: $30 for a decent job that references reviews at Mises Daily, EconLog, and the ones found at https://artir.wordpress.com/series-de-articulos/ (e.g., https://artir.wordpress.com/2015/08/21/mazzucato-and-the-iphone-ii-the-myth-of-the-entrepreneurial-state/), plus a decent discussion of impact.
