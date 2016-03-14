@@ -1,0 +1,33 @@
+== Migration history ==
+
+=== New pages ===
+
+Court cases:
+
+* Nishimura Ekiu v. United States
+
+* Chew Heong v. United States
+
+* Lem Moon Sing v. United States
+
+* Knauff v. Shaughnessy
+
+* The 1953 case (from list of US immigration laws)
+
+* Singh v. Clinton (potentially outsourcable)
+
+* Henderson v. New York City
+
+Laws:
+
+* Foreign Miners' Tax Act
+
+* Carriage of Passengers Act of 1855
+
+=== Modify existing pages ===
+
+* Improve list of US immigration laws
+
+* Make sure each law links to others
+
+* Links bw court cases (after creating new ones)
