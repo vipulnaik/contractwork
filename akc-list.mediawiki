@@ -33,7 +33,7 @@ year.
 * Start by February 29, finish by March 6 (on-track): Scott Stanford (investor)
 * Start by March 7, finish by March 13: Initialized Capital
 * Start by March 14, finish by March 20: Data Collective
-* Start by March 21, finish by March 27: David M. Gates
+
 
 (more weeks, months to be added).
 
@@ -100,6 +100,8 @@ bounty it's important we stay on the same page here.
 * Thomas C. Leonard: He's at Princeton and has written some interesting books and articles. Also referenced on EconLog and in various libertarian blogs/publications. $25
 
 * Matthew Emerton: Math professor at University of Chicago, probably one of the top contributors to MathOverflow among math professors (recognized in various blog posts). $15
+
+* Uri Simonsohn: Reinvestigates shady studies for p-hacking. $25
 
 == Other concepts ==
 
