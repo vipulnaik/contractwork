@@ -16,6 +16,18 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 
 * stats.grok.se -> Wikimedia API fix: $80
 
+== Global public health and related investigation ==
+
+=== New pages ===
+
+* Child survival revolution: $25
+
+* National Conference of Charities and Correction: $25
+
+=== Improvements to existing pages ===
+
+* United States Sanitary Commission: Improve to include discussion of Christian missionaries
+
 == Taxes ==
 
 === Improvements to existing pages ===
