@@ -1,0 +1,63 @@
+In [[United States immigration law]], the term '''H-1B-dependent employer''' is used to describe an employer who meets a particular threshold in terms of the fraction of the workforce comprising workers in [[H-1B visa|H-1B status]]. An employer classified as H-1B-dependent needs to include additional attestations in the [[Labor Condition Application]] used for the petition of any H-1B beneficiary being offered an annual salary of less than $60,000 and without a Masters degree.<ref name=shusterman>{{cite web|url = http://shusterman.com/h1blabordeptregulationsummary2000ailapart2.html|title = Summary of Department of Labor’s 12/20/00 Interim Final H-1B Regulation|publisher = [[American Immigration Lawyers Association]] (mirrored on shusterman.com)|accessdate = March 28, 2016}}</ref> The notion was introduced by the [[American Competitiveness and Workforce Improvement Act]] (ACWIA) passed in 1998<ref name=acwia-qs>{{cite web|url = http://shusterman.com/h1bacwiaregulationsquestioned.html|title = Questions Raised by DOL’s Proposed H-1B Regulations|last = Shusterman|first = Carl|accessdate = March 28, 2016}}</ref> and refined through further interim orders by the [[U.S. Department of Labor]].
+
+== Definition and applicability ==
+
+=== Thresholds for defining H-1B-dependence ===
+
+The following are the thresholds for determining whether an employer is classified as H-1B-dependent.<ref name=lca>{{cite web|url = https://www.foreignlaborcert.doleta.gov/pdf/ETA_Form_9035CP.pdf|title = Labor Condition Application for Nonimmigrant Workers|publisher = Employment & Training Administration, [[U.S. Department of Labor]]|accessdate = March 28, 2016}}</ref><ref name=shusterman/>
+
+{| class="wikitable sortable"
+! Number of full-time equivalent employees !! Number of H-1B nonimmigrant workers necessary to make the employer H-1B-dependent !! How threshold varies as a percentage of total number of employees
+|-
+| 1 to 25 || 8 or more || 100% (at 8 employees) down to 32%. Note that employers with 7 or fewer FTE employees are not classified as H-1B-dependent (unless some of the workforce is part time).
+|-
+| 26 to 50 || 13 or more || 50% down to 26%. Note the sudden upward jump in the threshold from 25 to 26 employees, making it advantageous to cross the threshold.
+|- 
+| 51 or more || 15% or more of the workforce || 15%. Note the sudden downward jump in the threshold from 50 to 51 employees, making it disadvantageous to cross this threshold.
+|}
+
+=== Definition of full-time equivalent employee ===
+
+Since being classified as H-1B-dependent requires employers to incur additional cost and complexity, and the threshold for H-1Bs generally increases with the number of full time equivalent employees reported (with the exception of the downward jump from 50 to 51) employers are incentivized to make their count of full time-equivalent employees as large as possible. The regulations are therefore geared to restricting employers from overcounting the number of FTEs. 
+
+The Interim Final Rule from the [[U.S. Department of Labor]] provided the following guidance regarding the definition of full-time equivalent employee for the purpose of determining H-1B-dependence.<ref name=shusterman/>
+
+==== What counts as full-time ====
+
+Any employee who works 40 or more hours a week is treated as one full time equivalent. An employee who works less than 35 hours a week ''cannot'' be treated as a full-time equivalent. Employees who work between 35 and 40 hours may be treated as full time equivalent if this is accepted in the employer's regular course of business.
+
+For employees who are less than full time, the employer can choose one of these two methods:
+
+# Count each such employee as 1/2 of a full time equivalent.
+# Total the hours worked by each employee and divide by the employer's standard hours of full time employment (which must be at least 35 hours).
+
+==== What counts as an employee ====
+
+Independent contractors and consultants are not to be counted as employees. The U.S. Department of Labor will count somebody as an employee only if that person is treated as an employee for all tax and legal purposes, including FICA contributions.
+
+==== Combining all entities as a "single employer" ====
+
+1) “controlled groups of corporations,” such as a parent-subsidiary controlled group, a brother-sister-controlled group, or a combined group; 2) “trades or businesses under common control” which can include sole proprietorships, partnerships, estates, trusts, and corporations; or 3) “affiliated service groups,” such as a service organization (health care organization, law firm, accounting firm) and other organizations that regularly perform services for the first organization and either are shareholders or partners in the first organization or the interest in the second organization is held by highly-paid employees of the first organization.
+
+=== What triggers a H-1B-dependency calculation ===
+
+- Concept of employer status snapshot
+
+- LCA may need to be refiled if employer became H-1B-dependent between previous H-1B filing and Form I-129 filing (true even for exempt nonimmigrants, even though they don't need to make the attestations)
+
+- Must keep payroll and other records that were used in determining the FTE employee count. Does not need to be part of the public file.
+
+
+
+== History ==
+
+=== Introduction in the ACWIA (1998) ===
+
+{{further|American Competitiveness and Workforce Improvement Act}}
+
+
+== References ==
+
+{{reflist}}
+
+
