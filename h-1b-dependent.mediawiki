@@ -1,10 +1,12 @@
 In [[United States immigration law]], the term '''H-1B-dependent employer''' is used to describe an employer who meets a particular threshold in terms of the fraction of the workforce comprising workers in [[H-1B visa|H-1B status]]. An employer classified as H-1B-dependent needs to include additional attestations in the [[Labor Condition Application]] used for the petition of any H-1B beneficiary being offered an annual salary of less than $60,000 and without a Masters degree.<ref name=shusterman>{{cite web|url = http://shusterman.com/h1blabordeptregulationsummary2000ailapart2.html|title = Summary of Department of Labor’s 12/20/00 Interim Final H-1B Regulation|publisher = [[American Immigration Lawyers Association]] (mirrored on shusterman.com)|accessdate = March 28, 2016}}</ref> The notion was introduced by the [[American Competitiveness and Workforce Improvement Act]] (ACWIA) passed in 1998<ref name=acwia-qs>{{cite web|url = http://shusterman.com/h1bacwiaregulationsquestioned.html|title = Questions Raised by DOL’s Proposed H-1B Regulations|last = Shusterman|first = Carl|accessdate = March 28, 2016}}</ref> and refined through further interim orders by the [[U.S. Department of Labor]].
 
+One of the key goals of the concept of H-1B-dependence is to curtail the use of H-1B visas for the replacement of American skilled workers by cheaper labor from other countries. The demarcation of H-1B-dependency is intended to strike a balance between the need to prevent large-scale use of the H-1B to facilitate "cheap labor" against the goal of minimizing the regulatory burden on employers who use the H-1B sparingly. Some subsets of H-1B-dependent employers have been targeted for additional H-1B fees (by Public Law 111-230 and 114-113). H-1B reform proposals have suggested various ways of capping the use of the H-1B program by H-1B-dependent workers, but strict caps have never been legislatively or administratively imposed.
+
 == Definition and applicability ==
 
 === Thresholds for defining H-1B-dependence ===
 
-The following are the thresholds for determining whether an employer is classified as H-1B-dependent.<ref name=lca>{{cite web|url = https://www.foreignlaborcert.doleta.gov/pdf/ETA_Form_9035CP.pdf|title = Labor Condition Application for Nonimmigrant Workers|publisher = Employment & Training Administration, [[U.S. Department of Labor]]|accessdate = March 28, 2016}}</ref><ref name=shusterman/>
+The following are the thresholds for determining whether an employer is classified as H-1B-dependent.<ref name=lca>{{cite web|url = https://www.foreignlaborcert.doleta.gov/pdf/ETA_Form_9035CP.pdf|title = Labor Condition Application for Nonimmigrant Workers|publisher = Employment & Training Administration, [[U.S. Department of Labor]]|accessdate = March 28, 2016}}</ref><ref name=shusterman/><ref name=factsheet/>
 
 {| class="wikitable sortable"
 ! Number of full-time equivalent employees !! Number of H-1B nonimmigrant workers necessary to make the employer H-1B-dependent !! How threshold varies as a percentage of total number of employees
@@ -16,15 +18,34 @@ The following are the thresholds for determining whether an employer is classifi
 | 51 or more || 15% or more of the workforce || 15%. Note the sudden downward jump in the threshold from 50 to 51 employees, making it disadvantageous to cross this threshold.
 |}
 
+=== Exempt nonimmigrant ===
+
+Even for a H-1B-dependent employer, a nonimmigrant is considered exempt from the additional H-1B attestations if ''either'' of these two conditions is satisfied:<ref name=shusterman/>
+
+* The worker is being paid $60,000 or more in annual compensation. Only salary and cash bonuses can be counted towards compensation; non-cash benefits cannot be included.
+* The worker holds a master's or higher degree or its equivalent in a specialty related to the intended employment. Equivalent foreign degrees are allowed. However, work experience cannot be used to establish equivalence with a degree. This is unlike the case of the Form I-129 H-1B petition itself, where work experience can be used in lieu of a degree with a thumb rule that 2 or 3 years of work experience substitute for 1 year of study.
+
+The LCA has a question that offers three options, therefore all employees for whom a single LCA is being filed must fit into a single one of the options:
+
+* The employer is not H-1B-dependent
+* The employees being petitioned for are exempt nonimmigrants
+* The employees being petitioned for are not exempt, and the employer is therefore including the additional attestations
+
+=== Attestations needed ===
+
+(get these from LCA page)
+
+== Details around definitions and documentation ==
+
 === Definition of full-time equivalent employee ===
 
 Since being classified as H-1B-dependent requires employers to incur additional cost and complexity, and the threshold for H-1Bs generally increases with the number of full time equivalent employees reported (with the exception of the downward jump from 50 to 51) employers are incentivized to make their count of full time-equivalent employees as large as possible. The regulations are therefore geared to restricting employers from overcounting the number of FTEs. 
 
-The Interim Final Rule from the [[U.S. Department of Labor]] provided the following guidance regarding the definition of full-time equivalent employee for the purpose of determining H-1B-dependence.<ref name=shusterman/>
+The 2000 Interim Final Rule from the [[U.S. Department of Labor]] provided the following guidance regarding the definition of full-time equivalent employee for the purpose of determining H-1B-dependence.<ref name=shusterman/>
 
 ==== What counts as full-time ====
 
-Any employee who works 40 or more hours a week is treated as one full time equivalent. An employee who works less than 35 hours a week ''cannot'' be treated as a full-time equivalent. Employees who work between 35 and 40 hours may be treated as full time equivalent if this is accepted in the employer's regular course of business.
+Any employee who works 40 or more hours a week is treated as one full time equivalent. An employee who works less than 35 hours a week ''cannot'' be treated as a full-time equivalent. Employees who work between 35 and 40 hours may be treated as full time equivalent if this is accepted in the employer's regular course of business.<ref name=shusterman/>
 
 For employees who are less than full time, the employer can choose one of these two methods:
 
@@ -33,21 +54,47 @@ For employees who are less than full time, the employer can choose one of these 
 
 ==== What counts as an employee ====
 
-Independent contractors and consultants are not to be counted as employees. The U.S. Department of Labor will count somebody as an employee only if that person is treated as an employee for all tax and legal purposes, including FICA contributions.
+Independent contractors and consultants are not to be counted as employees. The U.S. Department of Labor will count somebody as an employee only if that person is treated as an employee for all tax and legal purposes, including FICA contributions.<ref name=shusterman/><ref name=factsheet/>
 
 ==== Combining all entities as a "single employer" ====
 
-1) “controlled groups of corporations,” such as a parent-subsidiary controlled group, a brother-sister-controlled group, or a combined group; 2) “trades or businesses under common control” which can include sole proprietorships, partnerships, estates, trusts, and corporations; or 3) “affiliated service groups,” such as a service organization (health care organization, law firm, accounting firm) and other organizations that regularly perform services for the first organization and either are shareholders or partners in the first organization or the interest in the second organization is held by highly-paid employees of the first organization.
+Related entities need to also be included when computing the total number of FTE employees for the purpose of determining H-1B-dependency (although they are not relevant to the rest of the LCA). In particular, the following are all included as the "single employer":<ref name=shusterman/><ref name=factsheet/>
+
+# Controlled groups of corporations: such as a parent-subsidiary controlled group, a brother-sister-controlled group, or a combined group;
+# Trades or businesses under common control: which can include sole proprietorships, partnerships, estates, trusts, and corporations; or
+# Affiliated service groups: such as a service organization (health care organization, law firm, accounting firm) and other organizations that regularly perform services for the first organization and either are shareholders or partners in the first organization or the interest in the second organization is held by highly-paid employees of the first organization.
 
 === What triggers a H-1B-dependency calculation ===
 
-- Concept of employer status snapshot
+An employer must determine H-1B-dependency status every time the employer files a [[Labor Condition Application]]. Further, if an employer who did not file as H-1B-dependent at the time of filing the LCA becomes H-1B-dependent when filing [[Form I-129]], the employer cannot use the LCA and must obtain a new one.<ref name=shusterman/>
 
-- LCA may need to be refiled if employer became H-1B-dependent between previous H-1B filing and Form I-129 filing (true even for exempt nonimmigrants, even though they don't need to make the attestations)
+=== Documentation requirement ===
 
-- Must keep payroll and other records that were used in determining the FTE employee count. Does not need to be part of the public file.
+Since H-1B-dependent status requires additional attestations, employers have incentives to be classified as non-dependent. Therefore, there is a stronger burden of proof to maintain and submit documentation in cases where an employer who ''prima facie'' appears H-1B-dependent (or borderline) files as a non-dependent.
 
+As part of the exercise of filling an LCA, an employer can use a "snap shot" test: do a headcount of the workforce and of the current H-1B employees, and then compare against the thresholds. This snap shot should be conducted using the records of the most recent payroll.<ref name=shusterman/><ref name=factsheet>{{cite web|url = http://www.dol.gov/whd/regs/compliance/FactSheet62/whdfs62C.pdf|title = Fact Sheet #62C: Who is an H-1B-dependent employer?|accessdate = March 29, 2016|publisher = [[U.S. Department of Labor]]}}</ref>
 
+An employer who comes out as clearly H-1B-non-dependent or H-1B-dependent may file the LCA accordingly without submitting any additional documentation. If, however, an employer who comes out as H-1B-dependent based on the snap shot then files as non-dependent, the employer must have documentation showing this. Typical complicating factors that make an employer's status ambiguous include the extensive use of part-time workers, existence of multiple entities that need to be grouped as a "single employer", and significant employee churn.
+
+=== Public access file ===
+
+The U.S. Department of Labor does not require all petitions to be in the public access file, but it does require the public access file to contain the list of all exempt nonimmigrants. However, if ''all'' petitions filed by the employer are for exempt nonimmigrants, then this list need not be maintained.
+
+Additional documentation of employee lists and payroll, that was used to determine H-1B-dependency, should be maintained by the employer, but does not need to be part of the public access file.
+
+== Additional fees and other proposed mechanisms ==
+
+H-1B-dependence itself does not trigger any additional fees. However, at various points in the history of H-1B law, additional fees have been levied on employers satisfying conditions similar to H-1B-dependency. These are employers who have more than 50 full-time employee equivalents and with the number of H-1B and L-1 nonimmigrants at present equal to more than 50% of their current number of FTE equivalents. Note that the corresponding threshold for H-1B-dependency is 15%, but one way these thresholds differ is that the 50% threshold for the additional fees requires the employer to count people in H-1B as well as people in L-1 status. Also, unlike the case of additional LCA attestations, there is no exemption for people based on how much they are earning or their educational qualifications.
+
+=== Public Law 111-230 (August 2010 to September 2015): additional fee of $2000 ===
+
+Section 402 of Public Law 111-230, signed by then-United States President [[Barack Obama]] on August 13, 2010, imposed an additional fee of $2,000 on certain H-1B nonimmigrant petitions and $2,250 on certain L-1A and L-1B petitions. All the petitions involved are filed using [[Form I-129]], and these fees apply over and above any applicable fees for those forms. As mentioned above, an employer was required to pay the additional H-1B fees only in the case that the employer had 51 or more employees and H-1B and L-1 employees together comprised over 50% of the workforce.<ref name=uscis-pl-111-230>{{cite web|url = https://www.uscis.gov/archive/archive-news/uscis-implements-h-1b-and-l-1-fee-increase-according-pl-111-230|title = USCIS Implements H-1B and L-1 Fee Increase According to P.L. 111-230|accessdate = March 28, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref> 
+
+The fee would apply only to petitions on postmarked on or after August 14, 2010, and until September 30, 2014.<ref name=pl-111-230-teleconference>{{cite web|url = https://www.uscis.gov/outreach/notes-previous-engagements/notes-previous-engagements-topic/policy-and-guidance/teleconference-implementing-public-law-111-230|title = Teleconference: Implementing Public Law 111-230|accessdate = March 28, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref> Public Law 111-347 extended these fees till September 30, 2015. Petitions filed October 1, 2015 onward were no longer subject to these fees.<ref>{{cite web|url = https://www.uscis.gov/news/public-law-111-230-h-1b-l-1-additional-fees-expire|title = Public Law 111-230 H-1B, L-1 Additional Fees Expire|date = October 5, 2015|accessdate = March 28, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+
+=== Public Law 114-113 (December 2015 to September 2025) : additional fee of $4000 ===
+
+Public Law 114-113, part of the [[Consolidated Appropriations Act, 2016]], imposed a fee of $4,000 on H-1B petitions and $4,500 on L-1A and L-1B petitions. The additional H-1B fees would apply to all petitions postmarked on or after December 18, 2015.<ref>{{cite web|url = https://www.uscis.gov/news/alerts/new-law-increases-h-1b-and-l-1-petition-fees|title = New Law Increases H-1B and L-1 Petition Fees|publisher = [[United States Citizenship and Immigration Services]]|accessdate = March 29, 2016}}</ref><ref>{{cite web|url = http://www.tribuneindia.com/news/world/indian-it-companies-to-pay-over-8-000-per-h1b-visa/172810.html|title = Indian IT Companies to pay over $8,000 per visa|accessdate = March 29, 2016}}</ref>
 
 == History ==
 
@@ -55,6 +102,11 @@ Independent contractors and consultants are not to be counted as employees. The 
 
 {{further|American Competitiveness and Workforce Improvement Act}}
 
+=== Interim Final Rule of 2000 ===
+
+=== Additional fees ===
+
+Two additional fees have been levied at different time periods for some subsets of H-1B-dependent employers, as discussed above.
 
 == References ==
 
