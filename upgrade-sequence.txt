@@ -1,0 +1,28 @@
+- apt-get update
+
+- apt-get upgrade
+
+- apt-get install emacs
+
+- apt-get install python3-pip
+
+- pip3 install awscli
+
+- aws configure
+
+- Disable root access
+
+- Create my secret username and password with root permissions
+
+- install nginx, php5-fpm, and mysql
+
+- install GAP
+
+- aws s3 cp [use to populate content]
+
+- activation steps
+
+TODO:
+
+- Other access restrictions
+
