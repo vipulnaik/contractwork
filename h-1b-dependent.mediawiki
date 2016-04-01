@@ -4,6 +4,12 @@ One of the key goals of the concept of H-1B-dependence is to curtail the use of 
 
 == Definition and applicability ==
 
+The LCA has a question that offers three options, therefore all employees for whom a single LCA is being filed must fit into a single one of the options:
+
+* The employer is not H-1B-dependent
+* The employees being petitioned for are exempt nonimmigrants
+* The employees being petitioned for are not exempt, and the employer is therefore including the additional attestations
+
 === Thresholds for defining H-1B-dependence ===
 
 The following are the thresholds for determining whether an employer is classified as H-1B-dependent.<ref name=lca>{{cite web|url = https://www.foreignlaborcert.doleta.gov/pdf/ETA_Form_9035CP.pdf|title = Labor Condition Application for Nonimmigrant Workers|publisher = Employment & Training Administration, [[U.S. Department of Labor]]|accessdate = March 28, 2016}}</ref><ref name=shusterman/><ref name=factsheet/>
@@ -11,7 +17,7 @@ The following are the thresholds for determining whether an employer is classifi
 {| class="wikitable sortable"
 ! Number of full-time equivalent employees !! Number of H-1B nonimmigrant workers necessary to make the employer H-1B-dependent !! How threshold varies as a percentage of total number of employees
 |-
-| 1 to 25 || 8 or more || 100% (at 8 employees) down to 32%. Note that employers with 7 or fewer FTE employees are not classified as H-1B-dependent (unless some of the workforce is part time).
+| 1 to 25 || 8 or more || 100% (at 8 employees) down to 32%. Note that a consequence of this rule is that employers with 7 or fewer FTE employees cannot be classified as H-1B-dependent.
 |-
 | 26 to 50 || 13 or more || 50% down to 26%. Note the sudden upward jump in the threshold from 25 to 26 employees, making it advantageous to cross the threshold.
 |- 
@@ -22,18 +28,49 @@ The following are the thresholds for determining whether an employer is classifi
 
 Even for a H-1B-dependent employer, a nonimmigrant is considered exempt from the additional H-1B attestations if ''either'' of these two conditions is satisfied:<ref name=shusterman/>
 
-* The worker is being paid $60,000 or more in annual compensation. Only salary and cash bonuses can be counted towards compensation; non-cash benefits cannot be included.
-* The worker holds a master's or higher degree or its equivalent in a specialty related to the intended employment. Equivalent foreign degrees are allowed. However, work experience cannot be used to establish equivalence with a degree. This is unlike the case of the Form I-129 H-1B petition itself, where work experience can be used in lieu of a degree with a thumb rule that 2 or 3 years of work experience substitute for 1 year of study.
+* The worker is being paid $60,000 or more in annual compensation.
+* The worker holds a master's or higher degree or its equivalent in a specialty related to the intended employment. Equivalent foreign degrees are allowed.
 
-The LCA has a question that offers three options, therefore all employees for whom a single LCA is being filed must fit into a single one of the options:
+=== Exemption based on compensation ===
 
-* The employer is not H-1B-dependent
-* The employees being petitioned for are exempt nonimmigrants
-* The employees being petitioned for are not exempt, and the employer is therefore including the additional attestations
+For exemption based on compensation, only salary and cash bonuses can be counted towards compensation. Non-cash benefits (such as stock) cannot be included.
 
+Note that this criterion differs somewhat from the conditions of the attestation on wages needed for all LCAs. The wage attestation in the LCA says that the wage paid to the worker is greater than or equal to both the [[prevailing wage]] for that occupation and area of intended employment, and to the actual wage paid to other workers at the company. In many cases (such as highly skilled professions and/or jobs in expensive urban areas) the minimum annual compensation needed to satisfy these attestations is in excess of $60,000. However, this is not always the case.
+
+$60,000 is Tier II on the standard payscale (elaborate more?).
+
+Something something inflation-adjustment ...
+
+=== Exemption based on educational qualifications ===
+
+The educational criterion is intermediate between two other educational criteria used in the context of H-1B petitions:
+
+* It is ''stricter'' than the educational criterion used to establish that one is a skilled worker in the [[Form I-129]] petition for H-1B status. That petition allows for the use of work experience in lieu of educational credentials, whereas a nonimmigrant can be exempted ''only'' in the presence of an actual masters degree.
+* It is ''weaker'' than the criterion used to determine eligibility for the 20,000 cap-exempt slots every fiscal year. Those cap-exempt slots are available only to people who acquired masters degree at United States universities, whereas a nonimmigrant can be exempted based on a masters degree from a United States university or foreign university.
+
+Something something AACRAO standardization ...
 === Attestations needed ===
 
-(get these from LCA page)
+The following attestations are needed for LCAs filed by a H-1B-dependent employer filing for a non-exempt H-1B nonimmigrant.
+
+====(A) Displacement====
+
+The employer promises not to displace any similarly employed US worker within the period beginning 90 days before and ending 90 days after the date of filing the H-1B nonimmigrant petition (note that this is not the date of the LCA filing).
+
+
+====(B) Secondary Displacement====
+
+The employer promises not to place the employee at another employer's worksite ''unless'' the employer has made a ''bona fide'' inquiry as to whether the other employer has displaced or intends to displace a US worker any time between 90 days before and 90 days after the placement, and has no contrary knowledge. If the other employer makes such a displacement, the employer applicant may be subject to civil money penalties and disbarment.
+
+====(C) Recruitment and Hiring====
+
+Prior to filing any petition for a H-1B nonimmigrant pursuant to the application, the employer took or will take good faith steps to meet industry-wide standards to recruit US workers for the job for which the nonimmigrant is sought, offering compensation at least as great as that required to be offered to the non-immigrant. The employer will (has) offer(ed) the job to an equally or better qualified US worker.
+
+Note that ordinary LCAs do not require any attestation to demonstate good-faith effort to hire a United States. In this respect, ordinary LCAs differ from [[labor certification]], which requires evidence of good-faith effort to recruit US workers. However, even with these additional attestations, the requirements faced by LCA are less onerous than those for labor certification. One key difference is that whereas labor certification requires waiting for several months to try to hire for the specific position, the attestations on LCAs only require one to cmeet industry-wide general hiring standards.
+
+=== H-1B1 and E-3 employees do not count towards the threshold ===
+
+There are two variants of the H-1B status that also require the filing of a [[Labor Condition Application]]: the [[H-1B1 visa|H-1B1 status]] for nationals of [[Singapore]] and [[Chile]], and the [[E-3 visa|E-3 status]] for nationals of [[Australia]]. The concept of H-1B-dependence does not matter for LCAs of employees for these classifications. Moreover, employees in these categories do not count toward the thresholds for determining H-1B-dependence.(citation needed)
 
 == Details around definitions and documentation ==
 

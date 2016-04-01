@@ -1,0 +1,21 @@
+A '''Public Access File''' is a file that any United States employer hiring people in [[H-1B visa|H-1B]], [[H-1B1 visa|H-1B1]], or [[E-3 visa|E-3]] temporary nonimmigrant worker statuses. It is intended to include more background information related to the attestations made on the [[Labor Condition Application]] used for the [[Form I-129]] and/or visa application that was used to acquire the nonimmigrant worker status.<ref name=murthy>{{cite web|url = http://www.murthy.com/2011/06/17/employer-public-access-file-requirements-for-h1b-h1b1-and-e-3-workers/|title = Employer Public Access File Requirements for H1B, H1B1 and E-3 Workers|date = June 17, 2011|accessdate = March 31, 2016|publisher = Murthy Law Firm}}</ref><ref name=olender>{{cite web|url = http://www.olender.pro/immigration/business-immigration/compliance/public-access-file|title = Maintaining the H-1B Public Access File|publisher= Olender Law Firm|accessdate = March 31, 2016}}</ref> The file may be requested by any member of the public through telephone or email inquiries, that should be responded to within 3 business days. It is distinguished from a Private Access File that might contain more sensitive and confidential employee data that must be shared with the [[U.S. Department of Labor]] or (other US government agencies?) if they choose to investigate.
+
+== Contents of the file ==
+
+=== Labor Condition Applications ===
+
+The Public Access File should include the entirety of all Labor Condition Applications. (Is this relevant any more given that all LCAs are submitted online?)
+
+=== Background information on the attestations made ===
+
+The goal of the Public Access File is to provide more information explaining the basis of the attestations made in the [[Labor Condition Application]]. Below, we go over the list of the attestations made and any information that must be included in the Public Access File for those attestations.
+
+=== Attestation #1: Wages ===
+
+The employer must attest, and may need to furnish documentation upon rest, to show that the non-immigrant workers on behalf of whom the application is being made will be paid at or above both these numbers:
+
+* The wage paid to other employees in the company who do the same work.
+* The prevailing wage for that occupation in the geographical area.
+
+The employer must make similar attestation regarding non-wage benefits offered.
+
