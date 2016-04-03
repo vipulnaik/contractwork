@@ -12,10 +12,46 @@ The goal of the Public Access File is to provide more information explaining the
 
 === Attestation #1: Wages ===
 
-The employer must attest, and may need to furnish documentation upon rest, to show that the non-immigrant workers on behalf of whom the application is being made will be paid at or above both these numbers:
+In the LCA, the employer must attest that the non-immigrant workers on behalf of whom the application is being made will be paid at or above both these numbers:
 
-* The wage paid to other employees in the company who do the same work.
-* The prevailing wage for that occupation in the geographical area.
+* The '''actual wage''': This is the wage paid to other employees in the company who do the same work.
+* The [[prevailing wage]]: This is the wage for that occupation in the geographical area of intended employment.
 
 The employer must make similar attestation regarding non-wage benefits offered.
 
+The Public Access File must include documentation clearly explaining the following:
+
+* A full, clear explanation of the system the employer used to set the "actual wage."
+* A full, clear explanation of the system the employer used to set the "prevailing wage."
+
+=== Attestation #2: Working conditions ===
+
+In the LCA, the employer must attest that the hiring of non-immigrant workers will not adversely affect the working conditions of similarly employed workers at the company, and that the non-immigrant workers will be offered similar working conditions as native US workers. The Public Access File is not required to contain any particular mandatory information on working conditions (???).
+
+=== Attestation #3: Strike, lockout, or work stoppage ===
+
+In the LCA, the employer must attest that on the day the application is filed, there is not a strike, lockout, or work stoppage in the named occupation at the place of employment and that, if such a strike, lockout, or work stoppage occurs after the application is submitted, the employer will notify ETA within three (3) days of such occurrence and the application will not be used to file a work authorization petition until the ETA has determined that the work stoppage has ceased.
+
+Documentation of such strikes, lockouts, or work stoppages, if they occurred, should be included in the Public Access File (???).
+
+=== Attestation #4: Notice ===
+
+In the LCA, the employer must attest that as of the date of application, notice of the application has been or will be provided both to workers within the company in the said application. Also, the (prospective) workers on whose behalf the application is filed must be provided a copy of the application.
+
+The Public Access File must include proof of satisfying union/employee notification requirements. For non-union positions this means the posting notice.<ref name=olender/>
+
+== Retention requirements == 
+
+The PAF must be kept as long as the worker is employed in a status that depends on the corresponding LCA, and for one year after the worker is no longer in that status with the company.
+
+== Penalties ==
+
+- Required to produce file to member of the public within three days, or DOL.
+
+- Failure to produce PAF quickly is itself compliance failure regardless of intent or any inaccuracy in LCA attestations.
+
+- Past cooperation and compliance on PAF means less likely to be subjected to heavy penalties.
+
+== References ==
+
+{{reflist}}
