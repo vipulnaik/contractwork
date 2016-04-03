@@ -40,7 +40,7 @@ year.
 
 == Completed pages ==
 
-Total so far: $915
+Total so far: $970
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
