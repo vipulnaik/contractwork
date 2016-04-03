@@ -34,10 +34,13 @@ year.
 * Start by March 7, finish by March 13: Initialized Capital
 * Start by March 14, finish by March 20: Data Collective
 * Start by March 21, finish by March 27: Matthew Emerton
+* Start by April 1, finish by April 3: Uri Simonsohn
 
 (more weeks, months to be added).
 
 == Completed pages ==
+
+Total so far: $915
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -50,6 +53,8 @@ year.
 * Scott Stanford (investor): $50
 * Initialized Capital: $50
 * Data Collective: $50
+* Matthew Emerton: $15
+* Uri Simonsohn (awaiting the addition of one reference): $25
 
 == Timeline pages ==
 
@@ -91,15 +96,9 @@ bounty it's important we stay on the same page here.
 
 * Menlo Ventures. Proposed bounty: $50
 
-=== People ===
-
-* Scott Stanford (investor). Proposed bounty: $50
-
 == Other random people ==
 
 * Thomas C. Leonard: He's at Princeton and has written some interesting books and articles. Also referenced on EconLog and in various libertarian blogs/publications. $25
-
-* Uri Simonsohn: Reinvestigates shady studies for p-hacking. $25
 
 == Other concepts ==
 
