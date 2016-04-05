@@ -1,0 +1,57 @@
+In the [[United States]], the most common visa used for short-term trips is the [[B visa]]. This is a combination of the B-1 visa (for short-term business trips) and the B-2 visa (for short-term tourism/pleasure trips). People on B visas are generally not allowed to engage in productive work or study activities. However, in some cases, B visas can be issued that allow people to engage in some types of productive work activity. Prior to the September 2001 attacks, the B visa could also be used by people on short courses of study, but now such people need to get a [[M-1 visa]] or [[F visa|F-1 visa]]. However, B visas may still have annotations that allow for transition to student visas through [[Form I-539]].
+
+Not all United States consulates offer these visas. In total, about 1,000 such visas are offered annually, with a large fraction of them being given out in [[India]], in the [[Chennai]] and [[Mumbai]] consulates.
+
+This page discusses these rare uses of the B visa and the rules governing these uses.
+
+== Rules governing the B visa, and the limited way these rules are modified ==
+
+=== Inflexible rules ===
+
+The following rules governing the B visa need to be honored even for B visas issued in lieu of other visas:
+
+* The person must not receive compensation from a United States source; however, provision of accommodation or reimbursement of expenses incidental to a temporary stay are allowed.
+* The person's stay must be temporary; generally, the same restrictions apply both per visit and in terms of the total duration of stay.
+* The person should still enter without immigrant intent or the intent to convert the stay to a long-term stay; for instance, the person should not look for employment in the U.S. job market.
+
+=== Restrictions on usual B visas that get relaxed ===
+
+People on usual B visas are allowed to engage in the following activities:<ref name=murthy>{{cite web|url = https://www.murthy.com/2016/03/17/b-1-in-lieu-of-h1b-will-this-useful-category-survive/|title = B-1 in Lieu of H1B – Will this Useful Category Survive?|accessdate = April 5, 2016|publisher = Murthy.com}}</ref>
+
+# Engaging in commercial transactions, which do not involve gainful employment in the United States (such as a merchant taking orders for goods manufactured abroad)
+# Negotiating contracts
+# Consulting with business associates
+# Litigating a court case 
+# Participating in scientific educational, professional, or business conventions, conferences, or seminars
+# Undertaking independent research
+
+B visas issued in lieu of work visas add to this list of permissible activities the activity of productive work in the specific context permitted by the visa. For instance, a B visa issued in lieu of a H-1B for a worker for a non-U.S. company working on a project for a U.S. client allows the worker to engage in productive work activity as part of completion of the project.
+
+== B-1 in lieu of H-1B ==
+
+The most common ''B in lieu of'' visa is the B-1 issued in lieu of the [[H-1B visa]]. To better understand the role of this visa, we review the main use case of the H-1B visa.
+
+=== The process to obtain an H-1B visa and the scope of the visa ===
+
+The [[H-1B visa|H-1B]] status is a temporary nonimmigrant worker status working for a United States employer granted for up to three years (extendable by another three years, after which it can be extended only in case of pending [[Form I-140]] or [[Adjustment of Status]] applications). The procedure for obtaining the status is as follows:
+
+* The United States employer files a [[Labor Condition Application]] for the worker with the [[United States Department of Labor]], making various attestations related to wages, working conditions, effect on currently employed workers, strikes and lockouts, and notice. If the employer is a [[H-1B-dependent employer]] or a willful violator and the worker is not exempt based on compensation or educational qualifications, additional attestations related to displacement of United States workers are needed.
+* The United States employer files a [[Form I-129]] H-1B petition for the nonimmigrant worker with the [[United States Citizenship and Immigration Services]]. The petition includes the LCA as well as proof that the worker is skilled in ways that are needed on the job. The first H-1B petition for a worker not made by a nonprofit research institution is subject to the annual H-1B cap (65,000 general + 20,000 for masters degree holders) that is applied every fiscal year. Since Form I-129 can be submitted at most six months in advance, petitions with a start date of October 1 (the first date of the fiscal year) are generally submitted in the beginning of April, and the annual caps are usually met within the first week of April.
+* Once the H-1B petition is approved, the worker may start working at the indicated start date of employment with the employer. If the worker is outside the United States prior the start date of employment, the worker needs to obtain a H-1B visa at a United States consulate. The consulate looks at the LCA, Form I-129, employment letter and other pieces of evidence and in addition vets the application based on the standard criteria for allocating a visa (strong home country ties, no grounds of inadmissibility). The worker can use the H-1B visa to enter the country at most ten days before the start date, and receives a [[Form I-94]] from [[U.S. Customs and Border Protection]]'s Office of Field Operations officer for the duration of the H-1B.
+
+In particular, the following aspects of the H-1B make it unsuitable for various kinds of temporary work:
+
+* For first-time cap-subject workers, petitions can ''de facto'' be submitted only in the first week of April and for jobs starting in October. This makes it difficult for short-term work that is needed suddenly.
+* For first-time cap-subject workers, inless the worker has a masters degree, making it through the cap is a matter of luck.
+* The process requires the filing of the LCA and Form I-129. Both of these have bureaucratic, legal, and administrative overhead. The latter in particular costs both time and money.
+* The employer sponsoring the worker must be a United States entity. It therefore cannot be used by non-U.S. employers who seek to send workers to the United States to work with a client. Rather, the client would have to sponsor the worker as an employee.
+
+=== What the B-1 in lieu of H-1B does ===
+
+For multinational companies that have both United States and international offices, or for non-U.S. companies with U.S. clients, the B-1 in lieu of H-1B is a viable option. The B-1 in lieu of H-1B differs from the H-1B in the following two respects:
+
+* No Labor Condition Application needs to be filed. In particular, no attestations need to be made regarding wages and working conditions, or (in the case of H-1B-dependent employers) displacement of US workers.
+* No Form I-129 needs to be filed. Thus, the cost, bureaucratic overhead, and time of the form are saved on.
+* The duration and terms of the visa match those of a B visa rather than a H-1B visa.
+
+However, the B-1 in lieu of H-1B ''does'' require the worker to demonstrate that he or she is skilled and that the skills are needed for the job being performed in the United States. This demonstration needs to be made directly to the consulate rather than having to first go through USCIS.

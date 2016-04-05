@@ -1,10 +1,12 @@
-The term '''H-1B-dependent employer''' is used by the [[United States Department of Labor]] to describe an employer who meets a particular threshold in terms of the fraction of the workforce comprising workers in [[H-1B visa|H-1B status]]. An employer classified as H-1B-dependent needs to include additional attestations in the [[Labor Condition Application]] used for the petition of any H-1B beneficiary being offered an annual compensation of less than $60,000 and without a Masters degree.<ref name=shusterman>{{cite web|url = http://shusterman.com/h1blabordeptregulationsummary2000ailapart2.html|title = Summary of Department of Labor’s 12/20/00 Interim Final H-1B Regulation|publisher = [[American Immigration Lawyers Association]] (mirrored on shusterman.com)|accessdate = March 28, 2016}}</ref> The notion was introduced by the [[American Competitiveness and Workforce Improvement Act]] (ACWIA) passed in 1998<ref name=acwia-qs>{{cite web|url = http://shusterman.com/h1bacwiaregulationsquestioned.html|title = Questions Raised by DOL’s Proposed H-1B Regulations|last = Shusterman|first = Carl|accessdate = March 28, 2016}}</ref> and refined through further interim orders by the [[U.S. Department of Labor]].
+The term '''H-1B-dependent employer''' is used by the [[United States Department of Labor]] to describe an employer who meets a particular threshold in terms of the fraction of the workforce comprising workers in [[H-1B visa|H-1B status]]. An employer classified as H-1B-dependent needs to include additional attestations in the [[Labor Condition Application]] used for the petition of any H-1B beneficiary being offered an annual compensation of less than $60,000 and without a Masters degree.<ref name=factsheet/><ref name=shusterman>{{cite web|url = http://shusterman.com/h1blabordeptregulationsummary2000ailapart2.html|title = Summary of Department of Labor’s 12/20/00 Interim Final H-1B Regulation|publisher = [[American Immigration Lawyers Association]] (mirrored on shusterman.com)|accessdate = March 28, 2016}}</ref> The notion was introduced by the [[American Competitiveness and Workforce Improvement Act]] (ACWIA) passed in 1998<ref name=acwia-qs>{{cite web|url = http://shusterman.com/h1bacwiaregulationsquestioned.html|title = Questions Raised by DOL’s Proposed H-1B Regulations|last = Shusterman|first = Carl|accessdate = March 28, 2016}}</ref> and refined through further interim orders by the [[U.S. Department of Labor]].
 
 One of the key goals of the concept of H-1B-dependence is to curtail the use of H-1B visas for the replacement of American skilled workers by cheaper labor from other countries. The demarcation of H-1B-dependency is intended to strike a balance between the need to prevent large-scale use of the H-1B to facilitate "cheap labor" against the goal of minimizing the regulatory burden on employers who use the H-1B sparingly. Some subsets of H-1B-dependent employers have been targeted for additional H-1B fees (by Public Law 111-230 and 114-113). H-1B reform proposals have suggested various ways of capping the use of the H-1B program by H-1B-dependent workers, but strict caps have never been legislatively or administratively imposed.
 
+H-1B-dependence is not relevant to Labor Condition Applications filed for H-1B1 and E-3 workers.<ref name=lca/>
+
 == Definition and applicability ==
 
-The LCA has a question that offers three options, therefore all employees for whom a single LCA is being filed must fit into a single one of the options:
+Section 1a of the LCA seeks to classify the employer filing the LCA into one of three categories:
 
 * The employer is not H-1B-dependent
 * The employees being petitioned for are exempt nonimmigrants
@@ -12,10 +14,10 @@ The LCA has a question that offers three options, therefore all employees for wh
 
 === Thresholds for defining H-1B-dependence ===
 
-The following are the thresholds for determining whether an employer is classified as H-1B-dependent.<ref name=lca>{{cite web|url = https://www.foreignlaborcert.doleta.gov/pdf/ETA_Form_9035CP.pdf|title = Labor Condition Application for Nonimmigrant Workers|publisher = Employment & Training Administration, [[U.S. Department of Labor]]|accessdate = March 28, 2016}}</ref><ref name=shusterman/><ref name=factsheet/>
+The following are the thresholds for determining whether an employer is classified as H-1B-dependent. Note that for the first column below, only employees in the United States should be counted, but this can include other employees on H-1B or another temporary worker status, as well as United States citizens and lawful permanent residents.<ref name=lca>{{cite web|url = https://www.foreignlaborcert.doleta.gov/pdf/ETA_Form_9035CP.pdf|title = Labor Condition Application for Nonimmigrant Workers|publisher = Employment & Training Administration, [[U.S. Department of Labor]]|accessdate = March 28, 2016}}</ref><ref name=shusterman/><ref name=factsheet/>
 
 {| class="wikitable sortable"
-! Number of full-time equivalent employees !! Number of H-1B nonimmigrant workers necessary to make the employer H-1B-dependent !! How threshold varies as a percentage of total number of employees
+! Number of full-time equivalent employees in the United States!! Minimum number of H-1B nonimmigrant workers necessary to make the employer H-1B-dependent !! How threshold varies as a percentage of total number of employees
 |-
 | 1 to 25 || 8 or more || 100% (at 8 employees) down to 32%. Note that a consequence of this rule is that employers with 7 or fewer FTE employees cannot be classified as H-1B-dependent.
 |-
@@ -81,6 +83,10 @@ Since being classified as H-1B-dependent requires employers to incur additional 
 
 The 2000 Interim Final Rule from the [[U.S. Department of Labor]] provided the following guidance regarding the definition of full-time equivalent employee for the purpose of determining H-1B-dependence.<ref name=shusterman/>
 
+==== What counts as a United States employee ====
+
+To count as a United States employee, the person must be employed in the United States. United States employees include United States citizens and lawful permanent residents, as well as H-1B employees in the United States. For multinational firms, employees in other countries cannot be counted. In particular, this is important for multinationals because the ability to count employees outside the United States in the denominator could mean the difference between being classified as H-1B-non-dependent and H-1B-dependent.
+
 ==== What counts as full-time ====
 
 Any employee who works 40 or more hours a week is treated as one full time equivalent. An employee who works less than 35 hours a week ''cannot'' be treated as a full-time equivalent. Employees who work between 35 and 40 hours may be treated as full time equivalent if this is accepted in the employer's regular course of business.<ref name=shusterman/>
@@ -134,28 +140,34 @@ The fee would apply only to petitions on postmarked on or after August 14, 2010,
 
 === Public Law 114-113 (December 2015 to September 2025) : additional fee of $4000 ===
 
-Public Law 114-113, part of the [[Consolidated Appropriations Act, 2016]], imposed a fee of $4,000 on H-1B petitions and $4,500 on L-1A and L-1B petitions. The additional H-1B fees would apply to all petitions postmarked on or after December 18, 2015.<ref>{{cite web|url = https://www.uscis.gov/news/alerts/new-law-increases-h-1b-and-l-1-petition-fees|title = New Law Increases H-1B and L-1 Petition Fees|publisher = [[United States Citizenship and Immigration Services]]|accessdate = March 29, 2016}}</ref><ref>{{cite web|url = http://www.tribuneindia.com/news/world/indian-it-companies-to-pay-over-8-000-per-h1b-visa/172810.html|title = Indian IT Companies to pay over $8,000 per visa|accessdate = March 29, 2016}}</ref>
+Public Law 114-113, part of the [[Consolidated Appropriations Act, 2016]], imposed a fee of $4,000 on H-1B petitions and $4,500 on L-1A and L-1B petitions. The additional H-1B fees would apply to all petitions postmarked on or after December 18, 2015.<ref>{{cite web|url = https://www.uscis.gov/news/alerts/new-law-increases-h-1b-and-l-1-petition-fees|title = New Law Increases H-1B and L-1 Petition Fees|publisher = [[United States Citizenship and Immigration Services]]|accessdate = March 29, 2016}}</ref><ref name=tribuneindia>{{cite web|url = http://www.tribuneindia.com/news/world/indian-it-companies-to-pay-over-8-000-per-h1b-visa/172810.html|title = Indian IT Companies to pay over $8,000 per visa|accessdate = March 29, 2016}}</ref>
 
 == H-1B-dependence among top users of the H-1B program ==
 
-Most of the top users of the H-1B program are classified as H-1B-dependent. Below is a list of the top users of the program. The list of top users is based on explicit data released by the government,<ref name=computerworld>{{cite web|url = http://www.computerworld.com/article/2954612/it-outsourcing/despite-h-1b-lottery-offshore-firms-dominate-visa-use.html|title = Despite H-1B lottery, offshore firms dominate visa use|date = July 30, 2015|accessdate = April 2, 2016|publisher = ComputerWorld}}</ref> whereas H-1B-dependence is inferred from looking at sample publicly available LCAs from these companies. Since not all LCAs may be correctly prepared, the information may not always be reliable (in principle, all LCAs from a single employer at a given time should be mutually consistent with regard to H-1B-dependency, but this is not always the case).<ref>{{cite web|url=http://www.immihelp.com/lca-perm-approval-daily-data/search-results?page=1&c.employerName=TATA+CONSULTANCY+SERVICES+LIMITED&c.caseType=h-1b|title = Search Employers|accessdate = ImmiHelp}}</ref>
+There is no official designation of H-1B-dependence provided by the [[United States Department of Labor]]. Rather, each employer attempts to classify itself as H-1B-dependent when making a Labor Condition Application. The answer to this question can change over time. There could be inconsistencies between different LCAs filed by the same employer, and an employer may not always correctly classify its H-1B-dependent status. The table below looks at top users of the H-1B program and their H-1B-dependent status given by employers from LCAs filed for work start dates in 2016. Note that the H-1B-depdent status should match for all employers that are under the same parent group, per the "single employer" test.<ref name=computerworld>{{cite web|url = http://www.computerworld.com/article/2954612/it-outsourcing/despite-h-1b-lottery-offshore-firms-dominate-visa-use.html|title = Despite H-1B lottery, offshore firms dominate visa use|date = July 30, 2015|accessdate = April 2, 2016|publisher = ComputerWorld}}</ref><ref>{{cite web|url=http://www.immihelp.com/lca-perm-approval-daily-data/search-results?page=1&c.employerName=TATA+CONSULTANCY+SERVICES+LIMITED&c.caseType=h-1b|title = Search Employers|accessdate = ImmiHelp}}</ref>
 
 {| class="sortable" border="1"
 ! Company name !! Number of H-1B visas approved in FY 2014 !! Classified as H-1B-dependent?
 |-
-| [[Tata Consultancy Services]] and others under the Tata parent group || 7149 || Yes
+| [[Tata Consultancy Services]] and others under the [[Tata Group]] || 7149 || Yes
 |-
-| Cognizant Technology Solutions and others under the Cognizant parent group || 5228 || Conflicting information in different LCAs
+| [[Cognizant Technology Solutions]] and others under the Cognizant parent group || 5228 || Conflicting information in different LCAs
 |-
-| Infosys || 4022 || No
+| [[Infosys]] || 4022 || No
 |-
-| Wipro || 3246 || No
+| [[Wipro]] || 3246 || No
 |-
-| Accenture || 2376 || No
+| [[Accenture]] || 2376 || No
 |-
-| Tech Mahindra || 1850 || No
+| [[Tech Mahindra]] and others under the [[Mahindra Group]] || 1850 || No
 |-
-| IBM || 1513 || No
+| [[IBM]] || 1513 || No
+|-
+| [[Syntel]] || 1149 || Yes
+|-
+| [[Larsen & Toubro]] || 1001 || Conflicting information in different LCAs
+|-
+| [[HCL Technologies]] || 927 || No
 |}
 
 == History ==
@@ -164,11 +176,19 @@ Most of the top users of the H-1B program are classified as H-1B-dependent. Belo
 
 {{further|American Competitiveness and Workforce Improvement Act}}
 
+The American Competitiveness and Workforce Improvement Act temporarily increased the annual caps for the H-1B status, since the cap was getting oversubscribed. Some interest groups, including some legislators, labor unions, and the White House, were concerned about the effects of these cap increases on native wages in the technology sector. The ACWIA included some concessions intended to address these concerns. The introduction of the concept of H-1B-dependency, intended to prevent employers from using this visa to facilitate large-scale offshoring, was one such concession. The [[Labor Condition Application]] was changed accordingly.<ref name=shusterman-acwia>{{cite web|url=http://shusterman.com/h1b-acwialaw-summary.html|title = H-1B ACWIA Law Section-by-Section Summary|publisher = U. S. Immigration: The Essential Guide (Law Offices of Carl Shusterman)|accessdate = March 15, 2015}}</ref><ref>{{cite web|url=http://www.oalj.dol.gov/PUBLIC/INA/REFERENCES/STATUTES/ACWIA.HTM|title = American Competitiveness and Workforce Improvement Act of 1998|date = October 21, 1998|accessdate = March 15, 2015|publisher = [[Office of Administrative Law Judges]], [[United States Department of Labor]]}}</ref><ref name=hahm>{{cite journal|title = American Competitiveness and Workforce Improvement Act: Balancing Economic and Labor Interest under the New H-1B Visa Program|url=http://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2823&context=clr|last = Hahm|first = Jung|journal = ''[[Cornell Law Review]]''|volume = 85|issue = 6|date = September 1, 2000|accessdate = March 15, 2015}}</ref>
+
 === Interim Final Rule of 2000 ===
 
-=== Additional fees ===
+An Interim Final Rule published by the [[United States Department of Labor]] provided more clarity on how employers should determine whether they are H-1B-dependent and what documentation they need to maintain. This rule remains the main guideline to this date.<ref name=shusterman/>
 
-Two additional fees have been levied at different time periods for some subsets of H-1B-dependent employers, as discussed above.
+=== Later introductions of other variants of the H-1B category ===
+
+When the [[H-1B1 visa]] (for [[Singapore]] and [[Chile]]) and [[E-3 visa]] (for [[Australia]]) were added (between 2003 and 2005), and the Labor Condition Application was modified to include them, it was updated to reflect that employees in these categories would not necessitate additional attestations, and that these employees would not count towards the number of H-1B employees. Specifically Section 1a (subsection 1) of the LCA explicitly states that the Additional Employer Labor Condition Statements are for the H-1B only.<ref name=lca/>
+
+=== Introduction of additional fees ===
+
+One of the ways employers responded to the generally increased regulations surrounding the H-1B, as well as the strict caps on the category, was to more liberally use the [[L-1 visa]] for intracompany transfers. In response, additional fees were levied for H-1B and L-1 applicants for employers with more than 50 employees for whom the total of H-1B and L-1 employees exceeded 50% of the United States workforce, as discussed in the [[#Additional fees|additional fees section of this page]]. The fees have widely been viewed as a way for more high-paying technology firms (such as the technology firms in the [[San Francisco Bay Area]]), that generally have relatively small fractions of their workforce in H-1B status and pay higher wages, to reduce competition for a limited number of H-1B firms from offshoring and outsourcing firms that currently dominate H-1B usage.<ref name=tribuneindia/><ref>{{cite web|url = http://cis.org/north/big-it-companies-seek-deny-indian-firms-many-h-1b-visas|title = Big IT Companies Seek to Deny Indian Firms Many H-1B Visas|publisher = [[Center for Immigration Studies]]|accessdate = April 3, 2016|date = April 30, 2013|last = North|first = David}}</ref>
 
 == References ==
 
