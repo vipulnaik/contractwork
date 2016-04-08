@@ -29,9 +29,11 @@ B visas issued in lieu of work visas add to this list of permissible activities 
 
 == B-1 in lieu of H-1B ==
 
-The most common ''B in lieu of'' visa is the B-1 issued in lieu of the [[H-1B visa]]. To better understand the role of this visa, we review the main use case of the H-1B visa.
+The most common ''B in lieu of'' visa is the B-1 issued in lieu of the [[H-1B visa]].<ref name=murthy/><ref name=chennai-consulate>{{cite web|url = http://chennai.usconsulate.gov/types_of_visas/temporary-employment-holp/b1-in-lieu-of-h2.html|title = B1 in Lieu of H|accessdate = April 7, 2016|publisher = Consulate General of the United States, Chennai, India}}</ref><ref name=irwin-mitchell>{{cite web|url = http://www.irwinmitchell.com/activities/a-guide-to-b-1-in-lieu-of-h-1b-visa|title = A Guide To B-1 In Lieu Of H-1B Visa|publisher = Irwin Mitchell|accessdate = April 8, 2016}}</ref> To better understand the role of this visa, we review the main use case of the H-1B visa.
 
 === The process to obtain an H-1B visa and the scope of the visa ===
+
+{{main article|H-1B visa}}
 
 The [[H-1B visa|H-1B]] status is a temporary nonimmigrant worker status working for a United States employer granted for up to three years (extendable by another three years, after which it can be extended only in case of pending [[Form I-140]] or [[Adjustment of Status]] applications). The procedure for obtaining the status is as follows:
 
@@ -54,4 +56,17 @@ For multinational companies that have both United States and international offic
 * No Form I-129 needs to be filed. Thus, the cost, bureaucratic overhead, and time of the form are saved on.
 * The duration and terms of the visa match those of a B visa rather than a H-1B visa.
 
-However, the B-1 in lieu of H-1B ''does'' require the worker to demonstrate that he or she is skilled and that the skills are needed for the job being performed in the United States. This demonstration needs to be made directly to the consulate rather than having to first go through USCIS.
+However, the B-1 in lieu of H-1B ''does'' require the worker to demonstrate that he or she is skilled and that the skills are needed for the job being performed in the United States. This demonstration needs to be made directly to the consulate rather than having to first go through USCIS. All the other usual requirements needed to obtain a nonimmigrant visa continue to apply, namely strong home times (to overcome the Section 214(b) ground of denial) and not satisfying any of the grounds of inadmissibility.
+
+=== Advantages of the B-1 in lieu of H-1B ===
+
+There are a few key reasons why employers might use the B-1 in lieu of H-1B:
+
+* For non-U.S. companies with U.S. clients, this category may make more sense than the H-1B, since the worker will continue to be employed by the non-U.S. It may also make more sense for work whose duration is only a few months.
+* For multinationals, one key advantage is that the total time taken, from the decision to apply to the time the worker can start work, is much shorter than the 6 months taken for a H-1B position. In particular, it may be more suitable for work that needs to be urgently done. Moreover, the B-1 is not subject to the annual H-1B cycle.
+* Lottery chances also improved.
+
+=== Disadvantages of the B-1 in lieu of H-1B ===
+
+* Available only at some consulates
+* More awkward at ports of entry. Since this category is used so rarely, CBP officer at the port of entry may not understand all the nuances.
