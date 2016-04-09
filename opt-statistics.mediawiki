@@ -1,0 +1,25 @@
+== Statistics ==
+
+Statistics below are for the United States fiscal year, that runs October to September. For instance, Fiscal Year 2008 starts on October 1, 2007 to September 30, 2008. Data is from a [[Government Accountability Office]] report.<ref name=gao-report>{{cite web|url = http://www.gao.gov/assets/670/661192.pdf|title = Student and Exchange Visitor Program. DHS Needs to Assess Risks and Strengthen Oversight of Foreign Students with Employment Authorization|date = February 1, 2014|accessdate = April 8, 2016}}</ref>
+
+=== Number of receipts, approvals, denials, and revocations by Fiscal Year ===
+
+Note that the counts here are of receipts, approvals, denials or revocations that happened in the Fiscal Year, regardless of when other activities surrounding that application occurred. For instance, if an application was approved in Fiscal Year 2009 and revoked in Fiscal Year 2010, the revocation would be counted in 2010 rather than 2009. Thus, the number of receipts for a given year need not equal the sum of the number of approvals and denials for that year.<ref name=gao/>
+
+{| class="sortable" border="1"
+! Fiscal Year !! Receipts !! Approvals !! Denials !! Revocations
+|-
+| 2008 || 38,730 || 28,497 || 360 || 1
+|-
+| 2009 || 87,636 || 90,896 || 2,125 || 71
+|-
+| 2010 || 99,876 || 96,916 || 1,731 || 57
+|-
+| 2011 || 109,895 || 105,357 || 2,226 || 67
+|-
+| 2012 || 117,141 || 115,303 || 2,801 || 71
+|-
+| 2013 || 128,591 || 123,328 || 3,400 || 77
+|-
+! Total || 581,869 || 560,297 || 12,643 || 344
+|}

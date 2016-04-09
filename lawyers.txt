@@ -1,0 +1,82 @@
+A while back, I raised, in an <a href="http://www.facebook.com/groups/openborders/permalink/691524360944288/">Open Borders Action Group post</a>, the question of why lawyers, and in particular immigration lawyers, are so sympathetic to migration liberalization (for more evidence that lawyers are indeed quite sympathetic, see our <a href="/legal-and-political-scholarly-consensus">legal and political scholarly consensus</a> page, or check out some <a href="http://blogs.ilw.com">immigration law blogs</a>, in particular Angelo Paparelli's <a href="http://www.nationofimmigrators.com">Nation of Immigrators</a> blog). <em>A priori</em>, we would expect open borders, or even a significant move in that direction, to <em>reduce</em> the need for immigration lawyers. So what's going on?
+
+First, a little elaboration on what I understand to be the position of immigration lawyers. Not many of them come out in support of open borders, though there are some exceptions, such as this site's occasional blogger David Bennion, as well as Open Borders Action Group members Beckie Moriello, Robert Eckerson, and George Nathan. However, their position does push strongly in the direction of making migration more <em>liberal</em>, and in a way that goes farther than the <a href="http://openborders.info/blog/how-do-open-borders-meaningfully-differ-from-mainstream-immigration-reform/">mainstream progressive territorialist position that supports amnesty for current undocumented immigrants and enhanced border security and minimum wage increases to reduce future illegal immigration</a>. Rather, immigration lawyers who are somewhat active in public outreach, seem to relentlessly focus on changes that push in as pure an open borders a direction as any: reducing costs and burdens of proof for both current and potential future immigrants. They may not push as far but they are directionally very closely aligned with open borders.
+
+<h4>Significance</h4>
+
+Understanding what immigration lawyers think and how they arrived at their conclusions has value in at least three different ways:
+
+<ul>
+	<li>Because of their deeper inside knowledge of the system, their view of it is likely more informed, and therefore, we should give it more weight when deciding where the truth lies.</li>
+	<li>Immigration lawyers are an influential segment in what happens <em>de facto</em>, on the ground, so the way they think about the issue helps us understand and predict the default future and other possible futures.</li>
+</ul>
+
+<h4>Bias issues</h4>
+
+My observations are a mix of anecdote and casual empiricism, so it's worth noting potential bias in at least some of my information sources. First off, there's a huge geographical bias: 
+
+The immigration lawyers whom I'm likely to come in contact with, either personally or by reading their public writing, are disproportionately likely to be the ones who are most passionate in active in advocacy. In addition to the bias in favor of passion, there is also a directional bias &mdash; I'm more likely to know, or know of, immigration lawyers who are for more open borders.
+
+Part of this bias can be seen in terms of the domains of immigration law where many of the lawyers I know work. They're disproportionately likely to work for refugees, undocumented immigrants, and family reunification as opposed to work visas. That being said, people who focus on work visas and high-skilled immigration, such as Angelo Paparelli, also come out quite supportive of migration.
+
+That said, there are a few lawyers who specialize in immigration law but actively advocate for restrictionist policies. This includes people in academia.
+
+<h4>The treatment effect: the best proximal explanation</h4>
+
+I believe that the single biggest reason why a nontrivial fraction of immigration lawyers are passionate about migration liberalization stems from the effect of what they see on the job. This "treatment effect" has two slightly different manifestations:
+
+<ol>
+	<li><strong>Greater sympathy/empathy for migrants</strong> (#3 in original OBAG list): Daily interaction with the migrants whom they represent makes immigration lawyers identify more with them and want the best for them. While migration is an abstract and far-off concern for most people, those who are exposed to its <a href="http://openborders.info/blog/why-jose-antonio-vargas-matters-making-human-rights-real/">human face</a> tend to be <a href="http://openborders.info/blog/moral-intuition-open-borders-and-the-euvoluntary-principle/">more supportive</a> of it.</li>
+	<li><strong>Deeper understanding of immigration law and its absurdity</strong> (#4 in original OBAG list): The theme that much of immigration regulation is absurd has been elaborated on in my posts by my co-blogger John Lee. See for instance <a href="http://openborders.info/blog/us-immigration-law-creates-hundreds-of-mini-dictators-empowered-to-enforce-racist-policy-without-question/">here</a> and <a href="http://openborders.info/blog/us-visa-policy-a-cross-between-kafka-orwell-racism-and-aristocracy/">here</a>. Immigration lawyers, who have to deal with the rules on a daily basis, and thereby have a clear understanding of how they operate, may therefore be less sympathetic and deferential to the rules.</li>
+</ol>
+
+For most of us, even those of us who are current or potential immigrants, the act of immigration, and the legal framework that regulates it, are not matters that are salient to us every day. People who haven't migrated across national borders and don't intend to do so <a href="http://openborders.info/blog/what-part-of-immoral-dont-you-understand">have no incentive to understand anything about immigration law at all</a>. Even those who are immigrants, though, often have to understand the law, and specific aspects of the law, only insofar as they apply personally.
+
+Immigration lawyers, on the other hand, encounter the vagaries and power of the law every day, in a variety of cases, each with a different bent. This makes them more familiar both with the law and its effects on real, flesh-and-blood humans. My <em>Open Borders: The Case</em> co-bloggers can, if they so choose, take some time off blogging, and in that duration can afford to (and do manage to) avoid thinking about issues surrounding open borders. Immigration lawyers, whose day job involves working within, around, and against laws have no such luxury.
+
+Of the two listed ways that the effect operates, (2) strongly suggests that those of us who aren't immigration lawyers should update more in the direction of migration liberalization. The take-home from (1) is more murky. On the one hand, you could argue that immigration lawyers are better able to see migrants as humans, something they deserve. On the other hand, you could argue that they are falling prey to the identifiable human fallacy. A restrictionist or tough-minded skeptic might claim that yes, immigration laws hurt potential immigrants, but this "seen" cost should be balanced against the more unseen and diffuse benefits that arise due to secure and regulated borders. While I consider that takeaway incorrect, it's something that requires a bigger debate about the effects of migration, and at least <em>prima facie</em> (1) isn't a strong reason to update in the direction of favoring more migration liberalization.
+
+
+<h4>Selection effect-based explanations</h4>
+
+Treatment explains a lot of the daily salience of migration to immigration lawyers, but selection &mdash; the fact that they chose to go into immigration law in the first place &mdash; probably plays an important role too. I believe selection effects also play an important part.
+
+<ol>
+	<li><strong>Selection in terms of caring for migrants or migration liberalization</strong> (#5 in original OBAG post list): Many of the immigration lawyers I know are passionate about helping migrants and liberalizing migration law. That was part of the reason they went into the field to begin with. Even if they hadn't been able to get into the field, they would still have had similar political views.</li>
+	<li><strong>Selection for greater economic literacy and political knowledge</strong> (not present in original list, but suggested by Ilya Somin): People who make it to law school are generally better educated, smarter, and more economically and politically literate.</li>
+</ol>
+
+
+A fuller understanding of how exactly these treatment effects work would require also looking at others involved with 
+
+In the post, I posited some explanations. I include the same explanations below, structured somewhat differently, and with more elaboration.
+
+
+
+<ol>
+	<li><strong>Incentives-based explanations</strong>:
+<ol>
+	<li><strong>Number of potential migrants compensates for reduced probability of needing a lawyer</strong> (#1 in original OBAG post list): With migration liberalization, the raw number of people who will migrate or try to migrate will incerase. Even if a smaller fraction of them need legal help, the absolute numbers of people needing legal help could well increase.</li>
+	<li><strong>Increases in complexity mean more need for legal assistance despite liberalization</strong> (#2 in original OBAG post list): In practice, most migration liberalization will typically work by adding in new layers of complexity to the existing system. Even if not, a new system of laws opens itself up to many conflicting interpretations and uncertainty. People may well need <em>more</em> legal help to navigate the new set of rules. Indeed, many immigration lawyers today acquire their name and fame by specializing in particular visa categories introduced as <a href="http://openborders.info/blog/high-skilled-hacks-us-immigration-system-needs-refactoring/">hacks into the immigration system</a> to liberalize it somewhat.</li>
+</ol>
+</li>
+
+	<li><strong>Selection effect-based explanations</strong>: 
+<ol>
+	<li><strong>Selection in terms of caring for migrants or migration liberalization</strong> (#5 in original OBAG post list): Many of the immigration lawyers I know are passionate about helping migrants and liberalizing migration law. That was part of the reason they went into the field to begin with. Even if they hadn't been able to get into the field, they would still have had similar political views.</li>
+	<li><strong>Selection for greater economic literacy and political knowledge</strong> (not present in original list, but suggested by Ilya Somin): People who make it to law school are generally better educated, smarter, and more economically and politically literate.</li>
+</ol>
+</li>
+
+	<li><strong>Treatment effect-based explanations</strong>:
+<ol>
+	<li><strong>Greater sympathy/empathy for migrants</strong> (#3 in original OBAG list): Daily interaction with the migrants whom they represent makes immigration lawyers identify more with them and want the best for them. While migration is an abstract and far-off concern for most people, those who are exposed to its <a href="http://openborders.info/blog/why-jose-antonio-vargas-matters-making-human-rights-real/">human face</a> tend to be <a href="http://openborders.info/blog/moral-intuition-open-borders-and-the-euvoluntary-principle/">more supportive</a> of it.</li>
+	<li><strong>Deeper understanding of immigration law and its absurdity</strong> (#4 in original OBAG list): The theme that much of immigration regulation is absurd has been elaborated on in my posts by my co-blogger John Lee. See for instance <a href="http://openborders.info/blog/us-immigration-law-creates-hundreds-of-mini-dictators-empowered-to-enforce-racist-policy-without-question/">here</a> and <a href="http://openborders.info/blog/us-visa-policy-a-cross-between-kafka-orwell-racism-and-aristocracy/">here</a>. Immigration lawyers, who have to deal with the rules on a daily basis, and thereby have a clear understanding of how they operate, may therefore be less sympathetic and deferential to the rules.</li>
+</ol>
+
+</li>
+
+	<li><strong>Signaling (the cynical hypothesis)</strong>: By making public statements for migration liberalization, lawyers are simply signaling to current and potential clients that they have the best interests of these clients at heart. It doesn't necessarily reflect their actual policy preferences. If they were actually in a position to very directly influence the law, they may not necessarily push for the reforms they claim to support.</li>
+
+</ol>
+

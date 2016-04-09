@@ -18,26 +18,6 @@ Pay plan to be decided but this can be a good alternative to blogging for crysta
 
 == Immigration and non-immigrant visas (United States): Mostly Wikipedia ==
 
-=== Student visa-related stuff ===
-
-* Academic Training, the analogue for J-1 visas of Optional Practical Training. $150 for a page with comparable detail to that for the current page on Optional Practical Training.
-
-=== B visa-related stuff ===
-
-* B visa in lieu of other visas: Discuss B visa in lieu of H-1B, B visa in lieu of L visa, etc. Also mention discontinuance of B visa in lieu of student visas (forcing people to use M and F visas instead)
-
-=== H-1B-related and EB-related regulations ===
-
-* H-1B-dependent employer. Pay: $45
-
-* Public Law 111-230. Pay: $25
-
-* Expand discussion on the Labor Condition Application page to discuss the "multiple LCA" trick. Pay: $5
-
-* Expand the Premium Processing Service page to discuss more on discretionary expedite requests. Pay: $5
-
-=== Immigration (other countries) ===
-
 Point(s) system (Canadian immigration law) -- similar page exists for UK, but nothing for Canada. Really??? $150
 
 == Public choice ==

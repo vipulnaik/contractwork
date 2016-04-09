@@ -1,0 +1,89 @@
+=== Number of visas issued from 1997 onward ===
+
+Note that the count below is of the number of visas issued by a United States consular officer. The years here are Fiscal Years, so for instance the year 2004 refers to the period from October 1, 2003 to September 30, 2004.<ref name=visa-approvals>{{cite web|url=https://travel.state.gov/content/dam/visas/Statistics/Non-Immigrant-Statistics/NIVDetailTables/FYs97-14_NIVDetailTable.xls|title = Non-immigrant visa statistics|publisher = [[United States Department of State]]|accessdate = April 8, 2016}}</ref> This includes visas issued to people who are in an existing program of study and whose visa has expired, therefore it exceeds the actual number of distinct students admitted every year. On the other hand, since many students get multi-year, multi-entry visas, and a new visa needs to be issued only when the person travels outside the United States, this number is less than the total number of students in that status currently present in the United States. In other words, it is somewhere intermediate between the annual flow and total stock of students in F status.<ref name=visa-approvals/> Note also that the F-3 became available in Fiscal Year 2004 so the number of F-3 visas issued before that is zero.
+
+{| class="sortable" border="1"
+! Year !! Number of F-1 visas issued !! Number of F-2 visas issued !! Number of F-3 visas issued !! Ratio of F-2 visas to F-1 visas !! Percentage growth in F-1 visas issued !! Notes
+|-
+| 1997 || 266,483 || 22,099 || 0 || 8.29% ||  ||
+|-
+| 1998 || 251,565 || 21,845 || 0 || 8.65% || -5.22% ||
+|-
+| 1999 || 262,542 || 22,893 || 0 || 8.71% || +3.95% ||
+|-
+| 2000 || 284,053 || 24,891 || 0 || 8.76% ||  +8.19%||
+|-
+| 2001 || 293,357 || 26,160 || 0 || 8.94% || +3.27% ||
+|-
+| 2002 || 234,322 || 22,212 || 0 || 9.48% || -20.12%  || Reduction in the number of student visas issued was due to tightening of security as a result of the [[September 11 attacks]].
+|-
+| 2003 || 215,695 || 19,885 || 0 || 9.22% || -7.94% || Continued increase in security around September 11 attacks led to further reductions in the issuance of new student visas.
+|-
+| 2004 || 218,898 || 18,893 || 16 || 8.63% || +1.48% || Number of F-1 visas issued no longer declining; also the F-3 category was introduced and started getting used.
+|-
+| 2005 || 237,890 || 18,061 || 42 || 7.59% || +8.67% || The number of F-1 visas starts increasing, and the ratio of F-2 to F-1 visas falls.
+|-
+| 2006 || 273,870 || 20,748 || 19 || 7.58% || +15.12% || 
+|-
+| 2007 || 298,393 || 22,036 || 119 || 7.38% || +8.95% || Number of F-1 visas issued reaches an all-time high, completing the recovery from the post-September 11 dip.
+|-
+| 2008 || 340,711 || 23,193 || 519 || 6.81% || +14.18% || 
+|-
+| 2009 || 331,208 || 21,817 || 773 || 6.58% || -2.78% || In the wake of the [[Great Recession]], growth in use of student visas temporarily flatlines.
+|-
+| 2010 || 385,210 || 25,220 || 887 || 6.55% || +16.30% ||  Robust year-over-year growth in usage of the F-1 resumes, even as the ratio of F-2 to F-1 continues to fall.
+|-
+| 2011 || 447,410 || 27,703 || 959 || 6.19% || +16.14% ||
+|-
+| 2012 || 486,900 || 27,561 || 792 || 5.66% || +8.82% || After steady growth, use of the F-3 starts declining.
+|-
+| 2013 || 534,320 || 29,139 || 678 || 5.45% || +11.58% || 
+|-
+| 2014 || 595,569 || 31,732 || 403 || 5.33% || +9.77% ||
+|}
+
+=== F-1 visas by country for major countries ===
+
+The data below is from the [[U.S. Department of State]] visa statistics.<ref name=visa-approvals/> 
+
+When interpreting the table below, note that a country where visas are issued for shorter durations and single entry will see more visa applications for the same total number of students in the United States. In particular, one of the main factors inflating the number of student visas issued to students from China was that the visa issued was a single-entry visa valid for one year, so a student visiting family every year had to renew the visa. The United States and China switched to a 5-year validity multiple-entry visa in November 2014 and the corresponding reduction in the number of F-1 visas issued should therefore be seen in the statistics starting Fiscal Year 2015.<ref name=lawandborder>{{cite web|url = http://lawandborder.com/u-s-china-reach-agreement-longer-business-tourist-student-visa-validity/|title = U.S., China Agree on Longer Visa Validity|last = Chodorow|first = Gary|accessdate = April 8, 2016}}</ref><ref name=us-china>{{cite web|url = http://www.state.gov/r/pa/prs/ps/2014/11/233904.htm|title = The United States and China To Extend Visas for Short-term Business Travelers, Tourists, and Students|accessdate = April 8, 2016}}</ref>
+
+{| class="sortable" border="1"
+! Year !! Total number of F-1 visas issued !! Mainland [[China]] !! [[India]] !! [[South Korea]] !! [[Japan]] !! [[Taiwan]] !! [[Brazil]]
+|-
+| 1997 || 266,483 || 11,909 || 10,532 || 36,188 || 35,157  ||  14,794 || 12,293 
+|-
+| 1998 || 251,565 || 13,958 || 12,154 || 21,271 || 34,063  || 13,867 || 14,812
+|-
+| 1999 || 262,542 || 16,303 || 15,286 || 20,883 || 33,762  || 14,709 || 13,985
+|-
+| 2000 || 284,053 || 21,586 || 20,469 || 27,520 || 32,661  || 16,084 || 12,452
+|-
+| 2001 || 293,357 || 25,218 || 24,106 || 28,977 || 32,237  || 24,106 || 12,524
+|-
+| 2002 || 234,322 || 21,784 || 20,771 || 26,670 || 25,036  || 13,952 || 8,335
+|-
+| 2003 || 215,695 || 16,169 || 19,152 || 28,695 || 24,825  || 11,490 || 7,066
+|-
+| 2004 || 218,898 || 18,089 || 18,309 || 29,673 || 24,562  || 14,224 || 6,683
+|-
+| 2005 || 237,890 || 21,642 || 20,173 || 35,310 || 24,554  || 15,488 || 5,845
+|-
+| 2006 || 273,870 || 28,444 || 26,342 || 42,681 || 23,417  || 16,727 || 5,926
+|-
+| 2007 || 298,393 || 39,535 || 34,471 || 45,915 || 21,900  || 14,973 || 7,418
+|-
+| 2008 || 340,711 || 56,258 || 36,149 || 50,078 || 19,876  || 14,640 || 10,556
+|-
+| 2009 || 331,208 || 81,842 || 26,890 || 39,040 || 16,423  || 10,978 || 9,160 
+|-
+| 2010 || 385,210 || 113,772 || 25,783 || 44,328 || 15,014  || 10,785 || 10,532
+|-
+| 2011 || 447,410 || 153,026 || 25,649 || 45,638 || 16,811  || 11,200 || 14,408
+|-
+| 2012 || 486,900 || 189,402 || 23,446 || 39,159 || 18,669  || 10,621 || 15,506
+|-
+| 2013 || 534,320 || 217,593 || 36,141 || 33,584 || 18,837  || 9,921 || 14,890
+|-
+| 2014 || 595,569 || 244,927 || 56,653 || 29,324 || 18,258  || 9,731 || 14,371
+|}

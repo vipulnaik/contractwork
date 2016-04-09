@@ -70,3 +70,7 @@ There are a few key reasons why employers might use the B-1 in lieu of H-1B:
 
 * Available only at some consulates
 * More awkward at ports of entry. Since this category is used so rarely, CBP officer at the port of entry may not understand all the nuances.
+
+== References ==
+
+{{reflist}}
