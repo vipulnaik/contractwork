@@ -87,3 +87,96 @@ When interpreting the table below, note that a country where visas are issued fo
 |-
 | 2014 || 595,569 || 244,927 || 56,653 || 29,324 || 18,258  || 9,731 || 14,371
 |}
+
+New table:
+
+{| class="sortable" border="1"
+! Year !! Total number of F-1 visas issued !! Mainland [[China]] !! [[India]] !! [[Saudi Arabia]] !! [[South Korea]] !! [[Japan]] !! [[Brazil]] !! [[Taiwan]] 
+|-
+| 1997 || 266,483 || 11,909 || 10,532 || 3,529 || 36,188 || 35,157  || 12,293  ||  14,794 
+|-
+| 1998 || 251,565 || 13,958 || 12,154 || 3,796 || 21,271 || 34,063  || 14,812 || 13,867 
+|-
+| 1999 || 262,542 || 16,303 || 15,286 || 3,893 || 20,883 || 33,762  || 13,985 || 14,709 
+|-
+| 2000 || 284,053 || 21,586 || 20,469 || 4,038 || 27,520 || 32,661  || 12,452 || 16,084 
+|-
+| 2001 || 293,357 || 25,218 || 24,106 || 4,359 || 28,977 || 32,237  || 12,524 || 24,106 
+|-
+| 2002 || 234,322 || 21,784 || 20,771 || 1,515 || 26,670 || 25,036  || 8,335 || 13,952 
+|-
+| 2003 || 215,695 || 16,169 || 19,152 || 1,158 || 28,695 || 24,825  || 7,066 || 11,490 
+|-
+| 2004 || 218,898 || 18,089 || 18,309 || 1,008 || 29,673 || 24,562  || 6,683 || 14,224 
+|-
+| 2005 || 237,890 || 21,642 || 20,173 || 2,166 || 35,310 || 24,554  || 5,845 || 15,488 
+|-
+| 2006 || 273,870 || 28,444 || 26,342 || 9,240 || 42,681 || 23,417  || 5,926 || 16,727 
+|-
+| 2007 || 298,393 || 39,535 || 34,471 || 5,776 || 45,915 || 21,900  || 7,418 || 14,973 
+|-
+| 2008 || 340,711 || 56,258 || 36,149 || 8,038 || 50,078 || 19,876  || 10,556 || 14,640 
+|-
+| 2009 || 331,208 || 81,842 || 26,890 || 11,193 || 39,040 || 16,423  || 9,160  || 10,978 
+|-
+| 2010 || 385,210 || 113,772 || 25,783 || 21,101 || 44,328 || 15,014  || 10,532 || 10,785 
+|-
+| 2011 || 447,410 || 153,026 || 25,649 || 27,738 || 45,638 || 16,811  || 14,408 || 11,200 
+|-
+| 2012 || 486,900 || 189,402 || 23,446 || 27,932 || 39,159 || 18,669  || 15,506 || 10,621 
+|-
+| 2013 || 534,320 || 217,593 || 36,141 || 28,597 || 33,584 || 18,837  || 14,890 || 9,921 
+|-
+| 2014 || 595,569 || 244,927 || 56,653 || 32,006 || 29,324 || 18,258  || 14,371 || 9,731 
+|-
+! Total || 5,958,396 || 1,291,457 || 452,476 || 197,083 || 624,934 || 436,062 || 196,762 || 237,090
+|}
+
+=== IIE data on number of international students ===
+
+The [[Institute of International Education]] maintains data on the number of international students as part of its ''Open Doors'' project, supported from a grant by the Bureau of Educational and Cultural Affairs in the [[U.S. Department of State]].<ref name=open-doors>{{cite web|url = http://iie.org/Research-and-Publications/Open-Doors|title = Open Doors|publisher = [[Institute of International Education]]|date = April 9, 2016}}</ref> Note that this data differs from the data on F visas issued in the following respects:
+
+* It gives the total number of students enrolled in studies, not the number of visas issued in a given year. For instance, a student who is in the United States in the third year of a four-year program, and only got a visa when initially admitted, will be counted here but ''not'' in the number of F-1 visas issued. This is the [[stock versus flow]] distinction.
+* It includes students in statuses other than the F status. In particular, it includes students on te [[J-1 visa]] and the [[H-4 visa]].
+* The data is by academic year of enrollment rather than fiscal year of visa issuance. A visa to study in the academic year of 2013-14 would generally be issued in Fiscal Year 2013.
+
+Note in particular the following differences with the previous table:
+
+* Mainland [[China]] continues to be the biggest single source of international students, but the gap is no longer as large as it used to be.
+* [[Canada]] figures prominently in this list, even though it is negligible in terms of F visas.
+
+{| class="sortable" border="1"
+! Academic year !! Total number of international students !! Mainland [[China]] !! [[India]] !! [[South Korea]] !! [[Saudi Arabia]] !! [[Canada]] !! [[Brazil]] !! [[Taiwan]] !! [[Japan]]
+|-
+| 1999-2000 || 514,723 || 54,466 || 42,337 || 41,191 || (not in top 15) || 23,544 || 8,600 || 29,234 || 46,872
+|-
+| 2000-2001 || 547,867 || 59,939 || 54,664 || 45,685 || (not in top 15) || 25,279 || 8,846 || 28,566 || 46,497
+|-
+| 2001-2002 || 582,996 || 63,211 || 68,836 || 49,046 || (not in top 15) || 26,514 || 8,972 || 28,930 || 46,810 
+|-
+| 2002-2003 || 586,323 || 64,757 || 74,603 || 51,519 || (not in top 15) || 26,513 || 8,388 || 28,017 || 45,960
+|-
+| 2003-2004 || 572,509 || 61,765 || 79,736 || 52,484 || (not in top 15) || 27,017 || 7,799 || 26,178 || 40,835
+|-
+| 2004-2005 || 565,039 || 62,523 || 80,466 || 53,358 || (not in top 15) || 28,140 || 7,244 || 25,914 || 42,215 
+|-
+| 2005-2006 || 564,766 || 62,582 || 76,503 || 59,022 || 3,448 || 28,202 || 7,009 || 27,876 || 38,712
+|-
+| 2006-2007 || 582,984 || 67,723 || 83,833 ||  62,392 || 7,886 || 28,280 || 7,126 || 29,094 || 35,282
+|-
+| 2007-2008 || 623,805 || 81,127 || 94,563 || 69,124 || 9,873 || 29,051 || 7,578 || 29,001 || 33,974
+|-
+| 2008-2009 || 671,616 || 98,235 || 103,260 || 75,065 || 12,661 || 29,697 || 8,767 || 28,065 || 29,697
+|-
+| 2009-2010 || 690,923 || 127,822 || 157,588 || 72,153 || 15,810 || 28,145 || 8,786 || 26,685 || 24,842 
+|-
+| 2010-2011 || 723,277 || 104,897 || 103,895 || 73,351 || 22,704 || 27,546 || 8,777 || 24,818 || 21,290 
+|-
+| 2011-2012 || 764,495 || 194,029 || 100,270 || 72,295 || 34,139 || 26,821 || 9,029 || 23,250 || 19,966
+|-
+| 2012-2013 || 819,644 || 235,597 || 96,754 || 70,627 || 44,566 || 27,357 || 10,868 || 21,867 || 19,568
+|-
+| 2013-2014 || 886,052 || 274,439 || 102,673 || 68,047 || 53,919 || 28,304 || 13,286 || 21,266 || 19,334
+|-
+| 2014-2015 || 974,926 || 304,040 || 132,888 || 63,710 || 59,945 || 27,240 || 23,675 || 20,993 || 19,064
+|}

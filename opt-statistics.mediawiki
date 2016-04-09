@@ -1,8 +1,8 @@
 == Statistics ==
 
-Statistics below are for the United States fiscal year, that runs October to September. For instance, Fiscal Year 2008 starts on October 1, 2007 to September 30, 2008. Data is from a [[Government Accountability Office]] report.<ref name=gao-report>{{cite web|url = http://www.gao.gov/assets/670/661192.pdf|title = Student and Exchange Visitor Program. DHS Needs to Assess Risks and Strengthen Oversight of Foreign Students with Employment Authorization|date = February 1, 2014|accessdate = April 8, 2016}}</ref>
-
 === Number of receipts, approvals, denials, and revocations by Fiscal Year ===
+
+Statistics below are for the United States fiscal year, that runs October to September. For instance, Fiscal Year 2008 starts on October 1, 2007 to September 30, 2008. Data is from a [[Government Accountability Office]] report.<ref name=gao-report>{{cite web|url = http://www.gao.gov/assets/670/661192.pdf|title = Student and Exchange Visitor Program. DHS Needs to Assess Risks and Strengthen Oversight of Foreign Students with Employment Authorization|date = February 1, 2014|accessdate = April 8, 2016}}</ref>
 
 Note that the counts here are of receipts, approvals, denials or revocations that happened in the Fiscal Year, regardless of when other activities surrounding that application occurred. For instance, if an application was approved in Fiscal Year 2009 and revoked in Fiscal Year 2010, the revocation would be counted in 2010 rather than 2009. Thus, the number of receipts for a given year need not equal the sum of the number of approvals and denials for that year.<ref name=gao/>
 
@@ -22,4 +22,34 @@ Note that the counts here are of receipts, approvals, denials or revocations tha
 | 2013 || 128,591 || 123,328 || 3,400 || 77
 |-
 ! Total || 581,869 || 560,297 || 12,643 || 344
+|}
+
+=== IIE data on number of Optional Practical Training students (total and by country) ===
+
+The [[Institute of International Education]] maintains data on the number of international students as part of its ''Open Doors'' project, supported from a grant by the Bureau of Educational and Cultural Affairs in the [[U.S. Department of State]].<ref name=open-doors>{{cite web|url = http://iie.org/Research-and-Publications/Open-Doors|title = Open Doors|publisher = [[Institute of International Education]]|accessdate = April 9, 2016}}</ref> The data is collected through surveys of over 3,000 accredited U.S. higher education institutions, and does not rely on any privileged access to government data; in particular institutions not included in the survey (such as high schools that issue student visas, and non-accredited institutions that are SEVP-certified) may be omitted from the statistics.<ref name=open-doors-faq>{{cite web|url = http://iie.org/Research-and-Publications/Open-Doors/FAQ|title = Open Doors FAQs|publisher = [[Institute of International Education]]|accessdate = April 9, 2016}}</ref> Since the 2006-2007 academic year, these surveys have included data on usage of the Optional Practical Training program.
+
+The data below summarizes both total OPT usage and the usage based on country of origin for the top countries of origin. More detailed data is available at the IIE website.<ref>{{cite web|url = http://iie.org/Research-and-Publications/Open-Doors/Data/International-Students/By-Academic-Level-and-Place-of-Origin|title = International Students: Academic Level and Place of Origin|publisher = [[Institute of International Educators]]|accessdate = April 9, 2016}}</ref>
+
+Since the Optional Practical Training program duration is about a year, the number of approvals in a given year should roughly match the number of students on Optional Practical Training. However, because of various mismatches such as that between the fiscal and academic year, and between the date of approval and the start date, and the fact that the ''Open Doors'' survey does not cover all SEVP-certified institutions, the numbers may not exactly match those from the GAO table.
+
+{| class="sortable" border="1"
+! Year !! Total use of OPT !! Mainland [[China]] !! [[India]] !! [[South Korea]] !! [[Canada]] !! [[Taiwan]] !! [[Japan]]
+|-
+| 2006-07 || 48,387 || 7,171 || 10,703 || 4,497 || 1,653 || 2,993 || 2,350 
+|-
+| 2007-08 || 56,766 || 7,718 || 10,846 || 4,965 || 1,869 || 3,178 || 2,459 
+|-
+| 2008-09 || 66,601 || 8,212 || 14,886 || 5,134 || 1,778 || 3,444 || 2,237
+|-
+| 2009-10 || 67,804 || 11,003 || 19,657 || 5,862 || 1,969 || 3,569 || 2,068
+|-
+| 2010-11 || 76,031 || 13,268 || 24,665 || 6,026 || 2,204 || 3,737 || 1,820
+|-
+| 2011-12 || 85,157 || 18,394 || 26,742 || 5,807 || 2,140 || 3,377 || 1,593
+|-
+| 2012-13 || 94,919 || 23,968 || 27,831 || 6,268 || 2,333 || 3,417 || 1,630 
+|-
+| 2013-14 || 105,997 || 33,401 || 27,696 || 6,639 || 2,568 || 3,540 || 1,458
+|-
+| 2014-15 || 120,287 || 43,114 || 29,388 || 6,635 || 2,683 || 3,622 || 1,285
 |}
