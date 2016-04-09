@@ -1,0 +1,16 @@
+== Statistics ==
+
+=== Visa approvals by fiscal year and country ===
+
+Note that the count below is of the number of visas issued by a United States consular officer. The years here are Fiscal Years, so for instance the year 2004 refers to the period from October 1, 2003 to September 30, 2004. These should approximately match but may not exactly match with the number of [[Form I-129]] approvals of H-2A status by the [[United States Citizenship and Immigration Services]], or the actual number of workers who arrive in the United States in H-2A status.<ref name=visa-approvals>{{cite web|url=https://travel.state.gov/content/dam/visas/Statistics/Non-Immigrant-Statistics/NIVDetailTables/FYs97-14_NIVDetailTable.xls|title = Non-immigrant visa statistics|publisher = [[United States Department of State]]|accessdate = April 8, 2016}}</ref> The countries included in the chart below are selected as the top users in Fiscal Year 2014.
+
+{| class="sortable" border="1"
+! Fiscal Year !! Total number of H-2A visas !! [[Mexico]] !! [[South Africa]] !! [[Guatemala]] !! [[Peru]] !! [[Honduras]] !! [[Nicaragua]] !! [[Romania]]
+|-
+| 2011 || 
+| 2012 || 65,345 || 61,324 || 1,122 || 702 || 993 || 260 || 702 || 185
+|-
+| 2013 || 74,192 || 69,787 || 1,298 || 982 || 361 || 173 || 276 || 164
+|-
+| 2014 || 89,274 || 83,674 || 1,591 || 1,453 || 790 || 525 || 318 || 195
+|}
