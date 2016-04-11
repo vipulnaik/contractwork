@@ -31,3 +31,13 @@ A student may engage in contract work so long as it fits the definition of on-ca
 * The student is a nonresident for tax purposes: In this case, the payer is required to withhold federal taxes and issue a Form 1042-S, and the student should add the income in Line 8 of Form 1040.
 * The student is a resident for tax purposes: In this case, if the payer is a business, and the amount paid exceeds the $600 threshold, the payer must file [[Form 1099-MISC]].
 
+=== Filing Form 8843 ===
+
+Any student who is ''not'' filing an income tax return (for instance, because his or her income is below the minimum threshold) must file a standalone Form 8843 by June 15 if the following conditions are satisfied:
+
+* The student is a nonresident of the United States for tax purposes.
+* Without the exemption from the Substantial Presence Test for the first five calendar years in F status, the student ''would'' be a resident of the United States for tax purposes.
+
+In general, it is recommended that students who are not filing tax returns always file Form 8843, to create a clear paper trail of tax return.
+
+Note that if the student meets the above two criteria and is filing a tax return, then Form 8843 is part of the tax return, and is not filed standalone.

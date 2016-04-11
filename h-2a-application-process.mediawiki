@@ -1,12 +1,14 @@
 == Application process ==
 
+The process in order for a worker to be able to start in H-2A status involves a job order from a State Workforce Agency, a Temporary Labor Certification from the U.S. Department of Labor Employment & Training Administration's Office of Foreign Labor Certification, a Form I-129 approval from the U.S. Citizenship and Immigration Services (a branch of the [[U.S. Department of Homeland Security]]), a visa from a consular officer representing the [[U.S. Department of State]], and a [[Form I-94]] issued by [[U.S. Customs and Border Protection]] at a port of entry.<ref name=h-2a-certification/><ref name=uscis-h-2a-overview>{{cite web|url = https://www.uscis.gov/working-united-states/temporary-workers/h-2a-temporary-agricultural-workers|title = H-2A Temporary Agricultural Workers|publisher = [[United States Citizenship and Immigration Services]]|accessdate = April 10, 2016}}</ref><ref name=congressional-report>{{cite web|url = https://www.uscis.gov/sites/default/files/USCIS/Resources/Resources%20for%20Congress/Congressional%20Reports/H-2A%20and%20H-2B%20Nonimmigrant%20Worker%20Classifications.pdf|title = H-2A and H-2B Nonimmigration Worker Classifications (presentation)|publisher = 2010 National Congressional Conference|accessdate = April 11, 2016}}</ref>
+
 === Job order (ETA Form 790) ===
 
-A job offer (ETA Form 790) must be filed with the State Workforce Agency (SWA) in the area of intended employment between 60 and 75 days before the date of need for workers.<ref name=h-2a-certification/>
+A job offer (ETA Form 790) must be filed with the State Workforce Agency (SWA) in the area of intended employment between 60 and 75 days before the date of need for workers.<ref name=h-2a-certification/> Each State Workforce Agency has a mailing address and some have websites, contact email addresses, and phone number. The State Workforce Agency is also responsible for handling job orders for the [[H-2B visa]], but the specific contact person or mailing address may differ.<ref name=addresses>{{cite web|url = https://www.foreignlaborcert.doleta.gov/contacts.cfm|title = Foreign Labor Certification Contacts List|accessdate = April 11, 2016|publisher = [[U.S. Department of Labor]] [[Employment & Training Administration]] Office of Foreign Labor Certification}}</ref> The job orders are publicly listed by the State Workforce Agency (including on their website). Additionally, the employer must advertise for the position in local newspapers. Any United States citizen who applies for the job must be given one.<ref>{{cite web|url=http://www.cgdev.org/blog/do-farm-workers-developing-countries-take-jobs-americans|title = Do Farm Workers from Developing Countries Take Jobs from Americans?|last = Clemens|first = Michael|authorlink = Michael Clemens|date = February 28, 2012|accessdate = April 11, 2016}}</ref>
 
-=== H-2A temporary labor certification ===
+=== H-2A Temporary Labor Certification from the U.S. Department of Labor ===
 
-The first stage of the application is that of obtaining temporary labor certification from the [[United States Department of Labor]] [[Employment & Training Administration]]'s Office of Foreign Labor Certification.<ref name=h-2a-certification>{{cite web|url = https://www.foreignlaborcert.doleta.gov/h-2a.cfm|title = H-2A Certification|publisher = [[U.S. Department of Labor]] [[Employment & Training Administration]] Office of Foreign Labor Certification}}</ref> Note that this labor certification should not be confused with [[labor certification|PERM labor certification]] for employment-based permanent immigration, or with the [[Labor Condition Application]] for H-1B and similar statuses. It is also separate from a similar process for H-2B temporary labor certification.
+The employer needs to obtain a Temporary Labor Certification (TLC) from the [[United States Department of Labor]] [[Employment & Training Administration]]'s Office of Foreign Labor Certification.<ref name=h-2a-certification>{{cite web|url = https://www.foreignlaborcert.doleta.gov/h-2a.cfm|title = H-2A Certification|publisher = [[U.S. Department of Labor]] [[Employment & Training Administration]] Office of Foreign Labor Certification}}</ref> Note that this labor certification should not be confused with [[labor certification|PERM labor certification]] for employment-based permanent immigration, or with the [[Labor Condition Application]] for H-1B and similar statuses. It is also separate from a similar process for H-2B temporary labor certification.
 
 The application package must include ETA Form 9142A and an accepted Job Order (ETA Form 790) from the State Workforce Agency. It must be filed with the Chicago National Processing Center ''or'' online through the iCert portal, no less than 45 days prior to the employer's date of need.<ref name=h-2a-certification/>
 
@@ -14,3 +16,33 @@ In order to approve the certification, the Department must verify that:
 
 # there are not sufficient able, willing, and qualified U.S. workers available to perform the temporary and seasonal agricultural employment for which nonimmigrant foreign workers are being requested; and
 # employment of H-2A workers will not adversely affect the wages and working conditions of similarly employed U.S. workers. The statute and Departmental regulations provide numerous worker protections and employer requirements with respect to wages and working conditions. The Department's Wage and Hour Division (WHD) has responsibility for enforcing provisions of worker contracts.
+
+=== Form I-129 petition submitted to U.S. Citizenship and Immigration Services ===
+
+{{see also|Form I-129}}
+
+- Single Form I-129 can be used for multiple people. However, single validity period issued for all. So use separate forms in case of separate calculations or separate desired validity periods.
+
+- $325 fee per form. Applications automatically expedited, no need to pay Premium Processing Service fee.
+
+- Form I-129 has a 6-month rule (can't apply more than 6 months in advance) BUT in this case, because the job order must be placed between 60 and 75 days prior, it effectively means the form can't be filed more than 75 days in advance.
+
+=== Visa application ===
+
+...
+
+=== Entry ===
+
+Form I-94
+== Validity ==
+
+=== Basic rules ===
+
+* The H-2A status can be approved for at most one year from the job start date.
+* The status can be extended for increments that are at most one year long.
+* After three years in H-2A status a worker must leave the United States for at least three months to be able to re-enter in H-2 status. Note also that time spent in H-1 or H-2B status also counts toward the limit.
+
+=== Calculation of interrupted stay ===
+
+...
+

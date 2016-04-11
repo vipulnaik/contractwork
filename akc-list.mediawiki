@@ -35,12 +35,13 @@ year.
 * Start by March 14, finish by March 20: Data Collective
 * Start by March 21, finish by March 27: Matthew Emerton
 * Start by April 1, finish by April 3: Uri Simonsohn
+* Start by April 8, finish by April 10: Thomas C. Leonard
 
 (more weeks, months to be added).
 
 == Completed pages ==
 
-Total so far: $970
+Total so far: $995
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -55,7 +56,7 @@ Total so far: $970
 * Data Collective: $50
 * Matthew Emerton: $15
 * Uri Simonsohn (awaiting the addition of one reference): $25
-
+* Thomas C. Leonard: $25
 == Timeline pages ==
 
 In general, for timeline pages, we expect about 1-5% of the pageviews
@@ -95,10 +96,6 @@ bounty it's important we stay on the same page here.
 === Firms ===
 
 * Menlo Ventures. Proposed bounty: $50
-
-== Other random people ==
-
-* Thomas C. Leonard: He's at Princeton and has written some interesting books and articles. Also referenced on EconLog and in various libertarian blogs/publications. $25
 
 == Other concepts ==
 
