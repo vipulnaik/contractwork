@@ -1,0 +1,33 @@
+F-1 status holders may earn income through on-campus employment, scholarships, as well as Optional Practical Training and Curricular Practical Training. Generally speaking, they need to file tax returns reporting all such income and pay taxes on it. Some more details are discussed below.
+
+Note that F-2 status holders cannot legally work in the United States, and therefore do not have any income tax obligations. 
+
+=== Determination of whether the student is a resident or a nonresident for tax purposes ===
+
+{{main article|Substantial Presence Test}}
+
+By the Substantial Presence Test, a person who is in the United States for at least 31 days in the current year and for a weighted total of at least 183 days in the past three calendar years (using a weighting formula) is a resident for tax purposes. However, one can exclude up to five calendar years in F status from this calculation. In particular, people who are arriving in the United States for the first time in F status can file as nonresidents for tax purposes for the first five years. However, those who have been in the United States recently in other statuses may need to file as residents for tax purposes due to their past presence.
+
+Those who are classified as residents for tax purposes need to file Form 1040, 1040A or 1040EZ. Those who are classified as nonresidents for tax purposes need to file Form 1040NR or 1040NR-EZ.
+
+=== Wages ===
+
+Income earned through on-campus part-time or full-time employment is generally classified as wages. In order to be able to earn wages, the student needs to obtain a [[Social Security Number]] and fill [[I-9 (form)|Form I-9]] and [[Form W-4]] for the employer, just like United States workers. The employer issues a [[Form W-2]] at the end of the year documenting the total income and withheld federal and state taxes, and the total amount across all employers is filled in by the student on Line 8 of the Form 1040 (if a resident for tax purposes) or 1040NR (if not).
+
+Nonresidents for tax purposes do not pay Social Security or Medicare taxes. If the student is a resident for tax purposes, Social Security and Medicare taxes need not be paid for on-campus employment, but ''do'' need to be paid in the case of Optional or Curricular Practical Training. If the taxes need to be paid, the responsibility of remitting the tax to the government falls on the employer.
+
+=== Scholarships ===
+
+Tuition waivers that do not involve the student actually receiving money are not taxable and not reported as taxable. However, scholarships that involve the transfer of money to the student do need to be reported and taxed.
+
+If the student is a nonresident for tax purposes, the scholarships are reported using [[Form 1042|Form 1042-S]] and tax is withheld at 14% if the student as a SSN or [[Individual Taxpayer Identification Number]], and at 30% otherwise. The student must report the tax on Line 12 of the Form 1040NR and use it in calculating his or her tax liability. Many states do not require state tax withholding on scholarship income.
+
+If the student is a resident for tax purposes, there is no federal or state tax withholding, and no form need be issued to the student. However, the student is still obliged to report the income in Line 8 of the Form 1040.
+
+=== Contract work ===
+
+A student may engage in contract work so long as it fits the definition of on-campus employment (while the student is enrolled) or Optional or Curricular Practical Training. There are two cases:
+
+* The student is a nonresident for tax purposes: In this case, the payer is required to withhold federal taxes and issue a Form 1042-S, and the student should add the income in Line 8 of Form 1040.
+* The student is a resident for tax purposes: In this case, if the payer is a business, and the amount paid exceeds the $600 threshold, the payer must file [[Form 1099-MISC]].
+

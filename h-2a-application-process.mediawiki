@@ -1,0 +1,16 @@
+== Application process ==
+
+=== Job order (ETA Form 790) ===
+
+A job offer (ETA Form 790) must be filed with the State Workforce Agency (SWA) in the area of intended employment between 60 and 75 days before the date of need for workers.<ref name=h-2a-certification/>
+
+=== H-2A temporary labor certification ===
+
+The first stage of the application is that of obtaining temporary labor certification from the [[United States Department of Labor]] [[Employment & Training Administration]]'s Office of Foreign Labor Certification.<ref name=h-2a-certification>{{cite web|url = https://www.foreignlaborcert.doleta.gov/h-2a.cfm|title = H-2A Certification|publisher = [[U.S. Department of Labor]] [[Employment & Training Administration]] Office of Foreign Labor Certification}}</ref> Note that this labor certification should not be confused with [[labor certification|PERM labor certification]] for employment-based permanent immigration, or with the [[Labor Condition Application]] for H-1B and similar statuses. It is also separate from a similar process for H-2B temporary labor certification.
+
+The application package must include ETA Form 9142A and an accepted Job Order (ETA Form 790) from the State Workforce Agency. It must be filed with the Chicago National Processing Center ''or'' online through the iCert portal, no less than 45 days prior to the employer's date of need.<ref name=h-2a-certification/>
+
+In order to approve the certification, the Department must verify that:
+
+# there are not sufficient able, willing, and qualified U.S. workers available to perform the temporary and seasonal agricultural employment for which nonimmigrant foreign workers are being requested; and
+# employment of H-2A workers will not adversely affect the wages and working conditions of similarly employed U.S. workers. The statute and Departmental regulations provide numerous worker protections and employer requirements with respect to wages and working conditions. The Department's Wage and Hour Division (WHD) has responsibility for enforcing provisions of worker contracts.
