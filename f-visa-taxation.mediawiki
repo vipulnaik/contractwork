@@ -1,43 +1,46 @@
-F-1 status holders may earn income through on-campus employment, scholarships, as well as Optional Practical Training and Curricular Practical Training. Generally speaking, they need to file tax returns reporting all such income and pay taxes on it. Some more details are discussed below.
+F-1 status holders may earn income through on-campus employment, scholarships, as well as Optional Practical Training and Curricular Practical Training. Generally speaking, they need to file tax returns reporting all such income and pay taxes on it.<ref name=uchicago-f-visa-taxation>{{cite web|url = https://internationalaffairs.uchicago.edu/page/tax-responsibilities-international-students-and-scholars|title = Tax Responsibilities for International Students and Scholars|accessdate = April 11, 2016|publisher = [[University of Chicago]]}}</ref>
 
-Note that F-2 status holders cannot legally work in the United States, and therefore do not have any income tax obligations. 
+Note that F-2 status holders cannot legally work in the United States, and therefore do not have any income tax obligations. However, they still need to file Form 8843, as discussed below.
 
 === Determination of whether the student is a resident or a nonresident for tax purposes ===
 
 {{main article|Substantial Presence Test}}
 
-By the Substantial Presence Test, a person who is in the United States for at least 31 days in the current year and for a weighted total of at least 183 days in the past three calendar years (using a weighting formula) is a resident for tax purposes. However, one can exclude up to five calendar years in F status from this calculation. In particular, people who are arriving in the United States for the first time in F status can file as nonresidents for tax purposes for the first five years. However, those who have been in the United States recently in other statuses may need to file as residents for tax purposes due to their past presence.
+There are two tests to determine permanent residency: the [[Green Card Test]] and the Substantial Presence Test. Almost everybody in student status is likely to fail the Green Card Test since it applies only to people who have held a green card in the tax year. The relevant test for students is therefore the Substantial Presence Test.
+
+By the Substantial Presence Test, a person who is in the United States for at least 31 days in the current year and for a weighted total of at least 183 days in the past three calendar years (using a weighting formula) is a resident for tax purposes. However, one can exclude up to five calendar years in F status from this calculation. In particular, people who are arriving in the United States for the first time in F status can file as nonresidents for tax purposes for the first five years. However, those who have been in the United States recently in other statuses may need to file as residents for tax purposes due to their past presence.<ref>{{cite web|url = https://internationalaffairs.uchicago.edu/page/determine-residency-tax-purposes|title = Determine Residency for Tax Purposes|publisher = [[University of Chicago]]|accessdate = April 11, 2016}}</ref><ref>{{cite web|url = http://payroll.intuit.com/support/kb/2000071.html|title =Exemption status of foreign employees with particular visa types|publisher = Intuit Quickbooks|accessdate = April 11, 2016}}</ref>
 
 Those who are classified as residents for tax purposes need to file Form 1040, 1040A or 1040EZ. Those who are classified as nonresidents for tax purposes need to file Form 1040NR or 1040NR-EZ.
 
 === Wages ===
 
-Income earned through on-campus part-time or full-time employment is generally classified as wages. In order to be able to earn wages, the student needs to obtain a [[Social Security Number]] and fill [[I-9 (form)|Form I-9]] and [[Form W-4]] for the employer, just like United States workers. The employer issues a [[Form W-2]] at the end of the year documenting the total income and withheld federal and state taxes, and the total amount across all employers is filled in by the student on Line 8 of the Form 1040 (if a resident for tax purposes) or 1040NR (if not).
+Income earned through on-campus part-time or full-time employment is generally classified as wages. In order to be able to earn wages, the student needs to obtain a [[Social Security Number]] and fill [[I-9 (form)|Form I-9]] and [[Form W-4]] for the employer, just like United States workers. The employer issues a [[Form W-2]] at the end of the year documenting the total income and withheld federal and state taxes. This total amount across all employers is filled in by the student on Line 7 of the Form 1040 (if a resident for tax purposes) or Line 8 of Form 1040NR (if not).
 
-Nonresidents for tax purposes do not pay Social Security or Medicare taxes. If the student is a resident for tax purposes, Social Security and Medicare taxes need not be paid for on-campus employment, but ''do'' need to be paid in the case of Optional or Curricular Practical Training. If the taxes need to be paid, the responsibility of remitting the tax to the government falls on the employer.
+Nonresidents in F status are not required to pay Social Security or Medicare taxes for employment that falls within their status, including both on-campus employment and employment through [[Curricular Practical Training]] and [[Optional Practical Training]].<ref name=irs-fica>{{cite web|url=http://www.irs.gov/Individuals/International-Taxpayers/Foreign-Student-Liability-for-Social-Security-and-Medicare-Taxes|title = Foreign Student Liability for Social Security and Medicare Taxes|publisher = [[Internal Revenue Service]]|accessdate = 2013-09-10}}</ref> 
+
+Residents for tax purposes are also exempt from Social Security and Medicare taxes for income earned where the employer is the educational institution, subject to a number of caveats.<ref name=student-fica-exemption>{{cite web|url = https://www.irs.gov/Charities-&-Non-Profits/Student-Exception-to-FICA-Tax|title = Student Exception to FICA Tax|accessdate = April 11, 2016|publisher = [[Internal Revenue Service]]}}</ref><ref>{{cite web|url=http://www.form1040nr.com/socialsecurity.php|title = Social Security & Withholding: Must You Pay Social Security and Medicare Tax?|publisher = Form1040NR.com|accessdate = 2013-09-10}}</ref> Residents ''do'' need to pay Social Security and Medicare taxes on both on-campus employment not by their university, as well as off-campus employment such as that undertaken as part of [[Curricular Practical Training]] and [[Optional Practical Training]].<ref name=student-fica-exemption/>
 
 === Scholarships ===
 
-Tuition waivers that do not involve the student actually receiving money are not taxable and not reported as taxable. However, scholarships that involve the transfer of money to the student do need to be reported and taxed.
+Tuition waivers that do not involve the student actually receiving money are not taxable and not reported as taxable. However, scholarships that involve the transfer of money to the student do need to be reported and taxed.<ref name=fellowship-taxes>{{Cite web|url = https://finserv.uchicago.edu/payroll/tax/scholarshiptax.shtml|title = Scholarship/Fellowship Taxes|accessdate = April 11, 2016}}</ref>
 
-If the student is a nonresident for tax purposes, the scholarships are reported using [[Form 1042|Form 1042-S]] and tax is withheld at 14% if the student as a SSN or [[Individual Taxpayer Identification Number]], and at 30% otherwise. The student must report the tax on Line 12 of the Form 1040NR and use it in calculating his or her tax liability. Many states do not require state tax withholding on scholarship income.
+If the student is a nonresident for tax purposes, the scholarships are reported using [[Form 1042|Form 1042-S]] and tax is withheld at 14% if the student as a SSN or [[Individual Taxpayer Identification Number]], and at 30% otherwise. The student must report the tax on Line 12 of the Form 1040NR and use it in calculating his or her tax liability. Many states do not require state tax withholding on scholarship income.<ref name=fellowship-taxes/>
 
-If the student is a resident for tax purposes, there is no federal or state tax withholding, and no form need be issued to the student. However, the student is still obliged to report the income in Line 8 of the Form 1040.
+If the student is a resident for tax purposes, there is no federal or state tax withholding, and no form need be issued to the student. However, the student is still obliged to report the income in Line 7 of the Form 1040.
 
 === Contract work ===
 
-A student may engage in contract work so long as it fits the definition of on-campus employment (while the student is enrolled) or Optional or Curricular Practical Training. There are two cases:
+A student may engage in contract work so long as it fits the definition of on-campus employment (while the student is enrolled) or Optional or Curricular Practical Training (during the time period of the training). There are two cases:
 
-* The student is a nonresident for tax purposes: In this case, the payer is required to withhold federal taxes and issue a Form 1042-S, and the student should add the income in Line 8 of Form 1040.
-* The student is a resident for tax purposes: In this case, if the payer is a business, and the amount paid exceeds the $600 threshold, the payer must file [[Form 1099-MISC]].
+* The student is a nonresident for tax purposes: In this case, the payer is required to withhold federal taxes (14% if the student has an ITIN/SSN, 30% otherwise) and issue a Form 1042-S. The student needs to file Schedule C and report the income on Line 13.
+* The student is a resident for tax purposes: In this case, if the payer is a business, and the amount paid exceeds the $600 threshold, the payer must file [[Form 1099-MISC]]. Regardless of whether the student receives a 1099-MISC, the student must file Schedules C and SE and report the income on Line 12 of Form 1040, as well as relevant amounts on Lines 27 and 57.
 
-=== Filing Form 8843 ===
+=== Filing Form 8843 and other miscellanea ===
 
-Any student who is ''not'' filing an income tax return (for instance, because his or her income is below the minimum threshold) must file a standalone Form 8843 by June 15 if the following conditions are satisfied:
+Resident aliens in F status are governed by the same tax filing rules as United States residents. In particular, they need to file taxes on their worldwide income and can take either the [[standard deduction]] or itemie their deductions.
 
-* The student is a nonresident of the United States for tax purposes.
-* Without the exemption from the Substantial Presence Test for the first five calendar years in F status, the student ''would'' be a resident of the United States for tax purposes.
+A nonresident alien in F-1 or F-2 status need not file an income tax return if his or her income is below the personal exemption, subject to various caveats.<ref>{{cite web|url = https://www.irs.gov/Individuals/International-Taxpayers/Taxation-of-Nonresident-Aliens|title = Taxation of Nonresident Aliens|accessdate = April 12, 2016|publisher = [[Internal Revenue Service]]}}</ref>
 
-In general, it is recommended that students who are not filing tax returns always file Form 8843, to create a clear paper trail of tax return.
+Any person in F-1 or F-2 status, who is a nonresident for tax purposes during a calendar year, and is ''not'' filing an income tax return, must file a standalone Form 8843 by June 15 of the next year.<ref name=f8843>{{cite web|url = https://iss.washington.edu/no-income|title = No Income? Tax Form 8843|publisher = University of Washington International Student Services|accessdate = April 12, 2016}}</ref> Note that since people in F-2 status cannot legally earn income in the United States, they would generally need to file the standalone Form 8843.
 
-Note that if the student meets the above two criteria and is filing a tax return, then Form 8843 is part of the tax return, and is not filed standalone.
+Some countries have tax treaties with the United States that allow for a reduction in the taxes that nonresidents in F status from these countries need to pay while in the United States.<ref>{{cite web|url = https://www.irs.gov/Individuals/International-Taxpayers/Claiming-Tax-Treaty-Benefits|title = Claiming Tax Treaty Benefits|accessdate = April 12, 2016|publisher = [[Internal Revenue Service]]}}</ref>
