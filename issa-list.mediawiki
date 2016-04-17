@@ -1,6 +1,8 @@
 == Completed pages ==
 
-Form 1040 though published on January 1, 2016 is counted in 2015.
+Form 1040, though published on January 1, 2016 is counted in 2015.
+
+Total so far: $933
 
 * Green Card Test: $25
 * Triplebyte (didn't publish to main, but got ready in user space): $25
@@ -12,15 +14,24 @@ Form 1040 though published on January 1, 2016 is counted in 2015.
 * Form 990: $100
 * Form I-140. Pay: $150, plus $18 for other miscellaneous improvements
 * Open Philanthropy Project. Conditional to it containing substantive content and not getting quickly deleted. Pay: $100, payment pending and conditional to the page surviving till April 21, 2016.
-
+* Timeline of global health: $170 + $20 completion bonus [an additional $30 would come from additional details]
 
 === Non-page payments ===
 
+Total so far: $111
+
 * stats.grok.se -> Wikimedia API fix: $80
+
+* Other misc pay for consulting etc.: $25
+
+* Adding years to DCP page: $6
+
 
 == Global public health and related investigation ==
 
 === New pages ===
+
+* Timeline of deworming: Pay not yet determined, though probably at least $50
 
 * Child survival revolution: $25
 
