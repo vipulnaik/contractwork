@@ -36,12 +36,14 @@ year.
 * Start by March 21, finish by March 27: Matthew Emerton
 * Start by April 1, finish by April 3: Uri Simonsohn
 * Start by April 8, finish by April 10: Thomas C. Leonard
+* Finish by April 17: Timeline of Instagram
+* Start by April 22, finish by April 24: Timeline of LinkedIn
 
 (more weeks, months to be added).
 
 == Completed pages ==
 
-Total so far: $995
+Total so far: $1095
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -57,14 +59,14 @@ Total so far: $995
 * Matthew Emerton: $15
 * Uri Simonsohn (awaiting the addition of one reference): $25
 * Thomas C. Leonard: $25
+* Timeline of Instagram: $100
+
 == Timeline pages ==
 
 In general, for timeline pages, we expect about 1-5% of the pageviews
 that we see for the corresponding page whose timeline page it is.
 
 === Technology ===
-
-* Timeline of Instagram: The Instagram page gets 150K views a month, so we should expect 1.5-7.5K pageviews per month. Proposed bounty amount: $100
 
 * Timeline of LinkedIn: The LinkedIn page gets 70K views a month, so we should expect 700-3500 pageviews per month. Proposed bounty amount: $75
 
