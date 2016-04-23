@@ -1,6 +1,27 @@
-Pages to create:
+== Investigate agricultural guest worker programs ==
+
+=== Overall goal ===
+
+I am working to add various statistics to the H-2A Visa page, and expect to be done by end-of-day April 23. I've already added a few. Your goal is to start off with the data in the existing H-2A Visa page, plus other sources, to get a clearer idea of WHY the H-2A visa program has not displaced illegal immigration as a source for agricultural workers, and what this says about how liberal a legal migration regime needs to be in order to displace illegal migration.
+
+=== Potential Wikipedia pages ===
+
+New pages:
+
+* W visa: A new visa category part of one of the new immigration reform proposals in the United States. Pay: $50 if you create a decent page that survives deletion for at least 30 days.
 
 * Protect the People: Recipient of the new Open Phil Haiti migration grant. Pay: $35 if you create a decent page that survives deletion for at least 30 days.
+
+Improvements to existing pages:
+
+* H-2A visa: Keep adding more to it as you discover more information, particularly for the history section.
+
+== Investigate Niskanen Center-style advocacy ==
+
+Figure out what advocacy the Niskanen Center is engaging in, and then evaluate it both philosophically and in terms of its prospects for success. Focus on their immigration policy but feel free to put it in the broader context of their overall approach.
+
+
+== Other random stuffs ==
 
 * Detroit Threat Management Center: A private security force that is booming in Detroit and allegedly offers better police protection than the government. Might need some research to separate fact from marketing propaganda, but potentially promising. Pay: $50 if you create a decent high-quality page and it survives deletion for at least 30 days.
  
