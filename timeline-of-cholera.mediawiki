@@ -1,0 +1,73 @@
+'''[[Cholera]]''' is an infectious disease caused by the bacterium Vibrio cholerae. It infects the small intestine. Cholera is still active throughout the world. Estimates from 2010 say that between three- and five million people get cholera every year, and 58,000–130,000 people die from the disease every year.<ref name=Loz2012>{{cite journal | author = Lozano R, Naghavi M, ''et al.'' 2012 | title = Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: A systematic analysis for the Global Burden of Disease Study 2010 | journal = Lancet | volume = 380 | issue = 9859 | pages = 2095–128 | pmid = 23245604 | doi = 10.1016/S0140-6736(12)61728-0}}</ref>
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year/Period !! Event type !! Event !! Present-day geographic location
+|-
+| 460-377 BCE || Discovery || First mention of cholera by [[Hippocrates]] <ref>{{cite web|title=Etymology of cholera|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309598/|last = Kousoulis|first = Antony E.|publisher = ''[[Emerging Infectious Diseases]]''|date = March 1, 2012|accessdate = April 23, 2016}}</ref> || [[Greece]] 
+|-
+| 1563 || Crisis ||  First record of the disease in a medical report<ref name=origins/> || [[India]]   
+|-
+| 1817-1824 || Crisis|| [[1817–24 cholera pandemic|First pandemic]] begins near [[Calcutta]], reaching most of Asia. It is thought to have killed over 100,000 people.<ref name=buddyloans>{{cite web|title=Third cholera pandemic|url=https://www.buddyloans.com/blog/deadliest-outbreak/|title = World's Deadliest Outbreaks|last = Emge|first = Jon|publisher = Buddy Loans|date = September 17, 2014|accessdate = April 23, 2016}}</ref><ref name=seven-pandemics>{{cite web|title=Cholera's seven pandemics|url=http://www.cbc.ca/news/technology/cholera-s-seven-pandemics-1.758504|publisher = [[CBC News]]|date = May 9, 2008|accessdate = April 23, 2016}}</ref> ||  [[India]], [[Thailand]], [[Philippines]], [[Java]], [[Oman]], [[China]], [[Japan]], [[Persian Gulf]], [[Iraq]], [[Syria]], [[Islamic State of Iraq and the Levant]], [[Transcaucasia]], [[Astrakhan]] ([[Russia]]), [[Zanzibar]], and [[Mauritius]].
+|-
+| 1829-1851 || Crisis|| [[1829–51 cholera pandemic|Second pandemic]] known as the Asiatic Cholera Pandemic arguably starts along the [[Ganges river]]. It is the first to reach Europe and North America. Like in the first one, fatalities reach six figures <ref name=buddyloans/><ref name=seven-pandemics/>  || India, western and eastern Asia, [[Europe]], [[Americas]].<ref name=seven-pandemics/>
+|-
+| 1851-1938|| Organization || The [[International Sanitary Conferences]], largely inspired by the cholera pandemics, are held with the objective to standardize international quarantine regulations against the spread of cholera and other diseases<ref name="markel">{{cite web |url=http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf |title=Worldly approaches to global health: 1851 to the present |first=Howard |last=Markel |date=January 7, 2014 |accessdate=April 5, 2016}}</ref> || Paris, Constantinople, Vienna, Washington, Rome, Venice, Dresden
+|-
+| 1832 || Breakthrough || Medical pioneer [[Thomas Latta]] develops the first intravenous [[saline drip]]<ref>{{cite web|title=Dr Thomas Latta: the father of intravenous infusion therapy|url=http://bji.sagepub.com/content/10/1_suppl/s3.refs|publisher = ''[[Journal of Infection Prevention]]''|date = September 1, 2009|accessdate = April 23, 2016}}</ref>|| Scotland (Leith)
+|-
+| 1852-1860 || Crisis || [[1852–60 cholera pandemic|Third]] pandemic starts along the Ganges delta. Millions of infected in Russia. Death toll reaches one million.<ref name=buddyloans/><ref name=seven-pandemics/> || Asia, Europe, Africa and North America
+|-
+| 1854 || Crisis || [[1854 Broad Street cholera outbreak]] kills at least 500<ref>{{cite web|title=Broad Street|url=http://www.ph.ucla.edu/epi/snow/broadstreetpump.html|title = Broad Street Pump Outbreak|publisher = UCLA Department of Epidemiology|accessdate = April 23, 2016}}</ref> || England (London)
+|-
+| 1863-1875 || Discovery || First demonstration by [[John Snow]], during an epidemic in London, that the transmission of cholera is significantly reduced when uncontaminated water is provided to the population <ref name=origins>{{cite web|title=Origins of Cholera|url=http://www.choleraandthethames.co.uk/cholera-in-london/origins-of-cholera/|publisher = Cholera and the Themes|accessdate = April 23, 2016}}</ref> || England
+|-
+| 1863-1875 || Crisis|| The [[1863–75 cholera pandemic|fourth]]  pandemic starts again in the Ganges delta.<ref name=seven-pandemics/> || Asia, Middle East, Russia, Europe, Africa and North America
+|-
+| 1879 || Breakthrough|| [[Louis Pasteur]] creates the first vaccine<ref>{{cite web|title=First Laboratory Vaccine|url=http://www.historyofvaccines.org/content/timelines/all#EVT_100871|accessdate = April 23, 2016|publisher = History of Vaccines}}</ref> || France
+|-
+| 1881-1896 || Crisis|| [[1881–96 cholera pandemic|Fifth]] pandemic, starting in India. The first to reach South America <ref name=seven-pandemics/>|| Asia, Africa, Russia, Europe, South America
+|-
+| 1883 || Discovery || Identification of virus V cholerae by [[Robert Koch]] during an outbreak<ref>{{cite web|title=Cholera: Background|url=http://emedicine.medscape.com/article/962643-overview|last = Handa|first = Sanjeev|publisher = [[MedScape]]|accessdate = April 23, 2016|date = February 16, 2016}}</ref> || Egypt
+|-
+| 1899-1923 || Crisis || The [[1899–1923 cholera pandemic|sixth]] pandemic kills more than 800,000 people in India where it begins<ref name=seven-pandemics/> || India, Middle East, North Africa, Eastern Europe and Russia.
+|-
+| 1961-present|| Crisis || The [[1961–75 cholera pandemic|seventh]] pandemic, starting in Indonesia, continues today at a much smaller scale <ref name=seven-pandemics/>||  Asia, Africa, Americas, Europe, Oceania
+|-
+| 2007 || Breakthrough || Researchers from the University of Tokyo develop a type of rice that carries the cholera vaccine.<ref>{{cite web|title=Breakthrough in cholera cure|url=http://timesofindia.indiatimes.com/home/science/Breakthrough-in-cholera-cure/articleshow/2118293.cms}}</ref> || Japan 
+|-
+| 2008 || Crisis || [[Zimbabwean cholera outbreak]]. 98,741 cases and 4,293 deaths reported<ref>{{cite web|url = http://www.who.int/hac/crises/zwe/sitreps/zimbabwe_w1_10jan2010.pdf|title = Epidemiological Bulletin Number 41|publisher = [[World Health Organization]]|date = January 10, 2010|accessdate = April 23, 2016}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/2/hi/africa/8068232.stm |title=Zimbabwe cholera 'to top 100,000'|date=26 May 2009|publisher=[[BBC]]|accessdate=26 May 2009}}</ref> || Zimbabwe, Botswana, Mozambique, South Africa and Zambia.   
+|-
+| 2010-present || Crisis || [[Haiti cholera outbreak|Outbreak]] in Haiti kills over 9,500 people across four countries<ref>{{cite web|title=Haiti cholera outbreak|url=http://www.paho.org/hq/index.php?option=com_docman&task=doc_view&gid=28070+&Itemid=999999&lang=fr|accessdate = April 23, 2016}}</ref>|| Haiti, Dominican Republic, Cuba, Mexico, Venezuela and Florida (U.S.) 
+|-
+| 2014-2015 || Crisis || [[2014–15 African cholera outbreak|Outbreak]] in Africa. 1,475 reported deaths,<ref name=ghana>{{cite web|title=Cholera in Ghana|url=http://www.unicef.org/cholera/files/Cholera_regional_update_W52_2014_West_and_Central_Africa.pdf|publisher=UNICEF|date=15 November 2014}}</ref> 84,675 reported cases<ref name=ghana/>|| Ghana, Nigeria, Niger, Togo, Benin, Democratic Republic of the Congo, Ivory Coast, Chad, Liberia, Guinea-Bissau, Guinea
+|-
+
+|}
+
+==See also==
+
+* [[Cholera]]
+* [[Timeline of global health]]
+
+==References==
+
+{{reflist|30em}}
+
+{{Cholera}}
+{{Diseases of Poverty}}
+{{Bacterial diseases}}
+
+{{Authority control}}
+
+[[Category:Cholera| ]]
+[[Category:Biological weapons]]
+[[Category:Diarrhea]]
+[[Category:Foodborne illnesses]]
+[[Category:GI tract disorders]]
+[[Category:Intestinal infectious diseases]]
+[[Category:Neglected diseases]]
+[[Category:Pandemics]]
+[[Category:Waterborne diseases]]
+[[Category:RTT]]
