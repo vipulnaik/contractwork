@@ -2,7 +2,7 @@
 
 Form 1040, though published on January 1, 2016 is counted in 2015.
 
-Total so far: $1048
+Total so far: $1048 [$933 paid, $115 payment pending]
 
 * Green Card Test: $25
 * Triplebyte (didn't publish to main, but got ready in user space): $25
@@ -15,7 +15,7 @@ Total so far: $1048
 * Form I-140. Pay: $150, plus $18 for other miscellaneous improvements
 * Open Philanthropy Project. Pay: $100
 * Timeline of global health: $170 + $20 completion bonus [an additional $30 would come from additional details]
-* Timeline of deworming: $115
+* Timeline of deworming: $115 [payment pending]
 
 === Non-page payments ===
 
