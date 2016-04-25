@@ -74,6 +74,8 @@ that we see for the corresponding page whose timeline page it is.
 
 === Technology ===
 
+* Timeline of Netflix: The Netflix page gets about 180K pageviews a month, so 1.8-9K. Proposed bounty amount: $135
+
 * Timeline of WhatsApp: The WhatsApp page gets about 110K views a month, so we should expect 1000-5000 pageviews a month. Proposed bounty amount: $120
 
 * Timeline of Xiaomi: The Xiaomi page gets 40K views a month, so we should expect 400-2000 pageviews per month.  Proposed bounty amount: $75
