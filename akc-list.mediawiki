@@ -86,6 +86,8 @@ that we see for the corresponding page whose timeline page it is.
 
 * Timeline of Lyft: The Lyft page gets about 16K views a month, so we should expect 150 pageviews a month. Proposed bounty amount: $40
 
+* Timeline of Twitch.tv (decide whether to just call that Timeline of Twitch): The Twitch page gets about 30K pageviews a month, so we should expect 300-1500 pageviews per month. Proposed bounty amount: $40
+
 === Clothing retail ===
 
 In addition to bounties below, extra $25 bounty for first clothing
