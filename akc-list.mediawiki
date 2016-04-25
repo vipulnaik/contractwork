@@ -38,12 +38,13 @@ year.
 * Start by April 8, finish by April 10: Thomas C. Leonard
 * Finish by April 17: Timeline of Instagram
 * Start by April 22, finish by April 24: Timeline of LinkedIn
+* Start by April 29, end by May 1: Timeline of Dropbox
 
 (more weeks, months to be added).
 
 == Completed pages ==
 
-Total so far: $1095
+Total so far: $1170 [one of the items requires some additional work, dock $10 if the additional work is not done]
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -57,9 +58,14 @@ Total so far: $1095
 * Initialized Capital: $50
 * Data Collective: $50
 * Matthew Emerton: $15
-* Uri Simonsohn (awaiting the addition of one reference): $25
+* Uri Simonsohn: $25
 * Thomas C. Leonard: $25
 * Timeline of Instagram: $100
+* Timeline of LinkedIn (awaiting the addition of a few more items): $75
+
+== Specific technologies ==
+
+* Facebook Live: Proposed bounty amount: $150 for a high-quality page completed by May 1. Bounty amount may reduce if the page is not completed by then. Get some initial references from the events related to live-streaming of Facebook videos in the timeline of Facebook, from August 2015 and January - March 2016, and then F8 conference.
 
 == Timeline pages ==
 
@@ -68,7 +74,7 @@ that we see for the corresponding page whose timeline page it is.
 
 === Technology ===
 
-* Timeline of LinkedIn: The LinkedIn page gets 70K views a month, so we should expect 700-3500 pageviews per month. Proposed bounty amount: $75
+* Timeline of WhatsApp: The WhatsApp page gets about 110K views a month, so we should expect 1000-5000 pageviews a month. Proposed bounty amount: $120
 
 * Timeline of Xiaomi: The Xiaomi page gets 40K views a month, so we should expect 400-2000 pageviews per month.  Proposed bounty amount: $75
 
@@ -76,7 +82,7 @@ that we see for the corresponding page whose timeline page it is.
 
 * Timeline of Amazon Web Services: The Amazon Web Services page gets about 40K views a month, so we should expect 400-2000 pageviews per month. Proposed bounty amount: $60
 
-* Timeline of GitHub: The GitHub page gets 40K views a month, so we should expect 400-2000 pageviews per month. Proposed bounty amount: $50
+* Timeline of Lyft: The Lyft page gets about 16K views a month, so we should expect 150 pageviews a month. Proposed bounty amount: $40
 
 === Clothing retail ===
 
@@ -91,13 +97,9 @@ retail page, as a reward for expanding your capability set.
 
 == Venture capital and angel investment firms and people ==
 
-Please show me partial drafts of these pages before thinking you're
-done. Since you're entering this page category for the first time on a
-bounty it's important we stay on the same page here.
+* Coatue Management: $35
 
-=== Firms ===
-
-* Menlo Ventures. Proposed bounty: $50
+* Maverick Capital: $35
 
 == Other concepts ==
 
