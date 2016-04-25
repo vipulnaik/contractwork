@@ -44,7 +44,7 @@ year.
 
 == Completed pages ==
 
-Total so far: $1170 [one of the items requires some additional work, dock $10 if the additional work is not done]
+Total so far: $1170 (one of the items requires some additional work, dock $10 if the additional work is not done)
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
