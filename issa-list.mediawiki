@@ -1,8 +1,10 @@
+Total so far: $1169 ($1044 paid, $125 payment pending)
+
 == Completed pages ==
 
 Form 1040, though published on January 1, 2016 is counted in 2015.
 
-Total so far: $1048 [$933 paid, $115 payment pending]
+Total so far: $1048 ($933 paid, $115 payment pending)
 
 * Green Card Test: $25
 * Triplebyte (didn't publish to main, but got ready in user space): $25
@@ -19,7 +21,7 @@ Total so far: $1048 [$933 paid, $115 payment pending]
 
 === Non-page payments ===
 
-Total so far: $111
+Total so far: $121 ($111 paid, $10 payment pending)
 
 * stats.grok.se -> Wikimedia API fix: $80
 
@@ -27,6 +29,7 @@ Total so far: $111
 
 * Adding years to DCP page: $6
 
+* Wasted effort on timeline of mental health, after discovering that a similar page on timeline of psychiatry exists: $10
 
 == Global public health and related investigation ==
 
@@ -113,8 +116,6 @@ Department of State forms:
 * Expand Form I-129 page to include mention of Labor Condition Application (when the form is used for H-1B/H-1B1/E-3) and other similar pre-applications that need to be done for the other statuses that use Form I-129. Pay: $15
 
 == Random ==
-
-* Equal Pay Day: $20
 
 * Retrieve Animal Charity Evaluators ($20) + clean it and make it re-publishable again, last for a month after republish ($20)
 
