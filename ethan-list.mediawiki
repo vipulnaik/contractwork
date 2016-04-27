@@ -1,6 +1,6 @@
 == Completed pages ==
 
-Total payment: $155, of which $115 has been paid and $40 remains to be paid
+Total payment: $159, of which $115 has been paid and $44 remains to be paid
 
 === Fully completed ===
 
@@ -12,7 +12,7 @@ Total payment: $155, of which $115 has been paid and $40 remains to be paid
 
 * Form 1042: $25
 
-* Equal Pay Day: $20 
+* Equal Pay Day: $24 
 
 === Abandoned because something already exists or we decided it isn't important enough ===
 

@@ -1,16 +1,16 @@
-'''Amazon Underground''' is an [[Android]] app offered by [[Amazon.com|Amazon]] through which people can freely download and obtain in-app items that they would otherwise have to pay money to purchase. Amazon has used the catchphrase "Actually Free" to describe the policy, and affirmed that Amazon Underground is not a one-time or temporary offer but is here to stay. Participation by app developers in the program is voluntary. Amazon compensates app developers based on the time that users spend within the app.
+'''Amazon Underground''' is an [[Android]] app offered by [[Amazon.com|Amazon]] through which people can freely download and obtain in-app items that they would otherwise have to pay money to purchase.<ref name=amazon-developer-front-page>{{cite web|url = https://developer.amazon.com/public/solutions/underground|title = What's New with Amazon Underground?|publisher = [[Amazon.com]]|accessdate = April 26, 2016}}</ref> Amazon has used the catchphrase "Actually Free" to describe the policy, and affirmed that Amazon Underground is not a one-time or temporary offer but is here to stay.<ref name=pcmag>{{cite web|url = http://www.pcmag.com/article2/0,2817,2490149,00.asp|title = Amazon Underground Offers Apps That Are 'Actually Free'|last = Moscaritolo|first = Angela|date = August 26, 2015|accessdate = April 26, 2016|publisher = ''[[PCMag]]''}}</ref><ref name=wired-launch>{{cite web|url = http://www.wired.com/2015/08/amazon-underground-in-app-payment/|title = Has Amazon Cracked the Problem With In-App Payments?|last = Barrett|first = Brian|date = August 29, 2015|accesdate = April 26, 2016|publisher = ''[[Wired Magazine]]''}}</ref> Participation by app developers in the program is voluntary. Amazon compensates app developers based on the time that users spend within the app, at a flat rate of $0.002 per user minute.<ref name=pcmag/><ref name=wired-launch/><ref name=inquisitr/>
 
 == Model ==
 
 === For consumers ===
 
-Consumers interested in using Amazon Underground can download the app from the Amazon website. The app cannot be downloaded from Google Play, Google's Android app store, since it violates the conditions necessary to be listed in the app store.
+Consumers interested in using Amazon Underground can download the app from the Amazon website.<ref>{{cite web|url = http://www.amazon.com/Amazon-com-Amazon-Underground/dp/B004GJDQT8|title = Amazon Underground|publisher = [[Amazon.com]]|accessdate = April 26, 2016}}</ref> The app cannot be downloaded from Google Play, Google's Android app store, since it violates the conditions necessary to be listed in the app store.<ref name=pcadvisor>{{cite web|url = http://www.pcadvisor.co.uk/how-to/google-android/how-get-genuinely-free-android-apps-free-android-games-3623997/|title = How to get genuinely free Android apps and free Android games|last = Brewis|first = Marie|date = August 27, 2015|accessdate = April 26, 2016|publisher = PC Advisor}}</ref><ref name=inquisitr/>
 
 Once the consumer has downloaded Amazon Underground, he or she can download all apps participating in Amazon Underground from within the Amazon Underground app. In addition to being able to download the app for free, the consumer can also make "in-app purchases" for free.
 
 === For app creators ===
 
-An app creator can choose to participate in the Amazon Underground program. The app creator receives payment based on the time spent by users in the app after downloading it.
+An app creator can choose to participate in the Amazon Underground program. The app creator receives payment based on the time spent by users in the app after downloading it, at a flat rate of $0.002 per user minute in the app.<ref name=understanding-amazon-underground>{{cite web|url = https://developer.amazon.com/public/solutions/underground/docs/understanding-amazon-underground|title = Understanding Amazon Underground|accessdate = April 26, 2016|publisher = [[Amazon.com]]}}</ref>
 
 Amazon has listed the following eligibility requirements for participating apps:
 
@@ -33,20 +33,28 @@ In addition, Underground is not recommended for modified version of an app that 
 
 === Monetization by Amazon ===
 
-Amazon pays app creators based on the total time spent by users in the app. In order to monetize Amazon Underground, Amazon shows ads when somebody first downloads an app, and occasionally on each subsequent opening of the app.
+Amazon pays app creators based on the total time spent by users in the app.<ref name=wired-launch/> In order to monetize Amazon Underground, Amazon shows ads when somebody first downloads an app, and occasionally on each subsequent opening of the app.<ref name=understanding-amazon-underground/>
 
 == History ==
 
-Amazon Underground launched on August 26, 2015, and its launch was accompanied with the retirement of Amazon's daily free app.
+Amazon Underground launched on August 26, 2015, and its launch was accompanied with the retirement of Amazon's daily free app.<ref name=wired-launch/><ref name=pcmag/>
 
-In March 2016, Amazon reported some statistics on the growth of Amazon Underground, leading to renewed media coverage of Amazon Underground.
+In March 2016, Amazon reported some statistics on the growth of Amazon Underground, leading to renewed media coverage of Amazon Underground.<ref name=wired-growth>{{cite web|url = Amazon Underground, a New Kind of App Store, Is Blowin’ Up|last = Barrett|first = Brian|date = April 9, 2016|accessdate = April 26, 2016|publisher = ''[[Wired Magazine]]''}}</ref><ref name=inquisitr>{{cite web|url = http://www.inquisitr.com/2892375/will-amazon-underground-change-the-revenue-model-for-app-developers/|title = Will Amazon Underground Change Revenue Model for Developers?|last = Lowery|first = Victoria|date = March 15, 2016|accessdate = April 26, 2016|publisher = [[Inquisitr]]}}</ref>
 
 == Reception ==
 
-- Much smaller than Google Play store.
-- Good for kids' apps, since even a small amount of money can be a big ask for a kid to parents. Reduces friction there.
-- Incentives for app creators to create engaging app experiences rather than worry about how much to charge and how to kickstart usage.
-- What's in it for Amazon?
+Amazon Underground has been critiqued for being much smaller than the Google Play app store, making it of limited utility as a standalone source for getting games.<ref name=wired-growth/>
+
+The goat simulator app has performed well on Amazon Underground, leading ''Wired'' writer Brian Barrett to argue that the lack of need for payment may make the app particularly appealing to children, for whom even a small amount of money requires parental consent.<ref name=wired-growth/>
+
+On the other hand, Amazon Underground has been praised for helping developers focus on creating engaging in-app experiences rather than worrying about monetizing through in-app purchases. It has also been praised for helping all developers make money right off the bat in direct proportion to usage, compared to the in-app purchase model that only some kinds of apps could make significant money off of.<ref name=wired-launch/><ref name=inquisitr/> Commentators have compared it to the Kindle Unlimited plan where Amazon allows readers to read books for free from a diverse collection of authors and then pays authors based on the fraction of their books read.<ref name=inquisitr/>
+
+A report by IHS Technology highlighted the following key challenges for Amazon Underground:<ref name=ihs>{{cite web|url = https://technology.ihs.com/550085/amazon-underground-innovates-with-free-apps-but-faces-challenges|title = Amazon Underground innovates with free apps but faces challenges|last = Kent|first = Jack|date = October 7, 2015|accessdate = April 26, 2016|publisher = IHS Technology}}</ref>
+
+* The challenge of user acquisition, in a world where many apps were free for initial download and monetized through in-app purchases
+* Economics that would not fit the needs of all apps
+* Strong app store competition, and the fact that Amazon Underground does not come pre-installed on any non-Amazon devices (the bulk of smartphones and tablets)
+
 
 == References ==
 
