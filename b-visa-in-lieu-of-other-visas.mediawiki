@@ -1,6 +1,6 @@
-In the [[United States]], the most common visa used for short-term trips is the [[B visa]]. This is a combination of the B-1 visa (for short-term business trips) and the B-2 visa (for short-term tourism/pleasure trips). People on B visas are generally not allowed to engage in productive work or study activities. However, in some cases, B visas can be issued that allow people to engage in some types of productive work activity. Prior to the September 2001 attacks, the B visa could also be used by people on short courses of study, but now such people need to get a [[M-1 visa]] or [[F visa|F-1 visa]]. However, B visas may still have annotations that allow for transition to student visas through [[Form I-539]].
+In the [[United States]], the most common visa used for short-term trips is the [[B visa]]. This is a combination of the B-1 visa (for short-term business trips) and the B-2 visa (for short-term tourism/pleasure trips). People on B visas are generally not allowed to engage in productive work or study activities. However, in some cases, B visas can be issued that allow people to engage in some types of productive work activity.<ref name=ilw-wehrer>{{cite web|url = http://www.ilw.com/articles/2000,1018_Wehrer.shtm|title = Business Visitors from Abroad - Tips and Traps for the HR Department|date = October 18, 2000|last = Paparelli|first = Angelo|last2 = Wehrer|first2 = Susan|accessdate = April 28, 2016|publisher = [[Immigration Daily]]}}</ref><ref name=ilw/> Prior to the September 2001 attacks, the B visa could also be used by people on short courses of study, but now such people need to get a [[M-1 visa]] or [[F visa|F-1 visa]].<ref name=shareok>{{cite web|url = A Descriptive Case Study of the Impact of 9/11 on International Student Visa Policy in the 20 Months Following the Attacks|author = Mary Helen Reeves|accessdate = February 10, 2016}}</ref> However, B visas may still have annotations that allow for transition to student visas through [[Form I-539]].<ref name=nolo-b>{{cite web|url = http://www.nolo.com/legal-encyclopedia/how-extend-your-stay-change-your-status-while-b-visa.html|title = How to Extend Your Stay or Change Your Status While on a B Visa. The steps you must take as a B visa entrant to request an extension of stay in the U.S.|last = Gasson|first = Kristina|accessdate = January 25, 2016|publisher = [[NOLO]]}}</ref><ref name=cmu>{{cite web|url = https://www.cmu.edu/oie/forstu/pdf/change-status.pdf|title = Change of Non-immigrant Status to F-1 Status|accessdate = February 1, 2016}}</ref>
 
-Not all United States consulates offer these visas. In total, about 1,000 such visas are offered annually, with a large fraction of them being given out in [[India]], in the [[Chennai]] and [[Mumbai]] consulates.
+Not all United States consulates offer these visas. The total number of such visas issued is also small: for instance, in 2011, the [[U.S. Department of State]] reported that fewer than 1000 B-1 in lieu of H-1B visas were isseud annually.<ref name=ilw/> Some consulates, such as the [[Chennai]] and [[Mumbai]] consulates, explicitly list this visa category as part of the Business Executive Program.<ref name=chennai-consulate/> Some others, such as the [[London]] embassy, do not explicitly list this visa category but do offer the visa.<ref name=irwinmitchell/><ref>{{cite web|url = https://www.quora.com/How-can-I-get-a-B1-in-lieu-of-an-H1B-visa-from-UK-Whats-the-best-way-to-get-this-visa-as-i-was-offered-a-job-in-USA|title = How can I get a "B1 in lieu of an H1B " visa from UK. What's the best way to get this visa, as i was offered a job in USA?|publisher = [[Quora]]}}</ref>
 
 This page discusses these rare uses of the B visa and the rules governing these uses.
 
@@ -11,12 +11,12 @@ This page discusses these rare uses of the B visa and the rules governing these 
 The following rules governing the B visa need to be honored even for B visas issued in lieu of other visas:
 
 * The person must not receive compensation from a United States source; however, provision of accommodation or reimbursement of expenses incidental to a temporary stay are allowed.
-* The person's stay must be temporary; generally, the same restrictions apply both per visit and in terms of the total duration of stay.
+* The person's stay must be temporary, both per visit and in terms of the total duration of stay (in case of a multi-entry visa).
 * The person should still enter without immigrant intent or the intent to convert the stay to a long-term stay; for instance, the person should not look for employment in the U.S. job market.
 
 === Restrictions on usual B visas that get relaxed ===
 
-People on usual B visas are allowed to engage in the following activities:<ref name=murthy>{{cite web|url = https://www.murthy.com/2016/03/17/b-1-in-lieu-of-h1b-will-this-useful-category-survive/|title = B-1 in Lieu of H1B – Will this Useful Category Survive?|accessdate = April 5, 2016|publisher = Murthy.com}}</ref>
+People on usual B visas are allowed to engage in the following activities:<ref name=murthy>{{cite web|url = https://www.murthy.com/2016/03/17/b-1-in-lieu-of-h1b-will-this-useful-category-survive/|title = B-1 in Lieu of H1B – Will this Useful Category Survive?|accessdate = April 5, 2016|publisher = Murthy.com}}</ref><ref name=ilw>{{cite web|url = http://www.ilw.com/articles/2011,0718-mehta.shtm|title = B-1 In Lieu Of H-1B Visa In Jeopardy: Don't Throw The Baby Out With The Bathwater|last = Mehta|first = Cyrus|last2 = Jaidi|first2 = Myriam|date = July 18, 2011|accessdate = April 27, 2016|publisher = [[Immigration Daily]]}}</ref>
 
 # Engaging in commercial transactions, which do not involve gainful employment in the United States (such as a merchant taking orders for goods manufactured abroad)
 # Negotiating contracts
@@ -25,7 +25,76 @@ People on usual B visas are allowed to engage in the following activities:<ref n
 # Participating in scientific educational, professional, or business conventions, conferences, or seminars
 # Undertaking independent research
 
-B visas issued in lieu of work visas add to this list of permissible activities the activity of productive work in the specific context permitted by the visa. For instance, a B visa issued in lieu of a H-1B for a worker for a non-U.S. company working on a project for a U.S. client allows the worker to engage in productive work activity as part of completion of the project.
+B visas issued in lieu of work visas add to this list of permissible activities the activity of productive work in the specific context permitted by the visa. For instance, a B visa issued in lieu of a H-1B for a worker for a non-U.S. company working on a project for a U.S. client allows the worker to engage in productive work activity as part of completion of the project.<ref name=ilw/>
+
+Generally, a B visa issued in lieu of any other visa category is strictly more powerful than an ordinary B visa. In particular, all activities permitted under an ordinary B visa are permitted for a B visa in lieu of another visa. In particular, a B visa in lieu of another visa can be used for ordinary business or travel purposes as long as the visa is valid.
+
+=== Differences in the application criteria and process ===
+
+For a typical employer-sponsored work visa that a B visa may be issued in lieu of, there are additiona prior steps that need to be taken before the visa application:
+
+* For all employer-sponsored nonimmigrant work visas, [[Form I-129]] (Petition for a Nonimmigrant Worker) needs to be filed with the [[United States Citizenship and Immigration Services]].
+* For the [[H-1B visa]], a [[Labor Condition Application needs to be filed with and approved by the [[U.S. Department of Labor]] prior to filing Form I-129.
+
+Neither of these steps is part of the application process for a B visa in lieu of a work visa. Rather, the application is made directly to the consulate with all the relevant evidence submitted to the consulate.
+
+The following are four broad kinds of things that need to be demonstrated by work visa applicants and their petitioning employers:
+
+# The employer is a United States entity.
+# The employee's wages and working conditions are at or above that of other employees in the company, and that hiring the employee will not adversely affect other employees (the precise nature of attestations that need to be made varies based on the visa category and the type of employer).
+# The employee will be paid at or above the [[prevailing wage]] for that job and intended employment area (this is part of the [[Labor Condition Application]] for the [[H-1B visa|H-1B status]]).
+# The employee is adequately qualified for skilled work. The standard of qualification and the nature of evidence needed varies based on the type of work visa.
+# There is a clear employer-employee relationship. In particular, self-petitions are (generally) not accepted.
+
+The ''in lieu of'' visas differ in the following respects:
+
+* Criterion (1) gets flipped around: the applicant now needs to demonstrate that the employer is a non-U.S. employer. In the case of an employer with no United States presence, this is easy. For multinationals, it is important to show that the applicant is employed and paid by the non-U.S. part of the company.
+* Criterion (2) is no longer applicable, because the employer, being a non-U.S. employer, has no U.S. workforce.
+* Criterions (3), (4), and (5) continue to be required. In particular, criterion (5) means that self-employed people cannot generally use this category.
+
+=== Importance of having the "in lieu of" annotation at the time of visa issuance ===
+
+An ordinary B visa ''cannot'' be retroactively changed by an applicant or his or her sponsoring company or institution to a B visa in lieu of another visa. Even if a person has an already valid B visa, the person ''must'' get a new B visa in lieu of the appropriate visa in order to visit the United States for productive work activities.<ref name=immihelp-q>{{cite web|url = http://www.immihelp.com/forum/showthread.php/92984-Information-needed-on-B1-in-Lieu-of-H1B|title = Information needed on B1 in Lieu of H1B|publisher = [[ImmiHelp]]|date = September 28, 2011|accessdate = April 28, 2016}}</ref>
+
+=== Inapplicability to VWP travel ===
+
+Most citizens of [[Visa Waiver Program]] (VWP) countries are eligible for visa-freee travel to the United States for short-term business and tourist trips of the sort that would usually require B visas. However, people entering via the VWP, without a visa, ''cannot'' engage in the additional activities permitted for the ''in lieu of'' visas. In other words, the VWP mostly substitutes for ordinary B visas, but cannot substitute for B visas in lieu of other visas.
+
+=== No change of status possible within the United States ===
+
+Stay on the usual B visa can be extended while in the United States by filing [[Form I-539]] with the [[United States Citizenship and Immigration Services]]. Form I-539 cannot be used to change the nature of the B visa to include the "in lieu of" annotation; such changes can only be made at a consulate.{{citation needed}}
+
+=== No dependent visa ===
+
+As with ordinary B visas, there is no visa for dependents of the ''in lieu of'' visas. However, the family members of B visa holders can still apply for ordinary B visas and use those to accompany or visit the holder of the ''in lieu of'' visa.
+== History ==
+
+=== Original use of B-1 in lieu of H-1 ===
+
+The use of the B visa in lieu of other visas is not mentioned in any legislative statutes.<ref name=globalworkers>{{cite web|url = http://globalworkers.org/digging-deeper-history-b-1-lieu-h-1|title = Digging Deeper: History of B-1 in lieu of H-1|publisher = globalworkers.org|accessdate = April 28, 2016}}</ref> The concept appears to have been first created in the 1960s in a joint effort of the [[Immigration and Naturalization Services]] (the predecessor to the [[U.S. Department of Homeland Security]], that carried out all the immigration processing and enforcement functions currently carried out by the branches of the DHS) and the [[U.S. Department of State]].<ref name=globalworkers/>
+
+The first explicit articulation of the "B-1 In Lieu of H-1" category was in a 1982 cable. As of 1982, there was no separate [[H-1B visa]]; rather there was a single H-1 category for high-skilled workers (the H-1B in its present form would be created as a result of the [[Immigration Act of 1990]]).<ref name=globalworkers/><ref name=ilw-wehrer/> The cable was in response to Matter of Srinivasan, a case involving the denial of B-1 status to employees of an India-based computer company. The INS determined that the B-1 classification (in lieu of H-1) is appropriate under the following circumstances:<ref name=ilw-wehrer/>
+
+# The alien receives no remuneration from a U.S. source
+# The alien is a ''bona fide'' nonimmigrant
+# The alien qualifies for H-1 status and will perform duties that "require distinguished merit and ability"
+# The services to be provided are necessary to the integrated international production, marketing, and service system of the corporation, its subsidiaries, and affiliates, and so [does] not involve the reassignment of an alien to an employer in the United States.
+
+=== Changes in the 1990s ===
+
+The [[Immigration Act of 1990]] officially split the original H-1 visa into a [[H-1A visa]] (for nurses) and [[H-1B visa]] (for other categories of skilled workers) and imposed an annual numerical cap on H-1Bs. In 1993, the INS and the U.S. Department of State proposed regulations that, by explicitly listing all permissible uses of B-1 visas, would have eliminated the B-1 in lieu of H-1 category. However, these regulations were never implemented.<ref name=ilw-wehrer/><ref name=globalworkers/>
+
+=== Tightening of restrictions on B visa use for study ===
+
+After the September 2001 attachs, people were no longer permitted to engage in even short courses of study on the B visa. Instead, such people needed to get a [[M-1 visa]] or [[F visa|F-1 visa]].<ref name=shareok/> However, B visas may still have annotations that allow for transition to student status through [[Form I-539]].<ref name=nolo-b/><ref name=cmu/> 
+
+However, there is also a [[H-3 visa]], which can be used by trainees (people who have been invited to participate in a training program) and special education exchange visitors.<ref>{{cite web|url = http://www.nolo.com/legal-encyclopedia/an-h-3-visa-the-us-temporary-trainee-do-you-qualify.html|title = H-3 Visa to the U.S. as a Temporary Trainee: Who Qualifies? The H-3 nonimmigrant visa can be used by people who have been invited to participate in a training program in the United States.|last = Bray|first = Ilona|accessdate = April 29, 2016|publisher = [[NOLO]]}</ref> It is possible to receive a B-1 in lieu of H-3.<ref>{{cite web|url = http://www.visapro.com/Immigration-Articles/?a=1518&z=48|title = B1 In Lieu Of H3: An Often Overlooked Trainee Visa|publisher = ''VisaPro''|accessdate = April 29, 2016}}</ref>
+
+=== Renewed scrutiny in the 2010s ===
+
+In the aftermath of revelations by whistleblower Palmer about apparently fraudulent immigration practices by multinational company [[Infosys]], there was renewed scrutiny of the B-1 visa. Infosys paid a $34 million settlement to the United States government ... Senator [[Chuck Grassley]] raised concerns about the use of B-1 in lieu of H-1B, in particular highlighting the lack of protections for United States labor because, unlike H-1B visas, no [[Labor Condition Application]] was needed.<ref>{{cite web|url = http://www.grassley.senate.gov/news/news-releases/grassley-concerned-companies-are-using-b-1-visa-program-circumvent-h-1b|title = Grassley Concerned That Companies are Using B-1 Visa Program to Circumvent H-1B Requirements|date = April 14, 2011|accessdate = April 29, 2016|publisher = Grassley.senate.gov}}</ref> In response, Cyrus Mehta and Myriam Jaidi, writing for [[Immigration Daily]], noted that there were many work visa categories, such as the L-1 and O-1, that did not require a LCA, and the B-1 in lieu of H-1B was not unique in this regard.
+
+The U.S. Department of State's response to Grassley's questions led some commentators to believe that the B-1 in lieu of visas were in imminent danger; however, as of 2016 the category still exists.
 
 == B-1 in lieu of H-1B ==
 
@@ -56,7 +125,9 @@ For multinational companies that have both United States and international offic
 * No Form I-129 needs to be filed. Thus, the cost, bureaucratic overhead, and time of the form are saved on.
 * The duration and terms of the visa match those of a B visa rather than a H-1B visa.
 
-However, the B-1 in lieu of H-1B ''does'' require the worker to demonstrate that he or she is skilled and that the skills are needed for the job being performed in the United States. This demonstration needs to be made directly to the consulate rather than having to first go through USCIS. All the other usual requirements needed to obtain a nonimmigrant visa continue to apply, namely strong home times (to overcome the Section 214(b) ground of denial) and not satisfying any of the grounds of inadmissibility.
+However, the B-1 in lieu of H-1B ''does'' require the worker to demonstrate that he or she is skilled and that the skills are needed for the job being performed in the United States. This demonstration needs to be made directly to the consulate rather than having to first go through USCIS. 
+
+All the other usual requirements needed to obtain a nonimmigrant visa continue to apply, namely strong home times (to overcome the Section 214(b) ground of denial) and not satisfying any of the grounds of inadmissibility.
 
 === Advantages of the B-1 in lieu of H-1B ===
 
