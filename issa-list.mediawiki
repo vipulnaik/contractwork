@@ -1,10 +1,10 @@
-Total so far: $1169 ($1044 paid, $125 payment pending)
+Total so far: $1169 ($1044 paid, $280 payment pending)
 
 == Completed pages ==
 
 Form 1040, though published on January 1, 2016 is counted in 2015.
 
-Total so far: $1048 ($933 paid, $115 payment pending)
+Total so far: $1048 ($933 paid, $220 payment pending)
 
 * Green Card Test: $25
 * Triplebyte (didn't publish to main, but got ready in user space): $25
@@ -18,10 +18,11 @@ Total so far: $1048 ($933 paid, $115 payment pending)
 * Open Philanthropy Project. Pay: $100
 * Timeline of global health: $170 + $20 completion bonus [an additional $30 would come from additional details]
 * Timeline of deworming: $115 [payment pending]
+* Timeline of nonprofit evaluation: $105 [payment pending]
 
 === Non-page payments ===
 
-Total so far: $121 ($111 paid, $10 payment pending)
+Total so far: $171 ($111 paid, $60 payment pending)
 
 * stats.grok.se -> Wikimedia API fix: $80
 
@@ -30,6 +31,8 @@ Total so far: $121 ($111 paid, $10 payment pending)
 * Adding years to DCP page: $6
 
 * Wasted effort on timeline of mental health, after discovering that a similar page on timeline of psychiatry exists: $10
+
+* Monthly update of Open Phil and Good Ventures grant lists: $50
 
 == Global public health and related investigation ==
 
