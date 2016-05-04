@@ -1,4 +1,4 @@
-Total so far: $1389 ($1044 paid, $345 payment pending)
+Total so far: $1409 ($1044 paid, $365 payment pending)
 
 == Completed pages ==
 
@@ -24,13 +24,15 @@ Total so far: $1218 ($933 paid, $285 payment pending)
 
 === Non-page payments ===
 
-Total so far: $171 ($111 paid, $60 payment pending)
+Total so far: $191 ($111 paid, $80 payment pending)
 
 * stats.grok.se -> Wikimedia API fix: $80
 
 * Other misc pay for consulting etc.: $25
 
 * Adding years to DCP page: $6
+
+* Retrieval of Animal Charity Evaluators: $20
 
 * Wasted effort on timeline of mental health, after discovering that a similar page on timeline of psychiatry exists: $10
 
@@ -40,7 +42,7 @@ Total so far: $171 ($111 paid, $60 payment pending)
 
 === Other new pages ===
 
-* Child survival revolution: $25
+* Child survival revolution: $50
 
 * National Conference of Charities and Correction: $25
 
@@ -124,5 +126,5 @@ Department of State forms:
 
 == Random ==
 
-* Retrieve Animal Charity Evaluators ($20) + clean it and make it re-publishable again, last for a month after republish ($20)
+* Republish Animal Charity Evaluators to last for a month: $20
 
