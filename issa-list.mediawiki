@@ -1,10 +1,10 @@
-Total so far: $1169 ($1044 paid, $280 payment pending)
+Total so far: $1389 ($1044 paid, $345 payment pending)
 
 == Completed pages ==
 
 Form 1040, though published on January 1, 2016 is counted in 2015.
 
-Total so far: $1078 ($933 paid, $250 payment pending)
+Total so far: $1218 ($933 paid, $285 payment pending)
 
 * Green Card Test: $25
 * Triplebyte (didn't publish to main, but got ready in user space): $25
@@ -20,6 +20,7 @@ Total so far: $1078 ($933 paid, $250 payment pending)
 * Timeline of deworming: $115 [payment pending]
 * Timeline of nonprofit evaluation: $105 [payment pending]
 * 3 by 5 Initiative: $30 [payment pending]
+* Innovative Vector Control Consortium: $35 [payment pending]
 
 === Non-page payments ===
 
