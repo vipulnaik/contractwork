@@ -73,7 +73,7 @@ As with ordinary B visas, there is no visa for dependents of the ''in lieu of'' 
 
 The use of the B visa in lieu of other visas is not mentioned in any legislative statutes.<ref name=globalworkers>{{cite web|url = http://globalworkers.org/digging-deeper-history-b-1-lieu-h-1|title = Digging Deeper: History of B-1 in lieu of H-1|publisher = globalworkers.org|accessdate = April 28, 2016}}</ref> The concept appears to have been first created in the 1960s in a joint effort of the [[Immigration and Naturalization Services]] (the predecessor to the [[U.S. Department of Homeland Security]], that carried out all the immigration processing and enforcement functions currently carried out by the branches of the DHS) and the [[U.S. Department of State]].<ref name=globalworkers/>
 
-The first explicit articulation of the "B-1 In Lieu of H-1" category was in a 1982 cable. As of 1982, there was no separate [[H-1B visa]]; rather there was a single H-1 category for high-skilled workers (the H-1B in its present form would be created as a result of the [[Immigration Act of 1990]]).<ref name=globalworkers/><ref name=ilw-wehrer/> The cable was in response to Matter of Srinivasan, a case involving the denial of B-1 status to employees of an India-based computer company. The INS determined that the B-1 classification (in lieu of H-1) is appropriate under the following circumstances:<ref name=ilw-wehrer/>
+The first explicit articulation of the "B-1 In Lieu of H-1" category was in a 1982 cable. As of 1982, there was no separate [[H-1B visa]]; rather there was a single H-1 category for high-skilled workers (the H-1B in its present form would be created as a result of the [[Immigration Act of 1990]]).<ref name=globalworkers/><ref name=ilw-wehrer/> The cable was in response to ''Matter of Srinivasan'', a case involving the denial of B-1 status to employees of an India-based computer company. The INS determined that the B-1 classification (in lieu of H-1) is appropriate under the following circumstances:<ref name=ilw-wehrer/>
 
 # The alien receives no remuneration from a U.S. source
 # The alien is a ''bona fide'' nonimmigrant
@@ -82,19 +82,19 @@ The first explicit articulation of the "B-1 In Lieu of H-1" category was in a 19
 
 === Changes in the 1990s ===
 
-The [[Immigration Act of 1990]] officially split the original H-1 visa into a [[H-1A visa]] (for nurses) and [[H-1B visa]] (for other categories of skilled workers) and imposed an annual numerical cap on H-1Bs. In 1993, the INS and the U.S. Department of State proposed regulations that, by explicitly listing all permissible uses of B-1 visas, would have eliminated the B-1 in lieu of H-1 category. However, these regulations were never implemented.<ref name=ilw-wehrer/><ref name=globalworkers/>
+The [[Immigration Act of 1990]] officially split the original H-1 visa into a [[H-1A visa]] (for nurses) and [[H-1B visa]] (for other categories of skilled workers) and imposed an annual numerical cap on H-1Bs. In 1993, the INS and the U.S. Department of State proposed regulations that, by explicitly listing all permissible uses of B-1 visas, would have eliminated the B-1 in lieu of H-1 category. However, these regulations were never implemented.<ref name=globalworkers/><ref name=ilw-wehrer/>
 
 === Tightening of restrictions on B visa use for study ===
 
-After the September 2001 attachs, people were no longer permitted to engage in even short courses of study on the B visa. Instead, such people needed to get a [[M-1 visa]] or [[F visa|F-1 visa]].<ref name=shareok/> However, B visas may still have annotations that allow for transition to student status through [[Form I-539]].<ref name=nolo-b/><ref name=cmu/> 
+After the [[September 11 attacks|September 11, 2001 attacks]], people were no longer permitted to engage in even short courses of study on the B visa. Instead, such people needed to get a [[M-1 visa]] or [[F visa|F-1 visa]].<ref name=shareok/> However, B visas may still have annotations that allow for transition to student status through [[Form I-539]].<ref name=nolo-b/><ref name=cmu/> 
 
 However, there is also a [[H-3 visa]], which can be used by trainees (people who have been invited to participate in a training program) and special education exchange visitors.<ref>{{cite web|url = http://www.nolo.com/legal-encyclopedia/an-h-3-visa-the-us-temporary-trainee-do-you-qualify.html|title = H-3 Visa to the U.S. as a Temporary Trainee: Who Qualifies? The H-3 nonimmigrant visa can be used by people who have been invited to participate in a training program in the United States.|last = Bray|first = Ilona|accessdate = April 29, 2016|publisher = [[NOLO]]}</ref> It is possible to receive a B-1 in lieu of H-3.<ref>{{cite web|url = http://www.visapro.com/Immigration-Articles/?a=1518&z=48|title = B1 In Lieu Of H3: An Often Overlooked Trainee Visa|publisher = ''VisaPro''|accessdate = April 29, 2016}}</ref>
 
 === Renewed scrutiny in the 2010s ===
 
-In the aftermath of revelations by whistleblower Palmer about apparently fraudulent immigration practices by multinational company [[Infosys]], there was renewed scrutiny of the B-1 visa. Infosys paid a $34 million settlement to the United States government ... Senator [[Chuck Grassley]] raised concerns about the use of B-1 in lieu of H-1B, in particular highlighting the lack of protections for United States labor because, unlike H-1B visas, no [[Labor Condition Application]] was needed.<ref>{{cite web|url = http://www.grassley.senate.gov/news/news-releases/grassley-concerned-companies-are-using-b-1-visa-program-circumvent-h-1b|title = Grassley Concerned That Companies are Using B-1 Visa Program to Circumvent H-1B Requirements|date = April 14, 2011|accessdate = April 29, 2016|publisher = Grassley.senate.gov}}</ref> In response, Cyrus Mehta and Myriam Jaidi, writing for [[Immigration Daily]], noted that there were many work visa categories, such as the L-1 and O-1, that did not require a LCA, and the B-1 in lieu of H-1B was not unique in this regard.
+In the aftermath of revelations by whistleblower Palmer about apparently fraudulent immigration practices by multinational company [[Infosys]], there was renewed scrutiny of the B-1 visa. Infosys paid a $34 million settlement to the United States government.<ref name=nytimes-infosys-deal>{{cite web|url = (fill in)|title = Deal Reached in Inquiry Into Visa Fraud at Tech Giant|last = Preston|first = Julia|date = October 29, 2013|accessdate = May 5, 2016|publisher = ''[[New York Times]]''}}</ref> Senator [[Chuck Grassley]] raised concerns about the use of B-1 in lieu of H-1B, in particular highlighting the lack of protections for United States labor because, unlike H-1B visas, no [[Labor Condition Application]] was needed.<ref>{{cite web|url = http://www.grassley.senate.gov/news/news-releases/grassley-concerned-companies-are-using-b-1-visa-program-circumvent-h-1b|title = Grassley Concerned That Companies are Using B-1 Visa Program to Circumvent H-1B Requirements|date = April 14, 2011|accessdate = April 29, 2016|publisher = Grassley.senate.gov}}</ref> In response, Cyrus Mehta and Myriam Jaidi, writing for [[Immigration Daily]], noted that there were many work visa categories, such as the L-1 and O-1, that did not require a LCA, and the B-1 in lieu of H-1B was not unique in this regard.<ref name=ilw/>
 
-The U.S. Department of State's response to Grassley's questions led some commentators to believe that the B-1 in lieu of visas were in imminent danger; however, as of 2016 the category still exists.
+The U.S. Department of State's response to Grassley's questions led some commentators to believe that the B-1 in lieu of visas were in imminent danger;<ref name=ilw/> however, as of 2016 the category still exists.<ref name=murthy/>
 
 == B-1 in lieu of H-1B ==
 
@@ -113,7 +113,7 @@ The [[H-1B visa|H-1B]] status is a temporary nonimmigrant worker status working 
 In particular, the following aspects of the H-1B make it unsuitable for various kinds of temporary work:
 
 * For first-time cap-subject workers, petitions can ''de facto'' be submitted only in the first week of April and for jobs starting in October. This makes it difficult for short-term work that is needed suddenly.
-* For first-time cap-subject workers, inless the worker has a masters degree, making it through the cap is a matter of luck.
+* For first-time cap-subject workers, unless the worker has a masters degree, making it through the cap is a matter of luck.
 * The process requires the filing of the LCA and Form I-129. Both of these have bureaucratic, legal, and administrative overhead. The latter in particular costs both time and money.
 * The employer sponsoring the worker must be a United States entity. It therefore cannot be used by non-U.S. employers who seek to send workers to the United States to work with a client. Rather, the client would have to sponsor the worker as an employee.
 
@@ -125,7 +125,7 @@ For multinational companies that have both United States and international offic
 * No Form I-129 needs to be filed. Thus, the cost, bureaucratic overhead, and time of the form are saved on.
 * The duration and terms of the visa match those of a B visa rather than a H-1B visa.
 
-However, the B-1 in lieu of H-1B ''does'' require the worker to demonstrate that he or she is skilled and that the skills are needed for the job being performed in the United States. This demonstration needs to be made directly to the consulate rather than having to first go through USCIS. 
+However, the B-1 in lieu of H-1B ''does'' require the worker to demonstrate that he or she is skilled and that the skills are needed for the job being performed in the United States. The worker must also show that the wage being paid to the worker is at or above the [[prevailing wage]] for that occupation and intended employment area. A clear employer-employee relationship must be established, and in the case of multinationals, it must be clearly demonstrated that the worker is employed and paid by the non-U.S. part of the company. These demonstrations need to be made directly to the consulate rather than having to first go through USCIS. 
 
 All the other usual requirements needed to obtain a nonimmigrant visa continue to apply, namely strong home times (to overcome the Section 214(b) ground of denial) and not satisfying any of the grounds of inadmissibility.
 
@@ -134,13 +134,21 @@ All the other usual requirements needed to obtain a nonimmigrant visa continue t
 There are a few key reasons why employers might use the B-1 in lieu of H-1B:
 
 * For non-U.S. companies with U.S. clients, this category may make more sense than the H-1B, since the worker will continue to be employed by the non-U.S. It may also make more sense for work whose duration is only a few months.
-* For multinationals, one key advantage is that the total time taken, from the decision to apply to the time the worker can start work, is much shorter than the 6 months taken for a H-1B position. In particular, it may be more suitable for work that needs to be urgently done. Moreover, the B-1 is not subject to the annual H-1B cycle.
-* Lottery chances also improved.
+* For multinationals, one key advantage is that the total time taken, from the decision to apply to the time the worker can start work, is much shorter than the 6 months taken for a H-1B position. In particular, it may be more suitable for work that needs to be urgently done. Moreover, the B-1 is not subject to the annual H-1B cycle and the lottery.
 
 === Disadvantages of the B-1 in lieu of H-1B ===
 
-* Available only at some consulates
-* More awkward at ports of entry. Since this category is used so rarely, CBP officer at the port of entry may not understand all the nuances.
+The following have been cited as disadvantages of the B-1 in lieu of H-1B:
+
+* It is only available only at some consulates.
+* Because of the rarity of this use of the B-1 visa, there is a greater risk of extended interrogation and of the person being denied admission to the United States by the [[U.S. Customs and Border Protection]] officer at the port of entry.
+
+== B-1 in lieu of H-3 ==
+
+== Other B-1 in lieu of visas ==
+
+* B-1 in lieu of L-1
+* B-1 in lieu of TN-1
 
 == References ==
 
