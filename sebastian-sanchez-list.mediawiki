@@ -1,10 +1,14 @@
+Total due: $400 + $75 for pending page
+
 == Completed pages ==
 
-* Dolor en los animales [Spanish translation of Pain in animals]: $100
+* Dolor en los animales (Spanish translation of Pain in animals): $100
 
-* Timeline of cholera: $100 [a few minor changes remain]
+* Timeline of cholera: $100 (a few minor changes remain)
+
+* Timeline of malaria: $200
 
 == In progress ==
 
-* Timeline of malaria: $200
+* Timeline of senescence research: $75
 
