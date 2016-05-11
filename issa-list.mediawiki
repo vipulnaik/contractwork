@@ -1,10 +1,10 @@
-Total so far: $1439 ($1044 paid, $395 payment pending)
+Total so far: $1540 ($1044 paid, $496 payment pending)
 
 == Completed pages ==
 
 Form 1040, though published on January 1, 2016 is counted in 2015.
 
-Total so far: $1248 ($933 paid, $315 payment pending)
+Total so far: $1349 ($933 paid, $416 payment pending)
 
 * Green Card Test: $25
 * Triplebyte (didn't publish to main, but got ready in user space): $25
@@ -22,6 +22,7 @@ Total so far: $1248 ($933 paid, $315 payment pending)
 * 3 by 5 Initiative: $30 (payment pending)
 * Innovative Vector Control Consortium: $35 (payment pending)
 * The State of the World's Children: $30 (payment pending)
+* Child survival revolution: $101 (payment pending)
 
 === Non-page payments ===
 
