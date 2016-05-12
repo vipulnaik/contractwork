@@ -1,0 +1,67 @@
+Title: February to April 2016 in review
+
+Last quarter, I switched my review frequency to quarterly, in the hope of being able to provide more substantive updates in each review. Here I am, with my second quarterly review, this time covering the months of February to April 2016.
+
+Things continue to be busy on the <a href="/job">job front</a>, but they are also more stable. In addition, I attended to some personal bureaucracy, including submitting my tax return and getting my passport reissued. With most of these items out of the way, I have started focusing more on various long-term projects, and hope to have a lot to report next quarter.
+
+<h4>Wikipedia editing</h4>
+
+<em>For background information, see my <a href="/wikipedia">site page about Wikipedia</a></em>
+
+I created 8 pages in February (the somewhat increased page creation count is because I took a total of four weekdays off that month, in addition to weekends). I created 2 pages in March and 2 pages in April. In total, I created 12 pages in the quarter.
+
+As I mentioned in my previous quarterly review, the pages I am creating right now are not as optimized for pageviews as pages in the past have been. Rather, they are pages in domains where I want to acquire a deeper understanding and believe the research process involved in creating the page will help me. As was the case last time, my focus remains on issues surrounding migration. In fact, of the 12 pages I created in the quarter, only one, namely the page on <a href="http://en.wikipedia.org/wiki/Amazon_Underground">Amazon Underground</a>, was unrelated to migration.
+
+In addition to creating pages, I also significantly edited and expanded some existing pages, most of them in the domain of migration. Some of the pages I significantly edited in this quarter were: <a href="http://en.wikipedia.org/wiki/F_visa">F visa</a>, <a href="http://en.wikipedia.org/wiki/I-20_(form)">I-20 (form)</a>, <a href="http://en.wikipedia.org/wiki/H-2A_Visa">H-2A Visa</a>, and <a href="http://en.wikipedia.org/wiki/Optional_Practical_Training">Optional Practical Training</a>.
+
+<h4>Sponsored Wikipedia editing</h4>
+
+<em>For background information, see my <a href="/sponsored-wikipedia-editing">site page about sponsored Wikipedia editing</a></em>
+
+Through the quarter, I sponsored Wikipedia page creation by three people:
+
+<ul>
+	<li>Alex K. Chen (updated page list <a href="http://github.com/vipulnaik/working-drafts/blob/master/akc-list.mediawiki">here</a>): Alex has worked on a large number of pages, including technology company timelines, as well as angel investors and venture capitalists and their funds. In addition to the pages I pay him to create, he also creates a number of other pages.</li>
+	<li>Issa Rice (updated page list <a href="https://github.com/vipulnaik/working-drafts/blob/master/issa-list.mediawiki">here</a>): After completing some pages on taxes and migration, Issa has shifted focus to global health and poverty.</li>
+	<li>Ethan Bashkansky (updated page list <a href="http://github.com/vipulnaik/working-drafts/blob/master/ethan-list.mediawiki">here</a>): Ethan has continued to do sporadic work on tax forms.</li>
+</ul> 
+
+In April, I announced on the Effective Altruism Forum that I was looking for people interested in Wikipedia editing. As a result of this announcement, I got two new people who have contributed significantly and expect to continue contributing for the next few months:
+
+<ul>
+	<li>Jesse Clifton (updated page list <a href="http://github.com/vipulnaik/working-drafts/blob/master/jesse-list.mediawiki">here</a>) is primarily working on topics related to animal welfare and rights. His first article was a <a href="http://en.wikipedia.org/wiki/Timeline_of_animal_welfare_and_Rights">timeline of animal welfare and rights</a>. He has subsequently been working on articles on animal welfare and rights by country. I hope to share more exciting details of his work in my next quarterly review.</li>
+	<li>Sebastian Sanchez (updated page list <a href="http://github.com/vipulnaik/working-drafts/blob/master/sebastian-sanchez-list.mediawiki">here</a>)is currently working on topics related to global health. I hope to share exciting details about his progress next quarter.</li>
+</ul>
+
+There are also other editors who are getting started with editing, and I expect to see some of them (and/or other recruits) to make further progress during the quarter.
+
+<h4>Subject wikis</h4>
+
+<em>For background information, see my <a href="/subwiki">site page about the subject wikis</a>
+
+I did active work on the subject wikis for a few segments of a few hours, but not in any systematic way that would affect the overall level of content or change the experience of typical visitors. The subject wikis have been doing well traffic-wise, but this is not due to any additional effort on my part.
+
+<a href="http://groupprops.subwiki.org">Groupprops</a> got a total of 254,100 pageviews this quarter compared to 232,786 for the corresponding quarter last year. The seasonal pattern in traffic was very similar between quarters, so much so that it is visually striking when you look at the graphs in Google Analytics. <a href="http://market.subwiki.org">Market</a> declined (47,429 compared to 58,823) and <a href="http://calculus.subwiki.org">Calculus</a> stayed stable (56,258 versus 54,466).
+
+<h4>WikiHow</h4>
+
+<em>For background information, see my <a href="/wikihow">site page about WikiHow</a></em>
+
+I wrote two new WikiHow articles: <a href="http://www.wikihow.com/Use-Amazon-Route-53">How to Use Amazon Route 53</a> and <a href="http://www.wikihow.com/Use-Git-Effectively">How to Use Git Effectively</a>. The latter of these articles appears to be the fastest of my WikiHow articles in acquiring pageviews, though it's still early days to know just how far it will rise.
+
+<h4>EA Forum blog post making forecasts about GiveWell money moved</h4>
+
+In December 2015, I <a href="http://effective-altruism.com/ea/qs/givewell_money_moved_forecasts_and_implications/">published a blog post</a> in the Effective Altruism Forum with an analysis of the amounts of money moved to GiveWell top charities and forecasts about money moved for 2015, based on the information available at the time. I also published a follow-up blog post and some comments on my own posts. The actual money moved turned out to be at around the 90th percentile of my estimate, as I noted in a later update at the bottom of the post.
+
+<h4>Entertainment</h4>
+
+I have continued to watch the Korean TV series <a href="https://www.viki.com/tv/29411c-remember">Remember: War of the Son</a> on Viki, which is finishing up in February. Other Korean TV series I have been watching include <a href="https://www.viki.com/tv/29584c-madame-antoine">Madame Antoine</a>. Thanks to these TV series, I have picked up many words and phrases in Korean, and can generally understand a decent fraction (excluding some nuances) without subtitles if I am also watching the video alongside (so I can see people's facial expressions and other contextual cues).
+
+I also watched the Bollywood movie <a href="http://en.wikipedia.org/wiki/Jazbaa">Jazbaa</a>, which I later discovered was a remake of a Korean film <a href="http://en.wikipedia.org/wiki/Seven_Days_%28film%29">Seven Days</a> (something that is not quite surprising, given that some of the themes seemed distinctly reminiscent of the Korean TV series I had watched).
+
+I also found a blog, <a href="http://edramaclouds.wordpress.com/">E Drama Clouds</a> by Evelyn Lee, that offers high-quality commentary on Korean TV series.
+
+On the music front, I bought a few MP3 songs and listened to some more. My recent purchases include <a href="http://en.wikipedia.org/wiki/Hello_%28Adele_song%29">Hello</a>, <a href="https://en.wikipedia.org/wiki/Wake_Me_Up_%28Avicii_song%29">Wake Me Up</a>, and <a href="http://en.wikipedia.org/wiki/Dark_Horse_%28Katy_Perry_song%29">Dark Horse</a>.
+
+
+
