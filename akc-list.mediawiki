@@ -40,12 +40,13 @@ year.
 * Start by April 22, finish by April 24: Timeline of LinkedIn
 * Start by April 29, end by May 1: Timeline of Dropbox
 * Start by May 6, end by May 8: Coatue Management
+* Start by May 13, end by May 15: Maverick Capital
 
 (more weeks, months to be added).
 
 == Completed pages ==
 
-Total so far: $1280
+Total so far: $1315
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -65,7 +66,7 @@ Total so far: $1280
 * Timeline of LinkedIn $75
 * Timeline of Dropbox: $75
 * Coatue Management: $35
-
+* Maverick Capital: $35
 == Specific technologies ==
 
 * Facebook Live: Proposed bounty amount: $150 for a high-quality page completed by May 1. Bounty amount may reduce if the page is not completed by then. Get some initial references from the events related to live-streaming of Facebook videos in the timeline of Facebook, from August 2015 and January - March 2016, and then F8 conference.
@@ -101,11 +102,6 @@ retail page, as a reward for expanding your capability set.
 * Timeline of Forever 21: Forever 21 gets about 12K a month. Proposed bounty: $40
 
 * Timeline of Saks Fifth Avenue: Saks Fifth Avenue gets about 10K a month.  Proposed bounty: $35
-
-== Venture capital and angel investment firms and people ==
-
-
-* Maverick Capital: $35
 
 == Other concepts ==
 

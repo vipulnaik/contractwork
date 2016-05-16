@@ -1,0 +1,27 @@
+'''Systematic Alien Verification for Entitlements''' (SAVE) is a program managed by [[United States Citizenship and Immigration Services]] (USCIS), a branch of the [[U.S. Department of Homeland Security]] that facilitates lookups on the immigrantion and nationality status of individuals.<ref name=uscis-save>{{cite web|url = https://www.uscis.gov/save|title = SAVE|publisher = [[United States Citizenship and Immigration Services]]|accessdate = May 13, 2016}}</ref> It is an intergovernmental initiative designed to help federal, state, tribal, and local government agencies, or by a contractor acting on the agency's behalf, to determine eligibility for benefits, licenses or grants, government credentials, or to conduct background investigations.<ref name=save-pia>{{cite web|url = https://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_uscis_save.pdf|title = Privacy Impact Assessment for the Systematic Alien Verification for Entitlements (SAVE) Program|date = August 26, 2011|accessdate = May 13, 2016|publisher = [[U.S. Department of Homeland Security]]|last = Jackson|first = Janice|last2 = Hawkins|first2 = Donald|last3 = Callahan|first3 = Mary Ellen}}</ref><ref name=lii>{{cite web|url = https://www.law.cornell.edu/cfr/text/7/272.11|title = 7 CFR 272.11 - Systematic Alien Verification for Entitlements (SAVE) Program.|publisher = [[Legal Information Institute]]|accessdate = May 13, 2016}}</ref><ref name=uscis-telecon>{{cite web|url = https://www.dhs.gov/telecon-recap-immigration-status-verification-drivers-licenses-public-benefits-and-social-security|title = Telecon Recap: Immigration Status Verification for Drivers' Licenses, Public Benefits, and Social Security Cards: A Conversation with USCIS|publisher = [[U.S. Department of Homeland Security]]|accessdate = May 13, 2016}}</ref> It is one of two programs that uses the Verification Information System (VIS). The other program is the Electronic Employment Eligibility Verification Program, also known as [[e-verify]].<ref name=vis-pia>{{cite web|url = https://www.dhs.gov/sites/default/files/publications/privacy_pia_uscis_vis.pdf|title = Privacy Impact Assessment for the Verification Information System Supporting Verification Programs|date = April 1, 2007|accessdate = May 13, 2016|publisher = [[U.S. Department of Homeland Security]]|last = Gaffin|first = Elizabeth|last2 = Teufel III|first2 = Hugo}}</ref><ref name=vis-itpa>{{cite web|url = https://www.dhs.gov/xlibrary/assets/mgmt/itpa-uscis-vis2012.pdf|title = IT Program Assessment; USCIS -- Benefits Provision -- Verification Information System (VIS)/Employment Eligibility Verification (EEV)|date = March 31, 2012|accessdate = May 13, 2016|publisher = [[U.S. Department of Homeland Security]]}}</ref>
+
+== Permissible uses and users ==
+
+SAVE can be used by agencies of governments at any level in the United States, including:<ref name=save-pia/>
+
+* The federal government
+* State governments
+* Local governments (such as city and county governments)
+* Tribal governments
+
+A given agency is seligible to use SAVE only if determining the immigration and nationality status of individual is necessary for its work of one of these types:<ref name=save-pia/>
+
+# Determination of eligibility for a federal, state, or local public benefit
+# Issuing a license or grant
+# Issuing a government credential
+# Conducting a background investigation
+# Any other lawful purpose
+
+SAVE does not itself make determinations regarding the applicant's eligibility for a benefit or license.<ref name=save-pia/><ref>{{cite web|url = https://www.tdhca.state.tx.us/community-affairs/docs/SAVEWebinarSlides.pdf|title = Systematic Alien Verification for Entitlements (SAVE) Program|date = April 19, 2016|accessdate = May 13, 2016|publisher = Texas Department of Housing and Community Affairs}}</ref><ref name=ipc-save-factsheet>{{cite web|url = http://www.immigrationpolicy.org/just-facts/systematic-alien-verification-entitlements-save-program-fact-sheet|title = The Systematic Alien Verification for Entitlements (SAVE) Program: A Fact Sheet|publisher = [[Immigration Policy Center]]|accessdate = May 13, 2016}}</ref> Rather, it simply provides an easy way to pull information about the benefit or license applicant from a variety of government databases. As discussed later, the absence of matching records in SAVE does not imply that the applicant 
+
+In addition to these, any contractor of an agency of the above description is eligible to use SAVE if the task contracted out to them requires immigration and nationality lookups for one of the above reasons.
+
+== Procedure for usage ==
+== References ==
+
+{{reflist}}

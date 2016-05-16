@@ -2,14 +2,6 @@
 
 === New pages ===
 
-* B visa in lieu of other visas: Discuss B visa in lieu of H-1B, B visa in lieu of L visa, etc. Also mention discontinuance of B visa in lieu of student visas (forcing people to use M and F visas instead)
-
-Purpose: Helps solidify my understanding of the surrounding space to the H-1B
-
-Priority: High
-
-Status: In progress
-
 * W visa: Discuss this visa, that is part of some proposed immigration reform. Discuss the role of CGD and other players in shaping the potential visa. Compare with H-2B.
 
 Purpose: Be better able to comment on grants to CGD, also on low-skilled immigration stuff to US in general
@@ -41,15 +33,12 @@ Purpose: Provide a better understanding of "all" the H-1 visas
 Priority: Low
 
 Status: Not started
+
 === Improvements to existing pages ===
 
 * Immigration Innovation Act of 2015: How I need to improve it: Discuss more of its provisions, where and how it got stuck. Also discuss criticism by John Miano of CIS.
 
 Purpose: Help readers (and me) get a better understanding of various current proposals and where they stand.
-
-* F visa: Add more data on current usage patterns, by country, education level, and university, for initial I-20s, F visas issued, entries at ports, etc.
-
-Purpose: Background research for my posts on the student visa. Also, helps readers better understand how the F visa is used in practice.
 
 * Form I-94: Explain more clearly things like:
 
