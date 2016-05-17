@@ -1,4 +1,4 @@
-Total due: $530
+Total due: $615
 
 == Completed pages ==
 
@@ -11,3 +11,5 @@ Total due: $530
 * Timeline of senescence research: $100
 
 * Rockefeller Sanitary Commission: $30
+
+* Timeline of healthcare in China: $85
