@@ -1,0 +1,166 @@
+Response to inquiry about doing bootcamps based on VWP-eligibility (based on ESTA authorization).
+
+ Quick summary of US government agencies/terminology:
+
+Agencies:
+
+- U.S. Customs and Border Protection (CBP) (website: cbp.gov) is
+  responsible for controlling entry and exit at ports of entry
+  (airports and sea ports). The officer who stamps your passport is
+  from CBP. They are also responsible for border security/enforcement
+  at land and sea borders but that doesn't concern you.
+
+- The U.S. Department of State (website: state.gov) is responsible for
+  the issuance of visas. All consulates and embassies are under this
+  department, and visas are issued by consular officers.
+
+- U.S. Citizenship and Immigration Services (USCIS) (website:
+  uscis.gov) handles work authorizations necessary in order to be able
+  to apply for work visas. It also handles permanent residency,
+  citizenship and change or extension of nonimmigrant status in the
+  United States. You probably won't have to deal with USCIS.
+
+- U.S. Department of Homeland Security (DHS) (website: dhs.gov) is the
+  parent agency under which USCIS, CBP, and U.S. Immigrations and
+  Customs Enforcement (ICE) operate. DHS is separate from Department
+  of State, but they coordinate with each other for various purposes.
+
+Documents:
+
+- Visa: This is a document (put on a page of your passport) issued by
+  a consular officer (under the U.S. Department of State) that gives
+  you permission to seek admission to the United States. The visa
+  specifies the type of visa (a letter, usually followed by a number),
+  the start date, the expiration date, and whether the visa is
+  single-entry or multiple-entry. It can be used to seek admission to
+  the United States.
+
+- B-1 visa: Visa for business (including attending workshops and
+  conferences; does not allow work or "study")
+
+- B-2 visa: Visa for tourism/pleasure visits
+
+- B-1/B-2 visa: Visa that allows both B-1 and B-2 activities
+
+- Form I-94: This is a document issued to you by CBP upon landing and
+  being admitted to the United States. This specifies the maximum
+  duration of your stay and the status in which you are admitted. As
+  long as you stay within that status (satisfying all its
+  requirements) and depart before the end date, you are good. Note
+  that whereas the visa expiration date governs until when you can
+  enter, the Form I-94 expiration date covers until when you can
+  stay. Also, whereas a single visa can be used for multiple entries,
+  Form I-94 is reissued every time you re-enter, and only after you
+  are successfully admitted.
+
+- Visa Waiver Program: A program whereby people from a few countries
+  who have not previously had a visa denied to him can travel to the
+  US for brief periods of time. Activities permitted are a weaker
+  subset of those allowed under the B visa. Those entering on VWP do
+  NOT get Form I-94; they previously got Form I-94W but this has been
+  discontinued.
+
+- Electronic System for Travel Authorization (ESTA): An electronic
+  system you need to go through in order to engage in VWP travel. Note
+  that even with ESTA, you can no longer use VWP for travel if you
+  have ever been denied a visa to the US.
+
+- Form I-539: Used to extend a status within the US if you are staying
+  beyond the duration specified on the I-94. Can be used for B visa.
+
+References worth reading for your situation:
+
+https://www.avvo.com/legal-answers/how-can-i-attend-a-coding-bootcamp-in-the-us--as-a-2199529.html discusses somebody who actually asked CBP this question; some brief advice from immigration lawyers
+
+https://www.quora.com/Did-anybody-as-a-foreigner-to-the-U-S-ever-have-trouble-entering-the-country-to-attend-a-coding-boot-camp-using-the-Visa-Waiver-Program (references the Avvo discussion and has some extra detail; see also the Quora related questions
+
+
+What visa to use to enter (relevant US government agency: US consulate
+or embassy in your country, that is under the U.S. Department of
+State):
+
+* You are not legally allowed to attend a bootcamp if you entered
+  using the VWP.
+
+* If the bootcamp is at a SEVP-certified institution and it is willing
+  to sponsor your M-1 (i.e., issue you an I-20) you can enter on a M-1
+  visa.
+
+* Otherwise, the best option is to obtain a B-1 visa. When obtaining
+  the B-1 visa, you will need to address the following:
+
+- The duration of the bootcamp (the B-1 may be granted only for that duration)
+- Proof that you got in, and that the bootcamp is legit
+- Proof of strong home ties
+- MOST IMPORTANT: Evidence that you will not seek employment in the
+  United States. In particular, I think you might need to demonstrate
+  something along the lines that the skills the bootcamp is training
+  for can be used for jobs in your home country, and that you are
+  interested in those jobs. (NOTE: It may be the case that you later
+  apply for a job to the US. The point is just that seeking employment
+  in the US is not one of your intentions for this current trip). But
+  don't start talking about this of your own accord; just be ready to
+  answer questions on these lines if they come up.
+
+* Instead of a B-1 visa, you may be issued a dual B-1/B-2
+  visa. However, make sure that you do NOT get a pure B-2 visa. B-1 is
+  for business travel, B-2 is for pleasure and does not allow you to
+  attend bootcamps.
+
+* If your B-1 visa application is rejected, then you will never be
+  able to enter on a VWP. However, you should (with relative ease) be
+  able to get another B visa, as long as you did not commit any fraud
+  or misrepresentation in your application. The typical B visa is
+  valid for multiple entry for about 10 years (maximum validity period
+  varies based on the country's reciprocity agreement with the US).
+
+* Make sure that the B-1 visa you get is a multiple-entry visa, so
+  that you can enter twice using the same visa.
+
+Entry (relevant US government agency: US Customs and Border
+Protection, Office of Field Operations)
+
+* Make sure to enter your relevant information correctly 72 hours
+  prior to departure with the airline.
+
+* At the time of entry, make sure you are admitted using the B visa,
+  and NOT via ESTA.
+
+* Don't carry any materials in your luggage that make you look like
+  you are coming as a job-seeker (like, don't carry books on how to
+  crack the coding interview, or how to find a job, etc.)
+
+* The CBP officers may have similar concerns as the consular
+  officer. Answer honestly and don't use trigger words (like don't say
+  you are enrolling in "school" or you are trying to find
+  "work"). Stick to the standard language for B-1 visa (purpose of
+  trip: business. Your B-1 entry should fall under "Participating in
+  scientific educational, professional, or business conventions,
+  conferences, or seminars" as far as I can make out).
+
+* You should be able to present to the CBP officer all the evidence
+  that you presented when getting the visa, so keep all your documents
+  in hand baggage. Most likely you won't need it.
+
+* Keep the phone numbers of some US contacts available so that you can
+  get in touch with them if you get in extended interrogation.
+
+For re-entry:
+
+* Same points as above. You should probably get another letter from
+  the bootcamp saying that you are continuing to attend it, etc.
+
+Later job search:
+
+* In extreme cases it is possible to change status from B-1 to a work
+  status while in the US but the extreme cases probably don't apply to
+  you. Therefore the most likely way you'll get a job in the US is if
+  you get a job offer to start on H-1B in a future year. What that
+  would entail is that you return to your home country and next year,
+  your employer applies for a H-1B on your behalf. Obviously, this
+  isn't an outcome you should rely on, and should not be the purpose
+  of your trip.
+
+* If you're trying to do anything trickier you'll need to consult an
+  immigration lawyer.
+
