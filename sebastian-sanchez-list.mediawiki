@@ -1,4 +1,4 @@
-Total due: $615
+Total due: $710
 
 == Completed pages ==
 
@@ -13,3 +13,5 @@ Total due: $615
 * Rockefeller Sanitary Commission: $30
 
 * Timeline of healthcare in China: $85
+
+* Timeline of healthcare in India: $95
