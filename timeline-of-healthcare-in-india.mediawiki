@@ -1,0 +1,156 @@
+This is a '''timeline of [[healthcare in India]]'''. Major events such as crises, policies and organizations are included.
+
+==Big Picture==
+{| class="sortable wikitable"
+! Year/period !! Event 
+|-
+|Prehistory||The knowledge of the medicinal value of plants and other substances and their uses goes back to the time of the earliest settlers. Medical knowledge evolves through trial and error and exchange of know-how between diverse communities and regions.<ref name=Overview-of-Indian-healing-traditions/>
+|-
+|Traditional medicine period||[[Ayurveda]], the science of life, has been the traditional system of healthcare in India for more than 5000 years. This medical system is well established around 2500 to 600 BC, when it evolves into 2 schools: the School of Physicians and the School of Surgeons.<ref name=ayurveda-a-historical-perspective>{{cite journal |author=Mishra L, Singh BB, Dagenais S. |date= |title=Ayurveda, a historical perspective and principles of the traditional healthcare system in India. |url=http://www.ncbi.nlm.nih.gov/pubmed/11253415 |journal= |publisher=PubMed |volume= |issue= |pages= |doi= |pmc= |pmid=11253415 }}</ref> 
+|-
+|1600-1947|| [[British Empire|British colonial]] period. [[East India Company]] is established. Many British physicians assume broader scholarly roles and European medicine comes to be looked upon as the dominant medical knowledge system. British official colonial policy marginalizes indigenous medicine to secondary status. Notwithstanding European medicine becomes the official [[Health system|health care system]], Ayurvedic colleges are still created. Ayurveda education becomes integrated with western concepts of healthcare.<ref name=Overview-of-Indian-healing-traditions/>
+|-
+|1947-onward||Post-independence period. The government of India makes efforts to recognize Ayurveda, [[Siddha]] and [[Unani]] as being on par with [[medicine|scientific medicine]]. Nevertheless, the general trend increasingly complies with the norms of modern medicine. In traditional medical schools the vocabulary and diagnostic tools of modern medicine replace traditional terms, and techniques and students increasingly become unfamiliar with classical references and methodologies.<ref name=Overview-of-Indian-healing-traditions/>
+|-
+|1980-onward|| Numerous government subsidies allow the introduction of private health providers. Also opening up of the market in the 90s further gives impetus to the development of the private health sector in India.<ref>Baru,Rama V(2010): “Public Sector Doctors in an Era of Commercialisation” in Sheikh and A George(ed)Health Providers in India, on the Frontlines of Change(New Delhi: Routledge)81-96.</ref> 
+|-
+|21th century||Today, the health status of India is still on a [[developing country|developing]] level. The [[private sector]] is the dominant healthcare provider. Private chains of healthcare providers are innovating very rapidly, offering high quality treatment at very low cost. As India incorporates world class technology and training, and low cost of service, a trend of [[medical tourism]] is developing in and strengthens toward the last years.<ref>{{cite journal |author=Amit Sengupta |date= |title=The private health sector in India |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1285083/ |journal= |publisher= |volume= |issue= |pages= |doi=10.1136/bmj.331.7526.1157 |pmc=1285083 |pmid= }}</ref><ref>{{cite web|url=https://globenewswire.com/news-release/2016/05/17/840571/0/en/Favorable-exchange-rate-boost-the-medical-tourism-industry-MRRSE.html||title=Favorable exchange rate boost the medical tourism industry: MRRSE}}</ref>  
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year/period !! Type of event !! Event !! Location
+|-
+|7000 [[Common Era|BCE]] ||Origin|| Medical interventions such as dentistry and [[trepanation]] are practiced as early as this time.<ref name=Overview-of-Indian-healing-traditions/>||[[Indian subcontinent]]
+|-
+|5000 BCE||Development||Origin of [[Ayurveda]] medicine, when it originates as an oral tradition.<ref name="T.S.S. Dikshith 2008 16">{{cite book|title=Safe Use of Chemicals: A Practical Guide|author=T.S.S. Dikshith|publisher=CRC Press|year=2008|page=16}}</ref><ref name="Elizabeth R. Mackenzie, Birgit Rakel 2006 215">{{cite book|title = Complementary and Alternative Medicine for Older Adults: A Guide to Holistic Approaches to Healthy Aging|author = Elizabeth R. Mackenzie, Birgit Rakel|publisher = Springer|year = 2006|page = 215|isbn = 9780826138064}}</ref>  ||
+|-
+|2500-1700 BCE||Development||Origin of [[Siddha medicine]].<ref>{{cite web|url=http://www.britannica.com/topic/Siddha-medicine|title=Siddha}}</ref>||[[Tamilakam]]
+|-
+|600 BCE||Development||Ayurveda is branched into internal medicine; pediatrics; psychiatry; surgery; eye, ear, nose, and throat; toxicology; geriatrics; and eugenics/aphrodisiacs.
+|-
+|From 8th century [[Common era|CE]]||Development|| Texts called ''[[Nighantus]]'' dealing exclusively with the [[materia medica]] of Ayurveda are composed. Many of these works help to enlarge the repertoire of medicinal substances by incorporating knowledge of local practitioners and from foreign sources. A few well-known ''Nighantus'' are ''Madanapala Nighantu'', ''Bhavaprakasha Nighantu'', ''Dhanvantari Nighantu'' and ''Sodhala Nighantu''.<ref name=Overview-of-Indian-healing-traditions/>||
+|-
+|12th century CE||Development||[[Unani medicine]] system is introduced in India via [[Rome]]. It integrates with other systems such as Ayurveda and [[Yoga]].<ref name=about-unani>{{cite web|url=http://healthmartindia.com/about-unani|title=About Unani}}</ref>||
+|-
+|1600s||Development||Introduction of western medicine in India.  First medical officers arrive along with the [[British East India Company]]'s first fleet as ship's surgeons.<ref name=Public-Health-in-British-India>{{cite journal |author=Muhammad Umair Mushtaq |date= |title=Public Health in British India: A Brief Account of the History of Medical Services and Disease Prevention in Colonial India |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763662/ |journal= |publisher=US National Library of Medicine |volume= |issue= |pages= |doi=10.4103/0970-0218.45369 |pmc=2763662 |pmid= }}</ref>||
+|-
+|1664||Organization (hospital)|| The [[Government General Hospital|Madras General Hospital]] is the first hospital opened in India.<ref name=Public-Health-in-British-India/><ref>{{cite web|url=http://www.mmc.tn.gov.in/|title=Government General Hospital}}</ref>||[[Chennai]]
+|-
+|1707||Organization (hospital)||The [[Presidency General Hospital]] is formed.<ref name=Public-Health-in-British-India/><ref>{{cite web|url=http://www.ipgmer.gov.in/|title=Presidency General Hospital}}</ref>||[[Calcutta]]
+|-
+|1802||Organization (government body)||A Superintendent General of Vaccination in India is appointed after the discovery of the small pox vaccine.<ref name=Public-Health-in-British-India/>||
+|-
+|1817||Crisis|| [[1817–24 cholera pandemic|First cholera pandemic]] originates in the [[Ganges delta|Ganges River Delta]].<ref name=cholera-pandemics>{{cite web|url=http://www.cbc.ca/news/technology/cholera-s-seven-pandemics-1.758504|title=Cholera pandemics}}</ref>||
+|-
+|1829||Crisis||[[1829–51 cholera pandemic|Second cholera pandemic]] originates in the [[Ganges delta|Ganges River Delta]].<ref name=cholera-pandemics/>||
+|-
+|1835||Organization (medical school)||The [[Calcutta Medical College]] is established.<ref name=Public-Health-in-British-India/>||[[Calcutta]] 
+|-
+|1852||Crisis||[[1852–60 cholera pandemic|Third cholera pandemic]] originates in the [[Ganges delta|Ganges River Delta]].<ref name=cholera-pandemics/>|| 
+|-
+|1854||Development||The government of India agrees to supply medicines and instruments to the growing network of minor hospitals and dispensaries. Government Store Depots are established in cities.<ref name=Public-Health-in-British-India/>|| [[Calcutta]], [[Madras]], [[Bombay]], [[Mian Mir]], and [[Rangoon]].
+|-
+|1858||Organization (asylum)||Lunate asylums are established for insane persons.<ref name=Public-Health-in-British-India/>||
+|-
+|1860||Organization (medical school) ||The [[King Edward Medical University|Lahore Medical School]] is established.<ref name=Public-Health-in-British-India/>||[[Lahore]] (now in [[Pakistan]])
+|-
+|1863||Crisis||[[1863–75 cholera pandemic|Fourth cholera pandemic]] originates in the [[Ganges delta|Ganges River Delta]].<ref name=cholera-pandemics/>|| 
+|-
+|1869||Development||A Public Health Commissioner and a Statistical Officer are appointed to the Government of India.<ref name=Public-Health-in-British-India/>||
+|-
+|1870||Organization (government body)||A central sanitary department is formed.<ref name=Public-Health-in-British-India/>||
+|-
+|1873||Policy||The '''Birth and Death Registration Act''' is passed.<ref name=Public-Health-in-British-India/>||
+|-
+|1880||Policy||An act is passed for the compulsory vaccination of children in municipalities and cantonments. [[Smallpox]] is the main target during this period, although vaccinations are also carried out for plague and other diseases.<ref name=Public-Health-in-British-India/>||
+|-
+|1881||Crisis||[[1881–96 cholera pandemic|Fifth cholera pandemic]] originates in India.<ref name=cholera-pandemics/>||[[Bengal]]
+|-
+|1896||Organization (government body) ||The Plague Commission is constituted.<ref name=Public-Health-in-British-India/> ||
+|-
+|1896||Crisis|| The [[Bombay plague epidemic]] breaks out. It spreads across all of India and kills at least 2 million people.<ref name=Public-Health-in-British-India/> || 
+|-
+|1897||Policy||'''The Epidemic Diseases Act''' is passed. The Governor General of India confers special powers upon local authorities to implement the necessary measures for control of epidemics.<ref name=Public-Health-in-British-India/> ||
+|-
+|1899||Crisis||[[1899–1923 cholera pandemic|Sixth cholera pandemic]] originates in India.<ref name=cholera-pandemics/>||
+|-
+|1912||Organization (government body)||The Government of India sanctions the appointment of Deputy Sanitary Commissioners and Health Officers with the local bodies and releases funds for sanitation.<ref name=Public-Health-in-British-India/>||
+|-
+|1930||Organization (health training)||The [[All India Institute of Hygiene and Public Health|All-India Institute of Hygiene and Public Health]] is established.<ref name=Public-Health-in-British-India/>|| [[Calcutta]]
+|-
+|1939||Organization (health training)||The first Rural Health Training Center is established near Calcutta.<ref name=Public-Health-in-British-India/>||[[Singur]]
+|-
+|1939||Organization||The [[Tuberculosis Foundation of India]] is established.<ref name=Public-Health-in-British-India/>|| 
+|-
+|1940||Policy||'''The Drugs Act''' is passed and drugs are made under the control of the government for the first time.<ref name=Public-Health-in-British-India/>||
+|-
+|1948||Program launch (healthcare coverage)||The [[Employees' State Insurance]] Scheme (ESIS) is launched with the objective of achieving universal health coverage. Targeted at employees with income less than Rs 15000/month and dependents.<ref name=healthcare-in-india/>||
+|-
+|1950||Policy||'''The Insurance Amendment Act''' leads to the Government  of  India  deciding  to  nationalize the insurance  business.<ref name=healthcare-in-india>{{cite web|url=http://assets.ce.columbia.edu/pdf/actu/actu-india.pdf|title=Healthcare in India}}</ref>||
+|-
+|1954||Program launch (healthcare coverage)|| The [[Central Government Health Scheme]] (CGHS) is launched with the objective of achieving universal health coverage in government employees and families.<ref name=healthcare-in-india/>||
+|-
+|1964||Organization (government body)||A government body for setting norms for the manufacture and the control of the quality of traditional medicinal preparations is formed.<ref name=Overview-of-Indian-healing-traditions>{{cite web|url=https://www.ncbs.res.in/HistoryScienceSociety/content/overview-indian-healing-traditions|title=OVERVIEW OF INDIAN HEALING TRADITIONS}}</ref>
+|-
+|1970||Program launch (nutrition)||The [[Government of India]] launches the [[Balwadi Nutrition Programme]] to provide [[food supplements]] at [[Balwadi]]s to children of the age group 3–6 years in rural areas.<ref name=nihfw>{{cite web|title=Balwadi Nutrition Programme|url=http://www.nihfw.org/NDC/DocumentationServices/NationalHealthProgramme/BALWADINUTRITIONPROGRAMME.html|publisher=National Institute of Health and Family Welfare|accessdate=20 November 2012}}</ref><ref name=fao>{{cite web|title=Important programmes to combat malnutrition in India|url=http://www.fao.org/docrep/X0172E/x0172e08.htm|publisher=Food and Agricultural Organisation|accessdate=20 November 2012}}</ref>
+|-
+|1970||Policy||The government of India passes the '''Indian Medical Central Council Act''' to standardize Ayurvedic teaching institutions, their curriculum and their diplomas.<ref name=Overview-of-Indian-healing-traditions/>||
+|-
+|1975||Program launch (nutrition, child health)|| The [[Integrated Child Development Services]] (ICDS) scheme is launched with the purpose of improving nutrition and health status in children.<ref name=healthcare-in-india/>||
+|-
+|1983||Policy||The National Health Policy is endorsed by the [[Parliament of India]].<ref name="Kishore2005">{{cite book|author=Jugal Kishore|title=National health programs of India: national policies & legislations related to health|url=https://books.google.com/books?id=jPjaAAAAMAAJ|accessdate=2 September 2012|year=2005|publisher=Century Publications|isbn=978-81-88132-13-3}}</ref>||
+|-
+|1985||Program launch (immunization)||The government of India launches the [[Universal Immunization Programme]], consisting in massive vaccination for nine diseases: [[tuberculosis]], [[diphtheria]], [[pertussis]] (whooping cough), [[tetanus]],  [[poliomyelitis]], [[measles]], [[Hepatitis B]], [[Diarrhoea]], [[Japanese Encephalitis]] and [[Pneumonia]].<ref>{{cite web|url=http://mohfw.nic.in/NRHM/Immunization/Routine%20Immunization%20Programme_Brief%20status.pdf|title=Immunization programme}}</ref><ref>{{cite web|last=Patra|first=Nilanjan|title=UNIVERSAL IMMUNIZATION PROGRAMME IN INDIA: THE DETERMINANTS OF CHILDHOOD IMMUNIZATION|url=http://www.isical.ac.in/~wemp/Papers/PaperNilanjanPatra.pdf|publisher=Indian Statistical Institute, Calcutta|accessdate=1 February 2012|page=1|format=PDF}}</ref>||
+|-
+|1994||Crisis||[[1994 plague in India|1994 plague]]. [[bubonic plague|Bubonic]] and [[pneumonic plague]] break out.<ref>{{cite journal |title=International Notes Update: Human Plague—India, 1994 |journal=MMWR Morb. Mortal. Wkly. Rep. |volume=43 |issue=41|pages=761–762 |date=21 October 1994|pmid=7935308 |url=http://www.cdc.gov/mmwr/preview/mmwrhtml/00032992.htm|accessdate=26 December 2015}}</ref>||South-central and southwestern [[India]]
+|-
+|1994||Crisis||[[1994 plague epidemic in Surat|Pneumonic plague epidemic in Surat]] breaks out.<ref>{{cite journal|last1=Dutt|first1=Ashok|title=Surat Plague of 1994 Re-Examined|journal=Review|date=July 2006|volume=37|issue=4|pages=755–760|url=http://www.tm.mahidol.ac.th/seameo/2006_37_4/21-3658.pdf|accessdate=31 October 2015}}</ref>|| [[Gujarat]]
+|-
+|1995||Organization (government body)||The [[Ministry of AYUSH|Department of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy (AYUSH)]] is created as a governmental body in India purposed with developing education and research in ayurveda, yoga, [[naturopathy]], [[unani]], [[siddha]], homoeopathy, and other alternative medicine systems.<ref name=Overview-of-Indian-healing-traditions/>||
+|-
+|1995||Program launch (immunization)||[[Pulse Polio]] program is launched by the government to eradicate [[poliomyelitis]] by vaccinating all children under the age of five years.<ref>{{cite web|url=http://www.nhp.gov.in/pulse-polio-programme_pg|title=pule polio}}</ref>|| 
+|-
+|1997||Program launch (immunization)||The [[Revised National Tuberculosis Control Program]] (RNTCP) is launched by the government with aims at achieving universal access to [[tuberculosis]] control services.<ref name=NSP2012-13>{{cite book|title=National Strategic Plan for Tuberculosis Control, 2012-2017|date=Aug 2012|publisher=Central TB Division, Ministry of Health and Family Welfare|url=http://tbcindia.gov.in/WriteReadData/l892s/3525791619NSP%202012-2017.pdf|accessdate=22 November 2015}}</ref> ||
+|-
+|2000||Policy (healthcare coverage)||The '''Insurance Regulatory and Development Act (IRDA)''' opens up the market with the invitation for registration applications.<ref name=healthcare-in-india/>||
+|-
+|2000||Report||The [[World Health Organization]]'s global healthcare profile ranks India’s healthcare system 112th out of 190 countries.<ref name=healthcare-in-india/>||
+|-
+|2000–present||Organization (hospital chain)||[[Narayana Health]] system is opened as a multi-specialty hospital chain by Dr. [[Devi Shetty]] under the guidance of the [[Asian Heart Foundation]]. Today it has 31 hospitals in 19 locations. It is one of India's largest and considered the world's most economical<ref>{{cite web|url=http://www.hospitaldictionary.com/narayana-multispeciality-hospital|title=Narayana Multispeciality Hospital}}</ref> healthcare providers with a reputation for their high quality.<ref name="ForbesIndia">{{cite web|url=http://forbesindia.com/article/philanthropy-awards-2013/narayana-health-providing-worldclass-treatment-to-the-poor/36645/1|work=Online webpage of Forbes India|title=Philanthropy Awards 2013|accessdate=2013-12-06}}</ref><ref name="HFII">{{cite web|url=
+http://www.health.org.uk/blog/quality-affordability-and-scale-in-healthcare-learning-from-narayana/|work=Online webpage of The Health Foundation Inspiring Improvement|title=Quality, affordability and scale in healthcare: learning from Narayana|accessdate=2013-12-06}}</ref> ||[[Bengaluru]], [[Ahmedabad]], [[Davangere]], [[Dharwad]], [[Bellary]], [[Berhampore]], [[Jaipur]], [[Jamshedpur]], [[Katra]], [[Kolar]], Kolkata, [[Mahuva]], [[Mysore]], [[Palanpur]], [[Raipur]], [[Shimoga]], [[Durgapur]], [[Guwahati]].
+|-
+|2002-2005||Program launch (lifestyle diseases)||The [[Tobacco cessation clinic]] program (later renamed as Tobacco Cessation Centers) is launched by the [[World Health Organization]] (WHO) and the Ministry of Health of India. Until 2005, 18 facilities are created. The services offered at the clinics include individual intervention in the form of behavioral counseling, medication, and [[nicotine replacement therapy]]<ref>{{cite journal |author=K. R. Thankappan |date= |title=Tobacco cessation in India: A priority health intervention |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4078486/ |journal= |publisher= |volume= |issue= |pages= |doi= |pmc=4078486 |pmid= }}</ref>|| [[Anand, Gujarat|Anand]], [[Bhopal]], [[Bangalore]], [[Chandigarh]], [[Chennai]], [[Cuttack]], Delhi, [[Goa]], [[Jaipur]], [[Lucknow]], [[Mumbai]], and [[Patna]], [[Mizoram]], [[Guwahati]], [[Kolkata]], [[Hyderabad]] and [[Trivandrum]]  
+|-
+|2004||Program launch (healthcare coverage)||The [[Deen Dayal Antyoday Upchar Yojna]] scheme is launched by the government of [[Madhya Pradesh]] to provide free health care to poor families.<ref>{{cite web|url=http://www.nhp.gov.in/health-programmes/state-health-programmes/madhya-pradesh|title=Deen Dayal Antyoday Upchar Yojna}}</ref>||[[Madhya Pradesh]]
+|-
+|2005||Program launch (healthcare coverage)||The [[National Rural Health Mission]] (NRHM) is launched by the government of India.<ref>Umesh Kapil and Panna Choudhury [http://medind.nic.in/ibv/t05/i8/ibvt05i8p783.pdf National Rural Health Mission (NRHM): Will it Make a Difference?] Indian Pediatrics Vol. 42 (2005): 783</ref>||
+|-
+|2005||Program launch (healthcare coverage)||[[Accredited Social Health Activist]] (ASHAs) is launched as a program of [[community health workers]] instituted by the [[Ministry of Health and Family Welfare]].<ref>{{citation |publisher=[[Ministry of Health and Family Welfare]] (MoHFW) |date=2005 |title=ASHA |url=http://mohfw.nic.in/NRHM/asha.htm }}</ref> ||
+|-
+|2005||Program launch (child mortality)||The [[Janani Suraksha Yojana]] scheme is launched by the [[Government of India]] with aims at decreasing the neo-natal and maternal [[deaths]] happening in the country by promoting [[institutional]] delivery of babies.<ref>{{cite web|title=National Health Mission, Government of India|url=http://nrhm.gov.in/nrhm-components/rmnch-a/maternal-health/janani-suraksha-yojana/background.html|accessdate=11 March 2015}}</ref> ||
+|-
+|2007||Program launch (healthcare coverage)||The [[Government of Andhra Pradesh]] launches the [[Aarogyasri|Aarogyasri program]] in order to provide no cost coverage of hospitalization for all those below the poverty line.<ref>{{cite web|url=http://accessh.org/project/toward-universal-hospital-coverage-the-aarogyasri-health-insurance-program-of-andhra-pradesh/|title=Toward Universal Hospital Coverage: The Aarogyasri Health Insurance Program of Andhra Pradesh}}</ref>||[[Andhra Pradesh]] 
+|-
+|2009||Program launch (healthcare coverage)||The [[Rashtriya Swasthya Bima Yojana]] (RSBY) scheme is launched with the objective of providing affordable healthcare to the poor.<ref name=healthcare-in-india/>||
+|-
+|2011||Program launch (healthcare coverage)||The [[National Programme for the Health Care of the Elderly]] (NPHCE) scheme is launched with the objective of providing the elderly an easy access to primary healthcare.<ref name=healthcare-in-india/>||
+|-
+|2014||Crisis||[[2014 Odisha jaundice outbreak|Odisha jaundice outbreak]]. Mainly [[Hepatitis E]] and also [[Hepatitis A]] kill at least 36 people.<ref>{{cite news|title=Jaundice Resurfaces, Claims 2 More|url=http://www.newindianexpress.com/states/odisha/Jaundice-Resurfaces-Claims-2-More/2015/01/03/article2601550.ece|accessdate=7 January 2015|work=[[The New Indian Express]]|date=3 January 2014}}</ref> ||[[Odisha]], [[Bolangir district]], [[Cuttack]], [[Khurda]] and [[Jajpur]]  
+|-
+|2014||Program launch (immunization)||[[Mission Indradhanush]] is launched by the [[Ministry of Health and Family Welfare]] with the purpose of immunizing all children against seven vaccine preventable diseases, namely [[diphtheria]], [[pertussis]], [[tetanus]], [[polio]], [[tuberculosis]], [[measles]] and [[hepatitis B]] by 2020.<ref>{{cite web|url=http://indiatoday.intoday.in/education/story/union-government-launched-health-mission--mission-indradhanush/1/408944.html|title=Mission Indradhanush}}</ref>||
+|-
+|2014||Program launch (immunization)||[[TB-Mission 2020]] is launched by the [[Government of India]] with the purpose of eliminating tuberculosis from the country in 2020.<ref>[http://pib.nic.in/newsite/PrintRelease.aspx?relid=110883 Dr Harsh Vardhan announces India’s “TB-Mission 2020”]</ref>
+|-
+|}
+
+==See also==
+* [[Health in India]]
+* [[Healthcare in India]]
+
+==References==
+{{Reflist}}
+
+{{Uncategorized|date=May 2016}}
