@@ -1,4 +1,4 @@
-Total so far: $1642 ($1044 paid, $598 payment pending)
+Total so far: $1662 ($1044 paid, $618 payment pending)
 
 == Completed pages ==
 
@@ -28,7 +28,7 @@ Total so far: $1451 ($933 paid, $518 payment pending)
 
 === Non-page payments ===
 
-Total so far: $191 ($111 paid, $80 payment pending)
+Total so far: $211 ($111 paid, $100 payment pending)
 
 * stats.grok.se -> Wikimedia API fix: $80
 
@@ -41,6 +41,10 @@ Total so far: $191 ($111 paid, $80 payment pending)
 * Wasted effort on timeline of mental health, after discovering that a similar page on timeline of psychiatry exists: $10
 
 * Monthly update of Open Phil and Good Ventures grant lists: $50
+
+* Disease Control Priorities Project reference cleanup, page
+  restructuring, more info on specific reports: $20 (more once DCP1 is
+  expanded)
 
 == Global public health and related investigation ==
 
