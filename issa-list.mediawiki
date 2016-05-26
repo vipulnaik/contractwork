@@ -48,9 +48,11 @@ Total so far: $211 ($111 paid, $100 payment pending)
 
 == Global public health and related investigation ==
 
-=== Other new pages ===
+=== New pages ===
 
-* Child survival revolution: $50
+* Health systems strengthening (abbreviated HSS): $50 (tentative, based on assessment of research needed and expected page size; could go higher)
+
+* International Decision Support Initiative: $30 (tentative, based on assessment of research needed and expected page size; could go higher)
 
 * National Conference of Charities and Correction: $25
 

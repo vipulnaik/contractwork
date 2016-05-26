@@ -1,4 +1,4 @@
-Total due: $740
+Total due: $865
 
 == Completed pages ==
 
@@ -15,3 +15,5 @@ Total due: $740
 * Timeline of healthcare in China: $85
 
 * Timeline of healthcare in India: $125 (original $95, extra $30 for adding in some events)
+
+* Timeline of influenza: $125
