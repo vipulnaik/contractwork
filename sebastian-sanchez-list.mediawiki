@@ -1,4 +1,4 @@
-Total due: $865
+Total due: $965
 
 == Completed pages ==
 
@@ -12,8 +12,10 @@ Total due: $865
 
 * Rockefeller Sanitary Commission: $30
 
-* Timeline of healthcare in China: $85
+* Timeline of healthcare in China: $85 (more will be added as more stuff gets added to the timeline)
 
 * Timeline of healthcare in India: $125 (original $95, extra $30 for adding in some events)
 
 * Timeline of influenza: $125
+
+* Timeline of healthcare in Japan: $100 (more will be added as more stuff gets added to the timeline)
