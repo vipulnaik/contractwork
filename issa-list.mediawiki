@@ -66,10 +66,6 @@ Also, other red links from the timeline of global health. Let's discuss before w
 
 * On Form 1099-MISC, add more discussion of filing methods for Form 1099-MISC, and include information about support by payroll software (Gusto formerly ZenPayroll, ADP, Paychex) and tax compliance software (like TurboTax). Pay: $10
 
-* On Form 1040, discuss the OMB controversy: https://en.wikipedia.org/wiki/Tax_protester_administrative_arguments#The_Paperwork_Reduction_Act_.28OMB_control_number.29_argument Pay: $5
-
-* On Form 1040, discuss the relationship with state tax returns in more detail. Pay: $5
-
 * Restructure IRS tax forms page after finishing up the various pages on other forms, to make it better use the fact that there now exist pages on the individual tax forms. Pay: $15
 
 === New pages ===

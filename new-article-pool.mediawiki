@@ -1,7 +1,4 @@
-List of new articles that any interested author can work on. A
-parenthetical "(reserved)" means that an author has already announced
-that he or she is working on it. If that author later decides not to
-continue with it, the page will be returned to the general pool.
+List of new articles that any interested author can work on. A parenthetical "(reserved)" means that an author has already announced that he or she is working on it. If that author later decides not to continue with it, the page will be returned to the general pool.
 
 == New pages ==
 
@@ -10,3 +7,19 @@ continue with it, the page will be returned to the general pool.
 * Screening Partnership Program: $35: This is a program where the TSA partners with private operators to carry out screening at airports. The Wikipedia page should discuss the history, what airports currently use it and what ones expansion is being considered to, any TSA or DHS evaluations of security, speed of processing, etc. and general reception and commentary. Please include a mix of official sources (tsa.gov, dhs.gov, airport websites), mainstream news sources, and blogs/websites, esp. travel-focused ones.
 
 * Austin Petersen: $30: Petersen is one of the candidates for the Libertarian Party Presidential Primary, 2016. Petersen has received some coverage in mainstream media sources (e.g. the Washington Post) plus a lot of libertarian-focused media coverage. He also was one of the three featured candidates in the various libertarian debates aired on TV/radio (Glenn Beck, Penn Gillette etc.) so his stances are discussed in coverage of those debates.
+
+* Privacy Impact Assessment: $50: A type of impact assessment conducted by an organization (typically, a government agency or corporation with access to a large amount of sensitive, private data about individuals in or flowing through its system). The organization audits its own processes and sees how these processes affect or might compromise the privacy of the individuals whose data it holds, collects, or processes. PIAs have been conducted by various sub-agencies of the U.S. Department of Homeland Security, and by many others.
+
+* H-1A visa: $25: A now defunct visa. This was created (I believe) with the Immigration Act of 1990, by splitting the previous H-1 visa into the H-1A and H-1B. However, the H-1A (which I believe was for nurses) was never used much and it stopped getting issued some time between 1990 and 2015 (I don't know exactly when).
+
+* H-1C visa: $25: A now defunct visa. This was created as a replacement of the H-1A, and I believe still intended for nurses. It was phased out at some point. I am not sure of the reasons for phasing it out.
+
+* Academic Training: $150. This is the analogue for J-1 visas of Optional Practical Training. The full amount is available only if the page has comparable detail to the current page on Optional Practical Training. However, partial pay is possible for a reasonably good article.
+
+=== Improvements to existing pages ===
+
+* On Form 1040, discuss the OMB controversy: https://en.wikipedia.org/wiki/Tax_protester_administrative_arguments#The_Paperwork_Reduction_Act_.28OMB_control_number.29_argument Pay: $5
+
+* On Form 1040, discuss the relationship with state tax returns in more detail. Pay: $5
+
+* On Form 1040, add in a brief discussion of Form 1040V, an attachment submitted when making a payment with the form. Pay: $5
