@@ -8,15 +8,15 @@ List of new articles that any interested author can work on. A parenthetical "(r
 
 === Taxation ===
 
-* Form 1120: $30. This is the main corporate income tax form in the United States. The analogue of Form 1040 for individuals and Form 990 for nonprofits. Low initial pay because I don't want anything as detailed as Form 990 or 1040 for starters. But more payment possible if you do something more detailed.
+* Form 1120: $30: This is the main corporate income tax form in the United States. The analogue of Form 1040 for individuals and Form 990 for nonprofits. Low initial pay because I don't want anything as detailed as Form 990 or 1040 for starters. But more payment possible if you do something more detailed.
 
-* Form 1099-R: Pay: $50. Want something of comparable quality to Form 1099-MISC.
+* Form 1099-R: $50: Want something of comparable quality to Form 1099-MISC.
 
-* Form 1099-K: Pay: $30 Want something of comparable quality to Form 1099-MISC.
+* Form 1099-K: $30: Want something of comparable quality to Form 1099-MISC.
 
-* Form 1098: Pay: $30 Want something of comparable quality to Form 1099.
+* Form 1098: $30: Want something of comparable quality to Form 1099.
 
-* Form 1098-T: Pay: $30 Want something of comparable quality to Form 1099-MISC.
+* Form 1098-T: $30: Want something of comparable quality to Form 1099-MISC.
 
 === Immigration ===
 
