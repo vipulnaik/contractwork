@@ -36,6 +36,22 @@ List of new articles that any interested author can work on. A parenthetical "(r
 
 * Privacy Impact Assessment (reserved): $50: A type of impact assessment conducted by an organization (typically, a government agency or corporation with access to a large amount of sensitive, private data about individuals in or flowing through its system). The organization audits its own processes and sees how these processes affect or might compromise the privacy of the individuals whose data it holds, collects, or processes. PIAs have been conducted by various sub-agencies of the U.S. Department of Homeland Security, and by many others.
 
+=== Philanthropy ===
+
+* Scientific charity movement: $30-50 (depending on length and quality): Somewhat related to Charity Organization Societies (COS) but arguably sufficiently separate/distinctive to deserve a separate page. You should probably also make sure not to confuse with the "scientific charity" that arose during the US Civil War.
+
+* Chicago Community Trust: $25-50 (depending on length and quality): Similar article as Silicon Valley Community Foundation, New York Community Trust, etc. Length may vary heavily based on the numberand quality of sources you can find.
+
+* Silicon Valley Education Foundation: $25-50 (depending on length and quality): Similar article as Silicon Valley Community Foundation.
+
+=== Global health ===
+
+* Global Polio Eradication Initiative: $20-40 (depending on length and quality): Currently mention as a paragraph on the Poliomyelitis eradication page, it might deserve its own separate page with more details.
+
+* Global Outbreak Alert and Response Network: $25-40 (depending on length and quality): It is already mentioned as a single para in the Wikipedia global alert page, but deserves its own page.
+
+* To Save Humanity: $25-50 (depending on length and quality): A book published May 2015 with essays on global health. Authors include Bill Gates and Peter Piot.
+
 == Improvements to existing pages ==
 
 === Taxation ===
@@ -45,3 +61,10 @@ List of new articles that any interested author can work on. A parenthetical "(r
 * On Form 1040, discuss the relationship with state tax returns in more detail. Pay: $5
 
 * On Form 1040, add in a brief discussion of Form 1040V, an attachment submitted when making a payment with the form. Pay: $5
+
+=== Health (global and local) ===
+
+* Timeline of deworming: $15-30 (depending on how much extra detail gets added): Add more events related to worm diseases and interventions prior to 1949 for things other than schistosomiasis.
+
+* Joint United Nations Programme on HIV/AIDS: $30: The current version of the page does not discuss the prior history of the programme, back when it was called the Global Programme on AIDS. Add more information on this prior history.
+
