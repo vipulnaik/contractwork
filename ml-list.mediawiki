@@ -1,0 +1,20 @@
+Potential ML/AI articles
+
+== Timelines ==
+
+There is a pretty comprehensive timeline of artificial intelligence, but more granular timelines can be helpful.
+
+* Timeline of machine learning: Just a focus on the development of key ML concepts, algorithms, actual real-world implementations, etc.
+
+* Timeline of speech and voice recognition
+
+* Timeline of computer chess
+
+* Timeline of autonomous vehicles
+
+* Timeline of text and character recognition
+
+== Conferences ==
+
+Any particular conferences to cover?
+
