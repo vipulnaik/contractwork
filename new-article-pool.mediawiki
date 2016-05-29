@@ -2,21 +2,43 @@ List of new articles that any interested author can work on. A parenthetical "(r
 
 == New pages ==
 
-* Stokes interview (reserved): $50: A separate interview that a field officer at USCIS conducts of a married couple with one partner seeking permanent residence. This is done after the field officer suspects fraud as a result of a joint interview of the couple. The page should discuss the history, present use, success rate, how officers think and approach this, any criticism or commentary on it.
-
-* Screening Partnership Program: $35: This is a program where the TSA partners with private operators to carry out screening at airports. The Wikipedia page should discuss the history, what airports currently use it and what ones expansion is being considered to, any TSA or DHS evaluations of security, speed of processing, etc. and general reception and commentary. Please include a mix of official sources (tsa.gov, dhs.gov, airport websites), mainstream news sources, and blogs/websites, esp. travel-focused ones.
+=== Politics ===
 
 * Austin Petersen: $30: Petersen is one of the candidates for the Libertarian Party Presidential Primary, 2016. Petersen has received some coverage in mainstream media sources (e.g. the Washington Post) plus a lot of libertarian-focused media coverage. He also was one of the three featured candidates in the various libertarian debates aired on TV/radio (Glenn Beck, Penn Gillette etc.) so his stances are discussed in coverage of those debates.
 
-* Privacy Impact Assessment: $50: A type of impact assessment conducted by an organization (typically, a government agency or corporation with access to a large amount of sensitive, private data about individuals in or flowing through its system). The organization audits its own processes and sees how these processes affect or might compromise the privacy of the individuals whose data it holds, collects, or processes. PIAs have been conducted by various sub-agencies of the U.S. Department of Homeland Security, and by many others.
+=== Taxation ===
 
-* H-1A visa: $25: A now defunct visa. This was created (I believe) with the Immigration Act of 1990, by splitting the previous H-1 visa into the H-1A and H-1B. However, the H-1A (which I believe was for nurses) was never used much and it stopped getting issued some time between 1990 and 2015 (I don't know exactly when).
+* Form 1120: $30. This is the main corporate income tax form in the United States. The analogue of Form 1040 for individuals and Form 990 for nonprofits. Low initial pay because I don't want anything as detailed as Form 990 or 1040 for starters. But more payment possible if you do something more detailed.
 
-* H-1C visa: $25: A now defunct visa. This was created as a replacement of the H-1A, and I believe still intended for nurses. It was phased out at some point. I am not sure of the reasons for phasing it out.
+* Form 1099-R: Pay: $50. Want something of comparable quality to Form 1099-MISC.
+
+* Form 1099-K: Pay: $30 Want something of comparable quality to Form 1099-MISC.
+
+* Form 1098: Pay: $30 Want something of comparable quality to Form 1099.
+
+* Form 1098-T: Pay: $30 Want something of comparable quality to Form 1099-MISC.
+
+=== Immigration ===
+
+* Stokes interview (reserved): $50: A separate interview that a field officer at USCIS conducts of a married couple with one partner seeking permanent residence. This is done after the field officer suspects fraud as a result of a joint interview of the couple. The page should discuss the history, present use, success rate, how officers think and approach this, any criticism or commentary on it.
+
+* H-1A visa (reserved): $25: A now defunct visa. This was created (I believe) with the Immigration Act of 1990, by splitting the previous H-1 visa into the H-1A and H-1B. However, the H-1A (which I believe was for nurses) was never used much and it stopped getting issued some time between 1990 and 2015 (I don't know exactly when).
+
+* H-1C visa (reserved): $25: A now defunct visa. This was created as a replacement of the H-1A, and I believe still intended for nurses. It was phased out at some point. I am not sure of the reasons for phasing it out.
 
 * Academic Training: $150. This is the analogue for J-1 visas of Optional Practical Training. The full amount is available only if the page has comparable detail to the current page on Optional Practical Training. However, partial pay is possible for a reasonably good article.
 
-=== Improvements to existing pages ===
+* W visa: $125. A proposed new visa, part of various immigration reform proposals, that would be mostly a replacement for the existing H-2 visas. The high pay is mostly because understanding exactly what the proposals would do requires a deeper understanding of existing immigration law, and the politics of changing it. I'm happy to provide guidance to the person who works on this.
+
+=== Other government/bureaucracy ===
+
+* Screening Partnership Program: $35: This is a program where the TSA partners with private operators to carry out screening at airports. The Wikipedia page should discuss the history, what airports currently use it and what ones expansion is being considered to, any TSA or DHS evaluations of security, speed of processing, etc. and general reception and commentary. Please include a mix of official sources (tsa.gov, dhs.gov, airport websites), mainstream news sources, and blogs/websites, esp. travel-focused ones.
+
+* Privacy Impact Assessment: $50: A type of impact assessment conducted by an organization (typically, a government agency or corporation with access to a large amount of sensitive, private data about individuals in or flowing through its system). The organization audits its own processes and sees how these processes affect or might compromise the privacy of the individuals whose data it holds, collects, or processes. PIAs have been conducted by various sub-agencies of the U.S. Department of Homeland Security, and by many others.
+
+== Improvements to existing pages ==
+
+=== Taxation ===
 
 * On Form 1040, discuss the OMB controversy: https://en.wikipedia.org/wiki/Tax_protester_administrative_arguments#The_Paperwork_Reduction_Act_.28OMB_control_number.29_argument Pay: $5
 
