@@ -74,6 +74,16 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 * Privacy Impact Assessment (reserved): $50: A type of impact assessment conducted by an organization (typically, a government agency or corporation with access to a large amount of sensitive, private data about individuals in or flowing through its system). The organization audits its own processes and sees how these processes affect or might compromise the privacy of the individuals whose data it holds, collects, or processes. PIAs have been conducted by various sub-agencies of the U.S. Department of Homeland Security, and by many others.
 
+=== Books, orgs, and people ===
+
+* The Ethics of Voting: $30: Book by Jason Brennan on voting and the ethical issues surrounding it. Lots of reviews in various venues. Include references to various reviews.
+
+* The Entrepreneurial State: $30 for a decent job that references reviews at Mises Daily, EconLog, and the ones found at https://artir.wordpress.com/series-de-articulos/ (e.g., https://artir.wordpress.com/2015/08/21/mazzucato-and-the-iphone-ii-the-myth-of-the-entrepreneurial-state/), plus a decent discussion of impact.
+
+* Illiberal Reformers: $30 for a decent job that includes references to various reviews. Has been referenced in EconLog and by Jonh Goldberg, who noted parallels with his own book Liberal Fascism.
+
+* Sheldon Richman: $35: There is already a deleted page on him. You would first need to message the admin who deleted the page to retrieve the existing version. Then work on improving/fixing it, and then republish. Probably not good as a first project. Page needs to survive for at least 30 days after recreation to be eligible for payment.
+
 == Improvements to existing pages ==
 
 === Taxation ===
