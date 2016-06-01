@@ -1,4 +1,4 @@
-Total so far: $1662 ($1044 paid, $618 payment pending)
+Total so far: $1732 ($1044 paid, $698 payment pending)
 
 == Completed pages ==
 
@@ -28,7 +28,7 @@ Total so far: $1451 ($933 paid, $518 payment pending)
 
 === Non-page payments ===
 
-Total so far: $211 ($111 paid, $100 payment pending)
+Total so far: $281 ($111 paid, $170 payment pending)
 
 * stats.grok.se -> Wikimedia API fix: $80
 
@@ -43,6 +43,8 @@ Total so far: $211 ($111 paid, $100 payment pending)
 * Monthly update of Open Phil and Good Ventures grant lists: $50
 
 * Disease Control Priorities Project reference cleanup, page restructuring, more info on specific reports: $20 (more once DCP1 is expanded)
+
+* Wikipedia usage survey construction and associated research: $70
 
 == Global public health and related investigation ==
 
