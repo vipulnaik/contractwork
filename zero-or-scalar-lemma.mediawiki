@@ -1,0 +1,68 @@
+[[page class::fact| ]][[difficulty level::4| ]]
+==Statement==
+
+===Over the complex numbers===
+
+Let <math>G</math> be a [[finite group]] and <math>\varphi</math> an [[fact about::irreducible linear representation]] of <math>G</math> over <math>\mathbb{C}</math>. Let <math>g \in G</math>, such that the size of the [[conjugacy class]] of <math>G</math> is relatively prime to the [[degree]] of <math>\varphi</math>. Then, either <math>\varphi(g)</math> is a scalar or <math>\chi(g) = 0</math>.
+
+===Over a splitting field of characteristic zero===
+
+The proof as presented here works only over the complex numbers, but it can be generalized to any [[splitting field]] for <math>G</math> that has characteristic zero.
+
+
+==Applications==
+
+* [[Conjugacy class of prime power size implies not simple]]
+* [[Order has only two prime factors implies solvable]], also called Burnside's <math>p^aq^b</math>-theorem (proved via [[conjugacy class of prime power size implies not simple]])
+
+==Facts used==
+
+{{facts used table disclaimer}}
+
+{| class="sortable" border="1"
+! Fact no. !! Statement !! Steps in the proof where it is used !! Qualitative description of how it is used !! What does it rely on? !! Difficulty level !! Other applications
+|- 
+| 1 || [[uses::Size-degree-weighted characters are algebraic integers]]: For an irreducible linear representation over <math>\mathbb{C}</math>, multiplying any character value by the size of the conjugacy class and then dividing by the degree of the representation gives an algebraic integer. || Step (1) (in turn used in Step (4), leading to Step (5)) || Helps in showing that <math>\chi(g)/\chi(1)</math> is an algebraic integer. || Algebraic number theory + linear representation theory|| {{#show: Size-degree-weighted characters are algebraic integers| ?Difficulty level}} || {{uses short|size-degree-weighted characters are algebraic integers}}
+|-
+| 2 || [[uses::Characters are algebraic integers]]: The character of a linear representation is an algebraic integer. || Step (4), leading to Step (5) || Helps in showing that <math>\chi(g)/\chi(1)</math> is an algebraic integer. || Basic linear representation theory || {{#show: Characters are algebraic integers|?Difficulty level}} || {{uses short|characters are algebraic integers}}
+|-
+| 3 || [[uses::Element of finite order is semisimple and eigenvalues are roots of unity]] || Step (6), which in turn is critical to later steps || Critical to understanding <math>\varphi(g)</math> and <math>\chi(g)</math>, when combined with the triangle inequality and other facts. || Basic linear representation theory || {{#show: Element of finite order is semisimple and eigenvalues are roots of unity|?Difficulty level}} || {{uses short|element of finite order is semisimple and eigenvalues are roots of unity}}
+|}
+
+==Proof==
+
+{{tabular proof format}}
+
+'''Given''': A finite group <math>G</math>, a nontrivial irreducible linear representation <math>\varphi</math> of <math>G</math>  over <math>\mathbb{C}</math> with character <math>\chi</math>. An element <math>g \in G</math> with conjugacy class <math>C</math>. The degree of <math>\varphi</math> and the size of <math>C</math> are relatively prime.
+
+'''To prove''': Either <math>\chi(g) = 0</math> or <math>\varphi(g)</math> is a scalar.
+
+'''Proof''': Note that when the symbol <math>1</math> appears as an input to a representation or a character, it refers to the identity element of <math>G</math>. When it appears as the output of a character, or in another context, it refers to the real number <math>1</math>.
+
+{| class="sortable" border="1"
+! Step no. !! Assertion/construction !! Facts used !! Given data used !! Previous steps used !! Explanation
+|-
+| 1 || The number <math>\frac{|C|\chi(g)}{\chi(1)}</math> is an algebraic integer. || Fact (1) || <math>G</math> is finite, <math>\varphi</math> is an irreducible representation of <math>G</math> over <math>\mathbb{C}</math> with character <math>\chi</math> || || Given+Fact direct
+|-
+| 2 || There exist integers <math>a</math> and <math>b</math> such that <math>\! a|C| + b\chi(1) = 1</math> || || <math>|C|</math> and <math>\chi(1)</math> (the degree of <math>\varphi</math>) are relatively prime. || || By definition of relatively prime.
+|-
+| 3 || We get <math>\frac{a|C|\chi(g)}{\chi(1)} + b\chi(g) = \frac{\chi(g)}{\chi(1)}</math> || || || Step (2) || Multiply both sides of Step (2) by <math>\chi(g)/\chi(1)</math>.
+|-
+| 4 || The expression <math>\frac{a|C|\chi(g)}{\chi(1)} + b\chi(g)</math> gives an algebraic integer. || Fact (2) || || Step (1) || <toggledisplay>By Step (1), <math>|C|\chi(g)/\chi(1)</math> is an algebraic integer. By fact (2), <math>\chi(g)</math> is also an algebraic integer. Since <math>a,b</math> are (rational) integers, the sum is thus also an algebraic integer.</toggledisplay>
+|-
+| 5 || <math>\chi(g)/\chi(1)</math> is an algebraic integer. || || || Steps (3), (4) || <toggledisplay>By Step (4), the left side of the expression of Step (3) is an algebraic integer. Hence, so is the right side.</toggledisplay>
+|-
+| 6 || <math>\chi(g)</math> is the sum of <math>\chi(1)</math> many roots of unity (not necessarily all distinct), namely, the eigenvalues of the corresponding element <math>\varphi(g)</math>. || Fact (3) || <math>G</math> is finite. || || <toggledisplay>Since <math>G</math> is finite, <math>g</math> has finite order, hence so does <math>\varphi(g)</math>. Thus, by fact (3), it is semisimple and all its eigenvalues (<math>\chi(1)</math> many of them, since that is the dimension of the vector space on which it is acting) are roots of unity. <math>\chi(g)</math> is the sum of these.</toggledisplay>
+|-
+| 7 || Every algebraic conjugate of <math>\chi(g)</math> is also a sum of <math>\chi(1)</math> roots of unity.  || || || Step (6) || <toggledisplay>Any Galois automorphism on <math>\chi(g)</math> must send each of the roots of unity that add up to it to other roots of unity, which now add up to its image under the automorphism.</toggledisplay>
+|-
+| 8 || Every algebraic conjugate of <math>\chi(g)/\chi(1)</math> has modulus less than or equal to <math>1</math>. || || || Step (7) || <toggledisplay>By Step (7) and the triangle inequality, the modulus of any algebraic conjugate of <math>\chi(g)</math> is less than or equal to <math>\chi(1)</math>. Dividing by <math>\chi(1)</math>, we get the desired conclusion.</toggledisplay>
+|-
+| 9 || The modulus of the algebraic norm of <math>\chi(g)/\chi(1)</math> in a Galois extension containing it is either 0 or 1. || || || Steps (5), (8) || <toggledisplay>By definition, the algebraic norm is the product, under all automorphisms of the Galois extension, of the images under those automorphisms. Taking modulus and using Step (8), we see that that its modulus is the product of numbers between 0 and 1, hence is between 0 and 1. By Step (5), <math>\chi(g)/\chi(1)</math> is an algebraic integer, so its norm is a rational integer, hence the modulus of the norm is a nonnegative integer. The only possibilities are thus 0 and 1.</toggledisplay>
+|-
+| 10 || If the modulus of the algebraic norm of <math>\chi(g)/\chi(1)</math> is <math>0</math>, then <math>\chi(g) = 0</math> || || || || <toggledisplay>If the algebraic norm has modulus zero, then the algebraic norm is zero, which can happen only if one of the algebraic conjugates of <math>\chi(g)/\chi(1)</math> is zero. But by the definition of algebraic conjugates, any conjugate being zero forces all of them to be zero, so <math>\chi(g)/\chi(1)</math> is zero, so <math>\chi(g)</math> is zero.</toggledisplay>
+|-
+| 11 || If the modulus of the algebraic norm of <math>\chi(g)/\chi(1)</math> is <math>1</math>, then <math>\varphi(g)</math> is a scalar matrix. || || || Steps (6), (8) || <toggledisplay>By Step (8), every algebraic conjugate has modulus less than or equal to 1. If the product of all of these has modulus 1, then every one of them must have modulus 1. In particular, <math>\chi(g)/\chi(1)</math> has modulus 1, so <math>|\chi(g)| = \chi(1)</math>. By Step (6), <math>\chi(g)</math> is the sum of <math>\chi(1)</math> roots of unity obtained as eigenvalues of <math>\varphi(g)</math>. By the triangle inequality, we see that <math>|\chi(g)| \le \chi(1)</math> and equality holds if and only if all the roots of unity are equal. Thus, all eigenvalues of <math>\varphi(g)</math> are equal, forcing <math>\varphi(g)</math> to be scalar.</toggledisplay>
+|-
+| 12 || Either <math>\chi(g) = 0</math> or <math>\varphi(g)</math> is scalar. || || || Steps (9), (10), (11) || Step-combination direct.
+|}
