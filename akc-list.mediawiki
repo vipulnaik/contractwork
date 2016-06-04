@@ -41,12 +41,13 @@ year.
 * Start by April 29, end by May 1: Timeline of Dropbox
 * Start by May 6, end by May 8: Coatue Management
 * Start by May 13, end by May 15: Maverick Capital
+* Start by May 20, end by May 22 (significantly delayed): Timeline of Netflix
 
 (more weeks, months to be added).
 
 == Completed pages ==
 
-Total so far: $1315
+Total so far: $1450
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -67,6 +68,8 @@ Total so far: $1315
 * Timeline of Dropbox: $75
 * Coatue Management: $35
 * Maverick Capital: $35
+* Timeline of Netflix: $135
+
 == Specific technologies ==
 
 * Facebook Live: Proposed bounty amount: $150 for a high-quality page completed by May 1. Bounty amount may reduce if the page is not completed by then. Get some initial references from the events related to live-streaming of Facebook videos in the timeline of Facebook, from August 2015 and January - March 2016, and then F8 conference.
@@ -78,13 +81,9 @@ that we see for the corresponding page whose timeline page it is.
 
 === Technology ===
 
-* Timeline of Netflix: The Netflix page gets about 180K pageviews a month, so 1.8-9K. Proposed bounty amount: $135
-
 * Timeline of WhatsApp: The WhatsApp page gets about 110K views a month, so we should expect 1000-5000 pageviews a month. Proposed bounty amount: $120
 
 * Timeline of Xiaomi: The Xiaomi page gets 40K views a month, so we should expect 400-2000 pageviews per month.  Proposed bounty amount: $75
-
-* Timeline of Dropbox: The Dropbox page gets 35K views a month, so we should expect 350-1750 pageviews per month. Proposed bounty amount: $75
 
 * Timeline of Amazon Web Services: The Amazon Web Services page gets about 40K views a month, so we should expect 400-2000 pageviews per month. Proposed bounty amount: $60
 
