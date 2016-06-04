@@ -1,13 +1,13 @@
-Total so far: $1732 ($1044 paid, $698 payment pending)
+Total so far: $1738 ($1044 paid, $694 payment pending)
 
 == Completed pages ==
 
 Form 1040, though published on January 1, 2016 is counted in 2015.
 
-Total so far: $1451 ($933 paid, $518 payment pending)
+Total so far: $1457 ($933 paid, $524 payment pending)
 
 * Green Card Test: $25
-* Triplebyte (didn't publish to main, but got ready in user space): $25
+* Triplebyte: $25 for initial work, $6 for additional later work and publication: $31 (paid first $25)
 * Form 1099: $50
 * Form 1099-MISC: $100
 * Form W-9: $50
