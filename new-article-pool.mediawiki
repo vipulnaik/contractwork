@@ -24,7 +24,7 @@ List of new articles that any interested author can work on. A parenthetical "(r
 
 * Chicago Community Trust: $25-50 (depending on length and quality): Similar article as Silicon Valley Community Foundation, New York Community Trust, etc. Length may vary heavily based on the number and quality of sources you can find.
 
-* Silicon Valley Education Foundation: $25-50 (depending on length and quality): Similar article as Silicon Valley Community Foundation.
+* Silicon Valley Education Foundation (reserved): $25-50 (depending on length and quality): Similar article as Silicon Valley Community Foundation.
 
 === Machine learning and artificial intelligence ===
 
@@ -32,7 +32,7 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 * Timeline of machine learning: Just a focus on the development of key ML concepts, algorithms, actual real-world implementations, etc.
 
-* Timeline of speech and voice recognition
+* Timeline of speech and voice recognition (reserved)
 
 * Timeline of computer chess
 
