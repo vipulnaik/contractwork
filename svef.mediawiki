@@ -1,0 +1,78 @@
+{{Infobox non-profit
+| Non-profit_name  = Silicon Valley Education Foundation
+| Non-profit_logo  = 
+| predecessor      = [[ San Jose Education Foundation]] and [[Santa Clara County Education Foundation]] (merged in 2007, new foundation launched 2008)<ref name=history>{{cite web|url=http://www.knightfoundation.org/press-room/press-release/new-silicon-valley-education-foundation-launched/|title = New Silicon Valley Education Foundation Launched|publisher = Knight Foundation|accessdate = 2016-06-04}}</ref><ref name=history-pnd>{{cite web|url = http://pnd.foundationcenter.org/layout/set/html_min/news/silicon-valley-education-foundation-launched-receives-2.1-million-in-grants|title = Silicon Valley Education Foundation Launched, Receives $2.1 Million in Grants|date = February 10, 2008|accessdate = June 4, 2016|publisher = [[Foundation Center]]}}</ref>
+| type             = [[Non-Profit Organization]]
+| founded_date     = February 4, 2008<ref name=history></ref>
+| founder          = 
+| location_city    = [[San Jose, California|San Jose]]
+| location_country = [[United States of America]]
+| area_served      = [[Silicon Valley]]
+| key_people       = {{unbulleted list
+| Muhammed Chaudhry
+| (President and CEO)
+| Tim Bussey
+| (Chief Operating Officer)
+| Manny Barbara
+| (Vice President, Advocacy and Thought Leadership)
+| Veronica Gonzales 
+| (Director of Fund Development)}}<ref name=leadership>{{cite web|url=http://svefoundation.org/leadership/|title = Leadership|publisher = Silicon Valley Education Foundation|accessdate = 2016-06-03}}</ref>
+| num_employees    = 11-50<ref name=history1>{{cite web|url=https://www.linkedin.com/company/svef|title = Silicon Valley Education Foundation (SVEF)|publisher =LinkedIn Corporation|accessdate = 2016-06-03}}</ref>
+| homepage         = {{URL|http://svefoundation.org}}
+|image = }}
+
+'''Silicon Valley Education Foundation''' (SVEF), headquartered in [[San Jose, California|San Jose]], [[California]], is a non-profit organization that seeks to create (and has already created) more resources and programs for both students and educators in [[Silicon Valley]] in order to lay foundations for students' college careers and beyond specifically focused on [[Science, technology, engineering, and mathematics|Science, technology, engineering, and mathematics (STEM)]] fields.<ref name=cn>{{cite web|url = http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=13356|title =Silicon Valley Education Foundation: To transform Silicon Valley into a model for enhancing public education.|accessdate = June 4, 2016|date = June 1, 2016|publisher = [[Charity Navigator]]}}</ref><ref name=about>{{cite web|url=http://svefoundation.org/pages/about-us/|title = About Us|publisher = Silicon Valley Education Foundation|accessdate = 2016-06-03}}</ref><ref name=ihub2></ref> The SVEF was founded as a result of a merger of the [[San Jose Education Foundation]] and [[Santa Clara County Education Foundation]].<ref name=history/><ref name=history-pnd/>
+
+==Funding==
+
+=== Recent financials and funding ===
+
+The SVEF's total expenditures in the 2015 fiscal year netted around $5,132,000. These funds were focused 78% on the SVEF's programs, 14% on fundraising, and 8% on management.<ref name=financials>{{cite web|url=http://svefoundation.org/financials/|title = Financials|publisher = Silicon Valley Education Foundation|accessdate = 2016-06-03}}</ref>
+
+At their 11th annual Pioneers and Purpose dinner, the SVEF raised more than $1.3 million for its purpose of expanding STEM education in the Silicon Valley. This money came from various donors, some of which are big figures at large corporations such as [[Intel]] and [[SanDisk]], as well as venture-capitalist [[John Doerr]].<ref name=sponsors>{{cite web|url=http://www.mercurynews.com/sal-pizarro/ci_29083655/pizarro-silicon-valley-education-foundation-honors-venture-capitalist|title = Silicon Valley Education Foundation honors venture capitalist John Doerr|publisher = ''[[San Jose Mercury News]]''|accessdate = 2016-06-04}}</ref> Intel and SanDisk are also sponsors of the SVEF, among other corporations such as [[Adobe]], [[Oracle]], [[Cisco]], [[Chevron]], and many more.<ref name=sponsors1>{{cite web|url=http://svefoundation.org/investors-and-partners/|title = Investors and Partners|publisher = Silicon Valley Education Foundation|accessdate = 2016-06-04}}</ref>
+
+=== Past funding ===
+
+Since its launch in 2008, SVEF has received support from large foundations focused on improving [[education in the United States]] and reducing the [[achievement gap in the United States|achievement gap]].
+
+* The [[John S. and James L. Knight Foundation]] has been a key partner of SVEF since its launch.<ref name=history/> The Knight Foundation granted $1.7 million to partially fund the Silicon Valley STEM initiative, that would raise a total of $3 million.<ref>{{cite web|url = http://pnd.foundationcenter.org/news/silicon-valley-education-foundation-launches-3-million-stem-initiative|title = Silicon Valley Education Foundation Launches $3 Million STEM Initiative|date = August 22, 2008|accessdate = June 4, 2016|publisher = [[Foundation Center]]}}</ref><ref>{{cite web|url = http://www.knightfoundation.org/press-room/press-release/silicon-valley-education-foundation-launches-3/|title = Silicon Valley Education Foundation Launches $3 Million Initiative to Boost Student Achievement in Science, Technology, Engineering and Mathematics. Summer Algebra Program a Success|date = August 19, 2008|accessdate = June 4, 2016|publisher = [[John S. and James L. Knight Foundation]]}}</ref>
+* The [[Bill & Melinda Gates Foundation]] made grants of $351,493 (October 2013, for the iHub),<ref name=gates-2013>{{cite web|url = http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/10/OPP1101683|title = Silicon Valley Education Foundation: to support the Learning Innovation Hub that will bring together entrepreneurs, educators, researchers and investors to pilot innovative products that enhance STEM (Science, Technology, Engineering and Math) education|publisher = [[Bill & Melinda Gates Foundation]]|date = October 1, 2013|accessdate = June 4, 2016}}</ref> $750,000 (October 2014),<ref name=gates-2014>{{cite web|url = http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/10/OPP1117104|title = Silicon Valley Education Foundation: to support Common Core State Standards implementation|date = October 1, 2014|accessdate = June 4, 2016|publisher = [[Bill & Melinda Gates Foundation]]}}</ref> and $1,616,641 (April 2015).<ref>{{cite web|url = http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/04/OPP1128103|title = Silicon Valley Education Foundation: to help facilitate digital courseware product efficacy|date = April 1, 2015|accessdate = June 4, 2016|publisher = [[Bill & Melinda Gates Foundation]]}}</ref>
+* The [[Hewlett Foundation]] made grants of $470,000 (July 2009),<ref>{{cite web|url = http://www.hewlett.org/grants/17414/silicon-valley-education-foundation|title = Silicon Valley Education Foundation: For a blog and community forums on education reform|date = July 20, 2009|accessdate = June 4, 2016|publisher = [[Hewlett Foundation]]}}</ref> $50,000 (November 2009),<ref>{{cite web|url = http://www.hewlett.org/grants/17213/silicon-valley-education-foundation|title = Silicon Valley Education Foundation: for an education project|date = November 16, 2009|accessdate = June 4, 2016|publisher = [[Hewlett Foundation]]}}</ref> and $100,000 (July 2011).<ref>{{cite web|url = http://www.hewlett.org/grants/16341/silicon-valley-education-foundation|title = Silicon Valley Education Foundation: For extending the use and impact of Open Educational Resources in community colleges|publisher = [[Hewlett Foundation]]|date = July 18, 2011|accessdate = June 4, 2016}}</ref>
+
+SVEF has also previously partnered with ConvergeUS, a charity co-founded by [[Twitter]] co-founder [[Biz Stone]].<ref>{{cite web|url = https://philanthropy.com/article/Twitter-Co-Founder-Pushes-New/226977|title = Twitter Co-Founder Pushes New Effort to Use Technology for Social Good|last = Switzer|first = Cody|publisher = ''[[Chronicle of Philanthropy]]''|date = February 23, 2011|accessdate = June 4, 2016}}</ref>
+
+==Initiatives and partnerships==
+The SVEF has developed various resources available to school districts around Silicon Valley.
+
+===Elevate [Math] and [Science] ===
+This program is 75 hour, 19 day long summer intervention program that focuses on preparing 7th, 8th, 9th, and 10th graders for more advanced math and science courses, as well as offering teachers a 35 hour course for the development of their skills, which is based on [[Common Core]] ideals.<ref name=elevatedmath>{{cite web|url=http://svefoundation.org/programs/elevate/|title = Elevate [Math]|publisher = Silicon Valley Education Foundation|accessdate = 2016-06-03}}</ref><ref name=elevatedmath1>{{cite web|url=http://www.knightfoundation.org/press-room/press-mention/silicon-valley-education-foundation-arms-middle-sc/|title =Silicon Valley Education Foundation arms middle-schoolers for college track classes|publisher = Knight Foundation|accessdate = 2016-06-04}}</ref>
+
+===iHub===
+This pilot program is a platform for entrepreneurs from Silicon Valley to propose various educational products and technological solutions in order to improve education. Feedback from both students and teachers allows for entrepreneurs to further enhance their products, potentially for later introduction into the market. Collaborators and partners of this program include the [[Bill & Melinda Gates Foundation]], [[Stanford Graduate School of Education]], and several others.<ref name=ihub>{{cite web|url=http://svefoundation.org/ihub/|title = iHub|publisher = Silicon Valley Education Foundation|accessdate = 2016-06-04}}</ref><ref name=gates-2013/> It is distinct from the [[iHub]] located in Kenya.
+
+The SVEF also hosts the Learning Innovation Hub (iHub) Pitch Games, in which entrepreneurs present a product or business model, and judges proceed to ask them questions with which the judges get a better feel for the product or business model, and decide winners. Funding for the competition comes from grants made by the Bill & Melinda Gates Foundation.<ref name=ihub1>{{cite web|url=http://www.bizjournals.com/sanjose/news/2015/10/08/six-edtech-startups-named-winners-at-the-third.html|title =Six EdTech startups named winners at the third 'Learning Innovation Hub (iHub) Pitch Games'|publisher = ''[[Silicon Valley Business Journal]]''|accessdate = 2016-06-04}}</ref><ref name=ihub2>{{cite web|url=http://www.mercurynews.com/business/ci_27335833/q-muhammed-chaudhry-ceo-silicon-valley-education-foundation|title =Q&A: Muhammed Chaudhry, CEO of Silicon Valley Education Foundation|publisher = ''[[San Jose Mercury News]]''|accessdate = 2016-06-04}}</ref>
+===49ers STEM Leadership Institute===
+This program was established in a partnership between the [[San Francisco 49ers]], the SVEF, and the [[Santa Clara Unified School District]]. It is a 6 year long program for grades 7-12, which offers a college-preparatory curriculum that is focused on STEM.<ref name=sli>{{cite web|url=http://svefoundation.org/sli/|title = 49ers STEM Leadership Institute|publisher = Silicon Valley Education Foundation|accessdate = 2016-06-03}}</ref><ref name=sli1>{{cite web|url=https://cabrillo-scusd-ca.schoolloop.com/49ersSTEM|title = 49ers STEM Leadership Institute|publisher = Cabrillo Middle School|accessdate = 2016-06-04}}</ref><ref>{{Cite web|url = http://www.levisstadium.com/2014/07/49ers-foundation-launch-stem-leadership-institute/|title = 49ers Foundation to Launch STEM Leadership Institute|publisher = Levi's Stadium|date = July 14, 2014|accessdate = June 4, 2016}}</ref>
+
+===Teacher Innovation Grants===
+Sponsors such as [[Wells Fargo]] allow the SVEF to make annual grants called Teacher Innovation Grants (TIG)<ref name=grants>{{cite web|url=http://svefoundation.org/programs/teacher-innovation-grants/|title = Wells Fargo Teacher Innovation Grants|publisher = Silicon Valley Education Foundation|accessdate = 2016-06-03}}</ref> to teachers in Silicon Valley who apply for this grant. Individual teachers are allowed to apply for up to $1000 for class projects or field-trips, whereas 2 or more teachers are allowed to apply for up to $1500. SVEF has made nearly $800,000 worth of grants for around 1,400 teachers.<ref name=grants></ref>
+===East Side Alliance===
+The [[East Side Alliance]], ESA is a partnership between 8 school districts in the state of California and Silicon Valley, which serves around 85,000 students. Partners and districts in the ESA agree to collaborate towards common goals, in order to benefit students. [[San Jose State University]] is also a member of this partnership, and students of member districts are hence given an opportunity for admission to the university by better fitting their standards.<ref name=esa>{{cite web|url=http://svefoundation.org/esa/|title = East Side Alliance|publisher = Silicon Valley Education Foundation|accessdate = 2016-06-04}}</ref><ref name=esa1>{{cite web|url=https://blogs.sjsu.edu/wsq/2015/12/01/innovating-silicon-valley-classrooms/|title = Innovating Silicon Valley Classrooms|publisher = Washington Square: The Stories of San Jose State University|accessdate = 2016-06-04}}</ref>
+
+== See also ==
+
+* [[Silicon Valley Community Foundation]]
+* [[Education in the United States]]
+* [[Achievement gap in the United States]]
+* [[Startup:Education]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://svefoundation.org/ Official Website]
+
+<!--- Categories --->
+
+[[Category:Philanthropy]]
+[[Category:Non-profit organizations based in California]]
