@@ -28,7 +28,7 @@ List of new articles that any interested author can work on. A parenthetical "(r
 
 Prices not yet determined. Contact to learn more, but generally at least $50 for a well-done piece.
 
-* Timeline of machine learning: Just a focus on the development of key ML concepts, algorithms, actual real-world implementations, etc.
+* Timeline of machine learning (reserved): Just a focus on the development of key ML concepts, algorithms, actual real-world implementations, etc.
 
 * Timeline of speech and voice recognition (reserved)
 
