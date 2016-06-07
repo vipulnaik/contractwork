@@ -1,10 +1,10 @@
-Total so far: $1738 ($1044 paid, $694 payment pending)
+Total so far: $1777 ($1044 paid, $733 payment pending)
 
 == Completed pages ==
 
 Form 1040, though published on January 1, 2016 is counted in 2015.
 
-Total so far: $1457 ($933 paid, $524 payment pending)
+Total so far: $1496 ($933 paid, $563 payment pending)
 
 * Green Card Test: $25
 * Triplebyte: $25 for initial work, $6 for additional later work and publication: $31 (paid first $25)
@@ -25,6 +25,7 @@ Total so far: $1457 ($933 paid, $524 payment pending)
 * Child survival revolution: $101 (payment pending)
 * Participatory poverty assessment: $63 (payment pending)
 * Voices of the Poor: $39 (payment pending)
+* International Decision Support Initiative: $39 (payment pending)
 
 === Non-page payments ===
 
@@ -51,8 +52,6 @@ Total so far: $281 ($111 paid, $170 payment pending)
 === New pages ===
 
 * Health systems strengthening (abbreviated HSS): $50 (tentative, based on assessment of research needed and expected page size; could go higher)
-
-* International Decision Support Initiative: $30 (tentative, based on assessment of research needed and expected page size; could go higher)
 
 * National Conference of Charities and Correction: $25
 
