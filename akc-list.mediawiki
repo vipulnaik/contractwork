@@ -85,7 +85,7 @@ that we see for the corresponding page whose timeline page it is.
 
 * Timeline of Xiaomi: The Xiaomi page gets 40K views a month, so we should expect 400-2000 pageviews per month.  Proposed bounty amount: $75
 
-* Timeline of Amazon Web Services: The Amazon Web Services page gets about 40K views a month, so we should expect 400-2000 pageviews per month. Proposed bounty amount: $60
+* Timeline of Amazon Web Services: The Amazon Web Services page gets about 40K views a month, so we should expect 400-2000 pageviews per month. Proposed bounty amount: $95
 
 * Timeline of Lyft: The Lyft page gets about 16K views a month, so we should expect 150 pageviews a month. Proposed bounty amount: $40
 
