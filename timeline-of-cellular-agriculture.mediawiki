@@ -1,0 +1,69 @@
+This page is a timeline of major events in the history of '''cellular agriculture'''.  Cellular agriculture refers to the development of agricultural products - especially [[Animal product|animal products]] - from [[Cell culture|cell cultures]] rather than the bodies of living organisms.  This in includes [[In vitro meat|in vitro or cultured meat]], as well as in vitro dairy, eggs, leather, gelatin, and silk.  In recent years a number of cellular animal agriculture companies and non-profits have emerged due to technological advances and increasing concern over the [[Animal welfare|animal welfare]] and [[Animal rights|rights]], [[Environmentalism|environmental]], and [[Public health|public health]] problems associated with conventional animal agriculture.<ref name="animalist">{{cite web |url=https://medium.com/@TheAnimalist/cellular-agriculture-for-a-brighter-future-142058ff6d1a#.vqlb0g1gf |title=Cellular agriculture for a brighter future |date=March 22, 2016 |accessdate=June 6, 2016}}</ref>
+
+==Timeline==
+
+{| class="sortable wikitable"
+! Year !! Event 
+|-
+|1912||French biologist [[Alexis Carrel]] keeps a piece of chick heart muscle alive in a Petri dish, demonstrating the possibility of keeping muscle tissue alive outside of the body.<ref name="bhat">{{cite journal |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3551074/ |author=Zuhaib Fayaz Bhat |author2=Hina Fayaz |title=Prospectus of cultured meat—advancing meat alternatives |date=April 2011 |journal=Journal of Food Science Technology |volume=48 |issue=2 |accessdate=April 24, 2016}}</ref>
+|-
+|1930||[[F. E. Smith, 1st Earl of Birkenhead|Frederick Edwin Smith, 1st Earl of Birkenhead]] predicts that "“It will no longer be necessary to go to the extravagant length of rearing a bullock in order to eat its steak. From one 'parent' steak of choice tenderness it will be possible to grow as large and as juicy a steak as can be desired."<ref name="ford">{{cite web |url=http://www.brianjford.com/k-cultured-meat.pdf |title=Culturing Meat for the Future: Anti-Death Versus Anti-Life |accessdate=June 5, 2016}}</ref>
+|-
+|1932||[[Winston Churchill]] writes "Fifty years hence we shall escape the absurdity of growing a whole chicken in order to eat the breast or wing by growing these parts separately under a suitable medium."<ref name="ford" />
+|-
+|Early 1950s||Willem van Eelen recognizes the possibility of [[In vitro meat|generating meat from tissue culture]].<ref name="bhat" />
+|-
+|1971||Russell Ross achieves the in vitro cultivation of [[Myocyte|muscular fibers]].<ref name="ross">{{cite web|last1=Ross|first1=Russell|title=Growth of Smooth Muscle in Culture and Formation of Elastic Fibers|url=http://jcb.rupress.org/content/50/1/172.abstract?sid=5ae8f86c-2ca1-4d16-95a1-08002db55d11|publisher=[[The Journal of Cell Biology]]|accessdate=12 February 2015|pages=172–186|date=1 July 1971}}</ref>
+|-
+|1995||The U.S. [[Food and Drug Administration]] approves the use of commercial in-vitro meat production.<ref name="markowski">{{cite web |url=https://www.nextnature.net/2013/12/moments-in-meat-history-part-ix-in-vitro-meat/ |title=Moments in Meat History Part IX – In-Vitro Meat |date=December 31, 2013 |accessdate=June 5, 2016}}</ref> 
+|-
+|1999||Willem van Eelen secures the first patent for in vitro meat.<ref name="bhat" />
+|-
+|2001||[[NASA]] begins in vitro meat experiments, producing cultured turkey meat.<ref name="australian">{{cite news |last = Macintyre |first = Ben |author-link = Ben Macintyre |title = Test-tube meat science's next leap |publisher = ''[[The Australian]]'' |date = 2007-01-20 |url = http://www.theaustralian.com.au/news/health-science/test-tube-meat-sciences-next-leap/story-e6frg8y6-1111112859219 |accessdate = 2011-11-26}}</ref><ref name="year in science">{{cite news |last = Webb |first = Sarah |title = Tissue Engineers Cook Up Plan for Lab-Grown Meat (The Year in Science: Technology) |publisher = ''[[Discover (magazine)|Discover]]'' |date = 2006-01-08 |url = http://discovermagazine.com/2006/jan/technology |accessdate = 2009-08-07}}</ref>
+|-
+|2002||Researchers culture muscle tissue of the [[Common goldfish|common goldfish]] in Petri dishes.  The meat was judged by a test-panel to be acceptable as food.<ref name="bhat" />
+|-
+|2003||Oron Catts and Ionat Zurr of the Tissue Culture and Art Project and [[Harvard Medical School]] produce an edible steak from frog stem cells.<ref>{{cite news|title=Ingestion / Disembodied Cuisine|url=http://www.cabinetmagazine.org/issues/16/catts.php|newspaper=Cabinet Magazine|date=Winter 2004–2005}}</ref>
+|-
+|2004||Jason Matheny founds [[New Harvest]], the first non-profit to work for the development of cultured meat.<ref name="ford" />
+|-
+|2005||Dutch government agency SenterNovem begins funding cultured meat research.<ref name="datar1">{{cite web |url=http://www.new-harvest.org/mark_post_cultured_beef |author=Isha Datar |date=November 3, 2015 |accessdate=June 5, 2016 |title=Mark Post's Cultured Beef}}</ref> 
+|-
+|2005||The first peer-reviewed journal article on lab-grown meat appears in ''Tissue Engineering''.<ref name="university maryland">{{Cite press release | title = Paper Says Edible Meat Can be Grown in a Lab on Industrial Scale | publisher = [[University of Maryland]] | date = 2005-07-06 | url = http://www.newsdesk.umd.edu/scitech/release.cfm?ArticleID=1098 | accessdate = 2008-10-12}}</ref>
+|-
+|2008||The In Vitro Meat Consortium holds the first international conference on the production of in vitro meat.<ref name="time">{{cite news |last = Siegelbaum |first = D.J. |title = In Search of a Test-Tube Hamburger |publisher = ''[[Time (magazine)|Time]]'' |date = 2008-04-23 |url = http://www.time.com/time/health/article/0,8599,1734630,00.html?imw=Y |accessdate = 2009-04-30 }}</ref>
+|-
+|2008||[[People for the Ethical Treatment of Animals]] offers a $1 million prize to the first group to make a commercially viable lab-grown chicken by 2012.<ref name="markowski" />
+|-
+|2011||The company Modern Meadow, aimed at producing cultured leather and meat, is founded.<ref name="harvey">{{cite web |url=http://www.businessinsider.com/modern-meadow-grows-meat-in-a-lab-2014-9 |title=This Brooklyn Startup Wowed The Science Community With Lab-Made 'Meat Chips' |author=Chelsea Harvey |date=September 26, 2014 |accessdate=June 5, 2016}}</ref>
+|-
+|2013||The first in vitro hamburger, developed by Dutch researcher Mark Post's lab, is taste-tested.<ref name="fountain">{{cite news |url=http://www.nytimes.com/2013/08/06/science/a-lab-grown-burger-gets-a-taste-test.html |author=Henry Fountain |title=A Lab-Grown Burger Gets a Taste Test |newspaper=The New York Times |date=August 5, 2013 |accessdate=April 24, 2016}}</ref>
+|-
+|2014||Muufri and Clara Foods, companies aimed at producing cultured dairy and eggs, respectively, are founded with the assistance of New Harvest.<ref name="datar">{{cite web |url=http://www.new-harvest.org/muufri_milk |title=Muufri: Milk without Cows |author=Isha Datar |date=November 5, 2015 |accessdate=June 5, 2016}}</ref><ref name="clara">{{cite web |url=http://www.new-harvest.org/clara_foods |title=Clara Foods: Egg Whites without Hens |author=Isha Datar |date=November 4, 2015 |accessdate=June 5, 2016}}</ref>
+|-
+|2014||Real Vegan Cheese, a startup aimed at creating cultured [[Cheese|cheese]], is founded.<ref name="wohlsen">{{cite web |url=http://www.wired.com/2015/04/diy-biotech-vegan-cheese/ |title=Cow Milk Without the Cow is Coming to Change Food Forever |author=Marcus Wohlsen |date=April 15, 2015 |accessdate=June 7, 2016}}</ref>
+|-
+|2014||Modern Meadow presents "steak chips", discs of lab-grown meat that could be produced at relatively low cost.<ref name="harvey" />
+|-
+|2015||The Modern Agriculture Foundation, which focuses on developing cultured chicken meat (as chickens make up the large majority of land animals killed for food<ref name="upc">{{cite web |url=http://www.upc-online.org/chickens/chickensbro.html |title=Chickens |author=United Poultry Concerns |accessdate=May 19, 2016}}</ref>), is founded in [[Israel]].<ref name="leichman">{{cite web |url=http://www.israel21c.org/coming-soon-chicken-meat-without-slaughter/ |title=Coming soon: chicken meat without slaughter |author=Abigail Klein Leichman |date=November 19, 2015 |accessdate=May 18, 2016}}</ref>
+|-
+|2015||According to Mark Post's lab, the cost of producing an in vitro hamburger patty drops from $325,000 in 2013 to less than $12.<ref name="burgercost">{{cite web |url=http://www.sciencealert.com/lab-grown-burger-patty-cost-drops-from-325-000-to-12 |title=Cost of lab-grown burger patty drops from $325,000 to $11.36 |date=April 2, 2015 |accessdate=June 7, 2016}}</ref>
+|-
+|2016||[[New Crop Capital]], a private venture capital fund investing in alternatives to animal agriculture - including cellular agriculture - is founded.  Its $25 million portfolio includes in vitro meat company [[Memphis Meats]] and in vitro [[Collagen|collagen]] company Gelzen, along with Lighter, a software platform designed to facilitate plant-based eating, a plant-based meal delivery service called Purple Carrot, a dairy alternative Lyrical Foods, the [[New Zealand]] plant-based meat company SunFed Foods, and alternative cheese company Miyoko’s Kitchen.<ref name="taylor">{{cite web |url=https://agfundernews.com/new-crop-capital-closes-25m-fund-invests-in-beyond-meat5547.html |title=New Crop Capital Closes $25m Fund, Invests in Beyond Meat |author=Louisa Burwood-Taylor |date=March 17, 2016 |accessdate=June 6, 2016}}</ref>
+|-
+|2016||The Good Food Institute, an organization devoted to promoting alternatives to animal food products - including cellular agriculture - is founded.<ref name="zacharias">{{cite web |url=http://www.onegreenplanet.org/news/new-crop-capital-and-good-food-institute-to-disrupt-animal-agriculture/ |title=The Race to Disrupt Animal Agriculture Just Got a $25 Million Shot in the Arm, and a New Non-Profit |author=Nil Zacharias |date=March 16, 2016 |accessdate=June 6, 2016}}</ref>
+|-
+|2016||Memphis Meats announces the creation of the first in vitro meatball.<ref name="hanson">{{cite web |url=http://www.huffingtonpost.com/entry/lab-grown-meatball-memphis-meats_us_56b12317e4b04f9b57d7a9b2 |author=Hilary Hanson |title=‘World’s First’ Lab-Grown Meatball Looks Pretty Damn Tasty |date=February 2, 2016 |accessdate=April 24, 2016}}</ref>
+|-
+|2016||New Harvest will host New Harvest 2016: Experience Cellular Agriculture, the first-ever global cellular agriculture conference.<ref name="conference">{{cite web |url=https://www.morningagclips.com/first-ever-cellular-agriculture-conference/ |title=First-ever cellular agriculture conference |date=May 31, 2016 |accessdate=June 6, 2016}}</ref>
+|}
+
+==See also==
+*[[History of vegetarianism]]
+*[[Timeline of animal welfare and rights]]
+*[[Veganism]]
+*[[Meat analogue]]
+*[[Beyond Meat]]
+
+==References==
+{{reflist|30em}}

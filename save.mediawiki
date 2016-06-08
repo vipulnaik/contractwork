@@ -93,6 +93,18 @@ SAVE arose as a result of a mandate in the Immigration Reform and Control Act of
 * Title IV Educational Assistance Programs ([[U.S. Department of Education]])
 * Some housing assistance programs ([[U.S. Department of Housing and Urban Development]])
 
+=== Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ===
+
+{{main article|Personal Responsibility and Work Opportunity Reconciliation Act of 1996}}
+
+The Personal Responsibility and Work Opprtunity Reconciliation Act of 1996 (abbreviated PRWORA, also commonly described as the 1996 Welfare Reform Act)  made a number of changes to the laws surrounding eligibility for welfare benefits. The law defined "federal public benefits" and "state and local public benefits." PRWORA required the Attorney General to establish regulations and interim guidance for the verification of immigration status of persons applying for federal public benefits. The guidance is for any entity administering a non-exempt federal public benefit, other than non-profit charitable organizations, and is not limited to the agencies and programs specified in IRCA or those using SAVE. However, SAVE helps with compliance with this guidance.<ref name=save-governing-laws/>
+
+=== Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ===
+
+{{main article|Illegal Immigration Reform and Immigrant Responsibility Act of 1996}}
+
+The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 required the [[Immigration and Naturalization Services]] (that would later be restructured as the [[U.S. Department of Homeland Security]] and its sub-agency, [[United States Citizenship and Immigration Services]]) to cooperate with federal, state, and local agencies to determine the citizenship or immigration status of any individual within the jurisdiction of the agency for any purposes authorized by law. The SAVE program is the way that DHS and USCIS meet the obligation.
+
 == Services for applicants ==
 
 The SAVE program allows applicants for whom a verification has been initiated and is pending to check the status of their verification online, using SAVE CaseCheck through a web browser. To verify identity, the applicant needs to fill in information similar to that needed to initiate a verification, as well as the verification case number. Note that only existing pending verifications can be looked up using SAVE CaseCheck. It is not possible for a prospective applicant to use this feature preemptively, before a verification is initiated by the agency using SAVE.<ref>{{cite web|url = https://www.uscis.gov/save/save-case-check|title = Welcome to SAVE CaseCheck|publisher = [[United States Citizenship and Immigration Services]]|date = February 18, 2016|accessdate = June 5, 2016}}</ref><ref name=studyinthestates>{{cite web|url = https://studyinthestates.dhs.gov/2015/09/uscis-explains-the-save-program|title = USCIS Explains The SAVE Program|date = September 22, 2015|accessdate = June 5, 2016|publisher = Study in the States, [[U.S. Department of Homeland Security]]}}</ref>
@@ -139,10 +151,21 @@ SAVE can be used to get information supporting the veracity of documents and sta
 
 Applicants who are United States citizens since birth usually have no presence in any of the databases accessible to SAVE, although those who have renounced their citizenship, or have otherwise come in contact with immigration enforcement may have some available data. For this reason, the absence of matching records found by SAVE cannot be used to rule out the possibility that somebody is a United States citizen.<ref name=save-pia/>
 
-
 === Data not returned to the customer agency ===
 
 Based on a Memorandum of Agreement (MOA) between the DHS and the [[U.S. Department of State]], passport numbers are not included in the information returned to customer agencies using SAVE. However, the data is available to Status Verifiers when using the PCQS during the first Additional Verification stage or while doing the final verification based on Document G-845.<ref name=save-pia/>
+
+== History ==
+
+=== Original mandate in the Immigration Reform and Control Act of 1986 ===
+
+The [[Immigration Reform and Control Act of 1986]], Public Law 99-603, was the original impetus for the creation of the SAVE.<ref name=save-pia/><ref name=save-governing-laws/><ref name=epic>{{cite web|url = Spotlight on Surveillance, April 2007: SAVE System Can’t Save Itself From 11-Year History of Inaccuracy, Unreliability|publisher = [[Electronic Privacy Information Center]]|date = April 1, 2007|accessdate = June 7, 2016}}</ref> The Act required the [[Immigration and Naturalization Services]] (INS) to establish a system for verifying the immigration status of non-citizen applicants applying for six federal benefit program (note that the jargon "federal public benefit" would be established much later, with the PRWORA):<ref name=epic/><ref name=save-governing-laws/>
+
+* [[Temporary Assistance to Needy Families]], [[Medicaid]] ([[U.S. Department of Health and Human Services]])
+* [[Unemployment Compensation Program]] ([[U.S. Department of Labor]])
+* Title IV Educational Assistance Programs ([[U.S. Department of Education]])
+* Some housing assistance programs ([[U.S. Department of Housing and Urban Development]])
+
 
 == References ==
 
