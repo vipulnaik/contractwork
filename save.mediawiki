@@ -1,4 +1,4 @@
-'''Systematic Alien Verification for Entitlements''' (SAVE) is a program managed by [[United States Citizenship and Immigration Services]] (USCIS), a branch of the [[U.S. Department of Homeland Security]] (DHS). SAVE facilitates lookups on the immigration and nationality status of individuals.<ref name=uscis-save>{{cite web|url = https://www.uscis.gov/save|title = SAVE|publisher = [[United States Citizenship and Immigration Services]]|accessdate = May 13, 2016}}</ref> It is an intergovernmental initiative designed to help federal, state, tribal, and local government agencies, or by a contractor acting on the agency's behalf, to determine eligibility for benefits, licenses or grants, government credentials, or to conduct background investigations.<ref name=save-pia>{{cite web|url = https://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_uscis_save.pdf|title = Privacy Impact Assessment for the Systematic Alien Verification for Entitlements (SAVE) Program|date = August 26, 2011|accessdate = May 13, 2016|publisher = [[U.S. Department of Homeland Security]]|last = Jackson|first = Janice|last2 = Hawkins|first2 = Donald|last3 = Callahan|first3 = Mary Ellen}}</ref><ref name=lii>{{cite web|url = https://www.law.cornell.edu/cfr/text/7/272.11|title = 7 CFR 272.11 - Systematic Alien Verification for Entitlements (SAVE) Program.|publisher = [[Legal Information Institute]]|accessdate = May 13, 2016}}</ref><ref name=uscis-telecon>{{cite web|url = https://www.dhs.gov/telecon-recap-immigration-status-verification-drivers-licenses-public-benefits-and-social-security|title = Telecon Recap: Immigration Status Verification for Drivers' Licenses, Public Benefits, and Social Security Cards: A Conversation with USCIS|publisher = [[U.S. Department of Homeland Security]]|accessdate = May 13, 2016}}</ref> It is one of two programs that uses the Verification Information System (VIS). The other program is the Electronic Employment Eligibility Verification Program, also known as [[e-verify]], and is used by employers to verify the immigration status of employees.<ref name=vis-pia>{{cite web|url = https://www.dhs.gov/sites/default/files/publications/privacy_pia_uscis_vis.pdf|title = Privacy Impact Assessment for the Verification Information System Supporting Verification Programs|date = April 1, 2007|accessdate = May 13, 2016|publisher = [[U.S. Department of Homeland Security]]|last = Gaffin|first = Elizabeth|last2 = Teufel III|first2 = Hugo}}</ref><ref name=vis-itpa>{{cite web|url = https://www.dhs.gov/xlibrary/assets/mgmt/itpa-uscis-vis2012.pdf|title = IT Program Assessment; USCIS -- Benefits Provision -- Verification Information System (VIS)/Employment Eligibility Verification (EEV)|date = March 31, 2012|accessdate = May 13, 2016|publisher = [[U.S. Department of Homeland Security]]}}</ref> For additional verification (in cases where VIS proves inadequate), SAVE relies on the [[Person Centric Query System]] (PCQS).<ref name=save-pia/>
+'''Systematic Alien Verification for Entitlements''' (SAVE) is a program managed by [[United States Citizenship and Immigration Services]] (USCIS), a branch of the [[U.S. Department of Homeland Security]] (DHS). SAVE facilitates lookups on the immigration and nationality status of individuals in the [[United States]].<ref name=uscis-save>{{cite web|url = https://www.uscis.gov/save|title = SAVE|publisher = [[United States Citizenship and Immigration Services]]|accessdate = May 13, 2016}}</ref> It is an intergovernmental initiative designed to help federal, state, tribal, and local government agencies, or by a contractor acting on the agency's behalf, to determine eligibility for benefits, licenses or grants, government credentials, or to conduct background investigations.<ref name=save-pia>{{cite web|url = https://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_uscis_save.pdf|title = Privacy Impact Assessment for the Systematic Alien Verification for Entitlements (SAVE) Program|date = August 26, 2011|accessdate = May 13, 2016|publisher = [[U.S. Department of Homeland Security]]|last = Jackson|first = Janice|last2 = Hawkins|first2 = Donald|last3 = Callahan|first3 = Mary Ellen}}</ref><ref name=lii>{{cite web|url = https://www.law.cornell.edu/cfr/text/7/272.11|title = 7 CFR 272.11 - Systematic Alien Verification for Entitlements (SAVE) Program.|publisher = [[Legal Information Institute]]|accessdate = May 13, 2016}}</ref><ref name=uscis-telecon>{{cite web|url = https://www.dhs.gov/telecon-recap-immigration-status-verification-drivers-licenses-public-benefits-and-social-security|title = Telecon Recap: Immigration Status Verification for Drivers' Licenses, Public Benefits, and Social Security Cards: A Conversation with USCIS|publisher = [[U.S. Department of Homeland Security]]|accessdate = May 13, 2016}}</ref> It is one of two programs that uses the [[Verification Information System]] (VIS). The other program is the Electronic Employment Eligibility Verification Program, also known as [[E-Verify]], and is used by employers to verify the immigration status of employees.<ref name=vis-pia>{{cite web|url = https://www.dhs.gov/sites/default/files/publications/privacy_pia_uscis_vis.pdf|title = Privacy Impact Assessment for the Verification Information System Supporting Verification Programs|date = April 1, 2007|accessdate = May 13, 2016|publisher = [[U.S. Department of Homeland Security]]|last = Gaffin|first = Elizabeth|last2 = Teufel III|first2 = Hugo}}</ref><ref name=vis-itpa>{{cite web|url = https://www.dhs.gov/xlibrary/assets/mgmt/itpa-uscis-vis2012.pdf|title = IT Program Assessment; USCIS -- Benefits Provision -- Verification Information System (VIS)/Employment Eligibility Verification (EEV)|date = March 31, 2012|accessdate = May 13, 2016|publisher = [[U.S. Department of Homeland Security]]}}</ref> For additional verification (in cases where VIS proves inadequate), SAVE relies on the [[Person Centric Query System]] (PCQS).<ref name=save-pia/>
 
 == Permissible uses and users ==
 
@@ -17,30 +17,32 @@ A given agency is eligible to use SAVE only if determining the immigration and n
 # Conducting a background investigation
 # Any other lawful purpose
 
-SAVE does not itself make determinations regarding the applicant's eligibility for a benefit or license.<ref name=save-pia/><ref>{{cite web|url = https://www.tdhca.state.tx.us/community-affairs/docs/SAVEWebinarSlides.pdf|title = Systematic Alien Verification for Entitlements (SAVE) Program|date = April 19, 2016|accessdate = May 13, 2016|publisher = Texas Department of Housing and Community Affairs}}</ref><ref name=ipc-save-factsheet>{{cite web|url = http://www.immigrationpolicy.org/just-facts/systematic-alien-verification-entitlements-save-program-fact-sheet|title = The Systematic Alien Verification for Entitlements (SAVE) Program: A Fact Sheet|publisher = [[Immigration Policy Center]]|accessdate = May 13, 2016}}</ref> Rather, it simply provides an easy way to pull information about the benefit or license applicant from a variety of government databases. As discussed later, the absence of matching records in SAVE does not imply that the applicant's presence in the United States is unauthorized, or that the applicant is ineligible for the benefit. It simply means that the records accessible were not able to confirm the applicant's eligibility.
-
 In addition to these, any contractor of an agency of the above description is eligible to use SAVE if the task contracted out to them requires immigration and nationality lookups for one of the above reasons.<ref name=save-pia/>
+
+SAVE does not itself make determinations regarding the applicant's eligibility for a benefit or license.<ref name=save-pia/><ref>{{cite web|url = https://www.tdhca.state.tx.us/community-affairs/docs/SAVEWebinarSlides.pdf|title = Systematic Alien Verification for Entitlements (SAVE) Program|date = April 19, 2016|accessdate = May 13, 2016|publisher = Texas Department of Housing and Community Affairs}}</ref><ref name=ipc-save-factsheet>{{cite web|url = http://www.immigrationpolicy.org/just-facts/systematic-alien-verification-entitlements-save-program-fact-sheet|title = The Systematic Alien Verification for Entitlements (SAVE) Program: A Fact Sheet|publisher = [[Immigration Policy Center]]|accessdate = May 13, 2016}}</ref> Rather, it simply provides an easy way to pull information about the benefit or license applicant from a variety of government databases. As discussed later, the absence of matching records in SAVE does not imply that the applicant's presence in the United States is unauthorized, or that the applicant is ineligible for the benefit. It simply means that the records accessible were not able to confirm the applicant's eligibility.<ref name=ipc-save-factsheet/>
 
 == Usage by customer agencies ==
 
+The general way SAVE is used is as follows. The noncitizen first submits all the necessary documentation based on the eligibility criteria for the program he or she is applying to (these eligibility criteria can vary based on the person's immigration status, the state, and the program being applied to). If this documentation in principle demonstrates the applicant's eligibility, then the caseworker at the agency can use SAVE to verify that the documentation is accurate. If Initial Verification fails, then the caseworker can (and must, if the applicant wants) submit the case for Additional Verification and then, if necessary, submit Form G-845. If the verification fails to demonstrate the validity of the documentation provided by the applicant, the applicant is not granted the benefit. The caseworker cannot use this failure to conclude that the applicant is lying about his/her status, or to use it to report the applicant to [[U.S. Immigration and Customs Enforcement]].<ref name=ua-rtip/><ref name=dpaweb/>
+
 === Modes and stages of verification using SAVE ===
 
-SAVE has three modes of electronic access that offer the same functionality.<ref name=save-verification-process/>
+SAVE has three modes of electronic access that offer all of its basic functionality.<ref name=save-verification-process/><ref name=ua-rtip/>
 
 * Web-based access, through the USCIS website accessed through a secure web browser<ref name=save-login/>
 * Web services, an interface that uses a direct machine-to-machine connection
 * SAVE via AAMVAnet (VLS), available to [[Department of Motor Vehicles]] in US states
 
-SAVE allows for three levels of verification for those using the system electronically.<ref name=save-pia/><ref name=dpaweb>{{cite web|url = http://dpaweb.hss.state.ak.us/manuals/admin/105/105-14.htm|title = 105-14  SYSTEMATIC ALIEN VERIFICATION FOR ENTITLEMENTS - ELECTRONIC VERIFICATION PROCESS|publisher = DPA Web|accessdate = June 5, 2016}}</ref><ref name=save-verification-process>{{cite web|url = https://www.uscis.gov/save/getting-started/save-verification-process|title = SAVE Verification Process|publisher = [[United States Citizenship and Immigration Services]]|accessdate = June 5, 2016}}</ref>
+SAVE allows for three levels of verification for those using the system electronically.<ref name=save-pia/><ref name=dpaweb>{{cite web|url = http://dpaweb.hss.state.ak.us/manuals/admin/105/105-14.htm|title = 105-14  SYSTEMATIC ALIEN VERIFICATION FOR ENTITLEMENTS - ELECTRONIC VERIFICATION PROCESS|publisher = DPA Web|accessdate = June 5, 2016}}</ref><ref name=save-verification-process>{{cite web|url = https://www.uscis.gov/save/getting-started/save-verification-process|title = SAVE Verification Process|publisher = [[United States Citizenship and Immigration Services]]|accessdate = June 5, 2016}}</ref><ref name=ua-rtip>{{cite web|url = http://ua-rtip.org/sites/ua-rtip.org/files/Christal_Gainyard.pdf|title = Systematic Alien Verification for Entitlements (SAVE) Program|accessdate = June 11, 2016|publisher = Race Track Industry Program}}</ref>
 
 {| class="wikitable"
 ! Verification stage !! Description !! Modality !! Backend system used !! Time taken !! Cost<ref name=save-cost-structure>{{cite web|url = https://www.uscis.gov/save/getting-started/save-access-methods-transaction-charges|title = SAVE Access Methods & Transaction Charges|publisher = [[United States Citizenship and Immigration Services]]|date = February 18, 2016|accessdate = June 5, 2016}}</ref>
 |-
-| '''Initial Verification''' using the Verification Information System || This purely electronic verification process can take a few minutes for entering data and retrieving a response. || Electronic initiation by customer agency; queries are automated || Verification Information System (VIS) || The actual search takes 3 to 5 seconds; it may take a few minutes to enter all the relevant information to initiate the search. || $0.50, another $0.50 for retry
+| '''Initial Verification''' using the Verification Information System || Relevant identifying data for the applicant is entered by the caseworker on a computer, and then a query is initiated to get confirmation of the validity of the records. || Electronic initiation by customer agency; queries are automated || [[Verification Information System]] (VIS) || The actual search takes 3 to 5 seconds; it may take a few minutes to enter all the relevant information to initiate the search. || $0.50, another $0.50 for retry
 |-
-| '''Additional Verification''' initiated using the Verification Information System || If the initial verification fails to turn up matches, or if there is a problem with the results, an additional verification can be initiated electronically by entering more information into the system || Electronic initiation by customer agency; queries are done by human Status Verifiers || Person Centric Query System (PCQS) || This usually takes about 3 to 5 federal government work days (or about one calendar week). The information is returned electronically. || $0.50
+| '''Additional Verification''' initiated using the Verification Information System || If the initial verification fails to turn up matches, or if there is a problem with the results, an additional verification can be initiated electronically by entering more information into the system || Electronic initiation by customer agency; queries are done by human Status Verifiers || [[Person Centric Query System]] (PCQS) || This usually takes about 3 to 5 federal government work days (or about one calendar week). The information is returned electronically. || $0.50
 |-
-| '''Document Verification Request''' (Form G-845) || If the additional verification fails to turn up the information sought, SAVE electronically notifies the customer agency to submit an electronically prepopulated Form G-845, Document Verification Request, by mail to the USCIS Immigration Status Verification Unit with a copy of the applicant's immigration documentation. || Electronic/Mail (the supporting documents need to be sent by mail) by customer agency; queries are done by human Status Verifiers || PCQS || This usually takes 10 to 20 federal government work days (or about one calendar week). The information is returned electronically. || no charge (''only'' if both the initial and additional verification are carried out electronically). In case the additional verification step is skipped, charge of $0.50.
+| '''Document Verification Request''' (Form G-845) || If the additional verification fails to turn up the information sought, SAVE electronically notifies the customer agency to submit an electronically prepopulated Form G-845, Document Verification Request, by mail to the USCIS Immigration Status Verification Unit with a copy of the applicant's immigration documentation. || Electronic/Mail (the supporting documents need to be sent by mail) by customer agency; queries are done by human Status Verifiers || PCQS; in addition, it might lead to corrections of records in the USCIS' [[Central Index System]] (CIS) || This usually takes 10 to 20 federal government work days (or about one calendar week). The information is returned electronically. || no charge (''only'' if both the initial and additional verification are carried out electronically). In case the additional verification step is skipped, charge of $0.50.
 |}
 
 In addition, there is also an option of ''pure'' paper-based verification, where the agency directly submits a paper Form G-845, and gets a response within 10 to 20 federal government work days. This costs the customer agency $2, compared to the total maximum charge of $1.50 if initiating the query electronically. However, this option is discouraged since the use of electronic means for Initial Verification saves time and money for all parties involved.<ref name=save-verification-process/>
@@ -49,7 +51,7 @@ In addition, there is also an option of ''pure'' paper-based verification, where
 
 For Initial Verification, the authorized caseworker of the customer agency needs to first log in to SAVE through the Verification Information System, after agreeing to the terms and conditions of usage.<ref name=save-login>{{cite web|url = https://save.uscis.gov/web/vislogin.aspx?JS=YES|title = Sign In, Systematic Alien Verification for Entitlements|accessdate = June 5, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref><ref name=dpaweb/> The caseworker may then choose the "Initiate Cases" tab, enter relevant information about the applicant whose status needs to be checked, and submit it. If matching records are found in the databases available to SAVE, these are returned. Some of these records may contain photos, which are also included in the response. The caseworker can respond whether the photo matches the corresponding photo submitted by the applicant or any other applicant photo. Only information related to the applicant is returned in the Initial Verification.<ref name=dpaweb/>
 
-The Initial Verification process generally takes a few minutes. The case is kept open for 180 days (so the caseworker can access the case details at any time till then, and print out if needed) after which it are closed if no action is taken during that time.<ref name=dpaweb/>
+The Initial Verification process generally takes a few minutes (the actual search itself takes 3 to 5 seconds).<ref name=save-verification-process/> The case is kept open for 180 days (so the caseworker can access the case details at any time till then, and print out if needed) after which it are closed if no action is taken during that time.<ref name=dpaweb/>
 
 ==== Additional Verification ====
 
@@ -68,24 +70,86 @@ If the caseworker submits these documents, Status Verifiers conduct a more thoro
 
 === Cost structure for customer agencies ===
 
-Customer agencies are charged on a per-query basis, with a cost of $0.50 each for initial verification, retry, and additional verification, and a cost of $2.00 for a paper G-845 if the verification process is not initiated electronically. Billing is monthly, and there is a minimum monthly service transaction charge of $25.00 if the SAVE program is used at all, any time within the month. There is no charge during months when SAVE is not used at all. This pricing structure for SAVE has been effective since October 1, 2008.<ref name=save-cost-structure/>
+Customer agencies are charged on a per-query basis, with a cost of $0.50 each for initial verification, retry, and additional verification, and a cost of $2.00 for a paper G-845 if the verification process is not initiated electronically. Billing is monthly, and there is a minimum monthly service transaction charge of $25.00 if the SAVE program is used at all, any time within the month. There is no charge during months when SAVE is not used at all. This pricing structure for SAVE has been effective since October 1, 2008.<ref name=save-cost-structure/> Billing is done by the USCIS's Burlington Financial Center, and methods of payment include credit card and check.<ref name=ua-rtip/>
 
 === Obligations of customer agencies as agreed upon while using SAVE ===
 
 For a customer agency to sign up to use SAVE, the agency must agree to SAVE's Memorandum of Agreement (MOA) or Computer Matching Agreement (CMA). This covers a range of topics:
 
-* The customer agency agrees to responsibilities regarding safe handling of information, minimum security standards for electronic transmissions, and breach incident notification. These provisions are compliant with requirements of the [[Federal Information Security Management Act of 2002]] (FISMA), relevant [[Office of Management and Budget]] (OMB) guidance, and the [[U.S. Department of Homeland Security]] Sensitive Systems Policy 4300A.<ref name=save-pia/>
-* The customer agency agrees to various other obligations around the use of stages of verification. For instance, if the initial verification turns up no response, or if the information is inconsistent with what the applicant submitted, the agency must inform the applicant, and, if the applicant wishes to undergo additional verification, the agency must request additional verification.
+# The customer agency agrees to responsibilities regarding safe handling of information, minimum security standards for electronic transmissions, and breach incident notification. These provisions are compliant with requirements of the [[Federal Information Security Management Act of 2002]] (FISMA), relevant [[Office of Management and Budget]] (OMB) guidance, and the [[U.S. Department of Homeland Security]] Sensitive Systems Policy 4300A.<ref name=save-pia/>
+# The customer agency agrees to various other obligations around the use of stages of verification. For instance, if the initial verification turns up no response, or if the information is inconsistent with what the applicant submitted, the agency must inform the applicant, and, if the applicant wishes to undergo additional verification, the agency must request additional verification.
+# The customer agency agrees to limit its determination of the applicant's immigration and nationality status to the limited purposes necessary for determining eligibility for the benefit. 
 
-=== Customer agencies' responsibilities around using SAVE ===
+Specific USCIS guidance on (3) is included below.<ref name=dpaweb/>
+
+For applicants for the [[Supplemental Nutrition Assistance Program]] (SNAP; colloquially called "food stamps"):
+
+* The caseworker will not determine that a household member is ineligible to receive food stamps because that person is in the U.S. illegally unless specific documentation is provided showing illegal status.
+* A caseworker must never assume that a household member is in the U.S. illegally if they fail to provide documentation of their legal status. 
+* A report will not be made to the local USCIS office if the caseworker determines the alien is ineligible to receive benefits because the alien failed to provide documentation showing proof of legal status in the U.S.
+* If the caseworker receives a confession from a household member that they are in the U.S. illegally, the caseworker will determine that the household member is ineligible to receive food stamps only if there is documentation that supports the confession. If there is no documentation that supports the confession, the caseworker will require the household member to provide documentation of legal status. If the household member does not provide the documentation, deny benefits for the household member for which information was not received.
+* A report will be made to the local USCIS office only if a confession from the alien is received that they are in the U.S. illegally and there is documentation that supports the confession.
+
+For applicants for other programs:
+
+* If an applicant fails to provide proof of legal alien status for a member of the household, the caseworker will not make any further investigation of the household member’s legal status.
+* If an applicant fails to provide documentation of legal alien status for a member of the household, the caseworker will consider the household member ineligible for public assistance due to failure to provide documentation of legal alien status.
+* Since the caseworker did not determine the household member ineligible for benefits due to their illegal status, the household member will not be reported to USCIS.
+
+=== Programs for which the use of SAVE is mandated ===
 
 The use of SAVE is governed by a number of federal and state rules, with some rules requiring the use of SAVE for some purposes, and other rules restricting the usage of SAVE and putting limits on the way customer agencies can use the information obtained from SAVE. Note that SAVE does not usually contain information about people who were citizens since birth.<ref name=save-pia/> It also does not offer any conclusive information regarding immigration status, but is simply a tool that helps verify documentation of status that a person submits.<ref name=ipc-save-factsheet/>
 
-==== Immigration Reform and Control Act of 1986 ====
+Below is a list of programs and the status of using SAVE for them. As a general rule, SAVE is used to verify the immigration status ''only'' for people who do not claim to be citizens of the United States. It is not generally used to verify citizenship status for either birthright citizens or naturalized citizens, even though SAVE usually contains information for naturalized citizens.<ref name=save-governing-laws>{{cite web|url = https://www.uscis.gov/save/about-save-program/save-governing-laws|title = SAVE Governing Laws|publisher = [[United States Citizenship and Immigration Services]]|date = March 20, 2014|accessdate = June 6, 2016}}</ref> In the table below, "eligible at state option" means that individual states can set rules around eligibility within that category, i.e., they can choose to either provide the benefit or deny it.
 
-{{main article|Immigration Reform and Control Act of 1986}}
 
-SAVE arose as a result of a mandate in the Immigration Reform and Control Act of 1986. According to this act, agencies participating in the following programs are required to use SAVE to verify documentation of eligibility for the following programs:<ref name=save-governing-laws>{{cite web|url = https://www.uscis.gov/save/about-save-program/save-governing-laws|title = SAVE Governing Laws|publisher = [[United States Citizenship and Immigration Services]]|date = March 20, 2014|accessdate = June 6, 2016}}</ref>
+{| class="wikitable sortable"
+! Program !! Source of funding !! Level at which it is administered !! Mandatory? !! Eligibility for lawful permanent residents<ref name=noncitizen-public-benefit-eligibility>{{cite web|url = https://www.fas.org/sgp/crs/misc/RL33809.pdf|title = Noncitizen Eligibility for Federal Public Assistance: Policy Overview and Trends|author = Ruth Ellen Wasem|date = September 24, 2014|accessdate = June 11, 2016}}</ref> !! Eligibility for humanitarian statuses<ref name=noncitizen-public-benefit-eligibility/> !! Eligibility for nonimmigrant statuses<ref name=noncitizen-public-benefit-eligibility/> !! Eligibility for unauthorized aliens<ref name=noncitizen-public-benefit-eligibility/> !! Historical context
+|-
+| [[Temporary Assistance for Needy Families]] (TANF) (colloquially called "welfare") 
+|| [[U.S. Department of Health and Human Services]] (federal government) 
+|| State agencies 
+|| Mandatory for all non-citizen applicants 
+|| Ineligible for first five years in US; eligible at state option after that. However, those with a military connection are eligible regardless of time in the United States 
+|| Eligible for first five years after entry/grant of status; eligible at state option after that 
+|| Ineligible 
+|| Ineligible 
+|| The [[Immigration Reform and Control Act of 1986]] required agencies participating in [[Aid to Families with Dependent Children]] (AFDC) to participate in the verification of any applicant's immigration status. Later, with the [[Personal Responsibility and Work Opportunity Act]], AFDC was replaced by TANF, and the requirement to verify applicants' immigration status was transfered over to the new program.<ref name=save-governing-laws/><ref name=save-pia/>
+|-
+| [[Supplemental Security Income]] 
+|| [[Social Security Administration]] (however, it does not use the [[Social Security trust fund]] 
+|| [[Disability Determination Services]] (state agencies funded by the federal government), with final approval by SSA needed 
+|| Mandatory for all non-citizen applicants<ref name=ssi-save>{{cite web|url = https://secure.ssa.gov/poms.nsf/lnx/0300204020|title = RS 00204.020 Developing Lawful Presence of an Alien in the U.S.|publisher = [[Social Security Administration]]|date = May 7, 2013|accessdate = June 11, 2016}}</ref> 
+|| Ineligible until naturalization, except military and grandfathered applicants, or those with a 10-year work history 
+|| Eligible for first 7 years after entry/grant of status; ineligible after that 
+|| Ineligible 
+|| Ineligible 
+|| In 1996, SAVE was not mandatory but was used by 160 offices wih high caseloads.<ref>{{cite web|url = https://www.ssa.gov/legislation/testimony_020696.html|title = Social Security Testimony Before Congress|last = Colvin|first = Carolyn|date = February 6, 1996|accessdate = June 11, 2016|publisher = [[Social Security Administration]]}}</ref> As of May 2013, the use of SAVE (either the online system or submission of Document G-845 for offices that were exempted from using the online system) was mandated.<ref name=ssi-save/>
+|-
+| [[Supplemental Nutrition Assistance Program]] (SNAP; colloquially called "food stamps") 
+|| [[Food and Nutrition Service]] under [[U.S. Department of Agriculture]] 
+|| State agencies
+|| Mandatory for all non-citizen applicants 
+|| Ineligible for five years after entry, except military and grandfathered cases, old people, children, and people with a substantial (10-year) work history 
+|| Eligible after entry/grant of status 
+|| Ineligible 
+|| Ineligible 
+|| Until 2014, the use of SAVE in SNAP was optional, but the [[Agricultural Act of 2014]] mandated its use.<ref name=nilc-federal-program-eligibility>{{cite web|url = https://www.nilc.org/issues/economic-support/overview-immeligfedprograms/|title = Overview of Immigrant Eligibility for Federal Programs|date = December 1, 2015|accessdate = June 11, 2016|publisher = [[National Immigration Law Center]]}}</ref>
+|-
+| [[Medicaid]] 
+|| [[U.S. Department of Health and Human Services]] 
+|| [[Center for Medicare and Medicaid Services]], in conjunction with state agencies
+|| Mandatory for all non-citizen applicants 
+|| Eligible if eligible for either TANF or SSI, or if pregnant or for emergency medical services 
+|| Eligible for 7 years after entry/grant of status, and eligible at state option after that 
+|| Eligible only for emergency services 
+|| Eligible only for emergency services 
+|| The IRCA of 1986 required all agencies participating in the Medicaid program to verify immigration status for non-citizens not using emergency medical services, through the program that would later become SAVE.<ref name=save-governing-laws/>
+|-
+| [[Temporary Unemployment Compensation Program]] || [[U.S. Department of Labor]] (federal government) 
+|}
+
+SAVE arose as a result of a mandate in the Immigration Reform and Control Act of 1986. According to this act, agencies participating in the following programs are required to use SAVE to verify documentation of eligibility for the following programs:
 
 
 * [[Temporary Assistance to Needy Families]], [[Medicaid]] ([[U.S. Department of Health and Human Services]])
@@ -93,17 +157,6 @@ SAVE arose as a result of a mandate in the Immigration Reform and Control Act of
 * Title IV Educational Assistance Programs ([[U.S. Department of Education]])
 * Some housing assistance programs ([[U.S. Department of Housing and Urban Development]])
 
-=== Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ===
-
-{{main article|Personal Responsibility and Work Opportunity Reconciliation Act of 1996}}
-
-The Personal Responsibility and Work Opprtunity Reconciliation Act of 1996 (abbreviated PRWORA, also commonly described as the 1996 Welfare Reform Act)  made a number of changes to the laws surrounding eligibility for welfare benefits. The law defined "federal public benefits" and "state and local public benefits." PRWORA required the Attorney General to establish regulations and interim guidance for the verification of immigration status of persons applying for federal public benefits. The guidance is for any entity administering a non-exempt federal public benefit, other than non-profit charitable organizations, and is not limited to the agencies and programs specified in IRCA or those using SAVE. However, SAVE helps with compliance with this guidance.<ref name=save-governing-laws/>
-
-=== Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ===
-
-{{main article|Illegal Immigration Reform and Immigrant Responsibility Act of 1996}}
-
-The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 required the [[Immigration and Naturalization Services]] (that would later be restructured as the [[U.S. Department of Homeland Security]] and its sub-agency, [[United States Citizenship and Immigration Services]]) to cooperate with federal, state, and local agencies to determine the citizenship or immigration status of any individual within the jurisdiction of the agency for any purposes authorized by law. The SAVE program is the way that DHS and USCIS meet the obligation.
 
 == Services for applicants ==
 
@@ -165,6 +218,18 @@ The [[Immigration Reform and Control Act of 1986]], Public Law 99-603, was the o
 * [[Unemployment Compensation Program]] ([[U.S. Department of Labor]])
 * Title IV Educational Assistance Programs ([[U.S. Department of Education]])
 * Some housing assistance programs ([[U.S. Department of Housing and Urban Development]])
+
+=== Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ===
+
+{{main article|Personal Responsibility and Work Opportunity Reconciliation Act of 1996}}
+
+The Personal Responsibility and Work Opprtunity Reconciliation Act of 1996 (abbreviated PRWORA, also commonly described as the 1996 Welfare Reform Act)  made a number of changes to the laws surrounding eligibility for welfare benefits. The law defined "federal public benefits" and "state and local public benefits." PRWORA required the Attorney General to establish regulations and interim guidance for the verification of immigration status of persons applying for federal public benefits. The guidance is for any entity administering a non-exempt federal public benefit, other than non-profit charitable organizations, and is not limited to the agencies and programs specified in IRCA or those using SAVE. However, SAVE helps with compliance with this guidance.<ref name=save-governing-laws/>
+
+=== Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ===
+
+{{main article|Illegal Immigration Reform and Immigrant Responsibility Act of 1996}}
+
+The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 required the [[Immigration and Naturalization Services]] (that would later be restructured as the [[U.S. Department of Homeland Security]] and its sub-agency, [[United States Citizenship and Immigration Services]]) to cooperate with federal, state, and local agencies to determine the citizenship or immigration status of any individual within the jurisdiction of the agency for any purposes authorized by law. The SAVE program is the way that DHS and USCIS meet the obligation.
 
 
 == References ==
