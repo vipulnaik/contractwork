@@ -22,6 +22,9 @@ AKC can do multiple bounties a week, thereby building a surplus of
 bounties completed, allowing him to take more time off later in the
 year.
 
+Current delay: 1 week
+Maximum acceptable delay: 4 weeks
+
 * Start by January 8, finish by January 10: Timeline of online food delivery
 * Start by January 15, finish by January 17: Timeline of Amazon.com
 * Start by January 22, finish by January 24: Timeline of Microsoft
@@ -43,12 +46,13 @@ year.
 * Start by May 13, end by May 15: Maverick Capital
 * Start by May 20, end by May 22 (significantly delayed): Timeline of Netflix
 * Start by May 27, end by May 29 (significantly delayed): Timeline of WhatsApp
+* Start by June 3, end by June 5 (delayed by one week): Timeline of Xiaomi
 
 (more weeks, months to be added).
 
 == Completed pages ==
 
-Total so far: $1577
+Total so far: $1652
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -71,21 +75,13 @@ Total so far: $1577
 * Maverick Capital: $35
 * Timeline of Netflix: $135
 * Timeline of WhatsApp: $120
-
-== Specific technologies ==
-
-* Facebook Live: Proposed bounty amount: $150 for a high-quality page completed by May 1. Bounty amount may reduce if the page is not completed by then. Get some initial references from the events related to live-streaming of Facebook videos in the timeline of Facebook, from August 2015 and January - March 2016, and then F8 conference.
-
+* Timeline of Xiaomi: $75
 == Timeline pages ==
 
 In general, for timeline pages, we expect about 1-5% of the pageviews
 that we see for the corresponding page whose timeline page it is.
 
 === Technology ===
-
-* Timeline of WhatsApp: The WhatsApp page gets about 110K views a month, so we should expect 1000-5000 pageviews a month. Proposed bounty amount: $120
-
-* Timeline of Xiaomi: The Xiaomi page gets 40K views a month, so we should expect 400-2000 pageviews per month.  Proposed bounty amount: $75
 
 * Timeline of Amazon Web Services: The Amazon Web Services page gets about 40K views a month, so we should expect 400-2000 pageviews per month. Proposed bounty amount: $95
 
