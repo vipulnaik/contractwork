@@ -216,7 +216,40 @@ The IRCA restricted access to six federal benefit programs to United States citi
 
 === Initial implementation of SAVE ===
 
-Based on the law, INS began work on implementing SAVE, with a two-stage verification process: Primary Verification and Secondary Verification. The electronic database, known as the Alien Status Verification Index, was initially maintained by [[Martin Marietta]] on contract with the INS.<ref name=save-1995-review>{{cite web|url = http://oig.hhs.gov/oei/reports/oei-07-91-01231.pdf|title = Review of the SAVE System's Process|publisher = [[Office of Inspector General]], [[U.S. Department of Health and Human Services]]|date = November 1, 1995|accessdate = June 11, 2016|last = Brown|first = June Gibbs}}</ref><ref name=epic/> In 1995, the Office of the Inspector General of the [[U.S. Department of Health and Human Services]] (HHS) conducted a review of SAVE at the request of the [[Administration for Children and Families]] (ACF), a division of HHS. The review focused only on aliens applying for [[Aid to Families with Dependent Children]] and [[Medicaid]], the programs requiring the use of SAVE that HHS was responsible for. The review looked at verification requests between October 1992 and December 1993. It found that:<ref name=save-1995-review/><ref name=epic/>
+Based on the law, INS began work on implementing SAVE, with a two-stage verification process: Primary Verification and Secondary Verification. The electronic database, known as the Alien Status Verification Index, was initially maintained by [[Martin Marietta]] on contract with the INS.<ref name=save-1995-review>{{cite web|url = http://oig.hhs.gov/oei/reports/oei-07-91-01231.pdf|title = Review of the SAVE System's Process|publisher = [[Office of Inspector General]], [[U.S. Department of Health and Human Services]]|date = November 1, 1995|accessdate = June 11, 2016|last = Brown|first = June Gibbs}}</ref><ref name=epic/>
+
+=== Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ===
+
+{{main article|Personal Responsibility and Work Opportunity Reconciliation Act of 1996}}
+
+The Personal Responsibility and Work Opprtunity Reconciliation Act of 1996 (abbreviated PRWORA, also commonly described as the 1996 Welfare Reform Act), Public Law 104-193, was passed by the [[104th United States Congress]] and signed into law by then President [[Bill Clinton]]. The law was the cornerstone of the [[Republican Party (United States)|Republican Party]]'s [[Contract with America]] and fulfilled Clinton's promise to "end welfare as we have come to know it." While its most famous component was the replacement of [[Aid to Families with Dependent Children]] (AFDC) by the more temporary and less generous [[Temporary Assistance for Needy Families]], the law had lesser known provisions surrounding non-citizen eligibility for welfare benefits. 
+
+The law defined "federal public benefits" and "state and local public benefits." PRWORA required the Attorney General to establish regulations and interim guidance for the verification of immigration status of persons applying for federal public benefits, including benefits whose existing statutes did not specifically state that verification of immigration status was required.. The guidance is for any entity administering a non-exempt federal public benefit, other than non-profit charitable organizations, and is not limited to the agencies and programs specified in IRCA or those using SAVE. However, SAVE helps with compliance with this guidance.<ref name=save-governing-laws/>
+
+PRWORA made a distinction between two kinds of non-citizens, broadly defined:<ref name=noncitizen-public-benefit-eligibility/><ref name=qualified-alien>{{cite web|url = http://www.bsc-cdhs.org/cwe/ed/pdf/Qualified%20Alien.pdf|title = Eligibility Documentation for Child Welfare Programs: Qualified Immigrant (Services)|accessdate = June 11, 2016}}</ref>
+
+* Qualified aliens are aliens who could in principle qualify for federal benefits (or state benefits with partial federal funding) that are accessible to citizens. However, even qualified aliens may have to meet conditions (such as work history, or presence in the United States for some amount of time) that citizens did not need to demonstrate. Qualified aliens include lawful permanent residents as well as those on asylum and humanitarian statuses.
+* Non-qualified aliens are aliens who are ineligible for all federal benefits as well as state benefits with federal funding, with a few exceptions such as emergency health care or relief. Non-qualified aliens include all people in temporary nonimmigrant statuses (such as students and temporary workers) regardless of the duration of their stay. The other main category of non-qualified aliens is people who are not currently in authorized status, either due to unauthorized entry or becase they fell out of status in the United States.
+
+=== Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ===
+
+{{main article|Illegal Immigration Reform and Immigrant Responsibility Act of 1996}}
+
+The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 required the [[Immigration and Naturalization Services]] (that would later be restructured as the [[U.S. Department of Homeland Security]] and its sub-agency, [[United States Citizenship and Immigration Services]]) to cooperate with federal, state, and local agencies to determine the citizenship or immigration status of any individual within the jurisdiction of the agency for any purposes authorized by law. The SAVE program (that was already in existence) is the way that DHS and USCIS meet the obligation. IIRIRA also contained provisions that led to the creation of the Basic Pilot Program, that would eventually morph into [[E-Verify]], the analogue of SAVE used by employers.<ref name=epic/>
+
+=== Real ID Act of 2005 ===
+
+{{main article|Real ID Act}}
+
+The Real ID Act of 2005 mandated that state-issued IDs (such as driver's license or state ID cards) could be used as proof of identity by the federal level only if they complied with specific compliance measures. Of the various federal identification purposes to which these compliance measures were relevant, the one with the largest affected population was commercial air travel in the United States. However, since most US states have not fully implemented the standards, the date from which only compliant IDs will be accepted has been pushed back to January 22, 2018.<ref>{{cite web|url = https://www.dhs.gov/news/2016/01/08/statement-secretary-jeh-c-johnson-final-phase-real-id-act-implementation|title = 
+== Critical reception ==
+
+=== Government audits, reviews, and reports ===
+
+==== 1995 review by the Inspector General of the Department of Health and Human Services ====
+
+
+ In 1995, the Office of the Inspector General of the [[U.S. Department of Health and Human Services]] (HHS) conducted a review of SAVE at the request of the [[Administration for Children and Families]] (ACF), a division of HHS. The review focused only on aliens applying for [[Aid to Families with Dependent Children]] and [[Medicaid]], the programs requiring the use of SAVE that HHS was responsible for. The review looked at verification requests between October 1992 and December 1993. It found that:<ref name=save-1995-review/><ref name=epic/>
 
 * State are not consistently performing the required secondary verification to validate aliens' status: Of the 268 cases examined, the review found 92 cases where secondary verification was not done. Of these, the states improperly made eligibility decisions without full development in 45 cases, and improperly relied on unauthenticated documentation in 47 cases.
 * States are not documenting their case files to establish that they have obtained adequate and current responses from the SAVE verification process prior to initiating payment to aliens.
@@ -225,26 +258,6 @@ Based on the law, INS began work on implementing SAVE, with a two-stage verifica
 * States are unable to consistently match and locate sample cases where an "institute secondary verification" message is generated by INS.
 
 The report put most of the responsibility and blame on state agencies, and recommended to the ACF and the [[Health Care Financing Administration]] (HCFA) to remind state agencies of SAVE requirements. ACF, however, believed that the problems were more the result of poor design of the system by INS.<ref name=save-1995-review/>
-
-=== Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ===
-
-{{main article|Personal Responsibility and Work Opportunity Reconciliation Act of 1996}}
-
-The Personal Responsibility and Work Opprtunity Reconciliation Act of 1996 (abbreviated PRWORA, also commonly described as the 1996 Welfare Reform Act), Public Law 104-193, was passed by the [[104th United States Congress]] and signed into law by then President [[Bill Clinton]]. The law was the cornerstone of the [[Republican Party (United States)|Republican Party]]'s [[Contract with America]] and fulfilled Clinton's promise to "end welfare as we have come to know it." While its most famous component was the replacement of [[Aid to Families with Dependent Children]] (AFDC) by the more temporary and less generous [[Temporary Assistance for Needy Families]], the law had lesser known provisions surrounding non-citizen eligibility for welfare benefits. 
-
-The law defined "federal public benefits" and "state and local public benefits." PRWORA required the Attorney General to establish regulations and interim guidance for the verification of immigration status of persons applying for federal public benefits. The guidance is for any entity administering a non-exempt federal public benefit, other than non-profit charitable organizations, and is not limited to the agencies and programs specified in IRCA or those using SAVE. However, SAVE helps with compliance with this guidance.<ref name=save-governing-laws/>
-
-PRWORA made a distinction between two kinds of non-citizens, broadly defined:<ref name=noncitizen-public-benefit-eligibility/>
-
-* Qualified aliens are aliens who could in principle qualify for federal benefits (or state benefits with partial federal funding) that were accessible to citizens. However, even qualified aliens may have to meet conditions (such as work history, or presence in the United States for some amount of time) that citizens did not need to demonstrate. Qualified aliens include lawful permanent residents as well as those on asylum and humanitarian statuses.
-* Non-qualified aliens are aliens who are ineligible for all federal benefits as well as state benefits with federal funding, with a few exceptions such as emergency health care or relief. Non-qualified aliens include all people in temporary nonimmigrant statuses (such as students and temporary workers) regardless of the duration of their stay. The other main category of non-qualified aliens is people who are not currently in authorized status, either due to unauthorized entry or becase they fell out of status in the United States.
-
-=== Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ===
-
-{{main article|Illegal Immigration Reform and Immigrant Responsibility Act of 1996}}
-
-The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 required the [[Immigration and Naturalization Services]] (that would later be restructured as the [[U.S. Department of Homeland Security]] and its sub-agency, [[United States Citizenship and Immigration Services]]) to cooperate with federal, state, and local agencies to determine the citizenship or immigration status of any individual within the jurisdiction of the agency for any purposes authorized by law. The SAVE program is the way that DHS and USCIS meet the obligation. IIRIRA also contained provisions that led to the creation of the Basic Pilot Program, that would eventually morph into [[E-Verify]], the analogue of SAVE used by employers.<ref name=epic/>
-
 === 2003 Government Accountability Office report on issuing Social Security numbers ===
 
 As of 2003, the [[Social Security Administration]] used independent third-party verification of documentation submitted by noncitizens with the issuing agencies ([[U.S. Department of Homeland Security]] and [[U.S. Department of State]]) prior to issuing a [[Social Security Number]]. The verification of these documents involved using SAVE. A 2003 [[Government Accountability Office]] report highlighted potential weaknesses in the way SSA was using SAVE. In particular, it noted that whereas SAVE was able to verify the immigration status for the applicant based on the information provided by the applicant, SSA staff were neglecting to actually verify the authenticity of the documents themselves, making it possible to issue a SSN based on fake documentation corresponding to a real but different person. Other weaknesses in SSA's use of SAVE were also identified.<ref name=gao-ssn-2003>{{cite web|url = http://www.gao.gov/products/GAO-04-12|title = Actions Taken to Strengthen Procedures for Issuing Social Security Numbers to Noncitizens, but Some Weaknesses Remain|date = October 15, 2003|accessdate = June 11, 2016|publisher = [[Government Accountability Office]]}}</ref>
