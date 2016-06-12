@@ -104,10 +104,10 @@ The use of SAVE is governed by a number of federal and state rules, with some ru
 
 Below is a list of federal public benefits where the use of SAVE is mandated for any non-citizens seeking those benefits. It is not generally used to verify citizenship status for either birthright citizens or naturalized citizens, even though SAVE usually contains information for naturalized citizens.<ref name=save-governing-laws>{{cite web|url = https://www.uscis.gov/save/about-save-program/save-governing-laws|title = SAVE Governing Laws|publisher = [[United States Citizenship and Immigration Services]]|date = March 20, 2014|accessdate = June 6, 2016}}</ref> We divide the non-citizens into four broad categories: lawful permanent residents, those in asylum/humanitarian statuses, those in lawful temporary nonimmigrant statuses, and unauthorized aliens (those who entered unlawfully or are otherwise out of status).<ref name=noncitizen-public-benefit-eligibility/> Aliens in the first two categories are called "qualified aliens" and are eligible for some federal public benefits, whereas those in the last two categories are called "non-qualified aliens" and are ineligible for all federal public benefits except emergency medical and relief services.<ref name=qualified-alien/><ref name=noncitizen-public-benefit-eligibility/> 
 
-In the table below, "eligible at state option" means that individual states can set rules around eligibility within that category, i.e., they can choose to either provide the benefit or deny it. Since non-qualified aliens are eligible for none of the benefits (except emergency medical services) we only include columns on the two main types of qualified aliens,
+In the table below, "eligible at state option" means that individual states can set rules around eligibility within that category, i.e., they can choose to either provide the benefit or deny it. Since non-qualified aliens are eligible for none of the benefits (except emergency medical services) we only include columns on the two main types of qualified aliens.
 
 {| class="wikitable sortable"
-! Program !! Source of funding !! Level at which it is administered !! Mandatory? !! Eligibility for lawful permanent residents (a type of qualified alien)<ref name=noncitizen-public-benefit-eligibility>{{cite web|url = https://www.fas.org/sgp/crs/misc/RL33809.pdf|title = Noncitizen Eligibility for Federal Public Assistance: Policy Overview and Trends|author = Ruth Ellen Wasem|date = September 24, 2014|accessdate = June 11, 2016}}</ref> !! Eligibility for humanitarian statuses (a type of qualified alien)<ref name=noncitizen-public-benefit-eligibility/> !! Historical context
+! Program !! Source of funding !! Level at which it is administered !! Mandatory? !! Eligibility for lawful permanent residents (a type of qualified alien)<ref name=noncitizen-public-benefit-eligibility>{{cite web|url = https://www.fas.org/sgp/crs/misc/RL33809.pdf|title = Noncitizen Eligibility for Federal Public Assistance: Policy Overview and Trends|author = Ruth Ellen Wasem|date = September 24, 2014|accessdate = June 11, 2016|publisher = [[Congressional Research Service]]}}</ref> !! Eligibility for humanitarian statuses (a type of qualified alien)<ref name=noncitizen-public-benefit-eligibility/> !! Historical context
 |-
 | [[Temporary Assistance for Needy Families]] (TANF) (colloquially called "welfare") 
 || [[U.S. Department of Health and Human Services]] (federal government) 
@@ -134,14 +134,36 @@ In the table below, "eligible at state option" means that individual states can 
 || Until 2014, the use of SAVE in SNAP was optional, but the [[Agricultural Act of 2014]] mandated its use.<ref name=nilc-federal-program-eligibility>{{cite web|url = https://www.nilc.org/issues/economic-support/overview-immeligfedprograms/|title = Overview of Immigrant Eligibility for Federal Programs|date = December 1, 2015|accessdate = June 11, 2016|publisher = [[National Immigration Law Center]]}}</ref>
 |-
 | [[Medicaid]] 
-|| [[U.S. Department of Health and Human Services]] 
-|| [[Center for Medicare and Medicaid Services]], in conjunction with state agencies
+|| [[United States Department of Health and Human Services]] (HHS)
+|| [[Centers for Medicare and Medicaid Services]] (CMS), in conjunction with state agencies; CMS is under HHS
 || Mandatory for all non-citizen applicants 
 || Eligible if eligible for either TANF or SSI, or if pregnant or for emergency medical services 
 || Eligible for 7 years after entry/grant of status, and eligible at state option after that
 || The IRCA of 1986 required all agencies participating in the Medicaid program to verify immigration status for non-citizens not using emergency medical services, through the program that would later become SAVE. Note that everybody is eligible for emergency services and SAVE need not be used to determine immigration status if Medicaid funds are being used solely for emergency services.<ref name=save-governing-laws/>
 |-
-| [[Temporary Unemployment Compensation Program]] || [[U.S. Department of Labor]] (federal government) 
+| [[Temporary Unemployment Compensation Program]] 
+|| [[U.S. Department of Labor]] (federal government) 
+|| State unemployment agencies
+|| Mandatory for all non-citizen applicants
+|| Eligible if the worker spent some time in LPR status employed and paying payroll taxes<ref name=tucp-eligibility>{{cite web|url = http://www.nelp.org/content/uploads/Immigrants-Eligibility-for-Unemployment-Compensation.pdf|title = Fact Sheet for Immigrant Worker Advocates: Advocating for the working poor and the unemployed|date = April 1, 2002|accessdate = June 11, 2016|publisher = [[National Employment Law Project]]}}</ref>
+|| Eligible (some fine print)<ref name=tucp-eligibility/>
+|| The IRCA of 1986 required all agencies administering this program to verify immigration status for non-citizens.<ref name=save-governing-laws/>
+|-
+| [[Title IV]] Educational Assistance (this refers to Title IV of the [[Higher Education Act of 1965]])
+|| [[United States Department of Education]]
+|| [[Federal Student Aid]], an office of the Department of Education
+|| Mandatory for all non-citizen applicants
+|| Eligible<ref name=fsa-handbook>{{cite web|url = https://ifap.ed.gov/fsahandbook/attachments/1516Vol1Ch2.pdf|title = Federal Student Aid Handbook, Volume 1, Chapter 2: Citizenship|accessdate = June 12, 2016}}</ref>
+|| Eligible, usually after having spent at least one year in the United States<ref name=fsa-handbook/>
+|| The IRCA of 1986 has required verification of immigration status for all non-citizen applicants
+|-
+| Housing assistance programs
+|| [[U.S. Department of Housing and Urban Development]] (HUD)
+|| Varies based on the program, but include local public housing authorities (PHAs) and property owners<ref name=crs-housing/>
+|| Mandatory for all non-citizen applicants
+|| Eligible<ref name=crs-housing>{{cite web|url = CRS Report for Congress Prepared for Members and Committees of Congress. Immigration: Noncitizen Eligibility for Needs-Based Housing Programs|publisher = [[Congressional Research Service]]|last = Siskin|first = Alison|last2 = McCarty|first2 = Maggie|date = July 18, 2008|accessdate = June 12, 2016}}</ref>
+|| Eligible<ref name=crs-housing/>
+|| The IRCA of 1986 mandated verification of immigration status for some housing assistance programs. Prior to PRWORA (1996), HUD released regulations based on Section 214 that established a standard for verifying an applicant's aimmigration status. After the passage of PRWORA, the criteria became more standardized. SAVE is used to determine immigration status and eligibility for all non-citizens.<ref name=crs-housing/>
 |}
 
 === State identification cards and driver's licenses ===
@@ -253,15 +275,25 @@ The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 required
 
 The REAL ID Act of 2005 mandated that state-issued IDs (such as driver's license or state ID cards) could be used as proof of identity by the federal level only if they complied with specific compliance measures. Of the various federal identification purposes to which these compliance measures were relevant, the one with the largest affected population was commercial air travel in the United States. However, since most US states have not fully implemented the standards, the date from which only compliant IDs will be accepted has been pushed back to January 22, 2018.<ref>{{cite web|url = https://www.dhs.gov/news/2016/01/08/statement-secretary-jeh-c-johnson-final-phase-real-id-act-implementation|title = Statement By Secretary Jeh C. Johnson On The Final Phase Of REAL ID Act Implementation|date = January 8, 2016|accessdate = June 11, 2016|publisher = [[U.S. Department of Homeland Security]]}}</ref>
 
-One of the compliance requirements for state driver's licenses and identification cards  is the requirement to verify the legal presence status of non-citizens seeking these documents using SAVE. State [[Department of Motor Vehicles]] can either directly enroll in SAVE, or use AAMVANet, the [[American Association of Motor Vehicles Administration]] Network.<ref name=save-pia/><ref name=save-verification-process/>
+One of the compliance requirements for state driver's licenses and identification cards  is the requirement to verify the legal presence status of non-citizens seeking these documents using SAVE. State [[Department of Motor Vehicles]] can either directly enroll in SAVE, or use AAMVANet, the [[American Association of Motor Vehicle Administrators]] Network.<ref name=save-pia/><ref name=save-verification-process/>
 
 One of the issues created by the REAL ID Act was that people on temporary non-immigrant statuses could be in legal status despite having an expired visa, and state offices were not necessarily equipped to evaluate the legality of their current status. SAVE is intended to help with making less error-prone determinations of legal status for these cases.<ref name=uscis-telecon/> SAVE has had some known issues, including not having up-to-date information for extensions of stay, extensions of stay for dependents, and change of status from student to temporary worker.<ref name=sevp-dmv-factsheet/> [[U.S. Immigration and Customs Enforcement]] provides guidance to students who encounter problems getting a driver's license or state identification card due to these issues.<ref name=sevp-dmv-factsheet/>
 
-=== Transparency and monitoring efforts by DHS and USCIS ===
+=== Expansion of SAVE to any purpose authorized by law ===
 
+A System of Records Notice by DHS, published on December 11, 2008, expanded the use of SAVE to any purpose authorized by law.<ref>{{cite web|url = https://www.gpo.gov/fdsys/pkg/FR-2008-12-11/pdf/E8-29283.pdf|title = Vol. 73, No. 239|publisher = ''[[Federal Register]]''|date = December 11, 2008|accessdate = June 12, 2016}}</ref><ref name=ipc-save-factsheet/>
 
+=== Mandating of E-Verify and change to the format of Privacy Impact Assessment ===
 
-== Critical reception ==
+[[E-Verify]], the analogue of SAVE for private employers, was mandated by the IIRIRA of 1996, and initially launched as the Basic Pilot Program before becoming a fully fledged program mandated for some employers around 2008.<ref name=epic/><ref name=e-verify-pia>{{cite web|url = https://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_uscis_everify.pdf|title = Privacy Impact Assessment for the E-Verify Program|date = May 4, 2010|accessdate = June 12, 2016|publisher = [[U.S. Department of Homeland Security]]|last = Stapleton|first = Claire|last2 = Hawkins|first2 = Donald|last3 = Callahan|first3 = Mary Ellen}}</ref>
+
+Until 2008, DHS conducted Privacy Impact Assessments (PIAs) for the individual systems used in SAVE and E-Verify, specifically the VIS<ref name=vis-pia/> and PCQS.<ref name=pcqs-pia/> However, in 2010, DHS switched to conducting PIAs for the programs as seen by their end users, i.e., PIAs for SAVE<ref name=save-pia/> and E-Verify.<ref name=e-verify-pia/>
+
+=== Continued increase in mandated use of SAVE ===
+
+Over time, the use of SAVE has been getting increasingly mandated for various federal and state programs. For a long time, the use of SAVE was optional for agencies administering the [[Supplemental Nutrition Assistance Program]]. However, the [[Agricultural Act of 2014]] made it mandatory.<ref name=nilc-federal-program-eligibility/>
+
+== Critical reception and response ==
 
 === Government audits, reviews, and reports ===
 
@@ -280,7 +312,30 @@ The report put most of the responsibility and blame on state agencies, and recom
 
 As of 2003, the [[Social Security Administration]] used independent third-party verification of documentation submitted by noncitizens with the issuing agencies ([[U.S. Department of Homeland Security]] and [[U.S. Department of State]]) prior to issuing a [[Social Security Number]]. The verification of these documents involved using SAVE. A 2003 [[Government Accountability Office]] report highlighted potential weaknesses in the way SSA was using SAVE. In particular, it noted that whereas SAVE was able to verify the immigration status for the applicant based on the information provided by the applicant, SSA staff were neglecting to actually verify the authenticity of the documents themselves, making it possible to issue a SSN based on fake documentation corresponding to a real but different person. Other weaknesses in SSA's use of SAVE were also identified.<ref name=gao-ssn-2003>{{cite web|url = http://www.gao.gov/products/GAO-04-12|title = Actions Taken to Strengthen Procedures for Issuing Social Security Numbers to Noncitizens, but Some Weaknesses Remain|date = October 15, 2003|accessdate = June 11, 2016|publisher = [[Government Accountability Office]]}}</ref>
 
+=== DHS and USCIS efforts to address criticism and concerns ===
+
+DHS and USCIS have made efforts to be more transparent about the use of SAVE and improve monitoring of it.<ref name=ipc-save-factsheet/><ref>{{cite web|url = https://www.dhs.gov/uscis-pias-and-sorns|title = Privacy Documents for U.S. Citizenship and Immigration Services (USCIS)|publisher = [[United States Citizenship and Immigration Services]]|accessdate = June 12, 2016}}</ref><ref>{{cite web|url = https://www.uscis.gov/e-verify/about-program/e-verify-save-privacy-publications|title = E-Verify & SAVE Privacy Publications|accessdate = June 12, 2016|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+
+* [[Privacy Impact Assessment]]s (PIAs): These are assessments of the system, the data sources it uses, what it is used for, and how it affects the privacy of the parties involved. 
+* [[System of Records Notice]] (SORN): When making changes to the way SAVE is used or can be used by customer agencies, or making changes to the backend implementation, DHS issues SORNs providing the information.
+
+DHS has a Compliance Tracking and Monitoring System (CTMS) for SAVE, to make sure that agencies using SAVE do not misuse it. CTMS is exempt from some provisions of the Privacy Act.<ref name=ctms>{{cite web|url = https://www.gpo.gov/fdsys/pkg/FR-2010-08-23/pdf/2010-20856.pdf|title = Rules and Regulations, Vol. 75, No. 162|publisher = ''[[Federal Register]]''|date = August 23, 2010|accessdate = June 12, 2016}}</ref>
+
+=== Criticisms by private institutions ===
+
+The [[Electronic Privacy Information Center]] has been critical of SAVE and of the expansion of the Basic Pilot Program (now E-Verify) that uses the same backend systems as SAVE.<ref name=epic/>
+
+The [[Immigration Policy Center]] has been critical of SAVE for the following reasons:<ref name=ipc-save-factsheet/>
+
+* The Compliance Tracking and Monitoring System (CTMS), intended to detect and prevent misuse of SAVE, is exempt from the provisions of the Privacy Act that require notifying individuals if their information has been wrongly disclosed.<ref name=ctms/><ref name=ipc-save-factsheet/>
+* Since SAVE was expanded to allow its use for any purpose authorized by law, DHS has not discussed any due process or privacy protections to address potential for misuse of SAVE and deal with issues such as notice to affected individuals, redress if a benefit is wrongly denied or if SAVE is misused, or any evaluation of how the system is used or if it is accurate.
+
+The IPC has also been critical of the use of SAVE for determining voting eligibility.<ref name=ipc-save-voting-eligibility/>
+
+== See also ==
+
+* [[E-Verify]]
 
 == References ==
 
-{{reflist}}
+{{reflist|30em}}
