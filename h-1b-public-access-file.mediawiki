@@ -1,57 +1,75 @@
-A '''Public Access File''' is a file that needs to be maintained by any United States employer hiring people in [[H-1B visa|H-1B]], [[H-1B1 visa|H-1B1]], or [[E-3 visa|E-3]] temporary nonimmigrant worker statuses. It is intended to include more background information related to the attestations made on the [[Labor Condition Application]] used for the [[Form I-129]] and/or visa application that was used to acquire the nonimmigrant worker status.<ref name=murthy>{{cite web|url = http://www.murthy.com/2011/06/17/employer-public-access-file-requirements-for-h1b-h1b1-and-e-3-workers/|title = Employer Public Access File Requirements for H1B, H1B1 and E-3 Workers|date = June 17, 2011|accessdate = March 31, 2016|publisher = Murthy Law Firm}}</ref><ref name=olender>{{cite web|url = http://www.olender.pro/immigration/business-immigration/compliance/public-access-file|title = Maintaining the H-1B Public Access File|publisher= Olender Law Firm|accessdate = March 31, 2016}}</ref> The file may be requested by any member of the public through telephone or email inquiries, that should be responded to within 3 business days. It is distinguished from a Private Access File that might contain more sensitive and confidential employee data that must be shared with the [[U.S. Department of Labor]] or (other US government agencies?) if they choose to investigate.
+A '''public access file''' (sometimes capitalized as '''Public Access File''', sometimes abbreviated as '''PAF''', and also called a '''public examination file''') is a file that needs to be maintained by any United States employer hiring people in [[H-1B visa|H-1B]], [[H-1B1 visa|H-1B1]], or [[E-3 visa|E-3]] temporary nonimmigrant worker statuses. It is intended to include more background information related to the attestations made on the [[Labor Condition Application]] used for the [[Form I-129]] and/or visa application that was used to acquire the nonimmigrant worker status.<ref name=murthy>{{cite web|url = http://www.murthy.com/2011/06/17/employer-public-access-file-requirements-for-h1b-h1b1-and-e-3-workers/|title = Employer Public Access File Requirements for H1B, H1B1 and E-3 Workers|date = June 17, 2011|accessdate = March 31, 2016|publisher = Murthy Law Firm}}</ref><ref name=olender>{{cite web|url = http://www.olender.pro/immigration/business-immigration/compliance/public-access-file|title = Maintaining the H-1B Public Access File|publisher= Olender Law Firm|accessdate = March 31, 2016}}</ref><ref name=visapro>{{cite web|url = http://www.visapro.com/h1b-visa/h1b-labor-condition-application.asp|title = H1B Labor Condition Application: An Overview|accessdate = June 12, 2016|publisher = VisaPro}}</ref> The file may be requested by any member of the public through telephone or email inquiries, that should be responded to within 3 business days. It is distinguished from a private fccess file that contains more sensitive and confidential employee data that must be shared with the [[U.S. Department of Labor]] if they choose to investigate. Regulations governing the public access file can be found in the [[Code of Federal Regulations]], Title 20 (Employee Benefits), or more specifically, in 20 CFR 655.760<ref name=cfr>{{cite web|url = https://www.law.cornell.edu/cfr/text/20/655.760|title = 20 CFR 655.760 - What records are to be made available to the public, and what records are to be retained?|publisher = [[Code of Federal Regulations]] (mirrored on the website of the [[Legal Information Institute]])}}</ref> (note that that section does not itself use the term "public access file" but other sections that refer to it refer to it with that name).<ref name=cfr-h-1b-dependent-willful>{{cite web|url = https://www.law.cornell.edu/cfr/text/20/655.736|title = 20 CFR 655.736 - What are H-1B-dependent employers and willful violators?|publisher = [[Code of Federal Regulations]] (mirrored on the website of the [[Legal Information Institute]])|accessdate = June 12, 2016}}</ref>
 
 == Contents of the file ==
 
-=== Labor Condition Applications ===
+We use the term "public access file" to refer to all the records associated with a specific LCA. In other words, to each LCA, there is one associated public access file, and different LCAs have different public access files. This holds even though much of the content of these files overlaps.<ref name=cfr/><ref name=olender/>
 
-The Public Access File should include the entirety of all Labor Condition Applications. (Is this relevant any more given that all LCAs are submitted online?)
+=== The Labor Condition Application itself ===
+
+For LCAs submitted by paper, a copy of the certified LCA (Form ETA 9035E or Form ETA 9035) and cover pages (Form ETA 9035CP) must be included. If the LCA is submitted electronically, a printout of the certified application, signed by the employer, needs to be included.<ref name=cfr/><ref name=dol-summary>{{cite web|url = https://www.dol.gov/whd/immigration/h1bprsnt.ppt|title = The Employment of Non-immigrants on H-1B Visas (PPT)|publisher = [[United States Department of Labor]]|accessdate = June 12, 2016}}</ref>
 
 === Background information on the attestations made ===
 
-The goal of the Public Access File is to provide more information explaining the basis of the attestations made in the [[Labor Condition Application]]. Below, we go over the list of the attestations made and any information that must be included in the Public Access File for those attestations.
+The goal of the public access file is to provide more information explaining the basis of the attestations made in the [[Labor Condition Application]]. Below, we go over the list of the attestations made and any information that must be included in the public access file for those attestations.
 
 === Attestation #1: Wages ===
 
-In the LCA, the employer must attest that the non-immigrant workers on behalf of whom the application is being made will be paid at or above both these numbers:
+In the LCA, the employer must specify the wage that the non-immigrant worker(s) being hired via the LCA will be paid, and attest that the non-immigrant workers on behalf of whom the application is being made will be paid at or above both these numbers:
 
 * The '''actual wage''': This is the wage paid to other employees in the company who do the same work.
 * The [[prevailing wage]]: This is the wage for that occupation in the geographical area of intended employment.
 
 The employer must make similar attestation regarding non-wage benefits offered.
 
-The Public Access File must include documentation clearly explaining the following:
+The public access file must contain three pieces of information relevant to the wage attestations:<ref name=cfr/><ref name=dol-summary/>
 
-* A full, clear explanation of the system the employer used to set the "actual wage."
-* A full, clear explanation of the system the employer used to set the "prevailing wage."
+* Documentation of the wage rate being paid to the non-immigrant worker(s).
+* A full, clear explanation of the system the employer used to set the "actual wage" the employer has paid or will pay workers in the occupation for which the non-immigrant worker(s) is/are being sought. This should also include information on any periodic increases that the system may provide, such as a memorandum summarizing the employer's pay system or scale. Payroll records are not required in the ''public'' access file, but may be demanded by the Department of Labor in an audit.
+* A full, clear explanation of the system the employer used to set the "prevailing wage" for the occupation in the intended area of employment. A general description of the source and methodolofy suffices. The underlying individual wage data relied upon is not a matter of public record, but may be demanded by the Department of Labor in an audit.
+* A summary of benefits offered, as well as a statement on how differentiation in benefits is made when not all employees are offered or receive the same benefits. Where applicable, a statement that some/all of the non-immigrant workers are receiving home country benefits.<ref name=olender/><ref name=cfr/><ref name=cfr-lca-1>{{cite web|url = https://www.law.cornell.edu/cfr/text/20/655.731#c_3|title = 20 CFR 655.731 - What is the first LCA requirement, regarding wages?|accessdate = June 12, 2016|publisher = [[Code of Federal Regulations]] (mirrored on the [[Legal Information Institute]] website)}}</ref> The clause on benefits, along with the exception for home country benefits, was introduced as part of the [[American Competitiveness in the 21st Century Act]].
 
 === Attestation #2: Working conditions ===
 
-In the LCA, the employer must attest that the hiring of non-immigrant workers will not adversely affect the working conditions of similarly employed workers at the company, and that the non-immigrant workers will be offered similar working conditions as native US workers. The Public Access File is not required to contain any particular mandatory information on working conditions (???).
+In the LCA, the employer must attest that the hiring of non-immigrant workers will not adversely affect the working conditions of similarly employed workers at the company, and that the non-immigrant workers will be offered similar working conditions as native US workers. The official regulations on the public access file do not mention any information that needs to be included regarding working conditions.<ref name=cfr/>
 
 === Attestation #3: Strike, lockout, or work stoppage ===
 
 In the LCA, the employer must attest that on the day the application is filed, there is not a strike, lockout, or work stoppage in the named occupation at the place of employment and that, if such a strike, lockout, or work stoppage occurs after the application is submitted, the employer will notify ETA within three (3) days of such occurrence and the application will not be used to file a work authorization petition until the ETA has determined that the work stoppage has ceased.
 
-Documentation of such strikes, lockouts, or work stoppages, if they occurred, should be included in the Public Access File (???).
+The official regulations on the public access file do not mention any information that needs to be included regarding strikes, lockouts, or work stoppages.<ref name=cfr/>
 
 === Attestation #4: Notice ===
 
 In the LCA, the employer must attest that as of the date of application, notice of the application has been or will be provided both to workers within the company in the said application. Also, the (prospective) workers on whose behalf the application is filed must be provided a copy of the application.
 
-The Public Access File must include proof of satisfying union/employee notification requirements. For non-union positions this means the posting notice.<ref name=olender/>
+The public access file must include proof of satisfying union/employee notification requirements.<ref name=cfr/><ref name=cfr-lca-4>{{cite web|url = https://www.law.cornell.edu/cfr/text/20/655.734|title = 20 CFR 655.734 - What is the fourth LCA requirement, regarding notice?|accessdate = June 12, 2016|publisher = [[Code of Federal Regulations]] (mirrored on the [[Legal Information Institute]] website)}}</ref> For non-union positions this means the posting notice.<ref name=olender/><ref name=cfr-lca-4/><ref name=dol-summary/>
+
+The employer must maintain additional evidence that the LCA was posted for at least ten business days (about two weeks) in two conspicuous locations. This evidence need only be included in the private access file.<ref name=olender/>
+
+=== Requirements surrounding change in corporate structure ===
+
+When the employer undergoes a change in corporate structure, the public access file must be amended to include a sworn statement by a responsible official of the new employing entity that it accepts all obligations, liabilities and undertakings under the LCAs filed by the predecessor employing entity, together with a list of each affected LCA and its date of certification, and a description of the actual wage system and FEIN of the new employing entity.<ref name=cfr/><ref name=dol-summary/>
+
+=== Requirements relevant to H-1B-dependent employers and willful violators ===
+
+The following are relevant to [[H-1B-dependent employer|H-1B-dependency]]. Employers who are H-1B-dependent, or who come close to being H-1B-dependent, may have some of these apply:<ref name=cfr/><ref name=cfr-h-1b-dependent-willful/><ref name=dol-summary/>
+
+* Where the employer utilizes the definition of "single employer" in the IRC, a list of any entities included as part of the single employer in making the determination as to its H-1B-dependency status.
+* Where the employer is H-1B-dependent and/or a willful violator, and indicates on the LCA(s) that only "exempt" H-1B nonimmigrants will be employed, a list of such "exempt" H-1B nonimmigrants.
+* Where the employer is H-1B-dependent or a willful violator, a summary of the recruitment methods used and the time frames of recruitment of U.S. workers (or copies of pertinent documents showing this information). This helps provide substantiation of the additional attestations regarding recruitment and hiring that H-1B-dependent employers and willful violators need to make.
 
 == Retention requirements == 
 
-The PAF must be kept as long as the worker is employed in a status that depends on the corresponding LCA, and for one year after the worker is no longer in that status with the company.
+The PAF must be kept as long as the worker is employed in a status that depends on the corresponding LCA, and for one year after the worker is no longer in that status with the company. This one-year requirement pertains only to public access files; payroll records (that need to be maintained privately for a Department of Labor audit) need to be maintained for three years since the payment was made.<ref name=murthy/><ref name=olender/><ref name=cfr/>
 
-== Penalties ==
+== Compliance burden and penalties ==
 
-- Required to produce file to member of the public within three days, or DOL.
+The employer must provide the public access file of any employee to any member of the public who requests it by phone or email. The turnaround time should be not more than three business days of the request. Failure to provide the public access file is, in and of itself, considered a compliance failure, regardless of whether there was any intent to deceive or inaccuracies in LCA attestations. However, as the [[H-1B Visa Reform Act of 2004]] clarifies, violations will not be cited in case of good faith efforts to comply, if records are corrected within 10 days, and there is no general pattern of willful violations.<ref name=dol-summary/><ref name=immigrationdc>{{cite web|url = http://www.immigrationdc.com/blog/public-access-file-requirement-for-h-1b-employers/|title = “Public Access File” Requirement for H-1B Employers|publisher = Deutsch, Killea and Eapen|accessdate = June 12, 2016}}</ref>
 
-- Failure to produce PAF quickly is itself compliance failure regardless of intent or any inaccuracy in LCA attestations.
+According to the website of law firm Olender, [[Employment Standards Administration]] investigations have confirmed off-the-record that they may request public access files, posing as members of the public, and that failure to comply can increase the chances of an audit.<ref name=olender/>
 
-- Past cooperation and compliance on PAF means less likely to be subjected to heavy penalties.
+It is generally advised not to include any information in the public access file beyond that mandated by law, since additional information can compromise the privacy of employees and of the company.<ref name=berardi>{{cite web|url = http://www.berardiimmigrationlaw.com/immigration-blog/public-access-file/|title = H-1B Basics: Public Access File|publisher = Berardi Immigration Law|date = January 21, 2016|accessdate = June 12, 2016}}</ref> The additional information that may be demanded in an audit, such as payroll records, full details of wage calculations and H-1B dependency calculations, and evidence of duration of notice posting, needs to be maintained in a private access file.<ref name=berardi/><ref name=olender/><ref name=immitips>{{cite web|url = http://immitips.com/2008/02/dol-audits-is-your-public-access-file-ready-for-inspection/|title = DOL Audits: Is your public access file ready for inspection?|publisher = ImmiTips|accessdate = June 12, 2016|date = February 28, 2008|author = Lexmaster}}</ref>
 
 == References ==
 
-{{reflist}}
+{{reflist|30em}}
