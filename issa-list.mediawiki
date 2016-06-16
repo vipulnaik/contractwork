@@ -1,4 +1,4 @@
-Total so far: $1859 ($1044 paid, $815 payment pending)
+Total so far: $2109 ($1044 paid, $1065 payment pending)
 
 == Completed pages ==
 
@@ -50,6 +50,9 @@ Total so far: $331 ($111 paid, $220 payment pending)
 
 * Monthly update of Open Phil and Good Ventures grant lists (end of May): $50
 
+== Touch payments ===
+
+Total: $250
 == Global public health and related investigation ==
 
 === New pages ===
