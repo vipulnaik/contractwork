@@ -28,9 +28,9 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 === Philanthropy ===
 
-* Field Foundation (aka Field Foundation of New York, now dead, splinter group Field Foundation of Illinois lives on): $25: Basic article discussing the founding by Marshall Field, other aspects of history, the Richard Boone er, etc. See Holden's reply comment at http://www.openphilanthropy.org/blog/history-philanthropy-case-study-founding-center-budget-and-policy-priorities
+* Field Foundation (aka Field Foundation of New York, now dead, splinter group Field Foundation of Illinois lives on): $25 (reserved): Basic article discussing the founding by Marshall Field, other aspects of history, the Richard Boone er, etc. See Holden's reply comment at http://www.openphilanthropy.org/blog/history-philanthropy-case-study-founding-center-budget-and-policy-priorities
 
-* Richard W. Boone: $30-50 (based on length and quality): This is the guy who played a role as Executive Director of the Field Foundation (of Illinois?). He also appears to have bankrolled the Center on Budget and Policy Priorities (CBPP).
+* Richard W. Boone: $30-50 (based on length and quality) (reserved): This is the guy who played a role as Executive Director of the Field Foundation (of Illinois?). He also appears to have bankrolled the Center on Budget and Policy Priorities (CBPP).
 
 * Scientific charity movement: $30-50 (depending on length and quality): Somewhat related to Charity Organization Societies (COS) but arguably sufficiently separate/distinctive to deserve a separate page. There was also a "scientific charity" that arose during the US Civil War, that may or may not be related (part of your job will be figuring out the relationship).
 
@@ -46,7 +46,7 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 * Timeline of computer chess
 
-* Timeline of autonomous vehicles
+* Timeline of autonomous vehicles (reserved)
 
 * Timeline of text and character recognition
 
