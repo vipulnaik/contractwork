@@ -1,6 +1,34 @@
+== Immigration enforcement project ==
+
+==== New pages ====
+
+* Doris Meissner (INS Commission in the 1990s, also affiliated with CEAP and MPI)
+
+* Operation Hold the Line (1994 operation targeting border-crossing; sister op was Operation Gatekeeper, has a Wikipedia page)
+
+* Mexican Interior Repatriation Program
+
+* Alien Transfer Exit Program
+
+* Priority Enforcement Program
+
+==== Improvements to existing pages ====
+
+* Form I-94: Explain more clearly things like:
+
+** Issuance at port of entry versus deferred inspection site
+** Paper versus electronic Form I-94
+** Form I-94W for VWP
+** USCIS Form I-94
+
+* Secure Fence Act of 2006
+
+* Secure Border Initiative
+
 == Current and proposed migration laws/bureaucracy ==
 
 === New pages ===
+
 
 * W visa: Discuss this visa, that is part of some proposed immigration reform. Discuss the role of CGD and other players in shaping the potential visa. Compare with H-2B.
 
@@ -18,34 +46,12 @@ Priority: Low
 
 Status: Not started
 
-* H-1A visa
-
-Purpose: Provide a better understanding of "all" the H-1 visas
-
-Priority: Low
-
-Status: Not started
-
-* H-1C visa
-
-Purpose: Provide a better understanding of "all" the H-1 visas
-
-Priority: Low
-
-Status: Not started
-
 === Improvements to existing pages ===
 
 * Immigration Innovation Act of 2015: How I need to improve it: Discuss more of its provisions, where and how it got stuck. Also discuss criticism by John Miano of CIS.
 
 Purpose: Help readers (and me) get a better understanding of various current proposals and where they stand.
 
-* Form I-94: Explain more clearly things like:
-
-** Issuance at port of entry versus deferred inspection site
-** Paper versus electronic Form I-94
-** Form I-94W for VWP
-** USCIS Form I-94
 
 
 == Migration history ==
