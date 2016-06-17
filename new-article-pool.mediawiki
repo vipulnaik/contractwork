@@ -40,8 +40,6 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 Prices not yet determined. Contact to learn more, but generally at least $50 for a well-done piece.
 
-* Timeline of machine learning (reserved): Just a focus on the development of key ML concepts, algorithms, actual real-world implementations, etc.
-
 * Timeline of speech and voice recognition (reserved)
 
 * Timeline of computer chess
@@ -88,7 +86,7 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 === Immigration ===
 
-* Stokes interview (reserved): $50: A separate interview that a field officer at USCIS conducts of a married couple with one partner seeking permanent residence. This is done after the field officer suspects fraud as a result of a joint interview of the couple. The page should discuss the history, present use, success rate, how officers think and approach this, any criticism or commentary on it.
+* Stokes interview: $50: A separate interview that a field officer at USCIS conducts of a married couple with one partner seeking permanent residence. This is done after the field officer suspects fraud as a result of a joint interview of the couple. The page should discuss the history, present use, success rate, how officers think and approach this, any criticism or commentary on it.
 
 * Academic Training: $150. This is the analogue for J-1 visas of Optional Practical Training. The full amount is available only if the page has comparable detail to the current page on Optional Practical Training. However, partial pay is possible for a reasonably good article.
 
