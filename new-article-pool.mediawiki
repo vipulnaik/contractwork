@@ -92,7 +92,7 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 === Other government/bureaucracy ===
 
-* Screening Partnership Program: $35: This is a program where the TSA partners with private operators to carry out screening at airports. The Wikipedia page should discuss the history, what airports currently use it and what ones expansion is being considered to, any TSA or DHS evaluations of security, speed of processing, etc. and general reception and commentary. Please include a mix of official sources (tsa.gov, dhs.gov, airport websites), mainstream news sources, and blogs/websites, esp. travel-focused ones.
+* Screening Partnership Program: $35 (reserved for Avi): This is a program where the TSA partners with private operators to carry out screening at airports. The Wikipedia page should discuss the history, what airports currently use it and what ones expansion is being considered to, any TSA or DHS evaluations of security, speed of processing, etc. and general reception and commentary. Please include a mix of official sources (tsa.gov, dhs.gov, airport websites), mainstream news sources, and blogs/websites, esp. travel-focused ones.
 
 * Privacy Impact Assessment: $50: A type of impact assessment conducted by an organization (typically, a government agency or corporation with access to a large amount of sensitive, private data about individuals in or flowing through its system). The organization audits its own processes and sees how these processes affect or might compromise the privacy of the individuals whose data it holds, collects, or processes. PIAs have been conducted by various sub-agencies of the U.S. Department of Homeland Security, and by many others.
 
