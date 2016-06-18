@@ -72,7 +72,7 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 === Taxation ===
 
-* Form 1120: $30: This is the main corporate income tax form in the United States. The analogue of Form 1040 for individuals and Form 990 for nonprofits. Low initial pay because I don't want anything as detailed as Form 990 or 1040 for starters. But more payment possible if you do something more detailed.
+* Form 1120: $30 (reserved by Sean): This is the main corporate income tax form in the United States. The analogue of Form 1040 for individuals and Form 990 for nonprofits. Low initial pay because I don't want anything as detailed as Form 990 or 1040 for starters. But more payment possible if you do something more detailed.
 
 * Form 1099-R: $50: Want something of comparable quality to Form 1099-MISC.
 
@@ -108,11 +108,11 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 === Taxation ===
 
-* On Form 1040, discuss the OMB controversy: https://en.wikipedia.org/wiki/Tax_protester_administrative_arguments#The_Paperwork_Reduction_Act_.28OMB_control_number.29_argument Pay: $5
+* On Form 1040, discuss the OMB controversy: https://en.wikipedia.org/wiki/Tax_protester_administrative_arguments#The_Paperwork_Reduction_Act_.28OMB_control_number.29_argument Pay: $5 (reserved by Sean)
 
-* On Form 1040, discuss the relationship with state tax returns in more detail. Pay: $5
+* On Form 1040, discuss the relationship with state tax returns in more detail. Pay: $5 (reserved by Sean)
 
-* On Form 1040, add in a brief discussion of Form 1040V, an attachment submitted when making a payment with the form. Pay: $5
+* On Form 1040, add in a brief discussion of Form 1040V, an attachment submitted when making a payment with the form. Pay: $5 (reserved by Sean)
 
 === Health (global and local) ===
 
