@@ -4,12 +4,12 @@
 
 === Equivalent definitions in tabular format ===
 
-A nonempty [[topological space]] is said to be '''contractible''' if it satisfies the following equivalent conditions. The [[empty space]] is generally excluded from consideration when considering the question of contractibility.
+A nonempty [[topological space]] is said to be '''weakly contractible''' if it satisfies the following equivalent conditions. The [[empty space]] is generally excluded from consideration when considering the question of weak contractibility.
 
 As we see below, each of the definitions (implicitly or explicitly) implies that the space is a [[path-connected space]].
 
 {| class="sortable" border="1"
-! No. !! Shorthand !! A topological space is termed contractible if ... !! A topological space <math>X</math> is termed contractible if ...
+! No. !! Shorthand !! A topological space is termed weakly contractible if ... !! A topological space <math>X</math> is termed weakly contractible if ...
 |-
 | 1 || weakly homotopy-equivalent to a point || it is weakly homotopy-equivalent to a one-point space. Note that the definition in particular implies that the space is a [[path-connected space]]. || <math>X</math> is path-connected, and it is in the same equivalence class as the [[one-point space]] under weak homotopy equivalence.
 |-
@@ -23,11 +23,11 @@ As we see below, each of the definitions (implicitly or explicitly) implies that
 |-
 | 6 || any map from a connected CW-space is nullhomotopic || it is path-connected and any continuous map from a connected [[CW-space]] (the underlying space of a [[CW-complex]]) to it is nullhomotopic. || <math>X</math> is path-connected and for any connected CW-space <math>Y</math> and any continuous map <math>f: Y \to X</math>, <math>f</math> is nullhomotopic. Note that restricting ourselves to homotopies that fix a basepoint does not change the strength of the definition.
 |-
-| 7 || any map from a connected polyhedron is nullhomotopic || it is path-connected and any continuous map from a connected [[polyhedron]] (the geometric realization of a simplicial complex) to it is nullhomotopic. || || <math>X</math> is path-connected and for any connected polyhedron <math>Y</math> and any continuous map <math>f: Y \to X</math>, <math>f</math> is nullhomotopic. Note that restricting ourselves to homotopies that fix a basepoint does not change the strength of the definition.
+| 7 || any map from a connected polyhedron is nullhomotopic || it is path-connected and any continuous map from a connected [[polyhedron]] (the geometric realization of a simplicial complex) to it is nullhomotopic. || <math>X</math> is path-connected and for any connected polyhedron <math>Y</math> and any continuous map <math>f: Y \to X</math>, <math>f</math> is nullhomotopic. Note that restricting ourselves to homotopies that fix a basepoint does not change the strength of the definition.
 |-
-| 8 || any map from a connected manifold is nullhomotopic || it is path-connected and any continuous map from a connected manifold to it is nullhomotopic. || || <math>X</math> is path-connected and for any connected manifold <math>Y</math> and any continuous map <math>f: Y \to X</math>, <math>f</math> is nullhomotopic. Note that restricting ourselves to homotopies that fix a basepoint does not change the strength of the definition.
+| 8 || any map from a connected manifold is nullhomotopic || it is path-connected and any continuous map from a connected manifold to it is nullhomotopic. || <math>X</math> is path-connected and for any connected manifold <math>Y</math> and any continuous map <math>f: Y \to X</math>, <math>f</math> is nullhomotopic. Note that restricting ourselves to homotopies that fix a basepoint does not change the strength of the definition.
 |-
-| 9 || any map from a manifold is nullhomotopic || it is path-connected and any continuous map from a manifold to it is nullhomotopic. || || <math>X</math> is path-connected and for any manifold <math>Y</math> and any continuous map <math>f: Y \to X</math>, <math>f</math> is nullhomotopic. Note that restricting ourselves to homotopies that fix a basepoint does not change the strength of the definition.
+| 9 || any map from a manifold is nullhomotopic || it is path-connected and any continuous map from a manifold to it is nullhomotopic. || <math>X</math> is path-connected and for any manifold <math>Y</math> and any continuous map <math>f: Y \to X</math>, <math>f</math> is nullhomotopic. Note that restricting ourselves to homotopies that fix a basepoint does not change the strength of the definition.
 |}
 ==Metaproperties==
 
