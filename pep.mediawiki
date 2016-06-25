@@ -1,0 +1,47 @@
+The '''Priority Enforcement Program''' ('''PEP''') is a program by the [[U.S. Department of Homeland Security]] with two primary components. First, it provides an updated official list of enforcement priorities and guidance to [[U.S. Immigration and Customs Enforcement]] on how to implement those prioties. Second, it provides new rules on how to use the cooperation of state and local law enforcement, replacing the rules of [[Secure Communities and administrative immigration policies|Secure Communities]].<ref name=ice-pep>{{cite web|url = https://www.ice.gov/pep|title = Priority Enforcement Program|publisher = [[U.S. Immigration and Customs Enforcement]]|accessdate = June 20, 2016}}</ref><ref name=migrationpolicy>{{cite web|url = http://www.migrationpolicy.org/research/understanding-potential-impact-executive-action-immigration-enforcement|title = Understanding the Potential Impact of Executive Action on Immigration Enforcement|date = July 1, 2015|last = Rosenblum|first = Marc|accessdate = June 22, 2016|publisher = [[Migration Policy Institute]]}}</ref><ref name=ilrc>{{cite web|url = http://www.ilrc.org/files/documents/life_under_pepcomm.pdf|title = Life under "PEP-Comm"|publisher = Immigrant Legal Resource Center|accessdate = June 24, 2016}}</ref> It was based on a memo by [[U.S. Department of Homeland Security]] Secretary [[Jeh Johnson]] on November 20, 2014, issued as part of President Barack Obama's announcement of a number of executive changes surrounding immigration.<ref name=johnson-pep-memo>{{cite web|url = https://www.dhs.gov/sites/default/files/publications/14_1120_memo_prosecutorial_discretion.pdf|title = Policies for the Apprehension, Detention and Removal of Undocumented Immigrants|date = November 20, 2014|accessdate = June 20, 2016|publisher = [[U.S. Department of Homeland SEcurity]]|last = Johnson|first = Jeh Charles|authorlink = Jeh Johnson}}</ref><ref name=migrationpolicy/> The official rollout of the program started on July 2, 2015.<ref name=numbersusa-rollout>{{cite web|url = https://www.numbersusa.com/news/obama-administration-implements-priority-enforcement-program-limits-interior-enforcement|title = Obama Administration Implements Priority Enforcement Program, Limits Interior Enforcement|publisher = [[NumbersUSA]]|date = July 8, 2015|accessdate = June 24, 2016}}</ref><ref name=cis-rollout>{{cite web|url = http://cis.org/vaughan/concerns-about-new-priority-enforcement-program|publisher = [[Center for Immigration Studies]]|last = Vaughan|first = Jessica|date = August 5, 2015|accessdate = June 20, 2016}}</ref>
+
+== History ==
+
+=== Dissatisfaction with the Secure Communities program ===
+
+{{main article|Secure Communities and administrative immigration policies}}
+
+Secure Communities, often written as S-COMM, was an effort pioneered in 2008 under [[George W. Bush]] and launched in 2009 under [[Barack Obama]]. The effort involved seeking cooperation from state and local law enforcement authorities in the enforcement of federal immigration laws. Two key ways that cooperation was sought were:
+
+* '''Biometric database''': The ICE and FBI had been working together to merge their fingerprint databases. Local law enforcement agencies participating in S-COMM would be asked to send any fingerprints they took of arrestees to ICE. In practice, this would mean running an automated check against ICE's database, and notifying ICE's Law Enforcement Support Center in case of a match.(add reference from S-COMM Wikipedia page)
+* '''Detainer''': If ICE is notified that a non-citizen has been arrested for a crime, ICE may place a [[detainer]] for the person. The detainer requests the jail to hold the person for 48 hours beyond the scheduled release date, so that ICE can take custody and initiate deportation proceedings.
+
+The detainers in particular were the subject of criticism as well as legal challenge. While some court challenges were based on the unconstitutionality and lack of due process, another direction of criticism was that cooperating with the detainers imposed significant additional expenditures on state and local authorities, for which ICE did not reimburse them. Overall, S-COMM was criticized as creating mistrust between law enforcement and local communities. The design of PEP-COMM was in part motivated by efforts to address these criticisms.
+
+=== 2011 Morton memo ===
+
+Vox by Dara Lind
+
+=== November 2014 memo by Jeh Johnson ===
+
+On November 20, 2014, a number of announcements were made by the administration of then United States president [[Barack Obama]] surrounding changes to immigration enforcement. The most famous of these announcements was [[Deferred Action for Parents of Americans]]. Two other announcements, both in the form of memos by then [[U.S. Department of Homeland Security]] Secretary [[Jeh Johnson]]:
+
+* One memo announced that the Secure Communities program was discontinued. In particular, ICE was to no longer issue detainers.<ref>{{cite web|url = https://www.dhs.gov/sites/default/files/publications/14_1120_memo_secure_communities.pdf|title = Secure Communities|publisher = [[U.S. Department of Homeland Security]]|last = Johnson|first = Jeh Charles|authorlink = Jeh Johnson|date = November 20, 2014|accessdate = June 20, 2016}}</ref>
+* Another memo, titled "Policies for the Apprehension, Detention and Removal of Undocumented Immigrants" provided guidelines for what would later become the Priority Enforcement Program.<ref name=johnson-pep-memo/>
+
+=== Leaks in January 2015 ===
+
+Leaked information about the Johnson memo was reported in Breitbart, picked up by ''Vox'' etc.
+
+== Enforcement priorities ==
+
+The Priority Enforcement Program divides removable aliens into three priority groups, ranked from highest priority to lowest priority:<ref name=migrationpolicy/><ref name=ice-pep/><ref name=johnson-pep-memo/><ref name=ilrc/>
+
+* '''Priority 1''' includes noncitizens who meet one or more of these criteria: national security threat, apprehended immediately at the border, gang member, or convicted of a felony or [[aggravated felony]] as defined by immigration law.
+* '''Priority 2''' includes noncitizens who meet one or more of these criteria: convicted of three or more misdemeanors, convicted of a serious misdemeanor, entered the United States unlawfully after July 1, 2014, significantly abused visas or [[Visa Waiver Program|visa waiver programs]]. Serious misdemeanors are defined as offenses involving domestic violence, sexual abuse or exploitation, burglary, unlawful possession or use of a firearm, drug distribution or trafficking, driving under the influence, and other crimes in which a defendant was sentenced to actual custody of 90 days or more.
+* '''Priority 3''' includes noncitizens subject to a final order of removal issued on or after January 1, 2014.
+ 
+(list and describe all the enforcement priorities one by one)
+
+(explain how these new priorities differ from those in the Morton memo)
+
+
+== References ==
+
+{{reflist|30em}}
+
