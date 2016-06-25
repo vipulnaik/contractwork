@@ -26,3 +26,74 @@ TODO:
 
 - Other access restrictions
 
+== First upgrade run on Fruday June 24, 7 PM Pacific Time ==
+
+* Obtained Linode 12288: 12 GB RAM, 6 cores, 8 TB transfer, 192 GB SSD
+
+* Booted with Ubuntu 16.04 LTS
+
+* Assigned IP address: 96.126.114.7
+
+* 7:09: Ran apt-get update and apt-get upgrade
+
+- 7:14: apt-get update stuck? Killing it.
+
+* 7:16: Edited gai.conf as per http://askubuntu.com/questions/574569/apt-get-stuck-at-0-connecting-to-us-archive-ubuntu-com
+
+* 7:17: Reran apt-get update successfully
+
+* 7:17: Started apt-get upgrade
+
+* 7:18: Finished apt-get upgrade
+
+* 7:18: apt-get install emacs
+
+* 7:19: apt-get install screen
+
+* 7:19: screen
+
+* 7:20: apt-get install python3-pip
+
+* 7:22: pip3 install awscli
+
+* 7:24: pip3 install --upgrade pip (upgraded to version 8.1.2)
+
+* 7:27: aws configure (requires manual entry of keys)
+
+* 7:33: Added dummy user 
+
+* 7:48: Disabled password access for root as described at http://askubuntu.com/questions/20450/disable-root-account-in-ubuntu by running passwd -l root (while root)
+
+* 7:50: Installed LongView stats for the node
+
+* 7:52: Installed nginx with apt-get install nginx. Verified version as 1.10.0 (Ubuntu)
+
+* 7:53: Installed php with apt-get install php. Verified version as 7.0.4
+
+* 7:55: Installed mysql with apt-get install mysql-client-core-5.7. Verified verison as 5.7.12
+
+Took a break; back at 8:37
+
+* 8:37: Installed git with apt-get install git
+
+* 8:39: Following instructions at https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/ to set up git ssh keys
+
+Ran: ssh-keygen -t rsa -b 4096 -C "vipulnaik1@gmail.com"
+
+and other commands
+
+* 8:48: Cloned wikipediaviews. Now some one-time reconciliation/cleanup
+
+* 8:50: Copied over .emacs
+
+* 9:05: Cleaned up and pushed git version
+
+* 9:25: apt-get install mysql-server
+
+* 9:40: Created database for Wikipedia Views, then copied over dump, now deferring to tomorrow the task of loading the dump and testing everything works
+
+
+
+
+
+
