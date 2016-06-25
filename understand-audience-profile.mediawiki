@@ -2,7 +2,7 @@ This page explores ways for the people managing a website to better use Google A
 
 == Steps ==
 
-=== Understand your goals ===
+=== Understanding your goals ===
 
 # Understand your purpose behind understanding your website audience. Some possible motivations are discussed below.
 #* Identify changes to make to your site's content (articles, videos, products), style, and user flow. While demographic and interest data are potentially useful, the most valuable information here is actual user behavior on the site. The guide you are reading right now is ''not'' focused on this goal.
@@ -24,7 +24,7 @@ This page explores ways for the people managing a website to better use Google A
 #* Some information is explicitly entered by the user, such as information that users enter into their Facebook or Google profiles. While generally the most reliable, this does depend on trusting the user to enter the data accurately (in most cases, this information is not verified by third parties).
 # Keep in mind that many of these demographic variables are valuable for providing insight, rather than absolute statements. For instance, it's not the case that all women behave in one way and all men behave in another way. However, the fact that a website is visited mostly by women gives some insight into the type of audience it attracts. In fact, it even provides insight into the male audience it attracts. More explicitly, if the majority of a site's visitors are female, it's likely that even the male visitors have interests that are more stereotypically female.
 
-=== Explore user data using Google Analytics ===
+=== Exploring user data using Google Analytics ===
 
 # The following pieces of user data are available even without any special efforts to track demographic data. This data is directly collected by Google Analytics through its tracking beacon and does not require joining with external data about the user.
 #* Language: This is read from the setting in the user's browser as the user's language of first preference. It may not be the language that the user actually speaks or considers his/her first language. Partly, it is unreliable because many users don't touch the default preferred language that comes with the browser when they install it.<ref>[http://www.lunametrics.com/blog/2013/02/12/languages-report-google-analytics/ Languages Report in Google Analytics]</ref> Languages are specified using two- or four-letter codes.<ref>[http://searchenginewatch.com/sew/how-to/2269346/google-analytics-language-report-what-you-can-learn-about-your-visitors Google Analytics Language Report: What You Can Learn About Your Visitors]</ref><ref>[http://www.lunametrics.com/blog/2010/11/15/google-analytics-language-codes/ Some Google Analytics Language Codes]</ref>
