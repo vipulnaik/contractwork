@@ -1,4 +1,4 @@
-Total so far: $2247 ($1044 paid, $1203 payment pending)
+Total so far: $2347 ($1044 paid, $1303 payment pending)
 
 == Completed pages ==
 
@@ -31,7 +31,7 @@ Total so far: $1571 ($933 paid, $638 payment pending)
 
 === Non-page payments ===
 
-Total so far: $386 ($111 paid, $275 payment pending)
+Total so far: $386 ($111 paid, $375 payment pending)
 
 * stats.grok.se -> Wikimedia API fix: $80
 
@@ -52,6 +52,8 @@ Total so far: $386 ($111 paid, $275 payment pending)
 * Monthly update of Open Phil and Good Ventures grant lists (end of May): $50
 
 * Sprucing up of GiveWell top charity pages: $55 ($25 each for AMF and GiveDirectly, another $5 for other general cleanup)
+
+* Work on review of GiveWell's finances and expenses: $100 (work still ongoing)
 
 == Touch payments ===
 
