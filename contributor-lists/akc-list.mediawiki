@@ -12,6 +12,21 @@ Facebook: https://www.facebook.com/simfish
 
 Notes: The structure of the payment system for Alex K. Chen differs from that for later editors.
 
+== Impact ==
+
+=== Pageviews ===
+
+Note that not all these pages were funded by me! However, I do pay on a per-pageview basis even for pages whose creation I don't fund.
+
+* Pages created in 2016: http://wikipediaviews.org/displayviewsformultiplemonth.php?tag=Pages%20created%20by%20Alex%20K.%20Chen%20in%202016&allmonths=allmonths
+
+* Pages created in 2015: http://wikipediaviews.org/displayviewsformultiplemonth.php?tag=Pages%20created%20by%20Alex%20K.%20Chen%20in%202015&allmonths=allmonths
+
+=== Anecdotal ===
+
+(to be filled in)
+
+== Bounty offers ==
 List of bounty offers for Alex K. Chen (AKC).
 
 For each, there is a "start by" date and a "finish by" date. The start
