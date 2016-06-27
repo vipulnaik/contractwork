@@ -1,0 +1,39 @@
+== List of contributors ==
+
+* [Alex K. Chen](akc-list.mediawiki): Recruited in 2015; he has been working steadily with a specially negotiated deal that has minimum output requirements but additional pay based on pageviews and flexibility to create pages in addition to those that receive guaranteed payment. Has recruited other workers.
+
+* [Issa Rice](issa-list.mediawiki): Recruited in 2015; work picked up in 2016. Also manages other workers, does underlying research and outreach.
+
+* [Ethan Bashkansky](ethan-list.mediawiki): Recruited in 2016. Plays a key role in recruiting other workers.
+
+* [Sebastian Sanchez](sebastian-sanchez-list.mediawiki): Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ -- already a friend of Vipul. Did solid work in May. Vacation in June, expected to return in July. Current focus: global health, but not necessarily the only focus in the long term.
+
+* [Jesse Clifton](jesse-list.mediawiki): Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ Likely to work for a few months before starting graduate school. Sole focus: animal welfare. Steady output since recruited.
+
+* High school/early college students recruited by Ethan: [Amy Zhang](amy-list.mediawiki), [Avi Glozman](avi-list.mediawiki), [Chris Kunin](chris-list.mediawiki), [Eddy Su](eddy-list.mediawiki), [Michael Royzen](michael-list.mediawiki), [Sean Yu](sean-list.mediawiki). Note that there are many others who have not yet finished a page and are therefore not included.
+
+* Others recruited: [Thomas Foster](thomas-list.mediawiki), through Alex K. Chen.
+
+* People not working on Wikipedia, but who have lists in this repo for other purposes: [Milo King](milo-list.mediawiki) (economics wiki http://market.subwiki.org), [Sebastian Nickel](sebastian-list.mediawiki) (deferred for now)
+
+== Total money spent by month ==
+
+Grand total: Somewhere between $2850 and $4650 per month, median estimate $3400. In addition, $1250 per month deferred pay for Issa.
+
+* Alex K. Chen: Payment handled annually, but approximately $100 per month for pageview-based payment, and approximately $250 to $500 for new page creation.
+
+* Issa Rice: Approximately $800 per month on piece work (can vary from $600 to $1200), plus guaranteed retainer pay ($250 out-of-pocket, plus $1250 deferred), plus 10% or 15% commission on workers other than Sebastian, Jesse, and AKC (AKC payment is handed annually). Commission works out to about $50 per month.
+
+* Ethan Bashkansky: Not working actively of late. Commission on recruits works out to about $50 per month.
+
+* Sebastian Sanchez: Approximately $800 per month on piece work (can vary from $600 to $1200).
+
+* Jesse Clifton: Approximately $800 per month on piece work (can vary from $600 to $1200).
+
+* High school/college recruits by Ethan: Hard to give a clear figure yet. However, approximately $350 on all of them combined in June. Many were onboarding, and expect to output more in the next month. But others might drop off.
+
+* Thomas Foster: Likely to not work regularly.
+
+* Milo King and Sebastian Nickel: Currently unclear, Milo will probably be between $100 and $300 per month but probably only for the summer. Sebastian Nickel is not currently active.
+
+
