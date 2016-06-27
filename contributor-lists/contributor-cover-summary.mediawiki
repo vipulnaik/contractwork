@@ -1,6 +1,6 @@
 == List of contributors ==
 
-* [akc-list.mediawiki Alex K. Chen]: Recruited in 2015; he has been working steadily with a specially negotiated deal that has minimum output requirements but additional pay based on pageviews and flexibility to create pages in addition to those that receive guaranteed payment. Has recruited other workers.
+* [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/akc-list.mediawiki Alex K. Chen]: Recruited in 2015; he has been working steadily with a specially negotiated deal that has minimum output requirements but additional pay based on pageviews and flexibility to create pages in addition to those that receive guaranteed payment. Has recruited other workers.
 
 * [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki Issa Rice]: Recruited in 2015; work picked up in 2016. Also manages other workers, does underlying research and outreach.
 
@@ -8,13 +8,13 @@
 
 * [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki Sebastian Sanchez]: Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ -- already a friend of Vipul. Did solid work in May. Vacation in June, expected to return in July. Current focus: global health, but not necessarily the only focus in the long term.
 
-* [Jesse Clifton](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/jesse-list.mediawiki): Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ Likely to work for a few months before starting graduate school. Sole focus: animal welfare. Steady output since recruited.
+* [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/jesse-list.mediawiki Jesse Clifton]: Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ Likely to work for a few months before starting graduate school. Sole focus: animal welfare. Steady output since recruited.
 
-* High school/early college students recruited by Ethan: [Amy Zhang](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/amy-list.mediawiki), [Avi Glozman](avi-list.mediawiki), [Chris Kunin](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/chris-list.mediawiki), [Eddy Su](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/eddy-list.mediawiki), [Michael Royzen](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/michael-list.mediawiki), [Sean Yu](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sean-list.mediawiki). Note that there are many others who have not yet finished a page and are therefore not included.
+* High school/early college students recruited by Ethan: [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/amy-list.mediawiki Amy Zhang], [avi-list.mediawiki Avi Glozman], [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/chris-list.mediawiki Chris Kunin], [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/eddy-list.mediawiki Eddy Su], [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/michael-list.mediawiki Michael Royzen], [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sean-list.mediawiki Sean Yu]. Note that there are many others who have not yet finished a page and are therefore not included.
 
-* Others recruited: [Thomas Foster](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/thomas-list.mediawiki), through Alex K. Chen.
+* Others recruited: [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/thomas-list.mediawiki Thomas Foster], through Alex K. Chen.
 
-* People not working on Wikipedia, but who have lists in this repo for other purposes: [Milo King](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/milo-list.mediawiki) (economics wiki http://market.subwiki.org), [Sebastian Nickel](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sebastian-list.mediawiki) (deferred for now)
+* People not working on Wikipedia, but who have lists in this repo for other purposes: [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/milo-list.mediawiki Milo King] (economics wiki http://market.subwiki.org), [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sebastian-list.mediawiki Sebastian Nickel] (deferred for now)
 
 == Total money spent by month ==
 
