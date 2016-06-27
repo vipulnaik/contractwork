@@ -1,4 +1,4 @@
-Total so far: $2347 ($1044 paid, $1303 payment pending)
+Total so far: $2394.10 ($1044 paid, $1350.10 payment pending)
 
 Reimbursement: $80 (for payment to Amy)
 
@@ -60,6 +60,26 @@ Total so far: $386 ($111 paid, $375 payment pending)
 == Touch payments ===
 
 Total: $290
+
+=== Commission payments ===
+
+List updated June 26, 2016. May not be kept up-to-date continuously.
+
+Total: $47.10 (payment pending)
+
+* Amy Zhang: Commission of 15% on $80 = $12
+
+* Avi Glozman: Commission of 10% on $33 = $3.30
+
+* Chris Kunin: Commission of 10% on $65 = $6.50
+
+* Eddy Su: Commission of 10% on $71 = $7.10
+
+* Michael Royzen: Commission of 10% on $50 = $5
+
+* Sean Yu: Commission of 10% on $50 = $5
+
+* Thomas Foster: Commission of 10% on $80 = $8
 
 == Global public health and related investigation ==
 

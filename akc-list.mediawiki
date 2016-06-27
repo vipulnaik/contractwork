@@ -53,7 +53,11 @@ Maximum acceptable delay: 4 weeks
 
 (more weeks, months to be added).
 
-== Completed pages ==
+== Total due ==
+
+Total due: $1801
+
+=== Completed pages ===
 
 Total so far: $1793
 
@@ -81,6 +85,10 @@ Total so far: $1793
 * Timeline of Xiaomi: $75
 * Timeline of Amazon Web Services: $95
 * Timeline of Twitch.tv: $40
+
+=== Commissions on recruits ===
+
+Thomas Foster $80, 10% commission = $8
 
 == Timeline pages ==
 
