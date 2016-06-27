@@ -4,9 +4,9 @@ Recruiter: Ethan Bashkansky
 
 Wikipedia handle: Majesticfish
 
-- Wikipedia user profile: https://en.wikipedia.org/wiki/User:Majesticfish
+* Wikipedia user profile: https://en.wikipedia.org/wiki/User:Majesticfish
 
-- Contributions: https://en.wikipedia.org/wiki/Special:Contributions/Majesticfish
+* Contributions: https://en.wikipedia.org/wiki/Special:Contributions/Majesticfish
 
 Facebook: https://www.facebook.com/sean.yu.18
 

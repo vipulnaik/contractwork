@@ -4,9 +4,9 @@ Recruiter: Alex K. Chen
 
 Wikipedia handle: Thomas_James_Foster
 
-- Wikipedia user profile: https://en.wikipedia.org/wiki/User:Thomas_James_Foster
+* Wikipedia user profile: https://en.wikipedia.org/wiki/User:Thomas_James_Foster
 
-- Contributions: https://en.wikipedia.org/wiki/Special:Contributions/Thomas_James_Foster
+* Contributions: https://en.wikipedia.org/wiki/Special:Contributions/Thomas_James_Foster
 
 Facebook: https://www.facebook.com/thomasjamesfoster96
 
