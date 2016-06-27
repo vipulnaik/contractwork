@@ -20,7 +20,9 @@ Note 2: This page only includes payment data for Tax Year 2016. Payments for 201
 
 Total so far: $2943.90 ($1044 paid, $1899.90 payment pending)
 
-Reimbursement: $80 (for payment to Amy)
+Reimbursement in addition to pending payment: $80 (for payment to Amy)
+
+Advance payment against which pending payment + reimbursement will be evaluated: $4000
 
 == Completed pages ==
 
