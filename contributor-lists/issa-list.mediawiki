@@ -36,7 +36,7 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Anecdotal ===
 
-* Howie Lempel (who works for the Open Philanthropy Project) was impressed with the page on the Open Philanthropy Project. He said that in some ways, the page does a better job of conveying what the Open Philanthropy Project has accomplished so far than the website (with the caveat that the Wikipedia page only includes publicly available information).
+* Howie Lempel (who works for the Open Philanthropy Project) was impressed with the page on the Open Philanthropy Project. He said that in some ways, the page does a better job of conveying what the Open Philanthropy Project has accomplished so far than the website  (with the caveat that both the Wikipedia page and the website only includes publicly available information, and therefore both are limited in accuracy and comprehensiveness).
 
 * Scott Weathers liked the page on the timeline of global health
 
