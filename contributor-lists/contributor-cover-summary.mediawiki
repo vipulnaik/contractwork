@@ -46,6 +46,8 @@ Note that payment has been less in all actual months so far, because not everybo
 
 The pageviews for each worker can be accessed on [http://wikipediaviews.org Wikipedia Views]. Links for individual workers are on their pages; however, you can also use the tag dropdown on the site to find the necessary information yourself.
 
+As a rough estimate, pages whose creation was funded through this project get over 50,000 pageviews a month on desktop devices. If you also include pages created by Alex K. Chen for which Vipul is paying on a pageview basis, the number exceeds 100,000. Since many of the pages were created recently, and many more pages will be created soon, both these numbers will increase considerably in the coming months.
+
 === Anecdotal ===
 
 * Howie Lempel (who works for the Open Philanthropy Project) was impressed with the page on the Open Philanthropy Project. He said that in some ways, the page does a better job of conveying what the Open Philanthropy Project has accomplished so far than the website (with the caveat that the Wikipedia page only includes publicly available information).
