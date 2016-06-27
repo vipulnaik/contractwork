@@ -1,12 +1,12 @@
 == List of contributors ==
 
-* [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/akc-list.mediawiki Alex K. Chen]: Recruited in 2015; he has been working steadily with a specially negotiated deal that has minimum output requirements but additional pay based on pageviews and flexibility to create pages in addition to those that receive guaranteed payment. Has recruited other workers.
+* [akc-list.mediawiki Alex K. Chen]: Recruited in 2015; he has been working steadily with a specially negotiated deal that has minimum output requirements but additional pay based on pageviews and flexibility to create pages in addition to those that receive guaranteed payment. Has recruited other workers.
 
 * [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki Issa Rice]: Recruited in 2015; work picked up in 2016. Also manages other workers, does underlying research and outreach.
 
-* [Ethan Bashkansky](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/ethan-list.mediawiki): Recruited in 2016. Plays a key role in recruiting other workers.
+* [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/ethan-list.mediawiki Ethan Bashkansky]: Recruited in 2016. Plays a key role in recruiting other workers.
 
-* [Sebastian Sanchez](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki): Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ -- already a friend of Vipul. Did solid work in May. Vacation in June, expected to return in July. Current focus: global health, but not necessarily the only focus in the long term.
+* [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki Sebastian Sanchez]: Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ -- already a friend of Vipul. Did solid work in May. Vacation in June, expected to return in July. Current focus: global health, but not necessarily the only focus in the long term.
 
 * [Jesse Clifton](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/jesse-list.mediawiki): Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ Likely to work for a few months before starting graduate school. Sole focus: animal welfare. Steady output since recruited.
 
