@@ -46,4 +46,17 @@ Note that payment has been less in all actual months so far, because not everybo
 
 The pageviews for each worker can be accessed on [http://wikipediaviews.org Wikipedia Views]. Links for individual workers are on their pages; however, you can also use the tag dropdown on the site to find the necessary information yourself.
 
+=== Anecdotal ===
+
+* Howie Lempel (who works for the Open Philanthropy Project) was impressed with the page on the Open Philanthropy Project. He said that in some ways, the page does a better job of conveying what the Open Philanthropy Project has accomplished so far than the website (with the caveat that the Wikipedia page only includes publicly available information).
+
+* Scott Weathers liked the page on the timeline of global health
+
+* Amy Zhang's high school teacher shared the timeline of global health with a UW professor. The timeline of global health was initially created by Issa and later improved upon by Amy.
+
+* People at one of the orgs whose page Issa created offered to buy him drinks if he ever visited their location (note that they did not inappropriately influence the content of the page, beyond pointing to existing references and correcting errors backed by verifiable citations).
+
+* Jesse made contact with another editor who had already created some animal welfare pages, and they had a fruitful exchange on the scope of animal welfare
+
+* Jesse said that the Wikipedia pages he created on animal welfare and cellular agriculture were very helpful to his two blog posts on the Effective Altruism Forum, which got a lot of appreciation from people (and the associated drafts got a lot of feedback).
 
