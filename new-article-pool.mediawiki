@@ -10,7 +10,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 === Research methods: recruitment, surveys, etc. ===
 
-* Food frequency questionnaire: $25-40: Explain what it is, historical examples, cautionary notes and best practices, results of common FFQs.
+* Food frequency questionnaire (tentatively reserved): $25-40: Explain what it is, historical examples, cautionary notes and best practices, results of common FFQs.
 
 * Marlow-Crowne Social Desirability Scale: $20-30: Already mentioned on the social desirability bias, but probably deserves a separate page, detailing the scale, plus discussing existing research on it and its psychometric properties.
 
@@ -30,7 +30,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Richard W. Boone: $30-50 (based on length and quality) (reserved by Devansh; no public draft): This is the guy who played a role as Executive Director of the Field Foundation (of Illinois?). He also appears to have bankrolled the Center on Budget and Policy Priorities (CBPP).
 
-* Scientific charity movement: $30-50 (depending on length and quality): Somewhat related to Charity Organization Societies (COS) but arguably sufficiently separate/distinctive to deserve a separate page. There was also a "scientific charity" that arose during the US Civil War, that may or may not be related (part of your job will be figuring out the relationship).
+* Scientific charity movement (tentatively reserved): $30-50 (depending on length and quality): Somewhat related to Charity Organization Societies (COS) but arguably sufficiently separate/distinctive to deserve a separate page. There was also a "scientific charity" that arose during the US Civil War, that may or may not be related (part of your job will be figuring out the relationship).
 
 * Chicago Community Trust: $25-50 (depending on length and quality) (reserved by Kevin; no public draft): Similar article as Silicon Valley Community Foundation, New York Community Trust, etc. Length may vary heavily based on the number and quality of sources you can find.
 
@@ -58,7 +58,7 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 * Commodity Supplemental Food Program: $70-120, depending on article quality and length. Maybe even more!
 
-* Fresh Fruit and Vegetable Program: $60-110, depending on article quality and length. Maybe even more!
+* Fresh Fruit and Vegetable Program (tentatively reserved): $60-110, depending on article quality and length. Maybe even more!
 
 * Mickey Leland Memorial Domestic Hunger Relief Act: $50-90, dependong in article quality and length. Maybe even more!
 
