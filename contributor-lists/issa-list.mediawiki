@@ -34,6 +34,8 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 * Only 2016 (however, this also includes Form 1040, that was published on January 1, though included in 2015 payment): http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice%20in%202016&language=en&allmonths=allmonths
 
+* Pages edited significantly but not created: http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20edited%20significantly%20but%20not%20created%20by%20Issa%20Rice&allmonths=allmonths
+
 === Anecdotal ===
 
 * Howie Lempel (who works for the Open Philanthropy Project) was impressed with the page on the Open Philanthropy Project. He said that in some ways, the page does a better job of conveying what the Open Philanthropy Project has accomplished so far than the website  (with the caveat that both the Wikipedia page and the website only includes publicly available information, and therefore both are limited in accuracy and comprehensiveness).
