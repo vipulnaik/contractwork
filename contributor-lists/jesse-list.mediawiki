@@ -12,8 +12,6 @@ Facebook: https://www.facebook.com/jesse.clifton2
 
 EA Forum user profile: http://effective-altruism.com/user/JesseClifton/
 
-Total payment due so far: $1495; tentative plan to donate it to Animal Ethics per Jesse's wishes
-
 == Impact ==
 
 === Pageviews ===
@@ -26,15 +24,17 @@ Wikipedia Views link for pages created: http://wikipediaviews.org/displayviewsfo
 
 * Jesse said that the Wikipedia pages he created on animal welfare and cellular agriculture were very helpful to his two blog posts on the Effective Altruism Forum, which got a lot of appreciation from people (and the associated drafts got a lot of feedback).
 
-== Completed pages ==
+== Work ==
 
-Total: $1215
+Total payment due so far: $1539; tentative plan to pay part of it to Jesse and donate the rest of it to an animal rights or welfare organization of Jesse's choice.
+
+=== Completed pages ===
+
+Total: $1192
 
 * Timeline of animal welfare and rights: $150
 
 * Animal welfare and rights in India: $100
-
-* Animal welfare in the United States (significant additions to pre-existing page): $60
 
 * Timeline of animal welfare and rights in the United States: $100
 
@@ -47,8 +47,6 @@ Total: $1215
 * Animal welfare and rights in South Korea: $60
 
 * Animal welfare and rights in Brazil: $90
-
-* Animal welfare and rights in Israel (significant additions to pre-existing page): $50
 
 * Animal welfare and rights in Austria: $60
 
@@ -66,11 +64,19 @@ Total: $1215
 
 * Animal welfare and rights in Russia: $60
 
-== Improvements to existing pages ==
+* Albert Schweitzer Foundation for Our Contemporaries: $32
 
-Total: $25
+=== Improvements to existing pages ===
+
+Total: $147
+
+* Animal welfare in the United States (significant additions to pre-existing page): $60
+
+* Animal welfare and rights in Israel (significant additions to pre-existing page): $50
 
 * The Humane League: $25
+ 
+* Faunalytics: $12
 
 == Non-Wikipedia ==
 
