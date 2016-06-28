@@ -18,6 +18,8 @@ EA Forum user profile: http://effective-altruism.com/user/JesseClifton/
 
 Wikipedia Views link for pages created: http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Jesse%20Clifton&language=en&allmonths=allmonths
 
+Wikipedia Views link for pages significantly edited but not created: http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Jesse%20Clifton&language=en&allmonths=allmonths
+
 === Anecdotal ===
 
 * Jesse made contact with another editor who had already created some animal welfare pages, and they had a fruitful exchange on the scope of animal welfare
