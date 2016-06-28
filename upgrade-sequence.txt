@@ -92,8 +92,24 @@ and other commands
 
 * 9:40: Created database for Wikipedia Views, then copied over dump, now deferring to tomorrow the task of loading the dump and testing everything works
 
+Resumed work Monday June 27:
 
+2:51: Copied entire nginx config structure to S3 from old machine
 
+3:00: Cleaning up nginx for Wikipedia Views
 
+4:00: All nginx changes synced to S3
+
+Still trying to figure out PHP ports
+
+4:02: Updated /etc/php/7.0/fpm/pool.d/www.conf to change the listen line to point to 127.0.0.1:9000
+
+7:15: Figured out that one line needs to be added in fastcgi_params as discussed at http://serverfault.com/questions/502776/what-is-the-correct-setting-of-nginxs-fastcgi-param-script-filename
+
+Also syncing all nginx changes to the S3 folder nginx-new, making configuration revert easier.
+
+Might also git control it.
+
+7:40: Updated DNS records, now time to just wait for it to propagate
 
 
