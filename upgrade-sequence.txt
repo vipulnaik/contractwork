@@ -112,4 +112,5 @@ Might also git control it.
 
 7:40: Updated DNS records, now time to just wait for it to propagate
 
+7:47: Reduced TTL for highly accessed properties to 1 hour, so that it is easier to move them while being minimally disruptive. Plan to make TTL 5 minutes when doing migrations and then revert to 1 hour after stable again
 
