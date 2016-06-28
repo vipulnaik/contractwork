@@ -104,6 +104,8 @@ Still trying to figure out PHP ports
 
 4:02: Updated /etc/php/7.0/fpm/pool.d/www.conf to change the listen line to point to 127.0.0.1:9000
 
+6:30: Installed fastcgi, following installation instructions here but replace 5 with 7 when calling the apt-get install
+
 7:15: Figured out that one line needs to be added in fastcgi_params as discussed at http://serverfault.com/questions/502776/what-is-the-correct-setting-of-nginxs-fastcgi-param-script-filename
 
 Also syncing all nginx changes to the S3 folder nginx-new, making configuration revert easier.
