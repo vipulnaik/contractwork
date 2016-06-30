@@ -10,9 +10,9 @@ The procedural aspect of the page (i.e., the instructions on how to pull informa
 #* Identifying changes to make to your site's content (articles, videos, products), style, and user flow. While demographic and interest data are potentially useful, the most valuable information here is actual user behavior on the site. The guide you are reading right now is ''not'' focused on this goal.
 #* Identifying external advertising or promoted content (not affiliated directly with your site) to show to users, to better monetize your site. Demographic and interest data help you identify things you can show to your users that are relevant to them, even if not directly connected with your site. For instance, if your site is visited by many college students, showing ads for cheap college textbooks or study notes sites might make sense, even if your site is a music site. Conversely, an academic site targeted at college students may be a great place to advertise non-academic products targeted at college students.
 #* Identifying ways of marketing your site or product offsite, e.g., through social media, search engine optimization, search ads, display ads, or real-life advertising. Once again, demographic and interest data are helpful because they help you understand where to find potential new visitors, customers, or community members.
-# Understand the dimensions along which you'd like to get user data. One key consideration in identifying dimensions is the typical dimensions used by analytics providers, advertisers. These may not exactly match your goals, but they may be the best you can get. The following dimensions are typically used when people think of user profiling; not all of these are offered by Google Analytics (GA), but they give an idea of the universe of possibilities:
-#* Language (available)
-#* Location (available)
+# Understand the dimensions along which you'd like to get user data. One key consideration in identifying dimensions is the typical dimensions used by analytics providers and advertisers. These may not exactly match your goals, but they may be the best you can get. The following dimensions are typically used when people think of user profiling; not all of these are offered by Google Analytics (GA), but they give an idea of the universe of possibilities:
+#* Language (available in GA)
+#* Location (available in GA)
 #* Gender (available in GA if activated)
 #* Age (available in GA if activated)
 #* Interests (in-market segments and affinity categories) (available in GA if activated)
@@ -20,7 +20,7 @@ The procedural aspect of the page (i.e., the instructions on how to pull informa
 #* Current occupation (not available in GA)
 #* Income level (not available in GA)
 #* Race/ethnicity (not available in GA)
-# Understand the different ways that the information might be inferred:
+# Understand the different ways that the information might be inferred and how this affects the reliability of the data.
 #* Some information is implicitly collected from the environment in which the user interacts with the website. For instance, location can be inferred from the user's IP address, and language can be read from the user's browser setting.
 #* Some information is inferred from the user's entire web activity, tracked using ad tracking cookies. Interests are typically inferred this way; other data may also be inferred this way when not present in a more reliable form.
 #* Some information is explicitly entered by the user, such as information that users enter into their Facebook or Google profiles. While generally the most reliable, this does depend on trusting the user to enter the data accurately (in most cases, this information is not verified by third parties).
