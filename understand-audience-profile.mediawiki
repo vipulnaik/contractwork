@@ -1,6 +1,9 @@
 This page explores ways for the people managing a website to better use analytics tools to better understand the profile of website visitors.
 
-This page focuses more on how to interpret, benchmark, and act upon the data. The procedural aspects (i.e., how to view the data in analytics providers) is not the focus of the page. However, we include information on the availability of the data in Google Analytics (GA), Quantcast Measure (QM), and other relevant analytics tools.
+This page focuses more on how to interpret, benchmark, and act upon the data. The procedural aspects (i.e., how to view the data in analytics providers) is not the focus of the page. However, we include information on the availability of the data in analytics tools such as Google Analytics (GA), Quantcast Measure (QM).
+
+The page is also focused on understanding users "in real life" (using conventional segments such as age, gender, location, and income level) rather than their on-site behavior.
+
 == Steps ==
 
 === Understanding your setup ===
