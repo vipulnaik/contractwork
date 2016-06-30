@@ -1,16 +1,16 @@
-This page explores ways for the people managing a website to better use Google Analytics to understand the profile of users for the website.
+This page explores ways for the people managing a website to better use analytics tools to better understand the profile of website visitors.
 
 The procedural aspect of the page (i.e., the instructions on how to pull information) are focused on Google Analytics. However, the discussion of how to interpret the data is general, and can also be used by people 
 
 == Steps ==
 
-=== Understanding your goals ===
+=== Understanding your setup ===
 
-# Understand your purpose behind understanding your website audience. Some possible motivations are discussed below.
+# The why: Understand your purpose behind understanding your website audience. Some possible motivations are discussed below.
 #* Identifying changes to make to your site's content (articles, videos, products), style, and user flow. While demographic and interest data are potentially useful, the most valuable information here is actual user behavior on the site. The guide you are reading right now is ''not'' focused on this goal.
 #* Identifying external advertising or promoted content (not affiliated directly with your site) to show to users, to better monetize your site. Demographic and interest data help you identify things you can show to your users that are relevant to them, even if not directly connected with your site. For instance, if your site is visited by many college students, showing ads for cheap college textbooks or study notes sites might make sense, even if your site is a music site. Conversely, an academic site targeted at college students may be a great place to advertise non-academic products targeted at college students.
 #* Identifying ways of marketing your site or product offsite, e.g., through social media, search engine optimization, search ads, display ads, or real-life advertising. Once again, demographic and interest data are helpful because they help you understand where to find potential new visitors, customers, or community members.
-# Understand the dimensions along which you'd like to get user data. One key consideration in identifying dimensions is the typical dimensions used by analytics providers and advertisers. These may not exactly match your goals, but they may be the best you can get. The following dimensions are typically used when people think of user profiling; not all of these are offered by Google Analytics (GA), but they give an idea of the universe of possibilities:
+# The what: Understand the dimensions along which you'd like to get user data. One key consideration in identifying dimensions is the typical dimensions used by analytics providers and advertisers. These may not exactly match your goals, but they may be the best you can get. The following dimensions are typically used when people think of user profiling; not all of these are offered by Google Analytics (GA), but they give an idea of the universe of possibilities:
 #* Language (available in GA)
 #* Location (available in GA)
 #* Gender (available in GA if activated)
@@ -20,7 +20,7 @@ The procedural aspect of the page (i.e., the instructions on how to pull informa
 #* Current occupation (not available in GA)
 #* Income level (not available in GA)
 #* Race/ethnicity (not available in GA)
-# Understand the different ways that the information might be inferred and how this affects the reliability of the data.
+# The how: Understand the different ways that the information might be inferred and how this affects the reliability of the data.
 #* Some information is implicitly collected from the environment in which the user interacts with the website. For instance, location can be inferred from the user's IP address, and language can be read from the user's browser setting.
 #* Some information is inferred from the user's entire web activity, tracked using ad tracking cookies. Interests are typically inferred this way; other data may also be inferred this way when not present in a more reliable form.
 #* Some information is explicitly entered by the user, such as information that users enter into their Facebook or Google profiles. While generally the most reliable, this does depend on trusting the user to enter the data accurately (in most cases, this information is not verified by third parties).
@@ -38,7 +38,10 @@ The procedural aspect of the page (i.e., the instructions on how to pull informa
 #* A website can have a 95% male audience (so a male index of about 190), and yet be popular among a negligible minority of males. On the other hand, another website can have only a 30% male audience, and yet be visited by many more males, because it has way more ''overall'' traffic.
 # Keep in mind the feedback loop between how you promote your website and what audience it attracts. If you (intentionally or unintentionally) make your website more visible or prominent to some subpopulations, that will be reflected in the statistics. This could create a feedback loop: you advertise your website to a subpopulation, they use it more, and you focus your energies more on the subpopulation. There are three solutions:
 #* Filter for traffic with referral sources or channels where you know you are not introducing any bias.
-#* Look at repea
+#* Use the population distribution in the channels that you are attracting traffic from as the baseline relative to which you index your site's visitors.
+#* Restrict attention to visitors who are highly engaged (for instance, based on a threshold of number of pages viewed) or repeat visitors. Compare the composition of highly engaged or repeat visitors against the composition of all visitors.
+# Keep in mind that the composition of your websites represents a truth about people's preferences, society, and culture. Some of these preferences will change over time. However, the pace of change for these is quite slow, and not something your website alone can influence.
+
 === Exploring user data using Google Analytics ===
 
 # The following pieces of user data are available even without any special efforts to track demographic data. This data is directly collected by Google Analytics through its tracking beacon and does not require joining with external data about the user.
@@ -64,7 +67,13 @@ The procedural aspect of the page (i.e., the instructions on how to pull informa
 #* If the total amount of data is too large, Google Analytics may use subsampling. Subsampling means that Google Analytics will not look at all the data points but rather look at a subset and extrapolate from what it observes on that subset. Choosing a smaller date range might solve this problem. Note that this problem applies only if you have over 250,000 sessions over the date range you are considering.
 #* If a particular form of segmentation results in too little data in one or more of the segments, then Google Analytics may choose not to display the information, in order to protect the privacy of individual users. Google Analytics calls this "thresholding". Choosing a larger date range might solve this problem. Also, reducing the number of dimensions along which you are drilling down can also help.<ref name=data-collection>[https://support.google.com/analytics/answer/2954071 Demographics and Interests data collection and thresholds]</ref>
 
-=== Understanding the gender and age data ===
+=== Understanding the gender composition and index of your website ===
+
+# Classify your website along a few broad criteria.
+#* One of the most important determinants of expected gender composition of a website is the topic, or domain of the website. Domains range from female-heavy (such as cooking and fashion) to somewhat female-biased (celebrity news, pop culture, and feel-good stories) to somewhat male-biased (politics news and technology) to heavily male-biased (hardcore technology, gaming and sports).
+#* A second determinant of gender composition is the format of presentation. This is a little tricky to understand because there are a number of mutualy cancelling factors at play. As a general rule, a website based around transactions (such as a question-and-answer website) would be male-biased, whereas a website centered around social interaction (in particular, sharing) would be female-biased, ''holding'' the underlying topic constant. Another general rule is around imagery: pictures of scantily clad women predict more male use, whereas all other kinds of pictures (including pictures of women that are intended to highlight their dresses or particular fashion choices, but also pictures of food) are more female-biased.
+#* The reasons for these disparities by gender are difficult questions of social science. It is not, however, necessary for you to fully understand the reasons. The exception might be cases where you are explicitly trying to cater to a countercultural niche.
+
 
 # Compare your website's gender and age data against benchmarks and against common sense.
 #* Google Analytics does not provide benchmarks for gender and age by website category. However, other servies, like Quantcast, have gender and age data for some selected sites that use Quantcast and have opted in to making their data publicly available. Note that Quantcast data tends to be quite unreliable for sites that do not use its Quantified Measure tool, but is reasonably reliable for sites that use the Quantified Measure tool (i.e., they allow Quantcast to track all user activity on the site). Moreover, it is in general agreement with Google Analytics on the user distribution by gender and age.
