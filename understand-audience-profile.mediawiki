@@ -1,7 +1,6 @@
 This page explores ways for the people managing a website to better use analytics tools to better understand the profile of website visitors.
 
-The procedural aspect of the page (i.e., the instructions on how to pull information) are focused on Google Analytics. However, the discussion of how to interpret the data is general, and can also be used by people 
-
+This page focuses more on how to interpret, benchmark, and act upon the data. The procedural aspects (i.e., how to view the data in analytics providers) is not the focus of the page. However, we include information on the availability of the data in Google Analytics (GA), Quantcast Measure (QM), and other relevant analytics tools.
 == Steps ==
 
 === Understanding your setup ===

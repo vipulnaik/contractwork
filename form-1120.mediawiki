@@ -1,0 +1,174 @@
+'''Form 1120''' (officially the "U.S Corporate Income Tax Return") is one of the [[IRS tax forms]] used by corporations (specifically, [[C corporation]]s) in the [[United States]] to report their income, gains, losses, deductions, credits and to figure out their tax liability.<ref name=nytimes-obeying-tax-laws>{{cite web|url = http://www.nytimes.com/1994/01/30/business/obeying-the-tax-laws-small-business-burden.html?pagewanted=all|title = Obeying the Tax Laws: Small Business' Burden|last = Hershey|first = Robert D.|date = January 30, 1994|accessdate = June 27, 2016|publisher = ''[[New York Times]]''}}</ref><ref name=turbotax-business-forms>{{cite web|url = https://ttlc.intuit.com/questions/2816384-turbotax-business-forms-included-c-corporations-form-1120|title = TurboTax Business Forms Included: C corporations (Form 1120)|accessdate = June 27, 2016}}</ref><ref name=nytimes-your-taxes>{{cite web|url = http://query.nytimes.com/gst/fullpage.html?res=940CE6DB1E3FF932A25751C0A9619C8B63&pagewanted=all|title = YOUR TAXES; For Entrepreneurs, a Crash Course in Accounting|last = Hershey|first = Robert D.|date = February 11, 2007|accessdate = June 27, 2016|publisher = ''[[New York Times]]''}}</ref> The form has many variants for corporations with different structures; the most common variant is the Form 1120S used by [[S corporation]]s.<ref name=ttlc-s-corp>{{cite web|url = https://ttlc.intuit.com/questions/2816411|title = TurboTax Business Forms Included: S corporations (Form 1120S)|accessdate = June 27, 2016}}</ref><ref name=instructions/><ref name=forbes-irs-business-tax-season>{{cite web|title = IRS Announces Start Date To 2014 Business Tax Season|url = http://www.forbes.com/sites/kellyphillipserb/2013/12/20/irs-announces-start-date-to-2014-business-tax-season/|date = December 20, 2013|accessdate = June 27, 2016|publisher = ''[[Forbes]]''}}</ref>
+
+Corporations must file their tax by the 15th day of the 3rd month after the end of its tax year. If the due date falls on a Saturday, Sunday, or legal holiday, the corporation can file on the next business day. A corporation can file for a 6-month extension by filing Form 7004. Since most corporations follow the calendar year for tax filing, the effective due date for filing taxes for most corporations is the first federal working day on or after March 15. Those who operate on the [[Fiscal Year]] have an effective due date of the first federal working day on or after December 15.<ref name=forbes-irs-business-tax-season/><ref name=taxact>{{cite web|url = https://www.taxact.com/reference/library_calendar_corporations.asp|title = Tax Calendar 2016 Federal Due Dates|publisher = TaxAct|accessdate = June 27, 2016}}</ref><ref name=irs-tax-payments/>
+
+Form 1120 consists of 1 page with 36 lines and 6 additional schedules. Lines 1-11 deal with income, lines 12−29 deal with deductions, and lines 30-36 deal with tax, refundable credits, and payments.<ref>{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1120.pdf |title=Form 1120 (2015) |accessdate=June 20, 2016 |publisher=Internal Revenue Service}}</ref>
+
+==Filing requirements==
+
+=== Who must file? ===
+
+Form 1120 is the primary tax Form for domestic corporations within the United States. Domestic corporations must file a 1120 Form unless they are required or have elected to file a special return.<ref name=nytimes-obeying-tax-laws/><ref name=nytimes-your-taxes/><ref name=instructions/>
+
+====Entities electing to be taxed as corporations====
+
+An Entity that classifies itself as an association taxable as a corporation must file a Form 1120. The entity must also file Form 8832, Entity Classification Election, and attach it to Form 1120.<ref name = "instructions">{{cite web|url=https://www.irs.gov/instructions/i1120/ch01.html|title=Instructions for Form 1120 (2015)|accessdate=June 22, 2016|publisher=Internal Revenue Service}}</ref>
+
+====Limited Liability Corporations (LLCs)====
+
+An entity formed as [[Limited Liability Corporation]] under state law and is treated as a partnership for federal income tax purposes and files Form 1065, U.S. Return of Partnership Income. LLCs can only file Form 1120 if it has filed Form 8832 to elect to be classified as an association taxable as a corporation.<ref name = "instructions"/>
+
+====Corporations engaged in farming====
+A corporation engaged with farming should use Form 1120 to report their income or loss from their activities.<ref name = "instructions"/>
+
+=== Filing modalities ===
+
+Corporations generally electronic file ([[IRS e-file]]) Form 1120 and related Forms and schedules. If there is a balance due, the corporation can authorize an electronic funds withdrawal while e-filing. Not all returns can be e-filed.<ref name = "instructions"/>
+
+Corporations that hold total assets exceeding $10 million or file more than 250 returns a year are required to e-file.<ref>{{cite web|title = CFR 301.6011-5 - Required use of magnetic media for corporate income tax returns|url = https://www.law.cornell.edu/cfr/text/26/301.6011-5|accessdate = June 24, 2016|publisher = [[Code of Federal Regulations]] (mirrored on the [[Legal Information Institute]] website)}}</ref> These corporations can request a waiver of electronic filing requirements.<ref>{{cite web|title = Notice 2010-13, 2010-4 I.R.B. 327|url = https://www.irs.gov/pub/irs-irbs/irb10-04.pdf|publisher = [[Internal Revenue Service]]}}</ref>
+
+===Signature requirement===
+
+The return must be signed and dated by either:<ref name = "instructions"/><ref name=smallbusiness-signature>{{cite web|url = http://smallbusiness.chron.com/signs-federal-tax-return-corporation-65903.html|title = Who Signs the Federal Tax Return of a Corporation?|last = Mroz|first = Kelly|publisher = Smallbusiness.chron.com|accessdate = June 27, 2016}}</ref>
+
+*The president, vice president, treasurer, assistant treasurer, chief accounting officer; or
+*Any other corporate officer (such as tax officer) authorized to sign.
+
+==Special returns for certain organizations==
+Instead of filing Form 1120, certain organizations, as shown below, file special returns.<ref name = "instructions"/>
+{|class="wikitable"
+|-
+! If the organization is a:!! File Form
+|-
+| Exempt organization with unrelated trade or business income || 990-T
+|-
+| Religious or apostolic organization exempt under section 501(d) || 1065
+|-
+| Entity formed as a limited liability company under state law and treated as a partnership for federal income tax purposes || 1065
+|-
+| Subchapter T cooperative association (including a farmers' cooperative) || 1120-C
+|-
+| Entity that elects to be treated as a real estate mortgage investment conduit (REMIC) under section 860D || 1066
+|-
+| Interest charge domestic international sales corporation (section 992) || 1120-IC-DISC
+|-
+| Foreign corporation (other than life and property and casualty insurance company filing Form 1120-L or Form 1120-PC) || 1120-F
+|-
+| Foreign sales corporation (section 922) || 1120-FSC
+|-
+| Condominium management, residential real estate management, or timeshare association that elects to be treated as a homeowners association under section 528 || 1120-H
+|-
+| Life insurance company (section 801) || 1120-L
+|-
+| Fund set up to pay for nuclear decommissioning costs (section 468A) || 1120-ND
+|-
+| Property and casualty insurance company  (section 831) || 1120-PC
+|-
+| Political organization  (section 527) || 1120-POL
+|-
+| Real estate investment trust (section 856) || 1120-REIT
+|-
+| Regulated investment company (section 851) || 1120-RIC
+|-
+| [[S corporation]] (section 1361) || 1120S
+|-
+| Settlement fund  (section 468B) || 1120-SF
+|}
+
+==Schedules and extra forms==
+
+Form 1120 has 5 attachments called "Schedules", some of which are required and others must be provided if information is listed on the return. The following table briefly explains each one.<ref>{{cite web|url = http://biztaxlaw.about.com/od/businesstaxseason/a/1120info.htm|title = Basic Guide to Corporate Income Taxes and Form 1120|accessdate = June 22, 2016|publisher = about.com}}</ref> 
+{|class="wikitable"
+|-
+! Type!! Explanation
+|-
+| Schedule C || Dividends and Special Deductions (NOTE: This is not the same Schedule C as the one completed by sole proprietors as part of their personal income tax returns) 
+|-
+| Schedule J || Tax Computation and Payment. More detail on tax computation, including credits and other taxes
+|-
+| Schedule K || Other information, about accounting method, business type, NAICS classification number, ownership of stock and information about shareholders
+|-
+| Schedule L || Balance Sheet per books, at the beginning of the year and the end of the year. (this year's beginning balance should be the same as last year's end year balance)
+|-
+| Schedule M-1 || Reconciliation of Income/Loss Per books with Income per return 
+|}
+
+==Payments, interests, and penalties==
+
+===Tax payments===
+
+Generally, a corporation must pay any tax due by the 15th day of the 3rd month after the end of the tax year. If that day is a Saturday, Sunday, or Legal Holiday, the payment is due the following workday. Since most corporations follow the calendar year for tax filing, the effective due date for filing taxes for most corporations is the first federal working day on or after March 15. Those who operate on the [[Fiscal Year]] have an effective due date of the first federal working day on or after December 15.<ref name=forbes-irs-business-tax-season/><ref name=taxact/><ref name =irs-tax-payments>{{cite web|url = https://www.irs.gov/instructions/i1120/ch01.html#d0e727|title = Tax Payments|accessdate = June 22, 2016|publisher = Internal Revenue Service}}</ref>
+
+Corporations must use electronic funds transfer to make all federal tax deposits. Generally electronic funds are transferred using using the [[Electronic Federal Tax Payment System]] (EFTPS). If a corporation does not want to use EFTPS, then it can arrange for a third party to make deposits on its behalf. Any payment made using EFTPS must be submitted by 8pm eastern time the day before the date the deposit is due.<ref name=irs-tax-payments/>
+
+The following rules apply generally apply to the corporation's payments of estimated tax:
+
+* The corporation must make installment payments of estimated tax if it expects its total tax for the year (less applicable credits) to be $500 or more.
+* The installments are due by the 15th day of the 4th, 6th, 9th, and 12th months of the tax year. If any date falls on a Saturday, Sunday, or legal holiday, the installment is due on the next regular business day.
+* The corporation must use electronic funds transfer to make installment payments of estimated tax.
+* Use Form 1120-W, Estimated Tax for Corporations, as a worksheet to compute estimated tax. See the Instructions for Form 1120-W.
+* Penalties may apply if the corporation does not make required estimated tax payment deposits. See Estimated tax penalty, below.
+* If the corporation overpaid estimated tax, it may be able to get a quick refund by filing Form 4466, Corporation Application for Quick Refund of Overpayment of Estimated Tax. See the instructions for Schedule J, Part II, line 14.<ref name = irs-tax-payments/>
+
+===Interests and penalities===
+
+Interest is charged on taxes paid late even if an extension of time to file is granted. Interest is also charged on penalties imposed for failure to file.<ref name = "interest">{{cite web|url = https://www.irs.gov/instructions/i1120/ch01.html#d0e727|publisher = Internal Revenue Service|accessdate= June 22, 2016|title = Interest and Penalties}}</ref>
+
+Corporations that does not make estimated tax payments when due could be subject to a penalty for the period of underpayment. Generally a corporation is subject to the penalty if its tax liability is $500 or more.<ref name = irs-tax-payments/>
+
+A corporation that does not file its tax return by the due date may be penalized 5% of the unpaid tax for each month the return is late, up to a maximum of 25% of the unpaid tax. The penalty will not be imposed if the corporation and show the failure to file was due to a reasonable cause. A corporation that does not pay the tax when due generally may be penalized 1/2 of 1% of the unpaid tax for each month said tax is not paid.<ref name = "interest"/>
+
+It is important to note that if a corporation has no unpaid income tax, then there is no financial penalty for delayed filing of the tax return. However, since the IRS does not have a way of knowing how much income tax the corporation was supposed to pay, delayed filing can lead to problems with the IRS.
+
+== Dual record-keeping ==
+
+Many companies keep separate sets of accounting records for reporting to shareholders and for income tax purposes. This is because the [[generally accepted accounting principles]] (GAAP) used for reports to shareholders and other business purposes differ from the principles used for income tax reporting.<ref name=wsj-dual-records>{{cite web|url = http://www.wsj.com/articles/SB1032447004200528235|title = Companies Keep Dual Records For Shareholders and the IRS|last = Berkowitz|first = Art|last2 = Rampell|first2 = Richard|publisher = ''[[Wall Street Journal]]''|date = September 19, 2002|accessdate = June 27, 2016}}</ref><ref>{{cite web|title = Companies Keep Dual Records For Shareholders and the IRS|url = http://taxfoundation.org/article/three-differences-between-tax-and-book-accounting-legislators-need-know|accessdate = June 27, 2016|publisher = [[Tax Foundation]]}}</ref>
+
+== History ==
+
+=== Introduction at the end of World War I ===
+
+Form 1120 was originally introduced under the presidency of [[Woodrow Wilson]] at the end of [[World War I]], and described as the "blank on which corporations will report their war excess profits and income taxes." The first applicable tax year was 1918, and the form was made available around March 15, 1919.<ref name=nyt-form-launch>{{cite web|url = http://query.nytimes.com/gst/abstract.html?res=9804E7DF1E3BEE3ABC4053DFB5668382609EDE|title = TAX BLANKS DELAYED.; But Corporations May Use Tentative Forms for Their Returns.|date = March 8, 1919|accessdate = June 27, 2016|publisher = ''[[New York Times]]''}}</ref> Two other forms released the same year were [[Form 1065]] (for partnerships and personal service corporations) and Form 1115 (for nonresident aliens to receive the benefit of personal exemptions).<ref>{{cite web|url = http://query.nytimes.com/gst/abstract.html?res=9400E2DC163AE03ABC4B52DFB3668382609EDE|title = 3 NEW INCOME TAX FORMS|date = May 13, 1919|accessdate = June 27, 2016|publisher = ''[[New York Times]]''}}</ref> The release of these forms came only a few years after the release of [[Form 1040]], the personal income tax return form, that first applied to the 1913 tax year.<ref name=irs-1913>{{cite web|url = https://www.irs.gov/pub/irs-utl/1913.pdf|title = RETURN OF ANNUAL NET INCOME OF INDIVIDUALS|publisher = [[Internal Revenue Service]]|date = October 3, 1913|accessdate = January 1, 2016}}</ref><ref name=tf-1913>{{cite web|url = http://taxfoundation.org/article/1913-internal-revenue-service-1040-form|title = 1913 Internal Revenue Service 1040 Form|publisher = [[Tax Foundation]]|accessdate = January 1, 2016}}</ref>
+
+== Reception ==
+
+=== Reporting and criticism of compliance costs and tax burden ===
+
+Forms 1120 and 1120S are the main forms used by small businesses to report their tax obligations. The [[Tax Foundation]] has published studies on the effective tax rate and its distribution across corporations, as well as the compliance cost.<ref name=tax-foundation-1120-compliance>{{cite web|url = http://taxfoundation.org/sites/default/files/docs/sr194.pdf|title = Beyond the Headlines: What Do Corporations Pay in Income Tax?|last = McBridge|first = William|publisher = [[Tax Foundation]]|date = September 1, 2011|accessdate = June 27, 2016}}</ref> Form 1120 is also included in Tax Foundation reports on the overall cost of tax compliance.<ref>{{cite web|url = http://taxfoundation.org/sites/default/files/docs/sr138.pdf|title = The Rising Cost of Complying with the Federal Income Tax|last = Moody|first = J. Scott|last2 = Warcholik|first2 = Wendy P.|last3 = Hodge|first3 = Scott A.|publisher = [[Tax Foundation]]|date = December 1, 2005|accessdate = June 27, 2016}}</ref> A ''[[New York Times]]'' article in 1994 cited a Tax Foundation report based on 1993 data for the claim that corporations with assets of less than $1 million spent $15.9 billion in tax compliance and yet effectively spent only $4.1 billion to pay taxes, suggesting a huge and inefficient cost of compliance.<ref name=nytimes-obeying-tax-laws/>
+
+A 2015 report by the ''[[Wall Street Journal]]'' on the cost of tax compliance software estimated an average cost of $817 for Form 1120 and $778 for Form 1120S.<ref>{{cite web|url = http://blogs.wsj.com/totalreturn/2015/01/16/what-tax-preparers-are-really-charging-for-2014-returns/|title = What Tax Preparers Are Really Charging for 2014 Returns|last = Sanders|first = Laura|date = January 16, 2015|accessdate = June 27, 2016|publisher = ''[[Wall Street Journal]]''}}</ref>
+
+=== Demands for public disclosure of Form 1120 and other tax returns by public corporations ===
+
+A 2002 ''[[Wall Street Journal]]'' article considered the idea of requiring public corporations to disclose their tax returns, noting that these tended to shed much more light on the corporation's activities and weaknesses, highlight areas of fraud or cover-ups, and bring to public attention special tax code changes or privileges being used by the corporation. The article noted the challenges with doing so given that the accounting principles used for reporting to shareholders differed from those in income tax returns.<ref name=wsj-dual-records/> It speculated that the [[Enron scandal]] might have been caught earlier had this disclosure requirement been present.<ref name=wsj-dual-records/>
+
+The demand for public tax returns for public companies was echoed again by [[Felix Salmon]] in the wake of controversy over [[Apple Inc.]]'s tax returns (discussed below).<ref name=salmon-apple>{{cite web|url = http://blogs.reuters.com/felix-salmon/2013/05/21/why-public-companies-should-have-public-tax-returns/|title = Why public companies should have public tax returns|last = Salmon|first = Felix|date = May 21, 2013|accessdate = June 27, 2016|publisher = ''[[Reuters]]''}}</ref>
+
+=== Criticism of companies for not paying enough in estimated taxes ===
+
+Senator [[Carl Levin]] was critical of [[Apple Inc.]] for paying less in taxes during the 2011 year than its profits during the 2011 year.<ref name=salmon-apple/><ref>{{Cite web|url = http://www.wsj.com/article_email/SB10001424127887323463704578497642576416274-lMyQjAxMTAzMDIwMTEyNDEyWj.html|title = Apple Tax Bill Overstated to Investors|date = May 21, 2013|accessdate = June 27, 2016|publisher = ''[[Wall Street Journal]]''}}</ref> [[Tim Worstall]], writing for ''[[Forbes]]'', argued that there was nothing underhanded about this, but rather, it was baked into the structure of tax payments: taxes for a give year were due with the Form 1120 filed the next year, though some part of the tax obligation needed to be paid in estimated taxes during the tax year as well.<ref>{{cite web|url = http://www.forbes.com/sites/timworstall/2013/05/22/senator-carl-levins-entirely-bizarre-thoughts-on-apples-cash-taxes-paid/|title = Senator Carl Levin's Entirely Bizarre Thoughts On Apple's Cash Taxes Paid|last = Worstall|first = Tim|authorlink = Tim Worstall|date = May 22, 2013|accessdate = June 27, 2016|publisher = ''[[Forbes]]''}}</ref>
+
+==Related forms==
+
+===Form 1040===
+{{Main article|Form 1040}}
+
+Form 1040, officially the "U.S. Individual Income Tax Return" is an IRS Tax Form used for personal federal income tax returns filled with the Internal Revenue Service. Unlike Form 1120, Form 1040 must always be filed on the specific date of April 15. Form 1040 consists of two pages and 79 lines.<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> Additional Schedules also exist for Form 1040. Note that some schedules for Form 1040 share the same name as schedules for Form 1120, but they are not necessarily the same Form.
+
+===Form 990===
+
+{{Main article|Form 990}}
+
+Form 990, officially, the "Return of Organization Exempt From Income Tax",<ref name="actual_990">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f990.pdf |title=Return of Organization Exempt From Income Tax |accessdate=January 28, 2016 |publisher=Internal Revenue Service}}</ref> is a United States [[IRS tax forms|Internal Revenue Service form]] that provides the public with the financial information of nonprofit organizations. It is used by the government to prevent such organizations from abusing their tax exempt status. Like Form 1120, Form 990 has many additional schedules that must be filed based on the type of organization and other factors.
+
+===Form 1065===
+
+Form 1065, officially, the "U.S. Return of Partnership Income", is an information return used to report the income, gains, losses, deductions, credits, etc., from the operation of a partnership. Partnership is defined by the IRS as "the relationship between two or more persons who join to carry on a trade or business, with each person contributing money, property, labor, or skill and each expecting to share in the profits and losses of the business whether or not a formal partnership agreement is made."<ref>{{cite web|url=https://www.irs.gov/instructions/i1065/ch01.html#d0e188|title=Instructions for Form 1065 (2015)|accessdate=June 23, 2016|publisher=Internal Revenue Service}}</ref> A partnership does not pay taxes on its income, but rather "passes through" any profits or losses to its partners.
+
+==References==
+{{reflist|30em}}
+
+[[Category:United States government forms]]
+[[Category:Internal Revenue Service]]
+[[Category:IRS tax forms]]
+[[Category:Business taxes]]
