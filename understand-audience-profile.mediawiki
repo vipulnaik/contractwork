@@ -1,5 +1,7 @@
 This page explores ways for the people managing a website to better use Google Analytics to understand the profile of users for the website.
 
+The procedural aspect of the page (i.e., the instructions on how to pull information) are focused on Google Analytics. However, the discussion of how to interpret the data is general, and can also be used by people 
+
 == Steps ==
 
 === Understanding your goals ===
@@ -22,14 +24,21 @@ This page explores ways for the people managing a website to better use Google A
 #* Some information is implicitly collected from the environment in which the user interacts with the website. For instance, location can be inferred from the user's IP address, and language can be read from the user's browser setting.
 #* Some information is inferred from the user's entire web activity, tracked using ad tracking cookies. Interests are typically inferred this way; other data may also be inferred this way when not present in a more reliable form.
 #* Some information is explicitly entered by the user, such as information that users enter into their Facebook or Google profiles. While generally the most reliable, this does depend on trusting the user to enter the data accurately (in most cases, this information is not verified by third parties).
-# Keep in mind that many of these demographic variables are valuable for providing insight, rather than absolute statements. For instance, it's not the case that all women behave in one way and all men behave in another way. However, the fact that a website is visited mostly by women gives some insight into the type of audience it attracts. In fact, it even provides insight into the male audience it attracts. More explicitly, if the majority of a site's visitors are female, it's likely that even the male visitors have interests that are more stereotypically female.
 
 === Being aware of statistical and ethical framework and pitfalls ===
 
-# Understand the difference between index and composition.
-#* For any dimension (such as age, gender, ethnicity, income bucket) we can consider the ''composition'' of your website visitors based on that dimension. For the simplest example, gender, the composition of your website visitors by gender will read something like "45% male, 55% female." Composition data is available in Google Analytics for any dimension that is being tracked.
-#* Another idea related to composition is that of the ''index'' (as Quantcast cals it).<ref name=quantcast-index>[https://www.quantcast.com/help/guides/reading-our-reports/ Reading Our Reports]</ref> The index becomes relevant when the overall sizes of the populations for various values of the dimension are different. For instance, in the United States, whites (Caucasians) constitute about 70% of the population, whereas blacks (African-Americans) constitute about 15% of the population. A website 
-
+# Understand the concepts of composition and index.
+#* For any dimension (such as age, gender, ethnicity, income bucket) we can consider the ''composition'' of your website visitors based on that dimension. For the simplest example, gender, the composition of your website visitors by gender will read something like "45% male, 55% female." Composition data is available in Google Analytics (GA) for any dimension that is being tracked.
+#* Another idea related to composition is that of the ''index'' (as Quantcast cals it).<ref name=quantcast-index>[https://www.quantcast.com/help/guides/reading-our-reports/ Reading Our Reports]</ref> The index becomes relevant when the overall sizes of the populations for various values of the dimension are different. For instance, in the United States, African-Americans constitute 15% of the population. Thus, a website that gets 30% of its traffic from African-Americans is overrepresented among them, even though they are still a minority of users. The index is essentially the ratio of the composition among website visitors to composition in the overall population, so in this case it is 200. An index above 100 means the subpopulation is overrepresented, whereas an index less than 100 means the subpopulation is underrepresented.
+#* Unlike composition, that can be inferred purely based on the visitors to the website, the index requires the use of data for a general population. Moreover, the index can be different depending on what general population we use for benchmarking. For instance, for a local news website for a city, do we use the population of the city, or the population of the country, or world population? Do we restrict to people with Internet access, or to all people? 
+#* Note that for large subpopulations, the index has a ceiling effect. For instance, Caucasians in the United States are 70% of the population, so even if a website gets 100% of its traffic from Caucasians, the index is still only 142. On the other hand, for a subpopulation that is only 5% of the whole population, the index could be as high as 2000.
+#* The distinction between index and composition is less important when looking at gender, especially in developed countries, because the number of men and women using the Internet is almost equal.
+# Keep in mind that composition and index are both ''relative'': neither measure how popular the site is on the whole with various subpopulations.
+#* The composition is a measure of the ''relative'' proportion from different subpopulations. The index is a similar measure, but adjusting for overall population sizes.
+#* A website can have a 95% male audience (so a male index of about 190), and yet be popular among a negligible minority of males. On the other hand, another website can have only a 30% male audience, and yet be visited by many more males, because it has way more ''overall'' traffic.
+# Keep in mind the feedback loop between how you promote your website and what audience it attracts. If you (intentionally or unintentionally) make your website more visible or prominent to some subpopulations, that will be reflected in the statistics. This could create a feedback loop: you advertise your website to a subpopulation, they use it more, and you focus your energies more on the subpopulation. There are three solutions:
+#* Filter for traffic with referral sources or channels where you know you are not introducing any bias.
+#* Look at repea
 === Exploring user data using Google Analytics ===
 
 # The following pieces of user data are available even without any special efforts to track demographic data. This data is directly collected by Google Analytics through its tracking beacon and does not require joining with external data about the user.
