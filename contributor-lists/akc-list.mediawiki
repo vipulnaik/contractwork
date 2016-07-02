@@ -126,8 +126,8 @@ In general, for timeline pages, we expect about 1-5% of the pageviews
 that we see for the corresponding page whose timeline page it is.
 
 === Technology ===
-
-* Timeline of Lyft: The Lyft page gets about 16K views a month, so we should expect 150 pageviews a month. Proposed bounty amount: $40
+ 
+(none at present)
 
 === Clothing retail ===
 
