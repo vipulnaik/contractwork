@@ -119,3 +119,6 @@ Might also git control it.
 July 1
 
 12:50: Added shell script for fighting spam
+
+12:59: Fixed up settings so that all system maintenance stuff is backed up properly
+
