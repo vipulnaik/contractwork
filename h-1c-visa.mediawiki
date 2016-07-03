@@ -1,19 +1,19 @@
-The '''H-1C visa''' was a visa that was previously available to [[foreign national]]s seeking temporary employment in the [[United States]]. These visas were made available to foreign nurses coming into the [[United States]] to perform services as a registered nurse in areas with a shortage of health professionals as determined by the [[United States Department of Labor|Department of Labor]].<ref name=pl-106-95>{{cite web|url = https://www.congress.gov/106/plaws/publ95/PLAW-106publ95.pdf|title = Public Law 106-95: Nursing Relief for Disadvantaged Areas Act of 1999|accessdate = July 2, 2016|publisher = [[United States Congress]]}}</ref><ref>{{Cite web|url=http://usimmigration.visapro.com/H1C-Nurses-Visa.asp|title=H1C Visa - Easily Apply Online - Foreign Registered Nurses|last=webmaster@VisaPro.com|website=usimmigration.visapro.com|access-date=2016-06-11}}</ref> The creation of this visa was prompted by a [[nursing shortage]].
+The '''H-1C visa''' was a visa that was previously available to [[foreign national]]s seeking temporary employment in the [[United States]]. These visas were made available to foreign nurses coming into the [[United States]] to perform services as a registered nurse in areas with a shortage of health professionals as determined by the [[United States Department of Labor|Department of Labor]].<ref name=pl-106-95>{{cite web|url = https://www.congress.gov/106/plaws/publ95/PLAW-106publ95.pdf|title = Public Law 106-95: Nursing Relief for Disadvantaged Areas Act of 1999|accessdate = July 2, 2016|publisher = [[United States Congress]]}}</ref><ref>{{Cite web|url=http://usimmigration.visapro.com/H1C-Nurses-Visa.asp|title=H1C Visa - Easily Apply Online - Foreign Registered Nurses|last=webmaster@VisaPro.com|publisher = VisaPro|access-date=2016-06-11}}</ref><ref name=uscis-h-1c-guide/> The creation of this visa was prompted by a [[nursing shortage]].<ref name=pl-106-95/>
 
-As of December 20, 2009, this visa classification has been expired.<ref name=uscis-h-1c-guide /> The last H-1C visas were issued in Fiscal Year 2012.<ref name=visa-data/>
+As of December 20, 2009, this visa classification has been expired.<ref name=uscis-h-1c-guide /><ref name=federal-register-1999-law/> The last H-1C visas were issued in Fiscal Year 2012.<ref name=visa-data/>
 
 == Program details ==
-This non-immigrant/temporary worker classification was introduced by the [[United States Citizenship and Immigration Services]] in 1999 to specifically address the lack of nurses in the United States.<ref name=":2" />
+This non-immigrant/temporary worker classification was introduced by the [[United States Citizenship and Immigration Services]] in 1999 to specifically address the lack of nurses in the United States.<ref name=ilw/>
 
 === Eligibility ===
-To qualify for an H-1C visa one must have:
+To qualify for an H-1C visa one must have:<ref name=uscis-h-1c-guide>{{Cite web|url=https://www.uscis.gov/working-united-states/temporary-workers/h-1c-registered-nurse/h-1c-registered-nurse-working-health-professional-shortage-area-determined-department-labor|title=H-1C Registered Nurse Working in a Health Professional Shortage Area as Determined by the Department of Labor|publisher = [[United States Citizenship and Immigration Services]]|access-date=2016-06-11}}</ref><ref name=federal-register-1999-law/>
 * Had a full and unrestricted nursing license in their country of origin or have received nursing education and had been licensed in the United States.
 * Been authorized by the U.S. State Board of Nursing to practice within the state.
 * Passed the examination given by the Commission on Graduates for Foreign Nursing Schools.
-* Been fully qualified and eligible under [[State Law|state law]] of intended employment to practice as a Registered Nurse immediately upon admission to the U.S.<ref name=uscis-h-1c-guide>{{Cite web|url=https://www.uscis.gov/working-united-states/temporary-workers/h-1c-registered-nurse/h-1c-registered-nurse-working-health-professional-shortage-area-determined-department-labor|title=H-1C Registered Nurse Working in a Health Professional Shortage Area as Determined by the Department of Labor|website=USCIS|access-date=2016-06-11}}</ref>
+* Been fully qualified and eligible under [[State Law|state law]] of intended employment to practice as a Registered Nurse immediately upon admission to the U.S.
 
 ==== Eligible hospitals ====
-Only 14 hospitals had been publicly approved to participate in the H-1C visa program.<ref>{{Cite web|url=http://www.messersmithlaw.com/work-visa/h1c-visa.html|title=H1C Visa|website=www.messersmithlaw.com|access-date=2016-06-11}}</ref> These hospitals are:
+Only 14 hospitals had been publicly approved to participate in the H-1C visa program.<ref>{{Cite web|url=http://www.messersmithlaw.com/work-visa/h1c-visa.html|title=H1C Visa|publisher = Messer Smith Law|access-date=2016-06-11}}</ref> These hospitals are:
 # Beverly Hospital, Montebello, California
 # [[Doctors Medical Center San Pablo Campus|Doctors Medical Center]], Modesto, California
 # Elizabeth General Medical Center, Elizabeth, New Jersey
@@ -31,9 +31,9 @@ Only 14 hospitals had been publicly approved to participate in the H-1C visa pro
 However, the [[United States Department of Labor|Department of Labor]] has stated that there may be other hospitals eligible to participate.
 
 === Application ===
-The [[Form I-129]], Petition for a Nonimmigrant Worker, must be filed by a U.S. [[employer]] hospital that has received a notice of acceptance of the attestation for H-1C Nonimmigrant Nurses, from the [[United States Citizenship and Immigration Services]].<ref name=uscis-h-1c-guide />
+The [[Form I-129]], Petition for a Nonimmigrant Worker, must be filed by a U.S. [[employer]] hospital that has received a notice of acceptance of the attestation for H-1C Nonimmigrant Nurses, from the [[United States Citizenship and Immigration Services]].<ref name=federal-register-1999-law/><ref name=uscis-h-1c-guide />
 
-The Form I-129 must include the following documents:<ref name=phelps>{{Cite web|url=http://phelpsattorneys.com/h-1c-visa/|title=H-1C Visa - The Law Offices of Eliana Phelps in Murrieta California 92562|last=Phelps|first=Eliana|date=2010-05-25|website=The Law Offices of Eliana Phelps in Murrieta California 92562|language=en-US|access-date=2016-06-11}}</ref>
+The Form I-129 must include the following documents:<ref name=federal-register-1999-law/><ref name=uscis-h-1c-guide/><ref name=phelps>{{Cite web|url=http://phelpsattorneys.com/h-1c-visa/|title=H-1C Visa - The Law Offices of Eliana Phelps in Murrieta California 92562|last=Phelps|first=Eliana|date=2010-05-25|publisher=The Law Offices of Eliana Phelps in Murrieta California 92562|language=en-US|access-date=2016-06-11}}</ref>
 * The [[United States Department of Labor|Department of Labor]]’s acceptance of Form ETA-9081, Attestation for H-1C Nonimmigrant Nurses
 * A Statement from the facility noting restrictions which the laws of the state or jurisdiction of intended employment place on one's services
 * Evidence that one has been authorized by a State Board of Nursing to engage in registered nurse practice in a state or U.S. territory or possession, and one has or will be practicing at a facility which provides health care services
@@ -43,22 +43,27 @@ The Form I-129 must include the following documents:<ref name=phelps>{{Cite web|
 An approved Form I-129 can be used to apply for a H-1C visa from a United States consulate abroad (consulates are under the [[U.S. Department of State]]) or change status to H-1C status within the United States if already present in legal status.
 
 == Limitations ==
-There were several restrictions placed on this visa during its implementation and valid period.<ref name=phelps />
+There were several restrictions placed on this visa during its implementation and valid period.<ref name=federal-register-1999-law/><ref name=uscis-h-1c-guide/><ref name=phelps />
 * No more than 500 H-1C visas are approved each year.
 * This visa cannot be extended upon the initial three year period.
-* Dependents of the H-1C visa holder are not protected to work in the U.S.
+* Dependents of the H-1C visa holder are not permitted to work in the U.S.
 * Once an H-1C visa holders returns to their country of origin, they cannot reapply for a H-1C visa.
 * Hospitals must approved by the [[United States Department of Labor|Department of Labor]] be qualified to hire H-1C visa holders. ''[[#Eligible hospitals|See list mentioned above of eligible hospitals]].''
 * If there is a change in employers, the H-1C visa holder must apply for a new H-1C visa.
 
 == History ==
 
-On November 12, 1999, the [[106th United States Congress]] passed the Nursing Relief for Disadvantaged Areas Act (P.L. 106-95), which called for the creation of a new H-1C visa for nurses going to work for up to three years in health professional shortage areas. Up to 500 nurses per year can get the visa, but each state is limited to 25 H-1C nurses a year.<ref name=pl-106-95/><ref name=ilw>{{Cite web|url=https://www.ilw.com/articles/2007,1217-siskind.shtm|title=ILW.COM - immigration news: Immigrant's Weekly: H-1C Visas for Registered Nurses|website=www.ilw.com|access-date=2016-06-11}}</ref><ref name=federal-register-1999-law>{{cite web|url = https://www.federalregister.gov/regulations/1615-AA35/petitioning-requirements-for-the-h-1c-nonimmigrant-classification-under-public-law-106-95|title = Petitioning Requirements for the H-1C Nonimmigrant Classification Under Public Law 106-95|publisher = ''[[Federal Register]]''|accessdate = July 2, 2016}}</ref>  The 1999 law is very similar to a 1989 law that created the [[H-1A visa]] for nurses. That visa category had expired in 1995 after unsuccessful efforts to extend its life. The key differences between the two programs are that a much smaller number of H-1C visas have been allocated and that the facility where the nurse will work must be in a [[health professional]] shortage area.
+On November 12, 1999, the [[106th United States Congress]] passed the Nursing Relief for Disadvantaged Areas Act (P.L. 106-95), which called for the creation of a new H-1C visa for nurses going to work for up to three years in health professional shortage areas. Up to 500 nurses per year can get the visa, but each state is limited to 25 H-1C nurses a year.<ref name=pl-106-95/><ref name=ilw>{{Cite web|url=https://www.ilw.com/articles/2007,1217-siskind.shtm|title=ILW.COM - immigration news: Immigrant's Weekly: H-1C Visas for Registered Nurses|publisher = [[Immigration Daily]]|access-date=2016-06-11}}</ref><ref name=federal-register-1999-law>{{cite web|url = https://www.federalregister.gov/regulations/1615-AA35/petitioning-requirements-for-the-h-1c-nonimmigrant-classification-under-public-law-106-95|title = Petitioning Requirements for the H-1C Nonimmigrant Classification Under Public Law 106-95|publisher = ''[[Federal Register]]''|accessdate = July 2, 2016}}</ref>  The 1999 law is very similar to a 1989 law that created the [[H-1A visa]] for nurses.<ref name=uscis-nra>{{cite web|url = https://www.uscis.gov/tools/glossary/nursing-relief-act-1989|title = Nursing Relief Act of 1989|publisher = [[United States Citizenship and Immigration Services]]|accessdate = July 2, 2016}}</ref><ref name=hr-1507>{{Cite web|url=https://www.congress.gov/bill/101st-congress/house-bill/1507|title=H.R.1507 - Immigration Nursing Relief Act of 1989|last=|first=|date=September 13, 1989|publisher = [[United States Congress]]|access-date=June 13, 2016}}</ref> That visa category had expired in 1995 after unsuccessful efforts to extend its life.<ref>{{Cite web|url=http://www.visalaw.com/h-1a-nurse-visa-program-appears-likely-to-expire/|title=H-1A NURSE VISA PROGRAM APPEARS LIKELY TO EXPIRE - Siskind Susser PC|date=1995-09-30|website=Siskind Susser PC|language=en-US|access-date=2016-06-13}}</ref> 
 
-One of the few immigration measures passed by the [[109th United States Congress]] was the extension of the H-1C category. In November 2006, Congress approved legislation to extend the H-1C program for three more years.<ref name=ilw/.> This classification expired as of December 20, 2009.<ref name=ilw/> The last H-1C visas were issued in Fiscal Year 2012.<ref name=visa-data/>
+The key differences between the two programs are:<ref name=ilw/>
+
+* The number of H-1C visas is capped at 500 per year, significantly less than the annual number of H-1A visas issued when the H-1A was first introduced.
+* The facility where the nurse will work must be in a [[health professional]] shortage area.
+
+One of the few immigration measures passed by the [[109th United States Congress]] was the extension of the H-1C category. In November 2006, Congress approved legislation to extend the H-1C program for three more years.<ref name=ilw/> This classification expired as of December 20, 2009.<ref name=federal-register-1999-law/><ref name=uscis-h-1c-guide/> The last H-1C visas were issued in Fiscal Year 2012.<ref name=visa-data/>
 
 == Statistics ==
-Below are H-1C visas issued each year. Years here are [[Fiscal Year]]s. For instance, Fiscal Year 2004 is the period from October 1, 2003 to September 30, 2004.<ref name=visa-data>{{Cite web|url=https://travel.state.gov/content/visas/en/law-and-policy/statistics/non-immigrant-visas.html|title=Nonimmigrant Visa Statistics|website=travel.state.gov|access-date=2016-06-11}}</ref>
+Below are H-1C visas issued each year. Years here are [[Fiscal Year]]s. For instance, Fiscal Year 2004 is the period from October 1, 2003 to September 30, 2004.<ref name=visa-data>{{Cite web|url=https://travel.state.gov/content/visas/en/law-and-policy/statistics/non-immigrant-visas.html|title=Nonimmigrant Visa Statistics|publisher = [[U.S. Department of State]]|access-date=2016-06-11}}</ref>
 {| class="sortable wikitable"
 !Year
 !Total Number of Visas Issued
