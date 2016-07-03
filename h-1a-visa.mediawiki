@@ -1,0 +1,114 @@
+The '''H-1A visa''' was a visa that was previously available to [[foreign national]]s seeking temporary employment in the [[United States]]. These visas were made available to foreign nurses coming into the [[United States]] to perform services as a registered nurse in areas with a shortage of health professionals as determined by the [[United States Department of Labor|Department of Labor]].<ref name=findlaw>{{Cite web|url=http://immigration.findlaw.com/visas/temporary-worker-visas.html|title=Temporary Worker Visas - FindLaw|website=Findlaw|access-date=2016-06-13}}</ref> The creation of this visa was prompted by the [[nursing shortage]].<ref name=hr-1507>{{Cite web|url=https://www.congress.gov/bill/101st-congress/house-bill/1507|title=H.R.1507 - Immigration Nursing Relief Act of 1989|last=|first=|date=September 13, 1989|website=U.S. Congress|publisher=U.S. Federal Government|access-date=June 13, 2016}}</ref>
+
+The H-1A nurse program, enacted by the Nursing Relief Act of 1989, expired on September 1, 1995.<ref>{{Cite web|url=http://www.visalaw.com/h-1a-nurse-visa-program-appears-likely-to-expire/|title=H-1A NURSE VISA PROGRAM APPEARS LIKELY TO EXPIRE - Siskind Susser PC|date=1995-09-30|website=Siskind Susser PC|language=en-US|access-date=2016-06-13}}</ref><ref name=uscis-nra>{{cite web|url = https://www.uscis.gov/tools/glossary/nursing-relief-act-1989|title = Nursing Relief Act of 1989|publisher = [[United States Citizenship and Immigration Services]]|accessdate = July 2, 2016}}</ref> The last of the H-1A visa workers finished in 2001. The visa was suceeded by the [[H-1C visa]], created in 1999.<ref name=findlaw/><ref>{{Cite web|url=https://travel.state.gov/content/dam/visas/Statistics/FY07AnnualReportTableXVIB.pdf|title=Nonimmigrant Visas Issued by Classification|last=|first=|date=|website=Travel.State.Gov|publisher=U.S. Federal Government|access-date=June 12, 2016}}</ref> The H-1C was expired in 2009.<ref name="h-1c-expiration">{{Cite web|url=https://www.uscis.gov/working-united-states/temporary-workers/h-1c-registered-nurse/h-1c-registered-nurse-working-health-professional-shortage-area-determined-department-labor|title=H-1C Registered Nurse Working in a Health Professional Shortage Area as Determined by the Department of Labor|website=USCIS|access-date=2016-06-11}}</ref>
+
+== Program details ==
+This non-immigrant/temporary worker classification was introduced by the [[United States Citizenship and Immigration Services]] in 1989 to specifically address the lack of nurses in the United States.<ref name="U.S. Government Printing Office">{{Cite book|url=https://books.google.com/books?id=uvI6AAAAIAAJ|title=The Code of Federal Regulations of the United States of America|date=1988-01-01|publisher=U.S. Government Printing Office|language=en}}</ref>
+
+=== Eligibility ===
+All H visas require an offer of employment from an U.S. employer, and proof that the wage to be paid is comparable to other positions in that occupation. In addition to these requirements, the H-2 visa necessitates a showing (by the employer) that there were no qualified U.S. workers available and willing to fill the position.<ref name=findlaw />
+
+To qualify for an '''H-1A visa''' one must submit:<ref name=findlaw/>
+* an offer of employment from an U.S. employer
+* proof that the wage to be paid is comparable to other positions in that occupation
+* a showing (by the employer) that there were no qualified U.S. workers available and willing to fill the position.
+
+=== Application ===
+The [[Form I-129]], Petition for a Nonimmigrant Worker, must be filed by a U.S. [[employer]] hospital that has received a notice of acceptance of the attestation for '''H-1A''' Nonimmigrant Nurses, from the [[United States Citizenship and Immigration Services]].
+
+The [[Form I-129]] must include the following documents:<ref>{{Cite web|url=http://www.visaattorneys.com/immigration-resources/H-1A-Visa-Package.Eng.pdf|title=H-1A Visas|last=Bernstein|first=Osberg-Braun|date=|website=Visaattorneys.com|publisher=Visaattorneys.com|access-date=June 12, 2016}}</ref>
+* INS filing fee
+* The original INS form G-28 (Notice of Entry of Appearance and Attorney) signed by petitioner or beneficiary
+* INS [[Form I-129]] with H supplement
+* A copy of the [[United States Department of Labor|Department of Labor's]] notice of acceptance for attestation for the facility on Form ETA 9029
+* A statement that the facility with comply with the terms of attestation
+* A statement describing limitations which the laws of the state or jurisdiction of intended employment place on the nurses
+* A statement that notice of the filing provided by the employer to the bargaining Representative or to the RN, through posting
+* The [[Commission on Graduates of Foreign Nursing Schools|CGFNS]] certificate and/or the RN license for the state of intended employment
+* A copy of the license from the country where nursing education was achieved
+* A copy of the nursing diploma/degree
+
+== Limitations ==
+Temporary visas in the H classification are subject to numerical limitations imposed by Congress. These annual limits are applied at the time of Form I-129 approval, not when somebody seeks admission to the United States. Also, even though he or she has been granted a visa, at the time of entry, a person with a valid visa may still be denied entry due to suspicion of being a terrorist or concern that they will overstay or violate visa terms.<ref name="U.S. Government Printing Office"/>
+
+There were several restrictions placed on this visa during its implementation and valid period.<ref name=hr-1507 />
+* The employment of the alien will not adversely affect the wages and working conditions of registered nurses similarly employed and the alien
+* The alien must be paid at the prevailing wage for registered nurses employed by the facility
+* The period of admission for an initial period shall not exceed 3 years, subject to an extension, not to exceed a total period of admission of 5 years
+* Visa may be revoked by the Secretary of Labor upon finding that the facility for which the nursing certification is made no longer meets such qualifications or if there are misrepresentations in certification.
+* The employer must also employ other registered nurses.
+
+== History ==
+
+Prior to 1989, there was a single H-1 category used for skilled workers, with no separate category for nurses. 
+
+On March 20, 1989, [[Chuck Schumer]] sponsored the Immigration Nursing Relief Act in the [[United States House of Representatives]] as H.R. 1507.<ref name=hr-1507/> The Act was passed on December 18, 1989, the [[101st United States Congress]] as P.L. 101-238.<ref name=uscis-nra/><ref name=hr-3259>{{cite web|url = https://www.congress.gov/bill/101st-congress/house-bill/3259|title = H.R.3259 - Immigration Nursing Relief Act of 1989|accessdate = July 2, 2016}}</ref> The Act had two main parts:
+# It provided for the adjustment to permanent resident status of certain nonimmigrants who as of September 1, 1989, had H-1 nonimmigrant status as registered nurses; who had been employed in that capacity for at least 3 years; and whose continued nursing employment meets certain labor certification requirements.<ref name=uscis-nra/><ref name=hr-1507/>
+# It created a new temporary category (H-1A) for registered nurses. It also reassigned the existing H-1 category as [[H-1B visa|H-1B]].<ref name=hr-1507/><ref name=findlaw/>
+
+The H-1A category was permitted to sunset on September 1, 1995, with some nurses granted extensions in the category through September 30, 1997. On November 12, 1999, the category was replaced by the newer, more restrictive, [[H-1C visa]].<ref name=findlaw/> The last H-1A visas were issued in Fiscal Year 2000.<ref name=visa-data/>
+
+== Statistics ==
+Below are H-1A visas issued each year as released by the U.S. [[United States Department of State|Department of State]] - [[Bureau of Consular Affairs]]. Years here are [[Fiscal Year]]s, so for instance the year 1993 refers to the time period from October 1, 1992 to September 30, 1993. A "N/A" indicates that data is not available; this is because country-level data became available only starting from Fiscal Year 1997.<ref name=visa-data>{{Cite web|url=https://travel.state.gov/content/visas/en/law-and-policy/statistics/non-immigrant-visas.html|title=Nonimmigrant Visa Statistics|website=travel.state.gov|access-date=2016-06-11}}</ref>
+{| class="wikitable"
+!Year
+!Total number of visas issued
+!Number of visas issued to each country 
+|-
+|1990
+|2
+|N/A
+|-
+|1991
+|7443
+|N/A
+|-
+|1992
+|7377
+|N/A
+|-
+|1993
+|6388
+|N/A
+|-
+|1994
+|6441
+|N/A
+|-
+|1995
+|7261
+|N/A
+|-
+|1996
+|1745
+|N/A
+|-
+|1997
+|61
+|32 in Philippines, 2 in Australia, 3 in Nigeria, 4 in South Africa, 2 unknown, 2 in India, 2 in Mainland China, 1 in Norway, 1 in Great Britain and Northern Ireland, 1 in Panama, 1 in Saint Vincent and the Grenadines, 1 in Niger, 1 in Marshall Islands, 1 in Zimbabwe,
+|-
+|1998
+|18
+|3 in Spain, 3 in Mainland China, 2 in South Africa, 1 in India, 1 in Pakistan, 1 in Philippines, 1 in Greece, 1 in Great Britain and Northern Ireland, 1 in Slovakia, 1 in Australia, 1 in Chile, 1 in Venzuala
+|-
+|1999
+|5
+|1 in Senegal, 1 in Mainland China, 1 in Croatia, 1 in France, 1 in Mexico
+|-
+|2000
+|2
+|1 in Germany, 1 in Columbia
+|}
+
+== See also ==
+* [[H-1B visa]]
+* [[Nursing visa retrogression in the U.S.|Nursing visa retrogression in the U.S]].
+* [[TN visa]]
+* [[H-1C visa]]
+
+== References ==
+{{reflist|30em}}
+
+{{United States visas}}
+
+[[Category:United States visas by type]]
