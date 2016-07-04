@@ -122,3 +122,10 @@ July 1
 
 12:59: Fixed up settings so that all system maintenance stuff is backed up properly
 
+July 4
+
+Discovered that XML stuff needs to be installed for PHP
+
+apt-get install php7.0-xml
+
+Also installed WP-CLI so as to be able to do command-line upgrades of WordPress
