@@ -122,7 +122,7 @@ It is important to note that if a corporation has no unpaid income tax, then the
 
 == Dual record-keeping ==
 
-Many companies keep separate sets of accounting records for reporting to shareholders and for income tax purposes. This is because the [[generally accepted accounting principles]] (GAAP) used for reports to shareholders and other business purposes differ from the principles used for income tax reporting.<ref name=wsj-dual-records>{{cite web|url = http://www.wsj.com/articles/SB1032447004200528235|title = Companies Keep Dual Records For Shareholders and the IRS|last = Berkowitz|first = Art|last2 = Rampell|first2 = Richard|publisher = ''[[Wall Street Journal]]''|date = September 19, 2002|accessdate = June 27, 2016}}</ref><ref>{{cite web|title = Companies Keep Dual Records For Shareholders and the IRS|url = http://taxfoundation.org/article/three-differences-between-tax-and-book-accounting-legislators-need-know|accessdate = June 27, 2016|publisher = [[Tax Foundation]]}}</ref>
+Many companies keep separate sets of accounting records for reporting to shareholders and for income tax purposes. This is because the [[generally accepted accounting principles]] (GAAP) used for reports to shareholders and other business purposes differ from the principles used for income tax reporting.<ref name=wsj-dual-records>{{cite web|url = http://www.wsj.com/articles/SB1032447004200528235|title = Companies Keep Dual Records For Shareholders and the IRS|last = Berkowitz|first = Art|last2 = Rampell|first2 = Richard|publisher = ''[[Wall Street Journal]]''|date = September 19, 2002|accessdate = June 27, 2016}}</ref><ref>{{cite web|title = Three Differences Between Tax and Book Accounting that Legislators Need to Know|url = http://taxfoundation.org/article/three-differences-between-tax-and-book-accounting-legislators-need-know|accessdate = June 27, 2016|publisher = [[Tax Foundation]]|last = Logan|first = David S.}}</ref>
 
 == History ==
 
@@ -164,6 +164,12 @@ Form 990, officially, the "Return of Organization Exempt From Income Tax",<ref n
 ===Form 1065===
 
 Form 1065, officially, the "U.S. Return of Partnership Income", is an information return used to report the income, gains, losses, deductions, credits, etc., from the operation of a partnership. Partnership is defined by the IRS as "the relationship between two or more persons who join to carry on a trade or business, with each person contributing money, property, labor, or skill and each expecting to share in the profits and losses of the business whether or not a formal partnership agreement is made."<ref>{{cite web|url=https://www.irs.gov/instructions/i1065/ch01.html#d0e188|title=Instructions for Form 1065 (2015)|accessdate=June 23, 2016|publisher=Internal Revenue Service}}</ref> A partnership does not pay taxes on its income, but rather "passes through" any profits or losses to its partners.
+
+== See also ==
+
+* [[Corporate tax in the United States]]
+* [[Form 1040]]
+* [[Form 990]]
 
 ==References==
 {{reflist|30em}}
