@@ -66,9 +66,9 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 * Form 1023: $50: Form filed by nonprofits to get tax-exempt status. Also reference stuff like NTEE codes, various types of exemption statuses.
 
-* Form 1099-R: $50: Want something of comparable quality to Form 1099-MISC.
+* Form 1099-R (reserved by Ethan): $50: Want something of comparable quality to Form 1099-MISC.
 
-* Form 1099-K: $30: Want something of comparable quality to Form 1099-MISC.
+* Form 1099-K (reserved by Ethan): $30: Want something of comparable quality to Form 1099-MISC.
 
 * Form 1098: $30: Want something of comparable quality to Form 1099.
 
