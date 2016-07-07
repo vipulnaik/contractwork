@@ -105,4 +105,4 @@ The page is also focused on understanding users "in real life" (using convention
 
 == References ==
 
-{{reflist}}
+<references/>
