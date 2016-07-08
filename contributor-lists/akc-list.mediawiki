@@ -79,6 +79,7 @@ Maximum acceptable delay: 4 weeks
 * Start by June 10, end by June 12 (delayed by a few days): Timeline of Amazon Web Services
 * Start by June 17, end by June 19 (finishing touches delayed): Timeline of Twitch.tv
 * Start by June 24, end by June 26: Timeline of Lyft
+* Start by July 1, end by July 3 (delayed): Timeline of Nordstrom
 
 (more weeks, months to be added).
 
@@ -115,6 +116,7 @@ Total so far: $1836
 * Timeline of Amazon Web Services: $95
 * Timeline of Twitch.tv: $40
 * Timeline of Lyft: $40
+* Timeline of Nordstrom: $75 ($50 for the page, $25 for getting started on clothing)
 
 === Commissions on recruits ===
 
@@ -130,11 +132,6 @@ that we see for the corresponding page whose timeline page it is.
 (none at present)
 
 === Clothing retail ===
-
-In addition to bounties below, extra $25 bounty for first clothing
-retail page, as a reward for expanding your capability set.
-
-* Timeline of Nordstrom: Nordstrom gets about 18K a month. Proposed bounty: $50
 
 * Timeline of Forever 21: Forever 21 gets about 12K a month. Proposed bounty: $40
 
