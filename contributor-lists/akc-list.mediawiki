@@ -85,11 +85,11 @@ Maximum acceptable delay: 4 weeks
 
 == Total due ==
 
-Total due: $1846.50
+Total due: $1921.50
 
 === Completed pages ===
 
-Total so far: $1836
+Total so far: $1911
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
