@@ -28,11 +28,11 @@ Wikipedia Views link for pages significantly edited but not created: http://wiki
 
 == Work ==
 
-Total payment due so far: $1589; tentative plan to pay part of it to Jesse and donate the rest of it to an animal rights or welfare organization of Jesse's choice.
+Total payment due so far: $1659; tentative plan to pay part of it to Jesse and donate the rest of it to an animal rights or welfare organization of Jesse's choice.
 
 === Completed pages ===
 
-Total: $1242
+Total: $1312
 
 * Timeline of animal welfare and rights: $150
 
@@ -69,6 +69,8 @@ Total: $1242
 * Albert Schweitzer Foundation for Our Contemporaries: $32
 
 * Animal welfare and rights in Iran: $50
+
+* Animal welfare and rights in Australia: $70
 
 === Improvements to existing pages ===
 
