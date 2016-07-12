@@ -12,7 +12,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Food frequency questionnaire: $25-40: Explain what it is, historical examples, cautionary notes and best practices, results of common FFQs. You can start from these (not wikiformatted) notes, that somebody who started working on the article created: https://en.wikipedia.org/wiki/User:Vipul/Food_frequency_questionnaire
 
-* Marlow-Crowne Social Desirability Scale: $20-30: Already mentioned on the social desirability bias, but probably deserves a separate page, detailing the scale, plus discussing existing research on it and its psychometric properties.
+* Marlow-Crowne Social Desirability Scale (reserved for Setsen): $20-30: Already mentioned on the social desirability bias, but probably deserves a separate page, detailing the scale, plus discussing existing research on it and its psychometric properties.
 
 === Global (and national/local) health ===
 

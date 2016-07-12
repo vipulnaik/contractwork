@@ -1,0 +1,60 @@
+The Internet has given us unprecedented tools to track metrics about topics ranging from pop culture to politics to sports to technology. This page describes different ways of measuring how much a topic is being talked about online, along with ways to interpret these numbers for offline use.
+[[Category:Internet]]
+
+== Steps ==
+=== Facebook page ===
+#Identify a canonical (preferably official) Facebook page associated with the topic where applicable. For instance, for a singer or band, the singer or band will probably have an official Facebook page. Just start typing in the name in the Facebook search bar. You should see the official page appear as the top suggestion, and if it's official, you'll see a blue check mark at the end of the name.[[Image:Gauge the Popularity of a Topic Online Step 1.jpg|center]]
+#Identify relevant metrics for the page, including:[[Image:Gauge the Popularity of a Topic Online Step 2.jpg|center]]
+#* Number of page likes.
+#* Number of likes for recent posts on the page.
+#* Number of page likes from your friends. This is particularly helpful if your friends are interested in the domain. This can give you a somewhat better idea of the profile of people who like the page. Look in the search results or below the profile picture to see how many overall people and how many of your friends liked it.
+#Compare the metrics for the page with metrics for pages of competing entities, to put it in better context. For instance, to evaluate Katy Perry, it makes sense to compare with contemporaries such as Taylor Swift or Shakira, but a direct comparison with Barack Obama doesn't make sense. You can even get Facebook to show you pages similar to a given page, by typing "Pages similar to Katy Perry" in the search bar. [[Image:Gauge the Popularity of a Topic Online Step 3.jpg|center]]
+#Be aware that, in some cases, the number of non-official pages (including fan pages) about the topic on Facebook can also give an idea of the topic's popularity. Also, pages about subsidiary topics can also give an idea. For instance, in the case of a singer, the existence and popularity of Facebook pages about the singer's songs can be a valuable indicator of the singer's popularity.[[Image:Gauge the Popularity of a Topic Online Step 4.jpg|center]]
+
+=== Wikipedia page ===
+#Identify the canonical Wikipedia page for the topic in the language(s) of interest. For most topics that are reasonably popular, there will be an English Wikipedia page.[[Image:Gauge the Popularity of a Topic Online Step 5.jpg|center]]
+#Get information on the number of pageviews of the canonical page. This could be done in many ways:[[Image:Gauge the Popularity of a Topic Online Step 6.jpg|center]]
+#* Use the [http://stats.grok.se stats.grok.se] tool to get the page view counts for the page by month and by day within each month.
+#* Use tools like [http://wikipediaviews.org Wikipedia Views] to obtain summaries of page view counts over longer time periods, and also for easy comparison with other pages in the same reference class.
+#Use other proxies for importance, including:[[Image:Gauge the Popularity of a Topic Online Step 7.jpg|center]]
+#* The number of pages that link to the page (click the "What links here" under Tools on the left sidebar of the Wikipedia page).
+#* The length of the Wikipedia page.
+#* The number of edits made to the page: Click the "View History" button on the top right to see the edit history.
+#* The heat of debate in the corresponding Talk page.
+#* The number of languages it's in (on the page in any language, you can see links in the left sidebar to versions in other languages).
+#Compare with Wikipedia pages on topics in the same reference class. Do this for the steps above. For instance, Katy Perry might be compared to Shakira or Taylor Swift.[[Image:Gauge the Popularity of a Topic Online Step 8.jpg|center]]
+
+=== Google Search ===
+#Use [http://www.google.com/trends Google Trends] to compare the search volume for the topic with the search volume for other topics. Because of its design, Google Trends only gives relative numbers and cannot give absolute search volume, so it is best used to compare different pages in the same reference class.[[Image:Gauge the Popularity of a Topic Online Step 9.jpg|center]]
+
+=== Twitter page ===
+#Search for the canonical (preferably official) Twitter page associated with the topic. As is the case with Facebook, canonical pages may not exist. Also, some celebrities maintain a personal as well as a media or company Twitter account, and it can be difficult deciding which one to use. Look for the account with the blue checkmark and with the larger number of followers. [[Image:Gauge the Popularity of a Topic Online Step 10.jpg|center]]
+#Look at the number of followers, as well as the number of retweets and favorites of posts. Compare with competing topics. You can see the page's total number of followers at the top, and you can examine the number of retweets and favorites under any given tweet they've posted.[[Image:Gauge the Popularity of a Topic Online Step 11.jpg|center]]
+
+=== YouTube Channel ===
+#Be aware that this method applies only for topics where video is a primary form of consumption. Musicians are good candidates for this method. Look for the official channel of the musician by searching for it within YouTube. If you can't find it easily, first look for the top result for one of the musician's more famous videos, then see the channel the video is under. A blue checkmark identifies the official channel (though not all YouTube channels have these checkmarks).[[Image:Gauge the Popularity of a Topic Online Step 12.jpg|center]]
+#Navigate to the videos tab inside the channel and sort videos by "Most Popular" to get a sense of how widely viewed the channel's videos are. You can also see the number of subscribers to the channel above the videos, in the subscribe button on the right.[[Image:Gauge the Popularity of a Topic Online Step 13.jpg|center]]
+#Use SocialBlade and click Monthly Statistics. to track subscribers and video views over the past month. See [http://socialblade.com/youtube/user/szyzyg/monthly Scott Manley's monthly statistics] as an example.[[Image:Gauge the Popularity of a Topic Online Step 14.jpg|center]]
+
+=== Website ===
+#Identify whether the topic has a canonical website, and whether it makes sense to use website traffic as a proxy for the topic's popularity or importance. Tracking popularity of the website can be useful in cases where there is a canonical website that people go to in order to consume or engage with the topic. This is not the case for many topics.[[Image:Gauge the Popularity of a Topic Online Step 15.jpg|center]]
+#*For instance, [http://www.shakira.com Shakira's website] gets negligible traffic compared to her online fame, because people consume her products on video websites or by purchasing her music. In contrast, for an information website such as WikiHow, the primary mode of consumption is via accessing the website.
+#Consider the following options for tracking website traffic:[[Image:Gauge the Popularity of a Topic Online Step 16.jpg|center]]
+#* Alexa rank and traffic reported for the website: While not very reliable, this gives a rough  order of magnitude estimate. Alexa is more reliable for more highly trafficked sites.
+#* The website's self-reported traffic and usage metrics.
+#* Other tools such as QuantCast and HypeStat. These are not free except for the lists of top few websites.
+
+=== Fan pages and websites ===
+#Use this method in the right cases. It is most useful for fiction book series and TV series. Examples include the Harry Potter series, A Song of Ice and Fire (and the associated TV series, Game of Thrones), Breaking Bad, Gilmore Girls, and Star Trek. To begin with, identify the most prominent existing fan websites, including wikis, forums, and personally maintained websites by fans.[[Image:Gauge the Popularity of a Topic Online Step 17.jpg|center]]
+# Look for fan websites on Wikia. For instance, there is a [http://harrypotter.wikia.com Harry Potter Wiki], a [http://gilmoregirls.wikia.com Gilmore Girls Wiki], and a [http://gameofthrones.wikia.com Game of Thrones Wiki]. You might also be able to find wikis unaffiliated with Wikia but using the same MediaWiki software that powers Wikipedia, Wikia, WikiHow, and many other sites, so you should be able to locate corresponding metrics on those sites (an example is [http://awoiaf.westeros.org A Wiki of Ice and Fire], a wiki related to the book series that inspired the Game of Thrones TV series). Evaluate the reach of these by looking at:[[Image:Gauge the Popularity of a Topic Online Step 18.jpg|center]]
+#* Number of pages on the wiki.
+#* Number of active contributors to the wiki.
+#* Number of edits to the wiki.
+#* Number of pageviews of the wiki.
+
+__methods__
+
+== Tips ==
+
+* Keep in mind that different metrics have different meanings, and they may not align up. The celebrity with the most Facebook likes may not have the most YouTube views, or the most Twitter followers. Weigh all the metrics appropriately depending on your goals. For instance, if your goal is to determine what celebrity people are most curious to read about, Wikipedia page views are a better metric, whereas if your goal is to determine what celebrity people like to consume more of, YouTube views are a better metric.
+* Differences in the metrics can reveal interesting qualitative information about celebrities. For instance, Shakira has more Facebook likes than Taylor Swift or Katy Perry, but her English Wikipedia page gets fewer views. This could be for many possible reasons. Here's a non-exhaustive list of possibilities: (a) much of Shakira's fan base is in non-English languages, (b) since Facebook likes are cumulative, and Shakira has been around longer, she may have accumulated more likes, (c) Taylor Swift and Katy Perry are more likely to be "in the news" for controversies, driving more views to their Wikipedia pages. These hypotheses can be tested by looking at relevant metrics (such as views on non-English Wikipedia pages and YouTube channel views).
