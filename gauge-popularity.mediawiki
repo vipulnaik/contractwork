@@ -16,7 +16,7 @@ Although the page different, mutually independent, methods, each of these method
 #Compare the metrics for the page with metrics for pages of competing entities, to put it in better context. For instance, to evaluate Katy Perry, it makes sense to compare with contemporaries such as Taylor Swift or Shakira, but a direct comparison with Barack Obama doesn't make sense. You can even get Facebook to show you pages similar to a given page, by typing "Pages similar to Katy Perry" in the search bar. [[Image:Gauge the Popularity of a Topic Online Step 3.jpg|center]]
 #Be aware that, in some cases, the number of non-official pages (including fan pages) about the topic on Facebook can also give an idea of the topic's popularity. Also, pages about subsidiary topics can also give an idea. For instance, in the case of a singer, the existence and popularity of Facebook pages about the singer's songs can be a valuable indicator of the singer's popularity.[[Image:Gauge the Popularity of a Topic Online Step 4.jpg|center]]
 #Adjust for fake likes and shallow likes.
-#*The problem of fake likes arises when a lot of bots like a given page. This can happen either due to the page buying likes (either intentionally buying bot likes, or doing so unintentionally while under the impression of buying legitimate likes). It can also arise because bots, in order to appear like genuine users, may like pages of various celebrities or important topics or brands. Therefore, this problem needs to be controlled for most if you think the page may have tried to buy likes, ''or'' if the topic is a major celebrity or brand.<ref name=socialbakers-fake-facebook>[http://socialdraft.com/how-to-identify-fake-likes-and-followers/ How To Check If a Brand Has Fake Likes and Followers]</ref>
+#*The problem of fake likes arises when a lot of bots like a given page. This can happen either due to the page buying likes (either intentionally buying bot likes, or doing so unintentionally while under the impression of buying legitimate likes). It can also arise because bots, in order to appear like genuine users, may like pages of various celebrities or important topics or brands. Therefore, this problem needs to be controlled for most if you think the page may have tried to buy likes, ''or'' if the topic is a major celebrity or brand.<ref name=socialdraft-fake-facebook>[http://socialdraft.com/how-to-identify-fake-likes-and-followers/ How To Check If a Brand Has Fake Likes and Followers]</ref>
 #*The problem of "shallow likes" is related to the problem of fake likes. Shallow likes refer to cases where the users are real, legitimate humans using the site properly, but they are not genuinely interested in the topic. They may have liked the topic as a result of being shown a sponsored post, or in error. Whether shallow likes is a problem for your estimat eof popularity depends on how you plan to use the estimate.
 #*In many cases, fake likes and shallow likes may be hard to separate out. However, if the goal is to determine legitimate, engaged likes, then it's not necessary to separate fake and shallow likes.
 #*Some strategies to detect and address shallow likes include: looking at the ratio of "people talking about this" to page likes, looking at the fraction of likes that are from your friends, looking at the quality of some sample likers, and examining engagement on individual posts (all of these were mentioned in Step 2). A further way of detecting fake likes is to look at the most popular week, city, and age group, and see if they make sense given the topic in question. In particular, if the most popular city is not one where the topic is known to be popular, and in particular if it is a low-income country such as Pakistan or Bangladesh that is unlikely to be the most popular, then the likes are likely to be fake.<ref>[http://www.pammarketingnut.com/2013/03/how-to-determine-if-a-facebook-business-page-has-fake-fans/ How to Determine if a Facebook Business Page has Fake Fans]</ref><ref name=socialbakers-fake-facebook/>
@@ -64,6 +64,12 @@ Although the page different, mutually independent, methods, each of these method
 === Instagram page ===
 
 #Search for the official Instagram page associated with the topic. As is the case with Facebook and Twitter, Instagram pages may not exist.
+# Look at the following metrics associated with the page.
+#* Total number of followers of the page.
+#* Number of likes and comments on recent photos posted on the page.
+# Adjust for fake Instagram followers. As is the case with Facebook and Twitter, Instagram suffers from the issue of many fake bots.<ref>[http://www.huffingtonpost.com/shayla-r-price/big-business-buying-fake_b_6322362.html Big Business: Buying Fake Instagram Followers]</ref>
+#* There are some online tools<ref>[http://www.followercheck.co/ Followers Check] is one. An example is [http://www.followercheck.co/taylorswift FollowerCheck's report on Taylor Swift]</ref> There are also various heuristics for identifying fake followers.<ref name=socialdraft-fake-facebook/>
+
 === Fan pages and websites ===
 #Use this method in the right cases. It is most useful for fiction book series and TV series. Examples include the Harry Potter series, A Song of Ice and Fire (and the associated TV series, Game of Thrones), Breaking Bad, Gilmore Girls, and Star Trek. To begin with, identify the most prominent existing fan websites, including wikis, forums, and personally maintained websites by fans.[[Image:Gauge the Popularity of a Topic Online Step 17.jpg|center]]
 # Look for fan websites on Wikia. For instance, there is a [http://harrypotter.wikia.com Harry Potter Wiki], a [http://gilmoregirls.wikia.com Gilmore Girls Wiki], and a [http://gameofthrones.wikia.com Game of Thrones Wiki]. You might also be able to find wikis unaffiliated with Wikia but using the same MediaWiki software that powers Wikipedia, Wikia, WikiHow, and many other sites, so you should be able to locate corresponding metrics on those sites (an example is [http://awoiaf.westeros.org A Wiki of Ice and Fire], a wiki related to the book series that inspired the Game of Thrones TV series). Evaluate the reach of these by looking at:[[Image:Gauge the Popularity of a Topic Online Step 18.jpg|center]]
@@ -71,12 +77,12 @@ Although the page different, mutually independent, methods, each of these method
 #* Number of active contributors to the wiki.
 #* Number of edits to the wiki.
 #* Number of pageviews of the wiki.
+# Look for Q&A websites. For broad topics, there are usually associated Stack Exchange websites.
+# Look for subreddits.
+# Look at online rankings.
+#* Ranker
+#* Billboard
 
-
-=== Twitch.tv ===
-
-
-=== Omnichannel analysis tools ===
 
 __methods__
 
