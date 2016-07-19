@@ -13,7 +13,16 @@ We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Ins
 #* In particular, for a site with very little traffic, it may only be possible to do analysis at a granularity of months, whereas for a site with a lot of traffic, it may be possible to do analysis at a granularity of hours.
 # The extent to which your traffic fluctuates with viral news events also governs the feasibility of analysis at various timescales.
 #* If traffic to your website is heavily influenced by viral news events (in the world) or the virality of specific posts you make to it, then analysis at short timescales may be hard. It may be necessary to use longer timescales to average out the variation in virality.
+# Keep in mind that on longer timescales, it can be hard to separate periodic patterns from secular trends. Whereas the noise problem is taken care of at longer timescales, the separation of secular and periodic trends becomes harder. You need to explicitly consider the various kinds of traffic cycle (daily, weekly, and annual) in order to better predict patterns.
 
+=== Understanding the different kinds of measurement and their relation ===
+
+# Use traffic measurement including users, sessions, pageviews, and unique pageviews.
+#* Users:
+#* Sessions:
+#* Pageviews:
+#* Unique pageviews:
+# 
 === Understanding the annual traffic cycle ===
 # Identify the broad domain within which your website falls and how that might affect usage.
 #* For instance, is your site primarily targeted at students, people in specific jobs, holiday activities, home improvement activities, or something else?
@@ -31,3 +40,4 @@ We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Ins
 # Use the general heuristic that traffic dips on weekends.
 #* Depending on how worldwide your audience is, and your timezone, traffic will be least at the time that is the overlap of weekend time for all relevant timezones. If using UTC, you should expect traffic to start falling middle of Friday and rebound middle of Monday.
 #* The general heuristic is that daily weekend traffic is about half of daily weekday traffic. However, you will need to adjust for the type of site you have, as discussed in the remaining steps.
+# Keep in mind special rules that apply based on your type of website.
