@@ -14,15 +14,24 @@ We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Ins
 # The extent to which your traffic fluctuates with viral news events also governs the feasibility of analysis at various timescales.
 #* If traffic to your website is heavily influenced by viral news events (in the world) or the virality of specific posts you make to it, then analysis at short timescales may be hard. It may be necessary to use longer timescales to average out the variation in virality.
 # Keep in mind that on longer timescales, it can be hard to separate periodic patterns from secular trends. Whereas the noise problem is taken care of at longer timescales, the separation of secular and periodic trends becomes harder. You need to explicitly consider the various kinds of traffic cycle (daily, weekly, and annual) in order to better predict patterns.
+# Use tools to control for weekly and annual cycles when trying to identify secular trends in traffic over several years.
+#* One tool is to graph at the granularity over which you want to get rid of cycles. For instance, to get rid of weekly cycles, graph at a weekly granularity. To get rid of annual cycles, graph at an annual granularity. GA offers granularities of hourly (only if traffic is high enough), daily, weekly, and monthly. QM offers granularities of daily, weekly, and monthly.
+#* Do a comparison graphing between traffic at a given time and traffic that is one period (or an integer number of periods) behind. For instance, to adjust for the weekly cycle, graph traffic compared against a time period one week before. To adjust for both the weekly and annual cycles, graph traffic against a time period 52 weeks (or 364 days) ago. This is an integer number of weeks and is ''almost'' equal to a year so it does a good job. This feature is available in GA for your own site but not in the public-facing data for QM.
+#* If you have flexibility to mathematically transform the data, you might want to consider moving-average graphs as well as graphs of difference relative to one period back (such as week-over-week growth, month-over-month growth, and year-over-year growth). Note that these options are not available in GA and QM.
 
 === Understanding the different kinds of measurement and their relation ===
 
 # Use traffic measurement including users, sessions, pageviews, and unique pageviews.
-#* Users:
-#* Sessions:
-#* Pageviews:
-#* Unique pageviews:
-# 
+#* Visitors (also known as users): This measures the number of distinct people who visited your website, as best as can be judged by the analytics service.
+#* Sessions (also known as visits): This measures the number of times people visit a site. Every visitor must have at least one visit. The way an analytics tool separates sessions/visits for a single visitor from each other can vary based on the analytics tool. Google Analytics resets a session after about 25 minutes of inactivity.
+#* Pageviews: This measures the number of times people open a page on the website.
+#* Unique pageviews: This measures the number of times a visitor first visits a page. In particular, refreshes or revisits of the same page are not counted.
+#* Absolute unique visitors ...
+# Use derived metrics to assess traffic quality.
+#* Pages/visitor and pages/session are the two common metrics.
+#* New versus returning users is also used.
+# Keep in mind the following correlational rules of thumb.
+#* Pageviews, sessions, and users should generally go up and down in tandem. In other words, days 
 === Understanding the annual traffic cycle ===
 # Identify the broad domain within which your website falls and how that might affect usage.
 #* For instance, is your site primarily targeted at students, people in specific jobs, holiday activities, home improvement activities, or something else?
@@ -41,3 +50,16 @@ We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Ins
 #* Depending on how worldwide your audience is, and your timezone, traffic will be least at the time that is the overlap of weekend time for all relevant timezones. If using UTC, you should expect traffic to start falling middle of Friday and rebound middle of Monday.
 #* The general heuristic is that daily weekend traffic is about half of daily weekday traffic. However, you will need to adjust for the type of site you have, as discussed in the remaining steps.
 # Keep in mind special rules that apply based on your type of website.
+#* Websites related to outdoor activities can see more traffic during weekends than weekdays.
+#* Websites related to cooking also see an increase in traffic toward the end of the week and during the weekend. The peak can vary between Thursday and Monday, with some websites seeing a peak during the weekend and others seeing a peak around Thursday and Friday.
+
+=== Understanding the secular trends for your website ===
+
+# Identify the various parameters that would affect the way your site would grow.
+#* Secular trends for Internet access for your target audience
+#* Secular trends for the domain or topic area: Some domains are experiencing overall growth, and if your site is in one of those domains, then it should grow organically as a result of that.
+#* Age of your site: If your site is new, and people are gradually becoming aware of it through word of mouth, some growth will be powered by that.
+#* Your promotional strategy
+#* Search engine algorithm updates, and how these affect your search ranking
+# Get benchmarks for secular trends in traffic for traffics similar to yours using QM.
+#* A good global heuristic is that a lot of organic growth (due to expanding use of search and social media) occurred across many domains till late 2013 and early 2014, but Internet use since then has been largely stable.
