@@ -80,10 +80,6 @@ Also, pages on state-level income tax returns. In general, prioritize the most p
 
 * W visa (reserved for Grigory): $125. A proposed new visa, part of various immigration reform proposals, that would be mostly a replacement for the existing H-2 visas. The high pay is mostly because understanding exactly what the proposals would do requires a deeper understanding of existing immigration law, and the politics of changing it. I'm happy to provide guidance to the person who works on this.
 
-=== Other government/bureaucracy ===
-
-* Privacy Impact Assessment (reserved for Chris): $50: A type of impact assessment conducted by an organization (typically, a government agency or corporation with access to a large amount of sensitive, private data about individuals in or flowing through its system). The organization audits its own processes and sees how these processes affect or might compromise the privacy of the individuals whose data it holds, collects, or processes. PIAs have been conducted by various sub-agencies of the U.S. Department of Homeland Security, and by many others.
-
 === Books, orgs, and people ===
 
 * Illiberal Reformers: $30 for a decent job that includes references to various reviews. Has been referenced in EconLog and by Jonh Goldberg, who noted parallels with his own book Liberal Fascism.

@@ -28,11 +28,11 @@ Wikipedia Views link for pages significantly edited but not created: http://wiki
 
 == Work ==
 
-Total payment due so far: $1709; tentative plan to pay part of it to Jesse and donate the rest of it to an animal rights or welfare organization of Jesse's choice.
+Total payment due so far: $1804; tentative plan to pay part of it to Jesse and donate the rest of it to an animal rights or welfare organization of Jesse's choice.
 
 === Completed pages ===
 
-Total: $1362
+Total: $1457
 
 * Timeline of animal welfare and rights: $150
 
@@ -73,6 +73,10 @@ Total: $1362
 * Animal welfare and rights in Australia: $70
 
 * Animal welfare and rights in Mexico: $50
+
+* Animal welfare and rights in Sweden: $50
+
+* Animal welfare and rights in Argentina: $45
 
 === Improvements to existing pages ===
 

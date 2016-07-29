@@ -18,7 +18,7 @@ Note: The arrangement with Issa is much more complicated because, in addition to
 
 Note 2: This page only includes payment data for Tax Year 2016. Payments for 2015 are not included here.
 
-Total so far: $3697.90 ($1044 paid, $2653.90 payment pending)
+Total so far: $3743.40 ($1044 paid, $2699.40 payment pending)
 
 Reimbursement in addition to pending payment: $80 (for payment to Amy)
 
@@ -119,23 +119,27 @@ Total: $300
 
 === Commission payments ===
 
-List updated June 26, 2016. May not be kept up-to-date continuously.
+List updated July 29, 2016. May not be kept up-to-date continuously.
 
-Total: $46.90 (payment pending)
+Total: $92.40 (payment pending)
 
 * Amy Zhang: Commission of 15% on $80 = $12
 
-* Avi Glozman: Commission of 10% on $33 = $3.30
+* Avi Glozman: Commission of 10% on $226 = $22.60
 
-* Chris Kunin: Commission of 10% on $65 = $6.50
+* Chris Kunin: Commission of 10% on $142 = $14.20
 
 * Eddy Su: Commission of 10% on $71 = $7.10
 
 * Michael Royzen: Commission of 10% on $50 = $5
 
-* Sean Yu: Commission of 10% on $50 = $5
+* Sean Yu: Commission of 10% on $55 = $5.50
 
-* Thomas Foster: Commission of 10% on $80 = $8
+* Thomas Foster: Commission of 10% on $105 = $10.50
+
+* Devansh Dwivedy: Commision of 10% on $80 = $8
+
+* Charlie Corner: Commission of 15% on $50 = $7.50
 
 === Monthly payments ===
 
