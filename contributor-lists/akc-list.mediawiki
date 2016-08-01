@@ -124,7 +124,7 @@ Thomas Foster $105, 10% commission = $10.50
 
 == Pages ==
 
-In addition to these, please feel free to pick from the unreserved pages at [https://github.com/vipulnaik/working-drafts/blob/master/new-article-pool.mediawiki](https://github.com/vipulnaik/working-drafts/blob/master/new-article-pool.mediawiki). However, if picking from the larger list, please check with Vipul in advance AND make sure he marks it as reserved so that the same article is not given to another editor.
+In addition to these, please feel free to pick from the unreserved pages at [https://github.com/vipulnaik/working-drafts/blob/master/new-article-pool.mediawiki https://github.com/vipulnaik/working-drafts/blob/master/new-article-pool.mediawiki]. However, if picking from the larger list, please check with Vipul in advance AND make sure he marks it as reserved so that the same article is not given to another editor.
 
 === Technology ===
 
