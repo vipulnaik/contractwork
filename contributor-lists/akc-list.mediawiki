@@ -80,16 +80,17 @@ Maximum acceptable delay: 4 weeks
 * Start by June 17, end by June 19 (finishing touches delayed): Timeline of Twitch.tv
 * Start by June 24, end by June 26: Timeline of Lyft
 * Start by July 1, end by July 3 (delayed): Timeline of Nordstrom
+* Start by July 8, end by July 10 (delayed 3 weeks): Timeline of online video
 
 (more weeks, months to be added).
 
 == Total due ==
 
-Total due: $1921.50
+Total due: $2096.50
 
 === Completed pages ===
 
-Total so far: $1911
+Total so far: $2086
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -117,6 +118,7 @@ Total so far: $1911
 * Timeline of Twitch.tv: $40
 * Timeline of Lyft: $40
 * Timeline of Nordstrom: $75 ($50 for the page, $25 for getting started on clothing)
+* Timeline of online video: $175 (note this includes a few changes that are pending as of July 31)
 
 === Commissions on recruits ===
 
@@ -137,8 +139,6 @@ In addition to these, please feel free to pick from the unreserved pages at [htt
 * Timeline of Saks Fifth Avenue: Saks Fifth Avenue gets about 10K a month.  Proposed bounty: $35
 
 === Other large timelines ===
-
-* Timeline of online video (you might choose a somewhat different naming): Cover things like Google Video, YouTube, DailyMotion, then later emergence of short video (Vine, Keek), Snapchat video, live-streaming (Meerkat, Periscope, Facebook Live). Also cover things like Vevo, Hulu, Viki, Netflix, And include video services that are used in specific countries but aren't globally popular, or those that serve niches (see e.g. all the video services owned by Ellation). Cover porn video sites (Pornhub, and others under MindGeek) and maybe also some piracy-type sites (Coub, alluc). $175
 
 == Other concepts ==
 
