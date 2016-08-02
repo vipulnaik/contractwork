@@ -79,7 +79,7 @@ Total so far: $1793 ($933 paid, $860 payment pending)
 * Professional consensus of economics: $67 (payment pending)
 * Priority-setting in global health: $155 (payment pending)
 
-=== Non-page payments ===
+=== Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
 Total so far: $758 ($111 paid, $647 payment pending)
 
@@ -151,89 +151,22 @@ Totol so far: $800
 
 * July: $250
 
-== Global public health and related investigation ==
+== Work for 2015 ==
 
-=== New pages ===
+Unfortunately we don't have a record of payment per page for 2015. However, we do have a list of pages created. Outside of Wikipedia pages, the list may not be complete.
 
-* Health systems strengthening (abbreviated HSS): $50 (tentative, based on assessment of research needed and expected page size; could go higher)
+=== Completed pages ===
 
-* National Conference of Charities and Correction: $25
+* Timeline of online dating services: We're not sure if money was paid for this, but including it to be on the safe side
 
-Also, other red links from the timeline of global health. Let's discuss before we start work on them.
+* Form 1040: $400. Although the work was done in 2015, the article was improved and published on January 1, 2016.
 
-=== Improvements to existing pages ===
+=== Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-* United States Sanitary Commission: Improve to include discussion of Christian missionaries. $15
+* Effective Altruism Forum article on Y Combinator nonprofit, available online at http://effective-altruism.com/ea/pn/an_overview_of_y_combinators_nonprofit_program/ $250. Published on Novemer 7, 2015
 
-== Taxes ==
+* A Plus (aplus.com): Some expansion of the article. Payment was $20 or $25; we don't remember the exact amount.
 
-=== Improvements to existing pages ===
+=== Commissions ===
 
-* On Form 1099-MISC, add more discussion of filing methods for Form 1099-MISC, and include information about support by payroll software (Gusto formerly ZenPayroll, ADP, Paychex) and tax compliance software (like TurboTax). Pay: $10
-
-* Restructure IRS tax forms page after finishing up the various pages on other forms, to make it better use the fact that there now exist pages on the individual tax forms. Pay: $15
-
-=== New pages ===
-
-* 83(b) election. Pay: $100
-
-== Nonprofits and nonprofit evaluation ==
-
-* Nonprofit Quarterly: See e.g. http://nonprofit.about.com/od/resources/tp/toppubs.htm Pay: $30
-
-* Move the page https://en.wikipedia.org/wiki/International_Council_for_the_Control_of_Iodine_Deficiency_Disorders to the new title (Iodine Global Network) and update the information about the page based on GiveWell's reviews and new website information. Also include that GiveWell mentioned it in their standout charities again in 2015, and describe the updated review. Pay: $25
-
-
-== Migration ==
-
-=== United States migration ===
-
-* Stokes interview. Pay: $50
-
-* Board of Immigration Appeals (NOT A NEW PAGE): Basically expand this page a lot explaining what kind of appeals reach this, how they process appeals, what precedential value is attached to decisions made, and how BIA decisions can be appealed in the courts. Pay: $125
-
-* Termination of registration (and maybe a separate page on Singh v. Clinton, though arguably that may not be sufficiently distinctive and can just be part of the termination of registration page): The process where a person's priority date and "place in the queue" is lost if the person doesn't respond within two years of a visa number becoming available. Discuss roles of NVC, USCIS, and the special role played by court precedents including Singh v. Clinton
-
-
-==== Forms and approvals ====
-
-USCIS forms: 
-
-* Form I-129F: Pay: $125
-
-* Form I-485. Pay: $150 (let's discuss if this will add enough value over and above the Adjustment of Status page before starting work on it though)
-
-* Provisional Unlawful Presence Waiver. Pay: $50
-
-* Form I-360: Pay: $125
-
-Department of State forms:
-
-* Form DS-160: $175
-
-* Form DS-260: $175
-
-* Form DS-230: Price to be determined after completion of Form DS-260, which is the newer, electronic version (maybe we can just add DS-230 discussion in DS-260 page and redirect).
-
-==== Centers ====
-
-* National Benefit Center (still not sure if it's National Benefit Center or National Benefits Center). Pay: $50
-
-* USCIS National Customer Service Center. Pay: $50
-
-==== Non-migration programs affecting migrants ====
-
-* Systematic Alien Verification for Entitlements (SAVE): A tool for state agencies to query the federal government's databases to return a best guess on the immigration and citizeship status of people, used e.g. when deciding whether to allow the alien access to a welfare benefit. Lots of stuff to understand here re: history, practice, critiques etc. Pay: $50
-
-==== Minor fixes/expansions ====
-
-* Add in appeals processing time and some other things to Form I-130 page to bring it to par with Form I-140 page. Pay: $15
-
-* Expand Labor Condition Application page to discuss "Multiple LCA" stuff. Pay: $15
-
-* Expand Form I-129 page to include mention of Labor Condition Application (when the form is used for H-1B/H-1B1/E-3) and other similar pre-applications that need to be done for the other statuses that use Form I-129. Pay: $15
-
-== Random ==
-
-* Republish Animal Charity Evaluators to last for a month: $20
-
+Payment of 10% of Alex K. Chen's money from working on Wikipedia.

@@ -84,7 +84,7 @@ Maximum acceptable delay: 4 weeks
 
 (more weeks, months to be added).
 
-== Total due ==
+== Work and total money due ==
 
 Total due: $2096.50
 
@@ -124,7 +124,39 @@ Total so far: $2086
 
 Thomas Foster $105, 10% commission = $10.50
 
-== Pages ==
+== Work in 2015 ==
+
+In 2015, Alex K. Chen was paid on a pageview basis for all articles created in 2015. For some articles, additional bounties were instituted for the creation of quality and comprehensive articles.
+
+=== Completed pages with bounties ===
+
+* Timeline of Reddit: $60 + $3. Created in May 2015, $3 additional pay for improving it in July.
+
+* Timeline of Uber: $35 + $3. Created in June 2015, $3 additional pay for improving it in July.
+
+* Proof School: $25. Created in July 2015.
+
+* Timeline of Quora: $25. Created in July 2015.
+
+* Public Welfare Foundation: $25. Created in August 2015.
+
+* Inside Philanthropy: $25. Created in August 2015.
+
+* Eroom's Law: $25. Created in October 2015.
+
+* Timeline of Tesla Motors: $75. Created in November 2015.
+
+* Timeline of Square: $200. Created in November 2015.
+
+* Project Healthy Children: $25. Created in November 2015.
+
+* The Humane League: $20. Created in November 2015.
+
+== Work before 2015 ==
+
+Alex K. Chen was not paid before 2015. However, articles he had created before 2015 were still eligible for pageview-based payment. Since this payment was instituted long after the article creation, it would not have affected the creation of the articles.
+
+== Potential pages ==
 
 In addition to these, please feel free to pick from the unreserved pages at [https://github.com/vipulnaik/working-drafts/blob/master/new-article-pool.mediawiki https://github.com/vipulnaik/working-drafts/blob/master/new-article-pool.mediawiki]. However, if picking from the larger list, please check with Vipul in advance AND make sure he marks it as reserved so that the same article is not given to another editor.
 
@@ -166,9 +198,8 @@ Note that the Wikipedia pages already have history sections, and the timeline sh
 
 * Timeline of online payments (again, you have to choose a suitable name): $175
 
-== Other concepts ==
+=== Other concepts ===
 
 * Newsjacking (the concept, not just the book by that name): $35. It's been deleted before, so be very careful to create something that will survive deletion. If it gets deleted in 30 days you don't make the money.
 
-== Books ==
 
