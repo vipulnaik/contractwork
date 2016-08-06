@@ -10,7 +10,7 @@ Wikipedia handle: Wikisanchez
 
 Additional notes: Based in Argentina
 
-Total due: $1560
+Total due: $1635
 
 Paid: $2002 in advance
 
@@ -45,3 +45,5 @@ Paid: $2002 in advance
 * Timeline of healthcare in Nigeria: $80. Published July 27, 2016.
 
 * Timeline of cardiovascular disease: $140. Published August 1, 2016.
+
+* Timeline of stroke: $75. Published August 5, 2016.
