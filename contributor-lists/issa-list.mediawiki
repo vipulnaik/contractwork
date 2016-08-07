@@ -18,7 +18,7 @@ Note: The arrangement with Issa is much more complicated because, in addition to
 
 Note 2: This page only includes payment data for Tax Year 2016. Payments for 2015 are not included here.
 
-Total so far: $3743.40 ($1044 paid, $2699.40 payment pending)
+Total so far: $3748.40 ($1044 paid, $2704.40 payment pending)
 
 Reimbursement in addition to pending payment: $80 (for payment to Amy)
 
@@ -81,7 +81,7 @@ Total so far: $1793 ($933 paid, $860 payment pending)
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $758 ($111 paid, $647 payment pending)
+Total so far: $763 ($111 paid, $652 payment pending)
 
 * stats.grok.se -> Wikimedia API fix: $80
 
@@ -111,7 +111,9 @@ Total so far: $758 ($111 paid, $647 payment pending)
 
 * Wikipedia usage survey writeup: $110
 
-* Monthly update of Open Phil and Good Ventures lists (end of June): $35
+* Monthly update of Open Phil and Good Ventures lists (end of July): $35
+
+* Privacy Impact Assessment cleanup: $5
 
 === Touch payments ===
 
