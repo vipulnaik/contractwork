@@ -81,16 +81,17 @@ Maximum acceptable delay: 4 weeks
 * Start by June 24, end by June 26: Timeline of Lyft
 * Start by July 1, end by July 3 (delayed): Timeline of Nordstrom
 * Start by July 8, end by July 10 (delayed 3 weeks): Timeline of online video
+* Start by July 15, end by July 17 (delayed 23 days): Timeline of Valve Corporation
 
 (more weeks, months to be added).
 
 == Work and total money due ==
 
-Total due: $2096.50
+Total due: $2171.50
 
 === Completed pages ===
 
-Total so far: $2086
+Total so far: $2161
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -118,7 +119,8 @@ Total so far: $2086
 * Timeline of Twitch.tv: $40
 * Timeline of Lyft: $40
 * Timeline of Nordstrom: $75 ($50 for the page, $25 for getting started on clothing)
-* Timeline of online video: $175 (note this includes a few changes that are pending as of July 31)
+* Timeline of online video: $175
+* Timeline of Valve Corporation: $75
 
 === Commissions on recruits ===
 
@@ -166,7 +168,7 @@ In addition to these, please feel free to pick from the unreserved pages at [htt
 
 === Technology company timelines ===
 
-* Timeline of Valve Corporation/Valve Software (determine the most appropriate scope and then make the timeline): $75
+(none at present)
 
 === Clothing retail timelines ===
 
