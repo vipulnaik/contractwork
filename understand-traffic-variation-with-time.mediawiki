@@ -7,6 +7,13 @@ We also consider different kinds of causes of traffic patterns, including push f
 We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Insights (FBI), among other sources, to provide examples and benchmarks. We also look at data from Google Trends. Although Google Trends covers search queries and not websites, and it only includes provides insight into relative traffic rather than absolute traffic, it is still a useful guide if used carefully.<ref>[https://www.searchenginejournal.com/google-trends-updated-to-provide-minute-by-minute-data-on-trending-searches/134817/ Google Trends Updated to Provide Minute-by-Minute Data on Trending Searches], Matt Southern, Search Engine Journal, June 17, 2015</ref> You should be able to compare the data we discuss against GA data for your own website.
 
 == Steps ==
+=== Identify ways that you may be interested in using the data ===
+
+# Identify timing choices related to outreach efforts that may be influenced by your analysis of traffic variation.
+#* For instance, you might use the information to help figure out when to send a newsletter: the time of day, day of week, or day of month.
+#* You might use the information to better time your social media post for maximum impact.
+#* You might use the information to buy advertisements to show at the appropriate times: the time of day, day of week, or day of month.
+# Identify choices that you may make based on what you infer about users from traffic patterns. Sometim
 === Understanding the limitations of using different timescales based on your traffic level ===
 # The less traffic you have, the harder it is to do analysis at shorter timescales.
 #* As a general statistical rule, random fluctation as a proportion of total traffic goes down as total traffic goes up, ''ceteris paribus'' (i.e., holding everything else constant).
