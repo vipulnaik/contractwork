@@ -4,7 +4,7 @@ We consider how to separate periodic patterns (regularly repeating traffic patte
 
 We also consider different kinds of causes of traffic patterns, including push factors (such as Facebook posts or newsletters you send out) as well as pull factors (people searching for keywords that lead them to your site, or people directly visiting your website). The shape of traffic arising from push factors is quite different from that arising from pull factors.
 
-We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Insights (FBI), among other sources, to provide examples and benchmarks. All the data we discuss should be available within GA for your website.
+We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Insights (FBI), among other sources, to provide examples and benchmarks. We also look at data from Google Trends. Although Google Trends covers search queries and not websites, and it only includes provides insight into relative traffic rather than absolute traffic, it is still a useful guide if used carefully.<ref>[https://www.searchenginejournal.com/google-trends-updated-to-provide-minute-by-minute-data-on-trending-searches/134817/ Google Trends Updated to Provide Minute-by-Minute Data on Trending Searches], Matt Southern, Search Engine Journal, June 17, 2015</ref> You should be able to compare the data we discuss against GA data for your own website.
 
 == Steps ==
 === Understanding the limitations of using different timescales based on your traffic level ===
@@ -49,15 +49,27 @@ We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Ins
 #* News sites generally do not have discernible annual patterns, but rather, their patterns are driven by the nature of events in that year. They may, in fact, even see patterns across time periods longer than a year. For instance, politics news sites see more traffic closer in time to elections, which may occur once every few years.
 # Use age and gender filtering where relevant to verify initial hypotheses.
 
+Also reference:
+
+http://www.cobizmag.com/Trends/Five-reasons-for-website-traffics-ups-and-downs/ makes great points about fluctuation in traffic for B2B websites.
+
 === Understanding the weekly traffic cycle ===
 
 # Use the general heuristic that traffic dips on weekends.
 #* Depending on how worldwide your audience is, and your timezone, traffic will be least at the time that is the overlap of weekend time for all relevant timezones. If using UTC, you should expect traffic to start falling middle of Friday and rebound middle of Monday.
 #* The general heuristic is that daily weekend traffic is about half of daily weekday traffic. However, you will need to adjust for the type of site you have, as discussed in the remaining steps.
+# Use Google Trends to figure out traffic variation over in the topics of interest to you.
+#* Go to the Google Trends main page, enter a search term in the domain you are interested in, and then select a time range of 30 days. This will display data at a daily granularity and cover a little over 4 weeks. This should be enough to get a sense of the weekly pattern.
+#* To get a finer sense of the weekday/weekend differences, you may wish to just plot for the past 7 days. If you do that, data will be displayed at an hourly granularity.
+#* You can also restrict search queries based on location, in order to overcome the problem of multiple timezones.
 # Keep in mind special rules that apply based on your type of website.
 #* Websites related to outdoor activities can see more traffic during weekends than weekdays.
 #* Websites related to cooking also see an increase in traffic toward the end of the week and during the weekend. The peak can vary between Thursday and Monday, with some websites seeing a peak during the weekend and others seeing a peak around Thursday and Friday.
 #* Traffic is more desktop-based during the week and more mobile-based during the weekend. Therefore, a more mobile-friendly site is likely to see a less sharp dip during the weekend.
+# Keep in mind how the weekly traffic cycle can also interact with monthly and annual phenomena.<ref>[http://www.cobizmag.com/Trends/Five-reasons-for-website-traffics-ups-and-downs/ Five reasons for website traffic's ups and downs. How B2B companies can make better digital marketing decisions], Kristie Colby, ColoradoBiz, October 5, 2015</ref>
+#* The number of weekends in a month can significantly affect the amount of traffic a website receives.
+#* The day of week during which a particular holiday (like Christmas or New Year) falls can affect the traffic patterns for the month. For instance, if January 1 falls near the end of the week, people are likely to get to work only the ''next'' week. On the other hand, if January 1 falls near the beginning of the week, people are likely to start work right after it.
+ discusses the weekly traffic cycle, as well as how it relates with the month and with what day of the week specific holidays and milestones fall on.
 
 === Understanding the daily traffic cycle ===
 
@@ -68,10 +80,18 @@ We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Ins
 # Adjust for the following when considering traffic variation.
 #* It often makes the most sense to consider traffic separately for regions that are in different timezones, and to filter your view to only consider a specific timezone. This is particularly relevant for organic search and direct traffic that is governed by local time.
 #* If you are sending newsletters or posting to social media at particuar times of day, then you should view your daily traffic patterns in relation to that time of day.
+# Use Google Trends to figure out traffic variation within the day for search terms related to your website.
+#* Go to the Google Trends main page, enter a search term in the domain you are interested in, and then select a time range of 7 days. This is usually enough to capture hourly trends on all days of the week. The nature of hourly trends may be different for weekdays and weekends, so a 7-day period is recommended.
 # Keep in mind a few heuristics regarding traffic variation within the day.
-#* As a general rule, there is more traffic during the day than at night. The exception is pornographic and semi-pornographic material, that people generally prefer viewing at home in privacy and therefore gets more traffic at night.(Pornhub traffic links)
-#* Light entertainment content generally gets viewed more in the evenings (after people get off work) and, to a lesser extent, in the mornings during the commutes. These organic effects can be amplified through the timing of social media posts and newsletters, as many publishers do.
-#* Information people may need to look up for work gets viewed more during work hours. For instance, Stack Overflow gets more traffic during work hours. Due to the global nature of its traffic, it effectively gets a lot of traffic throughout the day.
+#* In general, Internet traffic in a timezone is maximum in the evening hours for that timezone, i.e., between 7 PM and 11 PM. In analogy with the rush hour for transportation, this is known as Internet Rush Hour.<ref>[https://en.wikipedia.org/wiki/Internet_Rush_Hour Internet Rush Hour], Wikipedia</ref><ref name=growtraffic>[http://growtraffic.com/blog/2014/10/hours-peak-website-traffic-hours What Hours Are Peak Website Traffic Hours?], Kenny Novak, Traffic Generation, October 15, 2014</ref>
+#* The above Internet rush hour rule applies most strongly to light entertainment content, such as that related to movies, music, and celebrity gossip. Social media-driven sites also see more traffic at this time since visiting social media is a common evening leisure activity.<ref>Here are Google Trends examples for singer-songwriter celebrity Taylor Swift, in different regions: [https://www.google.com/trends/explore?date=now%207-d&geo=US-CA&q=%2Fm%2F0dl567 California, USA], [https://www.google.com/trends/explore?date=now%207-d&geo=US-NY&q=%2Fm%2F0dl567 New York, USA], [https://www.google.com/trends/explore?date=now%207-d&geo=GB&q=%2Fm%2F0dl567 United Kingdom]</ref>
+#* Organic effects of greater traffic during rush hour are often amplified by publishers who time their social media posts to Internet rush hour.<ref name=growtraffic/>
+#* For websites that meet a more work-centric need for adults, traffic is generally higher during working hours. Websites that are specific to activities that occur at particular times of day see traffic spikes during those times of the day. For instance, a financial news site will see traffic growing in the hours leading up to the market opening, then decline a bit, and then reach another, smaller peak in the hours leading up to the market close.
+
+See also http://www.pornhub.com/insights/pornhub-2015-year-in-review
+
+Also see New York Times article on minute-by-minute Google Trends: 
+http://www.nytimes.com/2015/07/05/opinion/sunday/seth-stephens-davidowitz-days-of-our-digital-lives.html?_r=1
 
 === Understanding the secular trends for your website ===
 
@@ -84,3 +104,7 @@ We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Ins
 # Get benchmarks for secular trends in traffic for traffics similar to yours using QM.
 #* A good global heuristic is that a lot of organic growth (due to expanding use of search and social media) occurred across many domains till late 2013 and early 2014, but Internet use (and in particular, web use as people have substituted away from the web more toward apps) has slowed down since then. Web use has flatlined in the United States and annual growth has slowed down in the rest of the world.<ref name=pew-home-broadband>[http://www.pewinternet.org/2015/12/21/home-broadband-2015/ Home Broadband 2015. The share of Americans with broadband at home has plateaued, and more rely only on their smartphones for online access], John B. Horrigan and Maeve Duggan, Pew Research Center, December 21, 2015</ref>
 #* Technology-related Stack Exchange sites (such as StackOverflow and ServerFault) grew at a reasonable pace till around 2014, but since then have almost flatlined in the United States.
+
+== References ==
+
+<references/>
