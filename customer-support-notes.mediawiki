@@ -29,3 +29,12 @@ What does anticipating next steps mean?
 - Immediate next step FAIL. This would mean that the customer implements precisely the instructions that you provide in your email, and fails. This is a situation that you should try to avoid as much as possible. If it's not possible for you to be sure, then adequate disclaimers are key.
 
 - Offer a phone call. This can be a key placater. Most customers won't take you up on it, but some who prefer more synchronous communication will. The key is that by offering, you show your willingness to work closely with the customer to resolve the issue.
+
+- Multiple agents, understand different intentions.
+
+-- Some people you work with are your "champions" -- they are the ones who believe in the product, stand to benefit from its use, or stand to be recognized internally at the company for using a new tool. The key goal here is to keep them excited and remembering the reasons they were interested in you -- while making sure that their expectations are reasonable and that you are meeting them.
+
+-- Some people you work with don't really care, but you still need cooperation from them for your trial. For these people, the key is to arrange things so that you try to keep to a minimum the amount of work they need to do (Whether it's tech integration or data analysis) while still respecting their autonomy and authority. Show appreciation for their work. If it's possible to make them champions, do it, but it's often beyond the scope of your product, in which case just stick to reducing their work, interacting cheerfully, and thanking them for things.
+
+-- Some people stand to lose (or perceive they stand to lose) from the adoption of your product. This could be because your product does a lot of what they currently do. It could be because adoption of your product would signal a shift in approach from what they prefer. If you need their active cooperation during the trial, that creates a difficult situation for you. One strategy is to try to reframe things so that they feel they are winning, or help them redefine their role using your tool to a broader one. Show appreciation for the effort they are putting into their current role, and how your product complements them.
+
