@@ -1,0 +1,48 @@
+In the present-day Internet era, retaining users is one of the biggest challenges of websites and apps. Rather than visiting websites directly when they need them, users tend to rely on search engines and social media. It can be tough for a website to build a loyal userbase that thinks of visiting the site when in need of information, entertainment, and stuff to buy.
+
+One of the key tools in websites' arsenal is to showcase other content to users when they visited. The direct effect is obvious: some people will click on the new content and hang around longer. The indirect effect is harder to measure but  could be more important in the long run: when people see all the other content on the website, this makes them view the website more holistically, increasing the chances that they'll return again.
+
+Internal recirculation widgets are one way that websites showcase new content. These widgets usually contain a handful of links to other products, articles, videos on the same website. The user can click on any of the links. The most tangible impact of an internal recirculation effect is measured by clicks on the widget. This is usually operationalized as click-through rate (CTR): total number of clicks on the widget divided by total number of times the widget is shown. CTR isn't the only way widgets have impact, but it's the easiest to measure and the most direct.
+
+LiftIgniter's recommendation engine has powered the items shown in billions of widgets since we've launched, and we've seen millions of clicks in these widgets. In the process, we've acquired insight into the factors that affect the CTR on widgets, and how the CTR relates to other metrics websites care about. In this post we talk about the factors that affect CTR. They fall in five categories:
+
+* The size and diversity of the pool of items from which recommendations can be made
+* The nature of the website's users
+* The recommendation engine used to power the choice of items shown
+* The location of the widget on the page
+* The style and format of the widget
+
+(1) and (2) are pretty tricky topics and not something that you can change much on a whim. (3) is the part where you use external services like LiftIgniter. (4) and (5) include some low-hanging fruit for websites.
+
+Location of the widget
+
+The thumb rule is: the best location is just after the user has finished consuming the primary piece of content.
+
+For products, videos, slideshows, and very short articles that fit into a single screen, the best location is somewhere on that screen, either on the right rail or right below the product. On desktops and tablets, right rails may do better in this situation because people have not started the process of scrolling. On mobile devices, there isn't really space for a right rail, so just below the product, video, or slideshow is the most sensible location. For the right rail, the CTR is highest for the items that fit on the first screen (usually between 3 and 6 such items).
+
+For videos and slideshows, the end-of-video and end-of-slideshow screen can be a good place to show recommendations. What the CTR is depends heavily on how you measure it. The CTR conditional to people actually reaching the end of video or slideshow can be quite high (in excess of 25%). But if most people don't actually reach the end of a video or slideshow, the overall CTR may be much lower. Overall, a right rail is better for CTR conditional to loading the video or slideshow.
+
+For more long-form articles that do not fit on a single screen, the best location for recommendations is right below the article. Right rails do badly in these contexts even on wide screens. This phenomenon has been caused "right rail blindness". With that said, a right rail can do pretty well if it is used fully and there are no ads there. In other words, individual items on the right rail have low CTR, but if you have in excess of 10 right rail items, and don't show ads in between them, you can get a pretty good effective CTR.
+
+The style and format of the widget?
+
+The most common-sense guidelines probably work, but for some of them, we've never had an opportunity to assess their value-add because all our customers follow them! In the cases where we have direct evidence, we have indicated it.
+
+Including a legitimate image helps (some data): One customer saw a doubling of CTR after changing the recommendation styling to include an image. For another customer, a CDN change that temporarily caused broken image URLs led to a corresponding decline in CTR to half the value. On some other customers, we have noticed that items whose images revert to the site default get lower CTRs.
+
+With that said, we don't have much evidence that image quality matters for all sites. Different sites may have different needs. Sites that prioritize loading speed would choose lower-quality compressed thumbnails, whereas sites that prioritize a more beautiful experience may choose higher-quality thumbnails. In general, using an image source that has only the resolution necessary for the size finally displayed can reduce bandwidth costs and make the loading experience faster, without significant compromise to CTR. But your use case might differ.
+
+Including a price hurts CTR, but may be worth doing anyway: For e-commerce sites, we have three different examples where including the price hurt the CTR. There are a couple of reasons why people click more when there is no price:
+
+* They may click simply to discover the price.
+* They may click because they believe the item is cheaper than it actually is.
+
+The story for the effect on conversions is more murky, and could be positive or negative. Therefore, even though including a price hurts CTR, it may be worth doing if its overall effect on conversions is positive. Even if the overall effect on conversions is neutral, it may still be worth doing insofar as it improves the user experience and allows the user to navigate items more quickly.
+
+Although we haven't encountered it, one possible case where including a price can improve CTR is if the included price is significantly lower than the expected average price for the use case.
+
+The effect of including other metadata is ambiguous: Some of the other metadata can hurt CTR for the same reason that price does: people get the information without having to click, and decide it's not worth clicking. You might choose to include this information despite the negative effect on CTR, because of the greater efficiency for the user. In other cases, adding metadata can help boost CTRs as people get more context on an item that convinces them to click on it. For instance, if the author is shown, a user may be enticed to click based on prior experience reading the author.
+
+Style-wise, our intuition is that widgets styled as similarly as possible to the rest of the site do best. This is part of the reason why we let customers control the styling and only power the intelligence behind the recommendation. In this case, we don't have good data on the value-add since all our customers do it this way.
+
+Widgets consistent with the rest of the site sty
