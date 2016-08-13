@@ -10,7 +10,7 @@ Wikipedia handle: Wikisanchez
 
 Additional notes: Based in Argentina
 
-Total due: $1745
+Total due: $1820
 
 Paid: $2002 in advance
 
@@ -47,3 +47,5 @@ Paid: $2002 in advance
 * Timeline of cardiovascular disease: $140. Published August 1, 2016.
 
 * Timeline of stroke: $75. Published August 5, 2016.
+
+* Timeline of Alzheimer's disease: $75. Published August 13, 2016.
