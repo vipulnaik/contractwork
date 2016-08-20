@@ -12,9 +12,9 @@ Facebook: https://www.facebook.com/seba.sanchez.3998
 
 Additional notes: Based in Argentina
 
-Total due: $1880
+Total due: $1880 (+ amount for one pending article)
 
-Paid: $2002 in advance
+Paid: $2680 in advance (see payment schedule at bottom)
 
 == Completed pages ==
 
@@ -53,3 +53,15 @@ Paid: $2002 in advance
 * Timeline of Alzheimer's disease: $75. Published August 13, 2016.
 
 * Timeline of melanoma: $60. Published August 16, 2016.
+
+* Timeline of leukemia: (payment amount to be determined). Published August 20, 2016.
+
+== Payment schedule == 
+
+Each payment had a transaction fee of $8. Thus, the total amount we consider paid is the total of the payment amounts + ($8 * number of payments).
+
+* First three payments of $100, $500, and $700 were in May 2016.
+
+* Fourth payment, quantity $670, was initiated on July 23, 2016 (Saturday) and completed on July 25, 2016 (Monday).
+
+* Fifth payment of $670 was initiated on August 20, 2016 (Saturday) and should be completed on August 22, 2016 (Monday).
