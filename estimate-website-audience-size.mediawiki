@@ -1,0 +1,26 @@
+This guide explores the question of how to estimate the potential audience for your website and app. Such estimation can help you get a sense of how much more room for growth your website has. This can affect your strategy for promoting your website as well as your estimates of long-run revenue.
+
+- Related with understand your website audience profile
+
+- Flesch-Kincaid reading level
+
+- Intrinsic cultural appeal of underlying subject
+
+- Search-driven websites' potential is limited by the search volume for the subject
+
+- Social media websites' potential is driven by people's propensity to like, Facebook's distribution algorithms (that keep changing), etc.
+
+- Sites that people return to directly are limited by their ability to attract a core loyal audience. Addictiveness/return value.
+
+- Use maxed-out sites as benchmarks for total available interest
+
+- Things should fit in a "natural" flow. 
+
+- Role of loyalty in driving traffic
+
+-- Direct visit loyalty: People remember your brand well enough that they are willing to directly visit your website or app.
+
+-- Search loyalty: People have a moderate preference for your site content if it shows up in search results
+
+-- Social loyalty: People have a moderate preference for your posts when they appear in social media
+
