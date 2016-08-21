@@ -129,3 +129,16 @@ Discovered that XML stuff needs to be installed for PHP
 apt-get install php7.0-xml
 
 Also installed WP-CLI so as to be able to do command-line upgrades of WordPress
+
+August 13 or 14: setting up LaTeX
+
+apt-get install texlive-latex-extra --no-install-recommends
+apt-get install texlive-latex-base
+apt-get install texlive-latex-extra
+apt-get install texlive-math-extra
+
+Add to .bashrc the line
+
+export TEXINPUTS=.:/home/antivipulnaik/git/files/latexpackages//::
+
+
