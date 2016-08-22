@@ -60,10 +60,16 @@ Paid: $2680 in advance (see payment schedule at bottom)
 
 == Payment schedule == 
 
+Total payment amount received: $2640
+
+Total transaction cost $40 (5 transactions, $8 each)
+
+Total money: $2680
+
 Each payment had a transaction fee of $8. Thus, the total amount we consider paid is the total of the payment amounts + ($8 * number of payments).
 
 * First three payments of $100, $500, and $700 were in May 2016.
 
 * Fourth payment, quantity $670, was initiated on July 23, 2016 (Saturday) and completed on July 25, 2016 (Monday).
 
-* Fifth payment of $670 was initiated on August 20, 2016 (Saturday) and should be completed on August 22, 2016 (Monday).
+* Fifth payment of $670 was initiated on August 20, 2016 (Saturday) and completed on August 22, 2016 (Monday).
