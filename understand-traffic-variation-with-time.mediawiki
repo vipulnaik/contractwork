@@ -17,7 +17,7 @@ We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Ins
 #* For instance, if your site sees a lot more traffic during the academic year than the summer, that is an indication that it is primarily used by students in connection with their coursework or academic life. This might be interesting information to you. It might be a relationship that you did not expect but that makes more retroactive sense. For instance, content on how to improve memory might be something you'd expect year-round traffic to, but you might discover that its main target audience is students during the academic year.
 #* Similarly, if your site sees a lot more traffic near the end of the calendar quarters, that shows some relation to businesses or sales teams reaching quarterly goals. This might be interesting information that you did not expect but that makes retroactive sense. For instance, a website on how to motivate yourself to reach your goals might see this sort of spike.
 # Give some weight to the validation you receive by seeing user behavior.
-#* Creating and maintaining a website that attracts enough users to see clear patterns is an impressive accomplishment. You can use the trends you see to get validation of the work you have done.
+#* Creating and maintaining a website that attracts enough users to see clear patterns is an impressive accomplishment. You can use the trends you see to confirm that you have had an impact and are meeting real human needs.
 #* Looking at these patterns can also help you satisfy your curiosity about your visitors, many of whom you may never meet.
 
 === Understanding the limitations of using different timescales based on your traffic level ===
