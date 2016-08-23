@@ -22,7 +22,7 @@ We use data from Google Analytics (GA), Quantcast Measure (QM), and Facebook Ins
 
 === Understanding the limitations of using different timescales based on your traffic level ===
 # The more traffic you have, the easier it is to do analysis at shorter timescales.
-#* As a general statistical rule, random fluctation as a proportion of total traffic goes down as total traffic goes up, ''ceteris paribus'' (i.e., holding everything else constant).
+#* Approximate rule-of-thumb: random fluctation as a proportion of total traffic goes down as total traffic goes up.
 #* In particular, for a site with a lot of traffic, it is possible to do meaningful analysis at a granularity of hours or even minutes. For a site with very little traffic, you may need to do analysis at a granularity of months.
 # The extent to which your traffic fluctuates with viral news events also governs the feasibility of analysis at various timescales.
 #* If traffic to your website is heavily influenced by viral news events (in the world) or the virality of specific posts you make to it, then analysis at short timescales may be hard. It may be necessary to use longer timescales to average out the variation in virality.

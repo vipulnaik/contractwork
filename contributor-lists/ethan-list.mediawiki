@@ -10,7 +10,7 @@ Wikipedia handle: Ethanbas
 
 Facebook: https://www.facebook.com/ethan.bashkansky
 
-Grand total: $233.40 ($159 paid, $74.40 pending)
+Grand total: $283.40 ($159 paid, $124.40 pending)
 
 == Impact ==
 
@@ -20,7 +20,7 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 == Work ==
 
-Total payment: $159 (all paid)
+Total payment: $209 ($159 paid, $50 pending)
 
 === Fully completed ===
 
@@ -33,6 +33,8 @@ Total payment: $159 (all paid)
 * Form 1042: $25
 
 * Equal Pay Day: $24 
+
+* Form 1099-K: $50
 
 === Abandoned because something already exists or we decided it isn't important enough ===
 
@@ -65,7 +67,5 @@ Total: $74.40 (payment pending)
 === New pages ===
 
 * Form 1099-R: Pay: $50
-
-* Form 1099-K: Pay: $30
 
 * Form 1098: Pay: $30
