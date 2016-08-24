@@ -28,15 +28,15 @@ Wikipedia Views link for pages significantly edited but not created: http://wiki
 
 == Work ==
 
-Total payment due for work so far: $1864
+Total payment due for work so far: $1934
 
 Payment sent: $2000 (check)
 
-Thus, net payment due at present is -$136. This will be drawn down to zero as Jesse does sporadic work over the next few months.
+Thus, net payment due at present is -$66. This will be drawn down to zero as Jesse does sporadic work over the next few months.
 
 === Completed pages ===
 
-Total: $1517
+Total: $1587
 
 * Timeline of animal welfare and rights: $150
 
@@ -83,6 +83,8 @@ Total: $1517
 * Animal welfare and rights in Sweden: $50
 
 * Animal welfare and rights in Germany: $60
+
+* Animal welfare and rights in Spain: $70. Completed August 23, 2016.
 
 === Improvements to existing pages ===
 
