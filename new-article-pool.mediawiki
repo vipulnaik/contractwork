@@ -58,8 +58,6 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 
 * Form 1023: $50: Form filed by nonprofits to get tax-exempt status. Also reference stuff like NTEE codes, various types of exemption statuses.
 
-* Form 1099-R (reserved by Ethan): $50: Want something of comparable quality to Form 1099-MISC.
-
 * Form 1098: $30: Want something of comparable quality to Form 1099.
 
 Also, pages on state-level income tax returns. In general, prioritize the most populous states as listed at https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population#States_and_territories . However, note that some states already have their own taxation pages, so be sure to check for those beforehand. Please discuss with Issa or Vipul to get individual price quotes for individual states.
