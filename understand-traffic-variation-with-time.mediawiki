@@ -208,6 +208,14 @@ In this guide, we discuss websites, topic areas, and search queries encompassing
 #* Websites that people may visit for planning their day see a peak early in the morning, or in the evening, or at both times. This includes websites related to transportation and retail (e.g., the stores people plan to visit).<ref>[https://www.google.com/trends/explore?date=now%207-d&geo=US-CA-807&q=%2Fm%2F0gdjj Google Trends for Bay Area Rapid Transit (public transit line) in San Francisco Bay Area], retrieved August 29, 2016</ref><ref>[https://www.google.com/trends/explore?date=now%207-d&geo=US-CA&q=%2Fm%2F02fqmc Google Trends for Trader Joe's in Calfifornia], retrieved August 29, 2016</ref>
 #* For some other examples of analysis of traffic fluctuation within the day, and how these within-day trends differ between weekdays and weekends, see Pornhub's 2015 in review<ref name=pornhub-2015-in-review>[http://archive.is/nnvCg Pornhub’s 2015 Year in Review (archived link)]</ref> and the  New York Times article on minute-by-minute Google Trends.<ref>[http://www.nytimes.com/2015/07/05/opinion/sunday/seth-stephens-davidowitz-days-of-our-digital-lives.html?_r=1 Days of our Digital Lives], Seth Stephens-Davidowitz, ''New York Times'', July 4, 2015</ref>
 
+=== Understanding the traffic pattern following push factors ===
+
+# If posting to Facebook, keep in mind the way Facebook circulation of posts changes over time.
+#* For an initial period afer the post (that could last anywhere from a few minutes to an hour) Facebook circulates the post within a select subset of the potential audience, gradually ramping up the rate of circulation. The extent to which it receives a positive reaction from that initial subset determines how much further Facebook ramps up the post.
+#* (estimate CTRs on Facebook posts).
+#* After the post is ramped up, Facebook exponentially decays the circulation of the post. In particular, if the post does not receive a lot of organic re-shares, traffic to the post from Facebook decays exponentially. The traffic graph shape is concave up. This sort of traffic shape is seen when the driving factor in the post's circulation is the huge reach. Without any special boosting, this is determined by the number of people who have liked the page. With special boosting, it depends on how heavily the post was boosted.
+#* If, on the other hand, the post receives a lot of organic re-shares, the decay pattern will not be exponential. Traffic shape will be concave down. This sort of traffic shape is seen when genuine engagement rather than raw volume is that driving factor for the post's circulation.
+# For newsletters, (link to tips on newsletter sending).
 === Understanding the long-term trends for your website ===
 
 # Identify the various parameters that would affect the way your site would grow.
