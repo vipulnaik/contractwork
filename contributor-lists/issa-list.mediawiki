@@ -18,7 +18,7 @@ Note: The arrangement with Issa is much more complicated because, in addition to
 
 Note 2: This page only includes payment data for Tax Year 2016. Payments for 2015 are not included here.
 
-Total so far: $3926.20 ($1044 paid, $2882.20 payment pending)
+Total so far: $4166.20 ($1044 paid, $3122.20 payment pending)
 
 Reimbursement in addition to pending payment: $185.53 ($80 for payment to Amy, $105.53 for payment to Adrian)
 
@@ -81,7 +81,7 @@ Total so far: $1793 ($933 paid, $860 payment pending)
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $903 ($111 paid, $792 payment pending)
+Total so far: $953 ($111 paid, $842 payment pending)
 
 * stats.grok.se -> Wikimedia API fix: $80
 
@@ -119,6 +119,8 @@ Total so far: $903 ($111 paid, $792 payment pending)
 
 * Creation of a model for computing the total value of a Wikipedia pageview. Ongoing work. Payment of $40 for work done as of August 29, 2016.
 
+* Addition of grants made table to the Bill & Melinda Gates Foundation English Wikipedia page: $50. Completed August 29, 2016.
+
 === Touch payments ===
 
 Total: $300
@@ -151,13 +153,15 @@ Total: $130.20 (payment pending)
 
 === Monthly payments ===
 
-Totol so far: $800
+Totol so far: $990
 
 * May: $300
 
 * June: $250
 
 * July: $250
+
+* August: $190
 
 == Work for 2015 ==
 
