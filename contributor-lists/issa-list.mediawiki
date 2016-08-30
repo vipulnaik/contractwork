@@ -18,7 +18,7 @@ Note: The arrangement with Issa is much more complicated because, in addition to
 
 Note 2: This page only includes payment data for Tax Year 2016. Payments for 2015 are not included here.
 
-Total so far: $3848.40 ($1044 paid, $2804.40 payment pending)
+Total so far: $3926.20 ($1044 paid, $2882.20 payment pending)
 
 Reimbursement in addition to pending payment: $185.53 ($80 for payment to Amy, $105.53 for payment to Adrian)
 
@@ -81,7 +81,7 @@ Total so far: $1793 ($933 paid, $860 payment pending)
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $863 ($111 paid, $752 payment pending)
+Total so far: $903 ($111 paid, $792 payment pending)
 
 * stats.grok.se -> Wikimedia API fix: $80
 
@@ -117,21 +117,25 @@ Total so far: $863 ($111 paid, $752 payment pending)
 
 * GiveWell board meeting EA Forum article (http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/): $100. Completed August 17, 2016.
 
+* Creation of a model for computing the total value of a Wikipedia pageview. Ongoing work. Payment of $40 for work done as of August 29, 2016.
+
 === Touch payments ===
 
 Total: $300
 
 === Commission payments ===
 
-List updated July 29, 2016. May not be kept up-to-date continuously.
+List updated August 29, 2016. May not be kept up-to-date continuously.
 
-Total: $92.40 (payment pending)
+Total: $130.20 (payment pending)
+
+* Adrian Ulloa: Commision of 10% on $105 = $10.50
 
 * Amy Zhang: Commission of 15% on $80 = $12
 
-* Avi Glozman: Commission of 10% on $226 = $22.60
+* Avi Glozman: Commission of 10% on $416 = $41.60
 
-* Chris Kunin: Commission of 10% on $142 = $14.20
+* Chris Kunin: Commission of 10% on $177 = $17.70
 
 * Eddy Su: Commission of 10% on $71 = $7.10
 
@@ -143,7 +147,7 @@ Total: $92.40 (payment pending)
 
 * Devansh Dwivedy: Commision of 10% on $80 = $8
 
-* Charlie Corner: Commission of 15% on $50 = $7.50
+* Charlie Corner: Commission of 15% on $82 = $12.30
 
 === Monthly payments ===
 
