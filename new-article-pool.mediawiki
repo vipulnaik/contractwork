@@ -22,6 +22,8 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Global Programme on AIDS: $30-50 (depending on length and quality) (reserved for Daniel): This was run by WHO and was a predecessor to UNAIDS, the Joint United Nations Programme on HIV/AIDS. Also, both the new page and the existing page on UNAIDS should clearly describe the relationship between the programs.
 
+* Selective primary healthcare: Expand on the [https://en.wikipedia.org/wiki/Primary_healthcare#Selective_PHC section on the topic].
+
 === Philanthropy ===
 
 * Scientific charity movement: $30-50 (depending on length and quality): Somewhat related to Charity Organization Societies (COS) but arguably sufficiently separate/distinctive to deserve a separate page. There was also a "scientific charity" that arose during the US Civil War, that may or may not be related (part of your job will be figuring out the relationship). Start with [https://en.wikipedia.org/wiki/User:JeffTK/Scientific_Charity_Movement_(Draft) Jeff Kaufman's draft] and also use his [http://www.jefftk.com/p/scientific-charity-movement blog post] on the topic for more information.
