@@ -24,6 +24,8 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Selective primary healthcare: Expand on the [https://en.wikipedia.org/wiki/Primary_healthcare#Selective_PHC section on the topic].
 
+* Health in All Policy:
+
 * 1988 Riga Conference: Start by reading about [https://en.wikipedia.org/wiki/Alma_Ata_Declaration Alma Ata], since Riga was a follow-up to that. Also mention Riga in Alma Ata's page.
 
 * Oregon Health Services Commission: One of the earlier efforts at explicit priority-setting within health. Start by reading the row for it at [https://en.wikipedia.org/wiki/Priority-setting_in_global_health#History_of_organizations_and_programs_working_on_priority-setting priority-setting in global health], as well as the references used there.
