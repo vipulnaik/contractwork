@@ -38,7 +38,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Lives Saved Tool: A tool created at Johns Hopkins University.
 
-* EVIDEM Collaboration: Conducts literature review, "discussions with stakeholders", and multicriteria decision analysis (MCDA)
+* EVIDEM Collaboration: Conducts literature review, "discussions with stakeholders", and multicriteria decision analysis (MCDA).
 
 * Jeremy Shiffman: A person at the Center for Global Development (see [http://www.cgdev.org/expert/jeremy-shiffman bio]) who has written papers about priority-setting.
 
