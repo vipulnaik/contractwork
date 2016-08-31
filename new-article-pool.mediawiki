@@ -34,7 +34,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * WHO-CHOICE: A program that helps countries choose health system priorities.
 
-* Council on Health Research and Development:
+* Council on Health Research and Development: A council that reviewed health research and development from developing countries.
 
 * Lives Saved Tool: A tool created at Johns Hopkins University.
 
