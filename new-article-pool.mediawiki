@@ -30,7 +30,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Oregon Health Services Commission: One of the earlier efforts at explicit priority-setting within health. Start by reading the row for it at [https://en.wikipedia.org/wiki/Priority-setting_in_global_health#History_of_organizations_and_programs_working_on_priority-setting priority-setting in global health], as well as the references used there.
 
-* WHO Ad Hoc Committee on Health Research Relating to Future Intervention Options:
+* WHO Ad Hoc Committee on Health Research Relating to Future Intervention Options: A WHO committee that did health research prioritization. Start by reading the description from a [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205967/#__sec6 paper that mentions it] (note that the section year in that paper should be 1994, not 1944).
 
 * WHO-CHOICE: A program that helps countries choose health system priorities.
 
