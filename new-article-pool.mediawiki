@@ -28,7 +28,17 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Oregon Health Services Commission: One of the earlier efforts at explicit priority-setting within health. Start by reading the row for it at [https://en.wikipedia.org/wiki/Priority-setting_in_global_health#History_of_organizations_and_programs_working_on_priority-setting priority-setting in global health], as well as the references used there.
 
+* WHO Ad Hoc Committee on Health Research Relating to Future Intervention Options:
+
 * WHO-CHOICE: A program that helps countries choose health system priorities.
+
+* Council on Health Research and Development:
+
+* Lives Saved Tool: A tool created at Johns Hopkins University.
+
+* EVIDEM Collaboration: Conducts literature review, "discussions with stakeholders", and multicriteria decision analysis (MCDA)
+
+* Jeremy Shiffman: A person at the Center for Global Development (see [http://www.cgdev.org/expert/jeremy-shiffman bio]) who has written papers about priority-setting.
 
 === Philanthropy ===
 
