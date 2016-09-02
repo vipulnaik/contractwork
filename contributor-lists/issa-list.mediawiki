@@ -173,6 +173,8 @@ Total so far: $990
 
 === Reimbursement payments ===
 
+Total so far: $185.53
+
 * $80 for PayPal payment to Amy
 
 * $105.53 for PayPal payment to Adrian
