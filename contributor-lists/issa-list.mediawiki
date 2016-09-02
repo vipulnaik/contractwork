@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary for 2016 ===
 
-Total payment due so far (this is taxable income for tax year 2016): $4276.20
+Total money earned by doing work (taxable as income for 2016): $4276.20
 
-Reimbursement due (this is not taxable income): $185.53
+Reimbursement due (not taxable as income for 2016): $185.53
 
-Total payment made: $5044 ($1044 + $4000)
+Payment made: $5044
 
-Net payment due: -$582.27
+Net payment due: ($582.27)
 
 === Completed pages ===
 
@@ -85,7 +85,7 @@ Total so far: $1793
 
 Total so far: $1063
 
-* stats.grok.se -> Wikimedia API fix: $80
+* stats.grok.se Wikimedia API fix: $80
 
 * Other misc pay for consulting etc.: $25
 
@@ -176,6 +176,9 @@ Totol so far: $990
 * $80 for PayPal payment to Amy
 
 * $105.53 for PayPal payment to Adrian
+
+=== Payment schedule ===
+
 
 == Work in 2015 ==
 
