@@ -10,41 +10,45 @@ Wikipedia handle: Ethanbas
 
 Facebook: https://www.facebook.com/ethan.bashkansky
 
-Grand total (this is taxable income for tax year 2016): $355.90 (fully paid)
-
 == Impact ==
 
 === Pageviews ===
 
 You can see data on all pages created by Ethan at http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Ethan%20Bashkansky&allmonths=allmonths
 
-== Work ==
+== Work in 2016 ==
 
-Total payment: $259
+=== Summary ===
 
-=== Fully completed ===
+Grand total (this is taxable income for tax year 2016): $355.90 (fully paid)
 
-* Form W-4: Pay: $30
+=== Completed pages ===
 
-* Form 1095: Pay: $30
+Total so far: $249
 
-* Individual shared responsibility provision: Pay: $40
+* Form W-4: $30. Published February 12, 2016.
 
-* Form 1042: $25
+* Form 1095: $30. Published February 13, 2016.
 
-* Equal Pay Day: $24 
+* Individual shared responsibility provision: $40. Published February 14, 2016.
 
-* Form 1099-K: $50
+* Form 1042: $25. Published February 15, 2016.
 
-* Form 1099-R: $50
+* Equal Pay Day: $24. Published April 26, 2016.
+
+* Form 1099-K: $50. Published August 23, 2016.
+
+* Form 1099-R: $50. Published August 29, 2016.
 
 === Abandoned because something already exists or we decided it isn't important enough ===
+
+Total so far: $10
 
 * De minimis fringe benefit: Page already exists, $5 for initial effort
 
 * Filing Information Returns Electronically: Abandoned after initial effort as page seems not too important; $5
 
-== Commissions on recruits ==
+=== Commissions on recruits ===
 
 List updated August 29, 2016. May not be kept up-to-date continuously.
 
