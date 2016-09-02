@@ -57,7 +57,7 @@ Form 1040, though published on January 1, 2016 is counted in 2015.
 Total so far: $1793
 
 * Green Card Test: $25
-* Triplebyte: $25 for initial work, $6 for additional later work and publication: $31 (paid first $25)
+* Triplebyte: $25 for initial work, $6 for additional later work and publication: $31
 * Form 1099: $50
 * Form 1099-MISC: $100
 * Form W-9: $50
