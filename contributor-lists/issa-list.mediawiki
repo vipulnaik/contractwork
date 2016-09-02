@@ -16,6 +16,28 @@ EA Forum user profile: http://effective-altruism.com/user/riceissa/
 
 Note: The arrangement with Issa is much more complicated because, in addition to creating content on Wikipedia, he does background research, helps with managing editors, etc. However, notably ''he is not paid for pageviews on Wikipedia pages he writes''.
 
+== Impact ==
+
+=== Pageviews ===
+
+Wikipedia Views links for tracking total pageviews of pages created:
+
+* All time (includes pre-2016 pages): http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths
+
+* Only 2016 (however, this also includes Form 1040, that was published on January 1, though included in 2015 payment): http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice%20in%202016&language=en&allmonths=allmonths
+
+* Pages edited significantly but not created: http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20edited%20significantly%20but%20not%20created%20by%20Issa%20Rice&allmonths=allmonths
+
+=== Anecdotal ===
+
+* Howie Lempel (who works for the Open Philanthropy Project) was impressed with the page on the Open Philanthropy Project. He said that in some ways, the page does a better job of conveying what the Open Philanthropy Project has accomplished so far than the website  (with the caveat that both the Wikipedia page and the website only includes publicly available information, and therefore both are limited in accuracy and comprehensiveness).
+
+* Scott Weathers liked the page on the timeline of global health
+
+* Amy Zhang's high school teacher shared the timeline of global health with a UW professor. The timeline of global health was initially created by Issa and later improved upon by Amy.
+
+* People at one of the orgs whose page Issa created offered to buy him drinks if he ever visited their location (note that they did not inappropriately influence the content of the page, beyond pointing to existing references and correcting errors backed by verifiable citations).
+
 == Work and other compensation in 2016 ==
 
 === Summary for 2016 ===
@@ -175,24 +197,3 @@ Unfortunately we don't have a record of payment per page for 2015. However, we d
 
 Payment of 10% of Alex K. Chen's money from working on Wikipedia.
 
-== Impact ==
-
-=== Pageviews ===
-
-Wikipedia Views links for tracking total pageviews of pages created:
-
-* All time (includes pre-2016 pages): http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths
-
-* Only 2016 (however, this also includes Form 1040, that was published on January 1, though included in 2015 payment): http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice%20in%202016&language=en&allmonths=allmonths
-
-* Pages edited significantly but not created: http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20edited%20significantly%20but%20not%20created%20by%20Issa%20Rice&allmonths=allmonths
-
-=== Anecdotal ===
-
-* Howie Lempel (who works for the Open Philanthropy Project) was impressed with the page on the Open Philanthropy Project. He said that in some ways, the page does a better job of conveying what the Open Philanthropy Project has accomplished so far than the website  (with the caveat that both the Wikipedia page and the website only includes publicly available information, and therefore both are limited in accuracy and comprehensiveness).
-
-* Scott Weathers liked the page on the timeline of global health
-
-* Amy Zhang's high school teacher shared the timeline of global health with a UW professor. The timeline of global health was initially created by Issa and later improved upon by Amy.
-
-* People at one of the orgs whose page Issa created offered to buy him drinks if he ever visited their location (note that they did not inappropriately influence the content of the page, beyond pointing to existing references and correcting errors backed by verifiable citations).
