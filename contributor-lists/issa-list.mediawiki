@@ -64,8 +64,8 @@ Total so far: $1793
 * Form 1096: $25
 * Form W-2: $100
 * Form 990: $100
-* Form I-140. Pay: $150, plus $18 for other miscellaneous improvements
-* Open Philanthropy Project. Pay: $100
+* Form I-140: $150, plus $18 for other miscellaneous improvements
+* Open Philanthropy Project: $100
 * Timeline of global health: $170 + $20 completion bonus
 * Timeline of deworming: $115
 * Timeline of nonprofit evaluation: $105
