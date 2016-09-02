@@ -52,34 +52,34 @@ Net payment due: ($582.27)
 
 === Completed pages ===
 
-Form 1040, though published on January 1, 2016 is counted in 2015.
-
 Total so far: $1793
 
-* Green Card Test: $25
-* Triplebyte: $25 for initial work, $6 for additional later work and publication: $31
-* Form 1099: $50
-* Form 1099-MISC: $100
-* Form W-9: $50
-* Form 1096: $25
-* Form W-2: $100
-* Form 990: $100
-* Form I-140: $150, plus $18 for other miscellaneous improvements
-* Open Philanthropy Project: $100
+* Green Card Test: $25. Published January 5, 2016.
+* Triplebyte: $25 for initial work, $6 for additional later work and publication: $31. Initial work in January 2016, publication later in the year.
+* Form 1099: $50. Published January 11, 2016.
+* Form 1099-MISC: $100. Published January 21, 2016.
+* Form W-9: $50. Published January 23, 2016.
+* Form 1096: $25. Published January 25, 2016.
+* Form W-2: $100. Published January 28, 2016.
+* Form 990: $100. Published February 3, 2016.
+* Form I-140: $150, plus $18 for other miscellaneous improvements. Published March 4, 2016.
+* Open Philanthropy Project: $100. Published March 22, 2016.
 * Timeline of global health: $170 + $20 completion bonus
-* Timeline of deworming: $115
-* Timeline of nonprofit evaluation: $105
-* 3 by 5 Initiative: $30
-* Innovative Vector Control Consortium: $35
-* The State of the World's Children: $30
-* Child survival revolution: $101
-* Participatory poverty assessment: $63
-* Voices of the Poor: $39
-* International Decision Support Initiative: $39
-* Amanda Glassman: $32
-* Health systems strengthening: $43
-* Professional consensus of economics: $67
-* Priority-setting in global health: $155
+* Timeline of deworming: $115. Published April 24, 2016.
+* Timeline of nonprofit evaluation: $105. Published April 30, 2016.
+* 3 by 5 Initiative: $30. Published May 2, 2016.
+* Innovative Vector Control Consortium: $35. Published May 4, 2016.
+* The State of the World's Children: $30. Published May 4, 2016.
+* Child survival revolution: $101. Published May 11, 2016.
+* Participatory poverty assessment: $63. Published May 17, 2016.
+* Voices of the Poor: $39. Published May 18, 2016.
+* International Decision Support Initiative: $39. Published June 7, 2016.
+* Amanda Glassman: $32. Published June 8, 2016.
+* Health systems strengthening: $43. Published June 17, 2016.
+* Professional consensus of economics: $67. Published July 10, 2016.
+* Priority-setting in global health: $155. Published July 27, 2016.
+
+Form 1040, though published on January 1, 2016 is counted in 2015 since the bulk of the work for it was carried out in 2015.
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
