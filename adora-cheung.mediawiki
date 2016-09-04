@@ -1,0 +1,64 @@
+<!-- Please do not remove or change this AfD message until the issue is settled -->
+{{Article for deletion/dated|page=Adora Cheung|timestamp=20160814161214|year=2016|month=August|day=14|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Adora Cheung|date=14 August 2016|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{tooshort|date=August 2016}}
+{{Infobox person
+| name          = Adora Cheung
+| alt           = Adora Cheung
+| occupation    = Partner at Y Combinator
+| known_for     = [[Homejoy]]
+}}
+'''Adora Cheung''' is an American [[engineer]].<ref>{{Cite news|url=https://www.washingtonpost.com/news/storyline/wp/2014/09/10/at-the-uber-for-home-cleaning-workers-pay-a-price-for-convenience/|title=At the Uber for Home Cleaning, Workers Pay a Price for Convenience|last=DePillis|first=Lydia|date=10 September 2014|work=The Washington Post|access-date=15 August 2016|via=}}</ref> She was the co-founder and CEO of housecleaning business [[Homejoy]].
+
+== Early life ==
+
+Cheung grew up in a small town in South Carolina, and got a Bachelors in Computer Science from [[Clemson University]].<ref name=":1">{{cite web |url=http://www.fastcompany.com/3028423/whos-next/the-homejoy-creation-story-it-all-started-with-a-dirty-bathroom |title=The Homejoy Creation Story: It All Started With A Dirty Bathroom |date=4 April 2014 |publisher=Fast Company |accessdate= 20 July 2016 |author=Kenrya Rankin Naasel}}</ref>
+
+Cheung got a masters in Economics from [[University of Rochester]].<ref name=":1" /> She was working on her PhD when a friend asked for programming help with his startup, so she left her PhD program to help him. When that didn't follow through, she moved to Silicon Valley.<ref name=":3" />
+
+After moving Cheung worked at [[Slide.com]] as a group project manager, overlooking multiple projects such as FunWall, [[SuperPoke!]], and SuperPoke! Pets.<ref name=":0" />
+
+== Homejoy ==
+
+Cheung and her brother joined [[Y Combinator (company) | Y Combinator]] after she left Slide, Inc. Together they brainstormed several startup ideas, including Pathjoy. Cheung spent a year working on Pathjoy, which was a platform meant to connect customers with life coaches and therapists, but soon abandoned the idea.<ref name=":3" />
+
+Instead Cheung started to focus Pathjoy on finding house cleaners instead of therapists. The idea came when Cheung was looking for a cleaning service for her brother's apartment, but all offerings were either from expensive cleaning agencies or untested cleaners from [[Craigslist]], and she decided that there needed to be an easier, cheaper way to provide home cleaning services.<ref>{{cite web |url=http://www.fastcompany.com/3028423/whos-next/the-homejoy-creation-story-it-all-started-with-a-dirty-bathroom |title=The Homejoy Creation Story: It All Started With A Dirty Bathroom |date=4 April 2014 |publisher=Fast Company |accessdate= 20 July 2016 |author=Kenrya Rankin Naasel}}</ref> To further reinforce the company's new direction, the name Pathjoy was changed to Homejoy.
+
+Inspired by other companies that participate in a [[sharing economy]],<ref name=":0" /> Adora created Homejoy with her brother in 2012.<ref name=":0">{{Cite news|url=http://www.mercurynews.com/business/ci_23983355/homejoy-ceo-adora-cheung-ceo-houscleaning-sharing-economy|title=Homejoy CEO Adora Cheung on the 'Sharing Economy'|last=Hull|first=Dana|date=30 August 2013|work=The Mercury News|access-date=15 August 2016|via=}}</ref> The company was located in [[San Francisco]].<ref>{{Cite news|url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=109023576&site=ehost-live|title=Homejoy's Loss Could Be Google's Gain|last=Miners|first=Zach|date=18 July 2015|work=CIO|subscription=yes|access-date=15 August 2016|via=EBSCO}}</ref> Cheung worked as the [[chief executive officer]] of Homejoy.<ref>{{Cite news|url=http://dealbook.nytimes.com/2013/12/05/homejoy-raises-38-million-in-new-round/?_r=0|title=Homejoy Raises $38 Million in New Round|last=De La Merced|first=Michael J.|date=5 October 2013|work=The New York Times|access-date=15 August 2016|via=}}</ref> By 2013, they had raised $38 million from [[GV (company)|Google Ventures]] and [[Max Levchin]] towards their [[Venture capital financing|venture funding]].<ref name=":2">{{Cite news|url=https://www.highbeam.com/doc/1P2-35444691.html|title=Housecleaning Startup Homejoy Raises $38 Million|last=Hull|first=Dana|date=5 December 2013|work=The Oakland Tribune|subscription=yes|access-date=15 August 2016|via=HighBeam Research}}</ref> Homejoy was also available in 31 cities by 2013.<ref name=":2" /> 
+
+For research, Cheung worked at a professional cleaning company so she'd learn the issues facing cleaners, including scheduling difficulties and inefficient travelling. Cheung was the first cleaner of Homejoy and cleaned houses herself as the startup got off the ground.<ref name=":3" /> Because of her experience, the new Homejoy hires are supposed to do a test cleaning job as part of the hiring process.<ref>{{cite web |url=http://www.fastcompany.com/3026170/most-creative-people/homejoy-the-startup-that-makes-all-new-hires-scrub-toilets |title=Homejoy, The Startup That Makes All New Hires Scrub Toilets |date=13 February 2014 |publisher=Fast Company |accessdate= 20 July 2016 |author=Alice Truong}}</ref> During their test cleaning the new hires are taught how to clean in an efficient manner, and how to communicate with the homeowners in a friendly and effective way.<ref name=":0" />
+
+Cheung herself also went out on cleaning assignments at least once a month. She had plans for Homejoy to move into home repairs, including electricity and plumbing.<ref>{{cite web |url=https://techcrunch.com/2014/10/21/the-ultimate-vision-for-homejoy-is-not-just-cleaning-according-to-ceo-adora-cheung |title=The Ultimate Vision For Homejoy Is Not Just Cleaning, According To CEO Adora Cheung |date=21 October 2014 |publisher=TechCrunch |accessdate= 20 July 2016 |author=Ryan Lawler}}</ref>
+
+Homejoy closed as a business in 2015 after facing four [[Lawsuit|lawsuits]] from workers who had been "misclassified as independent contractors."<ref>{{Cite news|url=http://www.forbes.com/sites/ellenhuet/2015/07/23/what-really-killed-homejoy-it-couldnt-hold-onto-its-customers/#71966033114c|title=What Really Killed Homejoy? It Couldn't Hold On To Its Customers|last=Huet|first=Ellen|date=23 July 2015|work=Forbes|access-date=15 August 2016|via=}}</ref><ref>{{Cite news|url=http://www.forbes.com/sites/ellenhuet/2015/07/17/cleaning-startup-homejoy-shuts-down-citing-worker-misclassification-lawsuits/#5228b9617780|title=Homejoy Shuts Down, Citing Worker Misclassification Lawsuits|last=Huet|first=Ellen|date=17 July 2015|work=Forbes|access-date=15 August 2016|via=}}</ref><ref>{{Cite news|url=http://www.latimes.com/business/technology/la-fi-tn-homejoy-shuts-down-20150717-story.html|title=Homejoy Shuts Down Amid Lawsuit Over Worker Misclassification|last=Lien|first=Tracey|date=17 July 2015|work=Los Angeles Times|access-date=15 August 2016|via=}}</ref>
+
+==After Homejoy ==
+
+After Homejoy closed Cheung started working exclusively for Y Combinator as a partner and works as an advisor to the startups that they fund. She also gives frequent presentations on building startups and running a business due to her experience with Homejoy and earlier projects.
+
+Currently Cheung is contributing to a Y Combinator project to develop better cities, called a "prototype smart city."<ref>{{Cite news|url=http://www.vanityfair.com/news/2016/06/y-combinator-smart-city-research-project|title=Ex-HomeJoy C.E.O.'s Next Start-Up: An Entire City|last=Kosoff|first=Maya|date=28 June 2016|work=Vanity Fair|access-date=15 August 2016|via=}}</ref> Currently the project is developing a program to test [[basic income]] in [[Oakland, California]].<ref>{{ cite web |url=https://blog.ycombinator.com/new-cities |title=New Cities |date = 27 June 2016 |publisher=Y Combinator |accessdate= 3 August 2016 }}</ref><ref>{{ cite web |url=http://qz.com/718081/y-combinators-next-project-is-a-better-city/ |title=Y Combinator's next project is a better city |date = 27 June 2016 |publisher=Quartz |accessdate= 2 August 2016 }}</ref>
+
+== Philosophy on entrepreneurship ==
+
+Cheung's philosophy on startups and entrepreneurship was developed over her time spent with startups, and participated in a lecture series delivered by StartupClass.co on developing and delivering products and building a customer base.<ref>{{cite web |url=https://startupclass.co/courses/how-to-start-a-startup/lectures/64033 |title=Lecture 4 - Building Product, Talking to Users, and Growing (Adora Cheung) |date= 2 October 2014 |publisher= StartupClass.co |accessdate= 28 July 2016 }}</ref>
+
+Cheung says that she's aware of making a more inclusive work environment that's inviting to all people to help combat the insular culture that Silicon Valley has been known for, and acknowledges that entrepenerual women face harassment and bullying.<ref>{{ cite web |url=http://www.huffingtonpost.com/laura-dunn/women-in-business-qa-with_b_4296067.html |title=Women in Business: Q&A with Adora Cheung, CEO and Co-Founder of Homejoy |date=18 November 2013 |publisher= Huffington Post |accessdate= 2 August 2016 }}</ref> She challenges women to create their own companies, and to not use sexism as a possible crutch or excuse for failure.<ref name=":3">{{cite web |url=http://www.femalefounderstories.com/adora-cheung.html |title=Adora Cheung, Founder of Homejoy |publisher= Female Founder Stories |accessdate= 2 August 2016 }}</ref>
+
+== Lectures ==
+
+*{{cite web |url=https://www.youtube.com/watch?v=ZPFP0XIuSNE |title= Adora Cheung (Homejoy) at Startup Grind San Francisco |publisher=Startup Grind|accessdate=2 August 2016}}
+*{{cite web |url=https://www.youtube.com/watch?v=lVDmyRxeGCo |title= Adora Cheung |publisher= Y Combinator |accessdate=2 August 2016}}
+*{{cite web |url=https://www.youtube.com/watch?v=Z9C1kBmEdtY |title= Adora Cheung Speaks at Female Founders Conference 2015 |publisher= Y Combinator |accessdate=2 August 2016}}
+*{{cite web |url=https://startupclass.co/courses/how-to-start-a-startup/lectures/64033 |title= Building Product, Talking to Users, and Growing - Adora Cheung |publisher= StartupClass.co |accessdate=2 August 2016}}
+
+== References ==
+
+{{reflist|30em}}
+
+[[Category:Living people]]
+[[Category:American businesspeople]]
+[[Category:Clemson University alumni]]
+[[Category:University of Rochester alumni]]
+[[Category:American technology company founders]]
+[[Category:Women company founders]]
