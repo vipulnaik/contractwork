@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary for 2016 ===
 
-Total money earned by doing work (taxable as income for 2016): $4376.20
+Total money earned by doing work (taxable as income for 2016): $4406.20
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044
 
-Net payment due: ($482.27)
+Net payment due: ($452.27)
 
 === Completed pages ===
 
@@ -83,7 +83,7 @@ Form 1040, though published on January 1, 2016 is counted in 2015 since the bulk
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1163
+Total so far: $1193
 
 * stats.grok.se Wikimedia API fix: $80
 
@@ -134,6 +134,8 @@ Total so far: $1163
 * Grants data added for the Department for International Development page: $30. Completed September 3, 2016.
 
 * Grants table added for the World Bank: $30. Completed September 4, 2016.
+
+* Grants table added for the United Nations Development Program: $30. Completed September 4, 2016.
 
 === Touch payments ===
 
