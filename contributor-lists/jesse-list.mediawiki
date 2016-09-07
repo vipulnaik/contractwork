@@ -26,17 +26,19 @@ Wikipedia Views link for pages significantly edited but not created: http://wiki
 
 * Jesse said that the Wikipedia pages he created on animal welfare and cellular agriculture were very helpful to his two blog posts on the Effective Altruism Forum, which got a lot of appreciation from people (and the associated drafts got a lot of feedback).
 
-== Work ==
+== Work for 2016 ==
 
-Total payment due for work so far: $1934
+=== Summary ===
 
-Payment sent: $2000 (check)
+Total money earned by doing work (taxable as income for 2016): $2004
 
-Thus, net payment due at present is -$66. This will be drawn down to zero as Jesse does sporadic work over the next few months.
+Payment made: $2000 (check)
+
+Net payment due: $4
 
 === Completed pages ===
 
-Total: $1587
+Total: $1657
 
 * Timeline of animal welfare and rights: $150
 
@@ -85,6 +87,8 @@ Total: $1587
 * Animal welfare and rights in Germany: $60
 
 * Animal welfare and rights in Spain: $70. Completed August 23, 2016.
+
+* Animal welfare and rights in France: $70. Completed September 6, 2016.
 
 === Improvements to existing pages ===
 
