@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $4431.20
+Total money earned by doing work (taxable as income for 2016): $4441.20
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044
 
-Net payment due: ($427.27)
+Net payment due: ($417.27)
 
 === Completed pages ===
 
@@ -143,7 +143,7 @@ Total so far: $1218
 
 === Touch payments ===
 
-Total: $300
+Total: $310
 
 === Commission payments ===
 
