@@ -20,7 +20,11 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $355.90 (fully paid)
+Grand total (this is taxable income for tax year 2016): $475.90
+
+Payment made: $355.90
+
+Net payment due: $120
 
 === Completed pages ===
 
@@ -39,6 +43,12 @@ Total so far: $249
 * Form 1099-K: $50. Published August 23, 2016.
 
 * Form 1099-R: $50. Published August 29, 2016.
+
+=== Miscellaneous work ===
+
+Total: $120
+
+This includes a bundle of work done in the last week of August 2016 and the first week of September 2016. Individual pieces of work were not directed by Vipul, but a cumulative pay for overall work was determined at the end.
 
 === Abandoned because something already exists or we decided it isn't important enough ===
 

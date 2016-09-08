@@ -229,6 +229,8 @@ In this guide, we discuss websites, topic areas, and search queries encompassing
 # Get benchmarks for long-term trends in traffic for websites similar to yours using QM.
 #* A good global heuristic is that a lot of organic growth (due to expanding use of search and social media) occurred across many domains till late 2013 and early 2014, but Internet use (and in particular, web use as people have substituted away from the web more toward apps) has slowed down since then. Web use has flatlined in the United States and annual growth has slowed down in the rest of the world.<ref name=pew-home-broadband>[http://www.pewinternet.org/2015/12/21/home-broadband-2015/ Home Broadband 2015. The share of Americans with broadband at home has plateaued, and more rely only on their smartphones for online access], John B. Horrigan and Maeve Duggan, Pew Research Center, December 21, 2015</ref>
 #* Technology-related Stack Exchange sites (such as StackOverflow and ServerFault) grew at a reasonable pace till around 2014, but since then have almost flatlined in the United States.
+#* Women's magazines have, since 2014, seen a slight decline in desktop web use and an increase in mobile web use, for a slight net increase.<ref>[http://www.fipp.com/news/features/why-is-harpers-bazaar-outperforming-the-month 
+Why is Harper’s Bazaar outperforming the monthly magazine growth index?] Janinne Brunyee, MagWorld, October 16, 2015</ref><ref>[http://www.hearst.co.uk/news/continued-growth-womens-brands-hearst-magazines-uk-announces-latest-abc-figures Continued Growth in Women’s Brands as Hearst Magazines UK announces latest ABC figures], Hearst Magazines UK, February 12, 2015</ref>
 
 == References ==
 
