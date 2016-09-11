@@ -141,8 +141,14 @@ Add to .bashrc the line
 
 export TEXINPUTS=.:/home/antivipulnaik/git/files/latexpackages//::
 
-September 10: setting up GAP
+September 10: setting up GAP. Note that apt-get install gap-core installs a very incomplete 
 
-apt-get install gap-core
-
+apt-get install m4
+wget http://www.gap-system.org/pub/gap/gap48/tar.gz/gap4r8p4_2016_06_04-12_41.tar.gz
+tar xvzf gap4r8p4_2016_06_04-12_41.tar.gz 
+cd gap4r8p4
+./configure
+make
+cd pkg
+../bin/BuildPackages.sh
 
