@@ -141,4 +141,8 @@ Add to .bashrc the line
 
 export TEXINPUTS=.:/home/antivipulnaik/git/files/latexpackages//::
 
+September 10: setting up GAP
+
+apt-get install gap-core
+
 
