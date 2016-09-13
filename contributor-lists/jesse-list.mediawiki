@@ -30,11 +30,11 @@ Wikipedia Views link for pages significantly edited but not created: http://wiki
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $2004
+Total money earned by doing work (taxable as income for 2016): $2049
 
 Payment made: $2000 (check)
 
-Net payment due: $4
+Net payment due: $49
 
 === Completed pages ===
 
@@ -89,6 +89,8 @@ Total: $1657
 * Animal welfare and rights in Spain: $70. Completed August 23, 2016.
 
 * Animal welfare and rights in France: $70. Completed September 6, 2016.
+
+* Animal welfare and rights in Denmark: $45. Completed September 13, 2016.
 
 === Improvements to existing pages ===
 
