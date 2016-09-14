@@ -4,7 +4,7 @@ This article discusses the effect of a [[sales tax]] on the [[market price]] and
 
 Prior to beginning the analysis, we note the following:
 
-# A sales tax may be ''price-proportional'' (proportional to the price of the trade) or ''quantity-proportional'' (proportional to the quantity being traded). The quantitative analysis differs somewhat in both these cases. However, the qualitative analysis largely does not.
+# A sales tax may be ''revenue-proportional'' (proportional to the price of the trade) or ''quantity-proportional'' (proportional to the quantity being traded). The quantitative analysis differs somewhat in both these cases. However, the qualitative analysis largely does not.
 # In this article, we largely focus on the effect of the ''introduction'' of a sales tax, by performing [[comparative statics]] between a world without sales tax and a world with sales tax. Much of this analysis can also be applied to ''increases'' in sales tax. Conversely, a ''decrease'' in, or ''elimination'' of, a sales tax should have the opposite effect.
 # For the most part, we focus on short run effects. In particular, this means that we assume the [[law of demand]] and [[law of supply]].
 # We assume away the costs of compliance with the tax laws, and do not deal with issues of tax evasion.
@@ -82,7 +82,7 @@ We want to perform comparative statics between the world without sales tax and t
 {| class="sortable" border="1"
 ! Case !! What happens to the demand curve algebraically !! Pictorial depiction
 |-
-| price-propotional sales tax || For a price-proportional sales tax with a factor of <math>x</math>, the new demand function at a price of <math>p</math> equals the old demand function at a price of <math>p(1 + x)</math>. The reason is that, as far as buyers are concerned, the effective price is <math>p(1 + x)</math>. The upshot is that the demand curve ''shrinks'' downward by a factor of <math>1 + x</math>. || An example picture is below, comparing the no-tax demand curve (solid blue) with the pre-tax demand curve for a 50% sales tax (dashed purple). The original curve shrinks downward to 2/3 of its original level.<br>[[File:Notaxvspretax.png|700px]]
+| price-propotional sales tax || For a revenue-proportional sales tax with a factor of <math>x</math>, the new demand function at a price of <math>p</math> equals the old demand function at a price of <math>p(1 + x)</math>. The reason is that, as far as buyers are concerned, the effective price is <math>p(1 + x)</math>. The upshot is that the demand curve ''shrinks'' downward by a factor of <math>1 + x</math>. || An example picture is below, comparing the no-tax demand curve (solid blue) with the pre-tax demand curve for a 50% sales tax (dashed purple). The original curve shrinks downward to 2/3 of its original level.<br>[[File:Notaxvspretax.png|700px]]
 |-
 | quantity-proportional sales tax || For a quantity-proportional sales tax with a tax of <math>b</math> per unit quantity, the new demand function at a price of <math>p</math> is the old demand function at a price of <math>p + b</math>. The reason is that, as far as buyers are concerned, the effective price is <math>p + b</math>. The upshot is that the demand curve shifts downward by a vertical distance of <math>b</math>. || An example picture is below, comparing the no-tax demand curve (solid blue) with the pre-tax demand curve for a 0.4 price units/unit quanity sales tax (dashed purple). The original curve shrinks downward by 0.4 price units from its original level.[[File:Notaxvspretaxforquantityproportionalsalestax.png|700px]]
 |}
@@ -105,7 +105,7 @@ We want to perform comparative statics between the world without sales tax and t
 
 '''Supply curve''': The supply curve changes. In general, it moves upward. Assuming the law of supply, that is the same as moving inward, i.e., a ''contraction'' of the supply curve. Arithmetically, the new supply curve is related to the old supply curve as follows:
 
-* For a price-proportional sales tax with a factor of <math>x</math>, the new supply function at a price of <math>p</math> equals the old supply function at a price of <math>p/(1 + x)</math>. The reason is that, as far as sellers are concerned, the effective price is the pre-tax price <math>p/(1 + x)</math>. The upshot is that the supply curve moves upward by a factor of <math>1 + x</math>.
+* For a revenue-proportional sales tax with a factor of <math>x</math>, the new supply function at a price of <math>p</math> equals the old supply function at a price of <math>p/(1 + x)</math>. The reason is that, as far as sellers are concerned, the effective price is the pre-tax price <math>p/(1 + x)</math>. The upshot is that the supply curve moves upward by a factor of <math>1 + x</math>.
 * For a quantity-proportional sales tax with a tax of <math>b</math> per unit quantity, the new supply function at a price of <math>p</math> is the old supply function at a price of <math>p - b</math>. The reason is that, as far as sellers are concerned, the effective price is <math>p - b</math>. The upshot is that the supply curve shifts upward by a vertical distance of <math>b</math>.
 
 The upshot is that the supply curve contracts and the demand curve remains the same. Thus, as with the general analysis of [[comparative statics for demand and supply]], we obtain that:
@@ -148,75 +148,101 @@ The extent to which the sales tax affects the pre-tax price, post-tax price, and
 
 ==Effect of sales tax on a single good with a monopolist-controlled market==
 
+This section assumes familiarity with the key conclusions of [[determination of price and quantity supplied by monopolistic firm in the short run]].
+
 We consider comparative statics between two situations:
 
 * A world where there are no sales taxes
-* A world where sales taxes are introduced on a ''single'' good (or class of goods) for which we are drawing the supply and demand curves.
-
-Note that the same analysis also works for comparative statics where we ''change'' the sales tax on only one class of goods.
-
-Unlike in the previous section, here we assume that the market for the single good is supplied solely by one firm which is seeking to maximize its profits. Here, the demand curve the firm faces for its product is the same as the demand curve for the industry as a whole, so the price they receive for their goods declines as the quantity sold increases (assuming the law of demand holds). This means that the marginal revenue from selling a unit is lower than the price of that unit. Since maximizing profits involves setting marginal cost equal to marginal revenue, the monopolist will produce goods at a level where price exceeds the marginal cost of producing a good.
+* A world where sales taxes are introduced on a ''single'' good (or class of goods) that is supplied by a single seller (the monopolist) that seeks to maximizing profit.
 
 The marginal revenue from the sale of a good equals <math>d(PQ)/dQ</math>, as <math>PQ</math> is revenue and we are interested in the rate of change of revenue as quantity changes. Using the Product Rule of calculus, we find that <math>MR = Q*dP/dQ + P</math>. As explained previously, we expect that dP/dQ is negative in accordance with the law of demand. As such, marginal revenue is less than the price paid, and it may even be zero or negative.
 
-Furthermore, we avoid referring to a "supply curve" for a monopolist and instead refer to its "marginal cost curve". The latter refers to the relationship between the quantity of the good the monopolist produces and the marginal cost of producing each unit. The reason we do not call this the supply curve is that at the level of quantity traded, price exceeds marginal cost, and so the demand curve does not intersect the marginal cost curve at this point. Calling the marginal cost curve the "supply curve" would imply that it should, as supply and demand curves are normally expected to intersect when the market is in equilibrium.
+Unlike the perfectly competitive market case discussed previously, we do not perform two separate analyses (pre-tax and post-tax). Rather, we consider various pre-tax and post-tax curves together. The reason is that a "post-tax supply curve" does not make sense in the monopoly case. Also, the analysis is complicated enough as it is, so creating two versions of it isn't worth it!
 
-===Analytical tools===
-
-There are three kinds of diagrams that we draw to study the situation:
-
-# Consider the world without sales tax. We can draw the usual marginal cost, marginal revenue, and demand curves and do the usual analysis to find the market price and equilibrium quantity traded.
-# Consider the world with sales tax. In this world, consider marginal cost, marginal revenue, and demand curves drawn with respect to ''pre-tax'' prices.
-# Consider the world with sales tax. In this world, consider supply, marginal revenue, and demand curves with respect to ''post-tax'' prices.
-
-===Analysis with pre-tax prices===
+=== Key curves under consideration ===
 
 We want to perform comparative statics between the world without sales tax and the world with sales tax. We consider the marginal cost, demand, and marginal revenue curves for the latter in terms of the pre-tax prices.
 
-'''Marginal cost curve''': The marginal cost curve using pre-tax prices is expected to remain the ''same'' as the marginal cost curve in a world without taxes, because the price that the seller sees is the pre-tax price.
+'''Pre-tax marginal cost curve''': The marginal cost curve using pre-tax prices is expected to remain the ''same'' as the marginal cost curve in a world without taxes, because the price that the seller sees is the pre-tax price.
 
-'''Demand curve''': The demand curve changes. In general, it moves downward. Assuming the law of demand, that is the same as moving inward, i.e., a ''contraction'' of the demand curve. Arithmetically, the new demand curve is related to the old demand curve as follows:
+'''Pre-tax demand curve''': The pre-tax demand curve changes relative to what it is in a world without taxes. In general, it moves downward. Assuming the law of demand, that is the same as moving inward, i.e., a ''contraction'' of the demand curve. Arithmetically, the new demand curve is related to the old demand curve either through proportional shrinkage toward the quantity axis (for a revenue-proportional sales tax) or through a downward translation toward the quantity by the amount of the tax on unit quantity. For more, see the [[#Analysis of pre-tax prices|analysis of pre-tax prices section]] for the perfectly competitive case.
 
-{| class="sortable" border="1"
-! Case !! What happens to the demand curve algebraically !! Pictorial depiction
-|-
-| price-propotional sales tax || For a price-proportional sales tax with a factor of <math>x</math>, the new demand function at a price of <math>p</math> equals the old demand function at a price of <math>p(1 + x)</math>. The reason is that, as far as buyers are concerned, the effective price is <math>p(1 + x)</math>. The upshot is that the demand curve ''shrinks'' downward by a factor of <math>1 + x</math>. || An example picture is below, comparing the no-tax demand curve (solid blue) with the pre-tax demand curve for a 50% sales tax (dashed purple). The original curve shrinks downward to 2/3 of its original level.<br>[[File:Notaxvspretax.png|700px]]
-|-
-| quantity-proportional sales tax || For a quantity-proportional sales tax with a tax of <math>b</math> per unit quantity, the new demand function at a price of <math>p</math> is the old demand function at a price of <math>p + b</math>. The reason is that, as far as buyers are concerned, the effective price is <math>p + b</math>. The upshot is that the demand curve shifts downward by a vertical distance of <math>b</math>. || An example picture is below, comparing the no-tax demand curve (solid blue) with the pre-tax demand curve for a 0.4 price units/unit quanity sales tax (dashed purple). The original curve shrinks downward by 0.4 price units from its original level.[[File:Notaxvspretaxforquantityproportionalsalestax.png|700px]]
-|}
+'''Pre-tax marginal revenue curve''': The pre-tax marginal revenue curve changes relative to what it is in a world without taxes. Qualitatively, the way it changes is the ''same'' as the way the demand curve changes. For a revenue-proportional sales tax, it shrinks proportionally toward the quantity axis. For a quantity-proportional sales tax, it is translated downward. This can be inferred easily from the definition of marginal revenue as <math>d(PQ)/dQ</math>, and the way derivatives interact with addition and scalar multiplication (specifically, [[calculus:differentiation is linear|the fact that differentiation is linear]]).
 
-'''Marginal revenue curve''': The marginal revenue curve changes. In general, it moves downward in the case of a quantity-proportional sales tax, and closer to zero in the case of a price-proportional sales tax. (This means that in the case of a price-proportional sales tax, if marginal revenue is negative at a given quantity sold, marginal revenue will actually increase at that point, as it will be less negative.) Assuming the law of demand, the marginal revenue curve slopes downwards, so that is the same as moving inward, i.e., a ''contraction'' of the demand curve. Arithmetically, the new marginal revenue curve is related to the old marginal revenue curve as follows:
-{| class="sortable" border="1"
-! Case !! What happens to the marginal revenue curve algebraically !! Pictorial depiction
-|-
-| price-propotional sales tax || For a price-proportional sales tax with a factor of <math>x</math>, the new marginal revenue function equals <math>(1/(1+x))*(Q*(dP/dQ) + P)</math>. The reason is that the demand curve is multiplied by 1/(1+x), so instead of marginal revenue equaling <math>d(PQ)/dQ</math>, it now equals <math>d(PQ/(1+x))/dQ</math>. || An example picture is below, comparing the no-tax marginal revenue curve (solid blue) with the pre-tax marginal revenue curve for a 50% sales tax (dashed purple). The original curve shrinks downward to 2/3 of its original level.<br>INSERT IMAGE
-|-
-| quantity-proportional sales tax || For a quantity-proportional sales tax with a tax of <math>b</math> per unit quantity, the new marginal revenue function equals <math>Q*(dP/dQ) + P - b</math>. The reason is that the demand curve shifts downward by b, so instead of marginal revenue equaling <math>d(PQ)/dQ</math>, it now equals <math>d((P-b)Q)/dQ</math>.|| An example picture is below, comparing the no-tax marginal revenue curve (solid blue) with the pre-tax marginal revenue curve for a 0.4 price units/unit quanity sales tax (dashed purple). The original curve shrinks downward by 0.4 price units from its original level. INSERT IMAGE
-|}
+'''Post-tax demand curve''' (demand curve as experienced by buyers): This remains the same as it would be in a world without taxes.
 
-The upshot is that the marginal cost curve remains the same and the demand and marginal revenue curves move inward. We can therefore determine that the equilibrium quantity traded falls. However, we cannot necessarily determine whether the pre-tax price will rise or fall. In most cases, we would expect the pre-tax price to fall, as demand falls. However, it is possible for the pre-tax price to rise if the monopolist switches from one potential equilibrium to another.
+The upshot: the pre-tax marginal cost curve remains unchanged and the pre-tax marginal revenue curve shrinks downward. We now discuss the implications this has for our conclusions around pre-tax price and quantity traded. ''Prima facie'', this looks a lot like the analysis so far with pre-tax prices for a perfectly competitive market, with marginal revenue curve replacing demand curve and marginal cost curve replacing supply curve. However, there are three subtleties that complicate the picture
 
-To illustrate how this latter possibility could happen, imagine that one buyer of the good is willing to pay $3000 for a single unit while all subsequent buyers are willing to pay $2 per unit (up to the 10,000th unit). Imagine also that the marginal cost of producing the first unit is $500, while the marginal cost of producing all units thereafter is $1. The marginal revenue for the first unit is $3000, for the second unit is -$2996 (as the seller would get $2 for each of the two units sold but would effectively lose the ability to charge $3000 for the first unit), and for all units thereafter is $2. With no tax in place, the monopolist would choose to sell 10,000 units for $2 each, making a profit of $9501 ($20,000 - $9,999 - $500) rather than only selling one unit for $3000 (which would only make a profit of $2500). Now suppose a 300% sales tax is imposed. This effectively reduces all marginal revenue figures by 3/4ths. Selling units to customers only willing to pay $2 per unit would no longer be possible, as the pre-tax price could be $0.50 at maximum, and the marginal cost of producing units is $1. However, the buyer willing to pay $3000 could pay a pre-tax price of $750 and the monopolist could make a profit of $250 selling to that buyer alone. So the result of the sales tax in this (unusual) case would be to raise the pre-tax price of the unit from $2 to $750.
+# The (price, quantity) pair at which trades actually occur is ''not'' the point of intersection of the marginal cost and marginal revenue curves. Rather, the ''quantity'' is determined by the point of intersection, but the price is determined by looking at the demand curve. '''This distinction alone causes some of our conclusions to break down'''.
+# Unlike the demand curve in a perfectly competitive market, the marginal revenue curve is not necessarily downward-sloping. In fact, it need not even always be above the quantity axis! It can have multiple local maxima and local minima. The key distinction is that marginal revenue is affected by a combination of two factors pulling in opposite direction: expansion of the market, and reduction in the price that can be charged to buyers with the highest reservation prices.
+# Unlike the supply curve in a perfectly competitive market, the marginal cost curve is not necessarily upward-sloping. It can have multiple local maxima and local minima. The key distinction with the competitive case that the supply curve for a seller in a competitive market is not the entire marginal cost curve but only a ''part of it that slopes upward''. For more, see [[determination of quantity supplied by firm in perfectly competitive market in the short run]].
 
-===Analysis with post-tax prices===
+There are a wide range of cases where we can make assumptions to eliminate problems (2) and (3). However, problem (1) remains.
 
-To analyze the imposition of a sales tax on a monopolistic market, it is easiest to take the analysis for pre-tax prices and simply apply the sales tax on top of those prices. The net effect of the tax on the equilibrium quantity traded is negative. The net effect of the tax on the post-tax price is zero or positive. (Even in the case where the pre-tax price falls, it cannot fall by more than the level of the tax imposed. At maximum, the pre-tax price will fall by the full amount of the tax; this happens in the case where the marginal cost curve is completely inelastic.)
+===The easy case: marginal cost curve increasing everywhere, marginal revenue curve decreasing everywhere===
 
-===Combined analysis and conclusions===
+This is the easy case where, of the three problems mentioned, ''only'' Problem (1) applies.
+ 
+In the case that the marginal cost curve is increasing throughout the relevant range (outside of which no optima can possibly exist) and the marginal revenue curve is decreasing throughout the relevant range, our pictorial analysis works as in the perfectly competitive case. In particular:
 
-Combining both these analyses, we obtain the three conclusions:
+* Since the marginal revenue curve has shrunk downward and leftward, the new point of intersection of the curves has a lower price and lower quantity traded. Thus, the quantity traded is lower than in a world without sales tax. Also, the pre-tax marginal cost experienced by the seller is lower than in a world without sales tax.
+* The ''post-tax price charged to buyers'' is higher than what it would be in a world without sales tax. This is because the quantity traded is lower, so referencing the post-tax demand curve (which is the ''same'' as the original demand curve) we get a higher price.
+* ''However'', even in this case, the effect on the pre-tax price is ambiguous. This is because there are two competing effects. On the one hand, the quantity traded is lower, causing the maximum price chargeable to increase. On the other hand, the pre-tax demand curve itself has shrunk, causing the price chargeable to decrease.
 
-* The pre-tax market price may be lower or higher than the market price in a world without the tax (this can be seen via the comparative statics between the no-tax and the pre-tax curves)
-* The post-tax market price is higher than the market price in a world without the tax (this can be seen via the comparative statics between the no-tax and the post-tax curves)
-* The equilibrium quantity traded is less than the equilibrium quantity traded in a world without the tax (this can be seen using ''either'' of the two comparative statics methods employed above)
-* The sales tax effectively adds additional deadweight loss on top of the existing deadweight loss caused by the monopoly
+=== The more general case ===
 
-===How price-elasticity affects the nature of the effect of sales tax===
+In the more general case, Problems (2) and (3) can also arise. Specifically, the marginal revenue curve can even go below the quantity axis, and the marginal cost curve can be non-monotonic. In such a situation, we can have multiple locally optimal configurations. When a sales tax is imposed, a monopolist may switch from one optimum to another. An example is in the box.
 
-The extent to which the sales tax affects the pre-tax price, post-tax price, and equilibrium quantity traded depends upon the [[price-elasticity of demand]] and [[price-elasticity of supply]]. The following are two general principles:
+{{quotation}To illustrate how this latter possibility could happen, imagine that one buyer of the good is willing to pay $3000 for a single unit while all subsequent buyers are willing to pay $2 per unit (up to the 10,000th unit). Imagine also that the marginal cost of producing the first unit is $500, while the marginal cost of producing all units thereafter is $1. The marginal revenue for the first unit is $3000, for the second unit is -$2996 (as the seller would get $2 for each of the two units sold but would effectively lose the ability to charge $3000 for the first unit), and for all units thereafter is $2. With no tax in place, the monopolist would choose to sell 10,000 units for $2 each, making a profit of $9501 ($20,000 - $9,999 - $500) rather than only selling one unit for $3000 (which would only make a profit of $2500). Now suppose a 300% sales tax is imposed. This effectively reduces all marginal revenue figures by 3/4ths. Selling units to customers only willing to pay $2 per unit would no longer be possible, as the pre-tax price could be $0.50 at maximum, and the marginal cost of producing units is $1. However, the buyer willing to pay $3000 could pay a pre-tax price of $750 and the monopolist could make a profit of $250 selling to that buyer alone. So the result of the sales tax in this (unusual) case would be to raise the pre-tax price of the unit from $2 to $750.}}
 
-* Between demand and supply, the relatively more price-inelastic side absorbs more of the price burden of the sales tax. In other words, if demand is more inelastic, then the effect of the sales tax is largely seen in terms of an increase in the ''post-tax'' price. If supply is more inelastic, then the effect of the sales tax is largely seen in terms of a decrease in the ''pre-tax'' price. This is in keeping with the general principle attributed to Ricardo that rents are captured by the most inelastic side. Here, the rents are reversed in sign, but the principle stays the same.
-* In general, the extent to which the equlibrium quantity traded is affected is negatively related to the price-elasticities of both demand and supply. In other words, if we reduce the price-elasticity of either demand or supply, the sensitivity of the equilibrium quantity traded to the sales tax reduces. In particular, if either demand or supply is perfectly price-inelastic, the equilibrium quantity traded is independent of the sales tax.
+However, it turns out that any such optimum-switching ''must'' be in the direction of a market shrinkage. In other words, even if we see optimum-switching, where a monopolist switches strategy, it will ''still'' be true that:
+
+* The quantity traded ''decreases'' relative to a world without sales tax.
+* The post-tax market price ''increases'' relative to a world without sales tax.
+
+The justification is a little complicated, since we can no longer rely on visual reasoning but must perform careful comparative statics.
+
+==== What's common between revenue-proportional and quantity-proportional sales taxes ====
+
+To understand why the conclusion holds ''both'' for revenue-proportional ''and'' for quantity-proportional sales taxes, we note the following. The comparisons are between different choices of (price, quantity), holding the sales tax level constant.
+
+* For a revenue-proportional sales tax, the larger the total post-tax revenue, the larger the absolute amount of the tax.
+* For a quantity-proportional sales tax, the larger the total quantity traded, the larger the absolute amount of the tax.
+
+In particular, for a single good with a fixed, downward-sloping demand curve, we can conclude that:
+
+For a revenue-proportional ''or'' quantity-proportional sales tax, the absolute amount of the tax increases if the seller chooses a (price, quantity) point farther to the right on the post-tax demand curve. In the revenue-proportional case, the effect is mediated through increased revenue. In the quantity-proportional case, the effect is mediated through the quantity traded.
+
+==== The explanation for why quantity traded must decrease and post-tax market price must increase under the introduction of a sales tax ====
+
+Denote by <math>(P^*, Q^*)</math> the price and quantity chosen by the monopolist in a world without tax. Suppose <math>(P_1, Q_1)</math> is a (price, quantity) pair on the post-tax demand curve with <math>P_1 > P^*</math> (and therefore <math>Q_1 < Q^*</math>). We will show that the profit from the latter configuration under sales tax is less than the profit under the sales tax from the original optimal configuration <math>(P^*, Q^*)</math>.
+
+First, we note that by the definition of optimality:
+
+Profit without sales tax under <math>(P^*, Q^*)</math> <math>\ge</math> Profit without sales tax under <math>(P_1, Q_1)</math>
+
+We also have:
+
+Profit with sales tax under <math>(P^*, Q^*)</math> = Profit without sales tax under <math>(P^*, Q^*)</math> - Absolute amount of tax under <math>(P^*, Q^*)</math>
+
+Profit with sales tax under <math>(P_1, Q_1)</math> = Profit without sales tax under <math>(P_1, Q_1)</math> - Absolute amount of tax under <math>(P_1, Q_1)</math>
+
+Also, as discussed in the preceding subsection, it must be the case that:
+
+Absolute amount of sales tax under <math>(P_1, Q_1)</math> <math>\ge</math> Absolute amount of sales tax under <math>(P^*, Q^*)</math>
+
+Combining these inequalities, we obtain that:
+
+Profit with sales tax under <math>(P^*, Q^*)</math> <math>\ge</math> Profit with sales tax under <math>(P_1, Q_1)</math>
+
+This provides the desired conclusion.
+
+=== Conclusion ====
+
+* The pre-tax price (as received by the monopolist) may increase or decrease. Note that this indeterminacy is present even in the case of an increasing marginal cost curve and decreasing marginal revenue curve, and arises fundamentally from the fact that the pre-tax price itself is not obtained by intersecting the two curves.
+* The post-tax price (as seen by buyers) must increase. This observation depends on the law of demand, but does not make any additional assumptions about the marginal cost and marginal revenue curve.
+* The quantity traded must decrease. This observation depends on the law of demand, but does not make any additional assumptions about the marginal cost and marginal revenue curve.
+* In the special case that we are dealing with an increasing marginal cost curve and a decreasing marginal revenue curve, we can conclude that the marginal cost seen by the selle rat the quantity that the seller produces goes ''down'' relative to what it was in a world without sales tax.
 
 ==Effect of sales tax that also affects complementary and substitute goods==
 

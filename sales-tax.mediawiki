@@ -1,0 +1,147 @@
+==Definition==
+
+A '''sales tax''' is a tax imposed by a government on final sales or purchases.
+
+A sales tax is a kind of [[consumption tax]], and it differs from a [[value-added tax]] in that the tax is collected only at the point of final purchase rather than at intermediate steps on the ''value added'' at each step.
+
+A sales tax may be of either of these two forms:
+
+*  A '''revenue-proportional sales tax''': Here, the sales tax is specified as a fraction of the total pre-tax revenue and added to it. The buyer pays a ''post-tax price'' per unit of the quantity which is the sum of the pre-tax price and the sales tax (applied as a percentage of the pre-tax price). In particular, the difference between pre-tax and post-tax revenue ''grows'' as the unit price increases.
+* A '''quantity-proportional sales tax''': Here, the sales tax is specified per unit of the quantity being sold. For instance, a sales tax on wheat flour might specify a tax in money units per unit mass of wheat flour. In particular, the difference between the pre-tax and post-tax price is a constant and is independent of the seller's choice of price.
+
+==Mechanics==
+
+===Burden of remitting the tax===
+
+In most jurisdictions that impose sales taxes, the responsibility for computing and collecting the sales tax, as well as remitting the amount to the taxing authority, falls on the seller. Failure to do so may lead to trouble for the seller, not for the buyer.
+
+There is a corresponding notion to sales tax that applies to ''buyers'', and this typically applies to items purchased from outside the jurisdiction for use within the jurisdiction. This is termed [[use tax]], and is typically set at the same rate as sales tax.
+
+===Interpretation of percentages for revenue-proportional sales tax===
+
+{{further|[[inclusive versus exclusive tax rates]]}}
+
+Note that unlike the [[income tax]], the sales tax is computed as a percentage of the pre-tax revenue and ''added'' to the pre-tax revenue to determine how much the buyer will pay. Taxes computed this way are called "exclusive taxes", i.e.., the taxable quantity does not itself include the tax amount.
+
+For instance, for a sales tax of 25%, the post-tax price is <math>1.25</math> times the pre-tax price. The taxing authority collects <math>0.25</math> times the pre-tax price, which is <math>0.20</math> times, or <math>20\%</math> of, the post-tax price. Note that the percentage 20% is different from the sales tax percentage. In general, ''the percentage of post-tax price (which would be called the inclusive tax rate) collected by the taxing authority is lower than the quoted sales tax percentage (which is the exclusive tax rate)''. However, for small values of revenue-proportional sales tax, these two percentages are almost the same.
+
+The explicit formula is this. In fractional term, if the sales tax fraction of pre-tax price is <math>x</math>, the fraction of post-tax price is:
+
+<math>\! \frac{x}{1 + x}</math>
+
+===Inclusion or exclusion of sales tax from marked price===
+
+Conventions on whether the marked prices for items are quoted inclusively or exclusively of sales tax vary from place to place. As a general rule, vending machines and other fixed-price self-serve sales machines typically quote prices inclusive of sales tax, regardless of whether the sales tax is computed inclusively or exclusively. This is largely to make payment simpler. Similarly, shops, markets, and restaurants that are selling a few specific items in bulk may quote the prices inclusive of sales tax to avoid the overhead of sales tax computation associated with each item and make the process easier and faster for buyers and sellers.
+
+However, many shops and markets quote a list price that does not include sales tax, and they generally compute the sales tax at the end, as a percentage of the overall bill, at the time of checkout or bill payment. This may be for a number of reasons:
+
+* It makes the price appear smaller than it is, playing on the behavioral economics biases of consumers. 
+* It means that buyers and sellers alike can see for themselves how much of the money is being taken away in the form of sales taxes, which may make them more resistant to sales tax increases and more likely to push for reductions in sales taxes. Inclusive quotation of prices may mean that buyers are more likely to blame sellers for the higher prices that result from increases in sales tax rates (and conversely, congratulate sellers for price reductions due to decreases in sales tax rates).
+* The explicit itemization of sales tax gives buyers a signal (perhaps a false one) that the sellers are complying with sales tax laws. Of course, it's easy for a seller to itemize a sales tax and then pocket it rather than remitting it to the government, but that might feel a lot more like fraud than simply quoting an inclusive price and not remitting the part devoted to sales tax.
+* In cases where the [[price-elasticity of supply]] is high, sellers are unlikely to change their pre-tax price by much in the face of small changes in sales tax rates. By quoting prices exclusive of sales taxes, the sellers can avoid the [[menu cost]]s of relabeling items and simply change the percentage computed for sales tax, which is often a one-time step for the computer program used at checkout.
+
+==Additive nature of sales tax and relation with market size==
+
+Sales tax is by nature additive: the total sales tax on a set of transactions is the sum of the sales taxes on each of the transactions individually. In particular, this means that adding a new set of transactions to the market simply increases the absolute amount of the sales tax. In particular:
+
+* For a revenue-proportional sales tax, the larger the total post-tax revenue, the larger the government revenue from the tax.
+* For a quantity-proportional sales tax, the larger the total quantity traded, the larger the government revenue from the tax.
+
+=== Quantity-proportional sales tax ===
+
+For a quantity-proportional sales tax, the effects of market structure changes are simple: any market structure change that increases the quantity traded increase the absolute amount of the sales tax (i.e., the government revenue from the tax). In particular, in a competitive market:
+
+* An expansion of demand (i.e. the demand curve moving rightward) increases quantity traded and therefore increases government revenue.
+* An expansion of supply (e.g., through the introduction of more sellers, or an improvement in sellers' production technology) increases quantity traded and therefore increases government revenue.
+
+Similar conclusions hold for non-competitive markets, with various caveats.
+
+=== Revenue-proportional sales tax ===
+
+For a revenue-proportional sales tax, the relation between market structure and tax revenue is more complicated. In particular, in a competitive market: 
+
+* An expansion of demand (i.e. the demand curve moving rightward) increases quantity traded as well as the market price in the short run, and therefore increases revenue (in the short run).
+* An expansion of supply (e.g., through the introduction of more sellers, or an improvement in sellers' production technology) increases quantity traded but decreases price. The net effect on government revenue is ambiguous, since the net effect on total seller revenue is ambiguous.
+
+==Effects of sales tax==
+
+The ''effect'' of a sales tax is understood to mean the effect of introducing the sales tax on a good where there was none before. The analysis of such effects is an example of [[comparative statics]].
+
+===Effect on market price and quantity traded===
+
+{{further|[[effect of sales tax on market price and quantity traded]]}}
+
+Consider the simplifying assumptions of a competitive market, and assume that the sales tax is levied ''only'' on a particular good and not on the various [[substitute good]]s and [[complementary good]]s. Also, we assume that the [[law of demand]] and [[law of supply]] hold (these assumptions are usually valid in the short run). Under these assumptions, the following are the effects of introducing or increasing a sales tax:
+
+{| class="sortable" border="1"
+! Item of interest !! Direction of effect (non-edge case) relative to a world without sales tax!! Would the same effect be observed if an existing sales tax percentage is ''increased''? !! Edge case !! Conditions for edge case
+|-
+| pre-tax price (i.e., the effective price for the seller) || goes down || yes || pre-tax price stays the same|| One of these: The [[demand curve]] is vertical, i.e., the [[price-elasticity of demand]] is zero. Intuitively, what this means is that the quantity demanded is unaffected by price, so the entire burden of the sales tax is passed on to buyers (consumers).<br>The supply curve is horizontal, i.e., the [[price-elasticity of supply]] is infinite.
+|-
+| post-tax price (i.e., the effective price for the buyer) || goes up || yes || post-tax price stays the same || One of these: The [[supply curve]] is vertical, i.e., the [[price-elasticity of supply]] is zero. Intuitively, what this means is that the quantity supplied is unaffected by price, so the entire burden of the sales tax is absorbed by sellers.<br> The [[demand curve]] is horizontal, i.e., the [[price-elasticity of demand]] is infinite.
+|-
+| quantity traded || goes down || yes || quantity traded stays the same || Either the demand or the supply curve is vertical, i.e., either the [[price-elasticity of demand]] or the [[price-elasticity of supply]] is zero.
+|}
+
+===Effect on economic surplus and its distribution===
+
+{{further|[[effect of sales tax on economic surplus]]}}
+
+In the absence of a sales tax, the [[social surplus]] arising from the sale of a good is captured by two types of parties -- sellers/producers (in the form of [[producer surplus]]) and buyers/consumers (in the form of [[consumer surplus]]).
+
+Once a sales tax is introduced, there are generally two important effects:
+
+# Now, the social surplus is captured by three types of parties -- producers ([[producer surplus]]), consumers ([[consumer surplus]]), and the taxing authority ([[government surplus]]).
+# The total social surplus goes down: The new total social surplus, even ''including'' the portion captured by the taxing authority, is less than the original social surplus. ''Both'' the producer surplus ''and'' the consumer surplus go down. While part of the reduction in their surpluses is captured by the taxing authority, part of it is lost. The loss can be attributed to the trades that do ''not'' occur because of the decline in quantity traded, and is an example of a [[deadweight loss due to taxation]]. Geometrically, it can be measured as the area of a [[Harberger triangle]].
+
+[[File:Harbergertriangle.png|700px]]
+
+Here are some of the relationships:
+
+Producer surplus in a world without sales tax [corresponds to C + D + F] = (Producer surplus in a world with sales tax [corresponds to D]) + (Part of government surplus whose incidence falls on the producers [corresponds to C]) + (Part of deadweight loss whose incidence falls on the producers [corresponds to F]) 
+
+and:
+
+Consumer surplus in a world without sales tax [corresponds to A + B + E] = (Consumer surplus in a world with sales tax [corresponds to A]) + (Part of government surplus whose incidence falls on the consumers [corresponds to B]) + (Part of deadweight loss whose incidence falls on the consumers [corresponds to E])
+
+Overall:
+
+Social surplus in a world without sales tax [corresponds to A + B + C + D + E + F]= (Social surplus in a world with sales tax [corresponds to A + B + C + D]) + (Deadweight loss due to taxation [corresponds to E + F])
+
+Note that this analysis ''includes'' government surplus in the social surplus. The bad effect of taxation, as per this analysis, is the deadweight loss represented by the Harberger triangle.
+
+The [[tax incidence]] question is: how is the burden of taxation (both in terms of the part captured through government surplus and the deadweight loss) distributed between producers and consumers? The answer depends on the relative price-elasticities of the demand and supply curves.
+
+{| class="sortable" border="1"
+! Assumption for [[price-elasticity of demand]] !! Assumption for [[price-elasticity of supply]] !! Conclusion about consumer surplus relative to a world without sales tax !! Conclusion about producer surplus relative to a world without sales tax !! Conclusion about deadweight loss
+|-
+| negative (satisfies the [[law of demand]]) || positive (satisfies the [[law of supply]]) || falls, captured by both government surplus and deadweight loss || falls, captured by both government surplus and deadweight loss || positive
+|-
+| infinite, i.e., a horizontal demand curve (e.g., when the good has a perfect substitute) || positive (satisfies the [[law of supply]]) || it was zero to begin with, and stays zero || falls, captured by both government surplus and deadweight loss  || positive
+|-
+| zero, i.e., a vertical demand curve. We also say that the demand is perfectly price-inelastic || positive (satisfies the [[law of supply]]) ||falls, but it was infinite to begin with, remains infinite || stays the same || zero, because there is no decline in quantity traded
+|-
+| negative (satisfies the [[law of demand]]) || infinite, i.e., a horizontal supply curve, e.g., a [[constant cost industry]] || falls, captured by both government surplus and deadweight loss || it was zero to begin with, and stays zero || positive
+|-
+| negative (satisfies the [[law of demand]]) || zero, i.e., a vertical supply curve. We say that the supply is perfectly price-inelastic ||stays the same || falls || zero, because there is no decline in quantity traded
+|}
+
+====Effect of increasing and decreasing the tax rate on the social surplus====
+
+Most of the qualitative directions regarding what happens when we ''introduce'' a sales tax are similar to what happens when we ''increase'' an existing sales tax. The exception is government surplus, where the effect of increasing an existing nonzero tax rate is ambiguous:
+
+{| class="sortable" border="1"
+! Measure !! What happens to it? !! Conceptual explanation !! Pictorial explanation
+|-
+| [[Producer surplus]] || falls || both the equilibrium quantity traded and the pre-tax price fall, so producers are squeezed from both sides. || The triangle whose area measures producer surplus becomes strictly smaller.
+|-
+| [[Consumer surplus]] || falls || the equilibrium quantity traded falls and the post-tax price rises, so consumers are squeezed from both sides (they make fewer trades, and the surplus per trade falls). || The triangle whose area measures consumer surplus becomes strictly smaller.
+|-
+| [[Government surplus]] || ambiguous || two opposite effects: on the one hand, a higher sales tax means a larger difference between post-tax and pre-tax price (so a larger revenue per unit quantity traded). On the other hand, the quantity traded is lower. This is a sales tax analogue of the [[Laffer curve]] effect. || The vertical thickness (height) of the rectangle representing government surplus increases, while the horizontal length (the equilibrium quantity traded) falls. It is unclear which effect dominates.
+|-
+| [[Deadweight loss due to taxation]] || rises || the equilibrium quantity traded falls || the triangle whose area measures deadweight loss becomes strictly larger.
+|-
+| [[Social surplus]] (includes producer surplus, consumer surplus, government surplus) || falls || follows from deadweight loss becoming larger || the area we are trying to measure becomes strictly smaller
+|}
+
+In other words, raising taxes has clear negative effects on ''everything'' except the government surplus (the tax revenue collected), where the effect is ambiguous.
