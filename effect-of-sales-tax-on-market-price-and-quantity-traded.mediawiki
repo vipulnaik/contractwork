@@ -206,12 +206,12 @@ The justification is a little complicated, since we can no longer rely on visual
 
 To understand why the conclusion holds ''both'' for revenue-proportional ''and'' for quantity-proportional sales taxes, we note the following. The comparisons are between different choices of (price, quantity), holding the sales tax level constant.
 
-* For a revenue-proportional sales tax, the larger the total post-tax revenue, the larger the absolute amount of the tax.
-* For a quantity-proportional sales tax, the larger the total quantity traded, the larger the absolute amount of the tax.
+* For a revenue-proportional sales tax, the larger the total post-tax revenue, the larger the absolute tax burden.
+* For a quantity-proportional sales tax, the larger the total quantity traded, the larger the absolute tax burden.
 
 In particular, for a single good with a fixed, downward-sloping demand curve, we can conclude that:
 
-For a revenue-proportional ''or'' quantity-proportional sales tax, the absolute amount of the tax increases if the seller chooses a (price, quantity) point farther to the right on the post-tax demand curve. In the revenue-proportional case, the effect is mediated through increased revenue. In the quantity-proportional case, the effect is mediated through the quantity traded.
+For a revenue-proportional ''or'' quantity-proportional sales tax, the absolute tax burden increases if the seller chooses a (price, quantity) point farther to the right on the post-tax demand curve. In the revenue-proportional case, the effect is mediated through increased revenue. In the quantity-proportional case, the effect is mediated through the quantity traded.
 
 ==== The explanation for why quantity traded must decrease and post-tax market price must increase under the introduction of a sales tax ====
 
@@ -223,26 +223,26 @@ Profit without sales tax under <math>(P^*, Q^*)</math> <math>\ge</math> Profit w
 
 We also have:
 
-Profit with sales tax under <math>(P^*, Q^*)</math> = Profit without sales tax under <math>(P^*, Q^*)</math> - Absolute amount of tax under <math>(P^*, Q^*)</math>
+Profit with sales tax under <math>(P^*, Q^*)</math> = Profit without sales tax under <math>(P^*, Q^*)</math> - Absolute tax burden under <math>(P^*, Q^*)</math>
 
-Profit with sales tax under <math>(P_1, Q_1)</math> = Profit without sales tax under <math>(P_1, Q_1)</math> - Absolute amount of tax under <math>(P_1, Q_1)</math>
+Profit with sales tax under <math>(P_1, Q_1)</math> = Profit without sales tax under <math>(P_1, Q_1)</math> - Absolute tax burden under <math>(P_1, Q_1)</math>
 
 Also, as discussed in the preceding subsection, it must be the case that:
 
-Absolute amount of sales tax under <math>(P_1, Q_1)</math> <math>\ge</math> Absolute amount of sales tax under <math>(P^*, Q^*)</math>
+Absolute tax burden under <math>(P_1, Q_1)</math> > Absolute tax burden under <math>(P^*, Q^*)</math>
 
 Combining these inequalities, we obtain that:
 
-Profit with sales tax under <math>(P^*, Q^*)</math> <math>\ge</math> Profit with sales tax under <math>(P_1, Q_1)</math>
+Profit with sales tax under <math>(P^*, Q^*)</math> > Profit with sales tax under <math>(P_1, Q_1)</math>
 
 This provides the desired conclusion.
 
-=== Conclusion ====
+=== Conclusion ===
 
-* The pre-tax price (as received by the monopolist) may increase or decrease. Note that this indeterminacy is present even in the case of an increasing marginal cost curve and decreasing marginal revenue curve, and arises fundamentally from the fact that the pre-tax price itself is not obtained by intersecting the two curves.
+* The pre-tax price (as received by the monopolist) may increase or decrease. Note that this indeterminacy is present even in the case of an increasing marginal cost curve and decreasing marginal revenue curve. The expected proof breaks down due to the fact that the pre-tax price itself is not obtained by intersecting the two curves.
 * The post-tax price (as seen by buyers) must increase. This observation depends on the law of demand, but does not make any additional assumptions about the marginal cost and marginal revenue curve.
 * The quantity traded must decrease. This observation depends on the law of demand, but does not make any additional assumptions about the marginal cost and marginal revenue curve.
-* In the special case that we are dealing with an increasing marginal cost curve and a decreasing marginal revenue curve, we can conclude that the marginal cost seen by the selle rat the quantity that the seller produces goes ''down'' relative to what it was in a world without sales tax.
+* In the special case that we are dealing with an increasing marginal cost curve and a decreasing marginal revenue curve, we can conclude that the marginal cost seen by the seller at the quantity that the seller produces goes ''down'' relative to what it was in a world without sales tax.
 
 ==Effect of sales tax that also affects complementary and substitute goods==
 
@@ -283,3 +283,4 @@ The justification of these using a combined partial equilibrium analysis is hard
 * Of course, these are just two approximations. We can continue the process ad infinitum -- we can use the changes to the price of <math>A</math> to shift the demand curve for <math>B</math> via the complementarity effect, and then again back to <math>A</math>, and so on. The hope is that the process will eventually converge. To avoid this kind of infinite process, a combined partial equilibrium analysis is useful.
 
 The crude seriatim analysis ''does'' show that the pre-tax price and quantity traded both go down. However, it does not clearly show the conclusions mentioned about the post-tax price. Those conclusions can be better derived by thinking of the ''combined market'' for both goods and applying a single analysis to that.
+
