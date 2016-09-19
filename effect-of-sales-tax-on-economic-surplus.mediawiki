@@ -1,0 +1,171 @@
+This article attempts to discuss the effects of a [[sales tax]] on the [[economic surplus]]. The reference point for studying these effects is a world ''without'' the sales tax, where the price is the [[market price]] and the quantity traded is the equilibrium quantity traded at that market price.
+
+In a world without the sales tax, we have (assuming away [[external cost]]s and [[external benefit]]s):
+
+[[economic surplus]] in absence of sales tax = ([[producer surplus]] in absence of sales tax) + ([[consumer surplus]] in absence of sales tax)
+
+The introduction of the sales tax introduces a third party into the equation: the taxing authority, which we call the government.
+
+[[economic surplus]] in presence of sales tax = ([[producer surplus]] in presence of sales tax) + ([[consumer surplus]] in presence of sales tax) + (government surplus in presence of sales tax)
+
+The goal is to ask the questions:
+
+* How does the producer surplus in the presence of a sales tax compare with the producer surplus in the absence of a sales tax? If the values differ, what accounts for this difference? How much of this difference is captured by the government through tax, and how much of it takes the form of [[deadweight loss due to taxation|deadweight loss]]?
+* How does the consumer surplus in the presence of a sales tax compare with the consumer surplus in the absence of a sales tax? If the values differ, what accounts for this difference? How much of this difference is captured by the government through tax, and how much of it takes the form of [[deadweight loss due to taxation|deadweight loss]]?
+* How does the economic surplus in the presence of a sales tax compare with the economic surplus in the absence of a sales tax? If the values differ, what accounts for this difference? How much of this difference is captured by the government through tax, and how much of it takes the form of [[deadweight loss due to taxation|deadweight loss]]?
+
+==Assumptions==
+
+Prior to beginning the analysis, we note the following:
+
+# A sales tax may be ''revenue-proportional'' (proportional to the price of the trade) or ''quantity-proportional'' (proportional to the quantity being traded). The quantitative analysis differs somewhat in both these cases. However, the qualitative analysis largely does not.
+# In this article, we largely focus on the effect of the ''introduction'' of a sales tax, by performing [[comparative statics]] between a world without sales tax and a world with sales tax. Much of this analysis can also be applied to ''increases'' in sales tax. Conversely, a ''decrease'' in, or ''elimination'' of, a sales tax should have the opposite effect.
+# For the most part, we focus on short run effects. In particular, this means that we assume the [[law of demand]] and [[law of supply]].
+# We assume away the costs of compliance with the tax laws, and do not deal with issues of tax evasion.
+# For the most part, we assume competitive markets (though we also discuss other cases). Hence, the [[law of one price]] is assumed to hold, so that we can talk of ''the'' market price.
+
+==Effect of sales tax on a single good with a competitive market==
+
+===Effect on the pre-tax and post-tax price and quantity traded===
+
+This analysis builds on a previous analysis, namely [[effect of sales tax on market price and quantity traded]]. The conclusions of that analysis are that the introduction of a sales tax has the following general effects:
+
+* The pre-tax market price is ''lower'' than the market price in a world without the sales tax.
+* The post-tax market price is ''higher'' than the market price in a world without the sales tax.
+* The equilibrium quantity traded is ''lower'' than the equilibrium quantity traded in a world without the sales tax.
+
+===Identifying the old and new surpluses===
+
+[[File:Harbergertriangle.png|500px|right]]
+[[File:Harbergertriangle.png|500px|right]]
+[[File:Harbergertriangle.png|500px|right]]
+[[File:Harbergertriangle.png|500px|right]]
+[[File:Harbergertriangle.png|500px|right]]
+We list all the surpluses and what they mean:
+
+{| class="sortable" border="1"
+! Quantity !! Area that computes it !! In the figure
+|-
+| [[Producer surplus]] in a world without sales tax || The area bounded by the price axis, the supply curve, and the horizontal line at the price level (for the market price without the sales tax). In other words, this is the area between the supply curve and the price level. It aggregates the individual surpluses of all producers. || C + D + F
+|-
+| [[Consumer surplus]] in a world without sales tax || The area bounded by the price axis, the demand curve, and the horizontal line at the price level (for the market price without the sales tax). In other words, this is the area between the demand curve and the price level. It aggregates the individual surpluses of all consumer. || A + B + E
+|-
+| [[Government surplus]] in a world without sales tax || Zero || --
+|-
+| [[Economic surplus]] in a world without sales tax || The region bounded by the price axis, demand curve, and supply curve. || A + B + C + D + E + F
+|-
+| [[Producer surplus]] in a world with sales tax || The area bounded by the price axis, the supply curve, and the horizontal line at the price level (for the ''pre-tax'' market price in a world with sales tax). In other words, this is the area between the supply curve and the price level. It aggregates the individual surpluses of all producers. || D
+|-
+| [[Consumer surplus]] in a world with sales tax || The area bounded by the price axis, the demand curve, and the horizontal line at the price level (for the ''post-tax'' market price in a world with the price level). In other words, this is the area between the demand curve and the price level. It aggregates the individual surpluses of all consumers. || A
+|-
+| [[Government surplus]] in a world with sales tax || The area of the rectangle bounded by the horizontal lines for pre-tax and post-tax prices from below and above, by the price axis on the left, and by a vertical line for equilibrium quantity traded (''with'' the sales tax) on the right. || B + C
+|-
+| [[Economic surplus]] in a world with sales tax || The region bounded by the price axis, the demand curve, the vertical line for equilibrium quantity traded, and the supply curve. || A + B + C + D
+|-
+| [[Deadweight loss due to taxation]] || The area of the [[Harberger triangle]]. The sides of the triangle are the vertical line for equilibrium quantity traded ''with'' the sales tax, the supply curve, and the demand curve. || E + F
+|-
+| Portion of original producer surplus that is transfered to government surplus || The area of the rectangle bounded by the horizontal lines for pre-tax price from below, market price without sales tax from above, the price axis on the left, and a vertical line for equilibrium quantity traded (''with'' the sales tax) on the right. || C
+|-
+| Portion of original consumer surplus that is transfered to government surplus || The area of the rectangle bounded by the horizontal lines for market price without sales tax from below, post-tax price from above, the price axis on the left, and a vertical line for equilibrium quantity traded (''with'' the sales tax) on the right. || B
+|-
+| Portion of original producer surplus that is lost to deadweight loss || The area of the half-Harberger triangle: the sides are the vertical line for equilibrium quantity traded ''with'' the sales tax, the supply curve, and the horizontal line for market price ''without'' sales tax. || F
+|-
+| Portion of original consumer surplus that is lost to deadweight loss || The area of the half-Harberger triangle: the sides are the vertical line for equilibrium quantity traded ''with'' the sales tax, the demand curve, and the horizontal line for market price ''without'' sales tax. || E
+|}
+
+
+The upshot is that:
+
+Producer surplus in a world without sales tax [corresponds to C + D + F] = (Producer surplus in a world with sales tax [corresponds to D]) + (Part of government surplus whose incidence falls on the producers [corresponds to C]) + (Part of deadweight loss whose incidence falls on the producers [corresponds to F]) 
+
+and:
+
+Consumer surplus in a world without sales tax [corresponds to A + B + E] = (Consumer surplus in a world with sales tax [corresponds to A]) + (Part of government surplus whose incidence falls on the consumers [corresponds to B]) + (Part of deadweight loss whose incidence falls on the consumers [corresponds to E])
+
+Overall:
+
+Economic surplus in a world without sales tax [corresponds to A + B + C + D + E + F]= (Economic surplus in a world with sales tax [corresponds to A + B + C + D]) + (Deadweight loss due to taxation [corresponds to E + F])
+
+Note that this analysis ''includes'' government surplus in the economic surplus. The bad effect of taxation, as per this analysis, is the deadweight loss represented by the Harberger triangle.
+
+Note that this analysis is quite similar to that of [[effect of quantity ceiling on economic surplus]]. The deadweight loss is qualitatively similar in both cases. The key difference is that in the case of a quantity ceiling, there is no government surplus, but rather, the producer and consumer surplus (after taking away deadweight loss) get redistributed based on the bargaining powers of buyers and sellers.
+
+===Extreme case of elastic and inelastic supply and demand===
+
+We consider some extreme cases. The first row describes the standard case, and subsequent rows describe extreme cases:
+
+{| class="sortable" border="1"
+! Assumption for [[price-elasticity of demand]] !! Assumption for [[price-elasticity of supply]] !! Conclusion about consumer surplus relative to a world without sales tax !! Conclusion about producer surplus relative to a world without sales tax !! Conclusion about deadweight loss
+|-
+| negative (satisfies the [[law of demand]]) || positive (satisfies the [[law of supply]]) || falls, captured by both government surplus and deadweight loss || falls, captured by both government surplus and deadweight loss || positive
+|-
+| infinite, i.e., a horizontal demand curve (e.g., when the good has a perfect substitute) || positive (satisfies the [[law of supply]]) || it was zero to begin with, and stays zero || falls, captured by both government surplus and deadweight loss  || positive
+|-
+| zero, i.e., a vertical demand curve. We also say that the demand is perfectly price-inelastic || positive (satisfies the [[law of supply]]) ||falls, but it was infinite to begin with, remains infinite || stays the same || zero, because there is no decline in quantity traded
+|-
+| negative (satisfies the [[law of demand]]) || infinite, i.e., a horizontal supply curve, e.g., a [[constant cost industry]] || falls, captured by both government surplus and deadweight loss || it was zero to begin with, and stays zero || positive
+|-
+| negative (satisfies the [[law of demand]]) || zero, i.e., a vertical supply curve. We say that the supply is perfectly price-inelastic ||stays the same || falls || zero, because there is no decline in quantity traded
+|}
+
+===The question of tax incidence===
+
+The [[tax incidence]] question for any tax asks the question: how are the effects of the tax distributed among the various parties affected by the tax? The question is typically not just a question of who ''pays'' the tax, but rather a question of how a world with the tax differs from a world without the tax.
+
+When we talk of tax incidence, we could mean two related things. The first is simply the decline in producer surplus and consumer surplus that specifically goes to tax revenue, i.e., the part that is converted to government surplus. The second is the decline in producer surplus and consumer surplus ''overall'', including both the part that is converted to government surplus ''and'' the [[deadweight loss due to taxation]].
+
+The general rule is that tax incidence is borne by the side with lower price-elasticity. If demand is perfectly price-inelastic, then the entire burden of the tax is passed on to consumers. On the other hand, if supply is perfectly price-inelastic, then the entire burden of the tax is passed on to producers.
+
+===Effects of increasing and decreasing the tax rate on the economic surplus===
+
+In general, ''increasing'' the sales tax from an already positive amount to a higher amount has the following effects:
+
+* The pre-tax market price drops further
+* The post-tax market price rises further
+* The equilibrium quantity traded falls further
+
+As a result, the effects on surpluses are as follows:
+
+{| class="sortable" border="1"
+! Measure !! What happens to it? !! Conceptual explanation !! Pictorial explanation
+|-
+| [[Producer surplus]] || falls || both the equilibrium quantity traded and the pre-tax price fall, so producers are squeezed from both sides. || The triangle whose area measures producer surplus becomes strictly smaller.
+|-
+| [[Consumer surplus]] || falls || the equilibrium quantity traded falls and the post-tax price rises, so consumers are squeezed from both sides (they make fewer trades, and the surplus per trade falls). || The triangle whose area measures consumer surplus becomes strictly smaller.
+|-
+| [[Government surplus]] || ambiguous || two opposite effects: on the one hand, a higher sales tax means a larger difference between post-tax and pre-tax price (so a larger revenue per unit quantity traded). On the other hand, the quantity traded is lower. This is a sales tax analogue of the [[Laffer curve]] effect. || The vertical thickness (height) of the rectangle representing government surplus increases, while the horizontal length (the equilibrium quantity traded) falls. It is unclear which effect dominates.
+|-
+| [[Deadweight loss due to taxation]] || rises || the equilibrium quantity traded falls || the triangle whose area measures deadweight loss becomes strictly larger.
+|-
+| [[Economic surplus]] (includes producer surplus, consumer surplus, government surplus) || falls || follows from deadweight loss becoming larger || the area we are trying to measure becomes strictly smaller
+|}
+
+In other words, raising taxes has clear negative effects on ''everything'' except the government surplus (the tax revenue collected), where the effect is ambiguous.
+
+==Effects of sales tax on a single good in a monopolist-controlled market==
+
+The effect of a sales tax on producer surplus, consumer surplus, government surplus, and total economic surplus is similar to that in a competitive market. However, there are a few qualitative differences. A key difference is that in the monopolist-controlled market, producer surplus ''alone'' falls more than the total government surplus (i.e., tax revenue for the government). Intuitively, this is because the monopolist is already squeezing as much of the surplus as possible, so that any attempt to squeeze more hits directly at the monopolist's share.
+
+=== Consumer surplus goes down ===
+
+As discussed in [[effect of sales tax on market price and quantity traded]], post-tax price increases and quantity traded goes down when a sales tax is introduced in a monopolist-controlled market. Therefore, consumer surplus goes down. The decline in consumer surplus can be represented as the area bounded by the following four sides in the demand curve graph: the vertical axis, the horizontal lines for the original price and the final post-tax price, and the demand curve. This side of the picture matches that for a competitive market, and corresponds to the area B + E.
+
+This loss in consumer surplus is distributed between government surplus, deadweight loss, and producer surplus. Note that unlike the competitive market case, it ''is'' possible for the pre-tax price to go up as well, so that some of the loss in consumer surplus may be captured in producer surplus.
+
+=== Producer surplus goes down, and in fact (producer surplus + government surplus) stays the same or goes down ===
+
+In a world without taxes, the monopolist chooses a (price, quantity) pair to maximize producer surplus (i.e., profit). Therefore, we obtain that the (post-tax price, quantity) that the monopolist switches to after the tax is introduced, would yield less profit to the monopolist than the original price, ''before the government's share of the revenue is subtracted''. This profit can be broken down as a sum of the final profit seen by the seller, and the government surplus (tax revenue). Therefore, we get:
+
+Producer surplus (= profit) + Government surplus (= tax revenue) after introduction of a sales tax <math>\le</math> Producer surplus (= profit) without a sales tax
+
+Note that equality would occur only in the case that the (post-tax price, quantity) pair chosen after introducing the sales tax would be optimal even without a sales tax.
+
+=== Total economic surplus goes down ===
+
+We've already seen that consumer surplus goes down, and the sum of producer surplus and government surplus goes down. Summing up, we obtain that total economic surplus goes down.
+
+
+==Effects of sales tax meant to correct externalities==
+
+Sales taxes of this form are examples of [[Pigovian tax]]es. The analysis of these is somewhat different from the usual analysis. Roughly speaking, there is an optimal value for the Pigovian tax. A Pigovian tax at the optimal value maximized economic surplus. A higher Pigovian tax has the same type of effects as sales taxes in the non-Pigovian world do in general, and a lower Pigovian tax has the same type of effects as subsidies do in the non-Pigovian world in general.
+==Effects of sales tax that also affects complementary and substitute goods==
