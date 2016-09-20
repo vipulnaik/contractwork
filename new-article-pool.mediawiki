@@ -10,7 +10,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 === Research methods: recruitment, surveys, etc. ===
 
-* Food frequency questionnaire: $25-40: Explain what it is, historical examples, cautionary notes and best practices, results of common FFQs. You can start from these (not wikiformatted) notes, that somebody who started working on the article created: https://en.wikipedia.org/wiki/User:Vipul/Food_frequency_questionnaire
+* Food frequency questionnaire (reserved for Sergey): $25-40: Explain what it is, historical examples, cautionary notes and best practices, results of common FFQs. You can start from these (not wikiformatted) notes, that somebody who started working on the article created: https://en.wikipedia.org/wiki/User:Vipul/Food_frequency_questionnaire
 
 * Marlow-Crowne Social Desirability Scale (reserved for Setsen): $20-30: Already mentioned on the social desirability bias, but probably deserves a separate page, detailing the scale, plus discussing existing research on it and its psychometric properties.
 
@@ -79,8 +79,6 @@ Prices not yet determined. Contact to learn more, but generally at least $50 for
 Also, pages on state-level income tax returns. In general, prioritize the most populous states as listed at https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population#States_and_territories . However, note that some states already have their own taxation pages, so be sure to check for those beforehand. Please discuss with Issa or Vipul to get individual price quotes for individual states.
 
 === Immigration ===
-
-* Academic Training (reserved for Sergey): $150. This is the analogue for J-1 visas of Optional Practical Training. The full amount is available only if the page has comparable detail to the current page on Optional Practical Training. However, partial pay is possible for a reasonably good article.
 
 * W visa (reserved for Grigory): $125. A proposed new visa, part of various immigration reform proposals, that would be mostly a replacement for the existing H-2 visas. The high pay is mostly because understanding exactly what the proposals would do requires a deeper understanding of existing immigration law, and the politics of changing it. I'm happy to provide guidance to the person who works on this.
 
