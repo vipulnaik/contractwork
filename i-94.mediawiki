@@ -1,0 +1,58 @@
+'''Form I-94''', the '''Arrival-Departure Record Card''', is a form used by [[U.S. Customs and Border Protection]] (CBP) intended to keep track of the arrival and departure to/from the United States of people who are not United States citizens or lawful permanent residents (with the exception of those who are entering using the [[Visa Waiver Program]], using [[border crossing card]]s, re-entering via [[automatic visa revalidation]], or entering via parole(?)). Secondarily, it is used to determine the status and expiration date of the person's stay in the United States. While the form is usually issued by CBP at ports of entry or [[deferred inspection]] sites, USCIS can issue an equivalent as part of the Form I-797A approval notice for a [[Form I-129]] petition for an alien worker or a [[Form I-539]] application for extension of stay or change of status (in the case that the worker is already in the United States).<ref name=i797a-approval>{{cite web|url = http://www.h1bwiki.com/i-797a-i797b-i797c/|title = H-1B: Form I-797 Types – A, B and C|publisher = H1B Wiki|date = August 21, 2012|accessdate = July 8, 2016}}</ref>
+
+== Issuance for arriving aliens ==
+
+The responsibility of issuing Form I-94 is with the [[CBP Office of Field Operations]] (OFO), a subdivision of [[U.S. Customs and Border Protection]] (CBP), that processes entries and exits at ports of entry (land, sea, and air) as well as [[deferred inspection]] sites. Note that OFO is distinct from the [[United States Border Patrol]], whose responsibility is to patrol the rest of the border to monitor for unauthorized border-crossing.
+
+=== At a port of entry ===
+
+The most common place of issue of Form I-94 is at ports of entry, including airports, sea ports, and land ports. People with [[border crossing card]]s ...
+
+==== Paper-based procedure ====
+
+Blank copies of Form I-94 were distributed by carriers prior to landing. The Form is filled by the alien (known as the "applicant for admission") prior to landing, and then presented to an OFO officer at the port of entry. The OFO officer verifies the contents of the Form as well as the other documents of the applicant for admission (such as an entry visa, and underlying documents necessary for obtaining the visa, such as the [[I-20 (form)|I-20]] for students or the [[Form I-129|I-129]] for temporary workers)
+
+= Old =
+{{stack|
+[[File:I-94 form front.jpg|thumb|I-94, front]]
+[[File:I-94 form back.jpg|thumI-94, back]]
+}}
+
+An '''I-94''' is a form denoting the ''Arrival-Departure Record'' of particular aliens used by [[U.S. Customs and Border Protection]] (CBP). [[U.S. Citizenship and Immigration Services]] (USCIS) uses Form I-94 also. Form I-94 must be completed at the time of entry to the United States by foreign citizens that are being admitted into the United States in a nonimmigrant visa status.<ref name="fillingout">{{cite web|url=http://www.cbp.gov/xp/cgov/travel/id_visa/i-94_instructions/filling_out_i94.xml |title=Filling Out Arrival-Departure Record, CBP Form I-94, for Nonimmigrant Visitors with a Visa for the U.S.|publisher=[[U.S. Customs and Border Protection]]|date=2010-07-02|accessdate=2010-09-27}}</ref> While citizens of the countries in the [[Visa Waiver Program|U.S. Visa Waiver Program]] (VWP) list,<ref>{{cite web|url=http://www.travel.state.gov/visa/temp/without/without_1990.html|title=Visa Waiver Program (VWP)|publisher=[[U.S. Department of State|U.S. State Department]]|accessdate=2010-09-27}}</ref> who are entering the United States via an air or seaport for 90 days or less and who are not U.S. citizens or permanent residents are required to complete an I-94W ("Nonimmigrant Visa Waiver Arrival/Departure Form"), these visitors must now also obtain an [[Electronic System for Travel Authorization]] (ESTA) prior to traveling to the United States. The I-94W form requirement has been dropped during Summer 2010, after a transitional period, for VWP applicants.<ref name="esta">{{cite press release|url=http://www.dhs.gov/xnews/releases/pr_1231771555521.shtm|title=DHS Reminds Visa Waiver Program Travelers of ESTA Requirements Effective Today|publisher=[[Department of Homeland Security]]|date=2009-01-12|accessdate=2010-09-27}}</ref> <ref name="dropped">{{cite web|url=http://www.cbp.gov/xp/cgov/travel/id_visa/i-94_instructions/automated_processing.xml|title=Automated Processing for VWP Applicants}}</ref>
+
+A completed Form I-94 is presented by the foreign citizen at the port of entry to the United States to a CBP Officer, who stamps the form and gives the final approval for  admission of the alien into the United States in a specific nonimmigrant status for a specific authorized period.<ref>{{cite web|url=http://www.cbp.gov/xp/cgov/travel/id_visa/i-94_instructions/arrival_departure_record.xml|title=FAQs on the Arrival-Departure Record (I-94 Form) & Crewman Landing Permit (I-95 Form)|publisher=[[U.S. Customs and Border Protection]]|date=2008-12-31|accessdate=2010-09-27}}</ref>
+
+As a general rule, aliens who are not U.S. permanent residents<ref name="fillingout" /> departing the United States are required to surrender their Form I-94 when leaving the United States, so that their departure can be properly recorded by the CBP Officers (typically to the airline or ship representative, or into a deposit box in the terminal).  If the Departure Record portion is not surrendered then it may cause difficulties trying to re-enter the USA, as the systems used to track ingoing and outgoing visitors may show that the holder has overstayed, although this may be rectified.<ref>{{cite web|url=https://help.cbp.gov/app/answers/detail/a_id/752|title=How to record departure from the United States after the fact|publisher=[[U.S. Customs and Border Protection]]|date=2010-06-05|accessdate=2010-09-27}}</ref>
+
+When departing the United States for Canada or Mexico, for a trip of less than 30 days, it is not required to surrender the I-94 <ref>{{cite web|url=https://help.cbp.gov/app/answers/detail/a_id/751/kw/Forgot%20to%20turn%20in%20your%20I-94%20or%20I-94W%3F/sno/1|title=Traveling to other countries while in the U.S. on a B1 or B2 visa|publisher=[[USCIS]]|accessdate=2011-11-28}}</ref>  If the I-94 form is lost or stolen while the nonimmigrant is in the United States, a replacement form may be requested from [[USCIS]].<ref>{{cite web|url=http://www.uscis.gov/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=e5d95d4c6608e010VgnVCM1000000ecd190aRCRD&vgnextchannel=db029c7755cb9010VgnVCM10000045f3d6a1RCRD|title=Application for Replacement/Initial Nonimmigrant Arrival-Departure Document|publisher=[[USCIS]]|accessdate=2010-09-27}}</ref>
+
+While in the United States, non-immigrant visitors<ref>{{cite web|url=https://immigrationlawnj.com/10-mind-boggling-facts-non-immigrant-visa-denials/|title=Non Immigrant Visa Denials: 10 Mind Boggling Facts!|publisher=Harlan York|accessdate=2015-08-05}}</ref> may apply for a change of non-immigrant visa status from one category to another or for an extension of the previous non-immigrant status by filing form [[Form I-539]] with USCIS.<ref>{{cite 
+Nonimmigrant Status|publisher=[[USCIS]]|accessdate=2010-09-27}}</ref> Upon approving such application, USCIS issues an approval notice, the bottom portion of which is a new Form I-94 for the non-immigrant, reflecting that visitor's new or extended non-immigrant visa status and also showing a new authorization period for that status.
+
+The I-94 paper form is no longer issued for international visitors arriving by sea or by air. Instead, arrival and departure information is gathered electronically from carriers. This system shift went into effect at five airports (Charlotte, Chicago, Las Vegas, Miami, and Orlando) on April 30, 2013, and progressively introduced at other major ports of entry during the following three weeks until it went nationwide.<ref>http://www.cbp.gov/xp/cgov/travel/id_visa/i-94_instructions/i94_rollout.xml</ref> Customs and Border Protection launched a new webpage on May 1, 2014, that offers nonimmigrant U.S. visitors access to their I-94 arrival/departure record and their arrival/departure history. The CBP webpage allows nonimmigrant travelers to access arrival/departure records going back five years from the request date. This electronic travel-history function means that travelers may no longer need to file Freedom of Information Act requests to receive their arrival/departure history, greatly speeding their process. Travelers will have electronic access to the date and port of entry of their arrivals and departures.
+<ref>http://www.cbp.gov/newsroom/spotlights/2014-04-30-000000/arrivaldeparture-history-now-available-i-94-webpage</ref>
+
+==See also==
+*[[Form I-539]]
+*[[Electronic System for Travel Authorization]]
+*[[Visa Waiver Program]]
+*[[Automatic visa revalidation]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.cbp.gov/xp/cgov/travel/id_visa/i-94_instructions/ U.S. Customs and Border Protection: I-94 Instructions]
+*[http://www.cbp.gov/xp/cgov/travel/id_visa/i-94_instructions/filling_out_i94.xml U.S. Customs and Border Protection: Filling Out Form I-94]
+*[http://www.cbp.gov/xp/cgov/travel/id_visa/i-94_instructions/arrival_departure_record.xml U.S. Customs and Border Protection: FAQs on the Arrival-Departure Record (I-94 Form) & Crewman Landing Permit (I-95 Form)]
+*[http://www.dhs.gov/xnews/releases/pr_1231771555521.shtm "DHS Reminds Visa Waiver Program Travelers of ESTA Requirements Effective Today"], [[United States Department of Homeland Security]], Office of the Press Secretary, January 12, 2009
+*[http://answers.usa.gov/cgi-bin/gsa_ict.cfg/php/enduser/std_adp.php?p_faqid=6093 "Travel: Arrival-Departure Record"]
+*[https://help.cbp.gov/app/answers/detail/a_id/752 "How to record departure from the United States after the fact"]
+*[http://www.cbp.gov/xp/cgov/travel/id_visa/i-94_instructions/i94_rollout.xml Announcement from CBP of the new Paperless I-94 and the enforcing airports and ports' schedule]
+*[http://www.cbp.gov/linkhandler/cgov/newsroom/fact_sheets/travel/i94_factsheet.ctt/i94_factsheet.pdf Description, Fact Sheet and Q&A of new paperless I-94 Form]
+*[http://www.natlawreview.com/article/new-immigration-i-94-arrivaldeparture-record-card-automation New Immigration I-94 Arrival/Departure Record Card Automation Summary and Best Practices]
+*[https://i94.cbp.dhs.gov/I94/request.html;jsessionid=569vSppZrLNstmjn1yJCpQbgz4mzDTCc6GDh1HNw1h91prQS60HH!-1737567978 U.S. I-94 Admission Number Retrieval]
+
+
+[[Category:United States government forms|I-094]]
+[[Category:United States Department of Homeland Security|I-094]]
