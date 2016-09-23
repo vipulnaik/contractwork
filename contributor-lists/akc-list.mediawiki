@@ -162,6 +162,10 @@ Alex K. Chen was not paid before 2015. However, articles he had created before 2
 
 In addition to these, please feel free to pick from the unreserved pages at [https://github.com/vipulnaik/working-drafts/blob/master/new-article-pool.mediawiki https://github.com/vipulnaik/working-drafts/blob/master/new-article-pool.mediawiki]. However, if picking from the larger list, please check with Vipul in advance AND make sure he marks it as reserved so that the same article is not given to another editor.
 
+=== People ===
+
+* Michael Seibel of Y Combinator: $75 for a high-quality page, $50 for something decent.
+
 === Technology ===
 
 * Facebook Live: Facebook's live-streaming platform. $90

@@ -1,0 +1,25 @@
+This guide covers the basics of online survey design, response collection, and analysis. It's not a how-to for the steps associated with any specific survey tool. Rather, it provides a general framework that will help select and use the best survey creation and survey distribution tools for your purpose.
+
+== Steps ==
+
+=== Understanding the Overall Steps ===
+
+# Keep in mind the three main steps of using online surveys.
+#* Survey design: This means creating the survey. It includes the selection of questions, selection of question order, selection of answer formats (e.g., free-form versus multiple-choice), and selection of design logic.
+#* Response collection: This means getting people to respond to the survey. When the total audience that you are trying to reach is small and responsive, this step is simple: you just ask them to fill in the survey. If, however, you want to get information about a large population that can't easily be reached, you'll need to find ways to properly ''sample'' from that large audience.
+#* Data analysis: This involves looking at the survey responses and figuring out the answers to the questions that motivated you to make the survey in the first place.
+# Keep in mind the dependencies between the selection of tools for these purposes.
+#* In ''principle'', the steps are independent: you could use one tool for survey design, another tool for response collection, and a third tool for data analysis. In practice, there are limitations that they place on each other.
+#* Some survey collection tools ''require'' the survey to be hosted on the associated survey design platform. For instance, if using Google Consumer Surveys for response collection, you have to host the survey on Google Consumer Surveys. Similarly, if using SurveyMonkey Audience for response collection, you have to host the survey on SurveyMonkey. On the other hand, you can use Amazon Mechanical Turk to get responses to surveys hosted elsewhere: you just have to tell the Mechanical Turk participants to go to the survey link.
+#* Conversely, some survey design tools only allow for response collection through the associated response collection tool. For instance, if you design a survey in Google Consumer Surveys, you can only direct responses to it through Google Consumer Surveys. On the other hand, surveys designed using SurveyMonkey can be distributed both through SurveyMonkey Audience and to your own selected audiences through the sharing of web links (with multiple collectors possible on a single survey).
+#* Survey analysis can usually be done on the survey design platform itself. Many survey design platforms offer the option of exporting the survey results in formats such as the computer-friendly CSV format. You can process these exports through your own data analysis tools. However, the latter might require the expertise of a data scientist. Thus, much of your analysis of survey results is likely to be on the survey design platform itself.
+
+=== Selecting a Survey Design Tool ===
+
+# Keep in mind the different functionalities offered by a survey design tool.
+#* A survey design tool makes it easier for you to construct survey questions. Rather than write code to describe all the logic, you can select from pre-existing options. Some survey design questions also provide intelligent guidance on how to make your survey questions more statistically reliable.
+#* The survey design tool also generally ''hosts'' the survey, and stores both the actual survey and all response information to the survey.
+#* The survey design tool might have associated response collection tools (for instance, survey design tool SurveyMonkey has associated response collection tool SurveyMonkey Audience). Alternatively, it might simply allow you to generate a weblink that you can circulate to the desired survey audience.
+#* The survey design tool provides some rudimentary online analysis of the survey results, and also allows you to download and export the responses. Typical download formats include comma-separated values (CSV), Microsoft Excel (XLS or XLSX), and Portable Document Format (PDF).
+#* It is possible to imagine in principle that the actual question design part and the hosting part are completely separate: you can design a survey in one tool and then host it and collect responses on a different tool. However, in practice, most of the leading survey design tools combine both functions. Part of the reason is that online surveys involve reasonably complex web logic for which there is no global standard specification, and each tool differs somewhat in the capabilities it supports. So, you cannot upload a survey from one tool to another.
+# Keep in mind the following limitations placed 
