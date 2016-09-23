@@ -1,0 +1,4 @@
+# To view commits across multiple repos together in reverse chronological order
+
+git log --pretty=format:"%ad %h %an %s" --date=iso-strict
+
