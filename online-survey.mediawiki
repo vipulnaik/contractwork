@@ -43,3 +43,7 @@ This guide covers the basics of online survey design, response collection, and a
 
 # For any individual question, choose carefully whether you'd like to use a closed-ended format (such as multiple-choice) or open-ended format.
 #* 
+
+== References ==
+
+<references/>
