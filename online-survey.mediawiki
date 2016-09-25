@@ -92,7 +92,7 @@ This guide covers the basics of online survey design, response collection, and a
 
 # Keep in mind the following broad criteria when thinking of "paid audience" tools. A paid audience tool allows you to buy survey respondents at a fixed price per respondent. The price can vary based on the length of your survey as well as the targeting criteria and disqualifying or screening questions you use for respondents.
 #* Cost, including cost per respondent and minimum spend requirements. Also, its interaction with the other features discussed below.
-#* The overall geographical reach. SurveyMonkey Audience is active only in the United States, Australia, and the United Kingdom, with costs lowest in the United States. Google Consumer Surveys is active only in the United States, Canada, and the United Kingdom. If you are interested in surveying people from a different country, you cannot use either of these tools!
+#* The overall geographical reach. SurveyMonkey Audience is active only in the United States, Australia, and the United Kingdom, with costs lowest in the United States. Google Consumer Surveys is active only in the United States, Canada, and the United Kingdom. Survata is actively only in the United States, Australia, Canada, and the United Kingdom. If you are interested in surveying people from a different country, you cannot use any of these tools.
 #* The availability of targeting options, and how minimum cost and cost per respondent vary based on that. Targeting options and disqualifying questions allow you to have your survey responses come only from a segment of the population you care about.
 #* The maximum number of questions you can have in the survey, and how minimum cost and cost per respondent vary based on number of questions.
 #* The extent to which your survey respondents are a representative sample of your target audience. For instance, if you are trying to survey male Internet users aged 18 to 24 in the United States, how well do the users your survey reaches out to represent the population? Reliability is highest in cases where the audience explicitly enters the information (not necessarily on a per survey basis; some paid audience arrangements require respondents to enter their information once so that they can participate regularly). Others rely on anonymous web-tracking cookies and are less reliable on a per-user basis (though might still be reasonably reliable when averaged out across many users).
@@ -129,10 +129,10 @@ This guide covers the basics of online survey design, response collection, and a
 #* Advantage: Survata offers free professional advice on survey design prior to launching the survey.
 #* Mixed: The minimum cost per completed survey is $1. There is no equivalent of Google Consumer Surveys' 10 cent option.
 #* Disadvantage: Survata limits surveys to six questions.
-# If you are outside the United States, check for the available survey tools for your country.
-#* For the United Kingdom, you can use both SurveyMonkey Audience and Google Consumer Surveys.
-#* For Canada, you can use Google Consumer Surveys.
-#* For Australia, you can use SurveyMonkey Audience.
+# If you are outside the United States, check for the available survey tools for your country. The main countries other than the United States for which standard survey tools offer options are Australia, Canada, and the United Kingdom. Moreover, costs per respondents are usually double of those in the United States (or more), and not all targeting options may be available.
+#* For the United Kingdom, you can use SurveyMonkey Audience, Google Consumer Surveys, or Survata.
+#* For Canada, you can use Google Consumer Surveys or Survata.
+#* For Australia, you can use SurveyMonkey Audience or Survata.
 #* Survata allowed you to target 17 countries in May 2015.
 #* In India, two solutions you might be able to use are getinsights.co and pollfish.com.<ref>[https://www.quora.com/How-do-I-get-1000-quality-users-to-do-my-online-survey-in-India How do I get 1000 quality users to do my online survey in India?], Quora</ref>
 
