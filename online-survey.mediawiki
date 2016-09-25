@@ -101,7 +101,7 @@ This guide covers the basics of online survey design, response collection, and a
 #* Your ability to edit the survey once it is live. SurveyMonkey offers this. Google Consumer Surveys and Survata do not, but they instead offer their own free human review before you launch the survey.
 #* The speed of response: Most paid audience solutions offer to fill responses within a week. However, their speed in practice can differ widely.
 # Keep in mind the following advantages and disadvantages of SurveyMonkey Audience.
-#* Respondents come through SurveyMonkey Contribute. They are not monetarily compensated, but money is donated on their behalf to a charity of their choice.<ref>[http://help.surveymonkey.com/articles/en_US/kb/SurveyMonkey-Contribute SurveyMonkey Contribute], SurveyMonkey</ref> SurveyMonkey claims that this doesn't bias respondents to be more charitable, by comparing data on their respondents with Pew's averages for US and for the Internet.<ref>[https://www.surveymonkey.com/wp-content/uploads/2014/09/Audience-Charity-Bias-Whitepaper.pdf Charitable Bias Report], SurveyMonkey, September 2014</ref>
+#* Respondents come through SurveyMonkey Contribute. They are not monetarily compensated, but money is donated on their behalf to a charity of their choice.<ref>[http://help.surveymonkey.com/articles/en_US/kb/SurveyMonkey-Contribute SurveyMonkey Contribute], SurveyMonkey</ref> SurveyMonkey claims that this doesn't bias respondents to be more charitable, by comparing data on their respondents with Pew's averages for US and for the Internet.<ref>[https://www.surveymonkey.com/wp-content/uploads/2014/09/Audience-Charity-Bias-Whitepaper.pdf Charitable Bias Report], SurveyMonkey, September 2014</ref> Another thing to keep in mind is that SurveyMonkey Contribute encourages "Survey addicts" by encouraging people to keep taking survey after survey while on the site.
 #* To get a better sense of what it's like to be on the other side of the equation, you can sign up for SurveyMonkey Contribute and take a few surveys. You can generally take surveys in quick succession by clicking on the option to take a survey on the website.
 #* Advantage: It is part of SurveyMonkey, which offers many other survey tools and allows you to distribute surveys through weblinks. You can also circulate the same survey among different SurveyMonkey Audience audiences, and perform analysis of the results together.
 #* Advantage: You can edit surveys ''after'' you have launched them with SurveyMonkey Audience, allowing you to fix any errors you discover based on the first few responses.
@@ -124,6 +124,17 @@ This guide covers the basics of online survey design, response collection, and a
 #* Disadvantage: You cannot edit the survey after it is submitted and active, nor can you cancel your payment. Professional review partly ameliorates the issue.
 #* Disadvantage: Demographic information is inferred from the third-party DoubleClick cookie, so it is often inaccurate. For most users, this is not vetted by the user. However, users ''can'' edit the automatically inferred information and connect the information with the information they have entered in their Google accounts.<ref name=google-ad-settings>[https://www.google.com/settings/u/0/ads/authenticated?hl=en Ads Personalization], Google</ref>
 #* Disadvantage: Responses are slower to arrive than with SurveyMonkey, taking 2 or 3 days to finish. The rate at which your survey is circulated depends on the total number of responses you buy. To get 50 responses in an hour, you may need to buy 1000 responses. Also, updates are done in batches: rather than seeing each response arrive in real time you will see updates every hour or so to your counts. Note that since you can't edit the survey anyway, this may not be a big deal.
+# Keep in mind the following advantages and disadvantages of Survata.
+#* Survata connects with publishers such as Doodle and HyperInk to find respondents. It limits the number of surveys a given respondent needs to fill, in order to tackle the problem of survey addicts. It puts in more effort to ensure representativeness and seriousness (for instance, by evaluating respondents through trap questions, and evaluating publisher representativeness by periodically running surveys with known frequencies of answers). But it also places more restrictions on the survey design.
+#* Advantage: Survata offers free professional advice on survey design prior to launching the survey.
+#* Mixed: The minimum cost per completed survey is $1. There is no equivalent of Google Consumer Surveys' 10 cent option.
+#* Disadvantage: Survata limits surveys to six questions.
+# If you are outside the United States, check for the available survey tools for your country.
+#* For the United Kingdom, you can use both SurveyMonkey Audience and Google Consumer Surveys.
+#* For Canada, you can use Google Consumer Surveys.
+#* For Australia, you can use SurveyMonkey Audience.
+#* Survata allowed you to target 17 countries in May 2015.
+#* In India, two solutions you might be able to use are getinsights.co and pollfish.com.<ref>[https://www.quora.com/How-do-I-get-1000-quality-users-to-do-my-online-survey-in-India How do I get 1000 quality users to do my online survey in India?], Quora</ref>
 
 == References ==
 
