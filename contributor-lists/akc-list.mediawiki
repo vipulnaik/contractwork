@@ -42,10 +42,9 @@ put in his own candidate by the end of Tuesday and AKC needs to finish
 that.
 
 At the end of each Sunday, AKC should have completed a total of at
-least (number of weeks so far - 4) bounties. The "-4" is to account
-for the fact that AKC expected January off. The "number of weeks so
-far" is measured starting January 4, i.e., the end of January 10 marks
-the end of the first week.
+least (number of weeks so far - 8) bounties. The "-8" is to account
+for the fact that AKC expected January off, as well as extra time
+spent by him improving an existing set of timeline pages.
 
 AKC can do multiple bounties a week, thereby building a surplus of
 bounties completed, allowing him to take more time off later in the
@@ -82,16 +81,17 @@ Maximum acceptable delay: 4 weeks
 * Start by July 1, end by July 3 (delayed): Timeline of Nordstrom
 * Start by July 8, end by July 10 (delayed 3 weeks): Timeline of online video
 * Start by July 15, end by July 17 (delayed 23 days): Timeline of Valve Corporation
+* Start by July 22, end by July 24 (delayed 9 weeks, to September 25): Michael Seibel
 
 (more weeks, months to be added).
 
 == Work and total money due ==
 
-Total due: $2171.50
+Total due: $2421.50
 
 === Completed pages ===
 
-Total so far: $2161
+Total so far: $2211
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -121,6 +121,11 @@ Total so far: $2161
 * Timeline of Nordstrom: $75 ($50 for the page, $25 for getting started on clothing)
 * Timeline of online video: $175
 * Timeline of Valve Corporation: $75
+* Michael Seibel: $50
+
+=== Other work ===
+
+General work improving timelines: $200
 
 === Commissions on recruits ===
 
