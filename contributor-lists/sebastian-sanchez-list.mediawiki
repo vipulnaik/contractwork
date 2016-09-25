@@ -16,17 +16,17 @@ Additional notes: Based in Argentina
 
 === Summary ===
 
-Total money earned as income: $2495
+Total money earned as income: $2655
 
 Payment made: $2680
 
-Net payment due: ($185)
+Net payment due: ($25)
 
 Note: Sebastian started work in April and took a break in June.
 
 == Completed pages ==
 
-Total: $2490
+Total: $2650
 
 * Dolor en los animales (Spanish translation of Pain in animals): $100. Published April 21, 2016
 
@@ -83,6 +83,8 @@ Total: $2490
 * Timeline of pancreatic cancer: $60. Published September 18, 2016.
 
 * Timeline of cervical cancer: $45. Published September 19, 2016.
+
+* Timeline of hospitals: $160. Published September 25, 2016.
 
 == Additions to existing pages, beyond those already covered in completed pages section ==
 
