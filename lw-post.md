@@ -217,6 +217,19 @@ And the actual questions:
 
 4. Recall a time when you were surprised that a topic did not have a Wikipedia page. What were some of these topics?
 
+# Survey questions for the third survey (Google Consumer Surveys)
+
+This survey had exactly one question. The wording of the question was exactly the same as that of the first question of the second survey.
+
+1. How many distinct Wikipedia pages do you read (at least one sentence of) per week on average?
+
+    - Fewer than 1
+    - 1 to 10
+    - 11 to 25
+    - 26 or more
+
+One slight difference was that whereas in the second survey, the order of the options was fixed, the third survey did a 50/50 split between that order and the exact reverse order. Such splitting is a best practice to deal with any order-related biases, while still preserving the logical order of the options. You can read more on the [http://www.pewresearch.org/methodology/u-s-survey-research/questionnaire-design/](questionnaire design page of the Pew Research Center).
+
 # Results
 
 In this section we present the highlights from each of the survey questions.
@@ -473,18 +486,7 @@ As with the previous question, the most common response was along the lines of "
 
 The most useful responses were classes of things: "particular words", "French plays/books", "Random people", "obscure people", "Specific list pages of movie genres", "Foreign actors", "various insect pages", and so forth.
 
-## S3 (Google Consumer Surveys)
-
-This survey had exactly one question. The wording of the question was exactly the same as that of S2Q1.
-
-1. How many distinct Wikipedia pages do you read (at least one sentence of) per week on average?
-
-    - Fewer than 1
-    - 1 to 10
-    - 11 to 25
-    - 26 or more
-
-One slight difference was that whereas in S2Q1, the order of the options was fixed, S3Q1 did a 50/50 split between that order and the exact reverse order. Such splitting is a best practice to deal with any order-related biases, while still preserving the logical order of the options.
+## S3Q1 (Google Consumer Surveys)
 
 The survey was circulated to a target size of 500 in the United States (no demographic filters), and received 501 responses.
 
@@ -516,7 +518,7 @@ GCS $75-99K (N = 37)             43%       35%         11%           11%
 GCS $100-149K (N = 11)            9%       64%         18%            9%
 GCS $150K+ (N = 4)               25%       75%          0%            0%
 
-We can see that the overall GCS data vindicates the broad conclusions we drew from SurveyMonkey data. Moreover, most GCS segments with a sufficiently large number of responses (50 or more) display a similar trend as the overall data. One exception is that younger audiences seem to be slightly less likely to use Wikipedia very little, and older audiences seem slightly more likely.
+We can see that the overall GCS data vindicates the broad conclusions we drew from SurveyMonkey data. Moreover, most GCS segments with a sufficiently large number of responses (50 or more) display a similar trend as the overall data. One exception is that younger audiences seem to be slightly less likely to use Wikipedia very little (i.e., fall in the "Fewer than 1" category), and older audiences seem slightly more likely to use Wikipedia very little.
 
 # Summaries of responses (exports for SurveyMonkey, weblink for Google Consumer Surveys)
 
