@@ -20,11 +20,11 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $475.90
+Grand total (this is taxable income for tax year 2016): $501.40
 
 Payment made: $355.90
 
-Net payment due: $120
+Net payment due: $145.50
 
 === Completed pages ===
 
@@ -58,17 +58,21 @@ Total so far: $10
 
 * Filing Information Returns Electronically: Abandoned after initial effort as page seems not too important; $5
 
+=== Non-Wikipedia work ===
+
+* Getting Wikipedia survey responses (41 in number): $20.50
+
 === Commissions on recruits ===
 
-List updated August 29, 2016. May not be kept up-to-date continuously.
+List updated September 30, 2016. May not be kept up-to-date continuously.
 
-Total: $96.90
+Total: $101.90
 
 * Amy Zhang: Commission of 15% on $80 = $12
 
 * Avi Glozman: Commission of 10% on $416 = $41.60
 
-* Chris Kunin: Commission of 10% on $177 = $17.70
+* Chris Kunin: Commission of 10% on $227 = $22.70
 
 * Eddy Su: Commission of 10% on $71 = $7.10
 
