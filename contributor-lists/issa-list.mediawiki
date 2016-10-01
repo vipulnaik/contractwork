@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $4779.70
+Total money earned by doing work (taxable as income for 2016): $4801.70
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044
 
-Net payment due: ($78.77)
+Net payment due: ($46.77)
 
 === Completed pages ===
 
@@ -83,7 +83,7 @@ Form 1040, though published on January 1, 2016 is counted in 2015 since the bulk
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1268
+Total so far: $1300
 
 * stats.grok.se Wikimedia API fix: $80
 
@@ -141,7 +141,9 @@ Total so far: $1268
 
 * Grants table added for the GAVI Alliance: $15. Completed September 6, 2016.
 
-* Monthly update of Open Phil and GV grants database: $50 (for adding 8 new grants to Open Phil and 12 new grants on Good Ventures)
+* Monthly update of Open Phil and GV grants database: $50 (for adding 8 new grants to Open Phil and 12 new grants on Good Ventures). Completed September 29, 2016.
+
+* Sprucing up of Google Consumer Surveys: $32. Completed September 30, 2016.
 
 === Touch payments ===
 
@@ -177,7 +179,7 @@ Total: $168.70
 
 === Monthly payments ===
 
-Total so far: $990
+Total so far: $1240
 
 * May: $300
 
