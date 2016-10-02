@@ -46,9 +46,9 @@ Total money earned by doing work (taxable as income for 2016): $4801.70
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
-Payment made: $5044
+Payment made: $5044 (+ $4000 pending)
 
-Net payment due: ($46.77)
+Net payment due: ($46.77) (excluding pending payment)
 
 === Completed pages ===
 
@@ -201,11 +201,13 @@ Total so far: $185.53
 
 === Payment schedule ===
 
-Total payment received for 2016: $5044
+Total payment received for 2016: $5044 (+ $4000 pending)
 
 * PayPal payments made starting January and till April 22, 2016: $1044
 
 * Check dated May 14, 2016, successfully deposited and debited May 23, 2016: $4000
+
+* Check dated and sent October 1, 2016: $4000
 
 == Work in 2015 ==
 
