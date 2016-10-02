@@ -98,11 +98,11 @@ Total: $5
 
 === Payment schedule ===
 
-Total payment amount received: $2640
+Total payment amount received: $2640 (+ $661 pending)
 
-Total transaction cost $40 (5 transactions, $8 each)
+Total transaction cost $40 (5 transactions, $8 each) + $8 (one pending transaction)
 
-Total money: $2680
+Total money: $2680 (+ $669 pending)
 
 Each payment had a transaction fee of $8. Thus, the total amount we consider paid is the total of the payment amounts + ($8 * number of payments).
 
@@ -111,3 +111,5 @@ Each payment had a transaction fee of $8. Thus, the total amount we consider pai
 * Fourth payment, quantity $670, was initiated on July 23, 2016 (Saturday) and completed on July 25, 2016 (Monday).
 
 * Fifth payment of $670 was initiated on August 20, 2016 (Saturday) and completed on August 22, 2016 (Monday).
+
+* Sixth payment of $661 was initiated on October 1, 2016 (Saturday) and should be completed on October 3, 2016 (Monday).
