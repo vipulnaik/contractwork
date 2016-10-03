@@ -1,0 +1,32 @@
+Hi Holden,
+
+Thanks for the illuminative post. I have several questions.
+
+(1) You mention that some grants won't make it to your public database. It seems to be that the omissions could end up being greater in more controversial areas (such as animal welfare and AI risk). As a result, somebody looking at your grants database to get a sense for how you prioritize different focus areas may end up with a distorted view of your overall priorities, because the % public of your grant amounts differs by focus area. What are your thoughts on including total grant amounts by focus area (including non-public grants)?
+
+(2) I find your framing here puzzling:
+
+"We’ve taken on projects with increasingly complex and resource-intensive-to-explain justifications, which has both raised the costs of information sharing and lowered the benefits. Since we’re not able to make the full case for our thinking to a general audience, we see few helpful reactions and criticisms via this channel, and we rely on the communities with the most knowledge of our issues - rather than our general audience - for most critical feedback."
+
+I agree with Jeff's analogy with open source code a relevant criticism here. I wanted to add a little perspective of my own and some numbers.
+
+(a) The total money pool that Open Phil needs to give away is north of 5 billion (and close to 10 billion?)
+
+(b) Open Phil has made grants of over $27 million in 2016 alone (and over $44 million in total, excluding GiveWell-related grants).
+
+(c) Open Phil has 22 people on its team excluding GiveWell staff who help with Open Phil.
+
+(d) Open Phil spent over $100,000 on its website (half the costs were covered by a grant from Good Ventures).
+
+(e) An example of a resource-intensive explanation cited by Holden is the two blog posts on risks from AI, which cost (a little?) over 70 hours of Holden's time (so about $7,000 at his salary). For context, Open Phil has granted $7.5 million potential risks from advanced API, most of it in 2016.
+
+I get the picture that Open Phil has lots of resources ((a)), is willing to spend them and is nowhere near running out ((b)), is spending a lot on staff and on the website but still negligible relative to grants ((c) and (d)), and spends substantially less on explaining its research publicly than it spent on either staff or the website ((e)). I can't see from this picture how public explanations even resemble anything like a constraining bottleneck on anything else. From this I infer that the main reason you're not engaging in them isn't the resource costs but rather your point that you "see few helpful reactions and criticisms via this channel".
+
+I find that interesting but I do wonder about the extent to which this is a self-fulfilling prophecy. Public outreach requires a lot of effort, and often the rewards aren't immediate. If you're skeptical to begin with, and don't put in a lot of effort into it, that will feed into confirmation bias that a "general audience" is not "helpful". Overall, I find this an elitist framing of your unwillingness and/or inability to communicate that deflects the blame toward an amorphous, allegedly less-sophisticated, general audience.
+
+To be more concrete, the distinction "communities with the most knowledge of our issues - rather than our general audience" seems artificial. A general audience is just a union of communities with a lot of knowledge about issues, plus a lot of other people who might have a little bit of knowledge about issues (and some who may know nothing, or know things that ain't so). It's not clear to me why "communities with the most knowledge of the issue" wouldn't be willing to engage with you as members of a general audience rather than through their status as community members. I see discussions of Open Phil grants scattered across Facebook posts all over the place (decentralized and hard-to-track because your grant pages don't allow comments). Many of the people commenting are part of the communities you reference, but many of the comments are public, and visible to others outside these communities. Unfortunately, it's hard for people who just arrive at the Open Phil website to access all that commentary since it's scattered. My point is that the issue isn't lack of enthusiasm from people to comment on your grants, but your decision not to attract those comments in a canonical location on the Open Phil site.
+
+(3) Circling back to Jeff's analogy: When projects make their code open source, this can be used by malicious agents to find weaknesses in the code. However, they mostly believe that the beneficial effects outweigh these risks, e.g., by maintaining full transparency, bugs can be detected by good actors and bug fixes can be submitted by anybody interested in contributing. If, as the *Open* Philanthropy Project (i.e., one that prides itself on openness) you view the dangers from full code transparency as high enough to outweight benefits, that seems like a pretty damning indictment by you of those who might follow your work.
+
+
+
