@@ -26,7 +26,7 @@ TODO:
 
 - Other access restrictions
 
-== First upgrade run on Fruday June 24, 7 PM Pacific Time ==
+== First upgrade run on Friday June 24, 7 PM Pacific Time ==
 
 * Obtained Linode 12288: 12 GB RAM, 6 cores, 8 TB transfer, 192 GB SSD
 

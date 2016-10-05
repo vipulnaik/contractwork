@@ -2,6 +2,18 @@ This guide covers the basics of online survey design, response collection, and a
 
 == Steps ==
 
+=== Identifying Your Goals for the Survey ===
+
+# Think through the goals you want to accomplish with the survey. Some examples of goals are below. Note that these aren't totally separate from each other:
+#* Getting actionable feedback. This is one of the typical goals of surveys of customers by businesses. The business wants to know what particular things the customer liked or disliked about the product or service, so that it can invest better in resources. Similarly, actionable feedback might be a goal of a teacher surveying students.
+#* Getting information on who prefers what, from a constrained set of options. Surveys that involve single questions asking people to choose between options are called "polls". Polls may be used to drive decisions on what option to select (for instance, selecting a time or venue for a meeting) or as proxies for other, more official polls (such as pre-election polling, that is used to forecast the winner and victory margins in official elections).
+#* Getting information on brand awareness, recognition, etc.
+#* Getting correlational information. For instance, are males more likely to be interested in a product than females? Do people who love watching sports games online also like endorsements by sports stars, compared to people who prefer to watch them on TV?
+# Keep in mind the following heuristics for how your specific goals should color how you process the rest of this guide.
+#* If you're mainly interested in qualitative feedback, some of the guidelines on statistical reliability are less important. Your main goal is just to get more feedback and get people to feel free to express them more, not to make sure that the set of responses you receive is representative of your entire audience.
+#* If you are interested in conducting a single-question poll, you should focus on the design guidelines around a single question, and also on making sure your survey is distributed to your whole audience or a representative sample. You can ignore much of the other advice here.
+
+
 === Understanding the Overall Steps ===
 
 # Keep in mind the three main steps of using online surveys.
@@ -48,6 +60,7 @@ This guide covers the basics of online survey design, response collection, and a
 #** Google Consumer Surveys as a survey design tool is tied to Google Consumer Surveys as a response collection tool: to use one you have to use the other. Therefore, you should use this for design only if you are okay with using it to get responses. In particular, don't use this to survey you own friends or people in a small audience of yours.
 #** It makes sense for short surveys, and is most ideal for single-question surveys.
 #* Survata is a survey design tool with a similar model as Google Consumer Surveys: it is tied to its own distribution mechanism for the surveys. The advantages and disadvantages of Survata are discussed more in the section of choosing a response collection tool.<ref name=survata-v-gcs-dunrie>[http://scientificink.com/online-consumer-survey-comparison/ Online Consumer Survey Comparison: Survata vs. Google Consumer Surveys], Dunrie, Scientific Link, September 10, 2014 (note that some of the limitations and cost information are outdated)</ref><ref name=survata-v-gcs-mmr>[http://mmrstrategy.com/comparing-online-consumer-surveys-survata-vs-google-consumer-surveys Comparing Online Consumer Surveys: Survata vs Google Consumer Surveys], Dominique Romanowski, MMR Strategy Group, August 29, 2012 (note that some of the limitations and cost information are outdated)</ref>
+#* PollDaddy is a survey tool made by the creators of WordPress, and is ideal for single-question poll surveys to embed on a website or blog post.<ref>[https://512citydesigner.wordpress.com/2013/06/17/surveymonkey-vs-polldaddy/ SurveyMonkey vs. Polldaddy], 512citydesigner, June 17, 2013</ref>
 #* Facebook Polls is a survey design tool for creating surveys on Facebook. These can be circulated through Facebook the way Facebook posts usually circulate (with the circulation limited by the privacy settings of the poll and/or the group or page it was posted in). In addition, you can link to the poll from elsewhere to invite others to participate in it.<ref>[https://apps.facebook.com/my-polls Facebook Polls], retrieved September 24, 2016</ref><ref>[https://www.track5media.com/impromptu-market-research-google-consumer-surveys-and-facebook-polls/ Impromptu Market Research: Google Consumer Surveys and Facebook Polls], Ekom Ekyong, Track 5 Media, March 4, 2016</ref> Facebook Polls are ideal for single-question, multiple-choice surveys where your target audience is a defined audience that Facebook can reach. We discuss them more in the section on response collection tools.
 #* Other survey solutions worth looking into include Qualtrics and SurveyGizmo.<ref>[http://usatoday30.usatoday.com/MONEY/usaedition/2012-08-28-Efficient-Small-Business-Ecommerce_CV_U.htm Customer research easier in digital era], Scott Martin, ''USA Today'', August 28, 2012</ref><ref name=wikipedia-comparison/>
 
@@ -159,3 +172,5 @@ This guide covers the basics of online survey design, response collection, and a
 == References ==
 
 <references/>
+
+HuffPo: Customer Surveys: 5 Things You Need To Know, by Julia L. Rogers
