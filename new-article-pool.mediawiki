@@ -32,7 +32,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * WHO Ad Hoc Committee on Health Research Relating to Future Intervention Options: A WHO committee that did health research prioritization. Start by reading the description from a [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205967/#__sec6 paper that mentions it] (note that the section year in that paper should be 1994, not 1944).
 
-* WHO-CHOICE: A program that helps countries choose health system priorities.
+* WHO-CHOICE (reserved for Sergey): A program that helps countries choose health system priorities.
 
 * Council on Health Research and Development: A council that reviewed health research and development from developing countries.
 
