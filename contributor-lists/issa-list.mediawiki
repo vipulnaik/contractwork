@@ -42,17 +42,17 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $4821.70
+Total money earned by doing work (taxable as income for 2016): $4851.70
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: ($36.77) (excluding pending payment)
+Net payment due: ($6.77) (excluding pending payment)
 
 === Completed pages ===
 
-Total so far: $1793
+Total so far: $1823
 
 * Green Card Test: $25. Published January 5, 2016.
 * Triplebyte: $25 for initial work, $6 for additional later work and publication: $31. Initial work in January 2016, publication later in the year.
@@ -78,6 +78,7 @@ Total so far: $1793
 * Health systems strengthening: $43. Published June 17, 2016.
 * Professional consensus of economics: $67. Published July 10, 2016.
 * Priority-setting in global health: $155. Published July 27, 2016.
+* Initiative on Global Markets: $30. Published October 5, 2016.
 
 Form 1040, though published on January 1, 2016 is counted in 2015 since the bulk of the work for it was carried out in 2015.
 
