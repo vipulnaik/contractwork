@@ -12,11 +12,11 @@ Wikipedia handle: ChristopherLKunin
 
 === Summary ===
 
-Grand total (this is taxable for tax year 2016): $227
+Grand total (this is taxable for tax year 2016): $262
 
 Amount paid: $142
 
-Pending payment: $85
+Pending payment: $120
 
 == Completed pages ==
 
@@ -31,6 +31,8 @@ Total so far: $182
 * Illiberal Reformers: $35. Published August 17, 2016.
 
 * Stokes interview: $50. Published September 4, 2016.
+
+* Scientific Charity Movement: $35. Published October 10, 2016.
 
 == Additions to existing pages ==
 
