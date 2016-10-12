@@ -14,9 +14,9 @@ Wikipedia handle: ChristopherLKunin
 
 Grand total (this is taxable for tax year 2016): $262
 
-Amount paid: $142
+Amount paid: $262
 
-Pending payment: $120
+Pending payment: $0
 
 == Completed pages ==
 
@@ -39,3 +39,11 @@ Total so far: $182
 Total so far: $45
 
 * Privacy Impact Assessment: $45
+
+=== Payment schedule ===
+
+* $30 sent June 18, 2016 via PayPal.
+
+* $112 sent August 1, 2016 via PayPal.
+
+* $120 sent October 12, 2016 via PayPal.
