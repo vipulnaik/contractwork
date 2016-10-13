@@ -36,7 +36,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Council on Health Research and Development: A council that reviewed health research and development from developing countries.
 
-* Lives Saved Tool: A tool created at Johns Hopkins University.
+* Lives Saved Tool (reserved for Chris): A tool created at Johns Hopkins University.
 
 * EVIDEM Collaboration: Conducts literature review, "discussions with stakeholders", and multicriteria decision analysis (MCDA).
 
