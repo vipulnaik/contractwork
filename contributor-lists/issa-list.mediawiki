@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $4851.70
+Total money earned by doing work (taxable as income for 2016): $4931.70
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: ($6.77) (excluding pending payment)
+Net payment due: $73.23 (excluding pending payment)
 
 === Completed pages ===
 
@@ -84,7 +84,7 @@ Form 1040, though published on January 1, 2016 is counted in 2015 since the bulk
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1310
+Total so far: $1390
 
 * stats.grok.se Wikimedia API fix: $80
 
@@ -147,6 +147,8 @@ Total so far: $1310
 * Sprucing up of Google Consumer Surveys: $32. Completed September 30, 2016.
 
 * Improving GiveWell staff growth page to now separately cover Open Phil and GiveWell staff: $10. Completed October 1, 2016.
+
+* Adding plotting code and correlation matrix logic for Wikipedia Views: $80. Completed October 13, 2016.
 
 === Touch payments ===
 
