@@ -148,7 +148,7 @@ Total so far: $1390
 
 * Improving GiveWell staff growth page to now separately cover Open Phil and GiveWell staff: $10. Completed October 1, 2016.
 
-* Adding plotting code and correlation matrix logic for Wikipedia Views: $80. Completed October 13, 2016.
+* Adding plotting code and correlation matrix logic for Wikipedia Views: $80. Completed October 13, 2016. Working code available at https://gist.github.com/riceissa/8726e6a90d4a7634f3dd79cc1fdb63d5 (gist not publicly accessible)
 
 === Touch payments ===
 
