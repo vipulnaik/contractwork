@@ -174,3 +174,17 @@ This guide covers the basics of online survey design, response collection, and a
 <references/>
 
 HuffPo: Customer Surveys: 5 Things You Need To Know, by Julia L. Rogers
+
+HubSpot: How to Design a Marketing Survey that Yields Legitimate Results by Meghan Lockwood
+
+Harvard Business School Working Knowledge: Using Surveys to Get the Information Your Business Needs - Survey Says? Identify Your Objectives
+
+- Informal surveys with a hidden advertising agenda (e.g. Facebook Polls)
+
+- Repeat survey: construct questions that can be reused later so that trends can be studied
+
+- Avoid narrow technical jargon (define if needed) and avoid hot-button words that are likely to trigger predetermined ideological stances (unless you are trying to elicit those predetermined stances)
+
+- Provide full range
+
+- Distribution issue: email spam
