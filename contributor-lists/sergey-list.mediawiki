@@ -26,6 +26,6 @@ Net payment due: ($25)
 
 === Completed pages ===
 
-Total so far: $150 (pending a bunch of minor fixes)
+Total so far: $150
 
-* Academic Training: $150. Completed September 20, 2016 (first version). Many minor fixes remain.
+* Academic Training: $150. Completed September 20, 2016.
