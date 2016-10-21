@@ -9,10 +9,14 @@ This guide covers the basics of online survey design, response collection, and a
 #* Getting information on who prefers what, from a constrained set of options. Surveys that involve single questions asking people to choose between options are called "polls". Polls may be used to drive decisions on what option to select (for instance, selecting a time or venue for a meeting) or as proxies for other, more official polls (such as pre-election polling, that is used to forecast the winner and victory margins in official elections).
 #* Getting information on brand awareness, recognition, etc.
 #* Getting correlational information. For instance, are males more likely to be interested in a product than females? Do people who love watching sports games online also like endorsements by sports stars, compared to people who prefer to watch them on TV?
+# Keep in mind all the stakeholders involved, to whom you will show the survey results or key findings.
+#* Identify the audience to whom you will circulate the survey results, or key findings from it.
+#* Anticipate their reaction, including skepticism or difficulty comprehending the survey results, and factor that into your design, distribution, and analysis.
+#* One way to generate prior buy-in is to circulate a survey draft among the key stakeholders, seek feedback from them, and incorporate it where it makes sense.
 # Keep in mind the following heuristics for how your specific goals should color how you process the rest of this guide.
-#* If you're mainly interested in qualitative feedback, some of the guidelines on statistical reliability are less important. Your main goal is just to get more feedback and get people to feel free to express them more, not to make sure that the set of responses you receive is representative of your entire audience.
+#* If you're mainly interested in qualitative feedback from survey respondents, some of the guidelines on statistical reliability are less important. Your main goal is just to get more feedback and get people to feel free to express them more, not to make sure that the set of responses you receive is representative of your entire audience.
 #* If you are interested in conducting a single-question poll, you should focus on the design guidelines around a single question, and also on making sure your survey is distributed to your whole audience or a representative sample. You can ignore much of the other advice here.
-
+#* If you intend to use the survey to further specific goals around convincing people, it is best to generate buy-in about the survey methodology and questions from them beforehand.
 
 === Understanding the Overall Steps ===
 
@@ -43,6 +47,7 @@ This guide covers the basics of online survey design, response collection, and a
 # Keep in mind the following limitations placed by your survey design tool.
 #* Some survey design tools, such as Google Forms, ''only'' allow web links, and don't directly integrate with response collection.<ref name=google-forms-response-collection>[https://support.google.com/docs/answer/2917686 Choose a form response destination], Google Support, September 24, 2016</reF> That means that response collection is ''your'' job: you'll need to take the web link and circulate it through your own distribution channels.
 #* Survey design tools may not support features you care about: question types you want to use, branching and skip logic, ability to edit questions after the survey has started, ability to maintain multiple collectors for a single survey, integration with data analysis capabilities, unlimited responses, and data export capabilities. Some design tools (such as SurveyMonkey) offer some of these features in the free version, but restrict other, more advanced features to the paid version.<ref name=surveymonkey-pricing>[https://www.surveymonkey.com/pricing/upgrade/details/ SurveyMonkey Pricing]</ref>
+#* Because of the custom nature of many survey design tools, 
 # Use existing online comparisons of survey design tools. The Wikipedia page comparing survey software provides a starting point of a list.<ref name=wikipedia-comparison>[https://en.wikipedia.org/wiki/Comparison_of_survey_software Comparison of survey software], Wikipedia, the free encyclopedia, retrieved September 24, 2016</ref> WordStream also has a review of the best online survey tools, albeit this is from 2014 so some information may be outdated.<ref name=wordstream-survey-tool-comparison>[http://www.wordstream.com/blog/ws/2014/11/10/best-online-survey-tools 7 Best Survey Tools: Create Awesome Surveys For Free!], WordStream, November 10, 2014</ref> Some of the most common survey design tools, and their key advantages and limitations, are discussed below.
 #* Google Forms
 #** It is free and offers unlimited responses
