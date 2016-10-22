@@ -64,7 +64,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 === Taxation ===
 
-* Form 1023: $50: Form filed by nonprofits to get tax-exempt status. Also reference stuff like NTEE codes, various types of exemption statuses.
+* Form 1023 (reserved for Charlie): $50: Form filed by nonprofits to get tax-exempt status. Also reference stuff like NTEE codes, various types of exemption statuses.
 
 * Form 1098: $30: Want something of comparable quality to Form 1099.
 
