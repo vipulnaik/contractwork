@@ -1,0 +1,100 @@
+'''Food frequency questionnaire''' ('''FFQ''') is a questionnaire used to obtain frequency and, in some cases, portion size information about food and beverage consumption over a specified period of time, typically the past month or year.<ref name=nci>{{cite web|url=https://dietassessmentprimer.cancer.gov/profiles/questionnaire|title = Food Frequency Questionnaire at a Glance|accessdate = September 20, 2016|publisher = [[NIH]]}}</ref> FFQs are the most common dietary assessment tool used in large [[epidemiology|epidemiologic]] studies of diet and health.<ref name=fh>{{cite web|url=http://sharedresources.fredhutch.org/services/food-frequency-questionnaires-ffq|title = Food Frequency Questionnaires|accessdate = September 20, 2016|publisher = Fred Hutch}}</ref><ref name=ace>{{cite web|url = http://www.animalcharityevaluators.org/research/foundational-research/survey-guidelines/food-frequency-questionnaires/|title = Food Frequency Questionnaires|publisher = [[Animal Charity Evaluators]]|accessdate = October 21, 2016}}</ref> Examples of usage include assessment of intake of [[vitamin]]s and other nutrients,<ref>{{cite journal|url = https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584829/|title = Reproducibility and validity of a food frequency questionnaire among pregnant women in a Mediterranean area|doi = 10.1186/1475-2891-12-26}}</ref><ref>{{cite journal|title = The validity of a food frequency questionnaire as a measure of PUFA status in pregnancy|last = Parker|first = Gordon|last2 = McClure|first2 = Georgia|last3 = Hegarty|first3 = Bronwyn|last4 = Smith|first4 = Isabelle Granville|journal = BMC Pregnancy Childbirth|volume = 15|doi = 10.1186/s12884-015-0494-3}}</ref><ref name=lebanon-kid-ffq>{{cite journal|url = https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4709981/|title = Validity and reliability of a food frequency questionnaire to estimate dietary intake among Lebanese children|last = Moghames|first = Patricia|last2 = Hammami|first2 = Nour|last3 = Hwalla|first3 = Nahla|last4 = Shoaib|first4 = Hikma|last4 = Nasreddine|first5 = Lara|last6 = Naja|first6 = Farah}}</ref> as well as to estimate the prevalence of dietary patterns such as [[vegetarianism]].<ref name=ace/>
+
+==Structure and data collected==
+
+=== Questions ===
+
+A FFQ includes questions on a set of food and beverage items. For each food or beverage item, there may be questions asking about the following:<ref name=nci/><ref name=nhanes-en>{{cite web|url = http://appliedresearch.cancer.gov/archive/usualintakes/FFQ.English.June0304.pdf|title = NHANES Food Questionnaire|accessdate = October 21, 2016}}</ref>
+
+* Frequency of consumption (with a "never" option as well as options ranging from very infrequent to several times a day)
+* Portion size information, which may be framed in terms of portion size for each round of consumption or total portion size. Respondents may be asked to translate usual consumption amount to number of specified units (e.g., How often do you eat a ½ cup of rice?). Some questionnaires include portion size images in an attempt to enhance reporting [[accuracy]].
+* Other information, such as frequency of consumption at particular times of the year, or the subtype that people consume.
+
+In addition to foods and beverages, FFQs often ask about the frequency of intake and dosages of commonly consumed [[dietary supplements]].
+
+=== Length and administration format ===
+
+A FFQ that aims to capture total dietary intake includes questions on 80 to 120 food and beverage items, and takes 30 to 60 minutes to complete.<ref name=nci/>
+
+FFQs may be interviewer-administered in case of low literacy<ref name=nci/> as well as when being conducted on children.<ref name=lebanon-kid-faq/>
+
+FFQs are intended for individual rather than household use (i.e., they need to be answered for each individual food consumer). For very young children, the FFQ may be answered by a parent or guardian instead.
+
+=== Relation with other assessment tools ===
+
+FFQ is a common method for [[dietary assessment]], i.e., for constructing the respondent's [[diet history]]. Some other methods include:<ref name=lebanon-kid-ffq/>
+
+* 24-hour diet recall: This is a structured interview intended to capture detailed information about all the foods and beverages consumed by the respondent in the last 24 hours. For young children, the parent or guardian may respond on the child's behalf.<ref>{{cite web|url = https://dietassessmentprimer.cancer.gov/profiles/recall/|title = 24-hour Dietary Recall (24HR) At a Glance|publisher = [[National Cancer Institute]]|accessdate = October 21, 2016}}</ref><ref>{{cite web|url = https://medanth.wikispaces.com/24-hour+diet+recall|title = 24-hour diet recall|publisher = Medanth|accessdate = October 21, 2016}}</ref><ref>{{cite journal|url = https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4073154/|title = Development and Pilot Testing of 24-Hour Multiple-Pass Recall to Assess Dietary Intake of Toddlers of Somali- and Iraqi-Born Mothers Living in Norway|journal = Nutrients|doi = 10.3390/nu6062333}}</ref>
+* Other kinds of diet history interviews, such as narrative diet histories.<ref>{{cite web|url = http://www.andjrnl.org/article/S0002-8223(00)00237-6/abstract|title = Applying Conversation Analysis to Foster Accurate Reporting in the Diet History Interview|last = Tapsell|first = Linda Clare|last2 = Brenninger|first2 = Vanessa|last3 = Barnard|first3 = Janelle}}</ref>
+* Weighted food diary (also called weighted food record): The individual records details of food and beverage in the diary at the time of consumption.<ref>{{cite web|url = http://www.dapa-toolkit.mrc.ac.uk/dietary-assessment/methods/weighed-food-diary/indication.php|title = Dietary assessment - Weighed food diary|publisher = Medical Research Council|accessdate = October 21, 2016}}</ref>
+
+== Analysis of data ==
+
+=== Calculation of nutrient intake ===
+
+Calculations for nutrient intake can be estimated via computerized [[software]] programs that multiply the reported frequency of each food by the amount of nutrient in a serving of that food. References databases commonly used in FFQs include [[USDA]] food and nutrient database and [[University of Minnesota]]'s NCC-Nutrient database. 
+
+=== Comparison data ===
+
+Some utilize [[NHANES]] data to provide nationwide comparisons.<ref name=D>{{cite web|url=http://www.ucdenver.edu/research/CCTSI/programs-services/ctrc/Nutrition/Documents/Food_Frequency_Questionnaires.pdf|title = Food Frequency Questionnaires|accessdate = September 20, 2016|publisher = [[University of Colorado Denver]]}}</ref>
+
+===Utility of data===
+
+FFQs provide information on consumption of queried foods and beverages over the specified period.
+Depending on the breadth of items queried, data can be used to assess total dietary intake and/or particular aspects of diet.
+Depending on whether portion size is determined, information may represent either usual frequency of consumption only or total amount usually consumed. The term "food propensity questionnaire" is sometimes used to define an FFQ that does not include portion size.
+FFQs may be better than short-term instruments (e.g., 24-hour dietary recall) at assessing intake of episodically consumed foods because they attempt to directly capture usual intake over a period of time.
+
+Data can be linked to a database to yield information about total dietary intake.
+If data are linked to a nutrient composition database, nutrient intake can be determined <ref>{{cite web|url=https://dietassessmentprimer.cancer.gov/learn/questionnaire-screeners.html|title=Food Composition Databases for Food Frequency Questionnaires and Screeners}}</ref>.  However, total nutrient intakes cannot be estimated unless dietary supplement intake data also are included. If not linked to a nutrient composition database, frequency data can be used as a qualitative indicator of diet. <ref>{{cite web|url=https://dietassessmentprimer.cancer.gov/learn/intake.html|title=Dietary Supplements and Estimating Total Nutrient Intakes}}</ref>
+
+If data are linked to a database that translates foods and beverages into food group equivalents, such as the Food Patterns Equivalents Database, food and beverages reported can be disaggregated into their component ingredients, which can then be converted to equivalent amounts of relevant guidance-based food groups (For more information, read a factsheet on FPED products and associated data files or its application to dietary analysis. This provides information about the consumption of food groups of particular interest, such as the total amount of fruits, vegetables, or added sugars. The frequency of food groups consumed or pattern of food groups consumed can be used as indicators of particular aspects of diet.
+FFQs are sometimes used to describe a population's intake in cross-sectional studies, although this is not recommended because of their large systematic error, or [[bias]] (a type of [[measurement error]]).
+
+FFQs can be used to examine associations between diet and health or other variables.
+FFQs are commonly used as the main dietary assessment instrument in large prospective studies.
+Because of known systematic error in an FFQ, a less biased short-term instrument (e.g., 24HR) may be administered in an internal calibration sub-study to improve estimates of intake from an FFQ through [[regression calibration]],  allowing for a more accurate estimate of the association between diet and another variable. Alternatively, data from an external source (called an [[external calibration study]]) can be used.
+
+FFQs and screeners are the only practical methods for capturing diet in retrospective case-control studies.
+FFQs are sometimes used to evaluate the effectiveness of interventions to change diet. However, because of concern about potential [[differential response]] bias due to the tendency of the intervention group to misreport their diets to a greater extent than the control group, use of an FFQ (or any self-report dietary instrument) as the sole evaluation method should be carefully considered.<ref name=nci/>
+
+===Recommendations regarding usage===
+For most uses, the National Cancer Institute recommends either using a FFQ along with multiple 24-hour dietary recall interviews, or else a 24-hour recall interview on its own, although it's often possible to use the FFQ if the results are debiased via a calibration study.
+
+Extensive literature review indicates that all three FFQs perform fairly well in estimating habitual macronutrient intakes in adult populations when compared to standard methods of diet records or recalls. However, DHQ offers a web-based version free of cost which makes its use much easier and economical in a research setting. A web-based Block questionnaire is available at a much higher cost. The Harvard FFQ can be preferred in situations where intake of simple sugars, sweet foods and fructose is of prime concern. Overall, the web-based DHQ is our tool of choice for assessing habitual macronutrient intakes in adults due to its convenience for the subject and low cost.<ref name=D/>
+
+==Strengths and weaknesses==
+
+Unlike other techniques such as food journals and 24-hour dietary recall interviews, FFQs measure long-term [[diet]] with one single assessment. Like dietary recall interviews but unlike food journals, they don't affect [[eating behavior]], and unlike dietary recall interviews, the respondent can fill out the questionnaire on their own, either on paper or online.
+
+On the other hand, FFQs rely on a limited list of foods, unlike food diaries or 24-hour recall interviews which attempt to record everything eaten by the respondent. This can be particularly problematic when the missing foods are popular with a minority group being surveyed<ref name=D/>. FFQs are known to be subject to systematic [[bias]], especially when it comes to estimating the total amount consumed.
+
+===Limitations of data===
+* Contains systematic error. This error can be at least partially mitigated through appropriate statistical modeling, using a less biased dietary assessment method as a reference instrument, and through energy adjustment.
+* Detailed information about food preparation, specific food and beverages consumed, and brands, and contextual information about intake (e.g., which foods and beverages are consumed at the same meal) is lacking.
+* Because an FFQ is composed of a pre-specified food list, any single FFQ may not reflect the eating patterns of a given population. Thus, the performance of a particular FFQ in a particular population may not reflect its performance in a different population.
+
+==Types==
+
+* '''Semi-quantitative FFQs''' collect portion size information as standardized portions or as a choice of portion sizes. 
+
+* Portion size information is not collected in '''non-quantitative FFQs'''.
+
+==Common food frequency questionnaires for adults==
+* '''Harvard FFQ'''<ref name=h>{{cite web|url=https://regepi.bwh.harvard.edu/health/nutrition.html|title = Harvard Food Frequency Questionnaire|accessdate = September 20, 2016|publisher = [[Harvard University]]}}</ref>: developed by Walter Willett, M.D., and his colleagues at [[Harvard University]]; pen and paper version only; [[2007]] booklet plus analysis cost roughly $15.00-20.00 per questionnaire; portion size information is included as a part of the food item description rather than a separate listing; several validation studies conducted against standard methods like diet records and recalls. 
+* ''' Diet History Questionnaire''' (DHQ)<ref name=dh>{{cite web|url=http://riskfactor.cancer.gov/DHQ/webquest/index.html|title = Diet History Food Frequency Questionnaire|accessdate = September 20, 2016|publisher = [[National Cancer Institute]]}}</ref>: a semi-quantitative FFQ which uses an embedded question approach directed by Fran Thompson and Amy Subar at the [[National Cancer Institute]]; pen and paper version available for purchase; [[web]]-based version available free of cost; validation studies conducted against standard methods like recalls etc. [[Spanish]] version available in pen and paper format but does not include any ethnic food based questions. 
+* '''Block FFQ'''<ref name=dhh>{{cite web|url=http://www.nutritionquest.com|title = Block FFQ|accessdate = September 20, 2016|publisher = [[Nutrition quest]]}}</ref>: a semi-quantitative FFQ originally developed at the National Cancer Institute under the direction of Gladys Block, PhD; pen and paper and web based version available for purchase; validation studies conducted against standard methods like recalls and records. Spanish version available in pen and paper format and includes questions on ethnic foods.<ref name=D/>
+* '''National Cancer Institute [[NHANES]]'''
+
+==Criticism==
+
+Alan R. Kristal, Ulrike Peters and John D. Potter wrote  in their seminal article "Is It Time to Abandon the Food Frequency Questionnaire?": 
+
+"We are not likely to learn much more about diet and cancer risk by continuing to use standard food frequency questionnaires. We need, once again, to adopt a curious and exploratory attitude about dietary assessment. Large cohort studies are being initiated in Asian countries and they have a unique opportunity to develop and evaluate different approaches for dietary assessment. Cohort studies currently under way in the United States and Europe could change their methods for dietary assessment when next surveying their cohorts to update exposure information. When it comes to dietary assessment, we need more thought for food".<ref>{{cite journal|url=http://cebp.aacrjournals.org/content/14/12/2826.short|last1=Alan R. Kristal, Ulrike Peters and John D. Potter|title=Is It Time to Abandon the Food Frequency Questionnaire?}}</ref>
+
+There may be a “ceiling of validity” for food frequency questionnaires somewhere near correlations of 0.7.<ref>{{cite journal|url=http://aje.oxfordjournals.org/content/154/12/1100.full?ijkey=5c20ab826ba3a3d82db362e5a0b5b0a0e68c04a1&keytype2=tf_ipsecsha|last1=Walter Willett|title=Invited Commentary: A Further Look at Dietary Questionnaire Validation}}</ref>
+
+NIH says: "Despite their bias, FFQs may be useful in certain situations, such as exploring relationships between diet and health status, especially when bias is adjusted for with the help of more accurate measures, including recovery biomarkers and less-biased dietary assessment instruments, such as 24HRs".<ref>{{cite web|title=Principles and recommendations from NCI|url=https://dietassessmentprimer.cancer.gov/approach/principles.html|publisher=[[NIH]]|accessdate=6 October 2016}}</ref>
+
+==References==
+<references/>
