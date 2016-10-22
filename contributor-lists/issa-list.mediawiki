@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $4961.70
+Total money earned by doing work (taxable as income for 2016): $4996.70
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: $103.23 (excluding pending payment)
+Net payment due: $138.23 (excluding pending payment)
 
 === Completed pages ===
 
@@ -151,6 +151,8 @@ Total so far: $1410
 * Adding plotting code and correlation matrix logic for Wikipedia Views: $80. Completed October 13, 2016. Working code available at https://gist.github.com/riceissa/8726e6a90d4a7634f3dd79cc1fdb63d5 (gist not publicly accessible)
 
 * Restructuring and cleanup of Scientific Charity Movement page: $20. Completed October 14, 2016.
+
+* Cleanup and expansion of Hiroshi Nakajima page: $35. Completed October 20, 2016.
 
 === Touch payments ===
 
