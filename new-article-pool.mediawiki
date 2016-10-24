@@ -16,6 +16,10 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * American Time Use Survey: $25-40: This is part of the Current Population Survey (is it?) and is conducted by the Bureau of Labor Statistics. See also https://en.wikipedia.org/wiki/Time-use_survey
 
+* 24-hour diet recall: $25-50: A similar article as https://en.wikipedia.org/wiki/Food_frequency_questionnaire with parallel set of references
+
+* Food record(s) (aka food diary), two main types: weighted food records and estimated food record: Similar to https://en.wikipedia.org/wiki/Food_frequency_questionnaire with parallel set of references
+
 === Global (and national/local) health ===
 
 * Global Outbreak Alert and Response Network (reserved for Devansh): $25-40 (depending on length and quality): It is already mentioned as a single para in the Wikipedia global alert page, but deserves its own page.
