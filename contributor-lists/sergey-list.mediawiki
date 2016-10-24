@@ -18,14 +18,16 @@ You can see data on all pages created by Sergey at http://wikipediaviews.org/dis
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $150 + (pay for food frequency questionnaire)
+Grand total (this is taxable income for tax year 2016): $178
 
 Payment made: $175
 
-Net payment due: ($25)
+Net payment due: $3
 
 === Completed pages ===
 
-Total so far: $150
+Total so far: $178
 
 * Academic Training: $150. Completed September 20, 2016.
+
+* Food frequency questionnaire: $28. Completed October 23, 2016.
