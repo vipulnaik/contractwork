@@ -16,17 +16,17 @@ Additional notes: Based in Argentina
 
 === Summary ===
 
-Total money earned as income: $3042
+Total money earned as income: $3152
 
 Payment made: $3349
 
-Net payment due: ($307)
+Net payment due: ($197)
 
 Note: Sebastian started work in April and took a break in June.
 
 == Completed pages ==
 
-Total: $3037
+Total: $3147
 
 * Dolor en los animales (Spanish translation of Pain in animals): $100. Published April 21, 2016
 
@@ -97,6 +97,8 @@ Total: $3037
 * Timeline of healthcare in Ethiopia: $55. Published October 17, 2016.
 
 * Timeline of healthcare in France: $110. Published October 22, 2016.
+
+* Timeline of healthcare in Italy: $110. Published October 26, 2016.
 
 == Additions to existing pages, beyond those already covered in completed pages section ==
 
