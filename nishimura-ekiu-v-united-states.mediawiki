@@ -1,0 +1,33 @@
+{{Infobox SCOTUS case
+  |Litigants=Nishimura Ekiu v. United States
+  |ArgueYear=1891
+  |DecideDate=January 18
+  |DecideYear=1892
+  |FullName=Nishimura Ekiu v. United States et al.
+  |USVol=149
+  |USPage=651
+  |Prior=Appeal from the Circuit Court of the United States with jurisdiction over San Francisco
+  |Holding=
+  |LawsApplied=[[Immigration Act of 1891]]
+  |SCOTUS=1892
+  |Plurality=Gray
+  |Dissent=Brewer
+}}
+
+'''''Nishimura Ekiu v. United States''''' [[case citation|149 U.S. 651]], decided by the [[United States Supreme Court]] on January 18, 1892, was a case challenging the constitutionality of some provisions of the [[Immigration Act of 1891]].<ref name=lii>{{cite web|url = https://www.law.cornell.edu/supremecourt/text/142/651|title = NISHIMURA EKIU v. UNITED STATES|publisher = [[Legal Information Institute]]|accessdate = October 27, 2016}}</ref> The case was designed against the litigant and in favor of the government, upholding the law.<ref name=lii/>
+
+== Background ==
+
+=== Backdrop of laws ===
+
+{{main article|Immigration Act of 1891}}
+
+== The case ==
+
+=== Case details ===
+
+The case involved Nishimura Ekiu, a 25-year-old female citizen of Japan who arrived on the steamship ''Belgic'' from [[Yokohama]] on May 7, 1891. William H. Thornley, commissioner of immigration of the state of California, refused to allow her to land. In a report on May 13, 1891, he elaborated on the reason for denying her entry: "Passport states that she comes to San Francisco in company with her husband, which is not a fact. She states that she has been married two years, and that her husband has been in the United States one year, but she does not know his address. She has $22, and is to stop at some hotel until her husband calls for her."
+
+== References ==
+
+{{reflist|30em}}
