@@ -82,49 +82,27 @@ Total so far: $1823
 
 Form 1040, though published on January 1, 2016 is counted in 2015 since the bulk of the work for it was carried out in 2015.
 
-=== Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
+=== Open Phil and Good Ventures Wikipedia page grant list updates ===
 
-Total so far: $1410
-
-* stats.grok.se Wikimedia API fix: $80
-
-* Other misc pay for consulting etc.: $25
-
-* Adding years to DCP page: $6
-
-* Retrieval of Animal Charity Evaluators: $20
-
-* Wasted effort on timeline of mental health, after discovering that a similar page on timeline of psychiatry exists: $10
+Total so far: $277
 
 * Monthly update of Open Phil and Good Ventures grant lists (end of April): $50
 
-* Disease Control Priorities Project reference cleanup, page restructuring, more info on specific reports: $20 (more once DCP1 is expanded)
-
-* Wikipedia usage survey construction and associated research: $70
-
 * Monthly update of Open Phil and Good Ventures grant lists (end of May): $50
-
-* Sprucing up of GiveWell top charity pages: $55 ($25 each for AMF and GiveDirectly, another $5 for other general cleanup)
-
-* Work on review of GiveWell's finances and expenses: $100 (work still ongoing)
-
-* Tax issues resolution: $100 (final submission not done yet but this will be the total pay)
 
 * Monthly update of Open Phil and Good Ventures lists (end of June): $27
 
-* Wikipedia usage survey writeup: $110
-
 * Monthly update of Open Phil and Good Ventures lists (end of July): $45 (6 new grants + 2 delayed grants)
 
-* Privacy Impact Assessment cleanup: $5
+* Monthly update of Open Phil and Good Ventures lists (end of August): $55 ($45 for adding 8 new grants in total, and $10 for one-time extra work to deal with changes in the format). Completed August 31, 2016.
 
-* GiveWell board meeting EA Forum article (http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/): $100. Completed August 17, 2016.
+* Monthly update of Open Phil and GV grants database: $50 (for adding 8 new grants to Open Phil and 12 new grants on Good Ventures). Completed September 29, 2016.
 
-* Creation of a model for computing the total value of a Wikipedia pageview. Ongoing work. Payment of $40 for work done as of August 29, 2016.
+=== IATI grants tables ===
+
+Total so far: $250
 
 * Addition of grants made table to the Bill & Melinda Gates Foundation English Wikipedia page: $50. Completed August 29, 2016.
-
-* Monthly update of Open Phil and Good Ventures lists (end of August): $55 ($45 for adding 8 new grants in total, and $10 for one-time extra work to deal with changes in the format). Completed August 31, 2016.
 
 * More addition of grants data to the Bill & Melinda Gates Foundation English Wikipedia page: $40. Completed September 1, 2016.
 
@@ -142,7 +120,37 @@ Total so far: $1410
 
 * Grants table added for the GAVI Alliance: $15. Completed September 6, 2016.
 
-* Monthly update of Open Phil and GV grants database: $50 (for adding 8 new grants to Open Phil and 12 new grants on Good Ventures). Completed September 29, 2016.
+=== Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
+
+Total so far: $918
+
+* stats.grok.se Wikimedia API fix: $80
+
+* Other misc pay for consulting etc.: $25
+
+* Adding years to DCP page: $6
+
+* Retrieval of Animal Charity Evaluators: $20
+
+* Wasted effort on timeline of mental health, after discovering that a similar page on timeline of psychiatry exists: $10
+
+* Disease Control Priorities Project reference cleanup, page restructuring, more info on specific reports: $20 (more once DCP1 is expanded)
+
+* Wikipedia usage survey construction and associated research: $70
+
+* Sprucing up of GiveWell top charity pages: $55 ($25 each for AMF and GiveDirectly, another $5 for other general cleanup)
+
+* Work on review of GiveWell's finances and expenses: $100 (work still ongoing)
+
+* Tax issues resolution: $100 (final submission not done yet but this will be the total pay)
+
+* Wikipedia usage survey writeup: $110
+
+* Privacy Impact Assessment cleanup: $5
+
+* GiveWell board meeting EA Forum article (http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/): $100. Completed August 17, 2016.
+
+* Creation of a model for computing the total value of a Wikipedia pageview. Ongoing work. Payment of $40 for work done as of August 29, 2016.
 
 * Sprucing up of Google Consumer Surveys: $32. Completed September 30, 2016.
 
