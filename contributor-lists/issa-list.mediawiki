@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $4996.70
+Total money earned by doing work (taxable as income for 2016): $5046.70
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: $138.23 (excluding pending payment)
+Net payment due: $188.23 (excluding pending payment)
 
 === Completed pages ===
 
@@ -84,7 +84,7 @@ Form 1040, though published on January 1, 2016 is counted in 2015 since the bulk
 
 === Open Phil and Good Ventures Wikipedia page grant list updates ===
 
-Total so far: $277
+Total so far: $327
 
 * Monthly update of Open Phil and Good Ventures grant lists (end of April): $50
 
@@ -96,8 +96,9 @@ Total so far: $277
 
 * Monthly update of Open Phil and Good Ventures lists (end of August): $55 ($45 for adding 8 new grants in total, and $10 for one-time extra work to deal with changes in the format). Completed August 31, 2016.
 
-* Monthly update of Open Phil and GV grants database: $50 (for adding 8 new grants to Open Phil and 12 new grants on Good Ventures). Completed September 29, 2016.
+* Monthly update of Open Phil and GV grants database: $50 (for adding 8 new grants to Open Phil and 12 new grants to Good Ventures). Completed September 29, 2016.
 
+* Monthly update of Open Phil and GV grants database: $50 (for adding 18 new grants to Open Phil and 11 new grants to Good Ventures). Completed October 27, 2016.
 === IATI grants tables ===
 
 Total so far: $250
