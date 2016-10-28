@@ -26,17 +26,31 @@ Note: Sebastian started work in April and took a break in June.
 
 == Completed pages ==
 
-Total: $3147
+Total: $3147 (36 pages)
 
 === Totals by page type ===
 
-* Timeline of healthcare in country X: $1271 (until timeline of healthcare in Italy)
+* Timeline of healthcare in country X: $1271 (13 pages)
 
-* Disease timelines: $1466 (until timeline of bladder cancer)
+* Disease timelines: $1466 (18 pages)
 
-* Other pages related to global health and healthcare: $310 (until timeline of hospitals)
+* Other pages related to global health, healthcare, and biology: $310 (4 pages)
 
-* Translations: $100 (pain in animals)
+* Translations: $100 (1 page)
+
+=== Totals by month ===
+
+* April 2016: $400 (3 pages)
+
+* May 2016: $681 (6 pages)
+
+* July 2016: $455 (5 pages)
+
+* August 2016: $575 (8 pages)
+
+* September 2016: $550 (7 pages)
+
+* October 2016 (current month): $486 (7 pages)
 
 === Pages ===
 
