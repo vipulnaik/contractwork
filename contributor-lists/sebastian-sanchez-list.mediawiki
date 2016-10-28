@@ -30,9 +30,9 @@ Total: $3147 (36 pages)
 
 === Totals by page type ===
 
-* Timeline of healthcare in country X: $1271 (13 pages)
+* Timeline of healthcare in country X: $1271 (13 pages). Access Wikipedia views data [here http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Country%20healthcare%20timelines%20created%20by%20Sebastian%20Sanchez&allmonths=allmonths]
 
-* Disease timelines: $1466 (18 pages)
+* Disease timelines: $1466 (18 pages). Access Wikipedia views data [here http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Disease%20timelines%20created%20by%20Sebastian%20Sanchez&allmonths=allmonths]
 
 * Other pages related to global health, healthcare, and biology: $310 (4 pages)
 
