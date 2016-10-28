@@ -28,6 +28,18 @@ Note: Sebastian started work in April and took a break in June.
 
 Total: $3147
 
+==== Totals by page type ===
+
+* Timeline of healthcare in country X: $1271 (until timeline of healthcare in Italy)
+
+* Disease timelines: $1466 (until imeline of bladder cancer)
+
+* Other pages related to global health and healthcare: $310 (until timeline of hospitals)
+
+* Translations: $100 (pain in animals)
+
+==== Pages ===
+
 * Dolor en los animales (Spanish translation of Pain in animals): $100. Published April 21, 2016
 
 * Timeline of cholera: $100. Published April 23, 2016.
