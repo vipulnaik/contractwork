@@ -1,0 +1,52 @@
+This is my fourth quarterly review, and it covers the months from August to October of 2016.
+
+Things continue to be busy on the <a href="/job/">job front</a>. There were a few big job-related projects that happened this quarter. I expect the next quarter to be more relaxed on the job front, partly because of a winter break slowdown and partly because some of the big projects are over.
+
+<h4>Wikipedia editing</h4>
+
+<em>For background information, see my <a href="/wikipedia">site page about Wikipedia</a></em>
+
+I created three new pages this quarter: <a href="https://en.wikipedia.org/wiki/Alan_C._Nelson">Alan C. Nelson</a>, <a href="https://en.wikipedia.org/wiki/Gladys_Block">Gladys Block</a>, and <a href="https://en.wikipedia.org/wiki/Nishimura_Ekiu_v._United_Sates">Nishimura Ekiu v. United States</a>. All of them were created in the latter half of October. The creation of these pages marked my return to Wikipedia page creation after a rather long hiatus. I expect to continue creating new pages at a similar rate for the next few weeks.
+
+As I mentioned in my <a href="http://vipulnaik.com/blog/february-to-april-2016-in-review/">previous quarterly review</a>, the pages I am creating right now are not as optimized for pageviews as pages in the past have been. Rather, they are pages in domains where I want to acquire a deeper understanding and believe the research process involved in creating the page will help me.
+
+In total, pages I created over my lifetime got ? pageviews over the quarter. You can see the data for all of 2016 (only three of the ten months are in this quarter) <a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Vipul%20Naik&year=2016">here</a>.
+
+<h4>Sponsored Wikipedia editing</h4>
+
+<em>For background information, see my <a href="/sponsored-wikipedia-editing">site page about sponsored Wikipedia editing</a></em>
+
+Sponsored Wikipedia editing operations continued, though at a lower overall level than previously. Many of the people recruited either left permanently, or have significantly reduced output because their academic term (high school or college) has begun.
+
+Issa Rice (<a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki">pages and payments</a>) and Sebastian Sanchez (<a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki">pages and payments</a>) have continued to work at a similar rate as before. 
+
+Sebastian in particular has continued to work on pages in two broad themes: disease-related timelines (18 pages so far, on which I've spent $1466) and timelines of healthcare by country (13 pages so far, on which I've spent $1271). He has also created four other pages in themes broadly related to healthcare and global health, and done one translation.
+
+<h4>WikiHow</h4>
+
+<em>For background information, see my <a href="/wikihow">site page about WikiHow</a></em>
+
+I wrote one new wikiHow article: <a href="http://www.wikihow.com/Understand-Your-Website-Traffic-Variation-with-Time">How to Understand Your Website Traffic Variation with Time</a>. The article got a lot of views in the first week (getting to about 800 pageviews), likely because it was featured prominently on various landing pages and lists of top articles. Its growth has subsequently slowed down to between 5 and 10 new pageviews a day. The draft history (before I pushed it to WikiHow) can be found by looking at the history for the <a href="https://github.com/vipulnaik/working-drafts/blob/master/understand-traffic-variation-with-time.mediawiki">version in my personal Git repository</a>.
+
+This post is the second in a series of posts I intend to write on understanding website traffic. My previous post, published last quarter, was <a href="http://www.wikihow.com/Understand-Your-Website-Audience-Profile">How to Understand Your Website Audience Profile</a>.
+
+I also began drafting a new article in wikiHow style: a href="https://github.com/vipulnaik/working-drafts/blob/master/online-survey.mediawiki">How to Master Online Surveys</a>. I don't know if I'll try publishing it on wikiHow (as there are many very similarly named articles there right now).
+
+<h4>Personal server migration</h4>
+
+I finished migrating a personal server that I had begun migrating last quarter.
+
+<h4>Entertainment</h4>
+
+I watched a few more Korean dramas:
+
+<ul>
+	<li>Dong Yi, a historical drama set in the late 17th century. It was very well-executed.</li>
+	<li>Oh My Venus, a drama about a woman's struggles with weight loss. It was light-hearted and well-executed.</li>
+	<li>Doctor Stranger, a medical drama. The drama had some really good scenes but overall gave the feel of being overdone at various points.</li>
+	<li>Playful Kiss, a Korean drama adaptation of the Japanese anime <em>Itazura na Kiss</em>.</li>
+</ul>
+
+I also watched two Japanese dramas, Mischievous Kiss: Love in Tokyo and its sequel, Mischievous Kiss 2: Love in Tokyo. They were based on the Japanese anime <em>Itazura na Kiss</em>. In addition, I am continuing to watch The Flower in Prison as it's running.
+
+
