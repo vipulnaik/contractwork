@@ -20,7 +20,25 @@
 
 === Backdrop of laws ===
 
+The United States had essentially unrestricted immigration until 1875. The [[Page Act of 1875]] forbade the immigration of prostitutes and forced laborers from Asia, requiring Asian women to obtain certificates of character from [[Hong Kong]] prior to migrating.
+
+Starting in the 1880s, a number of laws were passed that deprived the Chinese of the right to migrate and deprived Chinese migrants of rights. The [[Angell Treaty of 1880]] temporarily banned migration from China, and the [[Chinese Exclusion Act]] of 1882 extended the ban on migration of skilled and unskilled laborers for ten years. 
+
+The [[Scott Act (1888)]] forbade Chinese migrants from re-entering the United States. This Act was effectively challenged in ''[[Chae Chan Ping v. United States]]'', but the United States Supreme Court ruled against the litigant and upheld the law.
+
+=== Immigration Act of 1891 ===
 {{main article|Immigration Act of 1891}}
+
+The Immigration Act of 1891 focused on the situation of migrants from countries other than China. The Act's key pieces included:
+
+* Additional classes of excludable aliens
+* New border procedures and extended authority to land borders: The Act specified that the officers in charge of any vessel arriving by sea had to submit a list of passengers with their biographical information to the immigration inspectors at the port. Requirements of this sort had been part of United States federal law since the requirement for a manifest of immigrants in Section 4 of the [[Steerage Act of 1819]]. However, in this case the list needed to be submitted immediately upon arrival and was used to inspect aliens prior to admitting them. The inspectors at ports of entry had the authority to conduct a medical examination of aliens suspected of being unfit or having dangerous diseases, marking the beginning of [[medical exclusion of immigrants]] in the United States. Aliens who were detained for a medical examination were still considered to not have formally entered the United States.<ref name=uwb-fulltext/>
+* New bureaucratic office to coordinate immigration enforcement
+* Authority to deport
+* Penalties and restrictions on abetting migration
+
+Of these provisions, it was the new border procedures that would be effectively challenged by the case.
+
 
 == The case ==
 
