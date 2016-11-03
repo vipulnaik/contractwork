@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $5296.70
+Total money earned by doing work (taxable as income for 2016): $5308.30
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: $438.23 (excluding pending payment)
+Net payment due: $449.83 (excluding pending payment)
 
 === Completed pages ===
 
@@ -171,15 +171,15 @@ Total: $320
 
 List updated September 30, 2016. May not be kept up-to-date continuously.
 
-Total: $168.70
+Total: $180.30
 
-* Adrian Ulloa: Commission of 10% on $185 = $18.50
+* Adrian Ulloa: Commission of 10% on $205 = $20.50
 
 * Amy Zhang: Commission of 15% on $80 = $12
 
-* Avi Glozman: Commission of 10% on $416 = $41.60
+* Avi Glozman: Commission of 10% on $449 = $44.90
 
-* Chris Kunin: Commission of 10% on $227 = $22.70
+* Chris Kunin: Commission of 10% on $262 = $26.20
 
 * Eddy Su: Commission of 10% on $71 = $7.10
 
@@ -193,7 +193,7 @@ Total: $168.70
 
 * Charlie Corner: Commission of 15% on $152 = $22.80
 
-* Sergey Yegorov: Commission of 10% on $150 = $15
+* Sergey Yegorov: Commission of 10% on $178 = $17.80
 
 === Monthly payments ===
 

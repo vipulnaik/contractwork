@@ -20,11 +20,11 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $501.40
+Grand total (this is taxable income for tax year 2016): $508.20
 
 Payment made: $355.90
 
-Net payment due: $145.50
+Net payment due: $152.30
 
 === Completed pages ===
 
@@ -66,13 +66,13 @@ Total so far: $10
 
 List updated September 30, 2016. May not be kept up-to-date continuously.
 
-Total: $101.90
+Total: $108.70
 
 * Amy Zhang: Commission of 15% on $80 = $12
 
-* Avi Glozman: Commission of 10% on $416 = $41.60
+* Avi Glozman: Commission of 10% on $449 = $44.90
 
-* Chris Kunin: Commission of 10% on $227 = $22.70
+* Chris Kunin: Commission of 10% on $262 = $26.20
 
 * Eddy Su: Commission of 10% on $71 = $7.10
 

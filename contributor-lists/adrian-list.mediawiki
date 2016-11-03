@@ -18,11 +18,11 @@ Additional notes: Based in Peru
 
 === Summary ===
 
-Total money earned by doing work (this is taxable as income for tax year 2016): $185
+Total money earned by doing work (this is taxable as income for tax year 2016): $205
 
 Payment made: $105
 
-Net payment due: $80
+Net payment due: $100
 
 == Completed pages ==
 
@@ -33,3 +33,5 @@ Net payment due: $80
 * Robert Wilensky: $20. Completed on September 6, 2016.
 
 * Timeline of optical character recognition: $60. Completed on September 22, 2016.
+
+* Seth Baum: $20. Originally published September 2016. Republished October 19, 2016.
