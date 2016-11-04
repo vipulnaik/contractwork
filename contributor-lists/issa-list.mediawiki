@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $5308.30
+Total money earned by doing work (taxable as income for 2016): $5438.30
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: $449.83 (excluding pending payment)
+Net payment due: $579.83 (excluding pending payment)
 
 === Completed pages ===
 
@@ -123,7 +123,7 @@ Total so far: $250
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1168
+Total so far: $1048
 
 * stats.grok.se Wikimedia API fix: $80
 
@@ -163,6 +163,8 @@ Total so far: $1168
 
 * Cleanup and expansion of Hiroshi Nakajima page: $35. Completed October 20, 2016.
 
+* Wikipedia clickstream dataset work: $130. Completed November 4, 2016.
+
 === Touch payments ===
 
 Total: $320
@@ -197,19 +199,19 @@ Total: $180.30
 
 === Monthly payments ===
 
-Total so far: $1240
+Total so far: $1490
 
-* May: $300
+* May 2016: $300
 
-* June: $250
+* June 2016: $250
 
-* July: $250
+* July 2016: $250
 
-* August: $190
+* August 2016: $190
 
-* September: $250
+* September 2016: $250
 
-* October: $250
+* October 2016: $250
 
 === Reimbursement payments ===
 
@@ -228,6 +230,26 @@ Total payment received for 2016: $5044 (+ $4000 pending)
 * Check dated May 14, 2016, successfully deposited and debited May 23, 2016: $4000
 
 * Check dated and sent October 1, 2016: $4000
+
+=== Deferred payments ===
+
+This is a record of payments that will be made later, conditional to some milestones.
+
+Total so far: $9460
+
+* February to April 2016: $2500
+
+* May 2016: $1000
+
+* June 2016: $1250
+
+* July 2016: $1250
+
+* August 2016: $960
+
+* September 2016: $1250
+
+* October 2016: $1250
 
 == Work in 2015 ==
 
