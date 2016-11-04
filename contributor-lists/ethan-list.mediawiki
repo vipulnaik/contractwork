@@ -20,15 +20,15 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $508.20
+Grand total (this is taxable income for tax year 2016): $613.20
 
 Payment made: $355.90
 
-Net payment due: $152.30
+Net payment due: $257.30
 
 === Completed pages ===
 
-Total so far: $249
+Total so far: $354
 
 * Form W-4: $30. Published February 12, 2016.
 
@@ -43,6 +43,8 @@ Total so far: $249
 * Form 1099-K: $50. Published August 23, 2016.
 
 * Form 1099-R: $50. Published August 29, 2016.
+
+* Vote pairing in the United States presidential election, 2016: $105. Published November 2, 2016.
 
 === Miscellaneous work ===
 
