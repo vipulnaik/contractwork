@@ -16,13 +16,15 @@ Additional notes: Finished grade 10 at Newport High School.
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $449
+Grand total (this is taxable income for tax year 2016): $476
 
 Payment made: $416
 
-Net payment due: $33
+Net payment due: $60
 
-== Completed pages ==
+=== Completed pages ===
+
+Total: $449
 
 * Silicon Valley Education Foundation: $33
 
@@ -33,3 +35,10 @@ Net payment due: $33
 * Timeline of e-commerce: $175. Completed on August 28, 2016.
 
 * Chicago Community Trust: $33. Completed on October 21, 2016.
+
+=== Improvements to existing pages ===
+
+Total: $27
+
+* Vote pairing in the United States presidential election:
+  $27. Completed November 3, 2016.
