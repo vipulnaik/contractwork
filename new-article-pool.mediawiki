@@ -22,8 +22,6 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 === Global (and national/local) health ===
 
-* Global Outbreak Alert and Response Network (reserved for Devansh): $25-40 (depending on length and quality): It is already mentioned as a single para in the Wikipedia global alert page, but deserves its own page.
-
 * Global Programme on AIDS: $30-50 (depending on length and quality) (reserved for Daniel): This was run by WHO and was a predecessor to UNAIDS, the Joint United Nations Programme on HIV/AIDS. Also, both the new page and the existing page on UNAIDS should clearly describe the relationship between the programs.
 
 * Selective primary healthcare: Expand on the [https://en.wikipedia.org/wiki/Primary_healthcare#Selective_PHC section on the topic] and make this its own page.
