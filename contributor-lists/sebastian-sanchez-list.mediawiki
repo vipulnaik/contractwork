@@ -18,9 +18,9 @@ Additional notes: Based in Argentina
 
 Total money earned as income: $3152
 
-Payment made: $3349
+Payment made: $4026
 
-Net payment due: ($197)
+Net payment due: ($874)
 
 Note: Sebastian started work in April and took a break in June.
 
@@ -134,11 +134,11 @@ Total: $5
 
 === Payment schedule ===
 
-Total payment amount received: $3301
+Total payment amount received: $3970
 
-Total transaction cost $48 (6 transactions, $8 each) + $8 (one pending transaction)
+Total transaction cost $56 (7 transactions, $8 each)
 
-Total money: $3349
+Total money: $4026
 
 Each payment had a transaction fee of $8. Thus, the total amount we consider paid is the total of the payment amounts + ($8 * number of payments).
 
@@ -149,3 +149,5 @@ Each payment had a transaction fee of $8. Thus, the total amount we consider pai
 * Fifth payment of $670 was initiated on August 20, 2016 (Saturday) and completed on August 22, 2016 (Monday).
 
 * Sixth payment of $661 was initiated on October 1, 2016 (Saturday) and completed on October 3, 2016 (Monday).
+
+* Seventh payment of $669 was initiated on November 5, 2016 (Saturday) and completed on November 7, 2016 (Monday).
