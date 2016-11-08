@@ -16,21 +16,21 @@ Additional notes: Based in Argentina
 
 === Summary ===
 
-Total money earned as income: $3152
+Total money earned as income: $3262
 
 Payment made: $4026
 
-Net payment due: ($874)
+Net payment due: ($764)
 
 Note: Sebastian started work in April and took a break in June.
 
 == Completed pages ==
 
-Total: $3147 (36 pages)
+Total: $3257 (37 pages)
 
 === Totals by page type ===
 
-* Timeline of healthcare in country X: $1271 (13 pages). Access Wikipedia views data [here http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Country%20healthcare%20timelines%20created%20by%20Sebastian%20Sanchez&allmonths=allmonths]
+* Timeline of healthcare in country X: $1381 (14 pages). Access Wikipedia views data [here http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Country%20healthcare%20timelines%20created%20by%20Sebastian%20Sanchez&allmonths=allmonths&drilldown=all]
 
 * Disease timelines: $1466 (18 pages). Access Wikipedia views data [here http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Disease%20timelines%20created%20by%20Sebastian%20Sanchez&allmonths=allmonths]
 
@@ -50,7 +50,7 @@ Total: $3147 (36 pages)
 
 * September 2016: $550 (7 pages)
 
-* October 2016 (current month): $486 (7 pages)
+* October 2016: $596 (8 pages)
 
 === Pages ===
 
@@ -125,6 +125,8 @@ Total: $3147 (36 pages)
 * Timeline of healthcare in France: $110. Published October 22, 2016.
 
 * Timeline of healthcare in Italy: $110. Published October 26, 2016.
+
+* Timeline of healthcare in Russia: $110. Published October 31, 2016, finalized November 7, 2016.
 
 == Additions to existing pages, beyond those already covered in completed pages section ==
 
