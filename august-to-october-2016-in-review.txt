@@ -2,15 +2,26 @@ This is my fourth quarterly review, and it covers the months from August to Octo
 
 Things continue to be busy on the <a href="/job/">job front</a>. There were a few big job-related projects that happened this quarter. I expect the next quarter to be more relaxed on the job front, partly because of a winter break slowdown and partly because some of the big projects are over.
 
+<h4>Updates to Wikipedia Views</h4>
+
+I made a <a href="https://github.com/vipulnaik/wikipediaviews/commits">number of updates</a> to the code underlying <a href="http://wikipediaviews.org">Wikipedia Views/a>, a tool I build to make it easy for people to look up views of multiple Wikipedia pages over long time periods.
+
+The chief changes I made include:
+
+<ul>
+	<li>Added support for looking up mobile web, mobile app, desktop spider, and mobile web spider data from July 2015 onward, using the Wikimedia API. Also, to make the desktop data consistent with the other sources, I switched desktop to use data from the Wikimedia API starting July 2015 (previously, it had used the Wikimedia API only starting January 2016). This has retroactively changed some pageview counts on Wikipedia Views.</li>
+	<li>Added support for cumulative Facebook shares starting October 2016, and drawing on the Facebook API. This data only includes pages that were successfully captured at the end of the month.</li>
+</ul>
+
 <h4>Wikipedia editing</h4>
 
 <em>For background information, see my <a href="/wikipedia">site page about Wikipedia</a></em>
 
-I created three new pages this quarter: <a href="https://en.wikipedia.org/wiki/Alan_C._Nelson">Alan C. Nelson</a>, <a href="https://en.wikipedia.org/wiki/Gladys_Block">Gladys Block</a>, and <a href="https://en.wikipedia.org/wiki/Nishimura_Ekiu_v._United_Sates">Nishimura Ekiu v. United States</a>. All of them were created in the latter half of October. The creation of these pages marked my return to Wikipedia page creation after a rather long hiatus. I expect to continue creating new pages at a similar rate for the next few weeks.
+I created two new pages this quarter: <a href="https://en.wikipedia.org/wiki/Alan_C._Nelson">Alan C. Nelson</a> and <a href="https://en.wikipedia.org/wiki/Gladys_Block">Gladys Block</a>. All of them were created in the latter half of October, after a long hiatus from new Wikipedia page creation. I expect to continue creating new pages at a similar rate for the next few weeks.
 
 As I mentioned in my <a href="http://vipulnaik.com/blog/february-to-april-2016-in-review/">previous quarterly review</a>, the pages I am creating right now are not as optimized for pageviews as pages in the past have been. Rather, they are pages in domains where I want to acquire a deeper understanding and believe the research process involved in creating the page will help me.
 
-In total, pages I created over my lifetime got ? pageviews over the quarter. You can see the data for all of 2016 (only three of the ten months are in this quarter) <a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Vipul%20Naik&year=2016">here</a>.
+In total, pages I created over my lifetime got ? pageviews over the quarter. You can see the lifetime data for the tag as a whole <a href="http://wikipediaviews.org/displayviewsformultipletagsandmonths.php?tag=Pages%20created%20by%20Vipul%20Naik&drilldown=all">here</a>.
 
 <h4>Sponsored Wikipedia editing</h4>
 
