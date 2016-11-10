@@ -13,15 +13,25 @@ The chief changes I made include:
 	<li>Added support for cumulative Facebook shares starting October 2016, and drawing on the Facebook API. This data only includes pages that were successfully captured at the end of the month.</li>
 </ul>
 
+I also intend to make the following additional changes, which might be completed by the time you read the review.
+
+<ul>
+	<li>Add support for better graphing of drilldown totals.</li>
+	<li>Highlight pages that currently redirect to other pages.</li>
+	<li>Add support for showing data on breakdown by referrers for a few months in 2015 and 2016 when Wikipedia clickstream data is available.</li>
+</ul>
+
 <h4>Wikipedia editing</h4>
 
 <em>For background information, see my <a href="/wikipedia">site page about Wikipedia</a></em>
 
 I created two new pages this quarter: <a href="https://en.wikipedia.org/wiki/Alan_C._Nelson">Alan C. Nelson</a> and <a href="https://en.wikipedia.org/wiki/Gladys_Block">Gladys Block</a>. All of them were created in the latter half of October, after a long hiatus from new Wikipedia page creation. I expect to continue creating new pages at a similar rate for the next few weeks.
 
-As I mentioned in my <a href="http://vipulnaik.com/blog/february-to-april-2016-in-review/">previous quarterly review</a>, the pages I am creating right now are not as optimized for pageviews as pages in the past have been. Rather, they are pages in domains where I want to acquire a deeper understanding and believe the research process involved in creating the page will help me.
+While reviewing my early Wikipedia page creation history, I realized that a little over 100 pages I had created prior to 2010, that have survived deletion, were not included in the Wikipedia Views tag for pages I created. After adding them, the total count of pages I have created (including a few redirects) stands at 417. 
 
-In total, pages I created over my lifetime got ? pageviews over the quarter. You can see the lifetime data for the tag as a whole <a href="http://wikipediaviews.org/displayviewsformultipletagsandmonths.php?tag=Pages%20created%20by%20Vipul%20Naik&drilldown=all">here</a>.
+As I mentioned in my <a href="http://vipulnaik.com/blog/may-to-july-2016-in-review/">previous quarterly review</a>, the pages I am creating right now are not as optimized for pageviews as pages in the past have been. Rather, they are pages in domains where I want to acquire a deeper understanding and believe the research process involved in creating the page will help me.
+
+In total, pages I created over my lifetime got ? pageviews over the quarter. You can see the lifetime data for the tag as a whole <a href="http://wikipediaviews.org/displayviewsformultipletagsandmonths.php?tag=Pages%20created%20by%20Vipul%20Naik&drilldown=all">here</a>. I have also attached a graph from the link; the highest line is the total and the second highest is the desktop pageviews.
 
 <h4>Sponsored Wikipedia editing</h4>
 

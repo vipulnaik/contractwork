@@ -20,11 +20,7 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $613.20
-
-Payment made: $355.90
-
-Net payment due: $257.30
+Grand total (this is taxable income for tax year 2016): $613.20 (paid)
 
 === Completed pages ===
 
@@ -83,3 +79,13 @@ Total: $108.70
 * Sean Yu: Commission of 10% on $55 = $5.50
 
 * Devansh Dwivedy: Commission of 10% on $80 = $8
+
+=== Payment history ===
+
+* Some time in February or March: $115, paid through Issa
+
+* April 30, 2016: $44 via PayPal
+
+* August 30, 2016: $196.90 via PayPal
+
+* November 9, 2016: $257.30 via PayPal
