@@ -4,34 +4,39 @@ Things continue to be busy on the <a href="/job/">job front</a>. There were a fe
 
 <h4>Updates to Wikipedia Views</h4>
 
-I made a <a href="https://github.com/vipulnaik/wikipediaviews/commits">number of updates</a> to the code underlying <a href="http://wikipediaviews.org">Wikipedia Views/a>, a tool I build to make it easy for people to look up views of multiple Wikipedia pages over long time periods.
+I made a <a href="https://github.com/vipulnaik/wikipediaviews/commits">number of updates</a> to the code underlying <a href="http://wikipediaviews.org">Wikipedia Views/a>, a tool I build to make it easy for people to look up views of multiple Wikipedia pages over long time periods. Many of these changes were motivated by work I'm doing on a Wikipedia decline blog post discussed later.
 
 The chief changes I made include:
 
 <ul>
 	<li>Added support for looking up mobile web, mobile app, desktop spider, and mobile web spider data from July 2015 onward, using the Wikimedia API. Also, to make the desktop data consistent with the other sources, I switched desktop to use data from the Wikimedia API starting July 2015 (previously, it had used the Wikimedia API only starting January 2016). This has retroactively changed some pageview counts on Wikipedia Views.</li>
 	<li>Added support for cumulative Facebook shares starting October 2016, and drawing on the Facebook API. This data only includes pages that were successfully captured at the end of the month.</li>
+	<li>Added automatic graph generation when viewing data for multiple months or years. The graphs, shown below the table, help give a bird's eye view of the numbers in the table.</li>
 </ul>
 
-I also intend to make the following additional changes, which might be completed by the time you read the review.
+Other changes I hope to make in the next few weeks are listed below.
 
 <ul>
-	<li>Add support for better graphing of drilldown totals.</li>
+	<li>Re-enable CSV export, a feature I had disabled while adding new drildown-based features.</li>
+	<li>Complete documenting and fixing bugs in the existing features.</li>
 	<li>Highlight pages that currently redirect to other pages.</li>
 	<li>Add support for showing data on breakdown by referrers for a few months in 2015 and 2016 when Wikipedia clickstream data is available.</li>
+	<li>Allow for comparison of data across multiple languages in the same query.</li>
 </ul>
 
 <h4>Wikipedia editing</h4>
 
 <em>For background information, see my <a href="/wikipedia">site page about Wikipedia</a></em>
 
-I created two new pages this quarter: <a href="https://en.wikipedia.org/wiki/Alan_C._Nelson">Alan C. Nelson</a> and <a href="https://en.wikipedia.org/wiki/Gladys_Block">Gladys Block</a>. All of them were created in the latter half of October, after a long hiatus from new Wikipedia page creation. I expect to continue creating new pages at a similar rate for the next few weeks.
+I created two new pages this quarter: <a href="https://en.wikipedia.org/wiki/Alan_C._Nelson">Alan C. Nelson</a> and <a href="https://en.wikipedia.org/wiki/Gladys_Block">Gladys Block</a>. All of them were created in the latter half of October, after a long hiatus from new Wikipedia page creation.
+
+I expect to resume Wikipedia page creation after I finish work on Wikipedia Views and on the "Wikipedia decline" post I discuss later in this review.
 
 While reviewing my early Wikipedia page creation history, I realized that a little over 100 pages I had created prior to 2010, that have survived deletion, were not included in the Wikipedia Views tag for pages I created. After adding them, the total count of pages I have created (including a few redirects) stands at 417. 
 
-As I mentioned in my <a href="http://vipulnaik.com/blog/may-to-july-2016-in-review/">previous quarterly review</a>, the pages I am creating right now are not as optimized for pageviews as pages in the past have been. Rather, they are pages in domains where I want to acquire a deeper understanding and believe the research process involved in creating the page will help me.
+In total, pages I created over my lifetime got 584,534 desktop pageviews, 354,365 mobile web pageviews, and 8,081 mobile app pageviews. In addition, they were viewed 141,778 times by desktop spiders and 14,885 times by mobile web spiders.
 
-In total, pages I created over my lifetime got ? pageviews over the quarter. You can see the lifetime data for the tag as a whole <a href="http://wikipediaviews.org/displayviewsformultipletagsandmonths.php?tag=Pages%20created%20by%20Vipul%20Naik&drilldown=all">here</a>. I have also attached a graph from the link; the highest line is the total and the second highest is the desktop pageviews.
+You can see the lifetime data for the tag as a whole <a href="http://wikipediaviews.org/displayviewsformultipletagsandmonths.php?tag=Pages%20created%20by%20Vipul%20Naik&drilldown=all">here</a>. I have also attached a graph from the link; the highest line is the total and the second highest is the desktop pageviews. You can also access a gigantic data (with 223,095 cells of which 71,307 are legitimately filled) of all pages I created across all months and all device types <a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Vipul%20Naik&allmonths=allmonths&drilldown=all">here</a> (cautionary note: this is a large page and may take several seconds to load).
 
 <h4>Sponsored Wikipedia editing</h4>
 
@@ -41,7 +46,9 @@ Sponsored Wikipedia editing operations continued, though at a lower overall leve
 
 Issa Rice (<a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki">pages and payments</a>) and Sebastian Sanchez (<a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki">pages and payments</a>) have continued to work at a similar rate as before. 
 
-Sebastian in particular has continued to work on pages in two broad themes: disease-related timelines (18 pages so far, on which I've spent $1466) and timelines of healthcare by country (13 pages so far, on which I've spent $1271). He has also created four other pages in themes broadly related to healthcare and global health, and done one translation.
+Sebastian in particular has continued to work on pages in two broad themes: disease-related timelines (18 pages so far, on which I've spent $1466) and timelines of healthcare by country (14 pages so far, on which I've spent $1381). He has also created four other pages in themes broadly related to healthcare and global health, and done one translation.
+
+I plan to more comprehensively review sponsored Wikipedia editing at the end of the year. By then, I expect to enter the data into a database so that I can generate a variety of summary reports.
 
 <h4>WikiHow</h4>
 
@@ -55,7 +62,13 @@ I also began drafting a new article in wikiHow style: a href="https://github.com
 
 <h4>Personal server migration</h4>
 
-I finished migrating a personal server that I had begun migrating last quarter.
+I finished migrating a personal server (that hosts a variety of websites I manage). I had begun this migration last quarter.
+
+<h4>Wikipedia decline blog post</h4>
+
+I worked together with Issa Rice on a blog post that continues to explore questions originally raised in my post <a href="http://lesswrong.com/r/discussion/lw/lxc/the_great_decline_in_wikipedia_pageviews/">The great decline in Wikipedia pageviews</a>. The new post is far thorougher than the older post. It uses new, more reliable pageview data, Internet surveys, and better graphing and visualization tools.
+
+The first iteration of the post was done by Issa Rice over about ten days of work, and can be seen at 
 
 <h4>Entertainment</h4>
 
