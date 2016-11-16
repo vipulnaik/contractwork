@@ -39,12 +39,37 @@ The Immigration Act of 1891 focused on the situation of migrants from countries 
 
 Of these provisions, it was the new border procedures that would be effectively challenged by the case.
 
-
 == The case ==
 
-=== Case details ===
+=== Initial detention by California immigration commissioner and ''habeas corpus'' petition ===
 
-The case involved Nishimura Ekiu, a 25-year-old female citizen of Japan who arrived on the steamship ''Belgic'' from [[Yokohama]] on May 7, 1891. William H. Thornley, commissioner of immigration of the state of California, refused to allow her to land. In a report on May 13, 1891, he elaborated on the reason for denying her entry: "Passport states that she comes to San Francisco in company with her husband, which is not a fact. She states that she has been married two years, and that her husband has been in the United States one year, but she does not know his address. She has $22, and is to stop at some hotel until her husband calls for her."
+The case involved Nishimura Ekiu, a 25-year-old female citizen of Japan who arrived on the steamship ''Belgic'' from [[Yokohama]], [[Japan]] on May 7, 1891. William H. Thornley, commissioner of immigration of the state of California, refused to allow her and five other passengers to land. In a report on May 13, 1891, he elaborated on the reason for denying her entry: "Passport states that she comes to San Francisco in company with her husband, which is not a fact. She states that she has been married two years, and that her husband has been in the United States one year, but she does not know his address. She has $22, and is to stop at some hotel until her husband calls for her." Rather than detaining her on the ship, he decided to detain her at the Methodist Episcopal Japanese and Chinese Mission, a location he deemed more suitable for her to stay, until the date the ship would sail back.<ref name=lii/> His report cited the [[Immigration Act of 1882]]. The collector approved Thornley's decision. On the same day (May 13), a writ of ''[[habeas corpus]]'' was issued to Thornley to produce Ekiu. Thornley replied explaining where he had detained her and said he would continue to detain her there until final disposition of the writ.<ref name=lii/>
+
+=== Re-examination and rejection of ''habeas corups'' by an immigration inspector ===
+
+On May 14, 1891, the secretary of the treasury appointed John L. Hatch, an immigration inspector at the port of [[San Francisco]], to re-examine the case. On May 16, Hatch submitted a report almost identical to that submitted originally by Thornley, except that he also cited the [[Immigration Act of 1891]] in support of the decision.<ref name=lii/> On May 18, Hatch intervened in opposition of the writ of ''habeas corpus'', noting that based on his investigation, Ekiu was 'an alien immigrant from Yokohama, empire of Japan,' and 'a person without means of support, without relatives or friends in the United States,' and "a person unable to care for herself, and liable to become a public charge,and therefore inhibited from landing under the provisions of said act of 1891, and previous acts of which said act is amendatory."<ref name=lii/>
+
+=== Challenge and loss in the circuit court ===
+
+At the hearing before the commissioner of the circuit court, the petitioner offered to introduce evidence as to her right to land; and contended that if the Immigration Act of 1891 allowed immigration bureaucrats to make final decisions on such matters without the possibility of judicial review, it was unconstitional.
+
+The commissioner excluded the evidence offered as to the petitioner's right to land, noting that the question of that right had been tried and determined by a duly-constituted and competent tribunal having jurisdiction in the premises. Therefore, the court rejected the ''habeas corpus'' petition on July 24, 1891.<ref name=lii/>
+
+=== Supreme Court case ===
+
+The appellant, Nishimura Ekiu, then appealed to the [[United States Supreme Court]]. The case was heard before the Supreme Court, with Lyman I. Mowry representing the appellant and Assistant Attorney General Packet representing the United States.
+
+The court ruled against the appellant. The court agreed with the appellant that an appellant had the right to challenge, with a writ of 'habeas corpus'', any unlawful detention. For this, it cited ''[[Chew Heong v. United States]]'', ''[[United States v. Jung Ah Lung]]'', and ''[[Wan Shing v. United States]]'' as precedents.
+
+However, the court sided with the United States government on the position that the final determination of facts of the case (specifically, whether the appellant had relatives in the United States, and whether she would be able to support herself financially) was to be made by the immigration authorities. A number of precedents, including in domains unrelated to immigration, were cited. RAW LIST TO FORMAT AND INTERPRET: Martin v. Mott, 12 Wheat. 19, 31; Railroad Co. v. Stimpson, 14 Pet. 448, 458; Benson v. McMahon, 127 U. S. 457, 8 Sup. Ct. Rep. 1240; In re Luis Oteiza y Cortes, 136 U. S. 330, 10 Sup. Ct. Rep. 1031. It is not within the province of the judiciary to order that foreigners who have never been naturalized, nor acquired any domicile or residence within the United States, nor even been admitted into the country pursuant to law, shall be permitted to enter, in opposition to the constitutional and lawful measures of the legislative and executive branches of the national government. As to such persons, the decisions of executive or administrative officers, acting within powers expressly conferred by congress, are due process of law. Murray v. Hoboken Co., 18 How. 272; Hilton v. Merritt, 110 U. S. 97, 3 Sup. Ct. Rep. 548.
+
+The court also reiterated the position that the management of immigration was under the purview of the executive branch, within parameters set by legislative acts of Congress. The [[head money cases]], that had established the legitimacy of a head tax introduced in the [[Immigration Ac of 1882]], were cited as precedent for this purpose.
+
+The court also noted that it was not necessary for it to express an opinion on Thornley's actions. Rather, the review by Hatch sufficed for that purpose. It also noted that ''habeas corpus'' was simply a means to determine whether somebody could be held in custody, rather that a way to recover damages for unlawful arrest. The court argued that Hatch's appointment and his testimony were valid, and therefore ruled against the appellant.<ref name=lii/>
+
+
+
+
 
 == References ==
 
