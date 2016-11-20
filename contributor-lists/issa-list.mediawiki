@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $5518.30
+Total money earned by doing work (taxable as income for 2016): $5558.30
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: $659.83 (excluding pending payment)
+Net payment due: $699.83 (excluding pending payment)
 
 === Completed pages ===
 
@@ -123,7 +123,7 @@ Total so far: $250
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1128
+Total so far: $1168
 
 * stats.grok.se Wikimedia API fix: $80
 
@@ -166,6 +166,8 @@ Total so far: $1128
 * Wikipedia clickstream dataset work: $130. Completed November 4, 2016.
 
 * Investigation into correlation between estimates of foreign-born and unauthorized population and state-level values of the populations: $80. Completed November 15, 2016.
+
+* Adding bar and line chart generation code for pageview distribution for Wikipedia Views: $40. Completed November 19, 2016. Successfully integrated into Wikipedia Views on the same date.
 
 === Touch payments ===
 

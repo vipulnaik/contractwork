@@ -14,7 +14,7 @@
   |Dissent=Brewer
 }}
 
-'''''Nishimura Ekiu v. United States''''' [[case citation|149 U.S. 651]], decided by the [[United States Supreme Court]] on January 18, 1892, was a case challenging the constitutionality of some provisions of the [[Immigration Act of 1891]].<ref name=lii>{{cite web|url = https://www.law.cornell.edu/supremecourt/text/142/651|title = NISHIMURA EKIU v. UNITED STATES|publisher = [[Legal Information Institute]]|accessdate = October 27, 2016}}</ref> The case was designed against the litigant and in favor of the government, upholding the law.<ref name=lii/>
+'''''Nishimura Ekiu v. United States''''' [[case citation|149 U.S. 651]], decided by the [[United States Supreme Court]] on January 18, 1892, was a case challenging the constitutionality of some provisions of the [[Immigration Act of 1891]].<ref name=lii>{{cite web|url = https://www.law.cornell.edu/supremecourt/text/142/651|title = NISHIMURA EKIU v. UNITED STATES|publisher = [[Legal Information Institute]]|accessdate = October 27, 2016}}</ref> The case was designed against the litigant and in favor of the government, upholding the law.<ref name=lii/> The case is one of two major cases that involved challenges to the Immigration Act of 1891 by Japanese immigrants, the other (and more famous) case being ''[[Yamataya v. Fisher]]''.
 
 == Background ==
 
@@ -67,6 +67,28 @@ The court also reiterated the position that the management of immigration was un
 
 The court also noted that it was not necessary for it to express an opinion on Thornley's actions. Rather, the review by Hatch sufficed for that purpose. It also noted that ''habeas corpus'' was simply a means to determine whether somebody could be held in custody, rather that a way to recover damages for unlawful arrest. The court argued that Hatch's appointment and his testimony were valid, and therefore ruled against the appellant.<ref name=lii/>
 
+=== Dissent ===
+
+Justice Brewer dissented from the majority opinion.<ref name=lii/>
+
+== Relation with other court cases ==
+
+=== Relation with the second Japanese immigrant case ===
+
+A later case, ''[[Yamataya v. Fisher]]'' (1903), bears many similarities with ''Nishimura Ekiu v. United States''. Both cases involved a female Japanese citizen who challenged immigration authorities' decision to let her into the United States, and both sought to challenge the [[Immigration Act of 1891]] that the denial was based on. In both cases, the court ruled against the appellant and declined to consider the specific facts surrounding the appellant's admissibility into the United States. In both cases, the appellant was ultimately deported.
+
+However, the two cases differ in terms of the precedent they set. Whereas ''Nishimura Ekiu'' is seen as a complete refusal by the court to consider the appellant's claim, the court ''did'' acknowledge the appellant's rights to due process in ''Yamataya v. Fisher''. The court in ''Yamataya v. Fisher'' argued that the appeals process within the immigration bureaucracy was suffficient to meet the due process requirements, and the appellant's rights were not violated. However, the very fact that the court opined on the issue set a precedent for future challenges based on procedural due process violations.
+
+
+=== Value as a precedent for later doctrines in immigration law ===
+
+The case, along with ''[[Chae Chan Ping v. United States]]'' and ''[[Fong Yue Ting v. United States]]'', has been cited as one of the precedents for Supreme Court deference to the [[plenary power]] doctrine for immigration law, and the related doctrine of [[consular nonreviewability]].<ref>{{cite book|url = https://books.google.com/books?id=eZ7TqtjYlfcC&pg=PA216&lpg=PA216&dq=nishimura+ekiu+v+united+states&source=bl&ots=1WnEJRk58P&sig=we2bNMGVs2U5u6sNQLBHsNcc3Q4&hl=en&sa=X&ved=0ahUKEwjT5KDpnKvQAhWKRo8KHRiPCaA4ChDoAQgiMAE#v=onepage&q=nishimura%20ekiu%20v%20united%20states&f=false|title = In search of equality: the Chinese struggle against discrimination in nineteenth-century America|last = McClain|first = Charles}}</ref>{{rp|216}}<ref>{{cite book|url = https://books.google.com/books?id=AKvnCgAAQBAJ&pg=PA44&lpg=PA44&dq=nishimura+ekiu+v+united+states&source=bl&ots=htr48jOD8P&sig=BG6r6KMKQyP9wgm5WGQvxj3bi48&hl=en&sa=X&ved=0ahUKEwjT5KDpnKvQAhWKRo8KHRiPCaA4ChDoAQgvMAQ#v=onepage&q=nishimura%20ekiu%20v%20united%20states&f=false|title = Justice and Authority in Immigration Law|last = Grey|first = Colin}}</ref>{{rp|44}} However, the court's more cautious response in ''Nishimura Ekiu v. United States'' than in ''Chae Chan Ping v. United States'' set a precedent in practice of a greater burden of proof for deportation than for exclusion cases.<ref>{{cite web|url = http://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=3558&context=penn_law_review|title = The Exclusion and Detention of Aliens: Lessons from the Life of Ellen Knauff and Ignatz Mezei|publisher = [[University of Pennsylvania Law Review]]|last = Weisselberg|first = Charles}}</ref>
+
+
+
+// CHECK IF REFERENCES BELOW REFERENCE NISHIMURA EKIU
+
+In the case and most of the other Chinese Exclusion Cases, the Supreme Court repeatedly sided with the United States government and against aliens, offering the rationale that immigration policy and its enforcement were a matter for the legislative and executive branches. Some commentators argue that this case was an important precedent in establishing the [[plenary power]] doctrine,<ref>{{cite web|url = http://papers.ssrn.com/sol3/papers.cfm?abstract_id=722681|title = Chae Chan Ping and Fong Yue Ting: The Origins of Plenary Power|last = Chin|first = Gabriel|accessdate = January 16, 2016}}</ref><ref name=cis>{{cite web|url = http://cis.org/plenarypower|title = Plenary Power: Should Judges Control U.S. Immigration Policy?|last = Feere|first = John|date = February 1, 2009|accessdate = February 27, 2016|publisher = [[Center for Immigration Studies]]}}</ref><ref>{{cite web|url = http://scholarship.law.edu/cgi/viewcontent.cgi?article=1833&context=lawreview|title = Resident Aliens and the First Amendment: The Need for Judicial Recognition of Full Free Speech and Association Rights|last = Henthorne|first = Heather|publisher = Catholic University Law Review|accessdate = February 27, 2016}}</ref> whereas others have disagreed about the significance of these cases for plenary power.<ref>{{cite web|url = http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033249|title = The Devil Made Me Do It: The Plenary Power Doctrine and the Myth of the Chinese Exclusion Case|last = Maltz|first = Eric|date = April 2, 2012|accessdate = January 16, 2016}}</ref> The defining case for the plenary power doctrine, ''[[Knauff v. Shaughnessy]]'' (1950) did not explicitly cite the case.
 
 
 
