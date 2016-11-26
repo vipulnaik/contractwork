@@ -30,15 +30,15 @@ Wikipedia Views link for pages significantly edited but not created: http://wiki
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $2164
+Total money earned by doing work (taxable as income for 2016): $2174
 
 Payment made: $2000 (check)
 
-Net payment due: $164
+Net payment due: $174
 
 === Completed pages ===
 
-Total: $1772
+Total: $1817
 
 * Timeline of animal welfare and rights: $150. Completed April 25, 2016.
 
@@ -98,18 +98,20 @@ Total: $1772
 
 === Improvements to existing pages ===
 
-Total: $147
+Total: $157
 
-* Animal welfare in the United States (significant additions to pre-existing page): $60
+* Animal welfare in the United States (significant additions to pre-existing page): $60. Completed May 8, 2016.
 
-* Animal welfare and rights in Israel (significant additions to pre-existing page): $50
+* Animal welfare and rights in Israel (significant additions to pre-existing page): $50. Completed May 24, 2016.
 
-* The Humane League: $25
+* The Humane League: $25. Completed June 23, 2016.
 
-* Faunalytics: $12
+* Faunalytics: $12. Completed June 27, 2016.
+
+* The Good Food Institute: $10. Completed November 24, 2016.
 
 == Non-Wikipedia ==
 
 Total: $200
 
-* EAF blog post: $200 initial, add more based on traction
+* EAF blog post on cellular agriculture: $200. Completed June 20, 2016.
