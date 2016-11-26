@@ -86,11 +86,11 @@ Form 1040, though published on January 1, 2016 is counted in 2015 since the bulk
 
 Total so far: $327
 
-* Monthly update of Open Phil and Good Ventures grant lists (end of April): $50
+* Monthly update of Open Phil and Good Ventures grant lists (end of April): $50. Completed April 30, 2016.
 
-* Monthly update of Open Phil and Good Ventures grant lists (end of May): $50
+* Monthly update of Open Phil and Good Ventures grant lists (end of May): $50. Completed June 4, 2016.
 
-* Monthly update of Open Phil and Good Ventures lists (end of June): $27
+* Monthly update of Open Phil and Good Ventures lists (end of June): $27. Completed July 1, 2016.
 
 * Monthly update of Open Phil and Good Ventures lists (end of July): $45 (6 new grants + 2 delayed grants)
 
@@ -125,27 +125,27 @@ Total so far: $250
 
 Total so far: $1233
 
-* stats.grok.se Wikimedia API fix: $80
+* stats.grok.se Wikimedia API fix: $80. Completed January 31, 2016.
 
-* Other misc pay for consulting etc.: $25
+* Other misc pay for consulting etc.: $25. Completed April 16, 2016.
 
-* Adding years to DCP page: $6
+* Adding years to DCP page: $6. Completed April 13, 2016.
 
-* Retrieval of Animal Charity Evaluators: $20
+* Retrieval of Animal Charity Evaluators: $20. Completed March 18, 2016.
 
-* Wasted effort on timeline of mental health, after discovering that a similar page on timeline of psychiatry exists: $10
+* Wasted effort on timeline of mental health, after discovering that a similar page on timeline of psychiatry exists: $10. Completed April 26, 2016.
 
-* Disease Control Priorities Project reference cleanup, page restructuring, more info on specific reports: $20 (more once DCP1 is expanded)
+* Disease Control Priorities Project reference cleanup, page restructuring, more info on specific reports: $20. Completed May 25, 2016.
 
-* Wikipedia usage survey construction and associated research: $70
+* Wikipedia usage survey construction and associated research: $70. Completed May 31, 2016.
 
-* Sprucing up of GiveWell top charity pages: $55 ($25 each for AMF and GiveDirectly, another $5 for other general cleanup)
+* Sprucing up of GiveWell top charity pages: $55 ($25 each for AMF and GiveDirectly, another $5 for other general cleanup). Completed June 24, 2016.
 
-* Work on review of GiveWell's finances and expenses: $100 (work still ongoing)
+* Work on review of GiveWell's finances and expenses: $100 (work still ongoing). Completed June 25, 2016.
 
-* Tax issues resolution: $100 (final submission not done yet but this will be the total pay)
+* Tax issues resolution: $100 (final submission not done yet but this will be the total pay). Completed July 1, 2016.
 
-* Wikipedia usage survey writeup: $110
+* Wikipedia usage survey writeup: $110. Completed July 14, 2016.
 
 * Privacy Impact Assessment cleanup: $5
 
