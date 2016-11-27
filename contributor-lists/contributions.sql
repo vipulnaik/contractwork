@@ -76,8 +76,31 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Timeline of e-commerce', 'https://en.wikipedia.org/wiki/Timeline_of_e-commerce', '2016-08-28', 175, 'Teechnology/general', 'Timeline', NULL),
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Chicago Community Trust', 'https://en.wikipedia.org/wiki/Chicago_Community_Trust', '2016-10-21', 33, 'Philanthropy/foundations', 'Prose', NULL);
 
+# -- Charlie Corner page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Charlie Corner','Wikipedia','Wikipedia page creation','Form 1098-T','https://en.wikipedia.org/wiki/Form_1098-T','2016-07-10',50,'United States taxation','Prose',NULL),
+  ('Charlie Corner','Wikipedia','Wikipedia page creation','Adora Cheung','https://en.wikipedia.org/wiki/Adora_Cheung','2016-08-04',32,'Technology/influential people','Prose',NULL),
+  ('Charlie Corner','Wikipedia','Wikipedia page creation','Fresh Fruit and Vegetable Program','https:/en.wikipedia.org/wiki/Fresh_Fruit_and_Vegetable_Program','2016-09-14',70,'United States welfare state','Prose',NULL),
+  
+# -- Chris Kunin page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','The Ethics of Voting','https://en.wikipedia.org/wiki/The_Ethics_of_Voting','2016-06-16',30,'Political philosophy/political science','Prose',NULL),
+  ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Global Polio Eradication Initiative','https://en.wikipedia.org/wiki/Global_Polio_Eradication_Initiative','2016-06-21',35,'Global health/programs','Prose',NULL),
+  ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','The Entrepreneurial State','https://en.wikipedia.org/wiki/The_Entrepreneurial_State','2016-07-05',32,'Political philosophy/political science','Prose',NULL),
+  ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Illiberal Reformers','https://en.wikipedia.org/wiki/Illiberal_Reformers','2016-08-17',35,'Political philosophy/political science','Prose',NULL),
+  ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Stokes interview','https://en.wikipedia.org/wiki/Stokes_interview','2016-09-04',50,'United States migration','Prose',NULL),
+  ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Scientific Charity Movement','https://en.wikipedia.org/wiki/Scientific_Charity_Movement','2016-10-10',35,'Philanthropy/philosophy','Prose',NULL);
+  
+# -- Devansh Dwivedy page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Richard W. Boone','https://en.wikipedia.org/wiki/Richard_W._Boone','2016-06-29', 50, 'Philanthropy/influential people', 'Prose', NULL),
+  ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Field Foundation of New York','https://en.wikipedia.org/wiki/Field_Foundation_of_New_York','2016-07-15', 30, 'Philanthropy/foundations', 'Prose', NULL),
+  ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Global Outbreak Alert and Response Network','https://en.wikipedia.org/wiki/Global_Outbreak_Alert_and_Response_Network', 'Global health/organizations', 'Prose', NULL);
+  
 # -- Eddy Su page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Eddy Su','Wikipedia','Wikipedia page creation','H-1C visa','https://en.wikipedia.org/wiki/H-1C_visa','2016-06-12',38,'United States migration', 'prose', NULL),
+  ('Eddy Su','Wikipedia','Wikipedia page creation','H-1A visa','https://en.wikipedia.org/wiki/H-1A_visa','2016-06-13',33,'United States migration', 'prose', NULL),
   
   
 # -- Ethan Bashkansky's other work
