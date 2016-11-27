@@ -14,7 +14,7 @@ create table tasks(
   topic varchar(100) NOT NULL,
   format varchar(100) NOT NULL,
   notes varchar(2000) DEFAULT NULL
-)
+) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 # -- Ethan Bashkansky's Wikipedia work
 
