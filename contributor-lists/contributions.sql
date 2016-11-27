@@ -53,7 +53,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Klerokinesis', 'https://en.wikipedia.org/wiki/Klerokinesis','2016-08-20',20,'Biology','Prose', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of lymphoma', 'https://en.wikipedia.org/wiki/Timeline_of_lymphoma','2016-08-27',70,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of lung cancer', 'https://en.wikipedia.org/wiki/Timeline_of_lung_cancer','2016-08-28',65,'Global health/diseases','Timeline', NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of brain cancer', 'https://en.wikipedia.org/wiki/Timeline_of_brain_cancer','2016-09-01',82,'Global health/diseases','Timeline', '65 for original work, 17 for updates finished 2016-09-12'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of brain cancer', 'https://en.wikipedia.org/wiki/Timeline_of_brain_cancer','2016-09-01',82,'Global health/diseases','Timeline', '55 for original work, 27 for updates finished 2016-09-12'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of tuberculosis', 'https://en.wikipedia.org/wiki/Timeline_of_tuberculosis','2016-09-08',90,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of kidney cancer', 'https://en.wikipedia.org/wiki/Timeline_of_kidney_cancer','2016-09-11',55,'Global health/diseases','Timeline', '50 for initial version, 5 for updates published 2016-09-26'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of colorectal cancer', 'https://en.wikipedia.org/wiki/Timeline_of_colorectal_cancer','2016-09-12',58,'Global health/diseases','Timeline', NULL),
@@ -61,8 +61,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of cervical cancer', 'https://en.wikipedia.org/wiki/Timeline_of_cervical_cancer','2016-09-19',45,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of hospitals', 'https://en.wikipedia.org/wiki/Timeline_of_hospitals','2016-09-25',160,'Health systems','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of liver cancer', 'https://en.wikipedia.org/wiki/Timeline_of_liver_cancer','2016-10-01',49,'Global health/diseases','Timeline', NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of bladder cancer', 'https://en.wikipedia.org/wiki/Timeline_of_bladder_cancer','2016-10-01',45,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of bladder cancer', 'https://en.wikipedia.org/wiki/Timeline_of_bladder_cancer','2016-10-01',47,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in South Africa', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_South_Africa','2016-10-10',75,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in the Democratic Republic of the Congo', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_the_Democratic_Republic_of_the_Congo','2016-10-13',40,'Country healthcare','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Ethiopia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Ethiopia','2016-10-17',55,'Country healthcare','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in France', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_France','2016-10-22',110,'Country healthcare','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Italy', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Italy','2016-10-26',110,'Country healthcare','Timeline', NULL),
@@ -106,7 +107,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Richard W. Boone','https://en.wikipedia.org/wiki/Richard_W._Boone','2016-06-29', 50, 'Philanthropy/influential people', 'Prose', NULL),
   ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Field Foundation of New York','https://en.wikipedia.org/wiki/Field_Foundation_of_New_York','2016-07-15', 30, 'Philanthropy/foundations', 'Prose', NULL),
-  ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Global Outbreak Alert and Response Network','https://en.wikipedia.org/wiki/Global_Outbreak_Alert_and_Response_Network', 'Global health/organizations', 'Prose', NULL);
+  ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Global Outbreak Alert and Response Network','https://en.wikipedia.org/wiki/Global_Outbreak_Alert_and_Response_Network', '2016-11-06', 35, 'Global health/organizations', 'Prose', NULL);
   
 # -- Eddy Su page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
@@ -133,7 +134,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page creation',"The State of the World's Children", # -- '
   'https://en.wikipedia.org/wiki/The_State_of_the_World%27s_Children','2016-05-04',30,'Global health/events', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Child survival revolution','https://en.wikipedia.org/wiki/Child_survival_revolution','2016-05-11',101,'Global health/trends', 'Prose', NULL),
-  ('Issa Rice','Wikipedia','Wikipedia page creation','Participatory poverty assessment','https://en.wikipedia.org/wiki/Participatory_poverty_assessment','2016-05-17',64,'Poverty studies', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Participatory poverty assessment','https://en.wikipedia.org/wiki/Participatory_poverty_assessment','2016-05-17',63,'Poverty studies', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Voices of the Poor','https://en.wikipedia.org/wiki/Voices_of_the_Poor','2016-05-18',39,'Poverty studies', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','International Decision Support Initiative','https://en.wikipedia.org/wiki/International_Decision_Support_Initiative','2016-06-07',39,'Global health/organizations', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Amanda Glassman','https://en.wikipedia.org/wiki/Amanda_Glassman','2016-06-08',32,'Global health/influential people', 'Prose', NULL),
