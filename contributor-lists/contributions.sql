@@ -115,6 +115,33 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 # -- Issa Rice page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Green Card Test','https://en.wikipedia.org/wiki/Green_Card_Test','2016-01-05',25,'United States taxation/United States migration', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Triplebyte','https://en.wikipedia.org/wiki/User:Riceissa/Triplebyte','2016-06-04',31,'Technology/company','Prose','25 for initial work in January. 6 for later work in June and publication. Later deleted through AfD, userspace version survives'),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Form 1099','https://en.wikipedia.org/wiki/Form_1099','2016-01-11',50,'United States taxation', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Form 1099-MISC','https://en.wikipedia.org/wiki/Form_1099-MISC','2016-01-21',100,'United States taxation', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Form W-9','https://en.wikipedia.org/wiki/Form_W-9','2016-01-23',50,'United States taxation', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Form 1096','https://en.wikipedia.org/wiki/Form_1096','2016-01-25',25,'United States taxation', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Form W-2','https://en.wikipedia.org/wiki/Form_W-2','2016-01-28',100,'United States taxation', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Form 990','https://en.wikipedia.org/wiki/Form_990','2016-02-03',100,'United States taxation/Philanthropy/Nonprofit evaluation', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Form I-140','https://en.wikipedia.org/wiki/Form_I-140','2016-03-04',168,'United States migration', 'Prose', '150 for original, 18 for miscellaneous improvements'),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Open Philanthropy Project','https://en.wikipedia.org/wiki/Open_Philanthropy_Project','2016-03-22',100,'Philanthropy/Foundations', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Timeline of global health','https://en.wikipedia.org/wiki/Timeline_of_global_health','2016-04-14',190,'Global health', 'Timeline', '170 for work + 20 completion bonus'),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Timeline of deworming','https://en.wikipedia.org/wiki/Timeline_of_deworming','2016-04-24',115,'Global health/diseases', 'Timeline', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Timeline of nonprofit evaluation','https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation','2016-04-30',105,'Philanthropy/Nonprofit evaluation', 'Timeline', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','3 by 5 Initiative','https://en.wikipedia.org/wiki/3_by_5_Initiative','2016-05-02',30,'Global health/organizations', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Innovative Vector Control Consortium','https://en.wikipedia.org/wiki/Innovative_Vector_Control_Consortium','2016-05-04',35,'Global health/organizations', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation',"The State of the World's Children", # -- '
+  'https://en.wikipedia.org/wiki/The_State_of_the_World%27s_Children','2016-05-04',30,'Global health/events', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Child survival revolution','https://en.wikipedia.org/wiki/Child_survival_revolution','2016-05-11',101,'Global health/trends', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Participatory poverty assessment','https://en.wikipedia.org/wiki/Participatory_poverty_assessment','2016-05-17',64,'Poverty studies', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Voices of the Poor','https://en.wikipedia.org/wiki/Voices_of_the_Poor','2016-05-18',39,'Poverty studies', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','International Decision Support Initiative','https://en.wikipedia.org/wiki/International_Decision_Support_Initiative','2016-06-07',39,'Global health/organizations', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Amanda Glassman','https://en.wikipedia.org/wiki/Amanda_Glassman','2016-06-08',32,'Global health/influential people', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Health systems strengthening','https://en.wikipedia.org/wiki/Health_systems_strengthening','2016-06-17',43,'Health systems/Global health', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Professional consensus of economics','https://en.wikipedia.org/wiki/Professional_consensus_of_economics', '2016-07-10',67,'Economics', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Priority-setting in global health','https://en.wikipedia.org/wiki/Priority-setting_in_global_health','2016-07-27',155,'Health systems/Global health', 'Prose', NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Initiative on Global Markets','https://en.wikipedia.org/wiki/Initiative_on_Global_Markets', '2016-10-05',30,'Economics', 'Prose', NULL);
+
 
 # -- Jesse Clifton page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
@@ -146,7 +173,25 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Denmark','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Denmark','2016-09-13',45,'Animal welfare by country','Prose', NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in the Netherlands','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_the_Netherlands','2016-11-20',55,'Animal welfare by country','Prose', NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Switzerland','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Switzerland','2016-11-20',60,'Animal welfare by country','Prose', NULL);
+
+# -- Michael Royzen list
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Michael Royzen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of speech and voice recognition', 'https://en.wikipedia.org/wiki/Timeline_of_speech_and_voice_recognition', '2016-06-21', 50, 'Artificial intelligence/Computer science', 'Timeline', NULL);
+
+# -- Sean Yu list
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Sean Yu', 'Wikipedia', 'Wikipedia page creation', 'Form 1120', 'https://en.wikipedia.org/wiki/Form_1120', '2016-06-24', 35, 'United States taxation', 'Prose', NULL);
+
+# -- Sergey Yegorov list
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Sergey Yegorov', 'Wikipedia', 'Wikipedia page creation', 'Academic Training', 'https://en.wikipedia.org/wiki/Academic_Training', '2016-09-20', 150, 'United States migration/academia', 'Prose', NULL),
+  ('Sergey Yegorov', 'Wikipedia', 'Wikipedia page creation', 'Food frequency questionnaire', 'https://en.wikipedia.org/wiki/Food_frequency_questionnaire', '2016-10-23', 28, 'Nutrition', 'Prose', NULL);
   
+# -- Thomas James Foster list
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Thomas James Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of machine learning', 'https://en.wikipedia.org/wiki/Timeline_of_machine_learning', '2016-06-16', 80, 'Artificial intelligence/Machine learning', 'Timeline', NULL),
+  ('Thomas James Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in Oceania', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_Oceania', '2016-06-23', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation');
+
 # -- Ethan Bashkansky's other work
   ('Ethan Bashkansky', 'Wikipedia', 'Miscellaneous Wikipedia work', 'N/A', 'N/A', '2016-09-07', 120, 'Miscellaneous', 'Prose','Ethan went on a page creation spree and sought rewards for creatin broadly relevant pages'),
   ('Ethan Bashkansky', 'Wikipedia', 'Attempted Wikipedia work', 'De minimis fringe benefit', 'https://en.wikipedia.org/wiki/De_minimis_fringe_benefit',5,'United States taxation','Prose','The page already existed')

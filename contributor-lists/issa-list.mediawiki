@@ -55,7 +55,7 @@ Net payment due: $764.83 (excluding pending payment)
 Total so far: $1823
 
 * Green Card Test: $25. Published January 5, 2016.
-* Triplebyte: $25 for initial work, $6 for additional later work and publication: $31. Initial work in January 2016, publication later in the year.
+* Triplebyte: $25 for initial work, $6 for additional later work and publication: $31. Initial work in January 2016, publication later in the year on June 4. Deleted but still in userspace.
 * Form 1099: $50. Published January 11, 2016.
 * Form 1099-MISC: $100. Published January 21, 2016.
 * Form W-9: $50. Published January 23, 2016.
