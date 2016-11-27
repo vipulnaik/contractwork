@@ -66,7 +66,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Ethiopia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Ethiopia','2016-10-17',55,'Country healthcare','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in France', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_France','2016-10-22',110,'Country healthcare','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Italy', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Italy','2016-10-26',110,'Country healthcare','Timeline', NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Russia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Russia','2016-11-07',110,'Country healthcare','Timeline', 'Published to main space 2016-10-31, finalized and payment added 2016-11-07'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Russia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Russia','2016-11-07',110,'Country healthcare','Timeline', 'Published to main space 2016-10-31, finalized and payment added 2016-11-07');
 
 # -- Adrian Ulloa page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
@@ -111,7 +111,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 # -- Eddy Su page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Eddy Su','Wikipedia','Wikipedia page creation','H-1C visa','https://en.wikipedia.org/wiki/H-1C_visa','2016-06-12',38,'United States migration', 'Prose', NULL),
-  ('Eddy Su','Wikipedia','Wikipedia page creation','H-1A visa','https://en.wikipedia.org/wiki/H-1A_visa','2016-06-13',33,'United States migration', 'Prose', NULL),
+  ('Eddy Su','Wikipedia','Wikipedia page creation','H-1A visa','https://en.wikipedia.org/wiki/H-1A_visa','2016-06-13',33,'United States migration', 'Prose', NULL);
 
 # -- Issa Rice page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
