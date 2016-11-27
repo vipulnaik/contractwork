@@ -68,6 +68,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Italy', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Italy','2016-10-26',110,'Country healthcare','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Russia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Russia','2016-11-07',110,'Country healthcare','Timeline', 'Published to main space 2016-10-31, finalized and payment added 2016-11-07'),
 
+# -- Adrian Ulloa page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Waitlist Zero', )
 # -- Avi Glozman page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Silicon Valley Education Foundation', 'https://en.wikipedia.org/wiki/Silicon_Valley_Education_Foundation', '2016-06-05', 33, 'Philanthropy/foundations/education', 'Prose', NULL),
@@ -82,7 +85,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Charlie Corner','Wikipedia','Wikipedia page creation','Adora Cheung','https://en.wikipedia.org/wiki/Adora_Cheung','2016-08-04',32,'Technology/influential people','Prose',NULL),
   ('Charlie Corner','Wikipedia','Wikipedia page creation','Fresh Fruit and Vegetable Program','https:/en.wikipedia.org/wiki/Fresh_Fruit_and_Vegetable_Program','2016-09-14',70,'United States welfare state','Prose',NULL),
   
-# -- Chris Kunin page creation
+# -- Christopher Kunin page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','The Ethics of Voting','https://en.wikipedia.org/wiki/The_Ethics_of_Voting','2016-06-16',30,'Political philosophy/political science','Prose',NULL),
   ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Global Polio Eradication Initiative','https://en.wikipedia.org/wiki/Global_Polio_Eradication_Initiative','2016-06-21',35,'Global health/programs','Prose',NULL),
