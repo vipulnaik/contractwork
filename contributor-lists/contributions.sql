@@ -30,18 +30,56 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Ethan Bashkansky', 'Wikipedia', 'Wikipedia page creation','Vote pairing in the United States presidential election, 2016','https://en.wikipedia.org/wiki/Vote_pairing_in_the_United_States_presidential_election,_2016','2016-11-02',105,'United States politics','Prose',NULL);
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page translation', 'Dolor en los animales', 'https://es.wikipedia.org/wiki/Dolor_en_los_animales','2016-04-21',100,'Animal welfare','Translation', 'Source: Pain in animals (English Wikipedia)'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of cholera', 'https://en.wikipedia.org/wiki/Timeline_of_cholera','2016-04-23',100,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of malaria', 'https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-04-27',200,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of senescence research', 'https://en.wikipedia.org/wiki/Timeline_of_senescence_research','2016-05-09',100,'Frontier health/speculative','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Rockefeller Sanitary Commission', 'https://en.wikipedia.org/wiki/Rockefeller_Sanitary_Commission','2016-05-11',30,'Global health/oranizations','Prose', NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in China', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_China','2016-05-17',160,'Country healthcare','Timeline',NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in India', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_India', '2016-05-22',131,'Country healthcare','Timeline',NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in China', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_China','2016-05-17',160,'Country healthcare','Timeline','85 for original article, 75 for updates'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in India', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_India', '2016-05-22',131,'Country healthcare','Timeline','95 for original article, 30 for updates in late May 2016, 6 for updates 2016-09-26'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of influenza', 'https://en.wikipedia.org/wiki/Timeline_of_influenza','2016-05-26',125,'Global health/diseases','Timeline', NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Japan', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Japan','2016-05-28',135,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Japan', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Japan','2016-05-28',135,'Country healthcare','Timeline', '100 for original article, 35 for updates'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Cuba', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Cuba','2016-07-10',105,'Country healthcare','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Kenya', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Kenya','2016-07-18',80,'Country healthcare','Timeline', NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Kenya', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Kenya','2016-07-18',80,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Germany', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Germany','2016-07-21',110,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Egypt', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Egypt','2016-07-22',80,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Nigeria', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Nigeria','2016-07-27',80,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of cardiovascular disease', 'https://en.wikipedia.org/wiki/Timeline_ocardiovascular_disease','2016-08-01',140,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of stroke', 'https://en.wikipedia.org/wiki/Timeline_of_stroke','2016-08-05',75,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', "Timeline of Alzheimer's disease",#-- '
+  'https://en.wikipedia.org/wiki/Timeline_of_Alzheimer%27s_disease','2016-08-13',75,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of melanoma', 'https://en.wikipedia.org/wiki/Timeline_of_melanoma','2016-08-16',60,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of leukemia', 'https://en.wikipedia.org/wiki/Timeline_of_leukemia','2016-08-20',70,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Klerokinesis', 'https://en.wikipedia.org/wiki/Klerokinesis','2016-08-20',20,'Biology','Prose', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of lymphoma', 'https://en.wikipedia.org/wiki/Timeline_of_lymphoma','2016-08-27',70,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of lung cancer', 'https://en.wikipedia.org/wiki/Timeline_of_lung_cancer','2016-08-28',65,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of brain cancer', 'https://en.wikipedia.org/wiki/Timeline_of_brain_cancer','2016-09-01',82,'Global health/diseases','Timeline', '65 for original work, 17 for updates finished 2016-09-12'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of tuberculosis', 'https://en.wikipedia.org/wiki/Timeline_of_tuberculosis','2016-09-08',90,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of kidney cancer', 'https://en.wikipedia.org/wiki/Timeline_of_kidney_cancer','2016-09-11',55,'Global health/diseases','Timeline', '50 for initial version, 5 for updates published 2016-09-26'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of colorectal cancer', 'https://en.wikipedia.org/wiki/Timeline_of_colorectal_cancer','2016-09-12',58,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of pancreatic cancer', 'https://en.wikipedia.org/wiki/Timeline_of_pancreatic_cancer','2016-09-18',60,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of cervical cancer', 'https://en.wikipedia.org/wiki/Timeline_of_cervical_cancer','2016-09-19',45,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of hospitals', 'https://en.wikipedia.org/wiki/Timeline_of_hospitals','2016-09-25',160,'Health systems','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of liver cancer', 'https://en.wikipedia.org/wiki/Timeline_of_liver_cancer','2016-10-01',49,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of bladder cancer', 'https://en.wikipedia.org/wiki/Timeline_of_bladder_cancer','2016-10-01',45,'Global health/diseases','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in South Africa', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_South_Africa','2016-10-10',75,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Ethiopia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Ethiopia','2016-10-17',55,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in France', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_France','2016-10-22',110,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Italy', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Italy','2016-10-26',110,'Country healthcare','Timeline', NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Russia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Russia','2016-11-07',110,'Country healthcare','Timeline', 'Published to main space 2016-10-31, finalized and payment added 2016-11-07'),
 
+# -- Avi Glozman page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Silicon Valley Education Foundation', 'https://en.wikipedia.org/wiki/Silicon_Valley_Education_Foundation', '2016-06-05', 33, 'Philanthropy/foundations/education', 'Prose', NULL),
+  ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Screening Partnership Program', 'https://en.wikipedia.org/wiki/Screening_Partnership_Program', '2016-06-29', 53, 'United States government programs/Air travel', 'Prose', NULL),
+  ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Timeline of social media', 'https://en.wikipedia.org/wiki/Timeline_of_social_media', '2016-07-27', 155, 'Teechnology/general', 'Timeline', '140 for original, extra 15 for additions 2016-08-28'),
+  ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Timeline of e-commerce', 'https://en.wikipedia.org/wiki/Timeline_of_e-commerce', '2016-08-28', 175, 'Teechnology/general', 'Timeline', NULL),
+  ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Chicago Community Trust', 'https://en.wikipedia.org/wiki/Chicago_Community_Trust', '2016-10-21', 33, 'Philanthropy/foundations', 'Prose', NULL);
+
+# -- Eddy Su page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  
+  
 # -- Ethan Bashkansky's other work
   ('Ethan Bashkansky', 'Wikipedia', 'Miscellaneous Wikipedia work', 'N/A', 'N/A', '2016-09-07', 120, 'Miscellaneous', 'Prose','Ethan went on a page creation spree and sought rewards for creatin broadly relevant pages'),
   ('Ethan Bashkansky', 'Wikipedia', 'Attempted Wikipedia work', 'De minimis fringe benefit', 'https://en.wikipedia.org/wiki/De_minimis_fringe_benefit',5,'United States taxation','Prose','The page already existed')
