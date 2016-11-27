@@ -70,7 +70,15 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 # -- Adrian Ulloa page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Waitlist Zero', )
+  ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Waitlist Zero', 'https://en.wikipedia.org/wiki/Waitlist_Zero', '2016-08-16', 35, 'Philanthropy/charity/organ donation','Prose', NULL),
+  ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Commodity Supplemental Food Program', 'https://en.wikipedia.org/wiki/Commodity_Suppplemental_Food_Program', '2016-08-24', 70, 'United States welfare state', 'Prose', NULL),
+  ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Robert Wilensky', 'https://en.wikipedia.org/wiki/Robert_Wilensky', '2016-09-06', 20, 'Computer science/Artiicial intelligence/influential people','Prose','Worker-initiated page creation'),
+  ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Timeline of optical character recognition', 'https://en.wikipedia.org/wiki/Timeline_of_optical_character_recognition', '2016-09-22', 60, 'Artificial intelligence/Machine learning','Timeline', NULL),
+  ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Seth Baum', 'https://en.wikipedia.org/wiki/Seth_Baum', '2016-10-19', 20, 'Artificial intelligence/Existential risk/Influential people','Prose','Worker-initiated page creation');
+  
+
+
+  
 # -- Avi Glozman page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Silicon Valley Education Foundation', 'https://en.wikipedia.org/wiki/Silicon_Valley_Education_Foundation', '2016-06-05', 33, 'Philanthropy/foundations/education', 'Prose', NULL),
@@ -83,7 +91,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Charlie Corner','Wikipedia','Wikipedia page creation','Form 1098-T','https://en.wikipedia.org/wiki/Form_1098-T','2016-07-10',50,'United States taxation','Prose',NULL),
   ('Charlie Corner','Wikipedia','Wikipedia page creation','Adora Cheung','https://en.wikipedia.org/wiki/Adora_Cheung','2016-08-04',32,'Technology/influential people','Prose',NULL),
-  ('Charlie Corner','Wikipedia','Wikipedia page creation','Fresh Fruit and Vegetable Program','https:/en.wikipedia.org/wiki/Fresh_Fruit_and_Vegetable_Program','2016-09-14',70,'United States welfare state','Prose',NULL),
+  ('Charlie Corner','Wikipedia','Wikipedia page creation','Fresh Fruit and Vegetable Program','https:/en.wikipedia.org/wiki/Fresh_Fruit_and_Vegetable_Program','2016-09-14',70,'United States welfare state','Prose',NULL);
   
 # -- Christopher Kunin page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
@@ -102,9 +110,42 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   
 # -- Eddy Su page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  ('Eddy Su','Wikipedia','Wikipedia page creation','H-1C visa','https://en.wikipedia.org/wiki/H-1C_visa','2016-06-12',38,'United States migration', 'prose', NULL),
-  ('Eddy Su','Wikipedia','Wikipedia page creation','H-1A visa','https://en.wikipedia.org/wiki/H-1A_visa','2016-06-13',33,'United States migration', 'prose', NULL),
-  
+  ('Eddy Su','Wikipedia','Wikipedia page creation','H-1C visa','https://en.wikipedia.org/wiki/H-1C_visa','2016-06-12',38,'United States migration', 'Prose', NULL),
+  ('Eddy Su','Wikipedia','Wikipedia page creation','H-1A visa','https://en.wikipedia.org/wiki/H-1A_visa','2016-06-13',33,'United States migration', 'Prose', NULL),
+
+# -- Issa Rice page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+
+# -- Jesse Clifton page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Timeline of animal welfare and rights','https://en.wikipedia.org/wiki/Timeline_of_animal_welfare_and_rights','2016-04-25',150,'Animal welfare','Timeline', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in India','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_India','2016-04-26',100,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Timeline of animal welfare and rights in the United States','https://en.wikipedia.org/wiki/Timeline_of_animal_welfare_and_rights_in_the_United_States','2016-04-29',100,'Animal welfare by country','Timeline', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Timeline of animal welfare and rights in Europe','https://en.wikipedia.org/wiki/Timeline_of_animal_welfare_and_rights_in_Europe','2016-05-05',100,'Animal welfare','Timeline', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Malaysia','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Malaysia','2016-05-06',70,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Japan','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Japan','2016-05-08',60,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in South Korea','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_South_Korea','2016-05-10',60,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Brazil','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Brazil','2016-05-13',90,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Austria','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Austria','2016-06-01',60,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Canada','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Canada','2016-06-05',70,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Timeline of cellular agriculture','https://en.wikipedia.org/wiki/Timeline_of_cellular_agriculture','2016-06-08',50,'Animal welfare/New technology','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Global Animal Partnership','https://en.wikipedia.org/wiki/Global_Animal_Partnership','2016-06-20',30,'Animal welfare/charity','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in South Africa','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_South_Africa','2016-06-23',50,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Ethiopia','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Ethiopia','2016-06-23',55,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Indonesia','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Indonesia','2016-06-24',55,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Russia','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Russia','2016-06-24',60,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Albert Schweitzer Foundation for Our Contemporarties','https://en.wikipedia.org/wiki/Albert_Schweitzer_Foundation_for_Our_Contemporaries','2016-06-27',32,'Animal welfare/charity','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Iran','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Iran','2016-06-28',50,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Australia','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Australia','2016-07-08',70,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Mexico','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Mexico','2016-07-22',50,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Argentina','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Argentina','2016-07-26',45,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Sweden','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Sweden','2016-07-28',50,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Germany','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Germany','2016-07-30',60,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Spain','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Spain','2016-08-23',70,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in France','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_France','2016-09-06',70,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Denmark','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Denmark','2016-09-13',45,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in the Netherlands','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_the_Netherlands','2016-11-20',55,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Switzerland','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Switzerland','2016-11-20',60,'Animal welfare by country','Prose', NULL);
   
 # -- Ethan Bashkansky's other work
   ('Ethan Bashkansky', 'Wikipedia', 'Miscellaneous Wikipedia work', 'N/A', 'N/A', '2016-09-07', 120, 'Miscellaneous', 'Prose','Ethan went on a page creation spree and sought rewards for creatin broadly relevant pages'),
