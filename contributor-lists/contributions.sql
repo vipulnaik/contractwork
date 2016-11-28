@@ -193,6 +193,27 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Thomas James Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of machine learning', 'https://en.wikipedia.org/wiki/Timeline_of_machine_learning', '2016-06-16', 80, 'Artificial intelligence/Machine learning', 'Timeline', NULL),
   ('Thomas James Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in Oceania', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_Oceania', '2016-06-23', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation');
 
+# -- Alex K. Chen list
+
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of online food delivery', 'https://en.wikipedia.org/wiki/Online_food_ordering#Timeline_of_online_food_delivery', '2016-01-10',55,'Technology/trends','Timeline','50 for initial page, 5 for adding stuff. Page was deleted and moved to the online food ordering page, with a redirect'),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Amazon.com', 'https://en.wikipedia.org/wiki/Timeline_of_Amazon.com', '2016-01-17',250,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Microsoft', 'https://en.wikipedia.org/wiki/Timeline_of_Microsoft', '2016-01-25', 128, 'Technology/company', 'Timeline', '125 for original, 3 for adding acquisition of LinkedIn'),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Intel', 'https://en.wikipedia.org/wiki/Timeline_of_Intel', '2016-02-02',150,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'CrunchFund', 'https://en.wikipedia.org/wiki/CrunchFund', '2016-02-08', 50, 'Technology/investor', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Garry Tan', 'https://en.wikipedia.org/wiki/Garry_Tan', '2016-02-14', 50, 'Technology/investor/influential people', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'M. G. Siegler', 'https://en.wikipedia.org/wiki/M._G._Siegler', '2016-02-14', 50, 'Technology/investor/influential people', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Paige Craig', 'https://en.wikipedia.org/wiki/Paige_Craig', '2016-02-27', 57, 'Technology/investor/influential people', 'Prose', '50 for initial work, 7 for updates'),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Scott Stanford (investor)', 'https://en.wikipedia.org/wiki/Scott_Stanford_(investor)', '2016-03-07', 50, 'Technology/investor/influential people', 'Prose', 'Page currently nominated for deletion'),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Initialized Capital', 'https://en.wikipedia.org/wiki/Initialized_Capital', '2016-03-14', 50, 'Technology/investor', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Data Collective', 'https://en.wikipedia.org/wiki/Data_Collective', '2016-03-14', 50, 'Technology/investor', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Matthew Emerton', 'https://en.wikipedia.org/wiki/Matthew_Emerton', '2016-03-14', 15, 'Mathematics/research/influential people', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Uri Simonsohn', 'https://en.wikipedia.org/wiki/Uri_Simonsohn', '2016-04-02', 25, 'Statistics/research/influential people', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Thomas C. Leonard', 'https://en.wikipedia.org/wiki/Thomas_C._Leonard', '2016-04-11', 25, 'Influential people', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Instagram', 'https://en.wikipedia.org/wiki/Timeline_of_Instagram', '2016-04-16',100,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of LinkedIn', 'https://en.wikipedia.org/wiki/Timeline_of_LinkedIn', '2016-04-20',81,'Technology/company','Timeline','75 for initial work, 6 for updates'),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Dropbox', 'https://en.wikipedia.org/wiki/Timeline_of_Dropbox', '2016-04-27',75,'Technology/company','Timeline',NULL),
+
 # -- Ethan Bashkansky's other work
   ('Ethan Bashkansky', 'Wikipedia', 'Miscellaneous Wikipedia work', 'N/A', 'N/A', '2016-09-07', 120, 'Miscellaneous', 'Prose','Ethan went on a page creation spree and sought rewards for creatin broadly relevant pages'),
   ('Ethan Bashkansky', 'Wikipedia', 'Attempted Wikipedia work', 'De minimis fringe benefit', 'https://en.wikipedia.org/wiki/De_minimis_fringe_benefit',5,'United States taxation','Prose','The page already existed')
