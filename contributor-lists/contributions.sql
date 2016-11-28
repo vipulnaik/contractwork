@@ -271,3 +271,15 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Cancer timelines','N/A','2016-08-28',5,'Global health/diseases','Timeline','Adding IARC to existing timelines');
 
+# -- Issa Rice's Open Philanthropy Project periodic grant updates'
+
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-04-30',50,'Philanthropy/Grants','Table','April end grants update'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-06-04',50,'Philanthropy/Grants','Table','May end grants update'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-07-01',27,'Philanthropy/Grants','Table','June end grants update'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-07-29',45,'Philanthropy/Grants','Table','July end grants update: 6 new grants + 2 delayed grants'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-08-31',55,'Philanthropy/Grants','Table','August end grants update: 45 for 8 new grants and 10 for one-time extra work to deal with format changes'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-09-29',50,'Philanthropy/Grants','Table','September end grants update: max 50; 8 grants to Open Phil, 12 grants to Good Ventures'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-10-27',50,'Philanthropy/Grants','Table','October end grants update: max 50; 18 grants to Open Phil, 11 grants to Good Ventures');
+  
+
