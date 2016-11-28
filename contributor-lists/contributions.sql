@@ -295,7 +295,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Attempted Wikipedia work','French Development Agency','https://en.wikipedia.org/wiki/French_Development_Agency','2016-09-05',10,'Philanthropy/Grants/IATI','Table','We decided not to publish as there was too little meaningful data'),
   ('Issa Rice','Wikipedia','Wikipedia page update','GAVI Alliance','https://en.wikipedia.org/wiki/GAVI_Alliance','2016-09-06',15,'Philanthropy/Grants/IATI','Table',NULL);
   
-
-
+# -- Other payments to Issa Rice
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Issa Rice','Wikipedia Views','Coding','pageviewQueries.inc','https://github.com/vipulnaik/wikipediaviews/blob/master/backend/pageviewQueries.inc','2016-01-31',80,'API integration','Code','Add ability to query Wikimedia API for pageviews'),
+  ('Issa Rice','None','Consulting','N/A','N/A','2016-04-16',25,'N/A','N/A',NULL),
   
 

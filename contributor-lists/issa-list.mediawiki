@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $5623.30
+Total money earned by doing work (taxable as income for 2016): $5723.30
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: $764.83 (excluding pending payment)
+Net payment due: $864.83 (excluding pending payment)
 
 === Completed pages ===
 
@@ -123,7 +123,7 @@ Total so far: $250
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1233
+Total so far: $1333
 
 * stats.grok.se Wikimedia API fix: $80. Completed January 31, 2016.
 
@@ -172,6 +172,8 @@ Total so far: $1233
 * Getting list of special pages in all language Wikipedias: $40. Completed November 20, 2016.
 
 * Getting list of help pages in all language Wikipedias: $25. Completed November 21, 2016.
+
+* Automatic Wikipedia backup download: $100. Completed November 28, 2016.
 
 === Touch payments ===
 
