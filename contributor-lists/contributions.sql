@@ -213,6 +213,19 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Instagram', 'https://en.wikipedia.org/wiki/Timeline_of_Instagram', '2016-04-16',100,'Technology/company','Timeline',NULL),
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of LinkedIn', 'https://en.wikipedia.org/wiki/Timeline_of_LinkedIn', '2016-04-20',81,'Technology/company','Timeline','75 for initial work, 6 for updates'),
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Dropbox', 'https://en.wikipedia.org/wiki/Timeline_of_Dropbox', '2016-04-27',75,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Coatue Management', 'https://en.wikipedia.org/wiki/Coatue_Management', '2016-05-07', 35, 'Technology/investor', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Maverick Capital', 'https://en.wikipedia.org/wiki/Maverick_Capital', '2016-05-16', 35, 'Technology/investor', 'Prose', NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Netflix', 'https://en.wikipedia.org/wiki/Timeline_of_Netflix', '2016-05-21', 135,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of WhatsApp', 'https://en.wikipedia.org/wiki/Timeline_of_WhatsApp', '2016-05-31',120,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Xiaomi', 'https://en.wikipedia.org/wiki/Timeline_of_Xiaomi', '2016-06-12',75,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Amazon Web Services', 'https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services', '2016-06-15',95,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Twitch.tv', 'https://en.wikipedia.org/wiki/Timeline_of_Twitch.tv', '2016-06-20',40,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Lyft', 'https://en.wikipedia.org/wiki/Timeline_of_Lyft', '2016-06-29',40,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Nordstrom', 'https://en.wikipedia.org/wiki/Timeline_of_Nordstrom', '2016-07-01',75,'Retail/company','Timeline','50 for page, 25 for getting started on retail timeline'),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of online video', 'https://en.wikipedia.org/wiki/Timeline_of_online_video', '2016-07-27',175,'Technology/trends','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Valve Corporation', 'https://en.wikipedia.org/wiki/User:Simfish/Timeline_of_Valve_Corporation', '2016-08-09',75,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Monsanto', 'https://en.wikipedia.org/wiki/Timeline_of_Monsanto', '2016-08-15',80,'Biotechnology/company','Timeline',NULL),
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Michael Seibel', 'https://en.wikipedia.org/wiki/Michael_Seibel', '2016-09-25',50,'Technology/investor/influential people','Prose',NULL); 
 
 # -- Ethan Bashkansky's other work
   ('Ethan Bashkansky', 'Wikipedia', 'Miscellaneous Wikipedia work', 'N/A', 'N/A', '2016-09-07', 120, 'Miscellaneous', 'Prose','Ethan went on a page creation spree and sought rewards for creatin broadly relevant pages'),

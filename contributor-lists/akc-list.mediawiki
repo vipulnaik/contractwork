@@ -81,17 +81,18 @@ Maximum acceptable delay: 4 weeks
 * Start by July 1, end by July 3 (delayed): Timeline of Nordstrom
 * Start by July 8, end by July 10 (delayed 3 weeks): Timeline of online video
 * Start by July 15, end by July 17 (delayed 23 days): Timeline of Valve Corporation
-* Start by July 22, end by July 24 (delayed 9 weeks, to September 25): Michael Seibel
+* Start by July 22, end by July 24 (delayed 22 days): Timeline of Monsanto
+* Start by July 29, end by July 31 (delayed 8 weeks, to September 25): Michael Seibel
 
 (more weeks, months to be added).
 
 == Work and total money due ==
 
-Total due: $2421.50
+Total due: $2501.50
 
 === Completed pages ===
 
-Total so far: $2211
+Total so far: $2291
 
 * Timeline of online food delivery: $55 ($50 original + $5 for adding more stuff)
 * Timeline of Amazon.com: $250
@@ -121,6 +122,7 @@ Total so far: $2211
 * Timeline of Nordstrom: $75 ($50 for the page, $25 for getting started on clothing)
 * Timeline of online video: $175
 * Timeline of Valve Corporation: $75
+* Timeline of Monsanto: $80
 * Michael Seibel: $50
 
 === Other work ===
@@ -200,8 +202,6 @@ Note that the Wikipedia pages already have history sections, and the timeline sh
 * Timeline of Gilead Sciences. Proposed bounty: $40
 
 === Other big companies ===
-
-* Timeline of Monsanto. Proposed bounty: $80
 
 * Timeline of ExxonMobil: Proposed bounty: $90. Note that there is already ap retty thorough history page, so your timeline needs to go above and beyond simpy tabulating the history.
 
