@@ -259,7 +259,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Jesse Clifton','Wikipedia','Wikipedia page update','Animal welfare and rights in Israel','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Israel','2016-05-24',50,'Animal welfare by country','Prose',NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page update','The Humane League','https://en.wikipedia.org/wiki/The_Humane_League','2016-06-23',25,'Animal welfare/organizations','Prose',NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page update','Faunalytics','https://en.wikipedia.org/wiki/Faunalytics','2016-06-27',12,'Animal welfare/organizations','Prose',NULL),
-  ('Jesse Clifton','Wikipedia','Wikipedia page update','The Good Food Institute','https://en.wikipedia.org/wiki/The_Good_Food_Institute','2016-11-24',10,'Animal welfare/organizations','Prose',NULL);
+  ('Jesse Clifton','Wikipedia','Wikipedia page update','The Good Food Institute','https://en.wikipedia.org/wiki/The_Good_Food_Institute','2016-11-24',10,'Animal welfare/organizations','Prose',NULL),
   ('Jesse Clifton','Effective Altruism Forum','Blog post or article','Scenarios for cellular agriculture','http://effective-altruism.com/ea/yu/scenarios_for_cellular_agriculture/','2016-06-20',200,'Animal welfare/Technology','Prose/Opinion',NULL);
 
 # -- Sean Yu's other work
