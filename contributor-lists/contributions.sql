@@ -5,7 +5,7 @@ use contractwork;
 create table tasks(
   task_id int(11) not null auto_increment,
   worker varchar(40),
-  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website') default 'Wikipedia',
+  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','None') default 'Wikipedia',
   task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attemped Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Surey recruitment','Coding','Consulting','Review'),
   task_receptacle varchar(100) NOT NULL,
   task_receptacle_url varchar(100) NOT NULL,
@@ -228,5 +228,40 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Michael Seibel', 'https://en.wikipedia.org/wiki/Michael_Seibel', '2016-09-25',50,'Technology/investor/influential people','Prose',NULL); 
 
 # -- Ethan Bashkansky's other work
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Ethan Bashkansky', 'Wikipedia', 'Miscellaneous Wikipedia work', 'N/A', 'N/A', '2016-09-07', 120, 'Miscellaneous', 'Prose','Ethan went on a page creation spree and sought rewards for creatin broadly relevant pages'),
-  ('Ethan Bashkansky', 'Wikipedia', 'Attempted Wikipedia work', 'De minimis fringe benefit', 'https://en.wikipedia.org/wiki/De_minimis_fringe_benefit',5,'United States taxation','Prose','The page already existed')
+  ('Ethan Bashkansky', 'Wikipedia', 'Attempted Wikipedia work', 'De minimis fringe benefit', 'https://en.wikipedia.org/wiki/De_minimis_fringe_benefit','2016-04-26',5,'United States taxation','Prose','The page already existed'),
+  ('Ethan Bashkansky', 'Wikipedia', 'Attempted Wikipedia work', 'Filing Information Returns Electronically', 'N/A','2016-04-26',5,'United States taxation','Prose','Decided against creating the page'),
+  ('Ethan Bashkansky', 'None', 'Survey recruitment', 'Wikipedia use change over time', 'N/A', '2016-09-30',20.5, 'Wikipedia usage', 'Outreach', 'Got 41 responses from UW audience for 50 cents a response');
+
+# -- Amy Zhang's other work
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Amy Zhang', 'Wikipedia', 'Wikipedia page update','Timeline of global health','https://en.wikipedia.org/wiki/Timeline_of_global_health','2016-06-26',80,'Global health', 'Timeline', 'Expanded existing events, added a few more, and revamped big picture');
+
+# -- Alex K. Chen's other work
+
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Alex K. Chen', 'Wikipedia', 'Wikipedia page update', 'Many timeline pages', 'N/A', '2016-09-24',200,'Technology/company','Timeline','Work spread over a month, to avoid having other timelines meet the deletion fate of Timeline of Valve Corporation');
+
+# -- Avi Glozman's other work
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Avi Glozman', 'Wikipedia', 'Wikipedia page update', 'Vote pairing in the United States presidential election, 2016','https://en.wikipedia.org/wiki/Vote_pairing_in_the_United_States_presidential_election,_2016','2016-11-03',27,'United States politics','Prose','Improved typology around vote pairing sites and added more references');
+
+# -- Christopher Kunin's other work
+
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Christopher Kunin','Wikipedia','Wikipedia page update','Privacy Impact Assessment','https://en.wikipedia.org/wiki/Privacy_Impact_Assessment','2016-07-29',45,'Government bureaucracy jargon','Prose','Originally intended to create the page, but somebody else made it, so added content into it');
+
+# -- Jesse Clifton's other work
+
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+
+# -- Sean Yu's other work
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Sean Yu', 'Wikipedia', 'Wikipedia page update', 'Form 1040', 'https://en.wikipedia.org/wiki/Form_1040','2016-07-31',20,'United States taxation','Prose','Adding stuff on state taxes and controversies');
+
+# -- Sebastian Sanchez's other work
+
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Cancer timelines','N/A','2016-08-28',5,'Global health/diseases','Timeline','Adding IARC to existing timelines');
+
