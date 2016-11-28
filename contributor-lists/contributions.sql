@@ -271,7 +271,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Cancer timelines','N/A','2016-08-28',5,'Global health/diseases','Timeline','Adding IARC to existing timelines');
 
-# -- Issa Rice's Open Philanthropy Project periodic grant updates'
+# -- Issa Rice's Open Philanthropy Project periodic grant updates
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-04-30',50,'Philanthropy/Grants','Table','April end grants update'),
@@ -281,5 +281,21 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-08-31',55,'Philanthropy/Grants','Table','August end grants update: 45 for 8 new grants and 10 for one-time extra work to deal with format changes'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-09-29',50,'Philanthropy/Grants','Table','September end grants update: max 50; 8 grants to Open Phil, 12 grants to Good Ventures'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-10-27',50,'Philanthropy/Grants','Table','October end grants update: max 50; 18 grants to Open Phil, 11 grants to Good Ventures');
+
+# -- Issa Rice's IATI grant updates
+
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Issa Rice','Wikipedia','Wikipedia page update','Bill & Melinda Gates Foundation','https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation','2016-08-29',50,'Philanthropy/Grants/IATI','Table','IATI Gates Round 1'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Bill & Melinda Gates Foundation','https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation','2016-09-01',40,'Philanthropy/Grants/IATI','Table','IATI Gates Round 2'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Bill & Melinda Gates Foundation','https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation','2016-09-02',5,'Philanthropy/Grants/IATI','Table','IATI Gates Round 3: Clarifications'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Hewlett Foundation','https://en.wikipedia.org/wiki/Hewlett_Foundation','2016-09-02',40,'Philanthropy/Grants/IATI','Table',NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Department for International Development','https://en.wikipedia.org/wiki/Department_for_International_Development','2016-09-03',30,'Philanthropy/Grants/IATI','Table',NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page update','World Bank','https://en.wikipedia.org/wiki/World_Bank','2016-09-04',30,'Philanthropy/Grants/IATI','Table',NULL),
+  ('Issa Rice','Wikipedia','Wikipedia page update','United Nations Development Programme','https://en.wikipedia.org/wiki/United_Nations_Development_Programme','2016-09-04',30,'Philanthropy/Grants/IATI','Table',NULL),
+  ('Issa Rice','Wikipedia','Attempted Wikipedia work','French Development Agency','https://en.wikipedia.org/wiki/French_Development_Agency','2016-09-05',10,'Philanthropy/Grants/IATI','Table','We decided not to publish as there was too little meaningful data'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','GAVI Alliance','https://en.wikipedia.org/wiki/GAVI_Alliance','2016-09-06',15,'Philanthropy/Grants/IATI','Table',NULL);
+  
+
+
   
 
