@@ -6,7 +6,7 @@ create table tasks(
   task_id int(11) not null auto_increment,
   worker varchar(40),
   task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','None') default 'Wikipedia',
-  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attemped Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Surey recruitment','Coding','Consulting','Review'),
+  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review'),
   task_receptacle varchar(100) NOT NULL,
   task_receptacle_url varchar(100) NOT NULL,
   completion_date date NOT NULL,
