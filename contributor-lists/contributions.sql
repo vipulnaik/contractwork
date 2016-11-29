@@ -299,5 +299,16 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Issa Rice','Wikipedia Views','Coding','pageviewQueries.inc','https://github.com/vipulnaik/wikipediaviews/blob/master/backend/pageviewQueries.inc','2016-01-31',80,'API integration','Code','Add ability to query Wikimedia API for pageviews'),
   ('Issa Rice','None','Consulting','N/A','N/A','2016-04-16',25,'N/A','N/A',NULL),
-  
+  ('Issa Rice','Wikipedia','Wikipedia page update','Disease Control Priorities Project','https://en.wikipedia.org/wiki/Disease_Control_Priorities_Project','2016-04-13',6,'Global health','Prose','Add years'),
+  ('Issa Rice','LessWrong','Survey creation','Wikipedia usage survey',(insert LessWrong link),'2016-05-31',70,'Wikipedia','Survey','Design of survey, buying responses, and preliminary analysis'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Against Malaria Foundation, GiveDirectly, and other GiveWell top charities','https://en.wikipedia.org/wiki/Against_Malaria_Foundation,https://en.wikipedia.org/wiki/GiveDirectly,others','2016-06-24',55,'Philanthropy/GiveWell/top charities','Prose','25 each for AMF and GiveDirectly, 5 for others'),
+  ('Issa Rice','Personal website','Preliminary research','GiveWell finances and other stuff review',(insert issarice.com links),'2016-06-25',100,'Philanthropy/GiveWell/evaluation','Prose, tables, and charts',NULL),
+  ('Issa Rice','Personal website','Blog post or article','Resolving issues with the IRS','http://issarice.com/resolving-issues-with-the-irs/','2016-07-01',100,'United States taxation/personal experience','Prose/Autobiography',NULL),
+  ('Issa Rice','LessWrong','Blog post or article','Wikipedia usage survey results',(insert LessWrong link),'2016-07-14',110,'Wikipedia','Prose with tables','Finished writing up findings from survey conducted in late May'),
+   ('Issa Rice','Wikipedia','Wikipedia page update','Privacy Impact Assessment','https://en.wikipedia.org/wiki/Privacy_Impact_Assessment',(insert date here),5,'Government bureaucracy jargon','Prose',NULL),
+  ('Issa Rice','Effective Altruism Forum','Blog post or article','June 2016 GiveWell board meeting','http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/','2016-08-17',100,'Philanthropy/GiveWell/evaluation','Prose/transcript',NULL),
+  ('Issa Rice','None','Coding','Model for estimating the value of a Wikipedia page','N/A','2016-08-29',40,'Wikipedia/Contract work','Code','Initial work piloted on a small subset of timelines, gives an estimate of the total money due based on attributes of the timeline'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Google Surveys','https://en.wikipedia.org/wiki/Google_Surveys','2016-09-30',32,'Survey tools','Prose with diagram','Expanded page, added references, explained and clarified model with diagram'),
+  ('Issa Rice','Personal website','Blog post or article','GiveWell staff growth','http://issarice.com/givewell-staff-growth/','2016-10-01',10,'Philanthropy/GiveWell/evaluation','Prose with tables','Updated page to reflect separation of GiveWell and Open Phil staff listings'),
+  ('Issa Rice','Wikipedia Views','Coding','graph.py','https://gist.github.com/riceissa/8726e6a90d4a7634f3dd79cc1fdb63d5,https://github.com/vipulnaik/wikipediaviews/blob/master/python/graph.py','2016-10-13',80,'Graphing','Code','Add graphing capabilities to Wikipedia Views'),
 
