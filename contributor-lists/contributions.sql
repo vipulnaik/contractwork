@@ -260,7 +260,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Jesse Clifton','Wikipedia','Wikipedia page update','The Humane League','https://en.wikipedia.org/wiki/The_Humane_League','2016-06-23',25,'Animal welfare/organizations','Prose',NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page update','Faunalytics','https://en.wikipedia.org/wiki/Faunalytics','2016-06-27',12,'Animal welfare/organizations','Prose',NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page update','The Good Food Institute','https://en.wikipedia.org/wiki/The_Good_Food_Institute','2016-11-24',10,'Animal welfare/organizations','Prose',NULL),
-  ('Jesse Clifton','Effective Altruism Forum','Blog post or article','Scenarios for cellular agriculture','http://effective-altruism.com/ea/yu/scenarios_for_cellular_agriculture/','2016-06-20',200,'Animal welfare/Technology','Prose/Opinion',NULL);
+  ('Jesse Clifton','Effective Altruism Forum','Blog post or article','Scenarios for cellular agriculture','http://effective-altruism.com/ea/yu/scenarios_for_cellular_agriculture/','2016-06-20',200,'Animal welfare/Technology','Prose/Opinion',NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page update','The Humane League, Mercy for Animals,The Good Food Institute,...','N/A','2016-11-29',20,'Animal wefare/Animal Charity Evaluators/nonprofit evaluation','Prose','Updates to all ACE top charities and standouts with information on the latest ACE recommendation');
 
 # -- Sean Yu's other work
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values

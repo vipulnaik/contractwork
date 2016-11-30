@@ -30,11 +30,11 @@ Wikipedia Views link for pages significantly edited but not created: http://wiki
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $2174
+Total money earned by doing work (taxable as income for 2016): $2194
 
 Payment made: $2000 (check)
 
-Net payment due: $174
+Net payment due: $194
 
 === Completed pages ===
 
@@ -98,7 +98,7 @@ Total: $1817
 
 === Improvements to existing pages ===
 
-Total: $157
+Total: $177
 
 * Animal welfare in the United States (significant additions to pre-existing page): $60. Completed May 8, 2016.
 
@@ -109,6 +109,8 @@ Total: $157
 * Faunalytics: $12. Completed June 27, 2016.
 
 * The Good Food Institute: $10. Completed November 24, 2016.
+
+* Bulk updates for Animal Charity Evaluators recommended charities: $20. Completed November 29, 2016.
 
 == Non-Wikipedia ==
 
