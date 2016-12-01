@@ -67,7 +67,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Ethiopia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Ethiopia','2016-10-17',55,'Country healthcare','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in France', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_France','2016-10-22',110,'Country healthcare','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Italy', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Italy','2016-10-26',110,'Country healthcare','Timeline', NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Russia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Russia','2016-11-07',110,'Country healthcare','Timeline', 'Published to main space 2016-10-31, finalized and payment added 2016-11-07');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Russia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Russia','2016-11-07',110,'Country healthcare','Timeline', 'Published to main space 2016-10-31, finalized and payment added 2016-11-07'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Schedula Romana', 'https://en.wikipedia.org/wiki/Schedula_Romana', '2016-11-30', 13, 'History of medicine/health/malaria', 'Prose', 'One of the auxiliary articles for timeline of malaria');
 
 # -- Adrian Ulloa page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
@@ -281,7 +282,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-07-29',45,'Philanthropy/Grants','Table','July end grants update: 6 new grants + 2 delayed grants'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-08-31',55,'Philanthropy/Grants','Table','August end grants update: 45 for 8 new grants and 10 for one-time extra work to deal with format changes'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-09-29',50,'Philanthropy/Grants','Table','September end grants update: max 50; 8 grants to Open Phil, 12 grants to Good Ventures'),
-  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-10-27',50,'Philanthropy/Grants','Table','October end grants update: max 50; 18 grants to Open Phil, 11 grants to Good Ventures');
+  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-10-27',50,'Philanthropy/Grants','Table','October end grants update: max 50; 18 grants to Open Phil, 11 grants to Good Ventures'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-11-30',45,'Philanthropy/Grants','Table','October end grants update: max{4 * 5 + 5 + 5, 8 * 5 + 5}: 4 grants to Open Phil (plus some manual work), 8 grants to Good Ventures');  
 
 # -- Issa Rice's IATI grant updates
 
