@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $5723.30
+Total money earned by doing work (taxable as income for 2016): $5833.30
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: $864.83 (excluding pending payment)
+Net payment due: $974.83 (excluding pending payment)
 
 === Completed pages ===
 
@@ -123,7 +123,7 @@ Total so far: $250
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1333
+Total so far: $1443
 
 * stats.grok.se Wikimedia API fix: $80. Completed January 31, 2016.
 
@@ -157,7 +157,7 @@ Total so far: $1333
 
 * Improving GiveWell staff growth page to now separately cover Open Phil and GiveWell staff: $10. Completed October 1, 2016.
 
-* Adding plotting code and correlation matrix logic for Wikipedia Views: $80. Completed October 13, 2016. Working code available at https://gist.github.com/riceissa/8726e6a90d4a7634f3dd79cc1fdb63d5 (gist not publicly accessible)
+* Adding plotting code and correlation matrix logic for Wikipedia Views: $80. Completed October 13, 2016. Working code available at https://gist.github.com/riceissa/8726e6a90d4a7634f3dd79cc1fdb63d5
 
 * Restructuring and cleanup of Scientific Charity Movement page: $20. Completed October 14, 2016.
 
@@ -174,6 +174,10 @@ Total so far: $1333
 * Getting list of help pages in all language Wikipedias: $25. Completed November 21, 2016.
 
 * Automatic Wikipedia backup download: $100. Completed November 28, 2016.
+
+* Updates to GiveWell and its top charities' Wikipedia pages to reflect 2016 recommendation status: $100. Completed November 30, 2016.
+
+* Addition of new rows to timeline of Wikimedia analytics: $10. Completed November 30, 2016.
 
 === Touch payments ===
 
