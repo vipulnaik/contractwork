@@ -5,8 +5,8 @@ use contractwork;
 create table tasks(
   task_id int(11) not null auto_increment,
   worker varchar(40),
-  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','None') default 'Wikipedia',
-  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review'),
+  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','None') default 'Wikipedia',
+  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page update'),
   task_receptacle varchar(100) NOT NULL,
   task_receptacle_url varchar(100) NOT NULL,
   completion_date date NOT NULL,
@@ -322,5 +322,6 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia Views','Coding','distrib.py','https://github.com/vipulnaik/wikipediaviews/blob/master/python/distrib.py','2016-11-19',40,'Wikipedia','Code','Code to show bar or line plot for distribution of Wikipedia pageviews'),
   ('Issa Rice','Wikipedia Views','Coding','Special pages','N/A','2016-11-20',40,'Wikipedia','Data dump','List of special pages in all language Wikipedias'),
   ('Issa Rice','Wikipedia Views','Coding','Help pages','N/A','2016-11-21',25,'Wikipedia','Data dump','List of help pages in all language Wikipedias'),
-  ('Issa Rice','None','Coding','Backups','N/A','2016-11-28',100,'Wikipedia/Backup','Data dump','Setup for periodic backup of all important Wikipedia content for easy recoverability');
-		
+  ('Issa Rice','None','Coding','Backups','N/A','2016-11-28',100,'Wikipedia/Backup','Data dump','Setup for periodic backup of all important Wikipedia content for easy recoverability'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','GiveWell,GiveWell top charities (various pages)','https://en.wikipedia.org/wiki/GiveWell,others','2016-11-30',100,'Philanthropy/GiveWell/top charities','Prose with tables',NULL),
+  ('Issa Rice','Wikimedia Meta','Wiki page update','Timeline of Wikimedia analytics','https://meta.wikimedia.org/wiki/Research:Timeline_of_Wikimedia_analytics','2016-11-30',10,'Wikipedia','Timeline','Timeline events on starting dates for availability of search metrics');
