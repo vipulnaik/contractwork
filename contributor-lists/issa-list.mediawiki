@@ -84,6 +84,10 @@ Form 1040, though published on January 1, 2016 is counted in 2015 since the bulk
 
 === Open Phil and Good Ventures Wikipedia page grant list updates ===
 
+For each month, the payment is calculated according to:
+
+max{$27, min{$50, 5 * (1 + number of new distinct grants)}}
+
 Total so far: $372
 
 * Monthly update of Open Phil and Good Ventures grant lists (end of April): $50. Completed April 30, 2016.
