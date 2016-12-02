@@ -1,0 +1,65 @@
+This is my third quarterly review, and it covers the months from May to July of 2016.
+
+Things continue to be busy on the <a href="/job/">job front</a>. I also wrapped up some of my personal bureaucracy by the end of April, so this quarter was focused more on personal projects. However, the main personal project I worked on in the quarter was working with Issa Rice to scale up <a href="/sponsored-wikipedia-editing/">sponsored Wikipedia editing</a>.
+
+<h4>Wikipedia editing</h4>
+
+<em>For background information, see my <a href="/wikipedia">site page about Wikipedia</a></em>
+
+I created 1 page in May, 2 pages in June, and 2 pages in July. In total, I created 5 Wikipedia pages.
+
+As I mentioned in my <a href="http://vipulnaik.com/blog/february-to-april-2016-in-review/">previous quarterly review</a>, the pages I am creating right now are not as optimized for pageviews as pages in the past have been. Rather, they are pages in domains where I want to acquire a deeper understanding and believe the research process involved in creating the page will help me. All the pages I created in the quarter were related to migration.
+
+In total, pages I created over my lifetime got 474,772 pageviews over the quarter. You can see the data for all of 2016 (only three of the seven months are in this quarter) <a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Vipul%20Naik&year=2016">here</a>. This is between the 25th percentile estimate (460,000 views) and 50th percentile estimate (520,000 views) that I made in my <a href="http://vipulnaik.com/blog/february-to-april-2016-in-review/">previous quarterly review</a>. So it was a little lower than my median estimate but well within the usual range,
+
+<em>Forecast for future impact</em>: I expect the pageview counts to be roughly similar to the previous quarter: a baseline of around 155,000 pageviews per month, plus a possibility of minor spikes because of some pages being topical. The estimates are a little lower than those I made last quarter, and the variance is a little higher.
+
+<ul>
+	<li>2.5th percentile: 310,000 views.</li>
+	<li>10th percentile: 375,000 views.</li>
+	<li>25th percentile: 445,000 views.</li>
+	<li>50th percentile: 500,000 views.</li>
+	<li>75th percentile: 635,000 views.</li>
+	<li>90th percentile: 720,000 views.</li>
+	<li>97.5th percentile: 800,000 views.</li>
+</ul>
+
+<h4>Sponsored Wikipedia editing</h4>
+
+<em>For background information, see my <a href="/sponsored-wikipedia-editing">site page about sponsored Wikipedia editing</a></em>
+
+With help from Issa Rice and Ethan Bashkansky, I significantly scaled up sponsored Wikipedia editing operations. You can see a full list of people I have sponsored, along with links to their contributions I have paid for, <a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/contributor-cover-summary.mediawiki">here</a>.
+
+It has been (and continues to be) an interesting set of challenges in recruitment, training, motivation, figuring out payment, and negotiating the Wikipedia bureaucracy. Issa or I might write more about the experience in the future. The jury is still out and things will be clearer by the end of the next quarter. A few people who have contributed significantly to the project, and deserve special shoutouts, are Issa Rice (<a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki">pages and payments</a>), Sebastian Sanchez (<a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki">pages and payments</a>), Jesse Clifton (<a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/jesse-list.mediawiki">pages and payments</a>), Ethan Bashkansky (primarily for recruitment efforts) (<a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/ethan-list.mediawiki">pages and payments as well as recruitment efforts</a>) and Alex K. Chen (<a href="https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/akc-list.mediawiki">pages and payments</a>).
+
+<h4>WikiHow</h4>
+
+<em>For background information, see my <a href="/wikihow">site page about WikiHow</a></em>
+
+I wrote one new WikiHow article: <a href="http://www.wikihow.com/Understand-Your-Website-Audience-Profile">How to Understand Your Website Audience Profile</a>. The article got a lot of views in the first week (getting to about 800 pageviews), likely because it was featured prominently on various landing pages and lists of top articles. Its growth has subsequently slowed down to between 5 and 10 new pageviews a day. The draft history (before I pushed it to WikiHow) can be found by looking at the history for the <a href="https://github.com/vipulnaik/working-drafts/blob/master/understand-audience-profile.mediawiki">version in my personal Git repository</a>.
+
+The post is the first of many I intend to write related to understanding and interpreting trends and patterns, with an initial focus on the web.
+
+I also edited some of my older WikiHow articles, including <a href="http://www.wikihow.com/Gauge-the-Popularity-of-a-Topic-Online">How to Gauge the Popularity of a Topic Online</a>. I added and fixed up pictures for some other articles.
+
+In total, pages I have created on WikiHow over my lifetime have about 9000 pageviews, and are getting between 1000 and 2000 additional pageviews every month. I had started editing WikiHow in May 2015.
+
+<h4>Other written content</h4>
+
+In response to charity evaluator GiveWell's <a href="http://blog.givewell.org/2016/05/13/givewells-money-moved-web-traffic-2015/"> May 13, 2016 report</a> on their annual traffic and money moved in 2015, I wrote a post <a href="http://effective-altruism.com/r/main/ea/xn/givewell_money_moved_in_2015_a_review_of_my/">reviewing my own past estimates of money moved, and discussing some implications</a>.
+
+I finally got around to publishing the blog post <a href="http://openborders.info/blog/high-skilled-hacks-very-brief-overview-h-1bs-more-to-follow/">High-skilled hacks: a (very) brief overview of H-1Bs (more to follow)</a>. The post built on my reading and research into high-skilled work visas. I hope to do many other posts in the broad area.
+
+<h4>Personal server migration</h4>
+
+I began but have not fully completed the migration of all my websites to a cleaner Linode installation. The change will make it faster to quickly spin up a new Linode and transfer the key content to that. Basically, I am moving my server away from the <a href="http://martinfowler.com/bliki/SnowflakeServer.html">snowflake server</a> it had become in the last few years, and standardizing some of the procedures.
+
+<h4>Entertainment</h4>
+
+Two Korean dramas I have been watching in the last few months are <a href="http://en.wikipedia.org/wiki/The_Flower_in_Prison">The Flower in Prison</a> (<a href="https://www.viki.com/tv/29937c-the-flower-in-prison?locale=en">Viki</a>) and <a href="https://en.wikipedia.org/wiki/Doctors_(2016_TV_series)">Doctors</a> (<a href="https://www.viki.com/tv/31066c-doctors?locale=en">Viki</a>). I'm watching both on Viki. An older drama that I binge-watched was <a href="http://www.viki.com/tv/30330c-neighborhood-lawyer-jo-deul-ho?locale=en">Neighborhood Lawyer Jo Deul Ho</a>.
+
+I can now understand much of the Korean vocabulary used in the dramas, though these are probably unrepresentative of real-life Korean. Often, I watch an episode without subtitles and get most of the gist of it, but I miss a few nuances that I later fill in by watching with subtitles.
+
+If you are interested in getting some drama recommendations, check out <a href="https://edramaclouds.wordpress.com/2016/07/04/dramas-that-i-watched-2016-mid-year-review/">Evelyn Lee's mid-2016 review</a>.
+
+I am also cancelling my ErosNow subscription since I don't get a lot of time to watch Bollywood movies, and the smaller chunks of Korean dramas (1-hour episodes) make them fit better with my time.
