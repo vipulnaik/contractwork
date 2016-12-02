@@ -2,7 +2,7 @@
 
 http://blog.measureful.com/2014/02/the-evolution-of-google-analytics-a-timeline/
 
-https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ (see also references)
+https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ (see also references): This is particularly good for the pre-Google Analytics part.
 
 
 
@@ -28,7 +28,7 @@ https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ (see al
 
 * Launch of Alexa, Compete, Quantcast, etc. and their audience panel approach (through browser toolbars) for user-level tracking
 
-* Apache or whatever for web logs, log analysis softwares for that? (late 1990s/early 2000s?)
+* Apache or whatever for web logs, log analysis softwares for that? (late 1990s/early 2000s?); see https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ for one version of the story
 
 * Growth of JavaScript in browsers, leading to JavaScript-based third-party tracking pixels (what was the first?)
 
