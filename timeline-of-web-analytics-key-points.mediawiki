@@ -49,10 +49,13 @@ https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ (see al
 
 * Mobile apps, app analytics solutions
 
+* Growth of companies and industry that specializes in analytics of Google Analytics, or something like that. Any conferences or seminars or books or other canons for analytics discussion.
+
 * Facebook launches retargeting pixels for audience analytics/targeting
 
 * Use of UTM tags and other URL parameter and rewriting tricks to identify traffic source.
 ** Huge death toll of UTM tags when people use it to track internal link performance, see https://support.google.com/analytics/answer/6205762?hl=en
+
 
 == Measurement issues ==
 
