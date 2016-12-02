@@ -91,17 +91,13 @@ Pages loaded entirely from cache. JS trackers still work but web request logs do
 ** Rise and fall of Tor-like services
 ** Growth of mainstream things like Amazon Silk and Opera Mini where web requests are made server-side
 
-* Google Analytics gives website opt-in ability to join with
-  DoubleClick cookie and infer gender, age, and interests data for
-  users
+* Google Analytics gives website opt-in ability to join with DoubleClick cookie and infer gender, age, and interests data for users
 
 * Increasing use of HTTPS and URL shorteners on the web makes referrers hard to track. Specifically the case for:
 ** Search traffic (no longer know search query)
 ** Social media traffic
 
-* Google Analytics integrates with Google Webmaster Tools to get
-  Google search impression and click data for searches leading to the
-  site.
+* Google Analytics integrates with Google Webmaster Tools to get Google search impression and click data for searches leading to the site.
 
 == Other changes to Google Analytics ==
 
