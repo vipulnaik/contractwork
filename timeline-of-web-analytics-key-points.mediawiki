@@ -12,7 +12,7 @@ https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ (see al
 
 * First-party server logs, triggered through any web request regardless of whether the client can execute JavaScript.
 
-* Third-party beacons (small snippets of code that load a third-party JS). Basic mechanism: a few lines of code in the raw HTML loads a JS file that executes various logic around tracking pageviews, user actions, etc. and sends them to the third-party server (API endpoint). Work only for JavaScript-executing user agents.
+* Third-party beacons (small snippets of code that load a third-party JS). Basic mechanism: a few lines of code in the raw HTML loads a JS file that executes various logic around tracking pageviews, user actions, etc. and sends them to the third-party server (API endpoint), usually receiving a pixel in response for confirmation. Since the response is a pixel, these events are called "pixel events" or just "pixels" and this kind of tracking may also be called pixel-based tracking. Work only for JavaScript-executing user agents.
 
 ** Those that use only first-party cookies (cookies still stored under main domain, not third-party site) and cannot connect user activity across sites
 
