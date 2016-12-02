@@ -8,9 +8,11 @@
 
 * Security and privacy landmarks e.g. those mentioned in https://d0.awsstatic.com/whitepapers/compliance/AWS_EU_Data_Protection_Whitepaper.pdf
 
-* Data center region landmarks
+* Data center region landmarks: GovCloud, data centers in Asia, Europe, etc.
 
 * Large scale customer migrations: Snowball, Snowmobile, etc.
+
+* Government agency use of AWS
 
 * Discounts for Y Combinator and/or "official" Y Combinator endorsement
 
