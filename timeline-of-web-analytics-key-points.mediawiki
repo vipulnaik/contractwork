@@ -4,15 +4,15 @@ http://blog.measureful.com/2014/02/the-evolution-of-google-analytics-a-timeline/
 
 https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ (see also references): This is particularly good for the pre-Google Analytics part.
 
-
-
 == Kinds of tracking ==
 
 === Website-based ===
 
 * First-party server logs, triggered through any web request regardless of whether the client can execute JavaScript.
 
-* Third-party beacons (small snippets of code that load a third-party JS). Basic mechanism: a few lines of code in the raw HTML loads a JS file that executes various logic around tracking pageviews, user actions, etc. and sends them to the third-party server (API endpoint), usually receiving a pixel in response for confirmation. Since the response is a pixel, these events are called "pixel events" or just "pixels" and this kind of tracking may also be called pixel-based tracking. Work only for JavaScript-executing user agents.
+* Image-load (pixel) tracking in the raw HTML; this could load from the first-party site or a third-party site, and does not need any JavaScript execution capability (but still needs a browser that automaticaly fetches images).
+
+* Third-party beacons (small snippets of code that load a third-party JS). Basic mechanism: a few lines of code in the raw HTML loads a JS file that executes various logic around tracking pageviews, user actions, etc. and sends them to the third-party server (API endpoint), usually receiving a pixel in response for confirmation. Work only for JavaScript-executing user agents.
 
 ** Those that use only first-party cookies (cookies still stored under main domain, not third-party site) and cannot connect user activity across sites
 
@@ -51,6 +51,9 @@ https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ (see al
 
 * Facebook launches retargeting pixels for audience analytics/targeting
 
+* Use of UTM tags and other URL parameter and rewriting tricks to identify traffic source.
+** Huge death toll of UTM tags when people use it to track internal link performance, see https://support.google.com/analytics/answer/6205762?hl=en
+
 == Measurement issues ==
 
 === Legitimate users not getting tracked ===
@@ -71,9 +74,22 @@ https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ (see al
 
 * Google Analytics Pro release, to allow unsampled data up to 10M sessions
 
+=== Cache loading ===
+
+Pages loaded entirely from cache. JS trackers still work but web request logs don't.
+
+* History of caching/CDNs and effect on metricing.
+
 == Changes to user details available ==
 
 (I'm excluding launches of brand new analytics services here)
+
+* Any changes to standards re: what to include in HTTP headers?
+
+* Use of proxies:
+** Rise and fall of VPNs
+** Rise and fall of Tor-like services
+** Growth of mainstream things like Amazon Silk and Opera Mini where web requests are made server-side
 
 * Google Analytics gives website opt-in ability to join with
   DoubleClick cookie and infer gender, age, and interests data for
@@ -106,6 +122,12 @@ https://www.clicktale.com/academy/blog/a-brief-history-of-web-analytics/ (see al
 == Other things ==
 
 Use judgment on what and how much to include.
+
+=== Email analytics ===
+
+* Pixel tracking for measuring email opens, URL redirects for email clicks
+
+* Names of major email analytics services or mass mail services and analytics tools
 
 === Analytics-cum-social media management ===
 
