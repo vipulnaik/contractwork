@@ -1,0 +1,32 @@
+* Before S3 and AWS: Amazon server improvements/developments
+
+* Launch of Dropbox and/or when they started using S3
+
+* Launch of Pinterest and/or when they started using AWS
+
+* First reInvent conference
+
+* Security and privacy landmarks e.g. those mentioned in https://d0.awsstatic.com/whitepapers/compliance/AWS_EU_Data_Protection_Whitepaper.pdf
+
+* Data center region landmarks
+
+* Large scale customer migrations: Snowball, Snowmobile, etc.
+
+* Discounts for Y Combinator and/or "official" Y Combinator endorsement
+
+* IPv6 migration
+
+Services:
+
+* Route 53
+
+* CloudFormation
+
+* EC2 Container Service
+
+* Lambda
+
+* Beanstalk (?)
+
+Major pricing cuts
+
