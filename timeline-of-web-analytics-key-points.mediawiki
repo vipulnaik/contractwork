@@ -109,11 +109,9 @@ Pages loaded entirely from cache. JS trackers still work but web request logs do
 
 * Google Analytics switches to new Analytics dashboard format
 
-* Google Analytics starts showing realtime data; believed to be
-  response to competition from Chartbeat
+* Google Analytics starts showing realtime data; believed to be response to competition from Chartbeat
 
-* Release of Google Surveys, incorporation into Google Analytics,
-  Google Surveys is free when surveying about own site
+* Release of Google Surveys, incorporation into Google Analytics, Google Surveys is free when surveying about own site
 
 == Other things ==
 
