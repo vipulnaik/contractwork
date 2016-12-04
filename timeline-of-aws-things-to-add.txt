@@ -1,4 +1,18 @@
 * Before S3 and AWS: Amazon server improvements/developments
+** https://gigaom.com/2010/06/18/the-origins-of-amazons-cloud-computing/
+** https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/
+** http://www.networkworld.com/article/2891297/cloud-computing/the-myth-about-how-amazon-s-web-service-started-just-won-t-die.html
+** http://www.zdnet.com/article/how-amazon-exposed-its-guts-the-history-of-awss-ec2/
+** https://medium.com/@furrier/original-content-the-story-of-aws-and-andy-jassys-trillion-dollar-baby-4e8a35fd7ed#.k0elf3gf1
+** https://techcrunch.com/2006/08/24/exclusive-amazon-readies-utility-computing-service/
+** http://blog.hackerrank.com/how-amazon-web-services-surged-out-of-nowhere/
+** https://www.quora.com/How-and-why-did-Amazon-get-into-the-cloud-computing-business
+** https://plus.google.com/+RipRowan/posts/eVeouesvaVX
+
+
+* Subsequent rise overall:
+** https://www.washingtonpost.com/business/on-it/the-rise-of-amazon-web-services/2015/04/23/fe1b3980-e795-11e4-9a6a-c1ab95a0600b_story.html?utm_term=.1ad0f2519aee
+** http://blog.hackerrank.com/how-amazon-web-services-surged-out-of-nowhere/
 
 * Launch of Dropbox and/or when they started using S3
 
@@ -9,6 +23,7 @@
 * Security and privacy landmarks e.g. those mentioned in https://d0.awsstatic.com/whitepapers/compliance/AWS_EU_Data_Protection_Whitepaper.pdf
 
 * Data center region landmarks: GovCloud, data centers in Asia, Europe, etc.
+** https://techcrunch.com/2008/12/10/amazon-ec2-now-available-in-europe/
 
 * Large scale customer migrations: Snowball, Snowmobile, etc.
 
@@ -19,6 +34,8 @@
 * IPv6 migration
 
 Services:
+
+* SES: https://techcrunch.com/2011/01/25/aws-launches-simple-cloud-based-email-service-amazon-ses/
 
 * Route 53
 
