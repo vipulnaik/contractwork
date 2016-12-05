@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $6133.30
+Total money earned by doing work (taxable as income for 2016): $6303.30
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
 Payment made: $5044 (+ $4000 pending)
 
-Net payment due: $1274.83 (excluding pending payment)
+Net payment due: $1444.83 (excluding pending payment)
 
 === Completed pages ===
 
@@ -132,7 +132,7 @@ Total so far: $250
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1443
+Total so far: $1603
 
 * stats.grok.se Wikimedia API fix: $80. Completed January 31, 2016.
 
@@ -187,6 +187,8 @@ Total so far: $1443
 * Updates to GiveWell and its top charities' Wikipedia pages to reflect 2016 recommendation status: $100. Completed November 30, 2016.
 
 * Addition of new rows to timeline of Wikimedia analytics: $10. Completed November 30, 2016.
+
+* Investigation into S3 cost modeling. Code at https://gist.github.com/riceissa/51ceb243a2f23995b902c1e320efdf71: $170. Completed December 3, 2016.
 
 === Touch payments ===
 
