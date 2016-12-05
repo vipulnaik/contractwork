@@ -8,7 +8,9 @@
 ** http://blog.hackerrank.com/how-amazon-web-services-surged-out-of-nowhere/
 ** https://www.quora.com/How-and-why-did-Amazon-get-into-the-cloud-computing-business
 ** https://plus.google.com/+RipRowan/posts/eVeouesvaVX
-
+Not-yet-included:
+** http://www.businessinsider.com/benjamin-black-and-amazon-web-services-2014-7
+** http://www.businessinsider.com/amazons-game-changing-cloud-was-built-by-some-guys-in-south-africa-2012-3
 
 * Subsequent rise overall:
 ** https://www.washingtonpost.com/business/on-it/the-rise-of-amazon-web-services/2015/04/23/fe1b3980-e795-11e4-9a6a-c1ab95a0600b_story.html?utm_term=.1ad0f2519aee
