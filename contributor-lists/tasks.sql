@@ -25,6 +25,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Ethan Bashkansky', 'Wikipedia', 'Wikipedia page creation','Form 1099-R','https://en.wikipedia.org/wiki/Form_1099-R','2016-08-29',50,'United States taxation','Prose',NULL),
   ('Ethan Bashkansky', 'Wikipedia', 'Wikipedia page creation','Vote pairing in the United States presidential election, 2016','https://en.wikipedia.org/wiki/Vote_pairing_in_the_United_States_presidential_election,_2016','2016-11-02',105,'United States politics','Prose',NULL);
 
+# -- Sebastian Sanchez's Wikipedia page creation work
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page translation', 'Dolor en los animales', 'https://es.wikipedia.org/wiki/Dolor_en_los_animales','2016-04-21',100,'Animal welfare','Translation', 'Source: Pain in animals (English Wikipedia)'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of cholera', 'https://en.wikipedia.org/wiki/Timeline_of_cholera','2016-04-23',100,'Global health/diseases','Timeline', NULL),
