@@ -70,7 +70,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in Russia', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Russia','2016-11-07',110,'Country healthcare','Timeline', 'Published to main space 2016-10-31, finalized and payment added 2016-11-07'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Schedula Romana', 'https://en.wikipedia.org/wiki/Schedula_Romana', '2016-11-30', 13, 'History of medicine/health/malaria', 'Prose', 'One of the auxiliary articles for timeline of malaria'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of healthcare in the United Kingdom', 'https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_the_United_Kingdom','2016-12-05',140,'Country healthcare','Timeline', NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Global Initiative for Traditional Systems of Health', 'https://en.wikipedia.org/wiki/Global_Initiative_for_Traditional_Systems_of_Health',38,'Miscellaneous global health','Prose',NULL);
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Global Initiative for Traditional Systems of Health', 'https://en.wikipedia.org/wiki/Global_Initiative_for_Traditional_Systems_of_Health','2016-12-05',38,'Miscellaneous global health','Prose','Page created 2016-11-30, finalized pay on 2016-12-05');
 
 
 # -- Adrian Ulloa page creation
