@@ -1,7 +1,3 @@
-create database contractwork;
-
-use contractwork;
-
 create table tasks(
   task_id int(11) not null auto_increment,
   worker varchar(40),
