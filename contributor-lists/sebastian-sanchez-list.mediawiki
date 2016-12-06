@@ -16,17 +16,17 @@ Additional notes: Based in Argentina
 
 === Summary ===
 
-Total money earned as income: $3425
+Total money earned as income: $3463
 
 Payment made: $4026
 
-Net payment due: ($601)
+Net payment due: ($563)
 
 Note: Sebastian started work in April and took a break in June.
 
 == Completed pages ==
 
-Total: $3420 (38 pages)
+Total: $3458 (39 pages)
 
 === Totals by page type ===
 
@@ -34,9 +34,7 @@ Total: $3420 (38 pages)
 
 * Disease timelines: $1466 (18 pages). Access Wikipedia views data [here http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Disease%20timelines%20created%20by%20Sebastian%20Sanchez&allmonths=allmonths]
 
-* Other pages related to global health, healthcare, and biology: $333 (5 pages)
-
-* Translations: $100 (1 page)
+(some others)
 
 === Totals by month ===
 
@@ -52,7 +50,9 @@ Total: $3420 (38 pages)
 
 * October 2016: $596 (8 pages)
 
-* November 2016: $13 (1 page)
+* November 2016: $23 (1 page)
+
+* December 2016: $178 (2 pages)
 
 === Pages ===
 
@@ -133,6 +133,8 @@ Total: $3420 (38 pages)
 * Schedula Romana: $23. Published November 30, 2016.
 
 * Timeline of healthcare in the United Kingdom: $140. Published December 5, 2016.
+
+* Global Initiative for Traditional Systems of Health: $38. Published November 30, 2016, finalized December 5, 2016.
 
 == Additions to existing pages, beyond those already covered in completed pages section ==
 
