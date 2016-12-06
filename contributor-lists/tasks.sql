@@ -189,10 +189,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sergey Yegorov', 'Wikipedia', 'Wikipedia page creation', 'Academic Training', 'https://en.wikipedia.org/wiki/Academic_Training', '2016-09-20', 150, 'United States migration/academia', 'Prose', NULL),
   ('Sergey Yegorov', 'Wikipedia', 'Wikipedia page creation', 'Food frequency questionnaire', 'https://en.wikipedia.org/wiki/Food_frequency_questionnaire', '2016-10-23', 28, 'Nutrition', 'Prose', NULL);
   
-# -- Thomas James Foster list
+# -- Thomas Foster list
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  ('Thomas James Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of machine learning', 'https://en.wikipedia.org/wiki/Timeline_of_machine_learning', '2016-06-16', 80, 'Artificial intelligence/Machine learning', 'Timeline', NULL),
-  ('Thomas James Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in Oceania', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_Oceania', '2016-06-23', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation');
+  ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of machine learning', 'https://en.wikipedia.org/wiki/Timeline_of_machine_learning', '2016-06-16', 80, 'Artificial intelligence/Machine learning', 'Timeline', NULL),
+  ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in Oceania', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_Oceania', '2016-06-23', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation');
 
 # -- Alex K. Chen list
 
