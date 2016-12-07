@@ -16,11 +16,11 @@ Additional notes: Based in Argentina
 
 === Summary ===
 
-Total money earned as income: $3463
+Total money earned as income: $3648
 
 Payment made: $4026
 
-Net payment due: ($563)
+Net payment due: ($378)
 
 Note: Sebastian started work in April and took a break in June.
 
@@ -136,11 +136,13 @@ Total: $3458 (39 pages + 1 translation)
 
 * Global Initiative for Traditional Systems of Health: $38. Published November 30, 2016, finalized December 5, 2016.
 
-== Additions to existing pages, beyond those already covered in completed pages section ==
+== Additions to existing pages that are significantly different from new page creation ===
 
-Total: $5
+Total: $190
 
 * Adding IARC and some other references to existing pages: $5. Done August 28, 2016.
+
+* Revamp of timeline of malaria, adding lots of new events plus new graphs: $185. Completed December 6, 2016.
 
 === Payment schedule ===
 
