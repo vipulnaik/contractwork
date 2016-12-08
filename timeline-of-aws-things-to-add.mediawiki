@@ -3,7 +3,8 @@
 Subtype product into storage, compute, and database and indicate subtype parenthetically.
 
 == Rows to add ==
-Services:
+
+Services: Only include first launch of service, not first launch in each region:
 
 * SES: https://techcrunch.com/2011/01/25/aws-launches-simple-cloud-based-email-service-amazon-ses/
 
