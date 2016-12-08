@@ -70,6 +70,38 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   # -- Avi Glozman
   ('PayPal','Avi Glozman',NULL,'2016-06-04','2016-06-04','2016-06-04','2016-06-04',33,33,0,33),
   ('PayPal','Avi Glozman',NULL,'2016-07-28','2016-07-28','2016-07-28','2016-07-28',193,193,0,193),
+  ('PayPal','Avi Glozman',NULL,'2016-08-28','2016-08-28','2016-08-28','2016-08-28',190,190,0,190),
+
+  # -- Charlie Corner payments
+  ('PayPal','Charlie Corner',NULL,'2016-07-09','2016-07-09','2016-07-09','2016-07-09',50,50,0,50),
+  ('PayPal','Charlie Corner',NULL,'2016-09-18','2016-09-18','2016-09-18','2016-09-18',102,102,0,102),
+
+  # -- Christopher Kunin payments
+  ('PayPal','Christopher Kunin',NULL,'2016-06-18','2016-06-18','2016-06-18','2016-06-18',30,30,0,30),
+  ('PayPal','Christopher Kunin',NULL,'2016-08-01','2016-08-01','2016-08-01','2016-08-01',112,112,0,112),
+  ('PayPal','Christopher Kunin',NULL,'2016-10-12','2016-10-12','2016-10-12','2016-10-12',120,120,0,120),
+
+  # -- Devansh Dwivedy payments
+  ('PayPal','Devansh Dwivedy',NULL,'2016-06-29','2016-06-29','2016-06-29','2016-06-29',50,50,0,50),
+
+  # -- Eddy Su payments
+  ('PayPal','Eddy Su',NULL,'2016-06-11','2016-06-11','2016-06-11','2016-06-11',38,38,0,38),
+
+  # -- Jesse Clifton payments (include $2000 check)
+
+  # -- Michael Royzen payment
+  ('PayPal','Michael Royzen',NULL,'2016-06-21','2016-06-21','2016-06-21','2016-06-21',50,50,0,50),
+
+  # -- Sean Yu payment
+  ('PayPal','Sean Yu',NULL,'2016-06-23','2016-06-23','2016-06-23','2016-06-23',50,50,0,50),
+
+  # -- Sergey Yegorov payment
+  ('PayPal','Sergey Yegorov',NULL,'2016-10-17','2016-10-17','2016-10-17','2016-10-17',175,175.88,0.88,175),
+
+  # -- Thomas Foster payment
+  ('PayPal','Thomas Foster',NULL,'2016-06-16','2016-06-16','2016-06-16','2016-06-16',80,79.99,0.79,79),
+
+  # -- Alex K. Chen: add check
 
 
 
