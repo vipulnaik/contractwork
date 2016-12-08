@@ -1,5 +1,5 @@
 create table tasks(
-  task_id int(11) not null auto_increment,
+  task_id int(11) not null auto_increment primary key, 
   worker varchar(40),
   task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','None') default 'Wikipedia',
   task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update'),
@@ -10,7 +10,6 @@ create table tasks(
   topic varchar(100) NOT NULL,
   format varchar(100) NOT NULL,
   notes varchar(2000) DEFAULT NULL,
-  primary key (`task_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 # -- Ethan Bashkansky's Wikipedia page creation work
