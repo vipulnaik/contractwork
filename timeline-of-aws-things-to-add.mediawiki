@@ -1,3 +1,11 @@
+== What to source ==
+
+* For events before launch of AWS blog, main AWS announcements
+
+* Coverage in mainstream media (e.g. NYT) if applicable
+
+* Coverage in tech media (TechCrunch, Mashable)
+
 == Improved event types ==
 
 Subtype product into storage, compute, and database and indicate subtype parenthetically.
