@@ -15,9 +15,9 @@ create table payments(
 
 insert into payments(payment_method, payee, intermediary, sent_date, payment_notice_receipt_date, cashout_request_date, receipt_date, payment, sent_payment, overhead, received_payment) values
   # -- Sebastian Sanchez payments
-  ('Western Union','Sebastian Sanchez',NULL,fillin,fillin,fillin,fillin,108,108,8,100),
-  ('Western Union','Sebastian Sanchez',NULL,fillin,fillin,fillin,fillin,508,508,8,500),
-  ('Western Union','Sebastian Sanchez',NULL,fillin,fillin,fillin,fillin,708,708,8,700),
+  ('Western Union','Sebastian Sanchez',NULL,'2016-05-07','2016-05-07','2016-05-09','2016-05-09',108,108,8,100),
+  ('Western Union','Sebastian Sanchez',NULL,'2016-05-09','2016-05-09','2016-05-10','2016-05-10',508,508,8,500),
+  ('Western Union','Sebastian Sanchez',NULL,'2016-05-14','2016-05-14','2016-05-16','2016-05-16',708,708,8,700),
   ('Western Union','Sebastian Sanchez',NULL,'2016-07-23','2016-07-23','2016-07-25','2016-07-25',678,678,8,670),
   ('Western Union','Sebastian Sanchez',NULL,'2016-08-20','2016-08-20','2016-08-22','2016-08-22',678,678,8,670),
   ('Western Union','Sebastian Sanchez',NULL,'2016-10-01','2016-10-01','2016-10-03','2016-10-03',669,669,8,661),
@@ -58,14 +58,14 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Issa Rice',NULL,'2016-02-17','2016-02-17','2016-02-17','2016-02-17',115,115,0,115),
   ('PayPal','Issa Rice',NULL,'2016-03-04','2016-03-04','2016-03-04','2016-03-04',193,193,0,193),
   ('PayPal','Issa Rice',NULL,'2016-04-22','2016-04-22','2016-04-22','2016-04-22',296,296,0,296),
-  ('Check','Issa Rice',NULL,'2016-05-14',(insert date),(insert date),'2016-05-23',4000,4000,0,4000),
-  ('Check','Issa Rice',NULL,'2016-10-01',(insert date),(insert date),NULL,4000,4000,0,4000),
+  ('Check','Issa Rice',NULL,'2016-05-14','2016-05-18','2016-05-23','2016-05-23',4000,4000,0,4000),
+  ('Check','Issa Rice',NULL,'2016-10-01','2016-10-06',NULL,NULL,4000,4000,0,4000),
 
   # -- Adrian Ulloa payment
-  # -- Figure out payments made via Issa Rice
+  ('Paypal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105),
 
   # -- Amy Zhang
-  # -- Figure out payments made via Issa Rice
+  ('PayPal','Amy Zhang','Issa Rice','2016-06-26','2016-06-26','2016-06-26','2016-06-26',80,80,0,80),
 
   # -- Avi Glozman
   ('PayPal','Avi Glozman',NULL,'2016-06-04','2016-06-04','2016-06-04','2016-06-04',33,33,0,33),
@@ -87,7 +87,8 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   # -- Eddy Su payments
   ('PayPal','Eddy Su',NULL,'2016-06-11','2016-06-11','2016-06-11','2016-06-11',38,38,0,38),
 
-  # -- Jesse Clifton payments (include $2000 check)
+  # -- Jesse Clifton payments
+  ('Check','Jesse Clifton',NULL,'2016-08-15','2016-08-18','2016-08-24','2016-08-27',2000,2000,0,2000),
 
   # -- Michael Royzen payment
   ('PayPal','Michael Royzen',NULL,'2016-06-21','2016-06-21','2016-06-21','2016-06-21',50,50,0,50),
@@ -102,7 +103,5 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Thomas Foster',NULL,'2016-06-16','2016-06-16','2016-06-16','2016-06-16',80,79.99,0.79,79),
 
   # -- Alex K. Chen: add check
-
-
-
+  ('Check','Alex K. Chen',NULL,'2015-12-26','2015-12-31','2016-01-06','2016-01-06',7100,7100,0,7100);
 
