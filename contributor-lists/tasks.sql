@@ -117,6 +117,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 # -- Issa Rice page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  # -- 2015 page creation
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Form 1040','https://en.wikipedia.org/wiki/Form_1040','2015-12-31',400,'United States taxation','Prose','Although mostly completed by 2015-12-31, the article was published to main space on 2016-01-01. Payment, however, is considered to be for the 2015 tax year.'),
+  # -- 2016 page creation
   ('Issa Rice','Wikipedia','Wikipedia page creation','Green Card Test','https://en.wikipedia.org/wiki/Green_Card_Test','2016-01-05',25,'United States taxation/United States migration', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Triplebyte','https://en.wikipedia.org/wiki/User:Riceissa/Triplebyte','2016-06-04',31,'Technology/company','Prose','25 for initial work in January. 6 for later work in June and publication. Later deleted through AfD, userspace version survives'),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Form 1099','https://en.wikipedia.org/wiki/Form_1099','2016-01-11',50,'United States taxation', 'Prose', NULL),
