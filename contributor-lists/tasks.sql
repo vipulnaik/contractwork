@@ -2,7 +2,7 @@ create table tasks(
   task_id int(11) not null auto_increment,
   worker varchar(40),
   task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','None') default 'Wikipedia',
-  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page update'),
+  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update'),
   task_receptacle varchar(100) NOT NULL,
   task_receptacle_url varchar(100) NOT NULL,
   completion_date date NOT NULL,
@@ -304,6 +304,11 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   
 # -- Other payments to Issa Rice
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  # -- 2015 payments
+  ('Issa Rice','Wikipedia','Wikipedia page update','A Plus (aplus.com)','https://en.wikipedia.org/wiki/A_Plus_(aplus.com)','2016-04-05',20,'Media company','Prose','First Wikipedia article experience. Originally intended to create article, but it got created while this was in draft, so merged work in.'),
+  ('Issa Rice','wikiHow','Wiki page creation','Archive Websites on Unix Like Systems','http://www.wikihow.com/Archive-Websites-on-Unix-Like-Systems','2015-09-22',300,'Digital preservation','Prose/How-to',NULL),
+  ('Issa Rice','Effective Altruism Forum','Blog post or article','An overview of Y Combinator’s non-profit program','http://effective-altruism.com/ea/pn/an_overview_of_y_combinators_nonprofit_program/','2015-11-07',250,'Philanthropy/nonprofit evaluation/effective altruism','Prose',NULL),
+  # -- 2016 payments
   ('Issa Rice','Wikipedia Views','Coding','pageviewQueries.inc','https://github.com/vipulnaik/wikipediaviews/blob/master/backend/pageviewQueries.inc','2016-01-31',80,'API integration','Code','Add ability to query Wikimedia API for pageviews'),
   ('Issa Rice','Wikipedia','Miscellaneous Wikipedia work','Animal Charity Evaluators','https://en.wikipedia.org/wiki/User:Riceissa/Animal_Charity_Evaluators','2016-03-18',20,'Animal welfare/nonprofit evaluation/Animal Charity Evaluators','Communication','Retrieved deleted page from admin and userfied it'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Disease Control Priorities Project','https://en.wikipedia.org/wiki/Disease_Control_Priorities_Project','2016-04-13',6,'Global health','Prose','Add years'),
