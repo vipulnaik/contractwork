@@ -1,11 +1,12 @@
 == What to source ==
 
-* For events before launch of AWS blog, main AWS announcements
+* For events before launch of AWS blog, main AWS announcements. After AWS blog came out, use AWS blog.
 
-* Coverage in mainstream media (e.g. NYT) if applicable
+* Coverage in mainstream media (e.g. NYT) if applicable. For launch in non-US regions look for local media coverage.
 
 * Coverage in tech media (TechCrunch, Mashable)
 
+* Tech websites that provide detailed review or discussion of AWS features.
 == Improved event types ==
 
 Subtype product into storage, compute, and database and indicate subtype parenthetically.
