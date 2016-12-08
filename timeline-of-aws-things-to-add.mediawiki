@@ -1,0 +1,31 @@
+== Improved event types ==
+
+Subtype product into storage, compute, and database and indicate subtype parenthetically.
+
+== Rows to add ==
+Services:
+
+* SES: https://techcrunch.com/2011/01/25/aws-launches-simple-cloud-based-email-service-amazon-ses/
+
+* Route 53
+
+* CloudFormation
+
+* EC2 Container Service
+
+* Lambda
+
+* Beanstalk (?)
+
+Major pricing cuts in EC2, S3, that received wide coverage
+
+Misc:
+
+* First reInvent conference
+
+* Security and privacy landmarks e.g. those mentioned in https://d0.awsstatic.com/whitepapers/compliance/AWS_EU_Data_Protection_Whitepaper.pdf
+
+* Large scale customer migrations: Snowball, Snowmobile, etc.
+
+* Government agency use of AWS: We already have GovCloud launch, but is there more?
+
