@@ -2,7 +2,7 @@ create table commissions(
   commission_id int(11) not null auto_increment primary key,
   earner varchar(40) not null,
   commission_receiver varchar(40) not null,
-  commission float(0,2) not null,
+  commission float(2,2) not null,
   commission_reason enum('Recruiter','Guide') not null,
   commission_validity_start date,
   commission_validity_end date,
@@ -10,7 +10,7 @@ create table commissions(
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into commissions(earner,commission_receiver,commission,commission_validity_start,commission_validity_end,commission_reason) values 
-  ('Adrian Ulloa','Issa Rice',0.10,'2016-08-24',NULL,'Guide'),
+  ('Adrian Ulloa','Issa Rice',0.10,'2016-08-16',NULL,'Guide'),
   ('Amy Zhang','Issa Rice',0.15,'2016-06-26',NULL,'Guide'),
   ('Avi Glozman','Issa Rice',0.10,'2016-06-05',NULL,'Guide'),
   ('Charlie Corner','Issa Rice',0.15,'2016-07-10',NULL,'Guide'),
@@ -26,6 +26,7 @@ insert into commissions(earner,commission_receiver,commission,commission_validit
  
   ('Amy Zhang','Ethan Bashkansky',0.15,'2016-06-26',NULL,'Recruiter'),
   ('Avi Glozman','Ethan Bashkansky',0.10,'2016-06-05',NULL,'Guide'),
+  ('Charlie Corner','Linchuan Zhang',0.15,'2016-07-10',NULL,'Guide'),
   ('Christopher Kunin','Ethan Bashkansky',0.10,'2016-06-16',NULL,'Guide'),
   ('Devansh Dwivedy','Ethan Bashkansky',0.10,'2016-06-29',NULL,'Guide'),
   ('Eddy Su','Ethan Bashkansky',0.10,'2016-06-12',NULL,'Guide'),
