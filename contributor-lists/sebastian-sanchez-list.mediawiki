@@ -16,17 +16,17 @@ Additional notes: Based in Argentina
 
 === Summary ===
 
-Total money earned as income: $3648
+Total money earned as income: $3668
 
 Payment made: $4026
 
-Net payment due: ($378)
+Net payment due: ($358)
 
 Note: Sebastian started work in April and took a break in June.
 
 == Completed pages ==
 
-Total: $3458 (39 pages + 1 translation)
+Total: $3478 (40 pages + 1 translation)
 
 === Totals by page type ===
 
@@ -52,7 +52,7 @@ Total: $3458 (39 pages + 1 translation)
 
 * November 2016: $23 (1 page)
 
-* December 2016: $178 (2 pages)
+* December 2016: $198 (3 pages)
 
 === Pages ===
 
@@ -135,6 +135,8 @@ Total: $3458 (39 pages + 1 translation)
 * Timeline of healthcare in the United Kingdom: $140. Published December 5, 2016.
 
 * Global Initiative for Traditional Systems of Health: $38. Published November 30, 2016, finalized December 5, 2016.
+
+* Mario Pinotti: $20. Published December 9, 2016.
 
 == Additions to existing pages that are significantly different from new page creation ===
 
