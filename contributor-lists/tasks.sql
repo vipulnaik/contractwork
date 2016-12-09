@@ -1,8 +1,8 @@
 create table tasks(
   task_id int(11) not null auto_increment primary key, 
   worker varchar(40),
-  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','None') default 'Wikipedia',
-  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update'),
+  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','None') default 'Wikipedia',
+  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers'),
   task_receptacle varchar(100) NOT NULL,
   task_receptacle_url varchar(100) NOT NULL,
   completion_date date NOT NULL,
@@ -199,6 +199,15 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 # -- Alex K. Chen list
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  # -- 2015 pages
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation',
+   "Eroom's Law", # -- '
+   
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Tesla Motors','https://en.wikipedia.org/wiki/Timeline_of_Tesla_Motors','2015-11-29',75,'Technology/company','Timeline','Page moved to main on 2015-11-13, but fully done on 2015-11-29'),
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Square','https://en.wikipedia.org/wiki/Timeline_of_Square','2015-11-29',200,'Technology/company','Timeline','Extra large bounty because of timelineness due to recent IPO'),
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Project Healthy Children','https://en.wikipedia.org/wiki/Project_Healthy_Children','2015-11-28',25,'Philanthropy/nonprofit evaluation','Prose',NULL),
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','The Humane League','https://en.wikipedia.org/wiki/The_Humane_League','2015-11-30',20,'Animal welfare/organizations','Prose',NULL),
+  # -- 2016 pages
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of online food delivery', 'https://en.wikipedia.org/wiki/Online_food_ordering#Timeline_of_online_food_delivery', '2016-01-10',55,'Technology/trends','Timeline','50 for initial page, 5 for adding stuff. Page was deleted and moved to the online food ordering page, with a redirect'),
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Amazon.com', 'https://en.wikipedia.org/wiki/Timeline_of_Amazon.com', '2016-01-17',250,'Technology/company','Timeline',NULL),
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Microsoft', 'https://en.wikipedia.org/wiki/Timeline_of_Microsoft', '2016-01-25', 128, 'Technology/company', 'Timeline', '125 for original, 3 for adding acquisition of LinkedIn'),
@@ -336,3 +345,4 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page update','GiveWell,GiveWell top charities (various pages)','https://en.wikipedia.org/wiki/GiveWell,others','2016-11-30',100,'Philanthropy/GiveWell/top charities','Prose with tables',NULL),
   ('Issa Rice','Wikimedia Meta','Wiki page update','Timeline of Wikimedia analytics','https://meta.wikimedia.org/wiki/Research:Timeline_of_Wikimedia_analytics','2016-11-30',10,'Wikipedia','Timeline','Timeline events on starting dates for availability of search metrics'),
   ('Issa Rice','wikiHow','Preliminary research','Optimize Your Amazon S3 Costs','http://www.wikihow.com/Optimize-Your-Amazon-S3-Costs','2016-12-03',170,'Amazon Web Services','Graphs and code','Investigated comparison of different cost plans by Amazon and when each one is optimal');
+
