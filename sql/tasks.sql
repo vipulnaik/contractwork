@@ -200,9 +200,16 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   # -- 2015 pages
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Parker Conrad','https://en.wikipedia.org/wiki/Parker_Conrad','2015-05-13',25,'Technology/influential people','Prose','Accidental/retroactive bounty -- page was created to decent quality so bounty awarded'),
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Reddit','https://en.wikipedia.org/wiki/Timeline_of_Reddit','2015-05-30',60,'Technology/company','Timeline','First timeline and first major bounty'),
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Uber','https://en.wikipedia.org/wiki/Timeline_of_Uber','2015-06-30',35,'Technology/company','Timeline','Originally created on 2015-06-01, fully expanded by 2015-06-30'),
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Quora','https://en.wikipedia.org/wiki/Timeline_of_Quora','2015-07-01',25,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Proof School','https://en.wikipedia.org/wiki/Proof_School','2015-07-30',25,'Education/school','Prose',NULL),
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Public Welfare Foundation','https://en.wikipedia.org/wiki/Public_Welfare_Foundation','2015-08-16',25,'Philanthropy/foundation','Prose','Page suggested by Issa Rice'),
+  ('Alex K. Chen','Wikipedia','Wikipedia page creation','Inside Philanthropy','https://en.wikipedia.org/wiki/Inside_Philanthropy','2015-08-30',25,'Philanthropy/nonprofit evaluation/online publication','Prose','Page suggested by Issa Rice'),
   ('Alex K. Chen','Wikipedia','Wikipedia page creation',
-   "Eroom's Law", # -- '
-   
+   "Eroom's law", # -- '
+   'https://en.wikipedia.org/wiki/Eroom%27s_law','2015-10-16',25,'Technology/trend','Prose','Created with capital L law but page later moved on 2016-10-07'),
   ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Tesla Motors','https://en.wikipedia.org/wiki/Timeline_of_Tesla_Motors','2015-11-29',75,'Technology/company','Timeline','Page moved to main on 2015-11-13, but fully done on 2015-11-29'),
   ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Square','https://en.wikipedia.org/wiki/Timeline_of_Square','2015-11-29',200,'Technology/company','Timeline','Extra large bounty because of timelineness due to recent IPO'),
   ('Alex K. Chen','Wikipedia','Wikipedia page creation','Project Healthy Children','https://en.wikipedia.org/wiki/Project_Healthy_Children','2015-11-28',25,'Philanthropy/nonprofit evaluation','Prose',NULL),
@@ -253,6 +260,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 # -- Alex K. Chen's other work
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  # -- 2015 page updates
+  ('Alex K. Chen','Wikipedia','Wikipedia page update','Timeline of Uber','https://en.wikipedia.org/wiki/Timeline_of_Uber','2015-07-17',3,'Technology/company','Timeline',NULL),
+  ('Alex K. Chen','Wikipedia','Wikipedia page update','Timeline of Reddit','https://en.wikipedia.org/wiki/Timeline_of_Reddit','2015-07-04',3,'Technology/company','Timeline',NULL),
+  # -- 2016 page updates
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page update', 'Many timeline pages', 'N/A', '2016-09-24',200,'Technology/company','Timeline','Work spread over a month, to avoid having other timelines meet the deletion fate of Timeline of Valve Corporation');
 
 # -- Avi Glozman's other work
