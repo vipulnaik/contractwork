@@ -31,6 +31,5 @@ insert into commissions(earner,commission_receiver,commission,commission_validit
   ('Devansh Dwivedy','Ethan Bashkansky',0.10,'2016-06-29',NULL,'Guide'),
   ('Eddy Su','Ethan Bashkansky',0.10,'2016-06-12',NULL,'Guide'),
   ('Michael Royzen','Ethan Bashkansky',0.10,'2016-06-21',NULL,'Guide'),
-  ('Sean Yu','Ethan Bashkansky',0.10,'2016-06-24',NULL,'Guide'),
-  ('Thomas Foster','Ethan Bashkansky',0.10,'2016-06-16',NULL,'Guide');
+  ('Sean Yu','Ethan Bashkansky',0.10,'2016-06-24',NULL,'Guide');
 
