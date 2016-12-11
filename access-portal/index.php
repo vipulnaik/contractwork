@@ -5,7 +5,7 @@ print '</head>';
 include_once("globalvariables/passwordfile.inc");
 print '<body>';
 print '<h3>Contract work for Vipul Naik</h3>';
-print '<p>This is an online portal with a summary and various exploration options for contract work done for <a href="http://vipulnaik.com">Vipul Naik</a>. The git repository with the code for this portal, as well as all the underlying data, is <a href="https://github.com/vipulnaik/contractwork">available on GitHub</a>.</p>';
+print '<p>This is an online portal with a summary and various exploration options for contract work done for <a href="http://vipulnaik.com">Vipul Naik</a>. The git repository with the code for this portal, as well as all the underlying data, is <a href="https://github.com/vipulnaik/contractwork">available on GitHub</a>. All payment amounts are in current United States dollars (USD).</p>';
 
 $yearList = array("2015", "2016");
 
