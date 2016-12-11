@@ -18,7 +18,7 @@ Amount paid: $262
 
 Pending payment: $0
 
-== Completed pages ==
+=== Completed pages ===
 
 Total so far: $217
 
@@ -34,7 +34,7 @@ Total so far: $217
 
 * Scientific Charity Movement: $35. Published October 10, 2016.
 
-== Additions to existing pages ==
+=== Additions to existing pages ===
 
 Total so far: $45
 

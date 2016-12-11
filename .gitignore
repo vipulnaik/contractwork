@@ -1,2 +1,4 @@
 access-portal/backend/globalvariables/passwordfile.inc
 access-portal/logs/
+contributor-lists/private/
+sql/private/
