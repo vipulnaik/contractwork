@@ -2,7 +2,7 @@
 print '<h4>Task payments due by topic and year</h4>';
 
 print '<p>Note that a single task may be assigned to multiple topics so a few tasks may be double-counted below. Also, the list below does not include all tasks.</p>';
-$topics = array('Health','Global health','Country healthcare','Animal welfare','Technology','Philanthropy','People','Wikipedia','United States taxation','United States migration','United States politics','Political philosophy','Digital preservation','Artificial intelligence','Government','GiveWell');
+$topics = array('Health','Global health','Country healthcare','Animal welfare','Technology','Philanthropy','People','Wikipedia','United States taxation','United States migration','United States politics','Political philosophy','Digital preservation','Artificial intelligence','Poverty','Government','GiveWell');
 # Initialize values to zero
 $groupingString = '';
 $columnsString = '';
