@@ -9,6 +9,7 @@ create table workers(
   recruiter enum('Vipul Naik','Issa Rice','Ethan Bashkansky','Linchuan Zhang','Alex K. Chen') not null,
   contact_method enum('inbound email','inbound Facebook','outbound email','outbound Facebook','outbound in-person') not null,
   notes varchar(2000) default null,
+  private boolean default false,
   unique key worker(`worker`)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 

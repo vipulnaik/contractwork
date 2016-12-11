@@ -9,7 +9,8 @@ create table tasks(
   payment float(7,2) NOT NULL,
   topic varchar(100) NOT NULL,
   format varchar(100) NOT NULL,
-  notes varchar(2000) DEFAULT NULL
+  notes varchar(2000) DEFAULT NULL,
+  private boolean DEFAULT false
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 # -- Ethan Bashkansky's Wikipedia page creation work
