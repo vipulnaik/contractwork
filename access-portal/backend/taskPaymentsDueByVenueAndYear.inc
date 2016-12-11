@@ -28,6 +28,16 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $grandTotal += $row['payment'];
 }
 
+function cmpTaskVenues($firstTaskVenue, $secondTaskVenue) {
+  global $totalPaymentForTaskVenue;
+  if (intval($totalPaymentForTaskVenue[$firstTaskVenue]) == intval($totalPaymentForTaskVenue[$secondTaskVenue])) {
+      return 0;
+  }
+  return (intval($totalPaymentForTaskVenue[$firstTaskVenue]) > intval($totalPaymentForTaskVenue[$secondTaskVenue])) ? -1 : 1;
+}
+
+usort($taskVenues,"cmpTaskVenues");
+
 # Print table
 print '<table border="1">';
 print '<tr><th>Task venue</th>';

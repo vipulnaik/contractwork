@@ -37,6 +37,16 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $grandTotal += $row['payment'];
 }
 
+function cmpTopics($firstTopic, $secondTopic) {
+  global $totalPaymentForTopic;
+  if (intval($totalPaymentForTopic[$firstTopic]) == intval($totalPaymentForTopic[$secondTopic])) {
+      return 0;
+  }
+  return (intval($totalPaymentForTopic[$firstTopic]) > intval($totalPaymentForTopic[$secondTopic])) ? -1 : 1;
+}
+
+usort($topics,"cmpTopics");
+
 # Print table
 print '<table border="1">';
 print '<tr><th>Topic</th>';

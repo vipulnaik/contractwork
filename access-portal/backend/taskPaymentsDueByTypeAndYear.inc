@@ -3,6 +3,7 @@ print '<h4>Task payments due by type and year</h4>';
 
 $taskTypes = array('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers');
 # Initialize values to zero
+global $totalPaymentForTaskType;
 foreach($taskTypes as $taskType) {
   $totalPaymentForTaskType[$taskType] = 0; 
   foreach ($yearList as $year) {
@@ -27,6 +28,16 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $totalPaymentForTaskType[$row['task_type']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
+
+function cmpTaskTypes($firstTaskType, $secondTaskType) {
+  global $totalPaymentForTaskType;
+  if (intval($totalPaymentForTaskType[$firstTaskType]) == intval($totalPaymentForTaskType[$secondTaskType])) {
+      return 0;
+  }
+  return (intval($totalPaymentForTaskType[$firstTaskType]) > intval($totalPaymentForTaskType[$secondTaskType])) ? -1 : 1;
+}
+
+usort($taskTypes,"cmpTaskTypes");
 
 # Print table
 print '<table border="1">';
