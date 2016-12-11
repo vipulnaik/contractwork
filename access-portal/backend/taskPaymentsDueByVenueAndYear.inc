@@ -1,7 +1,7 @@
 <?php
 print '<h4>Task payments due by venue and year</h4>';
 
-$taskVenues = array('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','None');
+$taskVenues = array('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','None');
 # Initialize values to zero
 foreach($taskVenues as $taskVenue) {
   $totalPaymentForTaskVenue[$taskVenue] = 0; 
