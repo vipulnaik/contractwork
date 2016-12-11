@@ -31,4 +31,5 @@ insert into workers(worker, country, wikipedia_username, facebook_username, emai
   ('Thomas Foster','Australia','Thomas_James_Foster','thomasjamesfoster96','me@thomasfoster.co','PayPal','Alex K. Chen','outbound Facebook','Work in June 2016. Could not continue as school term started.'),
   ('Alex K. Chen','United States','Simfish','simfish','simfish@gmail.com','PayPal','Vipul Naik','outbound email','Started working in April 2015 on a unique contract. Continued in 2016, slowed down in last quarter.'),
   ('Amy Zhang','United States','Amy.zhang425','amy.zhang.5855594','bluemoonamy@live.com','PayPal','Ethan Bashkansky','outbound Facebook','Did some work in June 2016 on timeline of global health. Discontinued work due to other obligations'),
-  ('Daniel Alejandro Maidana','Argentina','DanielMB','danielalejandro.maidana.50','unknown','PayPal','Sebastian Sanchez','inbound Facebook','Started working in August but delays on both sides so first payment in December');
+  ('Daniel Alejandro Maidana','Argentina','DanielMB','danielalejandro.maidana.50','unknown','PayPal','Sebastian Sanchez','inbound Facebook','Started working in August but delays on both sides so first payment in December'),
+  ('Linchuan Zhang','United States','N/A','linchuan.zhang','unknown','PayPal','Vipul Naik','inbound Facebook','Not a worker, but helped recruit some workers');
