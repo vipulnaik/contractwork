@@ -12,7 +12,8 @@ $workerSelectResult = $mysqli -> query($workerSelectQuery);
 
 $totalTaskPayment = 0;
 $totalCommissionOnTaskPayment = 0;
-$totalStipendPayment = 0;
+$totalStipendPayment[0] = 0;
+$totalStipendPayment[1] = 0;
 $totalRoyaltyPayment = 0;
 $totalCommissionOnRoyaltyPayment = 0;
 $totalPaymentAwardedAcrossWorkers = 0;
@@ -27,7 +28,7 @@ for($i=0;$i < $workerSelectResult -> num_rows; $i++) {
   $stipendPayment[$row['worker']][1] = 0;
   $royaltyPayment[$row['worker']] = 0;
   $commissionOnRoyaltyPayment[$row['worker']] = 0;
-  $totalPaymentAwarded[$ow['worker']] = 0;
+  $totalPaymentAwarded[$row['worker']] = 0;
   $totalPayment[$row['worker']] = 0;
 }
 
@@ -68,7 +69,7 @@ for ($i = 0; $i < $royaltySelectResult -> num_rows; $i++) {
 }
 
 # Get commission on royalty payments
-$commissionOnRoyaltySelectQuery = "select commission_receiver, coalesce(sum(payment), 0) as payment from (select commision_receiver, royalty_end_date, (commission * payment) as payment from commissions left join royalties on commissions.earner = royalties.payee where (commission_validity_start is null or royalties.royalty_start_date >= commission_validity_start) and (commission_validity_end is null or royalties.royalty_end_date <= commission_validity_end)) t1 group by commission_receiver;";
+$commissionOnRoyaltySelectQuery = "select commission_receiver, coalesce(sum(payment), 0) as payment from (select commission_receiver, royalty_end_date, (commission * payment) as payment from commissions left join royalties on commissions.earner = royalties.payee where (commission_validity_start is null or royalties.royalty_start_date >= commission_validity_start) and (commission_validity_end is null or royalties.royalty_end_date <= commission_validity_end)) t1 group by commission_receiver;";
 $commissionOnRoyaltySelectResult = $mysqli -> query($commissionOnRoyaltySelectQuery);
 for ($i = 0; $i < $commissionOnRoyaltySelectResult -> num_rows; $i++) {
   $row = $commissionOnRoyaltySelectResult -> fetch_assoc();
