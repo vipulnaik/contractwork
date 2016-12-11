@@ -1,7 +1,7 @@
 create table tasks(
   task_id int(11) not null auto_increment primary key, 
   worker varchar(40),
-  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','None') default 'Wikipedia',
+  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','None') default 'Wikipedia',
   task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers'),
   task_receptacle varchar(100) NOT NULL,
   task_receptacle_url varchar(100) NOT NULL,
@@ -12,6 +12,16 @@ create table tasks(
   notes varchar(2000) DEFAULT NULL,
   private boolean DEFAULT false
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+# -- Milo King's Wikipedia page updates
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Milo King', 'Wikipedia', 'Wikipedia page update','Premium Processing Service','https://en.wikipedia.org/wiki/Premium_Processing_Service','2016-03-12',5,'United States migration','Prose','Added section on non-profit ability to use the old system of discretionary expedite requests, with citation');
+
+# -- Milo King's Market work
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Milo King', 'Market subwiki', 'Wiki page update','Multiple pages','http://market.subwiki.org (multiple pages)','2016-07-24',200,'Economics','Prose with tables','Summer project to improve coverage of monopoly cases for sales tax, price ceilings, etc. Did not get as far as originally hoped, but provided a good start for Vipul to continue');
+
+
 
 # -- Ethan Bashkansky's Wikipedia page creation work
 
