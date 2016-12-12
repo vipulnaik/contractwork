@@ -10,7 +10,7 @@ $cumulativePaymentSoFar = 0;
 
 # Get payments
 
-$paymentSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(payment), 0) as payment from payments where receipt_date is not null group by payment_method, year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
+$paymentSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(payment), 0) as payment from payments where receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
 $paymentSelectResult = $mysqli -> query($paymentSelectQuery);
 for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
