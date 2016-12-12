@@ -22,15 +22,17 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
 # Print table
 print '<table border="1">';
 print '<tr><th>Month</th>';
-print '<th>Payment in month</th>';
-print '<th>Cumulative payment till month</th>';
+print '<th>Payment made in month</th>';
+print '<th>Cumulative payment made till month</th>';
 print '</tr>';
 
 foreach ($monthList as $month) {
-  print "<tr><td>$month</td>";
-  print '<td align="right">'.sprintf('%.2f',$paymentInMonth[$month]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$cumulativePaymentTillMonth[$month]).'</td>';
-  print '</tr>';
+  if ($paymentInMonth[$month] > 0) {
+    print "<tr><td>$month</td>";
+    print '<td align="right">'.sprintf('%.2f',$paymentInMonth[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$cumulativePaymentTillMonth[$month]).'</td>';
+    print '</tr>';
+  }
 }
 
 print '</table>';
