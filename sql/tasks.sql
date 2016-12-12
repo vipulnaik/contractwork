@@ -2,7 +2,7 @@ create table tasks(
   task_id int(11) not null auto_increment primary key, 
   worker varchar(40),
   task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','None') default 'Wikipedia',
-  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers'),
+  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people'),
   task_receptacle varchar(100) NOT NULL,
   task_receptacle_url varchar(100) NOT NULL,
   completion_date date NOT NULL,
@@ -334,8 +334,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   
 # -- Other payments to Issa Rice
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  # -- Touch payments
+  ('Issa Rice','None','Contacting people','N/A','N/A','2016-12-12',320,'Miscellaneous','Email','Total payment for reaching out to people with relevant questions, suggestions, and comments')
   # -- 2015 payments
-  ('Issa Rice','Wikipedia','Wikipedia page update','A Plus (aplus.com)','https://en.wikipedia.org/wiki/A_Plus_(aplus.com)','2016-04-05',20,'Media company','Prose','First Wikipedia article experience. Originally intended to create article, but it got created while this was in draft, so merged work in.'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','A Plus (aplus.com)','https://en.wikipedia.org/wiki/A_Plus_(aplus.com)','2015-04-05',20,'Media company','Prose','First Wikipedia article experience. Originally intended to create article, but it got created while this was in draft, so merged work in.'),
   ('Issa Rice','wikiHow','Wiki page creation','Archive Websites on Unix Like Systems','http://www.wikihow.com/Archive-Websites-on-Unix-Like-Systems','2015-09-22',300,'Digital preservation','Prose/How-to',NULL),
   ('Issa Rice','Effective Altruism Forum','Blog post or article','An overview of Y Combinator’s non-profit program','http://effective-altruism.com/ea/pn/an_overview_of_y_combinators_nonprofit_program/','2015-11-07',250,'Philanthropy/nonprofit evaluation/effective altruism','Prose',NULL),
   # -- 2016 payments

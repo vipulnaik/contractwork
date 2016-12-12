@@ -42,7 +42,7 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $6309.50
+Total money earned by doing work (taxable as income for 2016): 
 
 Reimbursement due (not taxable as income for 2016): $185.53
 
@@ -132,15 +132,15 @@ Total so far: $250
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1603
+Total so far: $1613
 
 * stats.grok.se Wikimedia API fix: $80. Completed January 31, 2016.
 
-* Other misc pay for consulting etc.: $25. Completed April 16, 2016.
+* Retrieval of Animal Charity Evaluators: $20. Completed March 18, 2016.
 
 * Adding years to DCP page: $6. Completed April 13, 2016.
 
-* Retrieval of Animal Charity Evaluators: $20. Completed March 18, 2016.
+* Other misc pay for consulting etc.: $25. Completed April 16, 2016.
 
 * Wasted effort on timeline of mental health, after discovering that a similar page on timeline of psychiatry exists: $10. Completed April 26, 2016.
 
@@ -196,9 +196,9 @@ Total: $320
 
 === Commission payments ===
 
-List updated November 2, 2016. May not be kept up-to-date continuously.
+List updated December 12, 2016. May not be kept up-to-date continuously.
 
-Total: $186.50
+Total: $261.23
 
 * Adrian Ulloa: Commission of 10% on $205 = $20.50
 
@@ -221,6 +221,8 @@ Total: $186.50
 * Charlie Corner: Commission of 15% on $152 = $22.80
 
 * Sergey Yegorov: Commission of 10% on $178 = $17.80
+
+* Alex K. Chen: Commission of 3% on $2491 = $74.73
 
 === Monthly payments ===
 
