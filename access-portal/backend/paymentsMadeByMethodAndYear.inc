@@ -31,13 +31,13 @@ foreach ($yearList as $year) {
 }
 print '<th>Total across years</th></tr>';
 foreach ($paymentMethods as $paymentMethod) {
-  print "<tr><td>$paymentMethod</td></tr>";
+  print "<tr><td>$paymentMethod</td>";
   foreach ($yearList as $year) {
     print '<td align="right">'.sprintf('%.2f',$payment[$paymentMethod][$year]).'</td>';
   }
-  print '<td align="right">'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod]).'</td>';
+  print '<td align="right">'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod]).'</td></tr>';
 }
-print '<tr><td><strong>Total across payment methods</strong></td>'
+print '<tr><td><strong>Total across payment methods</strong></td>';
 foreach ($yearList as $year) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentByYear[$year]).'</strong></td>';
 }

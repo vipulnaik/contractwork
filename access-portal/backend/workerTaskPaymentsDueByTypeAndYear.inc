@@ -1,5 +1,5 @@
 <?php
-print '<h4>Task payments due by type and year</h4>';
+print '<h4>Worker task payments due by type and year</h4>';
 
 # Initialize values to zero
 global $totalPaymentForTaskType;
@@ -18,7 +18,7 @@ $grandTotal = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select task_type, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks group by task_type, year(completion_date);";
+$taskSelectQuery = "select task_type, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where worker='$worker' group by task_type, year(completion_date);";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();

@@ -1,5 +1,5 @@
 <?php
-print '<h4>Task payments due by topic and year</h4>';
+print '<h4>Worker task payments due by topic and year</h4>';
 
 print '<p>Note that a single task may be assigned to multiple topics so a few tasks may be double-counted below. Also, the list below does not include all tasks.</p>';
 # Initialize values to zero
@@ -22,7 +22,7 @@ $grandTotal = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select $columnsString year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks group by $groupingString year(completion_date);";
+$taskSelectQuery = "select $columnsString year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where worker='$worker' group by $groupingString year(completion_date);";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
