@@ -11,7 +11,7 @@ foreach ($paymentMethods as $paymentMethod) {
   }
 }  
 
-# Get task payments
+# Get payments
 
 $paymentSelectQuery = "select payment_method, year(receipt_date) as year, coalesce(sum(payment), 0) as payment from tasks group by paymenth_method, year(receipt_date);";
 $paymentSelectResult = $mysqli -> query($paymentSelectQuery);
