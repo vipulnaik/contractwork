@@ -18,6 +18,8 @@ if ($workerSelectResult -> num_rows == 0) {
   print "All payment amounts are listed in current United States dollars (USD).";
   include("backend/workerInfo.inc");
   include("backend/workerPaymentsDueByTypeAndYear.inc");
+  include("backend/workerTaskPaymentsDueByTypeAndYear.inc");
+  
   include("backend/workerPaymentsDueByTypeAndMonth.inc");
   include("backend/workerPaymentsDueAndMadeByMonth.inc");
   include("backend/workerTaskList.inc");
