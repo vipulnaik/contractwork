@@ -1,12 +1,17 @@
 <?php
-print '<h4>Payments made by type and month</h4>';
+print '<h4>Payments due and payments made by month</h4>';
+
+print '<p>For completed months, the row for the month gives the data at the end of the month. For the current month, the row for the month gives the data as of now.</p>';
 
 # Initialize values to zero
+$cumulativePaymentAwardedSoFar = 0;
+$cumulativePaymentMadeSoFar = 0;
 foreach ($monthList as $month) {
-  $paymentInMonth[$month] = 0;
-  $cumulativePaymentTillMonth[$month] = 0;
+  $paymentMadeInMonth[$month] = 0;
+  $cumulativePaymentMadeTillMonth[$month] = 0;
+  $cumulativePaymentAwardedSoFar += $totalPaymentAwarded[$month];
+  $cumulativePaymentAwardedTillMonth[$month] = $cumulativePaymentAwardedSoFar;
 }  
-$cumulativePaymentSoFar = 0;
 
 # Get payments
 
@@ -14,9 +19,18 @@ $paymentSelectQuery = "select year(receipt_date) as year, month(receipt_date) as
 $paymentSelectResult = $mysqli -> query($paymentSelectQuery);
 for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
-  $paymentInMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
-  $cumulativePaymentSoFar += $row['payment'];
-  $cumulativePaymentTillMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $cumulativePaymentSoFar;
+  $paymentMadeInMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
+  $cumulativePaymentMadeSoFar += $row['payment'];
+  $cumulativePaymentMadeTillMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $cumulativePaymentMadeSoFar;
+}
+
+$mostRecentlySeenCumulativePayment = 0;
+foreach($monthList as $month) {
+  if ($cumulativePaymentMadeTillMonth[$month] > 0) {
+    $mostRecentlySeenCumulativePayment = $cumulativePaymentMadeTillMonth[$month];
+  } else {
+    $cumulativePaymentMadeTillMonth[$month] = $mostRecentlySeenCumulativePayment;
+  }
 }
 
 # Print table
@@ -24,13 +38,21 @@ print '<table border="1">';
 print '<tr><th>Month</th>';
 print '<th>Payment made in month</th>';
 print '<th>Cumulative payment made till month</th>';
+print '<th>Payment awarded in month</th>';
+print '<th>Cumulative payment awarded in month</th>';
+print '<th>Pending payment increase in month</th>';
+print '<th>Cumulative pending payment</th>';
 print '</tr>';
 
 foreach ($monthList as $month) {
-  if ($paymentInMonth[$month] > 0) {
+  if ($paymentMadeInMonth[$month] > 0 or $totalPaymentAwarded[$month] > 0) {
     print "<tr><td>$month</td>";
-    print '<td align="right">'.sprintf('%.2f',$paymentInMonth[$month]).'</td>';
-    print '<td align="right">'.sprintf('%.2f',$cumulativePaymentTillMonth[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$paymentMadeInMonth[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$cumulativePaymentMadeTillMonth[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$totalPaymentAwarded[$month] - $paymentMadeInMonth[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month] - $cumulativePaymentMadeTillMonth[$month]).'</td>';
     print '</tr>';
   }
 }
