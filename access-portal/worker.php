@@ -19,7 +19,7 @@ if ($workerSelectResult -> num_rows == 0) {
   include("backend/workerInfo.inc");
   include("backend/workerPaymentsDueByTypeAndYear.inc");
   include("backend/workerPaymentsDueByTypeAndMonth.inc");
-  include("backend/workerPaymentsMadeByMonth.inc");
+  include("backend/workerPaymentsDueAndMadeByMonth.inc");
   include("backend/workerTaskList.inc");
 }
 print '</body>';
