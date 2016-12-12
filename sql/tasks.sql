@@ -96,7 +96,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Silicon Valley Education Foundation', 'https://en.wikipedia.org/wiki/Silicon_Valley_Education_Foundation', '2016-06-05', 33, 'Philanthropy/foundations/education', 'Prose', NULL),
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Screening Partnership Program', 'https://en.wikipedia.org/wiki/Screening_Partnership_Program', '2016-06-29', 53, 'United States government programs/Air travel', 'Prose', NULL),
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Timeline of social media', 'https://en.wikipedia.org/wiki/Timeline_of_social_media', '2016-07-27', 155, 'Technology/general', 'Timeline', '140 for original, extra 15 for additions 2016-08-28'),
-  ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Timeline of e-commerce', 'https://en.wikipedia.org/wiki/Timeline_of_e-commerce', '2016-08-28', 175, 'Teechnology/general', 'Timeline', NULL),
+  ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Timeline of e-commerce', 'https://en.wikipedia.org/wiki/Timeline_of_e-commerce', '2016-08-28', 175, 'Technology/general', 'Timeline', NULL),
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Chicago Community Trust', 'https://en.wikipedia.org/wiki/Chicago_Community_Trust', '2016-10-21', 33, 'Philanthropy/foundations', 'Prose', NULL);
 
 # -- Charlie Corner page creation
@@ -295,7 +295,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Jesse Clifton','Wikipedia','Wikipedia page update','Faunalytics','https://en.wikipedia.org/wiki/Faunalytics','2016-06-27',12,'Animal welfare/organizations','Prose',NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page update','The Good Food Institute','https://en.wikipedia.org/wiki/The_Good_Food_Institute','2016-11-24',10,'Animal welfare/organizations','Prose',NULL),
   ('Jesse Clifton','Effective Altruism Forum','Blog post or article','Scenarios for cellular agriculture','http://effective-altruism.com/ea/yu/scenarios_for_cellular_agriculture/','2016-06-20',200,'Animal welfare/Technology','Prose/Opinion',NULL),
-  ('Jesse Clifton','Wikipedia','Wikipedia page update','The Humane League, Mercy for Animals,The Good Food Institute,...','N/A','2016-11-29',20,'Animal wefare/Animal Charity Evaluators/nonprofit evaluation','Prose','Updates to all ACE top charities and standouts with information on the latest ACE recommendation');
+  ('Jesse Clifton','Wikipedia','Wikipedia page update','The Humane League, Mercy for Animals,The Good Food Institute,...','N/A','2016-11-29',20,'Animal welfare/Animal Charity Evaluators/nonprofit evaluation','Prose','Updates to all ACE top charities and standouts with information on the latest ACE recommendation');
 
 # -- Sean Yu's other work
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
