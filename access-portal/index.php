@@ -9,6 +9,7 @@ print '<h3>Contract work for Vipul Naik</h3>';
 print '<p>This is an online portal with a summary and various exploration options for contract work done for <a href="http://vipulnaik.com">Vipul Naik</a>. The git repository with the code for this portal, as well as all the underlying data, is <a href="https://github.com/vipulnaik/contractwork">available on GitHub</a>. All payment amounts are in current United States dollars (USD).</p>';
 
 include ("backend/paymentsDueByTypeAndYear.inc");
+include ("backend/paymentsMadeByTypeAndYear.inc")
 include ("backend/taskPaymentsDueByTypeAndYear.inc");
 include ("backend/taskPaymentsDueByVenueAndYear.inc");
 include ("backend/taskPaymentsDueByTopicAndYear.inc");
