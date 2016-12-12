@@ -55,12 +55,14 @@ foreach ($yearList as $year) {
 print '<th>Total across years</th></tr>';
 
 foreach($topics as $topic) {
-  print "<tr><td>$topic</td>";
-  foreach ($yearList as $year) {
-    print '<td align="right">'.sprintf('%.2f',$paymentForTopicAndYear[$topic][$year]).'</td>';
+  if ($totalPaymentForTopic[$topic] > 0) {
+    print "<tr><td>$topic</td>";
+    foreach ($yearList as $year) {
+      print '<td align="right">'.sprintf('%.2f',$paymentForTopicAndYear[$topic][$year]).'</td>';
+    }
+    print '<td align="right">'.sprintf('%.2f',$totalPaymentForTopic[$topic]).'</td>';
+    print '</tr>';
   }
-  print '<td align="right">'.sprintf('%.2f',$totalPaymentForTopic[$topic]).'</td>';
-  print '</tr>';
 }
 
 print "<tr><td><strong>Total</td>";
