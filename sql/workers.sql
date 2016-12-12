@@ -5,6 +5,7 @@ create table workers(
   wikipedia_username varchar(40),
   facebook_username varchar(100),
   email_id varchar(40),
+  website varchar(40),
   preferred_payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union') not null,
   recruiter enum('Vipul Naik','Issa Rice','Ethan Bashkansky','Linchuan Zhang','Alex K. Chen','Sebastian Sanchez') not null,
   contact_method enum('inbound email','inbound Facebook','outbound email','outbound Facebook','outbound in-person') not null,
@@ -33,3 +34,6 @@ insert into workers(worker, country, wikipedia_username, facebook_username, emai
   ('Amy Zhang','United States','Amy.zhang425','amy.zhang.5855594','bluemoonamy@live.com','PayPal','Ethan Bashkansky','outbound Facebook','Did some work in June 2016 on timeline of global health. Discontinued work due to other obligations'),
   ('Daniel Alejandro Maidana','Argentina','DanielMB','danielalejandro.maidana.50','unknown','PayPal','Sebastian Sanchez','inbound Facebook','Started working in August but delays on both sides so first payment in December'),
   ('Linchuan Zhang','United States','N/A','linchuan.zhang','unknown','PayPal','Vipul Naik','inbound Facebook','Not a worker, but helped recruit some workers');
+
+# -- website lists
+update workers set website='https://issarice.com' where worker = 'Issa Rice';

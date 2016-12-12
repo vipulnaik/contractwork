@@ -108,7 +108,7 @@ print '<th>Total payment</th>';
 print '</tr>';
 
 foreach ($workerList as $worker) {
-  print "<tr><td>$worker</td>";
+  print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
   print '<td align="right">'.sprintf('%.2f',$taskPayment[$worker]).'</td>';
   print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$worker]).'</td>';
   print '<td align="right">'.sprintf('%.2f',$stipendPayment[$worker][1]).'</td>';

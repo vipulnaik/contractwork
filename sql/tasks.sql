@@ -19,7 +19,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 # -- Milo King's Market work
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  ('Milo King', 'Market subwiki', 'Wiki page update','Multiple pages','http://market.subwiki.org (multiple pages)','2016-07-24',200,'Economics','Prose with tables','Summer project to improve coverage of monopoly cases for sales tax, price ceilings, etc. Did not get as far as originally hoped, but provided a good start for Vipul to continue');
+  ('Milo King', 'Market subwiki', 'Wiki page update','Multiple pages','http://market.subwiki.org','2016-07-24',200,'Economics','Prose with tables','Summer project to improve coverage of monopoly cases for sales tax, price ceilings, etc. Did not get as far as originally hoped, but provided a good start for Vipul to continue');
 
 
 
