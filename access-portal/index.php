@@ -10,10 +10,10 @@ print '<p>This is an online portal with a summary and various exploration option
 
 include ("backend/paymentsDueByTypeAndYear.inc");
 include ("backend/paymentsMadeByTypeAndYear.inc")
-include ("backend/taskPaymentsDueByTypeAndYear.inc");
+include ("backend/taskPaymentsDueByMethodAndYear.inc");
 include ("backend/taskPaymentsDueByVenueAndYear.inc");
 include ("backend/taskPaymentsDueByTopicAndYear.inc");
 include ("backend/paymentsDueByRecipientAndType.inc");
-include ("backend/paymentsDueByTypeAndMonth.inc");
+include ("backend/paymentsDueByMonth.inc");
 print '</body>';
 ?>
