@@ -1,7 +1,6 @@
 <?php
 print '<h4>Task payments due by type and year</h4>';
 
-$taskTypes = array('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers');
 # Initialize values to zero
 global $totalPaymentForTaskType;
 foreach($taskTypes as $taskType) {
