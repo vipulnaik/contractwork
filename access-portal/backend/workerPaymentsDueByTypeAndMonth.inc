@@ -1,5 +1,7 @@
 <?php
-print '<h4>Worker payments due by type and month</h4>';
+if ($verbose == true) {
+  print '<h4>Worker payments due by type and month</h4>';
+}
 
 # Initialize values to zero
 foreach ($monthList as $month) {
@@ -76,43 +78,45 @@ foreach($monthList as $month) {
 }
 
 # Print table
-print '<table border="1">';
-print '<tr><th>Month</th>';
-print '<th>Task payments</th>';
-print '<th>Commissions on task payments</th>';
-print '<th>Stipend payments (awarded)</th>';
-print '<th>Royalty payments</th>';
-print '<th>Commissions on royalty payments</th>';
-print '<th>Total payment awarded</th>';
-print '<th>Stipend payments (deferred)</th>';
-print '<th>Total payment</th>';
-print '</tr>';
-
-foreach (array_reverse($monthList) as $month) {
-  if ($totalPayment[$month] > 0) {
-    print "<tr><td>$month</td>";
-    print '<td align="right">'.sprintf('%.2f',$taskPayment[$month]).'</td>';
-    print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$month]).'</td>';
-    print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][1]).'</td>';
-    print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$month]).'</td>';
-    print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$month]).'</td>';
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</strong></td>';
-    print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][0]).'</td>';
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$month]).'</strong></td>';
-    print '</tr>';
+if ($printTables == true) {
+  print '<table border="1">';
+  print '<tr><th>Month</th>';
+  print '<th>Task payments</th>';
+  print '<th>Commissions on task payments</th>';
+  print '<th>Stipend payments (awarded)</th>';
+  print '<th>Royalty payments</th>';
+  print '<th>Commissions on royalty payments</th>';
+  print '<th>Total payment awarded</th>';
+  print '<th>Stipend payments (deferred)</th>';
+  print '<th>Total payment</th>';
+  print '</tr>';
+  
+  foreach (array_reverse($monthList) as $month) {
+    if ($totalPayment[$month] > 0) {
+      print "<tr><td>$month</td>";
+      print '<td align="right">'.sprintf('%.2f',$taskPayment[$month]).'</td>';
+      print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$month]).'</td>';
+      print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][1]).'</td>';
+      print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$month]).'</td>';
+      print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$month]).'</td>';
+      print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</strong></td>';
+      print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][0]).'</td>';
+      print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$month]).'</strong></td>';
+      print '</tr>';
+    }
   }
+  
+  print '<tr><td><strong>Total across months</strong></td>';
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</td>';
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</td>';
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[1]).'</td>';
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment).'</td>';
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment).'</td>';
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossMonths).'</td>';
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[0]).'</td>';
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossMonths).'</td>';
+  print '</tr>';
+  
+  print '</table>';
 }
-
-print '<tr><td><strong>Total across months</strong></td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[1]).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossMonths).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[0]).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossMonths).'</td>';
-print '</tr>';
-
-print '</table>';
 ?>

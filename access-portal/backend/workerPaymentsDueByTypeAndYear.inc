@@ -1,5 +1,7 @@
 <?php
-print '<h4>Worker payments due by type and year</h4>';
+if ($printTables == true) {
+  print '<h4>Worker payments due by type and year</h4>';
+}
 
 # Initialize values to zero
 foreach ($yearList as $year) {
@@ -76,60 +78,62 @@ foreach($yearList as $year) {
 }
 
 # Print table
-print '<table border="1">';
-print '<tr><th>Type of payment due</th>';
-foreach (array_reverse($yearList) as $year) {
-  print "<th>Total in year $year</th>";
+if ($printTables == true) {
+  print '<table border="1">';
+  print '<tr><th>Type of payment due</th>';
+  foreach (array_reverse($yearList) as $year) {
+    print "<th>Total in year $year</th>";
+  }
+  print '<th>Total across years</th></tr>';
+  print '<tr><td>Tasks</td>';
+  foreach (array_reverse($yearList) as $year) {
+    print '<td align="right">'.sprintf('%.2f',$taskPayment[$year]).'</td>';
+  }
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</strong></td>';
+  print '</tr>';
+  print '<tr><td>Commissions on tasks</td>';
+  foreach (array_reverse($yearList) as $year) {
+    print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$year]).'</td>';
+  }
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</strong></td>';
+  print '</tr>';
+  print '<tr><td>Stipends (awarded)</td>';
+  foreach (array_reverse($yearList) as $year) {
+    print '<td align="right">'.sprintf('%.2f',$stipendPayment[$year][1]).'</td>';
+  }
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[1]).'</strong></td>';
+  print '</tr>';
+  print '<tr><td>Royalties</td>';
+  foreach (array_reverse($yearList) as $year) {
+    print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$year]).'</td>';
+  }
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment).'</strong></td>';
+  print '</tr>';
+  print '<tr><td>Commissions on royalties</td>';
+  foreach (array_reverse($yearList) as $year) {
+    print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$year]).'</td>';
+  }
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment).'</strong></td>';
+  print '</tr>';
+  print '<tr><td><strong>Total payment awarded</strong></td>';
+  foreach (array_reverse($yearList) as $year) {
+    print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$year]).'</strong></td>';
+  }
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossYears).'</strong></td>';
+  print '</tr>';
+  print '<tr><td>Stipends (deferred)</td>';
+  foreach (array_reverse($yearList) as $year) {
+    print '<td align="right">'.sprintf('%.2f',$stipendPayment[$year][0]).'</td>';
+  }
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[0]).'</strong></td>';
+  print '</tr>';
+  print '<tr><td><strong>Total payment</strong></td>';
+  foreach (array_reverse($yearList) as $year) {
+    print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$year]).'</strong></td>';
+  }
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossYears).'</strong></td>';
+  print '</tr>';
+  
+  print '</table>';
 }
-print '<th>Total across years</th></tr>';
-print '<tr><td>Tasks</td>';
-foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$taskPayment[$year]).'</td>';
-}
-print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</strong></td>';
-print '</tr>';
-print '<tr><td>Commissions on tasks</td>';
-foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$year]).'</td>';
-}
-print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</strong></td>';
-print '</tr>';
-print '<tr><td>Stipends (awarded)</td>';
-foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$stipendPayment[$year][1]).'</td>';
-}
-print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[1]).'</strong></td>';
-print '</tr>';
-print '<tr><td>Royalties</td>';
-foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$year]).'</td>';
-}
-print '<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment).'</strong></td>';
-print '</tr>';
-print '<tr><td>Commissions on royalties</td>';
-foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$year]).'</td>';
-}
-print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment).'</strong></td>';
-print '</tr>';
-print '<tr><td><strong>Total payment awarded</strong></td>';
-foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$year]).'</strong></td>';
-}
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossYears).'</strong></td>';
-print '</tr>';
-print '<tr><td>Stipends (deferred)</td>';
-foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$stipendPayment[$year][0]).'</td>';
-}
-print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[0]).'</strong></td>';
-print '</tr>';
-print '<tr><td><strong>Total payment</strong></td>';
-foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$year]).'</strong></td>';
-}
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossYears).'</strong></td>';
-print '</tr>';
-
-print '</table>';
 ?>
