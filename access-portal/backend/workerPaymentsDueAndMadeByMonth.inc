@@ -67,20 +67,29 @@ print '<th>Pending payment increase in month</th>';
 print '<th>Cumulative pending payment</th>';
 print '</tr>';
 
-foreach ($monthList as $month) {
+$starting = true;
+foreach (array_reverse($monthList) as $month) {
   if ($paymentMadeInMonth[$month] > 0 or $totalPaymentAwarded[$month] > 0) {
-    print "<tr><td>$month</td>";
-    print '<td align="right">'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</td>';
-    print '<td align="right">'.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month]).'</td>';
+    print "<tr>";
+    $opener = "";
+    $closer = "";
+    if ($starting == true) {
+      $opener = "<strong>";
+      $closer = "</strong>";
+    }
+    print "<td>$opener$month$closer</td>";
+    print '<td align="right">'.$opener.sprintf('%.2f',$totalPaymentAwarded[$month]).$closer.'</td>';
+    print '<td align="right">'.$opener.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month]).$closer.'</td>';
     if ($cumulativeReimbursementDueSoFar > 0) {
-      print '<td align="right">'.sprintf('%.2f',$reimbursementDueInMonth[$month]).'</td>';
-      print '<td align="right">'.sprintf('%.2f',$cumulativeReimbursementDueTillMonth[$month]).'</td>';
+      print '<td align="right">'.$opener.sprintf('%.2f',$reimbursementDueInMonth[$month]).$closer.'</td>';
+      print '<td align="right">'.$opener.sprintf('%.2f',$cumulativeReimbursementDueTillMonth[$month]).$closer.'</td>';
     }
 
-    print '<td align="right">'.sprintf('%.2f',$paymentMadeInMonth[$month]).'</td>';
-    print '<td align="right">'.sprintf('%.2f',$cumulativePaymentMadeTillMonth[$month]).'</td>';
-    print '<td align="right">'.sprintf('%.2f',$totalPaymentAwarded[$month] + $reimbursementDueInMonth[$month] - $paymentMadeInMonth[$month]).'</td>';
-    print '<td align="right">'.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month] + $cumulativeReimbursementDueTillMonth[$month] - $cumulativePaymentMadeTillMonth[$month]).'</td>';
+    print '<td align="right">'.$opener.sprintf('%.2f',$paymentMadeInMonth[$month]).$closer.'</td>';
+    print '<td align="right">'.$opener.sprintf('%.2f',$cumulativePaymentMadeTillMonth[$month]).$closer.'</td>';
+    print '<td align="right">'.$opener.sprintf('%.2f',$totalPaymentAwarded[$month] + $reimbursementDueInMonth[$month] - $paymentMadeInMonth[$month]).$closer.'</td>';
+    print '<td align="right">'.$opener.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month] + $cumulativeReimbursementDueTillMonth[$month] - $cumulativePaymentMadeTillMonth[$month]).$closer.'</td>';
+    $starting = false;
     print '</tr>';
   }
 }
