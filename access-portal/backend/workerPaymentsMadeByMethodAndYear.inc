@@ -24,6 +24,16 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $grandTotal += $row['payment'];
 }
 
+function cmpPaymentMethods($firstPaymentMethod, $secondPaymentMethod) {
+  global $totalPaymentMadeByMethod;
+  if (intval($totalPaymentMadeByMethod[$firstPaymentMethod]) == intval($totalPaymentMadeByMethod[$secondPaymentMethod])) {
+      return 0;
+  }
+  return (intval($totalPaymentMadeByMethod[$firstPaymentMethod]) > intval($totalPaymentMadeByMethod[$secondPaymentMethod])) ? -1 : 1;
+}
+
+usort($paymentMethods,"cmpPaymentMethods");
+
 # Print table
 if ($printTables == true) {
   print '<table border="1">';
