@@ -19,7 +19,7 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
   $payment[$row['payment_method']][$row['year']] = $row['payment'];
   $totalPaymentByMethod[$row['payment_method']] += $row['payment'];
-  $totalPaymentByYear[$row['year']] = $row['payment'];
+  $totalPaymentByYear[$row['year']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
 
