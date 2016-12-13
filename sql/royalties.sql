@@ -2,7 +2,7 @@ create table royalties(
   royalty_id int(11) not null auto_increment primary key,
   payee varchar(40),
   payment float(7,2) not null,
-  royalty_basis enum('Wikipedia pageviews','Quora views') not null,
+  royalty_basis enum('Wikipedia pageviews','Quora views','Cause Prioritization Wiki pageviews') not null,
   royalty_scope varchar(40) not null,
   royalty_rate float(5,3),
   royalty_start_date date NOT NULL,
@@ -11,6 +11,7 @@ create table royalties(
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into royalties(payee, payment, royalty_basis, royalty_scope, royalty_rate, royalty_start_date, royalty_end_date, notes) values
+  ('Issa Rice',98,'Cause Prioritization Wiki pageviews','All pageviews to date',0.01,'2015-01-01','2015-08-08','Rates for pageviews. Adjustment made for post-spam-filtering pageview counts'),
   ('Alex K. Chen',4096,'Quora views','All Quora questions and answers to date',null,'2015-04-01','2015-12-31','Separate rates for questions and answers. See https://exp.issarice.com/akc_views.txt for data and http://exp.issarice.com/calc.py for processing code'),
   ('Alex K. Chen',38.54,'Wikipedia pageviews','Pages created before 2015',0.001,'2015-04-01','2015-04-30',NULL),
   ('Alex K. Chen',3.09,'Wikipedia pageviews','Pages created in 2015',0.002,'2015-04-01','2015-04-30',NULL),
