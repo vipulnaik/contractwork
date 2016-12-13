@@ -10,9 +10,9 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 === Research methods: recruitment, surveys, etc. ===
 
-* Marlow-Crowne Social Desirability Scale (reserved for Setsen): $20-30: Already mentioned on the social desirability bias, but probably deserves a separate page, detailing the scale, plus discussing existing research on it and its psychometric properties.
+* Marlow-Crowne Social Desirability Scale: $20-30: Already mentioned on the social desirability bias, but probably deserves a separate page, detailing the scale, plus discussing existing research on it and its psychometric properties.
 
-* American Time Use Survey: $25-40: This is part of the Current Population Survey (is it?) and is conducted by the Bureau of Labor Statistics. See also https://en.wikipedia.org/wiki/Time-use_survey
+* American Time Use Survey (reserved for Joey): $25-40: This is part of the Current Population Survey (is it?) and is conducted by the Bureau of Labor Statistics. See also https://en.wikipedia.org/wiki/Time-use_survey
 
 * 24-hour diet recall: $25-50: A similar article as https://en.wikipedia.org/wiki/Food_frequency_questionnaire with parallel set of references
 
