@@ -6,7 +6,11 @@ $row = $workerSelectResult -> fetch_assoc();
 print '<h4>Basic worker information</h4>';
 print '<table border="1">';
 print '<tr><th>Item</th><th>Value</th></tr>';
-print '<tr><td>Country</td><td>'.$row['country'].'</td>';
+print '<tr><td>Country</td><td>'.$row['country'];
+if ($row['country'] == "United States") {
+  print ' (<a href="/taxes.php?worker='.urlencode($worker).'">tax information</a>)';
+}
+print '</td>';
 print '<tr><td>Wikipedia username</td><td>'.$row['wikipedia_username'].' (<a href="https://en.wikipedia.org/wiki/User:'.$row['wikipedia_username'].'">user page</a>, <a href="https://en.wikipedia.org/wiki/User_talk:'.$row['wikipedia_username'].'">user talk page</a>, <a href="https://en.wikipedia.org/wiki/Special:Contributions/'.$row['wikipedia_username'].'">contributions page</a>, <a href="https://tools.wmflabs.org/xtools-ec/?user='.$row['wikipedia_username'].'&project=en.wikipedia.org">WMF Labs X! Tools page</a>, <a href="http://wikipediaviews.org/displayviewsformultipletagsandmonths.php?tag=Pages+created+by+'.urlencode($row['worker']).'&allmonths=allmonths&drilldown=all">Wikipedia Views</a>)</td></tr>';
 $facebook_username = $row['facebook_username'];
 $facebook_url = 'https://www.facebook.com/'.$facebook_username;
