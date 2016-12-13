@@ -41,7 +41,7 @@ usort($taskTypes,"cmpTaskTypes");
 # Print table
 print '<table border="1">';
 print '<tr><th>Task type</th>';
-foreach ($yearList as $year) {
+foreach (array_reverse($yearList) as $year) {
   print "<th>Total in year $year</th>";
 }
 print '<th>Total across years</th></tr>';
@@ -49,7 +49,7 @@ print '<th>Total across years</th></tr>';
 foreach($taskTypes as $taskType) {
   if ($totalPaymentForTaskType[$taskType] > 0) {
     print "<tr><td>$taskType</td>";
-    foreach ($yearList as $year) {
+    foreach (array_reverse($yearList) as $year) {
       print '<td align="right">'.sprintf('%.2f',$paymentForTaskTypeAndYear[$taskType][$year]).'</td>';
     }
     print '<td align="right">'.sprintf('%.2f',$totalPaymentForTaskType[$taskType]).'</td>';
@@ -58,7 +58,7 @@ foreach($taskTypes as $taskType) {
 }
 
 print "<tr><td><strong>Total</td>";
-foreach ($yearList as $year) {
+foreach (array_reverse($yearList) as $year) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year]).'</strong></td>';
 }
 print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';

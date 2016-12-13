@@ -88,7 +88,7 @@ print '<th>Stipend payments (deferred)</th>';
 print '<th>Total payment</th>';
 print '</tr>';
 
-foreach ($monthList as $month) {
+foreach (array_reverse($monthList) as $month) {
   if ($totalPayment[$month] > 0) {
     print "<tr><td>$month</td>";
     print '<td align="right">'.sprintf('%.2f',$taskPayment[$month]).'</td>';

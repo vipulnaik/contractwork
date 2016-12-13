@@ -1,5 +1,5 @@
 <?php
-print '<h4>Payments made by method and year</h4>';
+print '<h4>Worker payments made by method and year</h4>';
 
 # Initialize values to zero
 $grandTotal = 0;
@@ -13,7 +13,7 @@ foreach ($paymentMethods as $paymentMethod) {
 
 # Get payments
 
-$paymentSelectQuery = "select payment_method, year(receipt_date) as year, coalesce(sum(payment), 0) as payment from payments where intermediary is null and receipt_date is not null group by payment_method, year(receipt_date);";
+$paymentSelectQuery = "select payment_method, year(receipt_date) as year, coalesce(sum(payment), 0) as payment from payments where payee='$worker' and receipt_date is not null group by payment_method, year(receipt_date);";
 $paymentSelectResult = $mysqli -> query($paymentSelectQuery);
 for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
