@@ -89,16 +89,18 @@ print '<th>Total payment</th>';
 print '</tr>';
 
 foreach ($monthList as $month) {
-  print "<tr><td>$month</td>";
-  print '<td align="right">'.sprintf('%.2f',$taskPayment[$month]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$month]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][1]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$month]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$month]).'</td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</strong></td>';
-  print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][0]).'</td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$month]).'</strong></td>';
-  print '</tr>';
+  if ($totalPayment[$month] > 0) {
+    print "<tr><td>$month</td>";
+    print '<td align="right">'.sprintf('%.2f',$taskPayment[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][1]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$month]).'</td>';
+    print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$month]).'</td>';
+    print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</strong></td>';
+    print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][0]).'</td>';
+    print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$month]).'</strong></td>';
+    print '</tr>';
+  }
 }
 
 print '<tr><td><strong>Total across months</strong></td>';
