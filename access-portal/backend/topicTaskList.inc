@@ -1,6 +1,6 @@
 <?php
 
-$topicTaskSelectQuery = 'select * from tasks where topic REGEXP "'.$topic.' and private = false order by completion_date desc';
+$topicTaskSelectQuery = 'select * from tasks where topic REGEXP "'.$topic.'" and private = false order by completion_date desc';
 $topicTaskSelectResult = $mysqli -> query($topicTaskSelectQuery);
 print '<h4>Full list of tasks in reverse chronological order ('.($topicTaskSelectResult -> num_rows).' tasks)</h4>';
 print '<table border="1">';
@@ -16,10 +16,10 @@ print '<th>Format</th>';
 print '<th>Notes</th>';
 print '</tr>';
 
-for($i = 0; $i < $workerTaskSelectResult -> num_rows; $i++) {
-  $row = $workerTaskSelectResult -> fetch_assoc();
+for($i = 0; $i < $topicTaskSelectResult -> num_rows; $i++) {
+  $row = $topicTaskSelectResult -> fetch_assoc();
   print '<tr>';
-  print '<tr>'.$row['worker'].'</td>';
+  print '<tr><td><a href="/worker.php?worker='.urlencode($row['worker']).'">'.$row['worker'].'</a></td>';
   print '<td>'.$row['task_venue'].'</td>';
   print '<td>'.$row['task_type'].'</td>';
   if (substr($row['task_receptacle_url'],0,4) == "http" and strpos($row['task_receptacle_url'],',http') == false) {
