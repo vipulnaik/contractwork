@@ -21,7 +21,11 @@ for($i = 0; $i < $workerTaskSelectResult -> num_rows; $i++) {
   print '<td>'.$row['task_venue'].'</td>';
   print '<td>'.$row['task_type'].'</td>';
   if (substr($row['task_receptacle_url'],0,4) == "http" and strpos($row['task_receptacle_url'],',http') == false) {
-    print '<td><a href="'.$row['task_receptacle_url'].'">'.$row['task_receptacle'].'</a></td>';
+    print '<td><a href="'.$row['task_receptacle_url'].'">'.$row['task_receptacle'].'</a>';
+    if ($row['task_type'] == "Wikipedia page creation" or $row['task_type'] == "Wikipedia page update") {
+      print ' (<a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?page='.urlencode($row['task_receptacle']).'&language=en&drilldown=all&allmonths=allmonths">Wikipedia Views</a>)';
+    }
+    print '</td>';
   } else {
     print '<td>'.$row['task_receptacle'].'</td>';
   }
