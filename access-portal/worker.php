@@ -21,7 +21,8 @@ if ($workerSelectResult -> num_rows == 0) {
   include("backend/workerPaymentsMadeByMethodAndYear.inc");
   include("backend/workerTaskPaymentsDueByTypeAndYear.inc");
   include("backend/workerTaskPaymentsDueByTopicAndYear.inc");
-  include("backend/workerTaskPaymentsDueByVenueAndYear.inc");  
+  include("backend/workerTaskPaymentsDueByVenueAndYear.inc");
+  include("backend/workerImpact.inc");
   include("backend/workerPaymentsDueByTypeAndMonth.inc");
   include("backend/workerPaymentsDueAndMadeByMonth.inc");
   include("backend/workerTaskList.inc");
