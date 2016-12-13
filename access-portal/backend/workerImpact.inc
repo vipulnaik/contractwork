@@ -30,8 +30,8 @@ if ($paidViewCount > 0) {
 }
 print '<table border="1">';
 print '<tr><th>Item</th><th>Value</th></tr>';
-print '<tr><td>Total pageviews of all Wikipedia pages created</td><td>'.sprintf('%.2f',$totalViewCount).'</td></tr>';
-print '<tr><td>Total pageviews of Wikipedia pages created as contract work</td><td>'.sprintf('%.2f',$paidViewCount).'</td></tr>';
+print '<tr><td>Total pageviews of all Wikipedia pages created</td><td align="right">'.sprintf('%.2f',$totalViewCount).'</td></tr>';
+print '<tr><td>Total pageviews of Wikipedia pages created as contract work</td><td align="right">'.sprintf('%.2f',$paidViewCount).'</td></tr>';
 print '<tr><td>Cost per thousand views (including only explicit costs for page creation)</td><td align="right">'.sprintf('%.2f',$costPerThousandViews).'</td></tr>';
 print '<tr><td>Cost per thousand views (including pay for everything)</td><td align="right">'.sprintf('%.2f',$blendedCostPerThousandViews).'</td></tr>';
 print '</table>';
