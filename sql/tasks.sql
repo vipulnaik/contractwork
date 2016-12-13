@@ -259,7 +259,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 # -- Ethan Bashkansky's other work
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  ('Ethan Bashkansky', 'Wikipedia', 'Miscellaneous Wikipedia work', 'N/A', 'N/A', '2016-09-07', 120, 'Miscellaneous', 'Prose','Ethan went on a page creation spree and sought rewards for creatin broadly relevant pages'),
+  ('Ethan Bashkansky', 'Wikipedia', 'Miscellaneous Wikipedia work', 'N/A', 'N/A', '2016-09-07', 120, 'Miscellaneous', 'Prose','Ethan went on a page creation spree and sought rewards for creating broadly relevant pages'),
   ('Ethan Bashkansky', 'Wikipedia', 'Attempted Wikipedia work', 'De minimis fringe benefit', 'https://en.wikipedia.org/wiki/De_minimis_fringe_benefit','2016-04-26',5,'United States taxation','Prose','The page already existed'),
   ('Ethan Bashkansky', 'Wikipedia', 'Attempted Wikipedia work', 'Filing Information Returns Electronically', 'N/A','2016-04-26',5,'United States taxation','Prose','Decided against creating the page'),
   ('Ethan Bashkansky', 'None', 'Survey recruitment', 'Wikipedia use change over time', 'N/A', '2016-09-30',20.5, 'Wikipedia usage', 'Outreach', 'Got 41 responses from UW audience for 50 cents a response');
