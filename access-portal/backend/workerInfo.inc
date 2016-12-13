@@ -18,6 +18,12 @@ print '<tr><td>Email ID</td><td>'.$row['email_id'].'</td></tr>';
 if ($row['website'] != '') {
   print '<tr><td>Website</td><td><a href="'.$row['website'].'">'.$row['website'].'</a></td></tr>';
 }
+if ($row['twitter_username'] != '') {
+  print '<tr><td>Twitter username</td><td><a href="https://twitter.com/.$row['twitter_username'].'">'.$row['twitter_username'].'</a></td></tr>';
+}
+if ($row['lesswrong_username'] != '') {
+  print '<tr><td>LessWrong username</td><td><a href="http://lesswrong.com/user/.$row['lesswrong_username'].'">'.$row['lesswrong_username'].'</a></td></tr>';
+}
 print '<tr><td>Preferred payment method</td><td>'.$row['preferred_payment_method'].'</td></tr>';
 print '<tr><td>Recruiter</td><td>'.$row['recruiter'].'</td></tr>';
 print '<tr><td>Contact method (initial contact)</td><td>'.$row['contact_method'].'</td></tr>';

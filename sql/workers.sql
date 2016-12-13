@@ -6,6 +6,12 @@ create table workers(
   facebook_username varchar(100),
   email_id varchar(40),
   website varchar(40),
+  twitter_username varchar(40),
+  lesswrong_username varchar(40),
+  eaf_username varchar(40),
+  gratipay_username varchar(40),
+  patreon_username varchar(40),
+  predictionbook_username varchar(40),
   preferred_payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union') not null,
   recruiter enum('Vipul Naik','Issa Rice','Ethan Bashkansky','Linchuan Zhang','Alex K. Chen','Sebastian Sanchez') not null,
   contact_method enum('inbound email','inbound Facebook','outbound email','outbound Facebook','outbound in-person') not null,
@@ -37,3 +43,14 @@ insert into workers(worker, country, wikipedia_username, facebook_username, emai
 
 # -- website lists
 update workers set website='https://issarice.com' where worker = 'Issa Rice';
+
+alter table workers add column twitter_username varchar(40);
+alter table workers add column lesswrong_username varchar(40);
+alter table workers add column eaf_username varchar(40);
+alter table workers add column gratipay_username varchar(40);
+alter table workers add column patreon_username varchar(40);
+alter table workers add column predictionbook_username varchar(40);
+
+#-- LessWrong username lists
+update workers set gratipay_username='riceissa' where worker = 'Issa Rice';
+update workers set eaf_username='JesseClifton' where worker = 'Jesse Clifton';

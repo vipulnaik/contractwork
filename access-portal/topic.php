@@ -15,6 +15,7 @@ $taskSelectResult = $mysqli -> query($taskSelectQuery);
 if ($taskSelectResult -> num_rows == 0) {
   print "<p>We could not find any tasks whose topic matched $topic.</p>";
 } else {
+  include("backend/topicTaskPaymentsDueByTypeAndYear.inc");
   include("backend/topicTaskList.inc");
 }
 print '</body>';
