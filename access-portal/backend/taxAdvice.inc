@@ -26,13 +26,6 @@ foreach(array_reverse($yearList) as $year) {
     $taxableIncomeAssumingExemption = $income - $standardDeduction[$year] - $basicExemption[$year];
     $incomeTaxAssumingExemption = 0.1 * $taxableIncomeAssumingExemption;
     print "<p>In the year $year, the total payment awarded to you (your income) was $$income USD, and the total money paid to you was $$receivedIncome USD.</p>";
-    if ($income < $standardDeduction[$year]) {
-      print "<p>Assuming you had no other income in $year, since your income was less than the standard deduction of $".$standardDeduction[$year]." USD, you do not need to pay income tax if you are a United States citizen or resident for tax purposes.</p>";
-    } else if ($income < $standardDeduction[$year] + $basicExemption[$year]) {
-      print "<p>Assuming you had no other income in $year, since your income was less than the sum of the standard deduction of $".$standardDeduction[$year]." and the basic personal exemption of $".$basicExemption[$year].", you do not need to pay income tax if you are a United States citizen or resident for tax purposes, <em>and</em> if nobody else claimed you as a dependent. However, if somebody else claimed you as a dependent, you may need to pay some tax.</p>";
-    } else {
-      print "<p>You probably need to pay taxes on the income $income earned in year $year, even if it was your only income for the year.</p>";
-    }
     if ($income > 0) {
       print "<p>If you are a United States citizen or resident for tax purposes, you <strong>need to pay self-employment tax (Social Security and Medicare taxes)</strong> on the income earned. You also need to file your income tax return. The reason is that for contract work, the responsibility for paying these taxes falls on the worker rather than the employer. Approximate, highly conservative, guidance on what to do follows. This is just to give you a sense of how things should look; you should read through the forms and instructions competely to make sure it is correct for your situation.</p>";
       print '<p><strong>Fill in the forms electronically (using your PDF reader) rather than by hand to make it easier to edit the forms and easier for the IRS to process your forms</strong>.</p>';
