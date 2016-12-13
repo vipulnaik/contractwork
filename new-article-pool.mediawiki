@@ -10,8 +10,6 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 === Research methods: recruitment, surveys, etc. ===
 
-* Food frequency questionnaire (reserved for Sergey): $25-40: Explain what it is, historical examples, cautionary notes and best practices, results of common FFQs. You can start from these (not wikiformatted) notes, that somebody who started working on the article created: https://en.wikipedia.org/wiki/User:Vipul/Food_frequency_questionnaire
-
 * Marlow-Crowne Social Desirability Scale (reserved for Setsen): $20-30: Already mentioned on the social desirability bias, but probably deserves a separate page, detailing the scale, plus discussing existing research on it and its psychometric properties.
 
 * American Time Use Survey: $25-40: This is part of the Current Population Survey (is it?) and is conducted by the Bureau of Labor Statistics. See also https://en.wikipedia.org/wiki/Time-use_survey
@@ -21,8 +19,6 @@ Some already existing drafts need a little bit cleanup before they can be publis
 * Food record(s) (aka food diary), two main types: weighted food records and estimated food record: Similar to https://en.wikipedia.org/wiki/Food_frequency_questionnaire with parallel set of references
 
 === Global (and national/local) health ===
-
-* Global Programme on AIDS: $30-50 (depending on length and quality) (reserved for Daniel): This was run by WHO and was a predecessor to UNAIDS, the Joint United Nations Programme on HIV/AIDS. Also, both the new page and the existing page on UNAIDS should clearly describe the relationship between the programs.
 
 * Selective primary healthcare: Expand on the [https://en.wikipedia.org/wiki/Primary_healthcare#Selective_PHC section on the topic] and make this its own page.
 
@@ -54,7 +50,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 === Torture ===
 
-* Pigeon torture: $25-40 (reserved for Lucio): A torture practice in North Korea. Trigger warning.
+* Pigeon torture: $25-40: A torture practice in North Korea. Trigger warning.
 
 === Welfare in the United States ===
 
