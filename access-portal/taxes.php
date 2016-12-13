@@ -2,6 +2,7 @@
 print '<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8" >';
 include_once("backend/globalvariables/passwordFile.inc");
 include_once("backend/globalvariables/lists.inc");
+include_once("backend/globalvariables/taxVariables.inc");
 $worker = 'Issa Rice';
 if (!empty($_REQUEST['worker'])) {
   $worker = $_REQUEST['worker'];
@@ -18,7 +19,7 @@ if ($workerSelectResult -> num_rows == 0) {
   $row = $workerSelectResult -> fetch_assoc();
   $country = $row['country'];
   if ($country != "United States") {
-    print "<p>Sorry! Since this worker is not based in the United States, we cannot offer information on the worker's tax situation or obligations.</p>"
+    print "<p>Sorry! Since this worker is not based in the United States, we cannot offer information on the worker's tax situation or obligations.</p>";
   } else {
     print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
     $printTables = false;
