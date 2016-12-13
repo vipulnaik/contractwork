@@ -23,6 +23,16 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $grandTotal += $row['payment'];
 }
 
+function cmpPaymentMethods($firstPaymentMethod, $secondPaymentMethod) {
+  global $totalPaymentByMethod;
+  if (intval($totalPaymentByMethod[$firstPaymentMethod]) == intval($totalPaymentByMethod[$secondPaymentMethod])) {
+      return 0;
+  }
+  return (intval($totalPaymentByMethod[$firstPaymentMethod]) > intval($totalPaymentByMethod[$secondPaymentMethod])) ? -1 : 1;
+}
+
+usort($paymentMethods,"cmpPaymentMethods");
+
 # Print table
 print '<table border="1">';
 print '<tr><th>Payment method</th>';
@@ -31,11 +41,13 @@ foreach (array_reverse($yearList) as $year) {
 }
 print '<th>Total across years</th></tr>';
 foreach ($paymentMethods as $paymentMethod) {
-  print "<tr><td>$paymentMethod</td>";
-  foreach (array_reverse($yearList) as $year) {
-    print '<td align="right">'.sprintf('%.2f',$payment[$paymentMethod][$year]).'</td>';
+  if ($totalPaymentByMethod[$paymentMethod] > 0) {
+    print "<tr><td>$paymentMethod</td>";
+    foreach (array_reverse($yearList) as $year) {
+      print '<td align="right">'.sprintf('%.2f',$payment[$paymentMethod][$year]).'</td>';
+    }
+    print '<td align="right">'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod]).'</td></tr>';
   }
-  print '<td align="right">'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod]).'</td></tr>';
 }
 print '<tr><td><strong>Total across payment methods</strong></td>';
 foreach (array_reverse($yearList) as $year) {

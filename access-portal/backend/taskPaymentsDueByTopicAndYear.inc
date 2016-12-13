@@ -56,7 +56,7 @@ print '<th>Total across years</th></tr>';
 
 foreach($topics as $topic) {
   if ($totalPaymentForTopic[$topic] > 0) {
-    print "<tr><td>$topic</td>";
+    print '<tr><td><a href="/topic.php?topic='.urlencode($topic).'">'.$topic.'</a></td>';
     foreach (array_reverse($yearList) as $year) {
       print '<td align="right">'.sprintf('%.2f',$paymentForTopicAndYear[$topic][$year]).'</td>';
     }
