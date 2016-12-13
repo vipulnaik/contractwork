@@ -31,3 +31,6 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');
+
+insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
+  ('Issa Rice',8.26,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');
