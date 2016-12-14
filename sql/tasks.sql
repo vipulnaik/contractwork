@@ -113,7 +113,12 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Illiberal Reformers','https://en.wikipedia.org/wiki/Illiberal_Reformers','2016-08-17',35,'Political philosophy/political science','Prose',NULL),
   ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Stokes interview','https://en.wikipedia.org/wiki/Stokes_interview','2016-09-04',50,'United States migration','Prose',NULL),
   ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Scientific Charity Movement','https://en.wikipedia.org/wiki/Scientific_Charity_Movement','2016-10-10',35,'Philanthropy/philosophy','Prose',NULL);
-  
+
+# -- Daniel Alejandro Maidana page creation
+
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Daniel Alejandro Maidana', 'Wikipedia','Wikipedia page creation','Global Programme on AIDS','https://en.wikipedia.org/wiki/User:DanielMB/Global_programme_on_AIDS','2016-10-25',30,'Global health/program','Prose','Daniel finished userspace draft but as of 2016-12-14 the article has not been cleaned and ported to main space. Cleaning and porting is on Vipul.');
+
 # -- Devansh Dwivedy page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Richard W. Boone','https://en.wikipedia.org/wiki/Richard_W._Boone','2016-06-29', 50, 'Philanthropy/influential people', 'Prose', NULL),
