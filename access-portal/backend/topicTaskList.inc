@@ -1,6 +1,6 @@
 <?php
 
-$topicTaskSelectQuery = 'select * from tasks where topic REGEXP "'.$topic.'" and private = false order by completion_date desc';
+$topicTaskSelectQuery = "select * from tasks where $topicRegexMatcher and private = false order by completion_date desc";
 $topicTaskSelectResult = $mysqli -> query($topicTaskSelectQuery);
 print '<h4>Full list of tasks in reverse chronological order ('.($topicTaskSelectResult -> num_rows).' tasks)</h4>';
 print '<table border="1">';
