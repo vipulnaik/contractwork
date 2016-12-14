@@ -54,6 +54,8 @@ update workers set eaf_username='JesseClifton' where worker = 'Jesse Clifton';
 
 # -- GitHub username lists
 update workers set github_username='riceissa' where worker = 'Issa Rice';
+update workers set github_username='aviglozman' where worker = 'Avi Glozman';
+update workers set github_username='ethanbas' where worker = 'Ethan Bashkansky';
 
 # -- Worker file insertions
 update workers set worker_file = 'milo-list.mediawiki' where worker = 'Milo King';
