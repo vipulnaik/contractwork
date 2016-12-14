@@ -18,7 +18,9 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Food record(s) (aka food diary), two main types: weighted food records and estimated food record: Similar to https://en.wikipedia.org/wiki/Food_frequency_questionnaire with parallel set of references
 
-=== Global (and national/local) health ===
+=== Global (and national/local) health: not specific to any disease ===
+
+Many of these pages are listed because they are red-linked from [https://en.wikipedia.org/wiki/Priority-setting_in_global_health Priority-setting in global health].
 
 * Selective primary healthcare: Expand on the [https://en.wikipedia.org/wiki/Primary_healthcare#Selective_PHC section on the topic] and make this its own page.
 
@@ -40,13 +42,43 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 * Jeremy Shiffman: A person at the Center for Global Development (see [http://www.cgdev.org/expert/jeremy-shiffman bio]) who has written papers about priority-setting.
 
+=== Malaria ===
+
+Note that after initial research, it may turn out for some of these pages that there's not enough yet to justify a Wikipedia page. You will be compensated for initial research and for leaving a partial stub in userspace.
+
+Most of these are selected as red links from [https://en.wikipedia.org/wiki/Timeline_of_malaria Timeline of malaria].
+
+* EVIMalaR: A malaria research network funded by the European Commission, founded in 2014.
+
+* Malaria Eradication Scientific Alliance (MESA): An organization founded in Spain in 2012 to conduct research on malaria elimination.
+
+* Malaria World: An organization founded in Washington, D.C. in 2004 to provide free and unrestricted access to malaria.
+
+* Research Initiative on Traditional Antimalarial Methods (RITAM): Founded in 1999 as a collaboration between WHO, GIFTS, and Oxford. See some info on the [https://en.wikipedia.org/wiki/Global_Initiative_for_Traditional_Systems_of_Health GIFTS page].
+
+* Multilateral Initiative on Malaria: An alliance of organizations that facilitates research on malaria, established 1997.
+
+* Global Malaria Control Strategy: Launched in 1992, confirmed by World Health Assembly in 1993. From the timeline of malaria Wikipedia page: "This new strategy is based largely upon the primary health care approach and requires flexible, cost-effective, sustainable, and decentralized programs based upon disease rather than parasite control, adapted to local conditions and responding to local needs. This approach becomes succesful and has positive impact in a number of countries such as Brazil, China, Solomon Islands, Philippines, Vanuatu, Vietnam, and Thailand. Its success demonstrates that malaria can be controlled by locally and currently available tools."
+
+* Malaria Foundation International: Founded 1992 to fight against malaria.
+
+Some historical researchers (check for misspellings and existing pages; also check for Wikipedia pages in other languages):
+
+* Ignace Vinke
+
+* Marcel Lips
+
+* Francesco Torti
+
+* Sebastiano Baldi
+
 === Philanthropy ===
 
-(nothing at present, but stay tuned)
+(nothing at present, but stay tuned. Be in touch if there is something you are interested in and think fits in)
 
 === Politics ===
 
-(nothing at present, but stay tuned)
+(nothing at present, but stay tuned. Be in touch if there is something you are interested in and think fits in)
 
 === Torture ===
 
