@@ -14,6 +14,7 @@ include ("backend/taskPaymentsDueByTypeAndYear.inc");
 include ("backend/taskPaymentsDueByVenueAndYear.inc");
 include ("backend/taskPaymentsDueByTopicAndYear.inc");
 include ("backend/paymentsDueByRecipientAndType.inc");
+include ("backend/paymentsMadeByRecipientAndMethod.inc");
 include ("backend/paymentsDueByTypeAndMonth.inc");
 include ("backend/paymentsDueAndMadeByMonth.inc");
 print '</body>';
