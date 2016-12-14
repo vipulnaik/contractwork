@@ -10,6 +10,6 @@ $taskVenues = array('Wikipedia','Wikipedia Views','Effective Altruism Forum','Le
 
 $topics = array('Health','Global health','Country healthcare','Animal welfare','Technology','Philanthropy','People','Wikipedia','United States taxation','United States migration','United States politics','Political philosophy','Digital preservation','Artificial intelligence','Poverty','Government','GiveWell');
 
-$paymentMethods = array("Cash","Check","PayPal","Wire transfer","Western Union");
+$paymentMethods = array("Cash","Check","PayPal","Wire transfer","Western Union","Debit card via Facebook");
 
 ?>
