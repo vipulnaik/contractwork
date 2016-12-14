@@ -1,5 +1,5 @@
 <?php
-if ($verbose == true) {
+if ($printTables == true) {
   print '<h4>Worker payments due by type and month</h4>';
 }
 
