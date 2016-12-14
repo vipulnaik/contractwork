@@ -2,7 +2,7 @@
 
 $workerPaymentSelectQuery = "select * from payments where payee='$worker' and receipt_date is not null order by receipt_date desc";
 $workerPaymentSelectResult = $mysqli -> query($workerPaymentSelectQuery);
-print '<h4>Full list of received payments in chronological order ('.($workerPaymentSelectResult -> num_rows).' tasks)</h4>';
+print '<h4>Full list of received payments in reverse chronological order ('.($workerPaymentSelectResult -> num_rows).' tasks)</h4>';
 print '<table border="1">';
 print '<tr>';
 print '<th>Payment method</th>';
