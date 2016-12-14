@@ -20,12 +20,18 @@ For in-depth stats see http://contractwork.vipulnaik.com/worker.php?worker=Eddy+
 
 Total money earned (taxable income for 2016): $71
 
-Payment made: $38
+Payment made: $71
 
-Pending payment: $33
+Pending payment: None
 
 === Completed pages ===
 
 * H-1C visa: $38. Completed June 12, 2016.
 
 * H-1A visa: $33. Completed June 13, 2016.
+
+== Payment history ==
+
+* June 11, 2016: $38 via PayPal
+
+* December 13, 2016: $33 via PayPal
