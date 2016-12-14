@@ -41,6 +41,7 @@ if ($row['gratipay_username'] != '') {
 print '<tr><td>Preferred payment method</td><td>'.$row['preferred_payment_method'].'</td></tr>';
 print '<tr><td>Recruiter</td><td>'.$row['recruiter'].'</td></tr>';
 print '<tr><td>Contact method (initial contact)</td><td>'.$row['contact_method'].'</td></tr>';
+print '<tr><td>Worker file (on GitHub, with revision history)</td><td><a href="https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/'.$row['worker_file'].'">'.$row['worker_file'].'</a></td></tr>';
 if ($row['notes'] != '') {
   print '<tr><td>Notes</td><td>'.$row['notes'].'</td></tr>';
 }
