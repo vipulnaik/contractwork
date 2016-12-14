@@ -20,9 +20,9 @@ For more in-depth stats, see http://contractwork.vipulnaik.com/worker.php?worker
 
 Grand total (this is taxable income for tax year 2016): $476
 
-Payment made: $416
+Payment made: $476
 
-Net payment due: $60
+Net payment due: None
 
 === Completed pages ===
 
@@ -42,5 +42,5 @@ Total: $449
 
 Total: $27
 
-* Vote pairing in the United States presidential election, 2016:
-  $27. Completed November 3, 2016.
+* Vote pairing in the United States presidential election, 2016: $27. Completed November 3, 2016.
+

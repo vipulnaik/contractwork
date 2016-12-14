@@ -1,44 +1,6 @@
-This is a list of contributors with pay, as well as some overall summary statistics, for payments made to people for writing and editing Wikipedia articles. The fact of disclosure is also noted on the contributors' talk pages on Wikipedia. A full list of articles for which contributors were paid, and the money they were paid, is at the links for individual contributors.
-
-Note that as of August 2016, all contributor payments come from Vipul Naik's personal funds. There is no sponsorship or collaboration from the subjects of the articles, or even any other third parties. Feedback and editorial influence are provided primarily by Vipul Naik and Issa Rice, with occasional feedback from other editors and individuals who are shown the pages.
-
-In some cases, the subjects of articles may be contacted with drafts to run by and detect factual errors, but any suggestions or feedback they have is incorporated only if verified from publicly available reliable sources.
-
-If the funding situation changes, this page will be updated. Full details on co-sponsors, their contribution, and their editorial influence, will be included.
-
-== List of contributors ==
-
-Click on the links to get more details of each worker.
-
-* [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/akc-list.mediawiki Alex K. Chen]: Recruited in 2015; he has been working steadily with a specially negotiated deal that has minimum output requirements but additional pay based on pageviews and flexibility to create pages in addition to those that receive guaranteed payment. Has recruited other workers.
-
-* [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki Issa Rice]: Recruited in 2015; work picked up in 2016. Also manages other workers, does underlying research and outreach.
-
-* [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/ethan-list.mediawiki Ethan Bashkansky]: Recruited in 2016. Plays a key role in recruiting other workers.
-
-* [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki Sebastian Sanchez]: Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ -- already a friend of Vipul. Did solid work in May. Vacation in June, returned in July and has continued to work in August. Current focus: global health, diseases and causes of mortality, comparative healthcare systems.
-
-* [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/jesse-list.mediawiki Jesse Clifton]: Recruited in April 2016 after the EA Forum blog post http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/ Likely to work for a few months before starting graduate school. Sole focus: animal welfare. Steady output since recruited, until the end of July 2016. Now on hiatus, though he may occasionally contribute more.
-
-* [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/adrian-list.mediawiki Adrian Ulloa]: Recruited in August 2016 through in-bound interest (he contacted us via email).
-
-* High school/early college students recruited by Ethan: [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/amy-list.mediawiki Amy Zhang], [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/avi-list.mediawiki Avi Glozman], [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/chris-list.mediawiki Chris Kunin], [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/eddy-list.mediawiki Eddy Su], [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/michael-list.mediawiki Michael Royzen], [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sean-list.mediawiki Sean Yu], [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/devansh-list.mediawiki Devansh Dwivedy]. Note that there are many others who have not yet finished a page and are therefore not included.
-
-* Others recruited: [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/thomas-list.mediawiki Thomas Foster], through Alex K. Chen,[http://github.com/vipulnaik/contractwork/blob/master/contributor-lists/charlie-list.mediawiki Charlie Corner], through [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/linchuan-list.mediawiki Linchuan Zhang], and [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sergey-list.mediawiki Sergey Yegorov] (in-bound interest).
-
-* People not working on Wikipedia, but who have lists in this repo for other purposes: [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/milo-list.mediawiki Milo King] (economics wiki http://market.subwiki.org), [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sebastian-list.mediawiki Sebastian Nickel] (deferred for now)
-
-== Total money spent by month ==
-
-Total money spent exceeds $1000 but is less than $4000. There is huge month-to-month fluctuation. More details will be included here once numbers by month are computed.
+Much of the content earlier on this page has been superseded by the new [http://contractwork.vipulnaik.com contract work portal]. Some information not yet ported is listed below. See the portal for always-up-to-date information on the state of contract work for Vipul Naik.
 
 == Impact ==
-
-=== Pageviews ===
-
-The pageviews for each worker can be accessed on [http://wikipediaviews.org Wikipedia Views]. Links for individual workers are on their pages; however, you can also use the tag dropdown on the site to find the necessary information yourself.
-
-As a rough estimate, pages whose creation was funded through this project get over 50,000 pageviews a month on desktop devices. If you also include pages created by Alex K. Chen for which Vipul is paying on a pageview basis, the number exceeds 100,000. Since many of the pages were created recently, and many more pages will be created soon, both these numbers will increase considerably in the coming months.
 
 === Anecdotal ===
 
