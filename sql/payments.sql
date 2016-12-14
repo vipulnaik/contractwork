@@ -1,6 +1,6 @@
 create table payments(
   payment_id int(11) not null auto_increment primary key,
-  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union') not null,
+  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook') not null,
   payee varchar(40) not null,
   intermediary varchar(40) default null,
   sent_date date NOT NULL,
@@ -103,6 +103,9 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   # -- Thomas Foster payment
   ('PayPal','Thomas Foster',NULL,'2016-06-16','2016-06-16','2016-06-16','2016-06-16',80,79.99,0.79,79),
 
-  # -- Alex K. Chen: add check
-  ('Check','Alex K. Chen',NULL,'2015-12-26','2015-12-31','2016-01-06','2016-01-06',7100,7100,0,7100);
+  # -- Alex K. Chen
+  ('Check','Alex K. Chen',NULL,'2015-12-26','2015-12-31','2016-01-06','2016-01-06',7100,7100,0,7100),
+
+  # -- Milo King
+  ('Debit card via Facebook','Milo King',NULL,'2016-12-13','2016-12-13','3016-12-13','2016-12-13',205,205,0,205);
 
