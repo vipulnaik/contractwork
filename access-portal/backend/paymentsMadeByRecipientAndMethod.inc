@@ -1,0 +1,60 @@
+<?php
+print '<h4>Payments made by method and year</h4>';
+
+# Initialize values to zero
+$grandTotal = 0;
+foreach ($paymentMethods as $paymentMethod) {
+  $totalPaymentByMethod[$paymentMethod] = 0;
+  foreach ($yearList as $year) {
+    $payment[$paymethMethod][$year] = 0;
+    $totalPaymentByYear[$year] = 0;
+  }
+}  
+
+# Get payments
+
+$paymentSelectQuery = "select payment_method, payee, coalesce(sum(payment), 0) as payment from payments where receipt_date is not null group by payment_method, payee;";
+$paymentSelectResult = $mysqli -> query($paymentSelectQuery);
+for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
+  $row = $paymentSelectResult -> fetch_assoc();
+  $payment[$row['payment_method']][$row['year']] = $row['payment'];
+  $totalPaymentByMethod[$row['payment_method']] += $row['payment'];
+  $totalPaymentByYear[$row['year']] += $row['payment'];
+  $grandTotal += $row['payment'];
+}
+
+function cmpPaymentMethods($firstPaymentMethod, $secondPaymentMethod) {
+  global $totalPaymentByMethod;
+  if (intval($totalPaymentByMethod[$firstPaymentMethod]) == intval($totalPaymentByMethod[$secondPaymentMethod])) {
+      return 0;
+  }
+  return (intval($totalPaymentByMethod[$firstPaymentMethod]) > intval($totalPaymentByMethod[$secondPaymentMethod])) ? -1 : 1;
+}
+
+usort($paymentMethods,"cmpPaymentMethods");
+
+# Print table
+print '<table border="1">';
+print '<tr><th>Payment method</th>';
+foreach (array_reverse($yearList) as $year) {
+  print "<th>Total in year $year</th>";
+}
+print '<th>Total across years</th></tr>';
+foreach ($paymentMethods as $paymentMethod) {
+  if ($totalPaymentByMethod[$paymentMethod] > 0) {
+    print "<tr><td>$paymentMethod</td>";
+    foreach (array_reverse($yearList) as $year) {
+      print '<td align="right">'.sprintf('%.2f',$payment[$paymentMethod][$year]).'</td>';
+    }
+    print '<td align="right">'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod]).'</td></tr>';
+  }
+}
+print '<tr><td><strong>Total across payment methods</strong></td>';
+foreach (array_reverse($yearList) as $year) {
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentByYear[$year]).'</strong></td>';
+}
+print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
+print '</tr>';
+
+print '</table>';
+?>
