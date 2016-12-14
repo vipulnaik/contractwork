@@ -1,8 +1,8 @@
 <?php
-print '<h4>Payments made by recipient and method</h4>';
+print '<h4>Payments made by recipient worker and method</h4>';
 
 # Initialize values to zero
-$grandTotal = 0;
+$totalPaymentMadeAcrossWorkers = 0;
 foreach ($workerList as $worker) {
   $totalPaymentMadeToWorker[$worker] = 0;
   foreach ($paymentMethods as $paymentMethod) {
@@ -20,7 +20,7 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $payment[$row['payee']][$row['payment_method']] = $row['payment'];
   $totalPaymentByMethod[$row['payment_method']] += $row['payment'];
   $totalPaymentMadeToWorker[$row['payee']] += $row['payment'];
-  $grandTotal += $row['payment'];
+  $totalPaymentMadeAcrossWorkers += $row['payment'];
 }
 
 # Print table
@@ -41,7 +41,7 @@ print '<tr><td><strong>Total across workers</strong></td>';
 foreach ($paymentMethods as $paymentMethod) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod]).'</strong></td>';
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
+print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeAcrossWorkers).'</strong></td>';
 print '</tr>';
 
 print '</table>';
