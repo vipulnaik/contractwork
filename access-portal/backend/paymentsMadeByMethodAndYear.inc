@@ -6,7 +6,7 @@ $grandTotal = 0;
 foreach ($paymentMethods as $paymentMethod) {
   $totalPaymentByMethod[$paymentMethod] = 0;
   foreach ($yearList as $year) {
-    $payment[$paymethMethod][$year] = 0;
+    $payment[$paymentMethod][$year] = 0;
     $totalPaymentByYear[$year] = 0;
   }
 }  

@@ -53,7 +53,7 @@ print '<tr><td><strong>Total across workers</strong></td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossWorkers).'</strong></td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalReimbursementDueAcrossWorkers).'</strong></td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeAcrossWorkers).'</strong></td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossWorkers + $totalReimbursementDueAcrossWorkers - $totalReimbursementDueAcrossWorkers).'</strong></td>';
+print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossWorkers + $totalReimbursementDueAcrossWorkers - $totalPaymentMadeAcrossWorkers).'</strong></td>';
 print '</tr>';
 
 print '</table>';
