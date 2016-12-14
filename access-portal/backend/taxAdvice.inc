@@ -21,9 +21,9 @@ foreach(array_reverse($yearList) as $year) {
     $income = $totalPaymentAwarded[$year];
     $receivedIncome = $totalPaymentMadeByYear[$year] - $reimbursementDueInYear[$year];
     $selfEmploymentTax = 0.1412 * $income;
-    $taxableIncomeAssumingNoExemption = $income - $standardDeduction[$year];
+    $taxableIncomeAssumingNoExemption = $income - 0.5 * $selfEmploymentTax - $standardDeduction[$year];
     $incomeTaxAssumingNoExemption = 0.1 * $taxableIncomeAssumingNoExemption;
-    $taxableIncomeAssumingExemption = $income - $standardDeduction[$year] - $basicExemption[$year];
+    $taxableIncomeAssumingExemption = $income - 0.5 * $selfEmploymentTax - $standardDeduction[$year] - $basicExemption[$year];
     $incomeTaxAssumingExemption = 0.1 * $taxableIncomeAssumingExemption;
     print "<p>In the year $year, the total payment awarded to you (your income) was $$income USD, and the total money paid to you was $$receivedIncome USD.</p>";
     if ($income > 0) {
