@@ -46,7 +46,7 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 Total money earned by doing work (taxable as income for 2016): $6534.23
 
-Reimbursement due (not taxable as income for 2016): $300.53
+Reimbursement due (not taxable as income for 2016): $401.03
 
 Payment made: $5403 (+ $4000 check sent but not deposited)
 
@@ -248,11 +248,15 @@ Total so far: $1740
 
 === Reimbursement payments ===
 
-Total so far: $185.53
+Total so far: $401.03
+
+* $115 for cash payment to Ethan
 
 * $80 for PayPal payment to Amy
 
 * $105.53 for PayPal payment to Adrian
+
+* 100.50 for PayPal payment to Adrian 
 
 === Payment schedule ===
 

@@ -62,7 +62,8 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Check','Issa Rice',NULL,'2016-10-01','2016-10-06',NULL,NULL,4000,4000,0,4000),
 
   # -- Adrian Ulloa payment
-  ('Paypal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105),
+  ('PayPal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105),
+  ('PayPal','Adrian Ulloa','Issa Rice','2016-12-14','2016-12-14','2016-12-20','2016-12-20',100,100.50,0.50,100),
 
   # -- Amy Zhang
   ('PayPal','Amy Zhang','Issa Rice','2016-06-26','2016-06-26','2016-06-26','2016-06-26',80,80,0,80),

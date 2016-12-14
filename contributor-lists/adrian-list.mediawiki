@@ -22,11 +22,11 @@ For more in-depth stats, see http://contractwork.vipulnaik.com/worker.php?worker
 
 Total money earned by doing work (this is taxable as income for tax year 2016): $205
 
-Payment made: $105
+Payment made: $205
 
-Net payment due: $100
+Net payment due: None
 
-== Completed pages ==
+=== Completed pages ===
 
 * Waitlist Zero: $35. Completed on August 16, 2016.
 
@@ -37,3 +37,9 @@ Net payment due: $100
 * Timeline of optical character recognition: $60. Completed on September 22, 2016.
 
 * Seth Baum: $20. Originally published September 2016. Republished October 19, 2016.
+
+=== Payment history ===
+
+* August 26, 2016: $105 via PayPal
+
+* December 14, 2016 (funds available December 20, 2016): $100 via PayPal
