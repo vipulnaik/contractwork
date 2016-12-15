@@ -31,7 +31,7 @@ if ($workerSelectResult -> num_rows == 0) {
     include("backend/workerCommissionOnTaskList.inc");
   }
   if ($totalCommissionOnRoyaltyPayment > 0) {
-    # include("backend/workerCommissionOnRoyaltyList.inc");
+    include("backend/workerCommissionOnRoyaltyList.inc");
   }
   include("backend/workerPaymentList.inc");
 }
