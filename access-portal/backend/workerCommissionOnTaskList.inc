@@ -7,6 +7,7 @@ $commissionOnTaskByEarnerSelectQuery = "select earner, commission, commission_re
 $commissionOnTaskByEarnerSelectResult = $mysqli -> query($commissionOnTaskByEarnerSelectQuery);
 
 print '<h4>Commissions on tasks: breakdown by earner</h4>';
+print '<table border="1">';
 print '<tr>';
 print '<th>Underlying earner</th>';
 print '<th>Commission validity period</th>';
@@ -15,16 +16,22 @@ print '<th>Commission rate</th>';
 print '<th>Payment due to original earner</th>';
 print '<th>Commission payment</th>';
 print '</tr>';
-for ($i = 0; $i < $commissionOnTaskByEarnerSelectResult; $i++) {
+for ($i = 0; $i < $commissionOnTaskByEarnerSelectResult -> num_rows; $i++) {
   $row = $commissionOnTaskByEarnerSelectResult -> fetch_assoc();
   array_push($earnerList, $row['earner']);
   print '<tr>';
   print '<td><a href="http://contractwork.vipulnaik.com/worker.php?worker='.urlencode($row['worker']).'">'.$row['earner'].'</a></td>';
-  print '<td>'.$row['commission_validity_start'].'-'.$row['commission_validity_end'].'</td>';
+  print '<td>'.$row['commission_validity_start'];
+  if ($row['commission_validity_end'] == '') {
+    print ' onward';
+  } else {
+    print '–'.$row['commission_validity_end'].'</td>';
+  }
   print '<td>'.$row['commission_reason'].'</td>';
-  print '<td>'.($row['commission'] * 100).'%</td>';
-  print '<td>'.sprintf('%.2f',$row['originalPayment']).'</td>';
-  print '<td>'.sprintf('%.2f',$row['payment']).'</td>';
+  print '<td align="right">'.($row['commission'] * 100).'%</td>';
+  print '<td align="right">'.sprintf('%.2f',$row['originalPayment']).'</td>';
+  print '<td align="right">'.sprintf('%.2f',$row['payment']).'</td>';
   print '</tr>';
 }
+print '</table>';
 ?>
