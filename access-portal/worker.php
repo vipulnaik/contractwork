@@ -36,6 +36,9 @@ if ($workerSelectResult -> num_rows == 0) {
   if ($totalStipendPayment[0] > 0) {
     include("backend/workerDeferredStipendList.inc");
   }
+  if ($totalRoyaltyPayment > 0) {
+    include("backend/workerRoyaltyList.inc");
+  }
   if ($totalCommissionOnRoyaltyPayment > 0) {
     include("backend/workerCommissionOnRoyaltyList.inc");
   }

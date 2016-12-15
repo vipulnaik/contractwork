@@ -14,7 +14,6 @@ print '<th>Notes</th>';
 print '</tr>';
 for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
   $row = $stipendSelectResult -> fetch_assoc();
-  array_push($earnerList, $row['earner']);
   print '<tr>';
   print '<td>'.$row['stipend_start_date'];
   if ($row['stipend_end_date'] == '') {
