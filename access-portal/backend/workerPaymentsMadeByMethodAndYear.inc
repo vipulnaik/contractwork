@@ -3,7 +3,7 @@ if ($printTables == true) {
   print '<h4>Worker payments made by method and year</h4>';
 }
 # Initialize values to zero
-$grandTotal = 0;
+$totalPaymentMadeToWorker = 0;
 foreach ($paymentMethods as $paymentMethod) {
   $totalPaymentMadeByMethod[$paymentMethod] = 0;
   foreach ($yearList as $year) {
@@ -21,7 +21,7 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $payment[$row['payment_method']][$row['year']] = $row['payment'];
   $totalPaymentMadeByMethod[$row['payment_method']] += $row['payment'];
   $totalPaymentMadeByYear[$row['year']] += $row['payment'];
-  $grandTotal += $row['payment'];
+  $totalPaymentMadeToWorker += $row['payment'];
 }
 
 function cmpPaymentMethods($firstPaymentMethod, $secondPaymentMethod) {
@@ -55,7 +55,7 @@ if ($printTables == true) {
   foreach (array_reverse($yearList) as $year) {
     print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeByYear[$year]).'</strong></td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeToWorker).'</strong></td>';
   print '</tr>';
   
   print '</table>';

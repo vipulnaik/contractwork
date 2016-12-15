@@ -31,12 +31,17 @@ if ($workerSelectResult -> num_rows == 0) {
     include("backend/workerCommissionOnTaskList.inc");
   }
   if ($totalStipendPayment[1] > 0) {
-    include("backend/workerStipendList.inc");
+    include("backend/workerAwardedStipendList.inc");
+  }
+  if ($totalStipendPayment[0] > 0) {
+    include("backend/workerDeferredStipendList.inc");
   }
   if ($totalCommissionOnRoyaltyPayment > 0) {
     include("backend/workerCommissionOnRoyaltyList.inc");
   }
-  include("backend/workerPaymentList.inc");
+  if ($totalPaymentMadeToWorker > 0) {
+    include("backend/workerPaymentList.inc");
+  }
 }
 print '</body>';
 ?>
