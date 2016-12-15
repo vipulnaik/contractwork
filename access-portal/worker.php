@@ -30,6 +30,9 @@ if ($workerSelectResult -> num_rows == 0) {
   if ($totalCommissionOnTaskPayment > 0) {
     include("backend/workerCommissionOnTaskList.inc");
   }
+  if ($totalStipendPayment[1] > 0) {
+    include("backend/workerStipendList.inc");
+  }
   if ($totalCommissionOnRoyaltyPayment > 0) {
     include("backend/workerCommissionOnRoyaltyList.inc");
   }
