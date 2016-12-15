@@ -212,6 +212,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of machine learning', 'https://en.wikipedia.org/wiki/Timeline_of_machine_learning', '2016-06-16', 80, 'Artificial intelligence/Machine learning', 'Timeline', NULL),
   ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in Oceania', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_Oceania', '2016-06-23', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation');
 
+# -- Joey Malandra list
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'American Time Use Survey', 'https://en.wikipedia.org/wiki/American_Time_Use_Survey','2016-12-14',34,'Survey research','Prose',NULL);
+
 # -- Alex K. Chen list
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values

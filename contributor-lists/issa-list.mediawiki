@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $6534.23
+Total money earned by doing work (taxable as income for 2016): $6537.63
 
 Reimbursement due (not taxable as income for 2016): $401.03
 
 Payment made: $5403 (+ $4000 check sent but not deposited)
 
-Net payment due: $1431.76 (excluding undeposited check)
+Net payment due: $1535.66 (excluding undeposited check)
 
 === Completed pages ===
 
@@ -202,7 +202,7 @@ Total: $320
 
 List updated December 12, 2016. May not be kept up-to-date continuously.
 
-Total: $261.23
+Total: $264.63
 
 * Adrian Ulloa: Commission of 10% on $205 = $20.50
 
@@ -227,6 +227,8 @@ Total: $261.23
 * Sergey Yegorov: Commission of 10% on $178 = $17.80
 
 * Alex K. Chen: Commission of 3% on $2491 = $74.73
+
+* Joey Malandra: Commission of 10% on $34 = $3.40
 
 === Monthly payments ===
 

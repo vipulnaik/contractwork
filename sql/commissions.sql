@@ -21,19 +21,21 @@ insert into commissions(earner,commission_receiver,commission,commission_validit
   ('Sean Yu','Issa Rice',0.10,'2016-06-24',NULL,'Guide'),
   ('Sergey Yegorov','Issa Rice',0.10,'2016-09-20',NULL,'Guide'),
   ('Thomas Foster','Issa Rice',0.10,'2016-06-16',NULL,'Guide'),
+  ('Joey Malandra','Issa Rice',0.10,'2016-12-13',NULL,'Guide'),
   ('Alex K. Chen','Issa Rice',0.03,'2016-01-01','2016-12-31','Guide'),
   ('Alex K. Chen','Issa Rice',0.10,'2015-04-01','2015-12-31','Guide'),
  
   ('Amy Zhang','Ethan Bashkansky',0.15,'2016-06-26',NULL,'Recruiter'),
-  ('Avi Glozman','Ethan Bashkansky',0.10,'2016-06-05',NULL,'Guide'),
-  ('Christopher Kunin','Ethan Bashkansky',0.10,'2016-06-16',NULL,'Guide'),
-  ('Devansh Dwivedy','Ethan Bashkansky',0.10,'2016-06-29',NULL,'Guide'),
-  ('Eddy Su','Ethan Bashkansky',0.10,'2016-06-12',NULL,'Guide'),
-  ('Michael Royzen','Ethan Bashkansky',0.10,'2016-06-21',NULL,'Guide'),
-  ('Sean Yu','Ethan Bashkansky',0.10,'2016-06-24',NULL,'Guide'),
+  ('Avi Glozman','Ethan Bashkansky',0.10,'2016-06-05',NULL,'Recruiter'),
+  ('Christopher Kunin','Ethan Bashkansky',0.10,'2016-06-16',NULL,'Recruiter'),
+  ('Devansh Dwivedy','Ethan Bashkansky',0.10,'2016-06-29',NULL,'Recruiter'),
+  ('Eddy Su','Ethan Bashkansky',0.10,'2016-06-12',NULL,'Recruiter'),
+  ('Michael Royzen','Ethan Bashkansky',0.10,'2016-06-21',NULL,'Recruiter'),
+  ('Sean Yu','Ethan Bashkansky',0.10,'2016-06-24',NULL,'Recruiter'),
+  ('Joey Malandra','Ethan Bashkansky',0.10,'2016-12-13',NULL,'Recruiter'),
 
-  ('Charlie Corner','Linchuan Zhang',0.15,'2016-07-10',NULL,'Guide'),
+  ('Charlie Corner','Linchuan Zhang',0.15,'2016-07-10',NULL,'Recruiter'),
 
-  ('Thomas Foster','Alex K. Chen',0.10,'2016-06-16',NULL,'Guide');
+  ('Thomas Foster','Alex K. Chen',0.10,'2016-06-16',NULL,'Recruiter');
 
 

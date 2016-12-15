@@ -41,7 +41,8 @@ insert into workers(worker, country, wikipedia_username, facebook_username, emai
   ('Alex K. Chen','United States','Simfish','simfish','simfish@gmail.com','PayPal','Vipul Naik','outbound email','Started working in April 2015 on a unique contract. Continued in 2016, slowed down in last quarter.','akc-list.mediawiki'),
   ('Amy Zhang','United States','Amy.zhang425','amy.zhang.5855594','bluemoonamy@live.com','PayPal','Ethan Bashkansky','outbound Facebook','Did some work in June 2016 on timeline of global health. Discontinued work due to other obligations','amy-list.mediawiki'),
   ('Daniel Alejandro Maidana','Argentina','DanielMB','danielalejandro.maidana.50','unknown','PayPal','Sebastian Sanchez','inbound Facebook','Started working in August but delays on both sides so first payment in December','daniel-list.mediawiki'),
-  ('Linchuan Zhang','United States','N/A','linchuan.zhang','unknown','PayPal','Vipul Naik','inbound Facebook','Not a worker, but helped recruit some workers','linchuan-list.mediawiki');
+  ('Linchuan Zhang','United States','N/A','linchuan.zhang','unknown','PayPal','Vipul Naik','inbound Facebook','Not a worker, but helped recruit some workers','linchuan-list.mediawiki'),
+  ('Joey Malandra','United States','Joeykai','joey.malandra.73','joseph.malandra@gmail.com','PayPal','Ethan Bashkansky','outbound Facebook','Met with Ethan at Envision Conference. Had 58K edits at the time.','joey-list.mediawiki');
 
 # -- website lists
 update workers set website='https://issarice.com' where worker = 'Issa Rice';
