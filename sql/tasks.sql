@@ -123,7 +123,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Richard W. Boone','https://en.wikipedia.org/wiki/Richard_W._Boone','2016-06-29', 50, 'Philanthropy/influential people', 'Prose', NULL),
   ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Field Foundation of New York','https://en.wikipedia.org/wiki/Field_Foundation_of_New_York','2016-07-15', 30, 'Philanthropy/foundations', 'Prose', NULL),
-  ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Global Outbreak Alert and Response Network','https://en.wikipedia.org/wiki/Global_Outbreak_Alert_and_Response_Network', '2016-11-06', 35, 'Global health/organizations', 'Prose', NULL);
+  ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Global Outbreak Alert and Response Network','https://en.wikipedia.org/wiki/Global_Outbreak_Alert_and_Response_Network', '2016-11-06', 45, 'Global health/organizations', 'Prose', NULL);
   
 # -- Eddy Su page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values

@@ -16,11 +16,11 @@ For more in-depth stats see http://contractwork.vipulnaik.com/worker.php?worker=
 
 === Summary ===
 
-Grand total (this is taxable income for the year 2016): $115
+Grand total (this is taxable income for the year 2016): $125
 
 Payment made: $50
 
-Net payment due: $65
+Net payment due: $75
 
 === Completed pages ===
 
@@ -28,4 +28,4 @@ Net payment due: $65
 
 * Field Foundation of New York: $30. Completed on July 15, 2016.
 
-* Global Outbreak Alert and Response Network: $35. Completed on November 6, 2016.
+* Global Outbreak Alert and Response Network: $45. Completed on November 6, 2016 (note: payment increased retroactively after reviewing page quality again).
