@@ -48,7 +48,7 @@ Most of these are selected as red links from [https://en.wikipedia.org/wiki/Time
 
 * EVIMalaR: A malaria research network funded by the European Commission, founded in 2014.
 
-* Malaria Eradication Scientific Alliance (MESA): An organization founded in Spain in 2012 to conduct research on malaria elimination.
+* Malaria Eradication Scientific Alliance (MESA) (reserved for Devansh): An organization founded in Spain in 2012 to conduct research on malaria elimination.
 
 * Malaria World: An organization founded in Washington, D.C. in 2004 to provide free and unrestricted access to malaria.
 
