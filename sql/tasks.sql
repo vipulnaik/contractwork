@@ -315,7 +315,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Cancer timelines','N/A','2016-08-28',5,'Global health/diseases','Timeline','Adding IARC to existing timelines'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of malaria','https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-12-06',185,'Global health/diseases','Timeline','Significant expansion of early history of malaria, also some recent events. And four graphs'),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of malaria','https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-12-16',80,'Global health/diseases','Timeline','Cleanup, mainly focused on reference robustification');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of malaria','https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-12-16',80,'Global health/diseases','Timeline','Cleanup, mainly focused on reference robustification'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of cholera','https://en.wikipedia.org/wiki/Timeline_of_cholera','2016-12-19',160,'Global health/diseases','Timeline','Expansion, cleanup, and reference robustification');
 
 # -- Issa Rice's Open Philanthropy Project periodic grant updates
 
