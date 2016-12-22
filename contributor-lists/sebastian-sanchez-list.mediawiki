@@ -20,9 +20,9 @@ For in-depth stats see http://contractwork.vipulnaik.com/worker.php?worker=Sebas
 
 Total money earned as income: $3908
 
-Payment made: $4026
+Payment made: $4668.37
 
-Net payment due: ($118)
+Net payment due: ($760.37)
 
 Note: Sebastian started work in April and took a break in June.
 
@@ -154,11 +154,11 @@ Total: $430
 
 === Payment schedule ===
 
-Total payment amount received: $3970
+Total payment amount received: $4604.37
 
-Total transaction cost $56 (7 transactions, $8 each)
+Total transaction cost $64 (8 transactions, $8 each)
 
-Total money: $4026
+Total money: $4668.37
 
 Each payment had a transaction fee of $8. Thus, the total amount we consider paid is the total of the payment amounts + ($8 * number of payments).
 
@@ -171,3 +171,5 @@ Each payment had a transaction fee of $8. Thus, the total amount we consider pai
 * Sixth payment of $661 was initiated on October 1, 2016 (Saturday) and completed on October 3, 2016 (Monday).
 
 * Seventh payment of $669 was initiated on November 5, 2016 (Saturday) and completed on November 7, 2016 (Monday).
+
+* Eighth payment of $634.37 was initiated on December 21, 2016 (Wednesday) and competed on December 22, 2016 (Thursday).
