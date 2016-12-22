@@ -316,7 +316,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Cancer timelines','N/A','2016-08-28',5,'Global health/diseases','Timeline','Adding IARC to existing timelines'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of malaria','https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-12-06',185,'Global health/diseases','Timeline','Significant expansion of early history of malaria, also some recent events. And four graphs'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of malaria','https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-12-16',80,'Global health/diseases','Timeline','Cleanup, mainly focused on reference robustification'),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of cholera','https://en.wikipedia.org/wiki/Timeline_of_cholera','2016-12-19',160,'Global health/diseases','Timeline','Expansion, cleanup, and reference robustification');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of cholera','https://en.wikipedia.org/wiki/Timeline_of_cholera','2016-12-19',160,'Global health/diseases','Timeline','Expansion, cleanup, and reference robustification'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of malaria','https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-12-22',10,'Global health/diseases','Timeline','Filling in missing geographic locations plus updating pictures data in Wikimedia Commons');
 
 # -- Issa Rice's Open Philanthropy Project periodic grant updates
 

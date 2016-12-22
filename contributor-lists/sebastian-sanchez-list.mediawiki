@@ -18,11 +18,11 @@ For in-depth stats see http://contractwork.vipulnaik.com/worker.php?worker=Sebas
 
 === Summary ===
 
-Total money earned as income: $3908
+Total money earned as income: $3918
 
 Payment made: $4668.37
 
-Net payment due: ($760.37)
+Net payment due: ($750.37)
 
 Note: Sebastian started work in April and took a break in June.
 
@@ -142,7 +142,7 @@ Total: $3478 (40 pages + 1 translation)
 
 == Additions to existing pages that are significantly different from new page creation ===
 
-Total: $430
+Total: $440
 
 * Adding IARC and some other references to existing pages: $5. Done August 28, 2016.
 
@@ -151,6 +151,8 @@ Total: $430
 * Second iteration of work on timeline of malaria, this time focused on reference cleanup and robustification: $80. Completed December 16, 2016.
 
 * Revamp of timeline of cholera, adding lots of new events plus new graphs, and reference robustification: $160. Completed December 19, 2016.
+
+* Filling in missing geographic locations for timeline of malaria, plus updating missing references in Wikimedia Commons: $10. Completed December 22, 2016.
 
 === Payment schedule ===
 
