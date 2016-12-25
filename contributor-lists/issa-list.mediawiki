@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $6538.63
+Total money earned by doing work (taxable as income for 2016): $7671.63
 
 Reimbursement due (not taxable as income for 2016): $401.03
 
 Payment made: $5403 (+ $4000 check sent but not deposited)
 
-Net payment due: $1536.66 (excluding undeposited check)
+Net payment due: $2669.66 (excluding undeposited check)
 
 === Completed pages ===
 
@@ -134,7 +134,7 @@ Total so far: $250
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $1763
+Total so far: $2893
 
 * US tax investigation for compliance requirements for contract workers: $150. Completed January 18, 2016.
 
@@ -194,15 +194,21 @@ Total so far: $1763
 
 * Investigation into S3 cost modeling. Code at https://gist.github.com/riceissa/51ceb243a2f23995b902c1e320efdf71: $170. Completed December 3, 2016.
 
+* Review and feedback on new version of Wikipedia usage survey results: $55 (originally planned for $50, then upped to $70, but then we decided I would fork it). Completed December 24, 2016.
+
+* Work on the great decline post. The post itself is shelved for now. $925. Completed October 3, 2016. Payment added December 25, 2016, because the original plan was to add payment after completion of the work, but I decided to defer completion for a few months.
+
+* Language conversion. $150. Completed October 4, 2016. Issa still owes me some some language conversions when I need them, though I'll probably just incorporate his code ideas into WV and he won't need to do anything (other than maybe help if I have questions).
+
 === Touch payments ===
 
 Total: $320
 
 === Commission payments ===
 
-List updated December 12, 2016. May not be kept up-to-date continuously.
+List updated December 25, 2016. May not be kept up-to-date continuously.
 
-Total: $265.63
+Total: $268.63
 
 * Adrian Ulloa: Commission of 10% on $205 = $20.50
 
@@ -228,7 +234,7 @@ Total: $265.63
 
 * Alex K. Chen: Commission of 3% on $2491 = $74.73
 
-* Joey Malandra: Commission of 10% on $34 = $3.40
+* Joey Malandra: Commission of 10% on $64 = $6.40
 
 === Monthly payments ===
 

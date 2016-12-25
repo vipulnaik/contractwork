@@ -22,11 +22,11 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $623.80
+Grand total (this is taxable income for tax year 2016): $626.80
 
 Payment made: $613.20
 
-Pending payment: $10.60
+Pending payment: $13.60
 
 === Completed pages ===
 
@@ -70,7 +70,7 @@ Total so far: $10
 
 List updated December 15, 2016. May not be kept up-to-date continuously.
 
-Total: $119.30
+Total: $122.30
 
 * Amy Zhang: Commission of 15% on $80 = $12
 
@@ -86,7 +86,7 @@ Total: $119.30
 
 * Devansh Dwivedy: Commission of 10% on $125 = $12.50
 
-* Joey Malandra: Commission of 10% on $34 = $3.40
+* Joey Malandra: Commission of 10% on $64 = $6.40
 
 === Payment history ===
 
