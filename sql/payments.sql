@@ -110,5 +110,8 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Check','Alex K. Chen',NULL,'2015-12-26','2015-12-31','2016-01-06','2016-01-06',7100,7100,0,7100),
 
   # -- Milo King
-  ('Debit card via Facebook','Milo King',NULL,'2016-12-13','2016-12-13','3016-12-13','2016-12-13',205,205,0,205);
+  ('Debit card via Facebook','Milo King',NULL,'2016-12-13','2016-12-13','2016-12-13','2016-12-13',205,205,0,205),
+
+  # -- Joey Malandra
+  ('PayPal','Joey Malandra',NULL,'2016-12-25','2016-12-25','2016-12-25','2016-12-25',64,64,0,64);
 
