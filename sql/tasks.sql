@@ -214,7 +214,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 # -- Joey Malandra list
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'American Time Use Survey', 'https://en.wikipedia.org/wiki/American_Time_Use_Survey','2016-12-14',34,'Survey research','Prose',NULL);
+  ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'American Time Use Survey', 'https://en.wikipedia.org/wiki/American_Time_Use_Survey','2016-12-14',34,'Survey research','Prose',NULL),
+  ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'Marlowe–Crowne Social Desirability Scale', 'https://en.wikipedia.org/wiki/Marlowe%E2%80%93Crowne_Social_Desirability_Scale','2016-12-24',30,'Survey research','Prose',NULL);
 
 # -- Alex K. Chen list
 

@@ -16,16 +16,18 @@ For more in-depth stats, see https://contractwork.vipulnaik.com/worker.php?worke
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $34
+Grand total (this is taxable income for tax year 2016): $64
 
 Payment made: $0
 
-Net payment due: $34
+Net payment due: $64
 
 === Completed pages ===
 
 Total so far: $34
 
 * American Time Use Survey: $34. Completed December 14, 2016.
+
+* Marlowe–Crowne Social Desirability Scale: $30. Completed December 24, 2016.
 
 
