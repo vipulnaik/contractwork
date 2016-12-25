@@ -18,11 +18,11 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $3668
+Total money earned as income: $4036
 
-Payment made: $4026
+Payment made: $4668.37
 
-Net payment due: ($358)
+Net payment due: ($632.37)
 
 Note: Sebastian started work in April and took a break in June.
 
@@ -142,19 +142,31 @@ Total: $3478 (40 pages + 1 translation)
 
 == Additions to existing pages that are significantly different from new page creation ===
 
-Total: $190
+Total: $558
 
 * Adding IARC and some other references to existing pages: $5. Done August 28, 2016.
 
 * Revamp of timeline of malaria, adding lots of new events plus new graphs: $185. Completed December 6, 2016.
 
+* Second iteration of work on timeline of malaria, this time focused on reference cleanup and robustification: $80. Completed December 16, 2016.
+
+* Revamp of timeline of cholera, adding lots of new events plus new graphs, and reference robustification: $160. Completed December 19, 2016.
+
+* Filling in missing geographic locations for timeline of malaria, plus updating missing references in Wikimedia Commons: $10. Completed December 22, 2016.
+
+* Reference robustification for timeline of healthcare in China: $55. Completed December 23, 2016.
+
+* Reference robustification for timeline of healthcare in France: $33. Completed December 24, 2016.
+
+* Reference robustification for timeline of healthcare in Italy: $30. Completed December 24, 2016.
+
 === Payment schedule ===
 
-Total payment amount received: $3970
+Total payment amount received: $4604.37
 
-Total transaction cost $56 (7 transactions, $8 each)
+Total transaction cost $64 (8 transactions, $8 each)
 
-Total money: $4026
+Total money: $4668.37
 
 Each payment had a transaction fee of $8. Thus, the total amount we consider paid is the total of the payment amounts + ($8 * number of payments).
 
@@ -167,3 +179,5 @@ Each payment had a transaction fee of $8. Thus, the total amount we consider pai
 * Sixth payment of $661 was initiated on October 1, 2016 (Saturday) and completed on October 3, 2016 (Monday).
 
 * Seventh payment of $669 was initiated on November 5, 2016 (Saturday) and completed on November 7, 2016 (Monday).
+
+* Eighth payment of $634.37 was initiated on December 21, 2016 (Wednesday) and competed on December 22, 2016 (Thursday).

@@ -46,17 +46,17 @@ Note that after initial research, it may turn out for some of these pages that t
 
 Most of these are selected as red links from [https://en.wikipedia.org/wiki/Timeline_of_malaria Timeline of malaria].
 
-* EVIMalaR: A malaria research network funded by the European Commission, founded in 2014.
+* EVIMalaR (reserved for Sebastian): A malaria research network funded by the European Commission, founded in 2014.
 
-* Malaria Eradication Scientific Alliance (MESA): An organization founded in Spain in 2012 to conduct research on malaria elimination.
+* Malaria Eradication Scientific Alliance (MESA) (reserved for Devansh): An organization founded in Spain in 2012 to conduct research on malaria elimination.
 
 * Malaria World: An organization founded in Washington, D.C. in 2004 to provide free and unrestricted access to malaria.
 
-* Research Initiative on Traditional Antimalarial Methods (RITAM): Founded in 1999 as a collaboration between WHO, GIFTS, and Oxford. See some info on the [https://en.wikipedia.org/wiki/Global_Initiative_for_Traditional_Systems_of_Health GIFTS page].
+* Research Initiative on Traditional Antimalarial Methods (RITAM) (reserved for Sebastian): Founded in 1999 as a collaboration between WHO, GIFTS, and Oxford. See some info on the [https://en.wikipedia.org/wiki/Global_Initiative_for_Traditional_Systems_of_Health GIFTS page].
 
 * Multilateral Initiative on Malaria: An alliance of organizations that facilitates research on malaria, established 1997.
 
-* Global Malaria Control Strategy: Launched in 1992, confirmed by World Health Assembly in 1993. From the timeline of malaria Wikipedia page: "This new strategy is based largely upon the primary health care approach and requires flexible, cost-effective, sustainable, and decentralized programs based upon disease rather than parasite control, adapted to local conditions and responding to local needs. This approach becomes succesful and has positive impact in a number of countries such as Brazil, China, Solomon Islands, Philippines, Vanuatu, Vietnam, and Thailand. Its success demonstrates that malaria can be controlled by locally and currently available tools."
+* Global Malaria Control Strategy (reserved for Sebastian): Launched in 1992, confirmed by World Health Assembly in 1993. From the timeline of malaria Wikipedia page: "This new strategy is based largely upon the primary health care approach and requires flexible, cost-effective, sustainable, and decentralized programs based upon disease rather than parasite control, adapted to local conditions and responding to local needs. This approach becomes succesful and has positive impact in a number of countries such as Brazil, China, Solomon Islands, Philippines, Vanuatu, Vietnam, and Thailand. Its success demonstrates that malaria can be controlled by locally and currently available tools."
 
 * Malaria Foundation International: Founded 1992 to fight against malaria.
 
@@ -65,8 +65,6 @@ Some historical researchers (check for misspellings and existing pages; also che
 * Ignace Vinke
 
 * Marcel Lips
-
-* Francesco Torti
 
 * Sebastiano Baldi
 
