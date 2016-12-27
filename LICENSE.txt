@@ -1,0 +1,11 @@
+All code in this repository,
+https://github.com/vipulnaik/contractwork, written primarily by
+Vipul Naik with some contributions by Issa Rice, is released to the
+public domain via the CC0 license. Read
+https://creativecommons.org/publicdomain/zero/1.0/ for more details.
+
+The data contained in the repository (specifically, data on workers,
+tasks, payments due, and payments made) is not subject to copyright.
+
+Referenced or linked material, or code libraries used, may be subject
+to their own copyright restrictions.
