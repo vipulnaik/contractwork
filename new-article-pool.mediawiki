@@ -22,7 +22,7 @@ Many of these pages are listed because they are red-linked from [https://en.wiki
 
 * Health in All Policy: Approach to policy where considerations about health are incorporated even into sectors that don't directly deal with health.
 
-* 1988 Riga Conference: Start by reading about [https://en.wikipedia.org/wiki/Alma_Ata_Declaration Alma Ata], since Riga was a follow-up to that. Also mention Riga in Alma Ata's page.
+* 1988 Riga Conference (reserved for Sergey): Start by reading about [https://en.wikipedia.org/wiki/Alma_Ata_Declaration Alma Ata], since Riga was a follow-up to that. Also mention Riga in Alma Ata's page.
 
 * Oregon Health Services Commission: One of the earlier efforts at explicit priority-setting within health. Start by reading the row for it at [https://en.wikipedia.org/wiki/Priority-setting_in_global_health#History_of_organizations_and_programs_working_on_priority-setting priority-setting in global health], as well as the references used there.
 
