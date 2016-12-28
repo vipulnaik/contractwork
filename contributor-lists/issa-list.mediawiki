@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $7671.63
+Total money earned by doing work (taxable as income for 2016): $7711.63
 
 Reimbursement due (not taxable as income for 2016): $401.03
 
 Payment made: $5403 (+ $4000 check sent but not deposited)
 
-Net payment due: $2669.66 (excluding undeposited check)
+Net payment due: $2709.66 (excluding undeposited check)
 
 === Completed pages ===
 
@@ -92,7 +92,7 @@ max{$27, min{$50, 5 * (1 + ''N'')}}
 
 Here, ''N'' is supposed to represent number of new distinct grants. This is calculated as follows: at the end of each month, take the union of "all grants newly announced to the public by Open Phil during that month" and "all grants newly announced to the public by Good Ventures during that month". Then ''N'' is the number of grants in this set. Note that because Open Phil and Good Ventures do not immediately add grants to their databases as soon as they are made, the grants newly announced to the public during a month likely differ from the grants made during the same month.
 
-Total so far: $377
+Total so far: $417
 
 * Monthly update of Open Phil and Good Ventures grant lists (end of April): $50. Completed April 30, 2016.
 
@@ -109,6 +109,8 @@ Total so far: $377
 * Monthly update of Open Phil and GV grants database: $50 (for adding 18 new grants to Open Phil and 11 new grants to Good Ventures). Completed October 27, 2016.
 
 * Monthly update of Open Phil and GV grants database: $50 (for adding 4 new grants to Open Phil (plus data wrangling) and 8 new grants to Good Ventures, for a total of 9 or more distinct grants). Completed November 30, 2016.
+
+* Monthly update of Open Phil and GV grants database: $40 (for adding 7 new grants to Open Phil). Completed December 28, 2016.
 
 === IATI grants tables ===
 
