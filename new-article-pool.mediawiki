@@ -30,7 +30,7 @@ Many of these pages are listed because they are red-linked from [https://en.wiki
 
 * WHO-CHOICE (reserved for Sergey): A program that helps countries choose health system priorities.
 
-* Council on Health Research and Development: A council that reviewed health research and development from developing countries.
+* Council on Health Research and Development (reserved for Sergey): A council that reviewed health research and development from developing countries.
 
 * Lives Saved Tool (reserved for Chris): A tool created at Johns Hopkins University.
 
@@ -84,7 +84,7 @@ Some historical researchers (check for misspellings and existing pages; also che
 
 * Food Assistance for Disaster Relief (reserved for Sean): $40-70, depending on article quality and length. Maybe even more!
 
-* Nutrition Assistance Block Grants: $40-70, depending on article quality and length. Maybe even more!
+* Nutrition Assistance Block Grants (reserved for Sergey): $40-70, depending on article quality and length. Maybe even more!
 
 === Taxation ===
 
