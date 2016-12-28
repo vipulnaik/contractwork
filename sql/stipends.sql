@@ -9,8 +9,8 @@ create table stipends(
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
-  ('Issa Rice',700,'2016-02-01','2016-02-28',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',900,'2016-03-01','2016-03-31',NULL,'Deferred to LiftIgniter milestone'),
+  ('Issa Rice',700,'2016-02-01','2016-02-28','2016-12-28','Paid after long deferral as end-of-year award'),
+  ('Issa Rice',900,'2016-03-01','2016-03-31','2016-12-28','Paid after long deferral as end-of-year award'),
   ('Issa Rice',900,'2016-04-01','2016-04-30',NULL,'Deferred to LiftIgniter milestone'),
   ('Issa Rice',1000,'2016-05-01','2016-05-31',NULL,'Deferred to LiftIgniter milestone'),
   ('Issa Rice',1250,'2016-06-01','2016-06-30',NULL,'Deferred to LiftIgniter milestone'),
