@@ -44,8 +44,6 @@ Note that after initial research, it may turn out for some of these pages that t
 
 Most of these are selected as red links from [https://en.wikipedia.org/wiki/Timeline_of_malaria Timeline of malaria].
 
-* EVIMalaR (reserved for Sebastian): A malaria research network funded by the European Commission, founded in 2014.
-
 * Malaria Eradication Scientific Alliance (MESA) (reserved for Devansh): An organization founded in Spain in 2012 to conduct research on malaria elimination.
 
 * Malaria World: An organization founded in Washington, D.C. in 2004 to provide free and unrestricted access to malaria.
