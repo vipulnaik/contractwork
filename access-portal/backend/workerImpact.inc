@@ -2,7 +2,7 @@
 
 print '<h4 id="workerImpact">Worker impact: Wikipedia</h4>';
 
-$totalViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth_all where pagename in (select distinct pagename from wikipediaviews.pagetags where tag = 'Pages created by $worker') and drilldown in ('desktop','mobile-web','mobile-app') and language = 'en';";
+$totalViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where pagename in (select distinct pagename from wikipediaviews.pagetags where tag = 'Pages created by $worker') and drilldown in ('desktop','mobile-web','mobile-app') and language = 'en';";
 
 $totalViewsResult = $mysqli -> query($totalViewsQuery);
 
@@ -12,7 +12,7 @@ if ($totalViewsResult -> num_rows > 0) {
   $totalViewCount = $row['totalViews'];
 }
 
-$paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth_all where pagename in (select distinct task_receptacle from tasks where worker='$worker' and task_type = 'Wikipedia page creation') and drilldown in ('desktop','mobile-web','mobile-app') and language = 'en';";
+$paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where pagename in (select distinct task_receptacle from tasks where worker='$worker' and task_type = 'Wikipedia page creation') and drilldown in ('desktop','mobile-web','mobile-app') and language = 'en';";
 
 $paidViewsResult = $mysqli -> query($paidViewsQuery);
 
