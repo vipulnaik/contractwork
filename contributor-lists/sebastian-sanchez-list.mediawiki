@@ -18,17 +18,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $4036
+Total money earned as income: $4096
 
 Payment made: $4668.37
 
-Net payment due: ($632.37)
+Net payment due: ($692.37)
 
 Note: Sebastian started work in April and took a break in June.
 
 == Completed pages ==
 
-Total: $3478 (40 pages + 1 translation)
+Total: $3538 (42 pages + 1 translation)
 
 === Totals by page type ===
 
@@ -54,7 +54,7 @@ Total: $3478 (40 pages + 1 translation)
 
 * November 2016: $23 (1 page)
 
-* December 2016: $198 (3 pages)
+* December 2016: $258 (5 pages)
 
 === Pages ===
 
@@ -139,6 +139,10 @@ Total: $3478 (40 pages + 1 translation)
 * Global Initiative for Traditional Systems of Health: $38. Published November 30, 2016, finalized December 5, 2016.
 
 * Mario Pinotti: $20. Published December 9, 2016.
+
+* Therapeutice Specialis ad Febres Periodicas Perniciosas: $25. Published December 28, 2016.
+
+* European Virtual Institute for Malaria Research: $35. Published December 28, 2016, finalized December 29, 2016.
 
 == Additions to existing pages that are significantly different from new page creation ===
 
