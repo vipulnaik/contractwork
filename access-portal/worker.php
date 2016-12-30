@@ -15,6 +15,17 @@ $workerSelectResult = $mysqli -> query($workerSelectQuery);
 if ($workerSelectResult -> num_rows == 0) {
   print '<p>Sorry, we did not find a worker with this name in our public list of workers. Go back to the <a href="/">home page</a> for a full list of workers.</p>';
 } else {
+  print '<h4>Table of contents</h4>';
+  print '<ul>';
+  print '<li><a href="#workerInfo">Basic worker information</a></li>';
+  print '<li><a href="#workerPaymentsDueByTypeAndYear">Worker payments due by type and year</a></li>';
+  print '<li><a href="#workerPaymentsMadeByMethodAndYear">Worker payments made by method and year</a></li>';
+  print '<li><a href="#workerTaskPaymentsDueByTypeAndYear">Worker task payments due by type and year</a></li>';
+  print '<li><a href="#workerTaskPaymentsDueByTopicAndYear">Worker task payments due by topic and year</a></li>';
+  print '<li><a href="#workerTaskPaymentsDueByVenueAndYear">Worker task payments due by venue and year</a></li>';
+  print '<li><a href="#workerPaymentsDueAndMadeByMonth">Worker task payments due and made by month</a></li>';
+  print '<li><a href="#workerTaskList">Worker task list</a></li>';
+  print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;
   include("backend/workerInfo.inc");
@@ -25,6 +36,7 @@ if ($workerSelectResult -> num_rows == 0) {
   include("backend/workerTaskPaymentsDueByVenueAndYear.inc");
   include("backend/workerImpact.inc");
   include("backend/workerPaymentsDueByTypeAndMonth.inc");
+  include("backend/workerTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/workerPaymentsDueAndMadeByMonth.inc");
   include("backend/workerTaskList.inc");
   if ($totalCommissionOnTaskPayment > 0) {

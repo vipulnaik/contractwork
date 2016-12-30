@@ -3,7 +3,7 @@ $workerSelectQuery = "select * from workers where worker='$worker' and private =
 $workerSelectResult = $mysqli -> query($workerSelectQuery);
 $row = $workerSelectResult -> fetch_assoc();
 
-print '<h4>Basic worker information</h4>';
+print '<h4 id="workerInfo">Basic worker information</h4>';
 print '<table border="1">';
 print '<tr><th>Item</th><th>Value</th></tr>';
 print '<tr><td>Country</td><td>'.$row['country'];

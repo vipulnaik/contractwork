@@ -1,5 +1,5 @@
 <?php
-print '<h4>Task payments due by type and year</h4>';
+print '<h4 id="taskPaymentsDueByTypeAndYear">Task payments due by type and year</h4>';
 
 # Initialize values to zero
 global $totalPaymentForTaskType;

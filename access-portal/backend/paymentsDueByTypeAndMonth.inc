@@ -1,5 +1,5 @@
 <?php
-print '<h4>Payments due by type and month</h4>';
+print '<h4 id="paymentsDueByTypeAndMonth">Payments due by type and month</h4>';
 
 # Initialize values to zero
 foreach ($monthList as $month) {

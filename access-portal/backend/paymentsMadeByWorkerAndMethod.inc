@@ -1,5 +1,5 @@
 <?php
-print '<h4>Payments made by recipient worker and method</h4>';
+print '<h4 id="paymentsMadeByWorkerAndMethod">Payments made by recipient worker and method</h4>';
 
 # Initialize values to zero
 $totalPaymentMadeAcrossWorkers = 0;

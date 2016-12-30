@@ -1,5 +1,5 @@
 <?php
-print '<h4>Payments due by type and year</h4>';
+print '<h4 id="paymentsDueByTypeAndYear">Payments due by type and year</h4>';
 
 # Initialize values to zero
 foreach ($yearList as $year) {

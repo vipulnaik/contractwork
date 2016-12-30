@@ -1,6 +1,6 @@
 <?php
 if ($printTables == true) {
-  print '<h4>Worker task payments due by type and month</h4>';
+  print '<h4 id="workerTaskPaymentsDueByTypeAndMonth">Worker task payments due by type and month</h4>';
 }
 
 # Initialize values to zero
@@ -63,7 +63,7 @@ if ($printTables == true) {
           print '<td align="right">'.sprintf('%.2f',$paymentForTaskTypeAndMonth[$taskType][$month]).'</td>';
         }
       }
-      print '<td align="right">'.sprintf('%.2f',$totalTaskPaymentForMonth[$month]).'</td>';
+      print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentForMonth[$month]).'</strong></td>';
       print '</tr>';
     }
   }
@@ -73,8 +73,8 @@ if ($printTables == true) {
     if ($totalPaymentForTaskType[$taskType] > 0) {
       print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForTaskType[$taskType]).'</strong></td>';
     }
-    print '<td align="right"><strong>'.sprintf('%.2f',$grandTotalTaskPayment).'</strong></td>';
   }
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</strong></td>';
   print '</tr>';
   
   print '</table>';

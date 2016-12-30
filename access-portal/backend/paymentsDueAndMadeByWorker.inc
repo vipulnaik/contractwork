@@ -1,5 +1,5 @@
 <?php
-print '<h4>Payments due and payments made by worker</h4>';
+print '<h4 id="paymentsDueAndMadeByWorker">Payments due and payments made by worker</h4>';
 
 $totalReimbursementDueAcrossWorkers = 0;
 

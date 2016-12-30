@@ -1,6 +1,6 @@
 <?php
 if ($printTables == true) {
-  print '<h4>Worker payments due by type and year</h4>';
+  print '<h4 id="workerPaymentsDueByTypeAndYear">Worker payments due by type and year</h4>';
 }
 
 # Initialize values to zero

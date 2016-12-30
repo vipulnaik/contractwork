@@ -1,5 +1,5 @@
 <?php
-print '<h4>Payments made by method and year</h4>';
+print '<h4 id="paymentsMadeByMethodAndYear">Payments made by method and year</h4>';
 
 # Initialize values to zero
 $grandTotal = 0;

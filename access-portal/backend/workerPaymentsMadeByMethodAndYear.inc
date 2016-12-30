@@ -1,6 +1,6 @@
 <?php
 if ($printTables == true) {
-  print '<h4>Worker payments made by method and year</h4>';
+  print '<h4 id="workerPaymentsMadeByMethodAndYear">Worker payments made by method and year</h4>';
 }
 # Initialize values to zero
 $totalPaymentMadeToWorker = 0;

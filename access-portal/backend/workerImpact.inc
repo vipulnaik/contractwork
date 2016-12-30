@@ -1,6 +1,6 @@
 <?php
 
-print '<h4>Worker impact: Wikipedia</h4>';
+print '<h4 id="workerImpact">Worker impact: Wikipedia</h4>';
 
 $totalViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth_all where pagename in (select distinct pagename from wikipediaviews.pagetags where tag = 'Pages created by $worker') and drilldown in ('desktop','mobile-web','mobile-app') and language = 'en';";
 

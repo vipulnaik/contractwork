@@ -1,5 +1,5 @@
 <?php
-print '<h4>Task payments due by topic and year</h4>';
+print '<h4 id="taskPaymentsDueByTopicAndYear">Task payments due by topic and year</h4>';
 
 print '<p>Note that a single task may be assigned to multiple topics so a few tasks may be double-counted below. Also, the list below does not include all tasks.</p>';
 

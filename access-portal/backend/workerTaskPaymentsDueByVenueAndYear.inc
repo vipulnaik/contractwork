@@ -1,5 +1,5 @@
 <?php
-print '<h4>Worker task payments due by venue and year</h4>';
+print '<h4 id="workerTaskPaymentsDueByVenueAndYear">Worker task payments due by venue and year</h4>';
 
 # Initialize values to zero
 foreach($taskVenues as $taskVenue) {
