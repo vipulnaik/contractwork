@@ -19,7 +19,7 @@ for ($i = 0; $i < $royaltySelectResult -> num_rows; $i++) {
   print '<tr>';
   print '<td>'.$row['royalty_basis'].'</td>';
   print '<td>'.$row['royalty_scope'].'</td>';
-  print '<td align="right">'.sprintf('%.3f',$row['royalty_rate']).'</td>';
+  print '<td align="right">'.sprintf('%.5f',$row['royalty_rate']).'</td>';
   print '<td>'.$row['royalty_start_date'];
   if ($row['royalty_end_date'] == '') {
     print ' onward';
