@@ -15,7 +15,7 @@ print '<p>For more information on taxes, learn about <a href="https://en.wikiped
 
 print '<p><a href="/worker.php?worker='.urlencode($worker).'">Back to worker page</a>';
 
-foreach(array_reverse($yearList) as $year) {
+foreach(array_reverse(yearList) as $year) {
   if ($totalPaymentAwarded[$year] > 0 or $totalPaymentMadeByYear[$year] > 0) {
     print "<h4>Tax situation for year $year</h4>";
     $income = $totalPaymentAwarded[$year];
