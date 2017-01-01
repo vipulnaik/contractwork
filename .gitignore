@@ -1,4 +1,4 @@
-access-portal/backend/globalvariables/passwordFile.inc
+access-portal/backend/globalVariables/passwordFile.inc
 access-portal/logs/
 contributor-lists/private/
 sql/private/
