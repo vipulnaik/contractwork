@@ -20,9 +20,11 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 Total money earned as income: $4096
 
+Reimbursement due (not taxable as income for 2016): $30
+
 Payment made: $4668.37
 
-Net payment due: ($572.37)
+Net payment due: ($542.37)
 
 Note: Sebastian started work in April and took a break in June.
 
@@ -163,6 +165,12 @@ Total: $558
 * Reference robustification for timeline of healthcare in France: $33. Completed December 24, 2016.
 
 * Reference robustification for timeline of healthcare in Italy: $30. Completed December 24, 2016.
+
+=== Reimbursement payments ===
+
+Total: $30
+
+* $30 for payment to Daniel Alejandro Maidana
 
 === Payment schedule ===
 

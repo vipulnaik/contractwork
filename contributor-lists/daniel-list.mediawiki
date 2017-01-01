@@ -18,12 +18,16 @@ For more in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker
 
 Grand total (this is taxable income for year 2016): $30
 
-Payment made: $0
+Payment made: $30
 
-Net payment due: $30
+Net payment due: None
 
 === Completed pages ===
 
 Total so far: $30
 
 * Global Programme on AIDS: $30. Completed October 25, 2016. Note that Vipul needs to port to main space after cleanup. Userspace version is at https://en.wikipedia.org/wiki/User:DanielMB/Global_programme_on_AIDS
+
+=== Payments ===
+
+* $30 via Sebastian Sanchez on December 31, 2016.
