@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $9561.63
+Total money earned by doing work (taxable as income for 2016): $9714.55
 
 Reimbursement due (not taxable as income for 2016): $401.03
 
 Payment made: $5403 (+ $4000 check sent but not deposited)
 
-Net payment due: $4559.66 (excluding undeposited check)
+Net payment due: $4712.57 (excluding undeposited check)
 
 === Completed pages ===
 
@@ -206,7 +206,7 @@ Total so far: $2893
 
 Total: $320
 
-=== Commission payments ===
+=== Commission on task payments ===
 
 List updated December 25, 2016. May not be kept up-to-date continuously.
 
@@ -238,9 +238,13 @@ Total: $268.63
 
 * Joey Malandra: Commission of 10% on $64 = $6.40
 
-=== Monthly payments ===
+=== Commission on royalty payments ===
 
-Total so far: $3590
+* 3% on Alex K. Chen's 2016 royalty of $1764.10 = $52.92
+
+=== Stipend payments ===
+
+Total so far: $3690
 
 * February 2016 (awarded December 28, 2016, after deferral): $700
 
@@ -261,6 +265,8 @@ Total so far: $3590
 * November 2016: $250
 
 * December 2016: $250
+
+* All of 2016: $100 for managing Alex K. Chen
 
 === Reimbursement payments ===
 

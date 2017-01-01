@@ -88,7 +88,7 @@ Maximum acceptable delay: 4 weeks
 
 == Work and total money due ==
 
-Total due: $2501.50
+Total due: $4265.60
 
 === Completed pages ===
 
@@ -132,6 +132,16 @@ General work improving timelines: $200. Completed September 24, 2016.
 === Commissions on recruits ===
 
 Thomas Foster $105, 10% commission = $10.50
+
+=== Royalties ==
+
+Total: $1764.10
+
+* 297832 pageviews for pages made before 2015, at $0.0005/pageview, giving $148.92
+
+* 652067 pageviews for pages made in 2015, at $0.00125/pageview, giving $815.08
+
+* 400052 pageviews for pages made in 2016, at $0.002/pageview, giving $800.10
 
 == Work in 2015 ==
 

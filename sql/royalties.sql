@@ -30,5 +30,7 @@ insert into royalties(payee, payment, royalty_basis, royalty_scope, royalty_rate
   ('Alex K. Chen',31.39,'Wikipedia pageviews','Pages created before 2015',0.001,'2015-11-01','2015-11-30',NULL),
   ('Alex K. Chen',114.00,'Wikipedia pageviews','Pages created in 2015',0.002,'2015-11-01','2015-11-30',NULL),
   ('Alex K. Chen',32.32,'Wikipedia pageviews','Pages created before 2015',0.001,'2015-12-01','2015-12-31',NULL),
-  ('Alex K. Chen',129.82,'Wikipedia pageviews','Pages created in 2015',0.002,'2015-12-01','2015-12-31',NULL);
-
+  ('Alex K. Chen',129.82,'Wikipedia pageviews','Pages created in 2015',0.002,'2015-12-01','2015-12-31',NULL),
+  ('Alex K. Chen',148.92,'Wikipedia pageviews','Pages created before 2015',0.0005,'2016-01-01','2016-12-31','297832 pageviews, see https://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages+created+by+Alex+K.+Chen+before+2015&year=2016&language=en&drilldown=desktop'),
+  ('Alex K. Chen',815.08,'Wikipedia pageviews','Pages created in 2015',0.00125,'2016-01-01','2016-12-31','652067 pageviews, see https://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages+created+by+Alex+K.+Chen+in+2015&year=2016&language=en&drilldown=desktop'),
+  ('Alex K. Chen',800.10,'Wikipedia pageviews','Pages created in 2016',0.002,'2016-01-01','2016-12-31','400052 pageviews, see https://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages+created+by+Alex+K.+Chen+in+2016&year=2016&language=en&drilldown=desktop');
