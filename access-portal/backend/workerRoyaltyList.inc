@@ -4,7 +4,7 @@ $royaltySelectQuery = "select * from royalties where payee='$worker' order by ro
 
 $royaltySelectResult = $mysqli -> query($royaltySelectQuery);
 
-print '<h4>Full list of royalties in reverse chronological order ('.($stipendSelectResult -> num_rows).' entries)</h4>';
+print '<h4>Full list of royalties in reverse chronological order ('.($royaltySelectResult -> num_rows).' entries)</h4>';
 print '<table border="1">';
 print '<tr>';
 print '<th>Basis for royalty</th>';
