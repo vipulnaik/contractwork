@@ -27,7 +27,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',190,'2016-08-01','2016-08-31','2016-08-31','Pay less than usual 250 because of reduced work while in Japan'),
   ('Issa Rice',250,'2016-09-01','2016-09-30','2016-09-30',NULL),
   ('Issa Rice',250,'2016-10-01','2016-10-31','2016-10-31',NULL),
-  ('Issa Rice',250,'2016-11-01','2016-11-30','2016-11-30',NULL);
+  ('Issa Rice',250,'2016-11-01','2016-11-30','2016-11-30',NULL),
+  ('Issa Rice',250,'2016-12-01','2016-12-31','2016-12-31',NULL);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');
