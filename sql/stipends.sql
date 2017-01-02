@@ -18,7 +18,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',960,'2016-08-01','2016-08-31',NULL,'Deferred to LiftIgniter milestone; pay less than usual 1250 because of reduced work while in Japan'),
   ('Issa Rice',1250,'2016-09-01','2016-09-30',NULL,'Deferred to LiftIgniter milestone'),
   ('Issa Rice',1250,'2016-10-01','2016-10-31',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',750,'2016-11-01','2016-11-30',NULL,'Deferred to LiftIgniter milestone');
+  ('Issa Rice',750,'2016-11-01','2016-11-30',NULL,'Deferred to LiftIgniter milestone'),
+  ('Issa Rice',750,'2016-12-01','2016-12-31',NULL,'Deferred to LiftIgniter milestone');
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Issa Rice',300,'2016-05-01','2016-05-31','2016-05-31',NULL),

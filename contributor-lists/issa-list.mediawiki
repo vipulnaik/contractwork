@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $9714.55
+Total money earned by doing work (taxable as income for 2016): $9784.55
 
 Reimbursement due (not taxable as income for 2016): $401.03
 
 Payment made: $5403 (+ $4000 check sent but not deposited)
 
-Net payment due: $4712.57 (excluding undeposited check)
+Net payment due: $4782.57 (excluding undeposited check)
 
 === Completed pages ===
 
@@ -136,7 +136,7 @@ Total so far: $250
 
 === Other payments, including improvements to existing pages and non-Wikipedia content creation work ===
 
-Total so far: $2893
+Total so far: $2963
 
 * US tax investigation for compliance requirements for contract workers: $150. Completed January 18, 2016.
 
@@ -201,6 +201,8 @@ Total so far: $2893
 * Work on the great decline post. The post itself is shelved for now. $925. Completed October 3, 2016. Payment added December 25, 2016, because the original plan was to add payment after completion of the work, but I decided to defer completion for a few months.
 
 * Language conversion. $150. Completed October 4, 2016. Issa still owes me some some language conversions when I need them, though I'll probably just incorporate his code ideas into WV and he won't need to do anything (other than maybe help if I have questions).
+
+* Researcher profiles: $70. Completed part sponsored by Vipul by December 31, 2016, though project officially stopped January 1, 2017.
 
 === Touch payments ===
 
@@ -294,7 +296,7 @@ Total payment received for 2016: $5044 (+ $4000 pending)
 
 This is a record of payments that will be made later, conditional to some milestones.
 
-Total so far: $8610
+Total so far: $9360
 
 * April 2016: $900
 
@@ -311,6 +313,8 @@ Total so far: $8610
 * October 2016: $1250
 
 * November 2016: $750
+
+* December 2016: $750
 
 == Work in 2015 ==
 
