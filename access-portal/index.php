@@ -6,7 +6,7 @@ include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 print '<body>';
 print '<h3>Contract work for Vipul Naik</h3>';
-print '<p>This is an online portal with a summary and various exploration options for contract work done for <a href="http://vipulnaik.com">Vipul Naik</a>. The git repository with the code for this portal, as well as all the underlying data, is <a href="https://github.com/vipulnaik/contractwork">available on GitHub</a>. All payment amounts are in current United States dollars (USD).</p>';
+print '<p>This is an online portal with a summary and various exploration options for contract work done for <a href="http://vipulnaik.com">Vipul Naik</a>. The git repository with the code for this portal, as well as all the underlying data (with the exception of private payments, that account for about 1% of total payments), is <a href="https://github.com/vipulnaik/contractwork">available on GitHub</a>. All payment amounts are in current United States dollars (USD).</p>';
 
 print '<h4>Table of contents</h4>';
 print '<ul>';
