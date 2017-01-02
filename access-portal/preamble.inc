@@ -1,0 +1,8 @@
+<p>This is an online portal with a summary and various exploration options for contract work done for <a href="https://vipulnaik.com">Vipul Naik</a>. The git repository with the code for this portal, as well as all the underlying data (with the exception of private payments, that account for about 1% of total payments), is <a href="https://github.com/vipulnaik/contractwork">available on GitHub</a>. All payment amounts are in current United States dollars (USD).</p>
+<p>Some other writings (mostly by Vipul Naik) that cover this project and its predecessors are listed below.</p>
+<ul>
+<li><a href="https://vipulnaik.com/sponsored-wikipedia-editing/">Sponsored Wikipedia editing</a> by Vipul Naik, giving information on the early history of the project.</li>
+<li><a href="http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/">Looking for Wikipedia article writers (topics include many of interest to effective altruists)</a> by Vipul Naik on the Effective Altruism Forum, April 17, 2016. The article helped recruit key contributors such as <a href="/worker.php?worker=Jesse+Clifton">Jesse Clifton</a> and <a href="/worker.php?worker=Sebastian+Sanchez">Sebastian Sanchez</a>.</li>
+<li><a href="https://www.facebook.com/vipulnaik.r/posts/10208522775642817">Facebook post</a> by Vipul Naik, May 28, 2016, linking to the aforementioned article and advertising content creation again; this post was the impetus for Ethan Bashkansky to recruit many other workers.</li>
+<li><a href="http://effective-altruism.com/ea/150/looking_for_global_healthrelated_wikipedia/">Looking for global health-related Wikipedia contributors</a> by Vipul Naik on the Effective Altruism Forum, December 16, 2016.</li>
+</ul>
