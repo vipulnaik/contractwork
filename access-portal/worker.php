@@ -7,6 +7,7 @@ if (!empty($_REQUEST['worker'])) {
   $worker = $_REQUEST['worker'];
 }
 print "<title>$worker work details: Contract work for Vipul Naik</title>";
+include_once('analytics.inc');
 print '</head>';
 print '<body>';
 print "<h3>Contract work by $worker for Vipul Naik</h3>";
