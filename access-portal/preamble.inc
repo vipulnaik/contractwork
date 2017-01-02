@@ -1,5 +1,5 @@
 <p>This is an online portal with a summary and various exploration options for contract work done for <a href="https://vipulnaik.com">Vipul Naik</a>. The git repository with the code for this portal, as well as all the underlying data (with the exception of private payments, that account for about 1% of total payments), is <a href="https://github.com/vipulnaik/contractwork">available on GitHub</a>. All payment amounts are in current United States dollars (USD).</p>
-<p>Some other writings (mostly by Vipul Naik) that cover this project and its predecessors are listed below.</p>
+<p>Some other writings (currently all by Vipul Naik) that cover this project and its predecessors are listed below.</p>
 <ul>
 <li><a href="https://vipulnaik.com/sponsored-wikipedia-editing/">Sponsored Wikipedia editing</a> by Vipul Naik, giving information on the early history of the project.</li>
 <li><a href="http://effective-altruism.com/ea/w5/looking_for_wikipedia_article_writers_topics/">Looking for Wikipedia article writers (topics include many of interest to effective altruists)</a> by Vipul Naik on the Effective Altruism Forum, April 17, 2016. The article helped recruit key contributors such as <a href="/worker.php?worker=Jesse+Clifton">Jesse Clifton</a> and <a href="/worker.php?worker=Sebastian+Sanchez">Sebastian Sanchez</a>.</li>
