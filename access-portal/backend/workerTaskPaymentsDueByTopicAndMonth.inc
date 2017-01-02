@@ -34,7 +34,7 @@ for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
       $totalPaymentForTopic[$topic] += $row['payment']; 
     }
   }
-  $totalTaskPaymentForMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
+  $totalTaskPaymentForMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] += $row['payment'];
   $totalTaskPayment += $row['payment'];
 }
 
