@@ -323,7 +323,14 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of malaria','https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-12-22',10,'Global health/diseases','Timeline','Filling in missing geographic locations plus updating pictures data in Wikimedia Commons'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in China','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_China','2016-12-23',55,'Country healthcare','Timeline','Reference robustification with focus on organizations'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in France','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_France','2016-12-24',33,'Country healthcare','Timeline','Reference robustification with focus on organizations'),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in Italy','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Italy','2016-12-24',30,'Country healthcare','Timeline','Reference robustification with focus on organizations');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in Italy','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Italy','2016-12-24',30,'Country healthcare','Timeline','Reference robustification with focus on organizations'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of tuberculosis','https://en.wikipedia.org/wiki/Timeline_of_tuberculosis','2016-11-22',5,'Global health/diseases','Timeline','Graph added'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in India','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_India','2016-12-31',27,'Country healthcare','Timeline','Reference robustification plus ten new hospitals added'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in Germany','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Germany','2017-01-02',30,'Country healthcare','Timeline','Reference robustification'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in Japan','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Japan','2017-01-02',35,'Country healthcare','Timeline','Reference robustification'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of leukemia','https://en.wikipedia.org/wiki/Timeline_of_leukemia','2017-01-01',5,'Global health/diseases','Timeline','Graph added'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Multiple timelines: healthcare in Japan, India, Germany, Ethiopia','N/A','2017-01-02',20,'Country healthcare','Timeline','Life expectancy graphs added');
+
 
 # -- Issa Rice's Open Philanthropy Project periodic grant updates
 
