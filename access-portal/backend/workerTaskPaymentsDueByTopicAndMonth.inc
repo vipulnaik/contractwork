@@ -1,6 +1,6 @@
 <?php
 if ($printTables == true) {
-  print '<h4 id="workerTaskPaymentsDueByTypeAndMonth">Worker task payments due by type and month</h4>';
+  print '<h4 id="workerTaskPaymentsDueByTopicAndMonth">Worker task payments due by topic and month</h4>';
   print '<p>Note that a single task may be assigned to multiple topics so a few tasks may be double-counted below. Also, the list below does not include all tasks.</p>';
 }
 
@@ -24,17 +24,17 @@ $totalTaskPayment = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select task_type, year(completion_date) as year,month(completion_date) as month, coalesce(sum(payment), 0) as payment from tasks where worker='$worker' group by $groupingString year(completion_date), month(completion_date);";
+$taskSelectQuery = "select $columnsString year(completion_date) as year,month(completion_date) as month, coalesce(sum(payment), 0) as payment from tasks where worker='$worker' group by $groupingString year(completion_date), month(completion_date);";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   foreach ($topics as $topic) {
     if ($row['topic:' . $topic] == 1) {
       $paymentForTopicAndMonth[$topic][$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
-      $totalPaymentForTopic += $row['payment']; 
+      $totalPaymentForTopic[$topic] += $row['payment']; 
     }
   }
-  $totalTaskPaymentForMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
+  $totalTaskPaymentForMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] += $row['payment'];
   $totalTaskPayment += $row['payment'];
 }
 
@@ -67,8 +67,8 @@ if ($printTables == true) {
   foreach (array_reverse($monthList) as $month) {
     if ($totalTaskPaymentForMonth[$month] > 0) {
       print "<tr><td>$month</td>";
-      foreach ($topics as $topics) {
-        if ($totalPaymentForTopics[$topic] > 0) {
+      foreach ($topics as $topic) {
+        if ($totalPaymentForTopic[$topic] > 0) {
           print '<td align="right">'.sprintf('%.2f',$paymentForTopicAndMonth[$topic][$month]).'</td>';
         }
       }

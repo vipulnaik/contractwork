@@ -27,6 +27,8 @@ if ($workerSelectResult -> num_rows == 0) {
   print '<li><a href="#workerImpact">Worker impact</a></li>';
   print '<li><a href="#workerPaymentsDueByTypeAndMonth">Worker payments due by type and month</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByTypeAndMonth">Worker task payments due by type and month</a></li>';
+  print '<li><a href="#workerTaskPaymentsDueByTopicAndMonth">Worker task payments due by topic and month</a></li>';
+  print '<li><a href="#workerTaskPaymentsDueByVenueAndMonth">Worker task payments due by venue and month</a></li>';
   print '<li><a href="#workerPaymentsDueAndMadeByMonth">Worker task payments due and made by month</a></li>';
   print '<li><a href="#workerTaskList">Worker task list</a></li>';
   print '</ul>';
@@ -41,6 +43,8 @@ if ($workerSelectResult -> num_rows == 0) {
   include("backend/workerImpact.inc");
   include("backend/workerPaymentsDueByTypeAndMonth.inc");
   include("backend/workerTaskPaymentsDueByTypeAndMonth.inc");
+  include("backend/workerTaskPaymentsDueByTopicAndMonth.inc");
+  include("backend/workerTaskPaymentsDueByVenueAndMonth.inc");
   include("backend/workerPaymentsDueAndMadeByMonth.inc");
   include("backend/workerTaskList.inc");
   if ($totalCommissionOnTaskPayment > 0) {
