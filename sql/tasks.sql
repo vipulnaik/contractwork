@@ -162,7 +162,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page creation','Health systems strengthening','https://en.wikipedia.org/wiki/Health_systems_strengthening','2016-06-17',43,'Health systems/Global health', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Professional consensus of economics','https://en.wikipedia.org/wiki/Professional_consensus_of_economics', '2016-07-10',67,'Economics', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Priority-setting in global health','https://en.wikipedia.org/wiki/Priority-setting_in_global_health','2016-07-27',155,'Health systems/Global health', 'Prose', NULL),
-  ('Issa Rice','Wikipedia','Wikipedia page creation','Initiative on Global Markets','https://en.wikipedia.org/wiki/Initiative_on_Global_Markets', '2016-10-05',30,'Economics', 'Prose', NULL);
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Initiative on Global Markets','https://en.wikipedia.org/wiki/Initiative_on_Global_Markets', '2016-10-05',30,'Economics', 'Prose', NULL),
+  # -- 2017 payments
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Timeline of digital preservation','https://en.wikipedia.org/wiki/Timeline_of_digital_preservation', '2017-01-04', 90, 'Digital preservation','Timeline', 'There is still more to port over from https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_digital_preservation and additional payment will be added when the porting is complete');
 
 
 # -- Jesse Clifton page creation
