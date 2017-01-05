@@ -18,7 +18,7 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 Many of these pages are listed because they are red-linked from [https://en.wikipedia.org/wiki/Priority-setting_in_global_health Priority-setting in global health].
 
-* Selective primary healthcare (reserved for Veronica): Expand on the [https://en.wikipedia.org/wiki/Primary_healthcare#Selective_PHC section on the topic] and make this its own page.
+* Selective primary healthcare: Expand on the [https://en.wikipedia.org/wiki/Primary_healthcare#Selective_PHC section on the topic] and make this its own page.
 
 * Health in All Policy: Approach to policy where considerations about health are incorporated even into sectors that don't directly deal with health.
 
