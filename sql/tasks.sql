@@ -196,7 +196,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in France','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_France','2016-09-06',70,'Animal welfare by country','Prose', NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Denmark','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Denmark','2016-09-13',45,'Animal welfare by country','Prose', NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in the Netherlands','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_the_Netherlands','2016-11-20',55,'Animal welfare by country','Prose', NULL),
-  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Switzerland','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Switzerland','2016-11-20',60,'Animal welfare by country','Prose', NULL);
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Switzerland','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Switzerland','2016-11-20',60,'Animal welfare by country','Prose', NULL),
+  ('Jesse Clifton','Wikipedia','Wikipedia page creation','Sentience Politics','https://en.wikipedia.org/wiki/Sentience_Politics','2017-01-08',40,'Animal welfare/charity','Prose','Topic and work were done on own initiative; payment covered as it is part of coverage of animal welfare orgs');
 
 # -- Michael Royzen list
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
