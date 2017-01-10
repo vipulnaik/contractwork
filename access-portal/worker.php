@@ -29,7 +29,7 @@ if ($workerSelectResult -> num_rows == 0) {
   print '<li><a href="#workerTaskPaymentsDueByTypeAndMonth">Worker task payments due by type and month</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByTopicAndMonth">Worker task payments due by topic and month</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByVenueAndMonth">Worker task payments due by venue and month</a></li>';
-  print '<li><a href="#workerPaymentsDueAndMadeByMonth">Worker task payments due and made by month</a></li>';
+  print '<li><a href="#workerPaymentsDueAndMadeByMonth">Worker payments due and made by month</a></li>';
   print '<li><a href="#workerTaskList">Worker task list</a></li>';
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
