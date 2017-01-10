@@ -76,9 +76,9 @@ Total money earned by doing work (taxable as income for 2016): $9784.55
 
 Reimbursement due (not taxable as income for 2016): $401.03
 
-Payment made: $5403 (+ $4000 check sent but not deposited)
+Payment made: $5403
 
-Net payment due: $4782.57 (excluding undeposited check)
+Net payment due: $4782.57
 
 === Completed pages ===
 
