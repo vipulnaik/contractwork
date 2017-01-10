@@ -1,8 +1,8 @@
 create table tasks(
   task_id int(11) not null auto_increment primary key, 
   worker varchar(40),
-  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','None') default 'Wikipedia',
-  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people'),
+  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'None') default 'Wikipedia',
+  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry'),
   task_receptacle varchar(100) NOT NULL,
   task_receptacle_url varchar(100) NOT NULL,
   completion_date date NOT NULL,
@@ -410,5 +410,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','LessWrong','Review','Wikipedia usage survey results', 'http://lesswrong.com/r/discussion/lw/odb/wikipedia_usage_survey_results/','2016-12-24',55,'Wikipedia','Prose with tables','Reviewed changes by Vipul, fixed a lot of rendering issues, and provided frank feedback on post'),
   ('Issa Rice','LessWrong','Preliminary research','Revisiting the great decline in Wikipedia pageviews','https://github.com/vipulnaik/working-drafts/blob/master/wikipediaviews/revisiting-the-great-decline-in-wikipedia-pageviews.md','2016-10-03',925,'Wikipedia','Prose with tables and charts and code','Started on it at ~$100/day pay, slowed down, then we realized a lot more toolkit improvements are needed before we can push out the post'),
   ('Issa Rice','Wikipedia Views','Coding','Tag entries in different languages','https://wikipediaviews.org','2016-10-04',150,'Wikipedia Views','Coding with data output','Wrote code to translate tags en masse to new languages. Code still exists, plan is now to incorporate into Wikipedia Views itself to avoid need to run separate code'),
-  ('Issa Rice','None','Preliminary research','Researcher profiles','N/A as it was private work','2016-12-31',70,'Research strategy','Prose','Officially stopped project 2017-01-01 but part paid by Vipul was finished by 2016-12-31');
+  ('Issa Rice','None','Preliminary research','Researcher profiles','N/A as it was private work','2016-12-31',70,'Research strategy','Prose','Officially stopped project 2017-01-01 but part paid by Vipul was finished by 2016-12-31'),
+  # -- 2017 payments
+  ('Issa Rice','Donations list website','Data entry','Donations','https://donations.vipulnaik.com','2017-01-08',155,'Effective altruism/donation history','Structured data','Designed SQL tables and provided initial set of rows to insert');
 
