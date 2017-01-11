@@ -10,8 +10,6 @@ Some already existing drafts need a little bit cleanup before they can be publis
 
 === Research methods: recruitment, surveys, etc. ===
 
-* 24-hour diet recall (reserved for Joey): $25-50: A similar article as https://en.wikipedia.org/wiki/Food_frequency_questionnaire with parallel set of references
-
 * Food record(s) (aka food diary), two main types: weighted food records and estimated food record: Similar to https://en.wikipedia.org/wiki/Food_frequency_questionnaire with parallel set of references
 
 === Global (and national/local) health: not specific to any disease ===
