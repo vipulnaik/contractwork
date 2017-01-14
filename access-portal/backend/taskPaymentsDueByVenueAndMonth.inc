@@ -42,7 +42,9 @@ usort($taskVenues,"cmpTaskVenuesForMonth");
 # Then print data by month
 
 # Print table
-print '<table border="1">';
+print "\n";
+print '<table id="myTableTaskPaymentsDueByVenueAndMonth" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr><th>Month</th>';
 foreach ($taskVenues as $taskVenue) {
   if ($totalPaymentForTaskVenue[$taskVenue] > 0) {
@@ -51,6 +53,7 @@ foreach ($taskVenues as $taskVenue) {
 }
 print "<th>Total across task venues</th>";
 print '</tr>';
+print "</thead>\n<tbody>\n";
 
 foreach (array_reverse($monthList) as $month) {
   if ($totalTaskPaymentForMonth[$month] > 0) {
@@ -64,7 +67,7 @@ foreach (array_reverse($monthList) as $month) {
     print '</tr>';
   }
 }
-
+print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across months</strong></td>';
 foreach($taskVenues as $taskVenue) {
   if ($totalPaymentForTaskVenue[$taskVenue] > 0) {
@@ -74,6 +77,6 @@ foreach($taskVenues as $taskVenue) {
 print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</strong></td>';
 print '</tr>';
 
-print '</table>';
+print "</tfoot>\n</table>\n";
 
 ?>

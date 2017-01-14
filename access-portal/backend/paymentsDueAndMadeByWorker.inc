@@ -31,13 +31,16 @@ usort($workerList,"cmpWorkersByPendingPayment");
 
 
 # Print table
-print '<table border="1">';
+print "\n";
+print '<table id="myTablePaymentsDueAndMadeByWorker" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr><th>Worker</th>';
 print '<th>Total payment awarded</th>';
 print '<th>Reimbursement due</th>';
 print '<th>Total payment made</th>';
 print '<th>Pending payment</th>';
 print '</tr>';
+print "</thead>\n<tbody>\n";
 
 $starting = true;
 foreach ($workerList as $worker) {
@@ -49,6 +52,8 @@ foreach ($workerList as $worker) {
   print '</tr>';
 }
 
+print "</tbody>\n<tfoot>\n";
+
 print '<tr><td><strong>Total across workers</strong></td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossWorkers).'</strong></td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalReimbursementDueAcrossWorkers).'</strong></td>';
@@ -56,5 +61,5 @@ print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeAcrossWorkers
 print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossWorkers + $totalReimbursementDueAcrossWorkers - $totalPaymentMadeAcrossWorkers).'</strong></td>';
 print '</tr>';
 
-print '</table>';
+print "</tfoot>\n</table>\n";
 ?>
