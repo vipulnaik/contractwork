@@ -16,8 +16,14 @@ print '<script>$(document).ready(function()
         $("#myTableTaskPaymentsDueByTypeAndYear").tablesorter();
         $("#myTableTaskPaymentsDueByTopicAndYear").tablesorter();
         $("#myTableTaskPaymentsDueByVenueAndYear").tablesorter();
-        $("#myTableTaskPaymentsDueByWorkerAndType").tablesorter();
-        $("#myTableTaskPaymentsMadeByWorkerAndMethod").tablesorter();
+        $("#myTablePaymentsDueByWorkerAndType").tablesorter();
+        $("#myTablePaymentsMadeByWorkerAndMethod").tablesorter();
+        $("#myTablePaymentsDueAndMadeByWorker").tablesorter();
+        $("#myTablePaymentsDueByTypeAndMonth").tablesorter();
+        $("#myTableTaskPaymentsDueByTypeAndMonth").tablesorter();
+        $("#myTableTaskPaymentsDueByTopicAndMonth").tablesorter();
+        $("#myTableTaskPaymentsDueByVenueAndMonth").tablesorter();
+        $("#myTablePaymentsDueAndMadeByMonth").tablesorter();
     }
 ); </script>'."\n";
 print '<h3>Contract work for Vipul Naik</h3>';

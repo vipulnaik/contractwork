@@ -24,12 +24,15 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
 }
 
 # Print table
-print '<table border="1">';
+print "\n";
+print '<table id="myTablePaymentsMadeByWorkerAndMethod" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr><th>Worker</th>';
 foreach ($paymentMethods as $paymentMethod) {
   print "<th>$paymentMethod payments made</th>";
 }
 print '<th>Total across payment methods</th></tr>';
+print "</thead>\n<tbody>\n";
 foreach ($workerList as $worker) {
   print '<tr><td><a href="http://contractwork.vipulnaik.com/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
   foreach ($paymentMethods as $paymentMethod) {
@@ -37,6 +40,7 @@ foreach ($workerList as $worker) {
   }
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeToWorker[$worker]).'</strong></td></tr>';
 }
+print "<tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across workers</strong></td>';
 foreach ($paymentMethods as $paymentMethod) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod]).'</strong></td>';
@@ -44,5 +48,5 @@ foreach ($paymentMethods as $paymentMethod) {
 print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeAcrossWorkers).'</strong></td>';
 print '</tr>';
 
-print '</table>';
+print "</tfoot>\n</table>\n";
 ?>

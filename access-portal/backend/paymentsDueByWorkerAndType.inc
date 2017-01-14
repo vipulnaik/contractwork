@@ -95,7 +95,9 @@ function cmpWorkers($firstWorker, $secondWorker) {
 usort($workerList,"cmpWorkers");
 
 # Print table
-print '<table border="1">';
+print "\n";
+print '<table id="myTablePaymentsDueByWorkerAndType" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr><th>Worker</th>';
 print '<th>Task payments</th>';
 print '<th>Commissions on task payments</th>';
@@ -106,7 +108,7 @@ print '<th>Total payment awarded</th>';
 print '<th>Stipend payments (deferred)</th>';
 print '<th>Total payment</th>';
 print '</tr>';
-
+print "</thead>\n<tbody>\n";
 foreach ($workerList as $worker) {
   print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
   print '<td align="right">'.sprintf('%.2f',$taskPayment[$worker]).'</td>';
@@ -120,6 +122,7 @@ foreach ($workerList as $worker) {
   print '</tr>';
 }
 
+print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across workers</strong></td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</td>';
@@ -131,5 +134,5 @@ print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[0]).'</td
 print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossWorkers).'</td>';
 print '</tr>';
 
-print '</table>';
+print "</tfoot>\n</table>\n";
 ?>
