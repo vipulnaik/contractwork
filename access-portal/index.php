@@ -11,8 +11,13 @@ include_once("backend/globalVariables/lists.inc");
 print '<body>';
 print '<script>$(document).ready(function()
     {
-        $("#myTable").tablesorter();
-        $("#myTable2").tablesorter();
+        $("#myTablePaymentsDueByTypeAndYear").tablesorter();
+        $("#myTablePaymentsMadeByMethodAndYear").tablesorter();
+        $("#myTableTaskPaymentsDueByTypeAndYear").tablesorter();
+        $("#myTableTaskPaymentsDueByTopicAndYear").tablesorter();
+        $("#myTableTaskPaymentsDueByVenueAndYear").tablesorter();
+        $("#myTableTaskPaymentsDueByWorkerAndType").tablesorter();
+        $("#myTableTaskPaymentsMadeByWorkerAndMethod").tablesorter();
     }
 ); </script>'."\n";
 print '<h3>Contract work for Vipul Naik</h3>';

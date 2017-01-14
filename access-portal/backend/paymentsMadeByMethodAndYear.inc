@@ -34,27 +34,31 @@ function cmpPaymentMethods($firstPaymentMethod, $secondPaymentMethod) {
 usort($paymentMethods,"cmpPaymentMethods");
 
 # Print table
-print '<table border="1">';
-print '<tr><th>Payment method</th>';
+print "\n";
+print '<table id="myTablePaymentsMadeByMethodAndYear" class="tablesorter">'."\n";
+print "<thead>\n";
+print "<tr>\n    <th>Payment method</th>\n";
 foreach (array_reverse($yearList) as $year) {
-  print "<th>Total in year $year</th>";
+  print "    <th>Total in year $year</th>\n";
 }
-print '<th>Total across years</th></tr>';
+print "    <th>Total across years</th>\n</tr>\n";
+print "</thead>\n<tbody>\n";
 foreach ($paymentMethods as $paymentMethod) {
   if ($totalPaymentByMethod[$paymentMethod] > 0) {
-    print "<tr><td>$paymentMethod</td>";
+    print "<tr>\n    <td>$paymentMethod</td>\n";
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$payment[$paymentMethod][$year]).'</td>';
+      print '    <td align="right">'.sprintf('%.2f',$payment[$paymentMethod][$year])."</td>\n";
     }
-    print '<td align="right">'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod]).'</td></tr>';
+    print '    <td align="right">'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod])."</td>\n</tr>\n";
   }
 }
-print '<tr><td><strong>Total across payment methods</strong></td>';
+print "</tbody>\n<tfoot>\n";
+print "<tr>\n    <td><strong>Total across payment methods</strong></td>\n";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentByYear[$year]).'</strong></td>';
+  print '    <td align="right"><strong>'.sprintf('%.2f',$totalPaymentByYear[$year])."</strong></td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
-print '</tr>';
-
-print '</table>';
+print '    <td align="right"><strong>'.sprintf('%.2f',$grandTotal)."</strong></td>\n";
+print "</tr>\n";
+print "</tfoot>\n";
+print "</table>\n";
 ?>
