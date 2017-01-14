@@ -7,10 +7,13 @@ foreach ($monthList as $month) {
   $totalTaskPayment = 0;
   $commissionOnTaskPayment[$month] = 0;
   $totalCommissionOnTaskPayment = 0;
-  $stipendPayment[$month][0] = 0;
-  $totalStipendPayment[0] = 0;
-  $stipendPayment[$month][1] = 0;
-  $totalStipendPayment[1] = 0;
+  $stipendPaymentAwardedInSameMonth[$month] = 0;
+  $totalStipendPaymentAwardedInSameMonth = 0;
+  $stipendPaymentAwardedFromEarlierMonth[$month] = 0;
+  $stipendPaymentAwardedInLaterMonth[$month] = 0;
+  $totalStipendPaymentStraddlingMonths = 0;
+  $unawardedStipendPayment[$month] = 0;
+  $totalUnawardedStipendPayment = 0;
   $royaltyPayment[$month] = 0;
   $totalRoyaltyPayment = 0;
   $commissionOnRoyaltyPayment[$month] = 0;
@@ -40,12 +43,21 @@ for ($i = 0; $i < $commissionOnTaskSelectResult -> num_rows; $i++) {
 
 # Get stipend payments
 
-$stipendSelectQuery = "select year(stipend_end_date) as year, month(stipend_end_date) as month, (stipend_award_date is not null) as awarded, coalesce(sum(payment), 0) as payment  from stipends group by year(stipend_end_date), month(stipend_end_date), (stipend_award_date is not null);";
+$stipendSelectQuery = "select year(stipend_award_date) as awardYear, month(stipend_award_date) as awardMonth, year(stipend_end_date) as year, month(stipend_end_date) as month, (stipend_award_date is not null) as awarded, coalesce(sum(payment), 0) as payment  from stipends group by year(stipend_award_date), month(stipend_award_date), year(stipend_end_date), month(stipend_end_date), (stipend_award_date is not null);";
 $stipendSelectResult = $mysqli -> query($stipendSelectQuery);
 for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
   $row = $stipendSelectResult -> fetch_assoc();
-  $stipendPayment[$row['year'] . '-' . sprintf('%02d',$row['month'])][$row['awarded']] = $row['payment'];
-  $totalStipendPayment[$row['awarded']] += $row['payment'];
+  if ($row['awarded'] == 1 and $row['awardYear'] == $row['year'] and $row['awardMonth'] == $row['month']) {
+    $stipendPaymentAwardedInSameMonth[$row['year'] . '-' . sprintf('%02d', $row['month'])] += $row['payment'];
+    $totalStipendPaymentAwardedInSameMonth += $row['payment'];
+  } else if ($row['awarded'] == 1) {
+    $stipendPaymentAwardedInLaterMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] += $row['payment'];
+    $stipendPaymentAwardedFromEarlierMonth[$row['awardYear'] . '-' . sprintf('%02d',$row['awardMonth'])] += $row['payment'];
+    $totalStipendPaymentStraddlingMonths += $row['payment'];
+  } else {
+    $unawardedStipendPayment[$row['year'] . '-' . sprintf('%02d',$row['month'])] += $row['payment'];
+    $totalUnawardedStipendPayment += $row['payment'];
+  }
 }
 
 # Get royalty payments
@@ -69,9 +81,9 @@ for ($i = 0; $i < $commissionOnRoyaltySelectResult -> num_rows; $i++) {
 foreach($monthList as $month) {
   $totalPaymentAwarded[$month] = 0;
   $totalPayment[$month] = 0;
-  $totalPaymentAwarded[$month] = $taskPayment[$month] + $commissionOnTaskPayment[$month]  + $stipendPayment[$month][1] + $royaltyPayment[$month] + $commissionOnRoyaltyPayment[$month];
+  $totalPaymentAwarded[$month] = $taskPayment[$month] + $commissionOnTaskPayment[$month]  + $stipendPaymentAwardedInSameMonth[$month] + $stipendPaymentAwardedFromEarlierMonth[$month] + $royaltyPayment[$month] + $commissionOnRoyaltyPayment[$month];
   $totalPaymentAwardedAcrossMonths += $totalPaymentAwarded[$month];
-  $totalPayment[$month] = $totalPaymentAwarded[$month] + $stipendPayment[$month][0];
+  $totalPayment[$month] = $totalPaymentAwarded[$month] + $stipendPaymentAwardedInLaterMonth[$month] - $stipendPaymentAwardedFromEarlierMonth[$month] + $unawardedStipendPayment[$month];
   $totalPaymentAcrossMonths += $totalPayment[$month];
 }
 
@@ -80,11 +92,17 @@ print '<table border="1">';
 print '<tr><th>Month</th>';
 print '<th>Task payments</th>';
 print '<th>Commissions on task payments</th>';
-print '<th>Stipend payments (awarded)</th>';
+print '<th>Stipend payments (awarded same month)</th>';
+if ($totalStipendPaymentStraddlingMonths > 0) {
+  print '<th>Stipend payments (awarded from earlier)</th>';
+}
 print '<th>Royalty payments</th>';
 print '<th>Commissions on royalty payments</th>';
 print '<th>Total payment awarded</th>';
 print '<th>Stipend payments (deferred)</th>';
+if ($totalStipendPaymentStraddlingMonths > 0) {
+  print '<th>Stipend payments (awarded later)</th>';
+}
 print '<th>Total payment</th>';
 print '</tr>';
 
@@ -92,11 +110,17 @@ foreach (array_reverse($monthList) as $month) {
   print "<tr><td>$month</td>";
   print '<td align="right">'.sprintf('%.2f',$taskPayment[$month]).'</td>';
   print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$month]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][1]).'</td>';
+  print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInSameMonth[$month]).'</td>';
+  if ($totalStipendPaymentStraddlingMonths > 0) {
+    print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedFromEarlierMonth[$month]).'</td>';
+  }
   print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$month]).'</td>';
   print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$month]).'</td>';
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</strong></td>';
-  print '<td align="right">'.sprintf('%.2f',$stipendPayment[$month][0]).'</td>';
+  print '<td align="right">'.sprintf('%.2f',$unawardedStipendPayment[$month]).'</td>';
+  if ($totalStipendPaymentStraddlingMonths > 0) {
+    print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInLaterMonth[$month]).'</td>';
+  }
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$month]).'</strong></td>';
   print '</tr>';
 }
@@ -104,11 +128,17 @@ foreach (array_reverse($monthList) as $month) {
 print '<tr><td><strong>Total across months</strong></td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[1]).'</td>';
+print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentAwardedInSameMonth).'</td>';
+if ($totalStipendPaymentStraddlingMonths > 0) {
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingMonths).'</td>';
+}
 print '<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment).'</td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment).'</td>';
 print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossMonths).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[0]).'</td>';
+print '<td align="right"><strong>'.sprintf('%.2f',$totalUnawardedStipendPayment).'</td>';
+if ($totalStipendPaymentStraddlingMonths > 0) {
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingMonths).'</td>';
+}
 print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossMonths).'</td>';
 print '</tr>';
 

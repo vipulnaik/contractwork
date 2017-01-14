@@ -83,7 +83,7 @@ foreach($yearList as $year) {
   $totalPayment[$year] = 0;
   $totalPaymentAwarded[$year] = $taskPayment[$year] + $commissionOnTaskPayment[$year]  + $stipendPaymentAwardedInSameYear[$year] + $stipendPaymentAwardedFromEarlierYear[$year] + $royaltyPayment[$year] + $commissionOnRoyaltyPayment[$year];
   $totalPaymentAwardedAcrossYears += $totalPaymentAwarded[$year];
-  $totalPayment[$year] = $totalPaymentAwarded[$year] + $unawardedStipendPayment[$year];
+  $totalPayment[$year] = $totalPaymentAwarded[$year] + $stipendPaymentAwardedInLaterYear[$year] - $stipendPaymentAwardedFromEarlierYear[$year] + $unawardedStipendPayment[$year];
   $totalPaymentAcrossYears += $totalPayment[$year];
 }
 
@@ -144,12 +144,6 @@ foreach (array_reverse($yearList) as $year) {
 }
 print '<td align="right"><strong>'.sprintf('%.2f',$totalUnawardedStipendPayment).'</strong></td>';
 print '</tr>';
-print '<tr><td><strong>Total payment</strong></td>';
-foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$year]).'</strong></td>';
-}
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossYears).'</strong></td>';
-print '</tr>';
 if ($totalStipendPaymentStraddlingYears > 0) {
   print '<tr><td>Stipends (deferred to later year)</td>';
   foreach (array_reverse($yearList) as $year) {
@@ -158,5 +152,11 @@ if ($totalStipendPaymentStraddlingYears > 0) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingYears).'</strong></td>';
   print '</tr>';
 }
+print '<tr><td><strong>Total payment</strong></td>';
+foreach (array_reverse($yearList) as $year) {
+  print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$year]).'</strong></td>';
+}
+print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossYears).'</strong></td>';
+print '</tr>';
 print '</table>';
 ?>
