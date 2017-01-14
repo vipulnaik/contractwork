@@ -88,75 +88,78 @@ foreach($yearList as $year) {
 }
 
 # Print table
-print '<table border="1">';
-print '<tr><th>Type of payment due</th>';
+print '<table id="myTable" class="tablesorter">'."\n";
+print "<thead>\n<tr>\n	<th>Type of payment due</th>\n";
 foreach (array_reverse($yearList) as $year) {
-  print "<th>Total in year $year</th>";
+  print "	<th>Total in year $year</th>\n";
 }
-print '<th>Total across years</th></tr>';
-print '<tr><td>Tasks</td>';
+print "	<th>Total across years</th>\n</tr>\n";
+print "</thead>\n<tbody>\n";
+print "<tr>\n	<td>Tasks</td>\n";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$taskPayment[$year]).'</td>';
+  print '	<td align="right">'.sprintf('%.2f',$taskPayment[$year])."</td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</strong></td>';
-print '</tr>';
-print '<tr><td>Commissions on tasks</td>';
+print '	<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment)."</strong></td>\n";
+print "</tr>\n";
+print "<tr>\n	<td>Commissions on tasks</td>\n";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$year]).'</td>';
+  print '	<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$year])."</td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</strong></td>';
+print '	<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment)."</strong></td>\n";
 print '</tr>';
 print '<tr><td>Stipends (awarded same year)</td>';
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInSameYear[$year]).'</td>';
+  print '	<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInSameYear[$year])."</td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentAwardedInSameYear).'</strong></td>';
+print '	<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentAwardedInSameYear)."</strong></td>\n";
 print '</tr>';
 if ($totalStipendPaymentStraddlingYears > 0) {
-  print '<tr><td>Stipends (awarded from earlier year)</td>';
+  print "	<tr><td>Stipends (awarded from earlier year)</td>\n";
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedFromEarlierYear[$year]).'</td>';
+    print '	<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedFromEarlierYear[$year])."</td>\n";
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingYears).'</strong></td>';
+  print '	<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingYears)."</strong></td>\n";
   print '</tr>';
 }
 print '<tr><td>Royalties</td>';
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$year]).'</td>';
+  print '	<td align="right">'.sprintf('%.2f',$royaltyPayment[$year])."</td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment).'</strong></td>';
-print '</tr>';
-print '<tr><td>Commissions on royalties</td>';
+print '	<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment)."</strong></td>\n";
+print "</tr>\n";
+print "<tr>\n	<td>Commissions on royalties</td>\n";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$year]).'</td>';
+  print '	<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$year])."</td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment).'</strong></td>';
-print '</tr>';
+print '	<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment)."</strong></td>\n";
+print "</tr>\n";
 print '<tr><td><strong>Total payment awarded</strong></td>';
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$year]).'</strong></td>';
+  print '	<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$year])."</strong></td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossYears).'</strong></td>';
-print '</tr>';
-print '<tr><td>Stipends (unawarded)</td>';
+print '	<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossYears)."</strong></td>\n";
+print "</tr>\n";
+print "<tr>\n	<td>Stipends (unawarded)</td>\n";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right">'.sprintf('%.2f',$unawardedStipendPayment[$year]).'</td>';
+  print '	<td align="right">'.sprintf('%.2f',$unawardedStipendPayment[$year])."</td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalUnawardedStipendPayment).'</strong></td>';
+print '	<td align="right"><strong>'.sprintf('%.2f',$totalUnawardedStipendPayment)."</strong></td>\n";
 print '</tr>';
 if ($totalStipendPaymentStraddlingYears > 0) {
-  print '<tr><td>Stipends (deferred to later year)</td>';
+  print "<tr>\n	<td>Stipends (deferred to later year)</td>\n";
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInLaterYear[$year]).'</td>';
+    print '	<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInLaterYear[$year])."</td>\n";
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingYears).'</strong></td>';
-  print '</tr>';
+  print '	<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingYears)."</strong></td>\n";
+  print "</tr>\n";
 }
-print '<tr><td><strong>Total payment</strong></td>';
+print "</tbody>\n<tfoot>\n";
+print "<tr>\n	<td><strong>Total payment</strong></td>";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$year]).'</strong></td>';
+  print '	<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$year])."</strong></td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossYears).'</strong></td>';
-print '</tr>';
+print '	<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossYears)."</strong></td>\n";
+print "</tr>\n";
+print "</tfoot>\n";
 print '</table>';
 ?>
