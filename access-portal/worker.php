@@ -8,8 +8,31 @@ if (!empty($_REQUEST['worker'])) {
 }
 print "<title>$worker work details: Contract work for Vipul Naik</title>";
 include_once('analytics.inc');
+print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
+print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
+print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
 print '</head>';
 print '<body>';
+print '<script>$(document).ready(function()
+    {
+        $("#myTableWorkerPaymentsDueByTypeAndYear").tablesorter();
+        $("#myTableWorkerPaymentsMadeByMethodAndYear").tablesorter();
+        $("#myTableWorkerTaskPaymentsDueByTypeAndYear").tablesorter();
+        $("#myTableWorkerTaskPaymentsDueByTopicAndYear").tablesorter();
+        $("#myTableWorkerTaskPaymentsDueByVenueAndYear").tablesorter();
+        $("#myTableWorkerImpact").tablesorter();
+        $("#myTableWorkerPaymentsDueByTypeAndMonth").tablesorter();
+        $("#myTableWorkerTaskPaymentsDueByTypeAndMonth").tablesorter();
+        $("#myTableWorkerTaskPaymentsDueByTopicAndMonth").tablesorter();
+        $("#myTableWorkerTaskPaymentsDueByVenueAndMonth").tablesorter();
+        $("#myTableWorkerPaymentsDueAndMadeByMonth").tablesorter();
+        $("#myTableWorkerTaskList").tablesorter();
+        $("#myTableWorkerCommissionOnTaskList").tablesorter();
+        $("#myTableWorkerRoyaltyList").tablesorter();
+        $("#myTableWorkerCommissionOnRoyaltyList").tablesorter();
+        $("#myTableWorkerPaymentList").tablesorter();
+     }
+); </script>'."\n";
 print "<h3>Contract work by $worker for Vipul Naik</h3>";
 $workerSelectQuery = "select * from workers where worker='$worker' and private = false;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);

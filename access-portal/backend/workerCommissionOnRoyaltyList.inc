@@ -7,7 +7,9 @@ $commissionOnRoyaltyByEarnerSelectQuery = "select earner, commission, commission
 $commissionOnRoyaltyByEarnerSelectResult = $mysqli -> query($commissionOnRoyaltyByEarnerSelectQuery);
 
 print '<h4>Commissions on royalties: breakdown by earner</h4>';
-print '<table border="1">';
+print "\n";
+print '<table id="myTableWorkerCommissionOnRoyaltyList" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr>';
 print '<th>Underlying earner</th>';
 print '<th>Commission validity period</th>';
@@ -16,6 +18,7 @@ print '<th>Commission rate</th>';
 print '<th>Payment due to original earner</th>';
 print '<th>Commission payment</th>';
 print '</tr>';
+print "</thead>\n<tbody>\n";
 for ($i = 0; $i < $commissionOnRoyaltyByEarnerSelectResult -> num_rows; $i++) {
   $row = $commissionOnRoyaltyByEarnerSelectResult -> fetch_assoc();
   array_push($earnerList, $row['earner']);
@@ -33,5 +36,5 @@ for ($i = 0; $i < $commissionOnRoyaltyByEarnerSelectResult -> num_rows; $i++) {
   print '<td align="right">'.sprintf('%.2f',$row['payment']).'</td>';
   print '</tr>';
 }
-print '</table>';
+print "</tbody>\n</table>\n";
 ?>

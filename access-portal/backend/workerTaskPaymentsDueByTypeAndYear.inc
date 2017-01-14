@@ -39,13 +39,15 @@ function cmpTaskTypes($firstTaskType, $secondTaskType) {
 usort($taskTypes,"cmpTaskTypes");
 
 # Print table
-print '<table border="1">';
+print "\n";
+print '<table id="myTableWorkerTaskPaymentsDueByTypeAndYear" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr><th>Task type</th>';
 foreach (array_reverse($yearList) as $year) {
   print "<th>Total in year $year</th>";
 }
 print '<th>Total across years</th></tr>';
-
+print "</thead>\n<tbody>\n";
 foreach($taskTypes as $taskType) {
   if ($totalPaymentForTaskType[$taskType] > 0) {
     print "<tr><td>$taskType</td>";
@@ -56,12 +58,12 @@ foreach($taskTypes as $taskType) {
     print '</tr>';
   }
 }
-
+print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 foreach (array_reverse($yearList) as $year) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year]).'</strong></td>';
 }
 print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
 print '</tr>';
-print '</table>';
+print "</tfoot>\n</table>\n";
 ?>

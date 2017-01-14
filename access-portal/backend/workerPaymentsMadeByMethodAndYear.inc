@@ -36,12 +36,15 @@ usort($paymentMethods,"cmpPaymentMethods");
 
 # Print table
 if ($printTables == true) {
-  print '<table border="1">';
+  print "\n";
+  print '<table id="myTableWorkerPaymentsMadeByMethodAndYear" class="tablesorter">'."\n";
+  print "<thead>\n";
   print '<tr><th>Payment method</th>';
   foreach (array_reverse($yearList) as $year) {
     print "<th>Total in year $year</th>";
   }
   print '<th>Total across years</th></tr>';
+  print "</thead>\n<tbody>\n";
   foreach ($paymentMethods as $paymentMethod) {
     if ($totalPaymentMadeByMethod[$paymentMethod] > 0) {
       print "<tr><td>$paymentMethod</td>";
@@ -51,13 +54,13 @@ if ($printTables == true) {
       print '<td align="right">'.sprintf('%.2f',$totalPaymentMadeByMethod[$paymentMethod]).'</td></tr>';
     }
   }
+  print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total across payment methods</strong></td>';
   foreach (array_reverse($yearList) as $year) {
     print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeByYear[$year]).'</strong></td>';
   }
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeToWorker).'</strong></td>';
   print '</tr>';
-  
-  print '</table>';
+  print "</tfoot>\n</table>\n";
 }
 ?>

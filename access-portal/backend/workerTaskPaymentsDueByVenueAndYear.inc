@@ -38,13 +38,15 @@ function cmpTaskVenues($firstTaskVenue, $secondTaskVenue) {
 usort($taskVenues,"cmpTaskVenues");
 
 # Print table
-print '<table border="1">';
+print "\n";
+print '<table id="myTableWorkerTaskPaymentsDueByVenueAndYear" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr><th>Task venue</th>';
 foreach (array_reverse($yearList) as $year) {
   print "<th>Total in year $year</th>";
 }
 print '<th>Total across years</th></tr>';
-
+print "</thead>\n<tbody>\n";
 foreach($taskVenues as $taskVenue) {
   if ($totalPaymentForTaskVenue[$taskVenue] > 0) {
     print "<tr><td>$taskVenue</td>";
@@ -55,12 +57,12 @@ foreach($taskVenues as $taskVenue) {
     print '</tr>';
   }
 }
-
+print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 foreach (array_reverse($yearList) as $year) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year]).'</strong></td>';
 }
 print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
 print '</tr>';
-print '</table>';
+print "</tfoot>\n</table>\n";
 ?>

@@ -3,7 +3,9 @@
 $workerTaskSelectQuery = "select * from tasks where worker='$worker' and private = false order by completion_date desc";
 $workerTaskSelectResult = $mysqli -> query($workerTaskSelectQuery);
 print '<h4 id="workerTaskList">Full list of tasks in reverse chronological order ('.($workerTaskSelectResult -> num_rows).' tasks)</h4>';
-print '<table border="1">';
+print "\n";
+print '<table id="myTableWorkerTaskList" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr>';
 print '<th>Task venue</th>';
 print '<th>Task type</th>';
@@ -14,7 +16,7 @@ print '<th>Topic</th>';
 print '<th>Format</th>';
 print '<th>Notes</th>';
 print '</tr>';
-
+print "</thead>\n<tbody>\n";
 for($i = 0; $i < $workerTaskSelectResult -> num_rows; $i++) {
   $row = $workerTaskSelectResult -> fetch_assoc();
   print '<tr>';
@@ -37,5 +39,5 @@ for($i = 0; $i < $workerTaskSelectResult -> num_rows; $i++) {
   print '</tr>';
 }
 
-print '</table>';
+print "</tbody>\n</table>\n";
 ?>

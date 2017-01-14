@@ -55,7 +55,9 @@ foreach($monthList as $month) {
 
 # Print table
 if ($printTables == true) {
-  print '<table border="1">';
+  print "\n";
+  print '<table id="myTableWorkerPaymentsDueAndMadeByMonth" class="tablesorter">'."\n";
+  print "<thead>\n";
   print '<tr><th>Month</th>';
   print '<th>Payment awarded in month</th>';
   print '<th>Cumulative payment awarded in month</th>';
@@ -68,7 +70,7 @@ if ($printTables == true) {
   print '<th>Pending payment increase in month</th>';
   print '<th>Cumulative pending payment</th>';
   print '</tr>';
-  
+  print "</thead>\n<tbody>\n";
   $starting = true;
   foreach (array_reverse($monthList) as $month) {
     if ($paymentMadeInMonth[$month] > 0 or $totalPaymentAwarded[$month] > 0) {
@@ -96,6 +98,6 @@ if ($printTables == true) {
     }
   }
   
-  print '</table>';
+  print "</tbody>\n</table>\n";
 }
 ?>

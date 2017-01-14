@@ -91,7 +91,9 @@ foreach($monthList as $month) {
 
 # Print table
 if ($printTables == true) {
-  print '<table border="1">';
+  print "\n";
+  print '<table id="myTableWorkerPaymentsDueByTypeAndMonth" class="tablesorter">'."\n";
+  print "<thead>\n";
   print '<tr><th>Month</th>';
   print '<th>Task payments</th>';
   print '<th>Commissions on task payments</th>';
@@ -108,7 +110,7 @@ if ($printTables == true) {
   }
   print '<th>Total payment</th>';
   print '</tr>';
-  
+  print "</thead>\n<tbody>\n";
   foreach (array_reverse($monthList) as $month) {
     if ($totalPayment[$month] > 0) {
       print "<tr><td>$month</td>";
@@ -127,7 +129,8 @@ if ($printTables == true) {
       print '</tr>';
     }
   }
-  
+
+  print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total across months</strong></td>';
   print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</td>';
   print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</td>';
@@ -145,6 +148,6 @@ if ($printTables == true) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossMonths).'</td>';
   print '</tr>';
   
-  print '</table>';
+  print "</tfoot>\n</table>\n";
 }
 ?>

@@ -91,12 +91,15 @@ foreach($yearList as $year) {
 
 # Print table
 if ($printTables == true) {
-  print '<table border="1">';
+  print "\n";
+  print '<table id="myTableWorkerPaymentsDueByTypeAndYear" class="tablesorter">'."\n";
+  print "<thead>\n";
   print '<tr><th>Type of payment due</th>';
   foreach (array_reverse($yearList) as $year) {
     print "<th>Total in year $year</th>";
   }
   print '<th>Total across years</th></tr>';
+  print "</thead>\n<tbody>\n";
   print '<tr><td>Tasks</td>';
   foreach (array_reverse($yearList) as $year) {
     print '<td align="right">'.sprintf('%.2f',$taskPayment[$year]).'</td>';
@@ -155,6 +158,7 @@ if ($printTables == true) {
     print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingYears).'</strong></td>';
     print '</tr>';
   }
+  print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total payment</strong></td>';
   foreach (array_reverse($yearList) as $year) {
     print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$year]).'</strong></td>';
@@ -162,6 +166,6 @@ if ($printTables == true) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossYears).'</strong></td>';
   print '</tr>';
   
-  print '</table>';
+  print "</tfoot>\n</table>\n";
 }
 ?>

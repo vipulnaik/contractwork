@@ -54,7 +54,9 @@ usort($topics,"cmpTopicsForMonth");
 
 # Print table
 if ($printTables == true) {
-  print '<table border="1">';
+  print "\n";
+  print '<table id="myTableWorkerTaskPaymentsDueByTopicAndMonth" class="tablesorter">'."\n";
+  print "<thead>\n";
   print '<tr><th>Month</th>';
   foreach ($topics as $topic) {
     if ($totalPaymentForTopic[$topic] > 0) {
@@ -63,7 +65,7 @@ if ($printTables == true) {
   }
   print "<th>Total across topics</th>";
   print '</tr>';
-  
+  print "</thead>\n<tbody>\n";
   foreach (array_reverse($monthList) as $month) {
     if ($totalTaskPaymentForMonth[$month] > 0) {
       print "<tr><td>$month</td>";
@@ -76,7 +78,7 @@ if ($printTables == true) {
       print '</tr>';
     }
   }
-  
+  print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total across months</strong></td>';
   foreach($topics as $topic) {
     if ($totalPaymentForTopic[$topic] > 0) {
@@ -86,6 +88,6 @@ if ($printTables == true) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</strong></td>';
   print '</tr>';
   
-  print '</table>';
+  print "</tfoot>\n</table>\n";
 }
 ?>

@@ -4,8 +4,10 @@ $royaltySelectQuery = "select * from royalties where payee='$worker' order by ro
 
 $royaltySelectResult = $mysqli -> query($royaltySelectQuery);
 
-print '<h4>Full list of royalties in reverse chronological order ('.($royaltySelectResult -> num_rows).' entries)</h4>';
-print '<table border="1">';
+print '<h4>Full list of royalties in reverse chronological order ('.($royaltySelectResult -> num_rows).' entries)</h4>'."\n";
+print "\n";
+print '<table id="myTableWorkerRoyaltyList" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr>';
 print '<th>Basis for royalty</th>';
 print '<th>Scope of royalty</th>';
@@ -14,6 +16,7 @@ print '<th>Period</th>';
 print '<th>Payment</th>';
 print '<th>Notes</th>';
 print '</tr>';
+print "</thead>\n<tbody>\n";
 for ($i = 0; $i < $royaltySelectResult -> num_rows; $i++) {
   $row = $royaltySelectResult -> fetch_assoc();
   print '<tr>';
@@ -30,5 +33,5 @@ for ($i = 0; $i < $royaltySelectResult -> num_rows; $i++) {
   print '<td>'.$row['notes'].'</td>';
   print '</tr>';
 }
-print '</table>';
+print "</tbody>\n</table>\n";
 ?>
