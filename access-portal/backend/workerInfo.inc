@@ -4,8 +4,11 @@ $workerSelectResult = $mysqli -> query($workerSelectQuery);
 $row = $workerSelectResult -> fetch_assoc();
 
 print '<h4 id="workerInfo">Basic worker information</h4>';
-print '<table border="1">';
+print "\n";
+print '<table id="myTableWorkerInfo" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr><th>Item</th><th>Value</th></tr>';
+print "</thead>\n<tbody>\n";
 print '<tr><td>Country</td><td>'.$row['country'];
 if ($row['country'] == "United States") {
   print ' (<a href="/taxes.php?worker='.urlencode($worker).'">tax information</a>)';
@@ -50,6 +53,6 @@ print '<tr><td>Worker file (on GitHub, with revision history)</td><td><a href="h
 if ($row['notes'] != '') {
   print '<tr><td>Notes</td><td>'.$row['notes'].'</td></tr>';
 }
-print '</table>';
+print "</tbody>\n</table>\n";
 
 ?>

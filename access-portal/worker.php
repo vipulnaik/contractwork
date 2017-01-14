@@ -15,6 +15,7 @@ print '</head>';
 print '<body>';
 print '<script>$(document).ready(function()
     {
+        $("#myTableWorkerInfo").tablesorter();
         $("#myTableWorkerPaymentsDueByTypeAndYear").tablesorter();
         $("#myTableWorkerPaymentsMadeByMethodAndYear").tablesorter();
         $("#myTableWorkerTaskPaymentsDueByTypeAndYear").tablesorter();
@@ -30,6 +31,8 @@ print '<script>$(document).ready(function()
         $("#myTableWorkerCommissionOnTaskList").tablesorter();
         $("#myTableWorkerRoyaltyList").tablesorter();
         $("#myTableWorkerCommissionOnRoyaltyList").tablesorter();
+        $("#myTableWorkerAwardedStipendList").tablesorter();
+        $("#myTableWorkerDeferredStipendList").tablesorter();
         $("#myTableWorkerPaymentList").tablesorter();
      }
 ); </script>'."\n";
@@ -73,10 +76,10 @@ if ($workerSelectResult -> num_rows == 0) {
   if ($totalCommissionOnTaskPayment > 0) {
     include("backend/workerCommissionOnTaskList.inc");
   }
-  if ($totalStipendPayment[1] > 0) {
+  if ($totalStipendPaymentAwardedInSameMonth + $totalStipendPaymentStraddlingMonths > 0) {
     include("backend/workerAwardedStipendList.inc");
   }
-  if ($totalStipendPayment[0] > 0) {
+  if ($totalUnawardedStipendPayment > 0) {
     include("backend/workerDeferredStipendList.inc");
   }
   if ($totalRoyaltyPayment > 0) {
