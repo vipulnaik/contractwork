@@ -7,7 +7,7 @@ $totalPaymentMadeToWorker = 0;
 foreach ($paymentMethods as $paymentMethod) {
   $totalPaymentMadeByMethod[$paymentMethod] = 0;
   foreach ($yearList as $year) {
-    $payment[$paymethMethod][$year] = 0;
+    $payment[$paymentMethod][$year] = 0;
     $totalPaymentMadeByYear[$year] = 0;
   }
 }  
