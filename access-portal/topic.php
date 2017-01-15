@@ -18,6 +18,7 @@ if ($topic != '') {
   print '<script>$(document).ready(function()
     {
         $("#myTableTopicTaskPaymentsDueByTypeAndYear").tablesorter();
+        $("#myTableTopicTaskPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTableTopicTaskList").tablesorter();
     }
   ); </script>'."\n";
@@ -30,6 +31,7 @@ if ($topic != '') {
   print '<script>$(document).ready(function()
     {
         $("#myTableTopicTaskPaymentsDueByTypeAndYear").tablesorter();
+        $("#myTableTopicTaskPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTableTopicTaskList").tablesorter();
     }
   ); </script>'."\n";
@@ -41,7 +43,14 @@ $taskSelectResult = $mysqli -> query($taskSelectQuery);
 if ($taskSelectResult -> num_rows == 0) {
   print "<p>We could not find any tasks with a matching topic.</p>";
 } else {
+  print '<h4>Table of contents</h4>';
+  print '<ul>';
+  print '<li><a href="#topicTaskPaymentsDueByTypeAndYear">Topic task payments due by type and year</a></li>';
+  print '<li><a href="#topicTaskPaymentsDueByTypeAndMonth">Topic task payments due by type and month</a></li>';
+  print '<li><a href="#topicTaskList">Topic task list</a></li>';
+  print '</ul>';
   include("backend/topicTaskPaymentsDueByTypeAndYear.inc");
+  include("backend/topicTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/topicTaskList.inc");
 }
 print '</body>';

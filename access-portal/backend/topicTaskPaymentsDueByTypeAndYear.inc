@@ -1,8 +1,8 @@
 <?php
 if ($topic == "") {
-  print "<h4>Task payments for all tasks (regardless of topic) due by type and year</h4>";
+  print '<h4 id="topicTaskPaymentsDueByTypeAndYear">Task payments due for all tasks (regardless of topic) by type and year</h4>';
 } else {
-  print "<h4>Task payments for tasks related to topic $topic due by type and year</h4>";
+  print '<h4 id="topicTaskPaymentsDueByTypeAndYear">Task payments due for tasks related to topic '.$topic.' by type and year</h4>';
 }
 
 # Initialize values to zero
