@@ -11,7 +11,7 @@ print "<title>$worker tax details: Contract work for Vipul Naik</title>";
 include_once('analytics.inc');
 print '</head>';
 print '<body>';
-print "<h3>Contract work by $worker for Vipul Naik</h3>";
+print "<h3>$worker tax details: Contract work for Vipul Naik</h3>";
 $workerSelectQuery = "select * from workers where worker='$worker' and private = false;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);
 if ($workerSelectResult -> num_rows == 0) {
