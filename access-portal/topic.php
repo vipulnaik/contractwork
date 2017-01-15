@@ -3,6 +3,9 @@ print '<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN"><html><hea
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 include_once('analytics.inc');
+print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
+print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
+print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
 $topic = '';
 if (!empty($_REQUEST['topic'])) {
   $topic = $_REQUEST['topic'];
@@ -12,12 +15,24 @@ if ($topic != '') {
   print "<title>$topic topic work details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';
+  print '<script>$(document).ready(function()
+    {
+        $("#myTableTopicTaskPaymentsDueByTypeAndYear").tablesorter();
+        $("#myTableTopicTaskList").tablesorter();
+    }
+  ); </script>'."\n";
   print "<h3>Contract work related to topic $topic for Vipul Naik</h3>";
 } else {
   $topicRegexMatcher = '1 = 1';
   print "<title>All task details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';
+  print '<script>$(document).ready(function()
+    {
+        $("#myTableTopicTaskPaymentsDueByTypeAndYear").tablesorter();
+        $("#myTableTopicTaskList").tablesorter();
+    }
+  ); </script>'."\n";
   print "<h3>Contract work (all tasks) for Vipul Naik</h3>";
 }
 

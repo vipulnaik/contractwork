@@ -3,7 +3,9 @@
 $topicTaskSelectQuery = "select * from tasks where $topicRegexMatcher and private = false order by completion_date desc";
 $topicTaskSelectResult = $mysqli -> query($topicTaskSelectQuery);
 print '<h4>Full list of tasks in reverse chronological order ('.($topicTaskSelectResult -> num_rows).' tasks)</h4>';
-print '<table border="1">';
+print "\n";
+print '<table id="myTableTopicTaskList" class="tablesorter">'."\n";
+print "<thead>\n";
 print '<tr>';
 print '<th>Worker</th>';
 print '<th>Task venue</th>';
@@ -15,7 +17,7 @@ print '<th>Topic</th>';
 print '<th>Format</th>';
 print '<th>Notes</th>';
 print '</tr>';
-
+print "</thead>\n<tbody>\n";
 for($i = 0; $i < $topicTaskSelectResult -> num_rows; $i++) {
   $row = $topicTaskSelectResult -> fetch_assoc();
   print '<tr>';
@@ -35,5 +37,5 @@ for($i = 0; $i < $topicTaskSelectResult -> num_rows; $i++) {
   print '</tr>';
 }
 
-print '</table>';
+print "</tbody>\n</table>\n";
 ?>
