@@ -22,7 +22,7 @@ Total money earned as income: $345
 
 Forward balance carried over from 2016: ($510.37)
 
-Net payment due: ($165.37)
+Net payment due: ($806.15)
 
 === Completed pages ===
 
@@ -43,6 +43,12 @@ Total so far: $90
 * Reference robustification for timeline of healthcare in Japan: $35. Completed January 2, 2017.
 
 * Graphs for timelines of healthcare in Japan, India, Germany, and Ethiopia: $20. Completed January 2, 2017.
+
+=== Payment schedule ===
+
+Total paid: $640.78 (=$632.78 received + $8 transaction fee)
+
+* Payment of $632.78 made on January 18, 2017, received on January 19, 2017. Transaction fee of $8.
 
 == Work in 2016 ==
 
