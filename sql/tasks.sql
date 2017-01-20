@@ -3,8 +3,8 @@ create table tasks(
   worker varchar(40),
   task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'None') default 'Wikipedia',
   task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry'),
-  task_receptacle varchar(100) NOT NULL,
-  task_receptacle_url varchar(100) NOT NULL,
+  task_receptacle varchar(200) NOT NULL,
+  task_receptacle_url varchar(200) NOT NULL,
   completion_date date NOT NULL,
   payment float(7,2) NOT NULL,
   topic varchar(100) NOT NULL,
@@ -415,5 +415,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia Views','Coding','Tag entries in different languages','https://wikipediaviews.org','2016-10-04',150,'Wikipedia Views','Coding with data output','Wrote code to translate tags en masse to new languages. Code still exists, plan is now to incorporate into Wikipedia Views itself to avoid need to run separate code'),
   ('Issa Rice','None','Preliminary research','Researcher profiles','N/A as it was private work','2016-12-31',70,'Research strategy','Prose','Officially stopped project 2017-01-01 but part paid by Vipul was finished by 2016-12-31'),
   # -- 2017 payments
-  ('Issa Rice','Donations list website','Data entry','Donations','https://donations.vipulnaik.com','2017-01-08',155,'Effective altruism/donation history','Structured data','Designed SQL tables and provided initial set of rows to insert');
+  ('Issa Rice','Donations list website','Data entry','Donations','https://donations.vipulnaik.com','2017-01-08',155,'Effective altruism/donation history','Structured data','Designed SQL tables and provided initial set of rows to insert'),
+  ('Issa Rice','Effective Altruism Forum','Blog post or article','Essay contest: general considerations for evaluating small-scale giving opportunities ($300 for winning submission)','http://effective-altruism.com/ea/16e/essay_contest_general_considerations_for/','2017-01-19',50,'Effective altruism/contest/small-scale giving','Prose','Announced contest organized by Peter Hurford, Vipul Naik, and Issa Rice. Remaining $50 pay to be given after first serious submission');
+
+# -- insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
 

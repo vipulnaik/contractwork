@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $248
+Total money earned by doing work (taxable as income for 2017): $298
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4782.57
 
-Net payment due: $1030.57
+Net payment due: $1080.57
 
 === Completed pages ===
 
@@ -60,9 +60,11 @@ Total so far: $90
 
 === Other tasks ===
 
-Total so far: $155
+Total so far: $205
 
-* Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155
+* Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
+
+* Post announcing essay contest for general considerations for small-scale giving opportunities: $50. Completed January 19, 2017.
 
 === Commissions ===
 
