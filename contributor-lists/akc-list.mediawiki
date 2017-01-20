@@ -12,6 +12,8 @@ Facebook: https://www.facebook.com/simfish
 
 Notes: The structure of the payment system for Alex K. Chen differs from that for later editors.
 
+Please see https://contractwork.vipulnaik.com/worker.php?worker=Alex+K.+Chen for a full list of tasks, payments, etc. in an easier-to-understand format.
+
 == Impact ==
 
 === Pageviews ===
@@ -26,7 +28,17 @@ Note that not all these pages were funded by me! However, I do pay on a per-page
 
 (to be filled in)
 
-== Bounty offers ==
+== Work and payments in 2017 ==
+
+Total money earned as income in 2017: $0 (no work done yet)
+
+Pending payment from 2016: $3373
+
+Payment made: $4000 (check deposited January 19)
+
+Net pending payment: ($627)
+
+== Bounty offers in 2016 ==
 List of bounty offers for Alex K. Chen (AKC).
 
 For each, there is a "start by" date and a "finish by" date. The start
@@ -86,7 +98,7 @@ Maximum acceptable delay: 4 weeks
 
 (more weeks, months to be added).
 
-== Work and total money due ==
+== Work and total money due in 2016 ==
 
 Total due: $4265.60
 
