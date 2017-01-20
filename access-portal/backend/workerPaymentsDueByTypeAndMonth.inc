@@ -117,7 +117,9 @@ if ($printTables == true) {
       print '<td align="right">'.sprintf('%.2f',$taskPayment[$month]).'</td>';
       print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$month]).'</td>';
       print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInSameMonth[$month]).'</td>';
-      print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedFromEarlierMonth[$month]).'</td>';
+      if ($totalStipendPaymentStraddlingMonths > 0) {
+        print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedFromEarlierMonth[$month]).'</td>';
+      }
       print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$month]).'</td>';
       print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$month]).'</td>';
       print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</strong></td>';
