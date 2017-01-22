@@ -11,13 +11,19 @@ for($i = 0;$i < $reimbursementSelectResult -> num_rows;$i++) {
   $reimbursementDueInYear[$row['year']] = $row['payment'];
 }
 
-print '<p>For more information on taxes, learn about <a href="https://en.wikipedia.org/wiki/Form_1040">Form 1040</a> and <a href="https://en.wikipedia.org/wiki/Form_1099-MISC">Form 1099-MISC</a>.</p>';
+print '<p>For more information on taxes, learn about <a href="https://en.wikipedia.org/wiki/Form_1040">Form 1040</a> and <a href="https://en.wikipedia.org/wiki/Form_1099-MISC">Form 1099-MISC</a>.</p>'."\n";
 
-print '<p><a href="/worker.php?worker='.urlencode($worker).'">Back to worker page</a>';
+print '<p><a href="/worker.php?worker='.urlencode($worker).'">Back to worker page</a>'."\n";
+
+print "<ul>\n";
+foreach(array_reverse($yearList) as $year) {
+  print '    <li><a href="#'.$year.'">Tax situation for year '.$year.'</a></li>'."\n";
+}
+print "</ul>\n";
 
 foreach(array_reverse($yearList) as $year) {
   if ($totalPaymentAwarded[$year] > 0 or $totalPaymentMadeByYear[$year] > 0) {
-    print "<h4>Tax situation for year $year</h4>";
+    print '<h4 id="'.$year.'">Tax situation for year '.$year.'</h4>';
     $income = $totalPaymentAwarded[$year];
     $receivedIncome = $totalPaymentMadeByYear[$year] - $reimbursementDueInYear[$year];
     $selfEmploymentTax = 0.1412 * $income;
@@ -27,8 +33,13 @@ foreach(array_reverse($yearList) as $year) {
     $incomeTaxAssumingExemption = 0.1 * $taxableIncomeAssumingExemption;
     $totalTaxAssumingNoExemption = $selfEmploymentTax + $incomeTaxAssumingNoExemption;
     $totalTaxAssumingExemption = $selfEmploymentTax + $incomeTaxAssumingExemption;
-    print "<p>In the year $year, the total payment awarded to you (your income) was $".sprintf('%.2f',$income)." USD, and the total money paid to you was $".sprintf('%.2f',$receivedIncome)." USD.</p>";
-    print "<p>Here is a rough estimate for how much tax you would need to pay assuming all your income was from contract work for Vipul Naik: (a) assuming you cannot take a personal exemption: $".sprintf('%.2f',$selfEmploymentTax)." self-employment tax and $".sprintf('%.2f',$incomeTaxAssumingNoExemption)." income tax totaling to $".sprintf('%.2f',$totalTaxAssumingNoExemption).", (b) assuming you can take a personal exemption: $".sprintf('%.2f',$selfEmploymentTax)." self-employment tax and $".sprintf('%.2f',$incomeTaxAssumingExemption)." income tax, totaling to $".sprintf('%.2f',$totalTaxAssumingExemption).". More details of your tax situation and how to fill your tax forms are below.</p>";
+    print "<p>In the year $year, the total payment awarded to you (your income) was $".sprintf('%.2f',$income)." USD, and the total money paid to you was $".sprintf('%.2f',$receivedIncome)." USD.</p>\n";
+    print "<p>Here is a rough estimate for how much tax you would need to pay assuming all your income was from contract work for Vipul Naik:</p>\n";
+    print "<ul>\n";
+    print "    <li>Assuming you cannot take a personal exemption: $".sprintf('%.2f',$selfEmploymentTax)." self-employment tax and $".sprintf('%.2f',$incomeTaxAssumingNoExemption)." income tax totaling to $".sprintf('%.2f',$totalTaxAssumingNoExemption).".</li>\n";
+    print "    <li>Assuming you can take a personal exemption: $".sprintf('%.2f',$selfEmploymentTax)." self-employment tax and $".sprintf('%.2f',$incomeTaxAssumingExemption)." income tax, totaling to $".sprintf('%.2f',$totalTaxAssumingExemption).".</li>\n";
+    print "</ul>\n";
+    print "<p>More details of your tax situation and how to fill your tax forms are below.</p>\n";
     if ($income > 0) {
       print "<p>If you are a United States citizen or resident for tax purposes, you <strong>need to pay self-employment tax (Social Security and Medicare taxes)</strong> on the income earned. The reason is that income earned through contract work is classified under self-employment income, and the responsibility for paying Social Security and Medicare taxes on such income falls on the worker rather than the payer. Approximate, highly conservative, guidance on what to do follows. This is just to give you a sense of how things should look; you should read through the forms and instructions competely to make sure it is correct for your situation.</p>";
       if ($income < $selfEmploymentFilingThreshold[$year]) {
