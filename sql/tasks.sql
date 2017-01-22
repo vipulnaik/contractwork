@@ -212,7 +212,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 # -- Sergey Yegorov list
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sergey Yegorov', 'Wikipedia', 'Wikipedia page creation', 'Academic Training', 'https://en.wikipedia.org/wiki/Academic_Training', '2016-09-20', 150, 'United States migration/academia', 'Prose', NULL),
-  ('Sergey Yegorov', 'Wikipedia', 'Wikipedia page creation', 'Food frequency questionnaire', 'https://en.wikipedia.org/wiki/Food_frequency_questionnaire', '2016-10-23', 28, 'Nutrition', 'Prose', NULL);
+  ('Sergey Yegorov', 'Wikipedia', 'Wikipedia page creation', 'Food frequency questionnaire', 'https://en.wikipedia.org/wiki/Food_frequency_questionnaire', '2016-10-23', 28, 'Nutrition', 'Prose', NULL),
+  ('Sergey Yegorov', 'Wikipedia', 'Miscellaneous Wikipedia work', 'WHO-CHOICE', 'https://en.wikipedia.org/wiki/WHO-CHOICE', '2016-12-24', 20, 'Global health/priority-setting', 'Prose', 'Initia work that would lead to final published article by Vipul Naik on 2017-01-21');
   
 # -- Thomas Foster list
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
