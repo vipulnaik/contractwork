@@ -22,7 +22,7 @@ if ($workerSelectResult -> num_rows == 0) {
   if ($country != "United States") {
     print "<p>Sorry! Since this worker is not based in the United States, we cannot offer information on the worker's tax situation or obligations.</p>";
   } else {
-    print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
+    print "<p>All payment amounts are listed in current (i.e., nominal, without inflation adjustment) United States dollars (USD).</p>";
     $printTables = false;
     include("backend/workerPaymentsDueByTypeAndYear.inc");
     include("backend/workerPaymentsMadeByMethodAndYear.inc");
