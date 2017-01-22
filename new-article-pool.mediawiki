@@ -26,8 +26,6 @@ Many of these pages are listed because they are red-linked from [https://en.wiki
 
 * WHO Ad Hoc Committee on Health Research Relating to Future Intervention Options: A WHO committee that did health research prioritization. Start by reading the description from a [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205967/#__sec6 paper that mentions it] (note that the section year in that paper should be 1994, not 1944).
 
-* WHO-CHOICE (reserved for Sergey): A program that helps countries choose health system priorities.
-
 * Council on Health Research and Development (reserved for Sergey): A council that reviewed health research and development from developing countries.
 
 * Lives Saved Tool (reserved for Chris): A tool created at Johns Hopkins University.

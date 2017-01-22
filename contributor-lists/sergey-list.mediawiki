@@ -20,11 +20,11 @@ You can see data on all pages created by Sergey at http://wikipediaviews.org/dis
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2016): $178
+Grand total (this is taxable income for tax year 2016): $198
 
 Payment made: $175
 
-Net payment due: $3
+Net payment due: $23
 
 === Completed pages ===
 
@@ -33,3 +33,9 @@ Total so far: $178
 * Academic Training: $150. Completed September 20, 2016.
 
 * Food frequency questionnaire: $28. Completed October 23, 2016.
+
+=== Other work ===
+
+Total so far: $20
+
+* Initial work on WHO-CHOICE, later completed by Vipul Naik to push a page to main space. Work by Sergey was completed on December 24, 2016.
