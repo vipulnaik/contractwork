@@ -17,7 +17,9 @@ print '<p><a href="/worker.php?worker='.urlencode($worker).'">Back to worker pag
 
 print "<ul>\n";
 foreach(array_reverse($yearList) as $year) {
-  print '    <li><a href="#'.$year.'">Tax situation for year '.$year.'</a></li>'."\n";
+  if ($totalPaymentAwarded[$year] > 0 or $totalPaymentMadeByYear[$year] > 0) {
+    print '    <li><a href="#'.$year.'">Tax situation for year '.$year.'</a></li>'."\n";
+  }
 }
 print "</ul>\n";
 
