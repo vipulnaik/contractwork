@@ -25,7 +25,11 @@ print "</ul>\n";
 
 foreach(array_reverse($yearList) as $year) {
   if ($totalPaymentAwarded[$year] > 0 or $totalPaymentMadeByYear[$year] > 0) {
-    print '<h4 id="'.$year.'">Tax situation for year '.$year.'</h4>';
+    print '<h4 id="'.$year.'">Tax situation for year '.$year;
+    if ($year == $currentTaxYear) {
+      print ' (current year, so information not final)';
+    }
+    print "</h4>\n";
     $income = $totalPaymentAwarded[$year];
     $receivedIncome = $totalPaymentMadeByYear[$year] - $reimbursementDueInYear[$year];
     $selfEmploymentTax = 0.1412 * $income;

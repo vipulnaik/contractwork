@@ -1,5 +1,6 @@
 <?php
 
+$currentTaxYear = '2017';
 $standardDeduction['2015'] = 6200;
 $standardDeduction['2016'] = 6300;
 $standardDeduction['2017'] = 6350;
