@@ -9,4 +9,6 @@ $basicExemption['2017'] = 4050;
 $selfEmploymentFilingThreshold['2015'] = 400;
 $selfEmploymentFilingThreshold['2016'] = 400;
 $selfEmploymentFilingThreshold['2017'] = 400;
+$minimumPayableBalance = 1;
+$minimumCollectionBalance = 5;
 ?>
