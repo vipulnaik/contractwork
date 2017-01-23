@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $318
+Total money earned by doing work (taxable as income for 2017): $325.50
 
 Payment made: $4000
 
-Carryover payment due from 2016: $4782.57
+Carryover payment due from 2016: $4784.57
 
-Net payment due: $1100.57
+Net payment due: $1110.07
 
 === Completed pages ===
 
@@ -72,9 +72,11 @@ Total so far: $205
 
 === Commissions ===
 
-Total so far: $3
+Total so far: $10.50
 
 * Joey Malandra: 10% on $30 = $3
+
+* Charlie Corner: 15% on $50 = $7.50
 
 === Payments made ===
 
@@ -252,7 +254,7 @@ Total: $320
 
 List updated December 25, 2016. May not be kept up-to-date continuously.
 
-Total: $268.63
+Total: $270.63
 
 * Adrian Ulloa: Commission of 10% on $205 = $20.50
 
@@ -274,7 +276,7 @@ Total: $268.63
 
 * Charlie Corner: Commission of 15% on $152 = $22.80
 
-* Sergey Yegorov: Commission of 10% on $178 = $17.80
+* Sergey Yegorov: Commission of 10% on $198 = $19.80
 
 * Alex K. Chen: Commission of 3% on $2491 = $74.73
 
