@@ -18,8 +18,6 @@ Many of these pages are listed because they are red-linked from [https://en.wiki
 
 * Selective primary healthcare: Expand on the [https://en.wikipedia.org/wiki/Primary_healthcare#Selective_PHC section on the topic] and make this its own page.
 
-* Health in All Policy (reserved for Charlie): Approach to policy where considerations about health are incorporated even into sectors that don't directly deal with health.
-
 * 1988 Riga Conference (reserved for Sergey): Start by reading about [https://en.wikipedia.org/wiki/Alma_Ata_Declaration Alma Ata], since Riga was a follow-up to that. Also mention Riga in Alma Ata's page.
 
 * Oregon Health Services Commission: One of the earlier efforts at explicit priority-setting within health. Start by reading the row for it at [https://en.wikipedia.org/wiki/Priority-setting_in_global_health#History_of_organizations_and_programs_working_on_priority-setting priority-setting in global health], as well as the references used there.
@@ -82,7 +80,7 @@ Some historical researchers (check for misspellings and existing pages; also che
 
 === Taxation ===
 
-* Form 1098: $30: Want something of comparable quality to Form 1099.
+* Form 1098 (reserved for Charlie): $30: Want something of comparable quality to Form 1099.
 
 Also, pages on state-level income tax returns. In general, prioritize the most populous states as listed at https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population#States_and_territories . However, note that some states already have their own taxation pages, so be sure to check for those beforehand. Please discuss with Issa or Vipul to get individual price quotes for individual states.
 
