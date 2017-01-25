@@ -34,6 +34,8 @@ Many of these pages are listed because they are red-linked from [https://en.wiki
 
 * Global Rural-Urban Mapping Project (GRUMP): A population mapping project. Start with [http://sedac.ciesin.columbia.edu/data/collection/grump-v1 this page]. Mention its importance in the [http://www.map.ox.ac.uk/explore/populations-risk/mapping-human-populations/ Malaria Atlas Project] (and other applications if they exist). Also make sure to mention GRUMP on the [https://en.wikipedia.org/wiki/Malaria_Atlas_Project MAP Wikipedia page].
 
+* WorldPop: A [http://www.worldpop.org.uk/ population mapping project]. History section should mention AfriPop, AsiaPop, and AmeriPop, why they were separate in the beginning, why they were combined into a single project, and so on. Mention its importance in the [http://www.map.ox.ac.uk/explore/populations-risk/mapping-human-populations/ Malaria Atlas Project] and other applications. Also make sure to mention Worldpop on the [https://en.wikipedia.org/wiki/Malaria_Atlas_Project MAP Wikipedia page].
+
 === Malaria ===
 
 Note that after initial research, it may turn out for some of these pages that there's not enough yet to justify a Wikipedia page. You will be compensated for initial research and for leaving a partial stub in userspace.
