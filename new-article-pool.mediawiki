@@ -32,6 +32,10 @@ Many of these pages are listed because they are red-linked from [https://en.wiki
 
 * Jeremy Shiffman: A person at the Center for Global Development (see [http://www.cgdev.org/expert/jeremy-shiffman bio]) who has written papers about priority-setting.
 
+* Global Rural-Urban Mapping Project (GRUMP): A population mapping project. Start with [http://sedac.ciesin.columbia.edu/data/collection/grump-v1 this page]. Mention its importance in the [http://www.map.ox.ac.uk/explore/populations-risk/mapping-human-populations/ Malaria Atlas Project] (and other applications if they exist). Also make sure to mention GRUMP on the [https://en.wikipedia.org/wiki/Malaria_Atlas_Project MAP Wikipedia page].
+
+* WorldPop: A [http://www.worldpop.org.uk/ population mapping project]. History section should mention AfriPop, AsiaPop, and AmeriPop, why they were separate in the beginning, why they were combined into a single project, and so on. Mention its importance in the [http://www.map.ox.ac.uk/explore/populations-risk/mapping-human-populations/ Malaria Atlas Project] and other applications. Also make sure to mention WorldPop on the [https://en.wikipedia.org/wiki/Malaria_Atlas_Project MAP Wikipedia page].
+
 === Malaria ===
 
 Note that after initial research, it may turn out for some of these pages that there's not enough yet to justify a Wikipedia page. You will be compensated for initial research and for leaving a partial stub in userspace.
@@ -49,6 +53,8 @@ Most of these are selected as red links from [https://en.wikipedia.org/wiki/Time
 * Global Malaria Control Strategy (reserved for Sebastian): Launched in 1992, confirmed by World Health Assembly in 1993. From the timeline of malaria Wikipedia page: "This new strategy is based largely upon the primary health care approach and requires flexible, cost-effective, sustainable, and decentralized programs based upon disease rather than parasite control, adapted to local conditions and responding to local needs. This approach becomes succesful and has positive impact in a number of countries such as Brazil, China, Solomon Islands, Philippines, Vanuatu, Vietnam, and Thailand. Its success demonstrates that malaria can be controlled by locally and currently available tools."
 
 * Malaria Foundation International: Founded 1992 to fight against malaria.
+
+* Abuja Declaration and African Summit on Roll Back Malaria – decide on the canonical title: a conference and accompanying declaration that took place in 2000 to commit to combating malaria. Mention predecessors like Harare Declaration of June 1997. Start with [https://www.ncbi.nlm.nih.gov/books/NBK1691/ this paper].
 
 Some historical researchers (check for misspellings and existing pages; also check for Wikipedia pages in other languages):
 
