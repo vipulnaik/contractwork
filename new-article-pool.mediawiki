@@ -32,6 +32,8 @@ Many of these pages are listed because they are red-linked from [https://en.wiki
 
 * Jeremy Shiffman: A person at the Center for Global Development (see [http://www.cgdev.org/expert/jeremy-shiffman bio]) who has written papers about priority-setting.
 
+* Global Rural-Urban Mapping Project (GRUMP): A population mapping project. Start with [http://sedac.ciesin.columbia.edu/data/collection/grump-v1 this page]. Mention its importance in the [http://www.map.ox.ac.uk/explore/populations-risk/mapping-human-populations/ Malaria Atlas Project] (and other applications if they exist). Also make sure to mention GRUMP on the [https://en.wikipedia.org/wiki/Malaria_Atlas_Project MAP Wikipedia page].
+
 === Malaria ===
 
 Note that after initial research, it may turn out for some of these pages that there's not enough yet to justify a Wikipedia page. You will be compensated for initial research and for leaving a partial stub in userspace.
