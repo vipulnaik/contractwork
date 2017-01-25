@@ -18,13 +18,13 @@ Many of these pages are listed because they are red-linked from [https://en.wiki
 
 * Selective primary healthcare: Expand on the [https://en.wikipedia.org/wiki/Primary_healthcare#Selective_PHC section on the topic] and make this its own page.
 
-* 1988 Riga Conference (reserved for Sergey): Start by reading about [https://en.wikipedia.org/wiki/Alma_Ata_Declaration Alma Ata], since Riga was a follow-up to that. Also mention Riga in Alma Ata's page.
+* 1988 Riga Conference: Start by reading about [https://en.wikipedia.org/wiki/Alma_Ata_Declaration Alma Ata], since Riga was a follow-up to that. Also mention Riga in Alma Ata's page.
 
 * Oregon Health Services Commission: One of the earlier efforts at explicit priority-setting within health. Start by reading the row for it at [https://en.wikipedia.org/wiki/Priority-setting_in_global_health#History_of_organizations_and_programs_working_on_priority-setting priority-setting in global health], as well as the references used there.
 
 * WHO Ad Hoc Committee on Health Research Relating to Future Intervention Options: A WHO committee that did health research prioritization. Start by reading the description from a [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205967/#__sec6 paper that mentions it] (note that the section year in that paper should be 1994, not 1944).
 
-* Council on Health Research and Development (reserved for Sergey): A council that reviewed health research and development from developing countries.
+* Council on Health Research and Development: A council that reviewed health research and development from developing countries.
 
 * Lives Saved Tool (reserved for Chris): A tool created at Johns Hopkins University.
 
@@ -76,7 +76,7 @@ Some historical researchers (check for misspellings and existing pages; also che
 
 * Food Assistance for Disaster Relief (reserved for Sean): $40-70, depending on article quality and length. Maybe even more!
 
-* Nutrition Assistance Block Grants (reserved for Sergey): $40-70, depending on article quality and length. Maybe even more!
+* Nutrition Assistance Block Grants: $40-70, depending on article quality and length. Maybe even more!
 
 === Taxation ===
 
