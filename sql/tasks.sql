@@ -225,7 +225,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'American Time Use Survey', 'https://en.wikipedia.org/wiki/American_Time_Use_Survey','2016-12-14',34,'Survey research','Prose',NULL),
   ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'Marlowe–Crowne Social Desirability Scale', 'https://en.wikipedia.org/wiki/Marlowe%E2%80%93Crowne_Social_Desirability_Scale','2016-12-24',30,'Survey research','Prose',NULL),
-  ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', '24-hour diet recall', 'https://en.wikipedia.org/wiki/24-hour_diet_recall','2017-01-10',30,'Nutrition','Prose',NULL);
+  ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', '24-hour diet recall', 'https://en.wikipedia.org/wiki/24-hour_diet_recall','2017-01-10',30,'Nutrition','Prose',NULL),
+  ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'MalariaWorld', 'https://en.wikipedia.org/wiki/MalariaWorld','2017-01-26',28,'Global health/malaria','Prose',NULL);
 
 # -- Alex K. Chen list
 
