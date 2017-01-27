@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $348.30
+Total money earned by doing work (taxable as income for 2017): $368.30
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4784.57
 
-Net payment due: $1132.87
+Net payment due: $1152.87
 
 === Completed pages ===
 
@@ -60,13 +60,15 @@ Total so far: $90
 
 === Other tasks ===
 
-Total so far: $225
+Total so far: $245
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
 * Post announcing essay contest for general considerations for small-scale giving opportunities: $50. Completed January 19, 2017.
 
 * Consulting work, fixing character encoding issue on Wikipedia Views, see https://stackoverflow.com/questions/39261867/php-mysql-fixing-utf8-text-corrupted-by-implicit-mysqliset-charsetlatin1: $20. Completed January 25, 2017.
+
+* Updates to timeline of global health; fixed 11 dead links and added three new events (first two cholera pandemics, typhus epidemic): $20. Completed January 26, 2017.
 
 === Touch payments ===
 
