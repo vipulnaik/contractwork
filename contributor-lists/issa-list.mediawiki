@@ -44,19 +44,31 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $382.30
+Total money earned by doing work (taxable as income for 2017): $432.30
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4784.57
 
-Net payment due: $1166.87
+Net payment due: $1216.87
 
 === Completed pages ===
 
 Total so far: $90
 
 * Timeline of digital preservation: $90. Completed January 4, 2017.
+
+=== Open Phil and Good Ventures Wikipedia page grant list updates ===
+
+For each month, the payment is calculated according to:
+
+max{$27, min{$50, 5 * (1 + ''N'')}}
+
+Here, ''N'' is supposed to represent number of new distinct grants. This is calculated as follows: at the end of each month, take the union of "all grants newly announced to the public by Open Phil during that month" and "all grants newly announced to the public by Good Ventures during that month". Then ''N'' is the number of grants in this set. Note that because Open Phil and Good Ventures do not immediately add grants to their databases as soon as they are made, the grants newly announced to the public during a month likely differ from the grants made during the same month.
+
+Total so far: $50
+
+* Monthly update of Open Phil and GV grants database: $50 (for adding 6 new grants to Open Phil and 13 new grants to Good Ventures). Completed January 29, 2016.
 
 === Other tasks ===
 
