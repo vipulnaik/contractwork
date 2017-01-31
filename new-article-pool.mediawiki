@@ -44,8 +44,6 @@ Note that after initial research, it may turn out for some of these pages that t
 
 Most of these are selected as red links from [https://en.wikipedia.org/wiki/Timeline_of_malaria Timeline of malaria].
 
-* Malaria Eradication Scientific Alliance (MESA) (reserved for Devansh): An organization founded in Spain in 2012 to conduct research on malaria elimination.
-
 * Research Initiative on Traditional Antimalarial Methods (RITAM) (reserved for Sebastian): Founded in 1999 as a collaboration between WHO, GIFTS, and Oxford. See some info on the [https://en.wikipedia.org/wiki/Global_Initiative_for_Traditional_Systems_of_Health GIFTS page].
 
 * Multilateral Initiative on Malaria: An alliance of organizations that facilitates research on malaria, established 1997.

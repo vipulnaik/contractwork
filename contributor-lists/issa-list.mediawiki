@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $439.30
+Total money earned by doing work (taxable as income for 2017): $442.10
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4784.57
 
-Net payment due: $1223.87
+Net payment due: $1226.67
 
 === Completed pages ===
 
@@ -92,12 +92,13 @@ Total so far: $266
 
 === Commissions ===
 
-Total so far: $13.30
+Total so far: $16.10
 
 * Joey Malandra: 10% on $58 = $5.80
 
 * Charlie Corner: 15% on $50 = $7.50
 
+* Devansh Dwivedy: 10% on $28 = $2.80
 === Payments made ===
 
 * Check for $4000: Sent October 1, 2016. Deposited January 3, 2017, money withdrawn from account January 4, 2017.
