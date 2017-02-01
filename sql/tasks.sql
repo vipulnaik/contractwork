@@ -82,7 +82,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Therapeutice Specialis ad Febres Periodicas Perniciosas','https://en.wikipedia.org/wiki/Therapeutice_Specialis_ad_Febres_Periodicas_Perniciosas','2016-12-28',25,'Miscellaneous global health/malaria','Prose','Part of the malaria-related page cluster'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','European Virtual Institute for Malaria Research','https://en.wikipedia.org/wiki/European_Virtual_Institute_for_Malaria_Research','2016-12-29',35,'Miscellaneous global health/malaria','Prose','Part of the malaria-related page cluster. Page was originally published on 2016-12-28 and finalized on 2016-12-29'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of measles','https://en.wikipedia.org/wiki/Timeline_of_measles','2017-01-09',125,'Global health/diseases','Timeline',NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of poliomyelitis','https://en.wikipedia.org/wiki/Timeline_of_poliomyelitis','2017-01-14',130,'Global health/diseases','Timeline',NULL);
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of poliomyelitis','https://en.wikipedia.org/wiki/Timeline_of_poliomyelitis','2017-01-14',130,'Global health/diseases','Timeline',NULL),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of plague','https://en.wikipedia.org/wiki/Timeline_of_plague','2017-01-31',145,'Global health/diseases','Timeline','Includes five graphs. Originally published to main space on 2017-01-20');
 
 # -- Adrian Ulloa page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
