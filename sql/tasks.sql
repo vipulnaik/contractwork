@@ -221,7 +221,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 # -- Thomas Foster list
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of machine learning', 'https://en.wikipedia.org/wiki/Timeline_of_machine_learning', '2016-06-16', 80, 'Artificial intelligence/Machine learning', 'Timeline', NULL),
-  ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in Oceania', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_Oceania', '2016-06-23', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation');
+  ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in Oceania', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_Oceania', '2016-06-23', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation'),
+  ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in North America', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_North_America', '2017-01-31', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation');
 
 # -- Joey Malandra list
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
