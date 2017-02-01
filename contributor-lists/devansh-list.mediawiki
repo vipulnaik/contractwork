@@ -16,11 +16,19 @@ For more in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker
 
 Grand total (this is taxable income for the year 2017): $28
 
+Payment made: $103
+
 Carryover pending payment from 2016: $75
 
-Net payment due: $103
+Net payment due: None
+
+=== Completed pages ===
 
 * Malaria Eradication Scientific Alliance: $28. Completed January 30, 2017.
+
+=== Payments ===
+
+* January 31, 2016: $103 via PayPal.
 
 == Work in 2016 ==
 

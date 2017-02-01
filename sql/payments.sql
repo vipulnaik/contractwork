@@ -87,6 +87,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   # -- Devansh Dwivedy payments
   ('PayPal','Devansh Dwivedy',NULL,'2016-06-29','2016-06-29','2016-06-29','2016-06-29',50,50,0,50),
+  ('PayPal','Devansh Dwivedy',NULL,'2017-01-31','2017-01-31','2017-01-31','2017-01-31',103,103,0,103),
 
   # -- Eddy Su payments
   ('PayPal','Eddy Su',NULL,'2016-06-11','2016-06-11','2016-06-11','2016-06-11',38,38,0,38),
