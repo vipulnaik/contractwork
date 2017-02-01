@@ -30,13 +30,17 @@ Note that not all these pages were funded by me! However, I do pay on a per-page
 
 == Work and payments in 2017 ==
 
-Total money earned as income in 2017: $0 (no work done yet)
+Total money earned as income in 2017: $2.50
 
 Pending payment from 2016: $3373
 
 Payment made: $4000 (check deposited January 19)
 
-Net pending payment: ($627)
+Net pending payment: ($624.50)
+
+=== Commissions ===
+
+* Thomas Foster: 10% on $25 = $2.50
 
 == Bounty offers in 2016 ==
 List of bounty offers for Alex K. Chen (AKC).

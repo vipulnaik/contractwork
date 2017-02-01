@@ -50,7 +50,7 @@ Payment made: $4000
 
 Carryover payment due from 2016: $4784.57
 
-Net payment due: $1476.67
+Net payment due: $1479.17
 
 === Completed pages ===
 
@@ -104,13 +104,16 @@ Total so far: $1200
 
 === Commissions ===
 
-Total so far: $16.10
+Total so far: $18.60
 
 * Joey Malandra: 10% on $58 = $5.80
 
 * Charlie Corner: 15% on $50 = $7.50
 
 * Devansh Dwivedy: 10% on $28 = $2.80
+
+* Thomas Foster: 10% on $25 = $2.50
+
 === Payments made ===
 
 * Check for $4000: Sent October 1, 2016. Deposited January 3, 2017, money withdrawn from account January 4, 2017.
