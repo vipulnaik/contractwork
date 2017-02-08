@@ -18,9 +18,19 @@ Total money earned (this is taxable income for 2017): $25
 
 Carryover pending payment from 2016: $25
 
-Net payment due: $50
+Payment made: $50
+
+Net payment due: None
+
+=== Completed pages ===
 
 * Timeline of sovereign states in North America: $25. Completed January 31, 2017.
+
+This worker is doing no more work.
+
+=== Payments ===
+
+* February 7, 2017: $50 via PayPal. Actual payment $50.51 (additional 1% for currency exchange fees)
 
 == Work in 2016 ==
 
