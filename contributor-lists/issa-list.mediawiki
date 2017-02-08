@@ -44,19 +44,21 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $714.60
+Total money earned by doing work (taxable as income for 2017): $803.60
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4784.57
 
-Net payment due: $1499.17
+Net payment due: $1588.17
 
 === Completed pages ===
 
-Total so far: $90
+Total so far: $165
 
 * Timeline of digital preservation: $90. Completed January 4, 2017.
+
+* Global Burden of Disease Study: $75. Completed February 7, 2017.
 
 === Open Phil and Good Ventures Wikipedia page grant list updates ===
 
@@ -72,7 +74,7 @@ Total so far: $50
 
 === Other tasks ===
 
-Total so far: $266
+Total so far: $280
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -85,6 +87,8 @@ Total so far: $266
 * Updates to timeline of global health; fixed 11 dead links and added three new events (first two cholera pandemics, typhus epidemic): $20. Completed January 26, 2017.
 
 * Added reception section to page on Institute for Health Metrics and Evaluation (IHME): $14. Completed January 28, 2017.
+
+* Moving ICCIDD page to Iodine Global Network and updating the page content: $14. Completed February 7, 2017.
 
 == Stipennds ===
 

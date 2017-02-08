@@ -168,8 +168,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page creation','Professional consensus of economics','https://en.wikipedia.org/wiki/Professional_consensus_of_economics', '2016-07-10',67,'Economics', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Priority-setting in global health','https://en.wikipedia.org/wiki/Priority-setting_in_global_health','2016-07-27',155,'Health systems/Global health', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Initiative on Global Markets','https://en.wikipedia.org/wiki/Initiative_on_Global_Markets', '2016-10-05',30,'Economics', 'Prose', NULL),
-  # -- 2017 payments
-  ('Issa Rice','Wikipedia','Wikipedia page creation','Timeline of digital preservation','https://en.wikipedia.org/wiki/Timeline_of_digital_preservation', '2017-01-04', 90, 'Digital preservation','Timeline', 'There is still more to port over from https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_digital_preservation and additional payment will be added when the porting is complete');
+  # -- 2017 page creation
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Timeline of digital preservation','https://en.wikipedia.org/wiki/Timeline_of_digital_preservation', '2017-01-04', 90, 'Digital preservation','Timeline', 'There is still more to port over from https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_digital_preservation and additional payment will be added when the porting is complete'),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Global Burden of Disease Study','https://en.wikipedia.org/wiki/Global_Burden_of_Disease_Study','2017-02-07',75,'Global health','Prose','There was an existing confused page called "Global burden of disease" but this was essentially rewritten from scratch');
 
 
 # -- Jesse Clifton page creation
@@ -429,6 +430,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page update','Gavi, the Vaccine Alliance','https://en.wikipedia.org/wiki/Gavi,_the_Vaccine_Alliance','2017-01-25',7,'Global health','Prose','Page improvements including clarifying history of name changes and adding references'),
   ('Issa Rice','Wikipedia Views','Consulting','PHP/MySQL: Fixing utf8 text corrupted by implicit mysqli::set_charset(latin1) connection','https://stackoverflow.com/questions/39261867/php-mysql-fixing-utf8-text-corrupted-by-implicit-mysqliset-charsetlatin1','2017-01-25',20,'Character encoding issues','Private communication','Investigated character encoding issue, discovered relevant Stack Overflow question'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Timeline of global health','https://en.wikipedia.org/wiki/Timeline_of_global_health','2017-01-26',20,'Global health','Timeline','Fixed 11 dead links and added three new events (first two cholera pandemics, typhus epidemic)'),
-  ('Issa Rice','Wikipedia','Wikipedia page update','Institute for Health Metrics and Evaluation','https://en.wikipedia.org/wiki/Institute_for_Health_Metrics_and_Evaluation','2017-01-28',14,'Global health','Prose','Added reception section and some minor reference fixes');
+  ('Issa Rice','Wikipedia','Wikipedia page update','Institute for Health Metrics and Evaluation','https://en.wikipedia.org/wiki/Institute_for_Health_Metrics_and_Evaluation','2017-01-28',14,'Global health','Prose','Added reception section and some minor reference fixes'),
+  ('Issa Rice','Wikipedia','Wikipedia page update','Iodine Global Network','https://en.wikipedia.org/wiki/Iodine_Global_Network','2017-02-07',14,'Global health/nutrition/iodine','Prose','Moved from old location (for old name, International Council for the Control of Iodine Deficiency Disorders) to new one, and added new GiveWell reviews and recommendations');
 # -- insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
 
