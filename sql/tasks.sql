@@ -93,16 +93,14 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Timeline of optical character recognition', 'https://en.wikipedia.org/wiki/Timeline_of_optical_character_recognition', '2016-09-22', 60, 'Artificial intelligence/Machine learning','Timeline', NULL),
   ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Seth Baum', 'https://en.wikipedia.org/wiki/Seth_Baum', '2016-10-19', 20, 'Artificial intelligence/Existential risk/Influential people','Prose','Worker-initiated page creation');
   
-
-
-  
 # -- Avi Glozman page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Silicon Valley Education Foundation', 'https://en.wikipedia.org/wiki/Silicon_Valley_Education_Foundation', '2016-06-05', 33, 'Philanthropy/foundations/education', 'Prose', NULL),
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Screening Partnership Program', 'https://en.wikipedia.org/wiki/Screening_Partnership_Program', '2016-06-29', 53, 'United States government programs/Air travel', 'Prose', NULL),
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Timeline of social media', 'https://en.wikipedia.org/wiki/Timeline_of_social_media', '2016-07-27', 155, 'Technology/general', 'Timeline', '140 for original, extra 15 for additions 2016-08-28'),
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Timeline of e-commerce', 'https://en.wikipedia.org/wiki/Timeline_of_e-commerce', '2016-08-28', 175, 'Technology/general', 'Timeline', NULL),
-  ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Chicago Community Trust', 'https://en.wikipedia.org/wiki/Chicago_Community_Trust', '2016-10-21', 33, 'Philanthropy/foundations', 'Prose', NULL);
+  ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Chicago Community Trust', 'https://en.wikipedia.org/wiki/Chicago_Community_Trust', '2016-10-21', 33, 'Philanthropy/foundations', 'Prose', NULL),
+  ('Avi Glozman','Wikipedia','Wikipedia page creation','Timeline of online advertising','https://en.wikipedia.org/wiki/Timeline_of_online_advertising','2017-02-08',110,'Online advertising/Internet','Timeline','Initial version; more robustification needed explaining importance of each row');
 
 # -- Charlie Corner page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
