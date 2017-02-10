@@ -84,7 +84,7 @@ foreach($workerList as $worker) {
   $totalPaymentAcrossWorkers += $totalPayment[$worker];
 }
 
-function cmpWorkers($firstWorker, $secondWorker) {
+function cmpWorkersByPaymentsDue($firstWorker, $secondWorker) {
   global $totalPayment;
   if (intval($totalPayment[$firstWorker]) == intval($totalPayment[$secondWorker])) {
       return 0;
@@ -92,7 +92,7 @@ function cmpWorkers($firstWorker, $secondWorker) {
   return (intval($totalPayment[$firstWorker]) > intval($totalPayment[$secondWorker])) ? -1 : 1;
 }
 
-usort($workerList,"cmpWorkers");
+usort($workerList,"cmpWorkersByPaymentsDue");
 
 # Print table
 print "\n";
