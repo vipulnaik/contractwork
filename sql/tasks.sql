@@ -168,7 +168,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page creation','Initiative on Global Markets','https://en.wikipedia.org/wiki/Initiative_on_Global_Markets', '2016-10-05',30,'Economics', 'Prose', NULL),
   # -- 2017 page creation
   ('Issa Rice','Wikipedia','Wikipedia page creation','Timeline of digital preservation','https://en.wikipedia.org/wiki/Timeline_of_digital_preservation', '2017-01-04', 90, 'Digital preservation','Timeline', 'There is still more to port over from https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_digital_preservation and additional payment will be added when the porting is complete'),
-  ('Issa Rice','Wikipedia','Wikipedia page creation','Global Burden of Disease Study','https://en.wikipedia.org/wiki/Global_Burden_of_Disease_Study','2017-02-07',75,'Global health','Prose','There was an existing confused page called "Global burden of disease" but this was essentially rewritten from scratch');
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Global Burden of Disease Study','https://en.wikipedia.org/wiki/Global_Burden_of_Disease_Study','2017-02-07',75,'Global health','Prose','There was an existing confused page called "Global burden of disease" but this was essentially rewritten from scratch'),
+  ('Issa Rice','Wikipedia','Wikipedia page creation','Johns Hopkins Center for Health Security','https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security','2017-02-09',37,'Biosecurity','Prose','There was an existing page for "UPMC Center for Health Security" (the previous name for the org) but the page was entirely rewritten and significantly expanded, so is being treated as a new page creation');
 
 
 # -- Jesse Clifton page creation

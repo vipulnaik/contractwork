@@ -44,21 +44,23 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $803.60
+Total money earned by doing work (taxable as income for 2017): $851.60
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4784.57
 
-Net payment due: $1588.17
+Net payment due: $1636.17
 
 === Completed pages ===
 
-Total so far: $165
+Total so far: $202
 
 * Timeline of digital preservation: $90. Completed January 4, 2017.
 
 * Global Burden of Disease Study: $75. Completed February 7, 2017.
+
+* Johns Hopkins Center for Health Security: $37. Completed February 9, 2017.
 
 === Open Phil and Good Ventures Wikipedia page grant list updates ===
 
@@ -90,7 +92,7 @@ Total so far: $280
 
 * Moving ICCIDD page to Iodine Global Network and updating the page content: $14. Completed February 7, 2017.
 
-== Stipennds ===
+== Stipends ===
 
 Total so far: $250
 
@@ -112,7 +114,7 @@ Total so far: $40
 
 === Commissions ===
 
-Total so far: $18.60
+Total so far: $29.60
 
 * Joey Malandra: 10% on $58 = $5.80
 
@@ -121,6 +123,8 @@ Total so far: $18.60
 * Devansh Dwivedy: 10% on $28 = $2.80
 
 * Thomas Foster: 10% on $25 = $2.50
+
+* Avi Glozman: 10% on $110 = $11
 
 === Payments made ===
 

@@ -22,19 +22,21 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2017): $8.60
+Grand total (this is taxable income for tax year 2017): $19.60
 
 Carryover pending payment from 2016: $13.60
 
-Net payment due: $22.20
+Net payment due: $33.20
 
 === Commissions ===
 
-Total so far: $8.60
+Total so far: $19.60
 
 * Joey Malandra: Commission of 10% on $58 = $5.80
 
 * Devansh Dwivedy: Commission of 10% on $28 = $2.80
+
+* Avi Glozman: Commission of 10% on $110 = $11
 
 == Work in 2016 ==
 
