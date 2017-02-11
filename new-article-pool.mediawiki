@@ -145,6 +145,14 @@ Also, pages on state-level income tax returns. In general, prioritize the most p
 
 * W visa (reserved for Grigory): $125. A proposed new visa, part of various immigration reform proposals, that would be mostly a replacement for the existing H-2 visas. The high pay is mostly because understanding exactly what the proposals would do requires a deeper understanding of existing immigration law, and the politics of changing it. I'm happy to provide guidance to the person who works on this.
 
+=== Animal welfare ===
+
+* Brighter Green: Start with [http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/brighter-green-farm-animal-welfare-advocacy-china Open Phil], [http://www.goodventures.org/our-portfolio/grants/brighter-green-farm-animal-welfare-advocacy-in-china Good Ventures], and [https://www.devex.com/organizations/brighter-green-31410 Devex].
+
+* Fórum Nacional de Proteção e Defesa Animal: Start with [http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/forum-nacional-de-protecao-e-defesa-animal-international-cage-free-advocacy Open Phil]. Also watch [https://animalcharityevaluators.org/research/charity-review/forum-nacional-de-protecao-e-defesa-animal/ this page on the ACE website] (at the time of this writing, it just says "Status: Considered", but in the future the page might give a full review of the org).
+
+* People for Animals: Start with [http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/people-animals-international-cage-free-advocacy Open Phil]. Note that there are multiple organizations named "People for Animals"! For this page, we mean the one funded by Open Phil, i.e. the one with the website at [https://peopleforanimalsindia.org/ peopleforanimalsindia.org].
+
 === Books, orgs, and people ===
 
 * Sheldon Richman: $35: There is already a deleted page on him. You would first need to message the admin who deleted the page to retrieve the existing version. Then work on improving/fixing it, and then republish. Probably not good as a first project. Page needs to survive for at least 30 days after recreation to be eligible for payment.
