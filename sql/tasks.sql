@@ -10,7 +10,8 @@ create table tasks(
   topic varchar(100) NOT NULL,
   format varchar(100) NOT NULL,
   notes varchar(2000) DEFAULT NULL,
-  private boolean DEFAULT false
+  private boolean DEFAULT false,
+  language enum('en','es','ru','de','ja','fr','zh','it','pl','pt','nl','id','tr','ar','cs','sv','fa','ko','fi','uk','hu','th','bg','vi','he','av','no','az','ro','da','el','ca','sr','hr','simple','sk','kk','lt','bs','et','hi','sl','sh','af','ms','ka','tl','lv','hy','ta','sq','eu','bi','zh-yue','eo','mk','bn','gl','ml','ur','an','be','nn','te','ak','la','arz','mr','is','mn','war','ceb','cy','oc','kn','bug','br','uz','sco','ast','lb','ky','als','zh-min-nan','si','ga','jv','sw','fy','tt','io','ckb','pa','bar','ne','ba','scn','as','am','pnb','ku','wuu','nds','yi','ia','my','bm','qu','gu','su','yo','tg','lmo','mg','fo','ilo','vo','so','li','bh','cv','pms','ps','or','gd','new','ht','ce','vec','sa','diq','hsb','sah','frr','zh-classical','nah','nds-nl','bat-smg','os','ang','hak','hif','km','wa','gv','pam','mzn','gan','nap','lad','gn','bpy','vls','fiu-vro','tk','dsb','rue','mhr','map-bms','eml','szl','se','ext','stq','cdo','bo','min','sc','co','mt','bcl','sd','ksh','frp','vep','csb','nrm','lo','ug','lij','mai','kw','pap','fur','bxr','ace','dv','ie','kv','mi','crh','cbk-zam','ay','zea','rm','ln','krc','mwl','pdc','mrj','lez','udm','rw','pcd','kab','myv','arc','jbo','xal','nov','roa-tara','sn','bjn','ig','kaa','kl','nv','nso','pag','wo','tpi','roa-rup','chr','haw','na','tet','gom','za','kbd','ab','pi','cu','zu','iu','kg','ts','koi','mdf','pih','ch','om','sm','ki','lbe','ha','pnt','tyv','rmy','srn','tw','xh','chy','ss','ltg','ee','ty','got','ny','glk','dz','ik','tum','st','to','fj','ff','sg','tn','ti','lg','ks','rn','mo','ve','cr','kr','ng','aa','cho','mus','hz','mh','kj','ho','ii') COLLATE utf8_unicode_ci DEFAULT 'en',
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 # -- Milo King's Wikipedia page updates
@@ -36,8 +37,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Ethan Bashkansky', 'Wikipedia', 'Wikipedia page creation','Vote pairing in the United States presidential election, 2016','https://en.wikipedia.org/wiki/Vote_pairing_in_the_United_States_presidential_election,_2016','2016-11-02',105,'United States politics','Prose',NULL);
 
 # -- Sebastian Sanchez's Wikipedia page creation work
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, `language`) values
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page translation', 'Dolor en los animales', 'https://es.wikipedia.org/wiki/Dolor_en_los_animales','2016-04-21',100,'Animal welfare','Translation', 'Source: Pain in animals (English Wikipedia)','es');
+
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page translation', 'Dolor en los animales', 'https://es.wikipedia.org/wiki/Dolor_en_los_animales','2016-04-21',100,'Animal welfare','Translation', 'Source: Pain in animals (English Wikipedia)'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of cholera', 'https://en.wikipedia.org/wiki/Timeline_of_cholera','2016-04-23',100,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of malaria', 'https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-04-27',200,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of senescence research', 'https://en.wikipedia.org/wiki/Timeline_of_senescence_research','2016-05-09',100,'Frontier health/speculative','Timeline', NULL),
