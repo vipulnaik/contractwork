@@ -125,6 +125,14 @@ The following are all organizations that are [https://en.wikipedia.org/wiki/Open
 
 * Youth First Initiative (might be called "Youth First! Initiative" or "Youth First" – part of your job is to figure out what the canonical naming is): Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/youth-first-initiative-general-support Open Phil], [http://jjie.org/2015/01/22/new-campaign-seeks-to-sharply-reduce-youth-incarceration/ this article], and [https://chronicleofsocialchange.org/news-2/liz-ryan-founder-youth-first-initiative/9404 this interview].
 
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "Land Use Reform"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* Better Boulder: Start with [http://www.openphilanthropy.org/focus/us-policy/land-use-reform/better-boulder-yimby-2016 Open Phil] and [http://www.goodventures.org/our-portfolio/grants/better-boulder-yimby-2016 Good Ventures]. Make sure to cover YIMBY 2016. The conference website may have changed dramatically, so look on the Internet Archive for older copies. Ask us if you don't know how to do that. Also check out [https://archive.fo/joiJh#selection-2513.0-2519.16 this article].
+
+* California Renters Legal Advocacy and Education Fund: Start with [http://www.openphilanthropy.org/focus/us-policy/land-use-reform/california-renters-legal-advocacy-and-education-fund-general-support Open Phil's grant writeup].
+
+* Seattle for Everyone (reserved for Issa)
+
 === Torture ===
 
 * Pigeon torture: $25-40: A torture practice in North Korea. Trigger warning.
