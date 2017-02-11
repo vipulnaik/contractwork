@@ -12,7 +12,7 @@ if ($totalViewsResult -> num_rows > 0) {
   $totalViewCount = $row['totalViews'];
 }
 
-$createdOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = 'Pages edited significantly but not created by $worker' or tag = 'Pages created by $worker') and drilldown in ('desktop','mobile-web','mobile-app') and language = 'en'";
+$createdOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = 'Pages edited significantly but not created by $worker' or tag = 'Pages created by $worker') and drilldown in ('desktop','mobile-web','mobile-app')";
 
 $createdOrEditedPageViewsResult = $mysqli -> query($createdOrEditedPageViewsQuery);
 
@@ -22,7 +22,7 @@ if ($createdOrEditedPageViewsResult -> num_rows > 0) {
   $createdOrEditedPageViewCount = $row['totalViews'];
 }
 
-$paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where pagename in (select distinct task_receptacle from tasks where worker='$worker' and task_type = 'Wikipedia page creation') and drilldown in ('desktop','mobile-web','mobile-app') and language = 'en';"; # Needs to be fixed to handle cross-language views
+$paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where worker='$worker' and task_type in ('Wikipedia page creation','Wikipedia page translation')) and drilldown in ('desktop','mobile-web','mobile-app');";
  
 $paidViewsResult = $mysqli -> query($paidViewsQuery);
 
@@ -32,7 +32,7 @@ if ($paidViewsResult -> num_rows > 0) {
   $paidViewCount = $row['totalViews'];
 }
 
-$paidCreatedOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where pagename in (select distinct task_receptacle from tasks where worker='$worker' and task_type in ('Wikipedia page creation','Wikipedia page update')) and drilldown in ('desktop', 'mobile-web', 'mobile-app') and language = 'en';"; # Needs to be fixed to handle cross-language views
+$paidCreatedOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where worker='$worker' and task_type in ('Wikipedia page creation','Wikipedia page translation','Wikipedia page update')) and drilldown in ('desktop', 'mobile-web', 'mobile-app');";
 
 $paidCreatedOrEditedPageViewsResult = $mysqli -> query($paidCreatedOrEditedPageViewsQuery);
 
@@ -45,9 +45,14 @@ if ($paidCreatedOrEditedPageViewsResult -> num_rows > 0) {
 $costPerThousandViews = 0;
 $blendedCostPerThousandViews = 0;
 if ($paidViewCount > 0) {
-  $costPerThousandViews = 1000 * $totalPaymentForTaskType['Wikipedia page creation']/$paidViewCount;
+  $costPerThousandViews = 1000 * ($totalPaymentForTaskType['Wikipedia page creation'] + $totalPaymentForTaskType['Wikipedia page translation'])/$paidViewCount;
   $blendedCostPerThousandViews = 1000 * $totalPaymentAcrossYears/$paidViewCount;
 }
+if ($paidCreatedOrEditedPageViewCount > 0) {
+  $costPerThousandViewsCreatedOrEdited = 1000 * ($totalPaymentForTaskType['Wikipedia page creation'] + $totalPaymentForTaskType['Wikipedia page translation'] + $totalPaymentForTaskType['Wikipedia page update'])/$paidCreatedOrEditedPageViewCount;
+  $blendedCostPerThousandViewsCreatedOrEdited = 1000 * $totalPaymentAcrossYears/$paidCreatedOrEditedPageViewCount;
+}
+
 print "\n";
 print '<table id="myTableWorkerImpact" class="tablesorter">'."\n";
 print "<thead>\n";
@@ -57,7 +62,9 @@ print '<tr><td>Total pageviews of all Wikipedia pages created</td><td align="rig
 print '<tr><td>Total pageviews of all Wikipedia pages created or edited significantly</td><td align="right">'.sprintf('%.2f',$createdOrEditedPageViewCount).'</td></tr>';
 print '<tr><td>Total pageviews of Wikipedia pages created as contract work</td><td align="right">'.sprintf('%.2f',$paidViewCount).'</td></tr>';
 print '<tr><td>Total pageviews of Wikipedia pages created or edited (not necessarily significantly) as contract work</td><td align="right">'.sprintf('%.2f',$paidCreatedOrEditedPageViewCount).'</td></tr>';
-print '<tr><td>Cost per thousand views (including only explicit costs for page creation)</td><td align="right">'.sprintf('%.2f',$costPerThousandViews).'</td></tr>';
-print '<tr><td>Cost per thousand views (including pay for everything)</td><td align="right">'.sprintf('%.2f',$blendedCostPerThousandViews).'</td></tr>';
+print '<tr><td>Cost per thousand views of pages created (including only explicit costs for page creation)</td><td align="right">'.sprintf('%.2f',$costPerThousandViews).'</td></tr>';
+print '<tr><td>Cost per thousand views of pages created (including pay for everything)</td><td align="right">'.sprintf('%.2f',$blendedCostPerThousandViews).'</td></tr>';
+print '<tr><td>Cost per thousand views of pages created or edited (including only explicit costs for page creation and editing)</td><td align="right">'.sprintf('%.2f',$costPerThousandViewsCreatedOrEdited).'</td></tr>';
+print '<tr><td>Cost per thousand views of pages created or edited (including pay for everything)</td><td align="right">'.sprintf('%.2f',$blendedCostPerThousandViewsCreatedOrEdited).'</td></tr>';
 print "</tbody>\n</table>\n";
 ?>
