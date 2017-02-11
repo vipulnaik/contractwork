@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $854.60
+Total money earned by doing work (taxable as income for 2017): $904.60
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4784.57
 
-Net payment due: $1639.17
+Net payment due: $1689.17
 
 === Completed pages ===
 
@@ -76,7 +76,7 @@ Total so far: $50
 
 === Other tasks ===
 
-Total so far: $283
+Total so far: $333
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -93,6 +93,8 @@ Total so far: $283
 * Moving ICCIDD page to Iodine Global Network and updating the page content: $14. Completed February 7, 2017.
 
 * Form 990 page, added Decoder by Charity Navigator: $3. Completed February 10, 2017.
+
+* Addition of many new pages to create (Open Philanthropy Project grantees who do not have their own Wikipedia pages), to the new article pool: $50. Completed February 10, 2017.
 
 === Stipends ===
 

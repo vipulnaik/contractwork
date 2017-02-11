@@ -1,8 +1,8 @@
 create table tasks(
   task_id int(11) not null auto_increment primary key, 
   worker varchar(40),
-  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'None') default 'Wikipedia',
-  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry'),
+  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','None') default 'Wikipedia',
+  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry','Task listing'),
   task_receptacle varchar(200) NOT NULL,
   task_receptacle_url varchar(200) NOT NULL,
   completion_date date NOT NULL,
@@ -431,6 +431,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page update','Timeline of global health','https://en.wikipedia.org/wiki/Timeline_of_global_health','2017-01-26',20,'Global health','Timeline','Fixed 11 dead links and added three new events (first two cholera pandemics, typhus epidemic)'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Institute for Health Metrics and Evaluation','https://en.wikipedia.org/wiki/Institute_for_Health_Metrics_and_Evaluation','2017-01-28',14,'Global health','Prose','Added reception section and some minor reference fixes'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Iodine Global Network','https://en.wikipedia.org/wiki/Iodine_Global_Network','2017-02-07',14,'Global health/nutrition/iodine','Prose','Moved from old location (for old name, International Council for the Control of Iodine Deficiency Disorders) to new one, and added new GiveWell reviews and recommendations'),
-  ('Issa Rice','Wikipedia','Wikipedia page update','Form 990','https://en.wikipedia.org/wiki/Form_990','2017-02-10',3,'United States taxation/Philanthropy/Nonprofit evaluation','Prose','Added launch of Form 990 Decoder by Charity Navigator');
+  ('Issa Rice','Wikipedia','Wikipedia page update','Form 990','https://en.wikipedia.org/wiki/Form_990','2017-02-10',3,'United States taxation/Philanthropy/Nonprofit evaluation','Prose','Added launch of Form 990 Decoder by Charity Navigator'),
+  ('Issa Rice','Contract work for Vipul Naik','Task listing','New article pool','https://github.com/vipulnaik/contractwork/blob/master/new-article-pool.mediawiki','2017-02-10',50,'Contract work/worker management','Prose','Added list of Open Phil grantees. The payment also takes into account past pull requests. See https://github.com/vipulnaik/contractwork/pulls?q=is%3Apr+is%3Aclosed for a list');
 # -- insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
 
