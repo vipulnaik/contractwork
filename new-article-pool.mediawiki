@@ -205,6 +205,8 @@ The following are all organizations that are [https://en.wikipedia.org/wiki/Open
 
 * Project Peanut Butter: The page used to exist on Wikipedia. Issa has currently asked an admin to retrieve the old version of the page, so wait until after that is done.
 
+* Nutrition Science Initative: See [http://www.arnoldfoundation.org/nutrition-science-initiative-receives-35-5-million-conduct-innovative-research-studies/ Nutrition Science Initiative receives $35.5 million to conduct innovative research studies]. It is something pretty controversial, funded by the Laura and John Arnold Foundation. Google around for it or for Gary Taubes to get critiques.
+
 == Improvements to existing pages ==
 
 === Health (global and local) ===
