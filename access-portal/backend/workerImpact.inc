@@ -48,6 +48,8 @@ if ($paidViewCount > 0) {
   $costPerThousandViews = 1000 * ($totalPaymentForTaskType['Wikipedia page creation'] + $totalPaymentForTaskType['Wikipedia page translation'])/$paidViewCount;
   $blendedCostPerThousandViews = 1000 * $totalPaymentAcrossYears/$paidViewCount;
 }
+$costPerThousandViewsCreatedOrEdited = 0;
+$blendedCostPerThousandViewsCreatedOrEdited = 0;
 if ($paidCreatedOrEditedPageViewCount > 0) {
   $costPerThousandViewsCreatedOrEdited = 1000 * ($totalPaymentForTaskType['Wikipedia page creation'] + $totalPaymentForTaskType['Wikipedia page translation'] + $totalPaymentForTaskType['Wikipedia page update'])/$paidCreatedOrEditedPageViewCount;
   $blendedCostPerThousandViewsCreatedOrEdited = 1000 * $totalPaymentAcrossYears/$paidCreatedOrEditedPageViewCount;

@@ -21,7 +21,7 @@ foreach($yearList as $year) {
   $totalPaymentForYear[$year] = 0;
 }
 
-$grandTotal = 0;
+$totalTaskPaymentAcrossYears = 0;
 
 # Get task payments
 
@@ -36,7 +36,7 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
     }
   }
   $totalPaymentForYear[$row['year']] += $row['payment'];
-  $grandTotal += $row['payment'];
+  $totalTaskPaymentAcrossYears += $row['payment'];
 }
 
 function cmpTopics($firstTopic, $secondTopic) {
@@ -76,7 +76,7 @@ print "<tr><td><strong>Total</td>";
 foreach (array_reverse($yearList) as $year) {
   print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year]).'</strong></td>';
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
+print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentAcrossYears).'</strong></td>';
 print '</tr>';
 print "</tfoot>\n</table>\n";
 ?>
