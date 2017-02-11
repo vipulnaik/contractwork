@@ -71,7 +71,9 @@ Some historical researchers (check for misspellings and existing pages; also che
 
 === Philanthropy ===
 
-(nothing at present, but stay tuned. Be in touch if there is something you are interested in and think fits in)
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "History of Philanthropy"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* ARNOVA: Start with [http://www.openphilanthropy.org/research/history-of-philanthropy/arnova-history-philanthropy-prize Open Phil]. Note that ARNOVA seems to do work outside of "history of philanthropy", but since Open Phil is funding them for this work, you should do your best to cover this area in particular.
 
 === Politics ===
 
