@@ -1,5 +1,10 @@
 List of new articles that any interested author can work on. A parenthetical "(reserved)" means that an author has already announced that he or she is working on it. If that author later decides not to continue with it, the page will be returned to the general pool.
 
+Before you begin working on a page, you should see if a page has been created on Wikipedia! On several occasions, a page was created on Wikipedia between the time when a topic was added in this pool and when a worker tried to reserve the page. Watch out for name changes (organizations occasionally rename themselves), similar phrases that mean the same thing, and so forth. A few things to try:
+
+* [https://encrypted.google.com/search?hl=en&q=site%3Awikipedia.org Google for the topic with "site:wikipedia.org"]. Try searching both with and without quotes.
+* [https://en.wikipedia.org/w/index.php?title=Special:Search&profile=all&search=&fulltext=1 Wikipedia's own search]. Note that by default, [https://en.wikipedia.org/wiki/Wikipedia:Controlling_search_engine_indexing#Namespace_control content in user and draft spaces are not indexed by search engines like Google]. Doing an "Everything" search will locate even content on these pages.
+
 == Draft completion ==
 
 Some already existing drafts need a little bit cleanup before they can be published and pushed to the world.
