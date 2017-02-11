@@ -1,5 +1,10 @@
 List of new articles that any interested author can work on. A parenthetical "(reserved)" means that an author has already announced that he or she is working on it. If that author later decides not to continue with it, the page will be returned to the general pool.
 
+Before you begin working on a page, you should see if a page has been created on Wikipedia! On several occasions, a page was created on Wikipedia between the time when a topic was added in this pool and when a worker tried to reserve the page. Watch out for name changes (organizations occasionally rename themselves), similar phrases that mean the same thing, and so forth. A few things to try:
+
+* [https://encrypted.google.com/search?hl=en&q=site%3Awikipedia.org Google for the topic with "site:wikipedia.org"]. Try searching both with and without quotes.
+* [https://en.wikipedia.org/w/index.php?title=Special:Search&profile=all&search=&fulltext=1 Wikipedia's own search]. Note that by default, [https://en.wikipedia.org/wiki/Wikipedia:Controlling_search_engine_indexing#Namespace_control content in user and draft spaces are not indexed by search engines like Google]. Doing an "Everything" search will locate even content on these pages.
+
 == Draft completion ==
 
 Some already existing drafts need a little bit cleanup before they can be published and pushed to the world.
@@ -66,11 +71,67 @@ Some historical researchers (check for misspellings and existing pages; also che
 
 === Philanthropy ===
 
-(nothing at present, but stay tuned. Be in touch if there is something you are interested in and think fits in)
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "History of Philanthropy"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* ARNOVA: Start with [http://www.openphilanthropy.org/research/history-of-philanthropy/arnova-history-philanthropy-prize Open Phil]. Note that ARNOVA seems to do work outside of "history of philanthropy", but since Open Phil is funding them for this work, you should do your best to cover this area in particular.
 
 === Politics ===
 
-(nothing at present, but stay tuned. Be in touch if there is something you are interested in and think fits in)
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "Criminal Justice Reform"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* Accountable Justice Project: See the [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/accountable-justice-project-general-support Open Phil writeup]. Note that this project is recently-launched/might not have launched yet. It also seems to be distinct from the "FSU Project on Accountable Justice" (see below; confusing, because if you [https://encrypted.google.com/search?hl=en&q=Accountable%20Justice%20Project Google for this], you get results for the latter). Watch also [https://encrypted.google.com/search?hl=en&q=site%3Aproteusfund.org%20accountable%20justice%20project this search result].
+
+* Alliance for Safety and Justice: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/alliance-safety-and-justice-general-support Open Phil's grant writeup], [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/alliance-safety-and-justice-general-support-2 round two of funding], and [http://www.openphilanthropy.org/blog/supporting-launch-alliance-safety-and-justice this blog post].
+
+* Ayni Institute: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ayni-institute-movement-ecology-training Open Phil's original writeup]. Good Ventures also has [http://www.goodventures.org/our-portfolio/grants/ayni-institute-movement-ecology-training pretty much the same thing] on their website. See also the [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ayni-institute-momentum-training July 2016] and [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ayni-institute-movement-ecology-and-metrics December 2016] updates.
+
+* Brooklyn Community Bail Fund: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/brooklyn-community-bail-fund-general-support Open Phil] and [http://www.huffingtonpost.com/2015/03/17/brooklyn-community-bail-fund_n_6886836.html HuffPo].
+
+* Colorado Criminal Justice Reform Coalition: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/colorado-criminal-justice-reform-coalition-general-support Open Phil] and [https://encrypted.google.com/search?hl=en&q=%22Colorado%20Criminal%20Justice%20Reform%20Coalition%22#q=%22Colorado+Criminal+Justice+Reform+Coalition%22&hl=en&start=10 Google].
+
+* Correctional Association of New York: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/correctional-association-new-york-general-support Open Phil]. You can cite the [http://www.goodventures.org/our-portfolio/grants/correctional-association-of-new-york-general-support Good Ventures page] too. [https://encrypted.google.com/search?hl=en&q=%22Correctional%20Association%20of%20New%20York%22%20site%3Anytimes.com Lots of mentions on NYT].
+
+* Essie Justice Group: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/essie-justice-group-general-support Open Phil]. I don't think there's a lot of information about this group (yet).
+
+* FSU Project on Accountable Justice: See [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/florida-state-university-project-accountable-justice-general-support Open Phil's writeup]. Not to be confused with the Accountable Justice Project.
+
+* Faith in Texas: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/faith-texas-general-support Open Phil] and [http://www.goodventures.org/our-portfolio/grants/faith-in-texas-general-support Good Ventures]. Note that because the phrase "faith in Texas" is common and search results are polluted, you will have to do some [https://encrypted.google.com/search?hl=en&q=%22Faith%20in%20Texas%22%20%2D%22people%20of%20faith%22%20%2Dchrist%20%2D%22good%20faith%22%20%2D%22bad%20faith%22%20%2D%22Islamic%20faith%22 clever Googling] to get around that.
+
+* Florida Rights Restoration Coalition: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/florida-rights-restoration-coalition-general-support Open Phil] and [http://www.goodventures.org/our-portfolio/grants/florida-rights-restoration-coalition-general-support Good Ventures]. The [https://encrypted.google.com/search?hl=en&q=%22Florida%20Rights%20Restoration%20Coalition%22 Google results] are decent.
+
+* Human Impact Partners: Organization that does research and advocacy at the intersection of public health and criminal justice reform. Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/human-impact-partners-convening Open Phil].
+
+* JustLeadershipUSA: An organization that does advocacy to reduce incarceration. Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/justleadershipusa-close-rikers-campaign Open Phil's writeup].
+
+* Justice Strategies: A criminal justice reform think tank in the United States. Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/justice-strategies-general-support Open Phil's writeup]. Finding information might be tricky because "justice strategies" is a common phrase.
+
+* Legal Services for Prisoners with Children: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/legal-services-prisoners-children-general-support Open Phil's]. [https://clpp.hampshire.edu/sites/default/files/intern_reports/Jaydee%20Lee%20-%20Final%20Report.pdf This report] might be useful.
+
+* Mijente: Some coverage [http://www.latina.com/lifestyle/our-issues/mijente-social-justice-movement here], [http://gozamos.com/2015/12/mijente-a-new-national-latinx-organization-launches-this-weekend-in-chicago/ here], and [https://medium.com/@marisa_franco/introducing-mijente-c87805785fd1 here]. Make sure to check out [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/mijente-criminal-justice-reform Open Phil] and [http://www.goodventures.org/our-portfolio/grants/mijente-criminal-justice-reform Good Ventures] as well.
+
+* National Association of Community and Restorative Justice: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/national-association-community-and-restorative-justice-restorative-justice-convening Open Phil]. They seem to host conferences, so make sure to mention that. Otherwise, I don't think there's a lot of information about them.
+
+* New Virginia Majority Education Fund: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/new-virginia-majority-formerly-incarcerated-organizers Open Phil], [http://www.goodventures.org/our-portfolio/grants/new-virginia-majority-formerly-incarcerated-organizers Good Ventures], and maybe [http://www.newvirginiamajority.org/mission_history their history page] (but it's not very good).
+
+* Promise of Justice Initiative: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/promise-justice-initiative-general-support Open Phil] and [http://www.goodventures.org/our-portfolio/grants/promise-of-justice-initiative-general-support Good Ventures]. Also see [http://thelensnola.org/2015/03/19/lawsuit-says-state-prison-officials-broke-law-in-discussing-executions/ this article].
+
+* ReFrame Mentorship: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/reframe-mentorship-general-support Open Phil] and [http://www.goodventures.org/our-portfolio/grants/reframe-mentorship-general-support Good Ventures]. Maybe also [http://www.hefn.org/connect/event/the_reframe_mentorship_strategic_communications_funder_briefing this page]? There doesn't seem to be a lot about this.
+
+* Texas Fair Defense Project: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/texas-fair-defense-project-general-support Open Phil] and [https://www.buzzfeed.com/alexcampbell/austin-illegally-jails-poor-people-lawsuit-claims this BuzzFeed article]. Maybe [https://www.youtube.com/watch?v=9dtTWII8DVk this video]?
+
+* The Ordinary People Society: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ordinary-peoples-society-general-support this Open Phil grant writeup]. Also check out the pages from the [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ordinary-people-society-criminal-justice-reform March] and [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ordinary-people-society-prodigal-child-project December] 2016 grants.
+
+* Voice of the Ex-Offender: Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/voice-ex-offender-southern-regional-convening Open Phil], [https://tuchangemakers.tulane.edu/2013/10/04/voice-of-the-ex-offender-vote/ this page], and [https://thinkprogress.org/70-000-louisianans-cant-vote-today-c84b9abdfe90 this post].
+
+* Youth First Initiative (might be called "Youth First! Initiative" or "Youth First" – part of your job is to figure out what the canonical naming is): Start with [http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/youth-first-initiative-general-support Open Phil], [http://jjie.org/2015/01/22/new-campaign-seeks-to-sharply-reduce-youth-incarceration/ this article], and [https://chronicleofsocialchange.org/news-2/liz-ryan-founder-youth-first-initiative/9404 this interview].
+
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "Land Use Reform"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* Better Boulder: Start with [http://www.openphilanthropy.org/focus/us-policy/land-use-reform/better-boulder-yimby-2016 Open Phil] and [http://www.goodventures.org/our-portfolio/grants/better-boulder-yimby-2016 Good Ventures]. Make sure to cover YIMBY 2016. The conference website may have changed dramatically, so look on the Internet Archive for older copies. Ask us if you don't know how to do that. Also check out [https://archive.fo/joiJh#selection-2513.0-2519.16 this article].
+
+* California Renters Legal Advocacy and Education Fund: Start with [http://www.openphilanthropy.org/focus/us-policy/land-use-reform/california-renters-legal-advocacy-and-education-fund-general-support Open Phil's grant writeup].
+
+* Seattle for Everyone (reserved for Issa)
 
 === Torture ===
 
@@ -94,9 +155,53 @@ Also, pages on state-level income tax returns. In general, prioritize the most p
 
 * W visa: $125. A proposed new visa, part of various immigration reform proposals, that would be mostly a replacement for the existing H-2 visas. The high pay is mostly because understanding exactly what the proposals would do requires a deeper understanding of existing immigration law, and the politics of changing it. I'm happy to provide guidance to the person who works on this.
 
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "Immigration Policy"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* Free Migration Project: Start with [http://www.openphilanthropy.org/focus/us-policy/immigration-policy/free-migration-project-planning-grant Open Phil] and maybe [https://theihs.org/campus-events/weekend-seminars/immigration-free-people/ this event]. There doesn't seem to be a lot of information about this.
+
+* International Refugee Assistance Project: Start with [http://www.openphilanthropy.org/focus/us-policy/immigration-policy/international-refugee-assistance-project-general-support Open Phil's grant writeup]. Lots of recent news coverage, so make sure to get that in your page. Open Phil also [http://www.openphilanthropy.org/blog/giving-suggestions-pertaining-recent-executive-actions recently recommended IRAP] as a place to donate to in response to recent events, so mention that too, as well as details like "IRAP is one of the plaintiffs, along with the American Civil Liberties Union (ACLU), the National Immigration Law Center, and a Yale Law clinic, in a suit that got a temporary injunction against the recent Executive Order targeting green card holders".
+
+* Protect the People: Start with [http://www.openphilanthropy.org/focus/us-policy/immigration-policy/protect-people-seasonal-migration-haiti Open Phil's grant writeup]. The phrase "protect the people" is rather common, so be careful as you look for information.
+
+* U.S. Association for International Migration (USAIM): Start with [http://www.openphilanthropy.org/focus/us-policy/immigration-policy/usaim-seasonal-migration-haiti Open Phil's grant writeup].
+
+=== Animal welfare ===
+
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "Farm Animal Welfare"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* Brighter Green: Start with [http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/brighter-green-farm-animal-welfare-advocacy-china Open Phil], [http://www.goodventures.org/our-portfolio/grants/brighter-green-farm-animal-welfare-advocacy-in-china Good Ventures], and [https://www.devex.com/organizations/brighter-green-31410 Devex].
+
+* Fórum Nacional de Proteção e Defesa Animal: Start with [http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/forum-nacional-de-protecao-e-defesa-animal-international-cage-free-advocacy Open Phil]. Also watch [https://animalcharityevaluators.org/research/charity-review/forum-nacional-de-protecao-e-defesa-animal/ this page on the ACE website] (at the time of this writing, it just says "Status: Considered", but in the future the page might give a full review of the org).
+
+* People for Animals: Start with [http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/people-animals-international-cage-free-advocacy Open Phil]. Note that there are multiple organizations named "People for Animals"! For this page, we mean the one funded by Open Phil, i.e. the one with the website at [https://peopleforanimalsindia.org/ peopleforanimalsindia.org].
+
+=== Global catastrophic risks ===
+
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "Global Catastrophic Risks"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* Forum for Climate Engineering Assessment: Start with [http://www.openphilanthropy.org/focus/global-catastrophic-risks/miscellaneous/american-university-forum-climate-engineering-assessment Open Phil's grant writeup]. Note that their website used to be at [http://dcgeoconsortium.org/ dcgeoconsortium.org] but now it is at [http://ceassessment.org/ ceassessment.org], so make sure to document this switch on the page you write.
+
+* Solar Radiation Management Governance Initiative: Start with the [http://www.openphilanthropy.org/focus/global-catastrophic-risks/miscellaneous/solar-radiation-management-governance-initiative-general-support Open Phil grant writeup], [https://www.theguardian.com/environment/2011/dec/01/geoengineering-techniques-study-science-coalition this Guardian piece], [http://www.goodventures.org/our-portfolio/grants/solar-radiation-management-governance-initiative-general-support Good Ventures], [https://amicrowavedplanet.com/the-deception-of-solar-radiation-management/ this post], and maybe [https://royalsociety.org/topics-policy/projects/solar-radiation-governance/ this page]. I don't know if there's a lot of information about this.
+
+=== Scientific research ===
+
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "Scientific Research"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* Future of Research: Start with [http://www.openphilanthropy.org/focus/scientific-research/miscellaneous/future-research-general-support Open Phil's grant writeup] and [http://www.sciencemag.org/careers/2016/05/grassroots-future-research-group-makes-it-official this article]. Note that the phrase "future of research" is quite common, so you will have to do some [https://encrypted.google.com/search?hl=en&q=%22future%20of%20research%22%20McDowell clever Googling] ([https://encrypted.google.com/search?hl=en&q=%22future%20of%20research%22%20Polka another example]) to filter out the irrelevant stuff.
+
+* Rescuing Biomedical Research: Start with [http://www.openphilanthropy.org/focus/scientific-research/miscellaneous/princeton-university-rescuing-biomedical-research Open Phil's grant writeup]. Use [https://encrypted.google.com/search?hl=en&q=%22Rescuing%20Biomedical%20Research%22%20Princeton Google].
+
 === Books, orgs, and people ===
 
 * Sheldon Richman: $35: There is already a deleted page on him. You would first need to message the admin who deleted the page to retrieve the existing version. Then work on improving/fixing it, and then republish. Probably not good as a first project. Page needs to survive for at least 30 days after recreation to be eligible for payment.
+
+The following are all organizations that are [https://en.wikipedia.org/wiki/Open_Philanthropy_Project#Grants_made grantees of the Open Philanthropy Project under "Other areas"]. As such, your page should include a "Funding" section (or similar) that includes information about the Open Phil grant. See [https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security here] for an example (note how there is a "Funding" section, and the page incorporates information from Open Phil's grant writeup). A good standard list of sections for an organization is: "History", "Funding", "Publications", "Reception", "See also" (related pages ''on Wikipedia''), "External links" (related pages or further reading ''outside of Wikipedia''), "References".
+
+* Associated Students of the University of California, Berkeley: Start with [http://www.openphilanthropy.org/giving/grants/asuc-effective-altruists-berkeley-decal-university-course Open Phil]. Note that ASUC is just the name for the student government at UC Berkeley. Wikipedia already has a small section about it [https://en.wikipedia.org/wiki/University_of_California,_Berkeley#Student_government here]. So your task will be to expand that into a page, and mention [https://en.wikipedia.org/wiki/University_of_California,_Berkeley#Student_groups DeCal] and Open Phil's grant to support the EA course.
+
+* MIT Synthetic Neurobiology Group: Start with [http://www.openphilanthropy.org/focus/scientific-research/miscellaneous/massachusetts-institute-technology-synthetic-neurobiology-group Open Phil's grant writeup]. Note that the group is already briefly mentioned [https://en.wikipedia.org/wiki/MIT_Media_Lab#Current_research_focus here] on Wikipedia.
+
+* Project Peanut Butter: The page used to exist on Wikipedia. Issa has currently asked an admin to retrieve the old version of the page, so wait until after that is done.
 
 == Improvements to existing pages ==
 
