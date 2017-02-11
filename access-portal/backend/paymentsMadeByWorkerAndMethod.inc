@@ -23,6 +23,16 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $totalPaymentMadeAcrossWorkers += $row['payment'];
 }
 
+function cmpWorkersByPaymentsMade($firstWorker, $secondWorker) {
+  global $totalPaymentMadeToWorker;
+  if (floatval($totalPaymentMadeToWorker[$firstWorker]) == floatval($totalPaymentMadeToWorker[$secondWorker])) {
+      return 0;
+  }
+  return (floatval($totalPaymentMadeToWorker[$firstWorker]) > floatval($totalPaymentMadeToWorker[$secondWorker])) ? -1 : 1;
+}
+
+usort($workerList,"cmpWorkersByPaymentsMade");
+
 # Print table
 print "\n";
 print '<table id="myTablePaymentsMadeByWorkerAndMethod" class="tablesorter">'."\n";

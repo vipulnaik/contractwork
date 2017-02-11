@@ -107,6 +107,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   # -- Thomas Foster payment
   ('PayPal','Thomas Foster',NULL,'2016-06-16','2016-06-16','2016-06-16','2016-06-16',80,79.99,0.79,79),
+  ('PayPal','Thomas Foster',NULL,'2017-02-07','2017-02-07','2017-02-07','2017-02-07',50,50.51,0.51,50),
 
   # -- Alex K. Chen
   ('Check','Alex K. Chen',NULL,'2015-12-26','2015-12-31','2016-01-06','2016-01-06',7100,7100,0,7100),
