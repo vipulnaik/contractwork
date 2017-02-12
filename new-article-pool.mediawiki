@@ -205,7 +205,23 @@ The following are all organizations that are [https://en.wikipedia.org/wiki/Open
 
 * Project Peanut Butter: Start with [https://en.wikipedia.org/wiki/User:Riceissa/Project_Peanut_Butter this user space version] and [http://www.openphilanthropy.org/giving/grants/project-peanut-butter-ready-use-therapeutic-food-rct Open Phil].
 
-* Nutrition Science Initative: See [http://www.arnoldfoundation.org/nutrition-science-initiative-receives-35-5-million-conduct-innovative-research-studies/ Nutrition Science Initiative receives $35.5 million to conduct innovative research studies]. It is something pretty controversial, funded by the Laura and John Arnold Foundation. Google around for it or for Gary Taubes to get critiques.
+=== Laura and John Arnold Foundation grantees ===
+
+* Nutrition Science Initative: See [http://www.arnoldfoundation.org/nutrition-science-initiative-receives-35-5-million-conduct-innovative-research-studies/ Nutrition Science Initiative receives $35.5 million to conduct innovative research studies]. It is something pretty controversial, funded by the Laura and John Arnold Foundation (to the tune of ~$40 million). Google around for it or for Gary Taubes to get critiques.
+
+* Public Safety Assessment: See [http://www.arnoldfoundation.org/initiative/criminal-justice/crime-prevention/public-safety-assessment/ here] and [http://www.justicesystempartners.org/projects/supporting-the-implementation-of-the-psa-tool/ here] for starters
+
+=== Atlantic Philanthropies grantees ===
+
+Please double-check for the existence of the page.
+
+* Global Brain Health Institute: See [http://www.atlanticphilanthropies.org/grants/global-brain-health-institute-a-culminating-investment-in-human-capital-development-2 grant of $119 million] and [http://www.atlanticphilanthropies.org/grants/global-brain-health-institute-a-culminating-investment-in-human-capital-development grant of $40 million].
+
+* UCSF Cardiovascular Research Institute: See [http://www.atlanticphilanthropies.org/grants/global-brain-health-institute-a-culminating-investment-in-human-capital-development-2 grant of $75 million]
+
+* East Bay Community Foundation: See e.g. [http://www.atlanticphilanthropies.org/grants/implementation-of-the-integrated-services-in-schools-initiative-3 Implementation of the Integrated Services in Schools Initiative]
+
+* Katharine Howard Foundation: See e.g. [http://www.atlanticphilanthropies.org/grants/infant-health-and-well-being here]
 
 == Improvements to existing pages ==
 
