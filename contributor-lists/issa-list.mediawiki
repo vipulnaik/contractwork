@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $1124.60
+Total money earned by doing work (taxable as income for 2017): $1165.60
 
 Payment made: $4000
 
-Carryover payment due from 2016: $4784.57
+Carryover payment due from 2016: $4803.31
 
-Net payment due: $1909.17
+Net payment due: $1968.91
 
 === Completed pages ===
 
@@ -61,6 +61,12 @@ Total so far: $202
 * Global Burden of Disease Study: $75. Completed February 7, 2017.
 
 * Johns Hopkins Center for Health Security: $37. Completed February 9, 2017.
+
+=== Royalties ===
+
+Total so far: $41
+
+* Cause Prioritization Wiki (January 1, 2016 to February 10, 2017): $41
 
 === Open Phil and Good Ventures Wikipedia page grant list updates ===
 
@@ -140,13 +146,15 @@ Total so far: $29.60
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $9784.55
+Total money earned by doing work (taxable as income for 2016): $9786.55
 
 Reimbursement due (not taxable as income for 2016): $401.03
 
-Payment made: $5403
+Payment made: $6382
 
-Net payment due: $4782.57
+Carryover pending payment from 2015: $997.73
+
+Net payment due: $4803.31
 
 === Completed pages ===
 
