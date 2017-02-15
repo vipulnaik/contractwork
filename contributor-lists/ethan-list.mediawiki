@@ -22,11 +22,17 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2017): $19.60
+Grand total (this is taxable income for tax year 2017): $41.10
 
 Carryover pending payment from 2016: $13.60
 
-Net payment due: $33.20
+Net payment due: $54.70
+
+=== Non-Wikipedia work ===
+
+Total so far: $21.50
+
+* Getting migration level survey responses (43 in number): $21.50. Entered February 15, 2017.
 
 === Commissions ===
 
