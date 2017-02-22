@@ -36,10 +36,11 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Ethan Bashkansky', 'Wikipedia', 'Wikipedia page creation','Form 1099-R','https://en.wikipedia.org/wiki/Form_1099-R','2016-08-29',50,'United States taxation','Prose',NULL),
   ('Ethan Bashkansky', 'Wikipedia', 'Wikipedia page creation','Vote pairing in the United States presidential election, 2016','https://en.wikipedia.org/wiki/Vote_pairing_in_the_United_States_presidential_election,_2016','2016-11-02',105,'United States politics','Prose',NULL);
 
-# -- Sebastian Sanchez's Wikipedia page creation work
+# -- Sebastian Sanchez's Wikipedia page translation work
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, `language`) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page translation', 'Dolor en los animales', 'https://es.wikipedia.org/wiki/Dolor_en_los_animales','2016-04-21',100,'Animal welfare','Translation', 'Source: Pain in animals (English Wikipedia)','es');
 
+# -- Sebastian Sanchez's Wikipedia page creation work
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of cholera', 'https://en.wikipedia.org/wiki/Timeline_of_cholera','2016-04-23',100,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of malaria', 'https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-04-27',200,'Global health/diseases/malaria','Timeline', NULL),
@@ -86,7 +87,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','European Virtual Institute for Malaria Research','https://en.wikipedia.org/wiki/European_Virtual_Institute_for_Malaria_Research','2016-12-29',35,'Miscellaneous global health/diseases/malaria','Prose','Part of the malaria-related page cluster. Page was originally published on 2016-12-28 and finalized on 2016-12-29'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of measles','https://en.wikipedia.org/wiki/Timeline_of_measles','2017-01-09',125,'Global health/diseases','Timeline',NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of poliomyelitis','https://en.wikipedia.org/wiki/Timeline_of_poliomyelitis','2017-01-14',130,'Global health/diseases','Timeline',NULL),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of plague','https://en.wikipedia.org/wiki/Timeline_of_plague','2017-01-31',145,'Global health/diseases','Timeline','Includes five graphs. Originally published to main space on 2017-01-20');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of plague','https://en.wikipedia.org/wiki/Timeline_of_plague','2017-01-31',145,'Global health/diseases','Timeline','Includes five graphs. Originally published to main space on 2017-01-20'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of yellow fever','https://en.wikipedia.org/wiki/Timeline_of_yellow_fever','2017-02-21',140,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-02-18');
 
 # -- Adrian Ulloa page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
