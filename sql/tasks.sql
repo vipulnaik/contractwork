@@ -347,7 +347,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in Germany','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Germany','2017-01-02',30,'Country healthcare','Timeline','Reference robustification'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in Japan','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Japan','2017-01-02',35,'Country healthcare','Timeline','Reference robustification'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of leukemia','https://en.wikipedia.org/wiki/Timeline_of_leukemia','2017-01-01',5,'Global health/diseases','Timeline','Graph added'),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Multiple timelines: healthcare in Japan, India, Germany, Ethiopia','N/A','2017-01-02',20,'Country healthcare','Timeline','Life expectancy graphs added');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Multiple timelines: healthcare in Japan, India, Germany, Ethiopia','N/A','2017-01-02',20,'Country healthcare','Timeline','Life expectancy graphs added'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of influenza','https://en.wikipedia.org/wiki/Timeline_of_influenza','2017-02-21',100,'Global health/diseases','Timeline','Reference robustification, significant expansion, and one graph added');
 
 
 # -- Issa Rice's Open Philanthropy Project periodic grant updates

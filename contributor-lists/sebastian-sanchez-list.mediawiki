@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $630
+Total money earned as income: $730
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $640.78
 
-Net payment due: ($521.15)
+Net payment due: ($421.15)
 
 === Completed pages ===
 
@@ -40,7 +40,7 @@ Total so far: $540
 
 === Additions to existing pages ===
 
-Total so far: $90
+Total so far: $190
 
 * Graph for timeline of leukemia: $5. Completed January 1, 2017.
 
@@ -49,6 +49,8 @@ Total so far: $90
 * Reference robustification for timeline of healthcare in Japan: $35. Completed January 2, 2017.
 
 * Graphs for timelines of healthcare in Japan, India, Germany, and Ethiopia: $20. Completed January 2, 2017.
+
+* Significant expansion of and reference robustification for timeline of influenza: $100. Completed February 21, 2017. Of the two extra graphs added, one was own creation.
 
 === Payment schedule ===
 
