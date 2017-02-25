@@ -88,7 +88,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of measles','https://en.wikipedia.org/wiki/Timeline_of_measles','2017-01-09',125,'Global health/diseases','Timeline',NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of poliomyelitis','https://en.wikipedia.org/wiki/Timeline_of_poliomyelitis','2017-01-14',130,'Global health/diseases','Timeline',NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of plague','https://en.wikipedia.org/wiki/Timeline_of_plague','2017-01-31',145,'Global health/diseases','Timeline','Includes five graphs. Originally published to main space on 2017-01-20'),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of yellow fever','https://en.wikipedia.org/wiki/Timeline_of_yellow_fever','2017-02-21',140,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-02-18');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of yellow fever','https://en.wikipedia.org/wiki/Timeline_of_yellow_fever','2017-02-21',140,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-02-18'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of typhus','https://en.wikipedia.org/wiki/Timeline_of_typhus','2017-02-24',150,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-02-07');
 
 # -- Adrian Ulloa page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values

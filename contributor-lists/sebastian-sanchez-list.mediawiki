@@ -18,17 +18,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $730
+Total money earned as income: $880
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $640.78
 
-Net payment due: ($421.15)
+Net payment due: ($271.15)
 
 === Completed pages ===
 
-Total so far: $540
+Total so far: $690
 
 * Timeline of measles: $125. Completed January 9, 2017.
 
@@ -37,6 +37,8 @@ Total so far: $540
 * Timeline of plague: $145. Completed January 31, 2017. Includes five graphs.
 
 * Timeline of yellow fever: $140. Completed February 21, 2017. Includes two graphs.
+
+* Timeline of typhus: $150. Completed February 24, 2017. Includes four graphs.
 
 === Additions to existing pages ===
 
