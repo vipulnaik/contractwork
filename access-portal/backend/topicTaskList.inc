@@ -32,7 +32,7 @@ for($i = 0; $i < $topicTaskSelectResult -> num_rows; $i++) {
   print '<td align="right">'.sprintf("%.2f",$row['payment']).'</td>';
   print '<td>'.$row['topic'].'</td>';
   print '<td>'.$row['format'].'</td>';
-  print '<td>'.$row['notes'].'</td>';
+  print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
 }
 
