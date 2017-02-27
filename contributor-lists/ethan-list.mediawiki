@@ -18,6 +18,10 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Etha
 
 You can see data on all pages created by Ethan at http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Ethan%20Bashkansky&allmonths=allmonths
 
+=== Anecdotal ===
+
+The article "Vote pairing the United States presidential election, 2016" on Wikipedia, created November 2, 2016, was cited at http://effective-altruism.com/ea/17t/vote_pairing_is_a_costeffective_political/ by Ben West, published February 26, 2017.
+
 == Work in 2017 ==
 
 === Summary ===
