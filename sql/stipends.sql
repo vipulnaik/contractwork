@@ -20,7 +20,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',1250,'2016-10-01','2016-10-31',NULL,'Deferred to LiftIgniter milestone'),
   ('Issa Rice',750,'2016-11-01','2016-11-30',NULL,'Deferred to LiftIgniter milestone'),
   ('Issa Rice',750,'2016-12-01','2016-12-31',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',1200,'2017-01-01','2017-01-31',NULL,'Deferred to LiftIgniter milestone; paid more than usual 750 because of full month of global health work');
+  ('Issa Rice',1200,'2017-01-01','2017-01-31',NULL,'Deferred to LiftIgniter milestone; paid more than usual 750 because of full month of global health work'),
+  ('Issa Rice',1150,'2017-02-01','2017-02-28',NULL,'Deferred to LiftIgniter milestone; paid more than usual 750 because most of the month was spent doing work for Vipul');
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Issa Rice',300,'2016-05-01','2016-05-31','2016-05-31',NULL),
@@ -31,7 +32,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',250,'2016-10-01','2016-10-31','2016-10-31',NULL),
   ('Issa Rice',250,'2016-11-01','2016-11-30','2016-11-30',NULL),
   ('Issa Rice',250,'2016-12-01','2016-12-31','2016-12-31',NULL),
-  ('Issa Rice',250,'2017-01-01','2017-01-31','2017-01-31',NULL);
+  ('Issa Rice',250,'2017-01-01','2017-01-31','2017-01-31',NULL),
+  ('Issa Rice',250,'2017-02-01','2017-02-28','2017-02-28',NULL);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');

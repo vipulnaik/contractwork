@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $1165.60
+Total money earned by doing work (taxable as income for 2017): $1659.60
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4803.31
 
-Net payment due: $1968.91
+Net payment due: $2462.91
 
 === Completed pages ===
 
@@ -76,9 +76,33 @@ max{$27, min{$50, 5 * (1 + ''N'')}}
 
 Here, ''N'' is supposed to represent number of new distinct grants. This is calculated as follows: at the end of each month, take the union of "all grants newly announced to the public by Open Phil during that month" and "all grants newly announced to the public by Good Ventures during that month". Then ''N'' is the number of grants in this set. Note that because Open Phil and Good Ventures do not immediately add grants to their databases as soon as they are made, the grants newly announced to the public during a month likely differ from the grants made during the same month.
 
-Total so far: $50
+Total so far: $100
 
-* Monthly update of Open Phil and GV grants database: $50 (for adding 6 new grants to Open Phil and 13 new grants to Good Ventures). Completed January 29, 2016.
+* January end update of Open Phil and GV grants database: $50 (for adding 6 new grants to Open Phil and 13 new grants to Good Ventures). Completed January 29, 2017.
+
+* February end update of Open Phil and GV grants database: $50 (for adding 13 new grants to Open Phil and 9 new grants to Good Ventures). Completed February February 26, 2017.
+
+=== Technology company timeline updates ===
+
+A series of updates starting in the latter half of February 2017.
+
+Total so far: $194
+
+* Timeline of Snapchat: $28. Completed February 17, 2017.
+
+* Timeline of Facebook: $25. Completed February 18, 2017.
+
+* Timeline of Pinterest: $30. Completed February 20, 2017.
+
+* Timeline of Airbnb: $23. Completed February 21, 2017.
+
+* Timeline of Twitter: $28. Completed February 21, 2017.
+
+* Timeline of LinkedIn: $38. Completed February 22, 2017.
+
+* Timeline of Instagram: $22. Completed February 22, 2017.
+
+* Timeline of GitHub: Currently working on this, so pay not yet finalized.
 
 === Other tasks ===
 
@@ -106,15 +130,19 @@ Total so far: $553
 
 === Stipends ===
 
-Total so far: $250
+Total so far: $500
 
 * January: $250
 
+* February: $250
+
 === Deferred stipends ===
 
-Total so far: $1200
+Total so far: $2350
 
 * January: $1200. More than usual $750 because of full month spent doing global health work.
+
+* February: $1150. More than usual $750 since most of the month was spent working with Vipul.
 
 === Touch payments ===
 
