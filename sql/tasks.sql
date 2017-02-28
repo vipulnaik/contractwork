@@ -88,7 +88,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of plague','https://en.wikipedia.org/wiki/Timeline_of_plague','2017-01-31',145,'Global health/diseases','Timeline','Includes five graphs. Originally published to main space on 2017-01-20'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of yellow fever','https://en.wikipedia.org/wiki/Timeline_of_yellow_fever','2017-02-21',140,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-02-18'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of typhus','https://en.wikipedia.org/wiki/Timeline_of_typhus','2017-02-24',150,'Global health/diseases','Timeline','Includes four graphs. Originally published to main space on 2017-02-07'),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of hepatitis','https://en.wikipedia.org/wiki/Timeline_of_hepatitis','2017-02-28',160,'Global health/diseases','Timeline','Includes six graphs. Originally published to main space on 2017-02-27');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of hepatitis','https://en.wikipedia.org/wiki/Timeline_of_hepatitis','2017-02-28',160,'Global health/diseases','Timeline','Includes ten graphs. Originally published to main space on 2017-02-27');
 
 # -- Adrian Ulloa page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
