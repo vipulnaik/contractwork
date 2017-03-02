@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $1659.60
+Total money earned by doing work (taxable as income for 2017): $1759.60
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4803.31
 
-Net payment due: $2462.91
+Net payment due: $2562.91
 
 === Completed pages ===
 
@@ -86,7 +86,7 @@ Total so far: $100
 
 A series of updates starting in the latter half of February 2017.
 
-Total so far: $194
+Total so far: $294
 
 * Timeline of Snapchat: $28. Completed February 17, 2017.
 
@@ -102,7 +102,7 @@ Total so far: $194
 
 * Timeline of Instagram: $22. Completed February 22, 2017.
 
-* Timeline of GitHub: Currently working on this, so pay not yet finalized.
+* Timeline of GitHub: $100. Completed March 1, 2017.
 
 === Other tasks ===
 
