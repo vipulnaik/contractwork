@@ -7,5 +7,9 @@ https://creativecommons.org/publicdomain/zero/1.0/ for more details.
 The data contained in the repository (specifically, data on workers,
 tasks, payments due, and payments made) is not subject to copyright.
 
+Pages in the controversy/ folder are mirrored from their respective
+sources and are subject to the copyright restrictions of those
+sources.
+
 Referenced or linked material, or code libraries used, may be subject
 to their own copyright restrictions.
