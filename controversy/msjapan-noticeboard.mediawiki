@@ -1,0 +1,47 @@
+From [https://en.wikipedia.org/w/index.php?title=Wikipedia:Conflict_of_interest/Noticeboard&oldid=732429157#Form_1120 Conflict of Interest/Noticeboard]; shared under a CC-by-SA license.
+
+== Form 1120 ==
+{{archivetop|result=Further investigation reveals that there are issues here beyond our purview. [[User:MSJapan|MSJapan]] ([[User talk:MSJapan|talk]]) 19:31, 29 July 2016 (UTC)}}
+<!-- Do not change this line. Your report should go below this line. -->
+* {{la|Form 1120}}
+* {{la|Form 1040}}
+* {{userlinks|Majesticfish}}
+* {{userlinks|Vipul}}
+<!-- Copy and use the templates above if there are more users or articles. -->
+It is difficult to keep track of all this. User:Majesticfish is being paid by User:Vipul to create articles [https://en.wikipedia.org/w/index.php?title=User:Majesticfish&action=history]. The articles edited by [[User:Majesticfish]] so far are (the U.S. Tax Forms) Form 1120 [https://en.wikipedia.org/w/index.php?title=Form_1120&diff=726763173&oldid=726753561], which this person created as has been editing [https://en.wikipedia.org/wiki/Special:Contributions/Majesticfish] and Form 1040 [https://en.wikipedia.org/w/index.php?title=Form_1040&diff=727539344&oldid=727539220], [https://en.wikipedia.org/w/index.php?title=Form_1040&diff=next&oldid=727539980], [https://en.wikipedia.org/w/index.php?title=Form_1040&action=history]. 
+
+:Next I have noticed that -- User Vipul states on his/her User page: <blockquote> "For more on my Wikipedia editing, see [http://vipulnaik.com/wikipedia/ my site page about Wikipedia], [http://vipulnaik.com/sponsored-wikipedia-editing/ my site page about sponsored Wikipedia editing], and [http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20created%20by%20Vipul%20Naik the list of all pages I have created, with pageviews across the years]".</blockquote> I wish to point out the above link within this blurb about this editior's link to the description of this person's self-disclosed Wikipedia sponsored editing, which is located at an off Wiki site - for clarity I will place it here [http://vipulnaik.com/sponsored-wikipedia-editing/]. The page discusses detailed paid editing and analysis of its impact via page views: 
+
+I am quoting a small blurb here: 
+:::::::::::::::::::::::::::::::::::'''2015'''
+<blockquote>"In April 2015, as part of an Experimental Content Creation Grant (ECCG) to (''a person''), I included reimbursement for Wikipedia page creation. The scheme was as follows: for the period from April 1, 2015, to December 31, 2015, I’d pay (''a person''):
+
+$1 for every 1000 pageviews of pages he had created before 2015.
+$1 for every 500 pageviews of pages he created in 2015.
+If the pages he created were specific ones that I had requested him to create or approved the creation of, and the page as created by him met my standard for quality and completeness, then I’d add a one-time payment for each such page. The one-time payment would be determined per page, but the standard would be $25.
+(There is some fine print that caps the total amount I need to pay (''a person''), but that’s not relevant here since Wikipedia pageviews don’t contribute enough to the overall ECCG to trigger that fine print). (''A person'') is [[User:Simfish]] on Wikipedia. You can also access his contribution history" (link provided on off wiki web page).</blockquote> There is more on this page that should be read. This also continues into 2016...
+:::::::::::::::::::::::::::::::::::'''2016'''
+<blockquote> I renewed my content creation grant for 2016 with (''a person''), with some changes to the rules surrounding payments. I would pay (''a person''):
+
+$1 for every 2000 pageviews of pages he had created before 2015, or $0.50 per 1000 pageviews.
+$1 for every 800 pageviews of pages he created in 2015, or $1.25 per 1000 pageviews.
+$1 for every 500 pageviews of pages he created in 2016, or $2 per 1000 pageviews.
+My goal was that, while (''a person'') could still make money of pageviews of pages he created of his own accord, the focus of his work should shift more in the direction of creating pages I wanted him to create, with a fixed pay from me..."</blockquote> There is more under "2016" that should be read. Personally, I am taken aback....
+
+However, all this may pale in significance to the page linked from the above quoted page [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/contributor-cover-summary.mediawiki]. This page outlines the whole of User Vipul's paid editing operation for (or aimed at) Wikipedia: List of contributors, Money spent this month, Impact (of efforts I suppose) based on Page veiws and anecdotal evidence. The section on "Total Money Spent This Month" is particularly amazing. (''Someone else'') is a recruiter (recruits paid editors for Wikipedia, apparently from high schools and colleges). (''A person''), mentioned in the ''first sentence'' in "2015" is the paymaster. And most of the others do "piece work". 
+
+Sorry for the wall of text - in this instance I felt it was needed for clarity. Hopefully this is so. ---[[User:Steve Quinn|Steve Quinn]] ([[User talk:Steve Quinn|talk]]) 04:27, 30 June 2016 (UTC)
+:It seems to be entirely altruistic, although it may violate some policies (e.g. sock/meat puppets, COI, paid editing) I found this quote on one of those pages you link to above: "I am interested in funding similar pages on the timelines of malaria, cholera, and influenza, and might consider expanding to things like AIDS, particular cancers, senescence research, smallpox, and other diseases."[[User:HappyValleyEditor|HappyValleyEditor]] ([[User talk:HappyValleyEditor|talk]]) 05:27, 30 June 2016 (UTC)
+::Thanks [[User:HappyValleyEditor|HappyValleyEditor]] ---[[User:Steve Quinn|Steve Quinn]] ([[User talk:Steve Quinn|talk]]) 05:36, 30 June 2016 (UTC)
+::That page is a little outdated :). The more up-to-date location is [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/contributor-cover-summary.mediawiki this], linked by Steve. Also, since I wrote the earlier page, I have had success with having many of these other timelines made, as you can see: [[timeline of global health]], [[timeline of cholera]], [[timeline of malaria]], [[timeline of influenza]]. It's been great working with a number of enthusiastic Wikipedia writers to create content of lasting value accessible to a global audience. [[User:Vipul|Vipul]] ([[User talk:Vipul|talk]]) 06:13, 30 June 2016 (UTC)
+: Steve, really appreciate the free publicity! As you can see, none of the information you uncovered is particularly secret, and in fact I pride myself (and the people I work with, Issa and Ethan) on an extremely open process for content creation, along with full disclosure of real-world identity and amounts of money exchanged. Let me know if you find anybody else you think would be a good recruit for Wikipedia editing! Cheers. [[User:Vipul|Vipul]] ([[User talk:Vipul|talk]]) 06:13, 30 June 2016 (UTC)
+
+:{{ping|Vipul}} While I commend you for being transparent about paying people to edit articles, I am having difficulty identifying the other users under your employ. Are they all using your own account to do their edits? --[[User:Drm310|Drm310]] ([[User talk:Drm310|talk]]) 17:57, 4 July 2016 (UTC)
+::You can access the full list [https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/contributor-cover-summary.mediawiki here]. If you click through to the pages about them you will see links to their Wikipedia user pages and contributions. [[User:Vipul|Vipul]] ([[User talk:Vipul|talk]]) 18:06, 4 July 2016 (UTC)
+
+:::{{ping|Vipul}} I've redirected form 1040 - you're really close to committing a federal offense by disseminating tax advice without a disclaimer.  Moreover, changes in the tax forms are not encyclopedic.  What's your rationale for having these created in the first place? [[User:MSJapan|MSJapan]] ([[User talk:MSJapan|talk]]) 04:52, 14 July 2016 (UTC)
+
+::::The tax form redirects are being undone without discussion by [[User:Riceissa]], another one of Vipul paid editors.  I have informed him that said articles are very close to dispensing tax advice, and he seems to be disinterested in listening. [[User:MSJapan|MSJapan]] ([[User talk:MSJapan|talk]]) 21:57, 21 July 2016 (UTC)
+
+:::::I've since taken the liberty of informing WMF legal, because IANAL, but I do know enough about accounting to be concerned about handing out anything that looks like tax advice when one is not qualified to do so.  However, that does not address the paid editing farm. [[User:MSJapan|MSJapan]] ([[User talk:MSJapan|talk]]) 03:20, 22 July 2016 (UTC)
+::::::And apparently tax isn't their bag, either. [[User:MSJapan|MSJapan]] ([[User talk:MSJapan|talk]]) 18:30, 29 July 2016 (UTC)
