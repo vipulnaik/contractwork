@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $1759.60
+Total money earned by doing work (taxable as income for 2017): $1959.60
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4803.31
 
-Net payment due: $2562.91
+Net payment due: $2762.91
 
 === Completed pages ===
 
@@ -106,7 +106,7 @@ Total so far: $294
 
 === Other tasks ===
 
-Total so far: $553
+Total so far: $753
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -127,6 +127,8 @@ Total so far: $553
 * Addition of many new pages to create (Open Philanthropy Project grantees who do not have their own Wikipedia pages), to the new article pool: $50. Completed February 10, 2017.
 
 * Addition of grants data to Laura and John Arnold Foundation page: $220. Based on GitHub repository https://github.com/riceissa/arnold-foundation-grants and originally attempted to save on the main page https://en.wikipedia.org/wiki/Laura_and_John_Arnold_Foundation but reverted by Jytdog, see https://en.wikipedia.org/w/index.php?title=Laura_and_John_Arnold_Foundation&type=revision&diff=765028074&oldid=765019623 so saved a search engine-indexable version in userspace. Completed February 11, 2017.
+
+* Preliminary research understanding different patterns of editing on Wikipedia. Research produced profiles of different kinds of Wikipedia editors, and an interface to generate a report on the trajectory of Wikipedia editor. The interface is not yet public: $200. Completed March 3, 2017.
 
 === Stipends ===
 
