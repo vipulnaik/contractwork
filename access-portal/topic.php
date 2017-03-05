@@ -19,7 +19,7 @@ if ($topic != '') {
   print '<script>$(document).ready(function()
     {
         $("#myTableTopicTaskPaymentsDueByTypeAndYear").tablesorter();
-        $("#myTableTopicImpact").tableSorter();
+        $("#myTableTopicImpact").tablesorter();
         $("#myTableTopicTaskPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTableTopicTaskList").tablesorter();
     }
@@ -33,7 +33,7 @@ if ($topic != '') {
   print '<script>$(document).ready(function()
     {
         $("#myTableTopicTaskPaymentsDueByTypeAndYear").tablesorter();
-        $("#myTableTopicImpact").tableSorter();
+        $("#myTableTopicImpact").tablesorter();
         $("#myTableTopicTaskPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTableTopicTaskList").tablesorter();
     }

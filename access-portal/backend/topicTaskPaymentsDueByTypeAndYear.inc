@@ -55,21 +55,22 @@ print "</thead>\n<tbody>\n";
 
 foreach($taskTypes as $taskType) {
   if ($totalPaymentForTaskType[$taskType] > 0) {
-    print "<tr><td>$taskType</td>";
+    print "<tr>\n";
+    print "    <td>$taskType</td>\n";
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$paymentForTaskTypeAndYear[$taskType][$year]).'</td>';
+      print '    <td align="right">'.sprintf('%.2f',$paymentForTaskTypeAndYear[$taskType][$year])."</td>\n";
     }
-    print '<td align="right">'.sprintf('%.2f',$totalPaymentForTaskType[$taskType]).'</td>';
-    print '</tr>';
+    print '    <td align="right">'.sprintf('%.2f',$totalPaymentForTaskType[$taskType])."</td>\n";
+    print "</tr>\n";
   }
 }
 
 print "</tbody>\n<tfoot>\n";
-print "<tr><td><strong>Total</td>";
+print "<tr>\n    <td><strong>Total</td>\n";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year]).'</strong></td>';
+  print '    <td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year])."</strong></td>\n";
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentAcrossYears).'</strong></td>';
-print '</tr>';
+print '    <td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentAcrossYears)."</strong></td>\n";
+print "</tr>\n";
 print "</tfoot>\n</table>\n";
 ?>
