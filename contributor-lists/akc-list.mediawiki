@@ -165,6 +165,8 @@ In 2015, Alex K. Chen was paid on a pageview basis for all articles created in 2
 
 === Completed pages with bounties ===
 
+* Parker Conrad (accidental/retroactive bounty): $25.
+
 * Timeline of Reddit: $60 + $3. Created in May 2015, $3 additional pay for improving it in July.
 
 * Timeline of Uber: $35 + $3. Created in June 2015, $3 additional pay for improving it in July.
