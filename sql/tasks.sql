@@ -89,7 +89,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of yellow fever','https://en.wikipedia.org/wiki/Timeline_of_yellow_fever','2017-02-21',140,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-02-18'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of typhus','https://en.wikipedia.org/wiki/Timeline_of_typhus','2017-02-24',150,'Global health/diseases','Timeline','Includes four graphs. Originally published to main space on 2017-02-07'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of hepatitis','https://en.wikipedia.org/wiki/Timeline_of_hepatitis','2017-02-28',170,'Global health/diseases','Timeline','Includes ten graphs. Originally published to main space on 2017-02-27'),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of Chagas disease','https://en.wikipedia.org/wiki/Timeline_of_Chagas_disease','2017-03-01',105,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-02-28');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of Chagas disease','https://en.wikipedia.org/wiki/Timeline_of_Chagas_disease','2017-03-01',105,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-02-28'),
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of typhoid fever','https://en.wikipedia.org/wiki/Timeline_of_typhoid_fever','2017-03-04',100,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-03-02');
 
 
 # -- Adrian Ulloa page creation
