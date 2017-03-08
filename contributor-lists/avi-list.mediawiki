@@ -20,13 +20,17 @@ For more in-depth stats, see https://contractwork.vipulnaik.com/worker.php?worke
 
 Grand total (this is taxable income for tax year 2017): $110
 
-Payment made: None
+Payment made: $110
 
-Net payment due: $110
+Net payment due: None
 
 === Completed pages ===
 
 * Timeline of online advertising: $110. Completed on February 8, 2017.
+
+=== Payments ===
+
+* $110 via PayPal on Wednesday, March 8, 2017.
 
 == Work in 2016 ==
 
