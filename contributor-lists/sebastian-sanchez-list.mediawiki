@@ -22,9 +22,9 @@ Total money earned as income: $1255
 
 Forward balance carried over from 2016: ($510.37)
 
-Payment made: $650.78
+Payment made: $1302.40
 
-Net payment due: $103.85
+Net payment due: ($557.77)
 
 === Completed pages ===
 
@@ -61,9 +61,12 @@ Total so far: $190
 
 === Payment schedule ===
 
-Total paid: $640.78 (=$632.78 received + $8 transaction fee)
+Total paid: $1302.40 (=$1286.40 received + $16 transaction fee)
 
 * Payment of $632.78 made on January 18, 2017, received on January 19, 2017. Transaction fee of $8.
+
+* Payment of $653.62 made on Saturday, March 4, 2017, received on Tuesday, March 7, 2017. Transaction fee of $8.
+
 
 == Work in 2016 ==
 
