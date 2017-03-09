@@ -1,3 +1,7 @@
+'''NOTE''': As of March 8, 2017, the paid editing operation is suspended. If and when it is resumed, and the articles in question have not been made by others, the reservations specified below will continue to apply. If the program is disbanded, then people who already started work on the respective articles will receive partial payment.
+
+For more context, see [https://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/Incidents#Vipul.27s_paid_editing_enterprise ANI] and [https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard#Vipul.27s_paid_editing_enterprise COIN] ([https://en.wikipedia.org/w/index.php?title=Wikipedia:Conflict_of_interest/Noticeboard&oldid=769384347 permalink]).
+
 List of new articles that any interested author can work on. A parenthetical "(reserved)" means that an author has already announced that he or she is working on it. If that author later decides not to continue with it, the page will be returned to the general pool.
 
 Before you begin working on a page, you should see if a page has been created on Wikipedia! On several occasions, a page was created on Wikipedia between the time when a topic was added in this pool and when a worker tried to reserve the page. Watch out for name changes (organizations occasionally rename themselves), similar phrases that mean the same thing, and so forth. A few things to try:
@@ -235,4 +239,4 @@ Please double-check for the existence of the page.
 
 === International development ===
 
-* Inter-American Development Bank (poverty reduction section) (reserved for Farhana): $5-20: Section is currently empty. Between $5 and $20 for expanding the section, based on how much you expand it, and the quality of your expansion.
+* Inter-American Development Bank (poverty reduction section): $5-20: Section is currently empty. Between $5 and $20 for expanding the section, based on how much you expand it, and the quality of your expansion.
