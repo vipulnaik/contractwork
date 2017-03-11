@@ -1,0 +1,477 @@
+Note that this list does not include pages edited by me, and does not list me as a contributor even if I have edited the page. It also does not list edits made to the pages by people I pay, if I did not pay them. The list includes all edits I've paid for, including private ones.
+
+{| class="sortable wikitable" border="1"
+! Page !! Creator (if paid) !! Contributors (if paid) !! Connected contributor disclosure added to talk page yet? !! Notes
+|-
+| [[24-hour diet recall]]  || [[User:Joeykai|Joeykai]] ([[User talk:Joeykai|talk]], [[Special:Contributions/Joeykai|contributions]])  ||  || No || 
+|-
+| [[3 by 5 Initiative]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[A Plus (aplus.com)]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Academic Training]]  || [[User:Sergie_Marienhof|Sergie_Marienhof]] ([[User talk:Sergie_Marienhof|talk]], [[Special:Contributions/Sergie_Marienhof|contributions]])  ||  || No || 
+|-
+| [[Adora Cheung]]  || [[User:Churrupy|Churrupy]] ([[User talk:Churrupy|talk]], [[Special:Contributions/Churrupy|contributions]])  ||  || No || 
+|-
+| [[Against Malaria Foundation]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Albert Schweitzer Foundation for Our Contemporaries]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Amanda Glassman]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[American Time Use Survey]]  || [[User:Joeykai|Joeykai]] ([[User talk:Joeykai|talk]], [[Special:Contributions/Joeykai|contributions]])  ||  || No || 
+|-
+| [[User:Riceissa/Animal Charity Evaluators|Animal Charity Evaluators]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || This page was deleted from main space, see [[Wikipedia:Articles for deletion/Animal Charity Evaluators]]. '''NOTE''': There was no payment to work on the '''pre-deletion''' page. Rather, payment was made to retrieve the page after deletion and continue improving it in userspace in preparation for potential reinstatement later, when the topic reaches notability thresholds.
+|-
+| [[Animal Equality]]  || || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  || No || 
+|-
+| [[Animal welfare and rights in Argentina]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Australia]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Austria]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Brazil]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Canada]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Denmark]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Ethiopia]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in France]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Germany]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in India]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Indonesia]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Iran]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Israel]]  || || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  || No || 
+|-
+| [[Animal welfare and rights in Japan]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Malaysia]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Mexico]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Russia]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in South Africa]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in South Korea]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Spain]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Sweden]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in Switzerland]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare and rights in the Netherlands]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Animal welfare in the United States]]  || || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  || No || 
+|-
+| [[Bill & Melinda Gates Foundation]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]]) [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]]) [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || Updated with grants data from the [[International Aid Transparency Initiative]]
+|-
+| [[Chicago Community Trust]]  || [[User:Avigl|Avigl]] ([[User talk:Avigl|talk]], [[Special:Contributions/Avigl|contributions]])  ||  || No || 
+|-
+| [[Child survival revolution]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Coatue Management]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Commodity Supplemental Food Program]]  || [[User:Physikite|Physikite]] ([[User talk:Physikite|talk]], [[Special:Contributions/Physikite|contributions]])  ||  || No || 
+|-
+| [[CrunchFund]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Data Collective]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Department for International Development]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Deworm the World Initiative]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Disease Control Priorities Project]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]]) [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[es:Dolor en los animales|Dolor en los Animales]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || Spanish translation of [[pain in animals]]
+|-
+| [[Equal Pay Day]]  || [[User:Ethanbas|Ethanbas]] ([[User talk:Ethanbas|talk]], [[Special:Contributions/Ethanbas|contributions]])  ||  || No || 
+|-
+| [[Eroom's law]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[European Virtual Institute for Malaria Research]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Faunalytics]]  || || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  || No || 
+|-
+| [[Field Foundation of New York]]  || [[User:Dave8033|Dave8033]] ([[User talk:Dave8033|talk]], [[Special:Contributions/Dave8033|contributions]])  ||  || No || 
+|-
+| [[Food frequency questionnaire]]  || [[User:Sergie_Marienhof|Sergie_Marienhof]] ([[User talk:Sergie_Marienhof|talk]], [[Special:Contributions/Sergie_Marienhof|contributions]])  ||  || No || 
+|-
+| [[Form 1023]]  || [[User:Churrupy|Churrupy]] ([[User talk:Churrupy|talk]], [[Special:Contributions/Churrupy|contributions]])  ||  || No || 
+|-
+| [[Form 1040]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || [[User:Majesticfish|Majesticfish]] ([[User talk:Majesticfish|talk]], [[Special:Contributions/Majesticfish|contributions]])  || No || 
+|-
+| [[Form 1042]]  || [[User:Ethanbas|Ethanbas]] ([[User talk:Ethanbas|talk]], [[Special:Contributions/Ethanbas|contributions]])  ||  || No || 
+|-
+| [[Form 1095]]  || [[User:Ethanbas|Ethanbas]] ([[User talk:Ethanbas|talk]], [[Special:Contributions/Ethanbas|contributions]])  ||  || No || 
+|-
+| [[Form 1096]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Form 1098-T]]  || [[User:Churrupy|Churrupy]] ([[User talk:Churrupy|talk]], [[Special:Contributions/Churrupy|contributions]])  ||  || No || 
+|-
+| [[Form 1099]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Form 1099-K]]  || [[User:Ethanbas|Ethanbas]] ([[User talk:Ethanbas|talk]], [[Special:Contributions/Ethanbas|contributions]])  ||  || No || 
+|-
+| [[Form 1099-MISC]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Form 1099-R]]  || [[User:Ethanbas|Ethanbas]] ([[User talk:Ethanbas|talk]], [[Special:Contributions/Ethanbas|contributions]])  ||  || No || 
+|-
+| [[Form 1120]]  || [[User:Majesticfish|Majesticfish]] ([[User talk:Majesticfish|talk]], [[Special:Contributions/Majesticfish|contributions]])  ||  || No || 
+|-
+| [[Form 990]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Form I-140]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Form W-2]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Form W-4]]  || [[User:Ethanbas|Ethanbas]] ([[User talk:Ethanbas|talk]], [[Special:Contributions/Ethanbas|contributions]])  ||  || No || 
+|-
+| [[Form W-9]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Fresh Fruit and Vegetable Program]]  || [[User:Churrupy|Churrupy]] ([[User talk:Churrupy|talk]], [[Special:Contributions/Churrupy|contributions]])  ||  || No || 
+|-
+| [[Garry Tan]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[GAVI Alliance]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Gavi, the Vaccine Alliance]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[GiveDirectly]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[GiveWell]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || This page was deleted from main space but then reinstated for deletion review. Riceissa primarily updated some money moved estimates and added references, rather than fundamentally changing the structure of the page.
+|-
+| [[Global Animal Partnership]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Global Burden of Disease Study]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Global Initiative for Traditional Systems of Health]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Global Outbreak Alert and Response Network]]  || [[User:Dave8033|Dave8033]] ([[User talk:Dave8033|talk]], [[Special:Contributions/Dave8033|contributions]])  ||  || No || 
+|-
+| [[Global Polio Eradication Initiative]]  || [[User:ChristopherLKunin|ChristopherLKunin]] ([[User talk:ChristopherLKunin|talk]], [[Special:Contributions/ChristopherLKunin|contributions]])  ||  || No || 
+|-
+| [[User:DanielMB/Global Programme on AIDS|Global Programme on AIDS]]  || [[User:DanielMB|DanielMB]] ([[User talk:DanielMB|talk]], [[Special:Contributions/DanielMB|contributions]])  ||  || No || This page was not published to main space as it needed a lot of work; link is to userspace draft
+|-
+| [[Google Surveys]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Green Card Test]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[H-1A visa]]  || [[User:Esu44224|Esu44224]] ([[User talk:Esu44224|talk]], [[Special:Contributions/Esu44224|contributions]])  ||  || No || 
+|-
+| [[H-1C visa]]  || [[User:Esu44224|Esu44224]] ([[User talk:Esu44224|talk]], [[Special:Contributions/Esu44224|contributions]])  ||  || No || 
+|-
+| [[Health systems strengthening]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Hewlett Foundation]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Hiroshi Nakajima]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Illiberal Reformers]]  || [[User:ChristopherLKunin|ChristopherLKunin]] ([[User talk:ChristopherLKunin|talk]], [[Special:Contributions/ChristopherLKunin|contributions]])  ||  || No || 
+|-
+| [[Individual shared responsibility provision]]  || [[User:Ethanbas|Ethanbas]] ([[User talk:Ethanbas|talk]], [[Special:Contributions/Ethanbas|contributions]])  ||  || No || 
+|-
+| [[Initialized Capital]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Initiative on Global Markets]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Innovative Vector Control Consortium]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Inside Philanthropy]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Institute for Health Metrics and Evaluation]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[International Decision Support Initiative]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Iodine Global Network]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Johns Hopkins Center for Health Security]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Klerokinesis]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Laura and John Arnold Foundation]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[M. G. Siegler]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Malaria Consortium]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Malaria Eradication Scientific Alliance]]  || [[User:Dave8033|Dave8033]] ([[User talk:Dave8033|talk]], [[Special:Contributions/Dave8033|contributions]])  ||  || No || 
+|-
+| [[MalariaWorld]]  || [[User:Joeykai|Joeykai]] ([[User talk:Joeykai|talk]], [[Special:Contributions/Joeykai|contributions]])  ||  || No || 
+|-
+| [[Mario Pinotti]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Marlowe–Crowne Social Desirability Scale]]  || [[User:Joeykai|Joeykai]] ([[User talk:Joeykai|talk]], [[Special:Contributions/Joeykai|contributions]])  ||  || No || 
+|-
+| [[Matthew Emerton]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Maverick Capital]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Mercy for Animals]]  || || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  || No || 
+|-
+| [[Michael Seibel]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Open Philanthropy Project]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Good Ventures]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]]) || No || 
+|-
+| [[Paige Craig]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Parker Conrad]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Participatory poverty assessment]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Premium Processing Service]]  || || [[User:MiloJBKing|MiloJBKing]] ([[User talk:MiloJBKing|talk]], [[Special:Contributions/MiloJBKing|contributions]])  || No || 
+|-
+| [[Priority-setting in global health]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Privacy Impact Assessment]]  || || [[User:ChristopherLKunin|ChristopherLKunin]] ([[User talk:ChristopherLKunin|talk]], [[Special:Contributions/ChristopherLKunin|contributions]]) [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Professional consensus of economics]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Project Healthy Children]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Proof School]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Public Welfare Foundation]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Richard W. Boone]]  || [[User:Dave8033|Dave8033]] ([[User talk:Dave8033|talk]], [[Special:Contributions/Dave8033|contributions]])  ||  || No || 
+|-
+| [[Robert Wilensky]]  || [[User:Physikite|Physikite]] ([[User talk:Physikite|talk]], [[Special:Contributions/Physikite|contributions]])  ||  || No || 
+|-
+| [[Rockefeller Sanitary Commission]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Schedula Romana]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Schistosomiasis Control Initiative]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Scientific Charity Movement]]  || [[User:ChristopherLKunin|ChristopherLKunin]] ([[User talk:ChristopherLKunin|talk]], [[Special:Contributions/ChristopherLKunin|contributions]])  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[User:Simfish/Scott Stanford (investor)|Scott Stanford (investor)]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || This page was deleted from main space; link is to a user space version.
+|-
+| [[Screening Partnership Program]]  || [[User:Avigl|Avigl]] ([[User talk:Avigl|talk]], [[Special:Contributions/Avigl|contributions]])  ||  || No || 
+|-
+| [[Sentience Politics]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Seth Baum]]  || [[User:Physikite|Physikite]] ([[User talk:Physikite|talk]], [[Special:Contributions/Physikite|contributions]])  ||  || No || 
+|-
+| [[Sightsavers]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Silicon Valley Education Foundation]]  || [[User:Avigl|Avigl]] ([[User talk:Avigl|talk]], [[Special:Contributions/Avigl|contributions]])  ||  || No || 
+|-
+| [[Stokes interview]]  || [[User:ChristopherLKunin|ChristopherLKunin]] ([[User talk:ChristopherLKunin|talk]], [[Special:Contributions/ChristopherLKunin|contributions]])  ||  || No || 
+|-
+| [[The Entrepreneurial State]]  || [[User:ChristopherLKunin|ChristopherLKunin]] ([[User talk:ChristopherLKunin|talk]], [[Special:Contributions/ChristopherLKunin|contributions]])  ||  || No || 
+|-
+| [[The Ethics of Voting]]  || [[User:ChristopherLKunin|ChristopherLKunin]] ([[User talk:ChristopherLKunin|talk]], [[Special:Contributions/ChristopherLKunin|contributions]])  ||  || No || 
+|-
+| [[The Good Food Institute]]  || || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  || No || 
+|-
+| [[The Humane League]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  || No || 
+|-
+| [[The State of the World's Children]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Therapeutice Specialis ad Febres Periodicas Perniciosas]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Thomas C. Leonard]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of Airbnb]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || Deleted via G11 on March 7, 2017
+|-
+| [[Timeline of Alzheimer's disease]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of Amazon Web Services]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of Amazon.com]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of animal welfare and rights]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Timeline of animal welfare and rights in Europe]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Timeline of animal welfare and rights in the United States]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Timeline of bladder cancer]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of brain cancer]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of cardiovascular disease]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of cellular agriculture]]  || [[User:JesseClifton|JesseClifton]] ([[User talk:JesseClifton|talk]], [[Special:Contributions/JesseClifton|contributions]])  ||  || No || 
+|-
+| [[Timeline of cervical cancer]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of Chagas disease]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of cholera]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  || || No || 
+|-
+| [[Timeline of colorectal cancer]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of deworming]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Timeline of digital preservation]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Timeline of Dropbox]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of e-commerce]]  || [[User:Avigl|Avigl]] ([[User talk:Avigl|talk]], [[Special:Contributions/Avigl|contributions]])  ||  || No || 
+|-
+| [[Timeline of Facebook]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || Deleted via G11 on March 7, 2017
+|-
+| [[Timeline of GitHub]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || Deleted via G11 on March 7, 2017
+|-
+| [[Timeline of global health]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || [[User:Amy.zhang425|Amy.zhang425]] ([[User talk:Amy.zhang425|talk]], [[Special:Contributions/Amy.zhang425|contributions]]) [[User:Robinrilla|Robinrilla]] ([[User talk:Robinrilla|talk]], [[Special:Contributions/Robinrilla|contributions]]) [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Timeline of healthcare in China]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in Cuba]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in Egypt]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in Ethiopia]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in France]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  || || No || 
+|-
+| [[Timeline of healthcare in Germany]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in India]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  || || No || 
+|-
+| [[Timeline of healthcare in Italy]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  || || No || 
+|-
+| [[Timeline of healthcare in Japan]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  || || No || 
+|-
+| [[Timeline of healthcare in Kenya]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in Nigeria]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in Russia]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in South Africa]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in the Democratic Republic of the Congo]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of healthcare in the United Kingdom]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of hepatitis]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of hospitals]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of influenza]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  || || No || 
+|-
+| [[Timeline of Instagram]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || Deleted via G11 on March 7, 2017
+|-
+| [[Timeline of Intel]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of kidney cancer]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of leukemia]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]]) || || No || 
+|-
+| [[Timeline of LinkedIn]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || Deleted via G11 on March 7, 2017
+|-
+| [[Timeline of liver cancer]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of lung cancer]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of Lyft]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of lymphoma]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of machine learning]]  || [[User:Thomas_James_Foster|Thomas_James_Foster]] ([[User talk:Thomas_James_Foster|talk]], [[Special:Contributions/Thomas_James_Foster|contributions]])  ||  || No || 
+|-
+| [[Timeline of malaria]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of measles]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of melanoma]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of Microsoft]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of Monsanto]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of Netflix]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of nonprofit evaluation]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Timeline of Nordstrom]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of online advertising]]  || [[User:Avigl|Avigl]] ([[User talk:Avigl|talk]], [[Special:Contributions/Avigl|contributions]])  ||  || No || 
+|-
+| [[Timeline of online food delivery]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of online video]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of optical character recognition]]  || [[User:Physikite|Physikite]] ([[User talk:Physikite|talk]], [[Special:Contributions/Physikite|contributions]])  ||  || No || 
+|-
+| [[Timeline of pancreatic cancer]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of Pinterest]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Timeline of plague]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of poliomyelitis]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of Quora]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  || || No || 
+|-
+| [[Timeline of Reddit]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  || || No || 
+|-
+| [[Timeline of senescence research]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of Snapchat]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Timeline of social media]]  || [[User:Avigl|Avigl]] ([[User talk:Avigl|talk]], [[Special:Contributions/Avigl|contributions]])  ||  || No || 
+|-
+| [[Timeline of sovereign states in North America]]  || [[User:Thomas_James_Foster|Thomas_James_Foster]] ([[User talk:Thomas_James_Foster|talk]], [[Special:Contributions/Thomas_James_Foster|contributions]])  ||  || No || 
+|-
+| [[Timeline of sovereign states in Oceania]]  || [[User:Thomas_James_Foster|Thomas_James_Foster]] ([[User talk:Thomas_James_Foster|talk]], [[Special:Contributions/Thomas_James_Foster|contributions]])  ||  || No || 
+|-
+| [[Timeline of speech and voice recognition]]  || [[User:Rushingcreek|Rushingcreek]] ([[User talk:Rushingcreek|talk]], [[Special:Contributions/Rushingcreek|contributions]])  ||  || No || 
+|-
+| [[Timeline of Square]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of stroke]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of Tesla Motors]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of tuberculosis]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  || No || 
+|-
+| [[Timeline of Twitch.tv]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of Twitter]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || Deleted via G11 on March 7, 2017
+|-
+| [[Timeline of typhoid fever]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of typhus]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[Timeline of Uber]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  || No || 
+|-
+| [[Timeline of Valve Corporation]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || Deleted via AfD, see [[Wikipedia:Articles for deletion/Timeline of Valve Corporation]]
+|-
+| [[Timeline of WhatsApp]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of Xiaomi]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Timeline of yellow fever]]  || [[User:Wikisanchez|Wikisanchez]] ([[User talk:Wikisanchez|talk]], [[Special:Contributions/Wikisanchez|contributions]])  ||  || No || 
+|-
+| [[User:Riceissa/Triplebyte|Triplebyte]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[United Nations Development Programme]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|-
+| [[Uri Simonsohn]]  || [[User:Simfish|Simfish]] ([[User talk:Simfish|talk]], [[Special:Contributions/Simfish|contributions]])  ||  || No || 
+|-
+| [[Voices of the Poor]]  || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  ||  || No || 
+|-
+| [[Vote pairing in the United States presidential election, 2016]]  || [[User:Ethanbas|Ethanbas]] ([[User talk:Ethanbas|talk]], [[Special:Contributions/Ethanbas|contributions]])  || [[User:Avigl|Avigl]] ([[User talk:Avigl|talk]], [[Special:Contributions/Avigl|contributions]])  || No || 
+|-
+| [[Waitlist Zero]]  || [[User:Physikite|Physikite]] ([[User talk:Physikite|talk]], [[Special:Contributions/Physikite|contributions]])  ||  || No || 
+|-
+| [[WHO-CHOICE]]  || || [[User:Sergie_Marienhof|Sergie_Marienhof]] ([[User talk:Sergie_Marienhof|talk]], [[Special:Contributions/Sergie_Marienhof|contributions]])  || No || 
+|-
+| [[World Bank]]  || || [[User:Riceissa|Riceissa]] ([[User talk:Riceissa|talk]], [[Special:Contributions/Riceissa|contributions]])  || No || 
+|}
