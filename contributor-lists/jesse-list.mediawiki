@@ -34,11 +34,17 @@ Total money earned as income (taxable as income for 2017): $40
 
 Carryover payment due from 2016: $194
 
-Net payment due: $234
+Payment made: $234
+
+Net payment due: None
 
 === Completed pages ===
 
 * Sentience Politics: $40. Completed January 8, 2017.
+
+=== Payments ===
+
+* $234 via PayPal on March 18, 2017.
 
 == Work for 2016 ==
 

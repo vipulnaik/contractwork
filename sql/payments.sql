@@ -96,6 +96,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   # -- Jesse Clifton payments
   ('Check','Jesse Clifton',NULL,'2016-08-15','2016-08-18','2016-08-24','2016-08-27',2000,2000,0,2000),
+  ('PayPal','Jesse Clifton',NULL,'2017-03-18','2017-03-18','2017-03-18','2017-03-18',234,234,0,234),
 
   # -- Michael Royzen payment
   ('PayPal','Michael Royzen',NULL,'2016-06-21','2016-06-21','2016-06-21','2016-06-21',50,50,0,50),
