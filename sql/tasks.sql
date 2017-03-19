@@ -237,7 +237,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'American Time Use Survey', 'https://en.wikipedia.org/wiki/American_Time_Use_Survey','2016-12-14',34,'Survey research','Prose',NULL),
   ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'Marlowe–Crowne Social Desirability Scale', 'https://en.wikipedia.org/wiki/Marlowe%E2%80%93Crowne_Social_Desirability_Scale','2016-12-24',30,'Survey research','Prose',NULL),
   ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', '24-hour diet recall', 'https://en.wikipedia.org/wiki/24-hour_diet_recall','2017-01-10',30,'Nutrition','Prose',NULL),
-  ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'MalariaWorld', 'https://en.wikipedia.org/wiki/MalariaWorld','2017-01-26',28,'global health/diseases/malaria','Prose',NULL);
+  ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'MalariaWorld', 'https://en.wikipedia.org/wiki/MalariaWorld','2017-01-26',28,'Global health/diseases/malaria','Prose',NULL),
+  ('Joey Malandra','Wikipedia','Attempted Wikipedia work','WorldPop','https://en.wikipedia.org/wiki/User:Joeykai/WorldPop','2017-02-25',15,'Global ealth/demographics','Prose','Last edit on 2017-02-25 in userspace. Project abandoned in March, so payment for draft as it stood before then');
 
 # -- Alex K. Chen list
 

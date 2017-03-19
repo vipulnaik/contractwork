@@ -120,6 +120,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   # -- Joey Malandra
   ('PayPal','Joey Malandra',NULL,'2016-12-25','2016-12-25','2016-12-25','2016-12-25',64,64,0,64),
+  ('PayPal','Joey Malandra',NULL,'2017-03-18','2017-03-18','2017-03-18','2017-03-18',73,73,0,73),
 
   # -- Daniel Alejandro Maidana
   ('Western Union','Daniel Alejandro Maidana','Sebastian Sanchez','2016-12-31','2016-12-31','2016-12-31','2016-12-31',30,30,0,30);

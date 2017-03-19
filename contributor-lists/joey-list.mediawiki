@@ -14,13 +14,13 @@ For more in-depth stats, see https://contractwork.vipulnaik.com/worker.php?worke
 
 == Work in 2017 ==
 
-Grand total (this is taxable income for tax year 2017): $58
+Grand total (this is taxable income for tax year 2017): $73
 
 Carryover from 2016: None
 
-Payment made: $0
+Payment made: $73
 
-Net payment due: $58
+Net payment due: None
 
 === Completed pages ===
 
@@ -29,6 +29,10 @@ Total so far: $58
 * 24-hour diet recall: $30. Completed January 10, 2017.
 
 * MalariaWorld: $28. Completed January 26, 2017.
+
+=== Partial pages ===
+
+* WorldPop: $15 for initial work. Last update February 25, 2017. Stopped as work suspended.
 
 == Work in 2016 ==
 
