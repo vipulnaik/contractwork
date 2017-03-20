@@ -44,15 +44,15 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $1988.60
+Total money earned by doing work (taxable as income for 2017): $2190.10
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4803.31
 
-Net payment due: $2791.91
+Net payment due: $2993.41
 
-=== Completed pages ===
+=== Completed pages (on Wikipedia) ===
 
 Total so far: $202
 
@@ -108,7 +108,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $753
+Total so far: $953
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -131,6 +131,8 @@ Total so far: $753
 * Addition of grants data to Laura and John Arnold Foundation page: $220. Based on GitHub repository https://github.com/riceissa/arnold-foundation-grants and originally attempted to save on the main page https://en.wikipedia.org/wiki/Laura_and_John_Arnold_Foundation but reverted by Jytdog, see https://en.wikipedia.org/w/index.php?title=Laura_and_John_Arnold_Foundation&type=revision&diff=765028074&oldid=765019623 so saved a search engine-indexable version in userspace. Completed February 11, 2017.
 
 * Preliminary research understanding different patterns of editing on Wikipedia. Research produced profiles of different kinds of Wikipedia editors, and an interface to generate a report on the trajectory of Wikipedia editor. The interface is not yet public: $200. Completed March 3, 2017.
+
+* Content migration of timelines from Wikipedia to Timelines wiki (at https://timelines.issarice.com): $200. Completed March 20, 2017.
 
 === Stipends ===
 
@@ -158,9 +160,9 @@ Total so far: $40
 
 === Commissions ===
 
-Total so far: $29.60
+Total so far: $31.10
 
-* Joey Malandra: 10% on $58 = $5.80
+* Joey Malandra: 10% on $73 = $7.30
 
 * Charlie Corner: 15% on $50 = $7.50
 

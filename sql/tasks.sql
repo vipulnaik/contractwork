@@ -1,8 +1,8 @@
 create table tasks(
   task_id int(11) not null auto_increment primary key, 
   worker varchar(40),
-  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','None') default 'Wikipedia',
-  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry','Task listing'),
+  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','None') default 'Wikipedia',
+  task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry','Task listing','Content migration','Timelines page creation','Timelines page update'),
   task_receptacle varchar(200) NOT NULL,
   task_receptacle_url varchar(200) NOT NULL,
   completion_date date NOT NULL,
@@ -178,7 +178,6 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page creation','Timeline of digital preservation','https://en.wikipedia.org/wiki/Timeline_of_digital_preservation', '2017-01-04', 90, 'Digital preservation','Timeline', 'There is still more to port over from https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_digital_preservation and additional payment will be added when the porting is complete'),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Global Burden of Disease Study','https://en.wikipedia.org/wiki/Global_Burden_of_Disease_Study','2017-02-07',75,'Global health','Prose','There was an existing confused page called "Global burden of disease" but this was essentially rewritten from scratch'),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Johns Hopkins Center for Health Security','https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security','2017-02-09',37,'Biosecurity','Prose','There was an existing page for "UPMC Center for Health Security" (the previous name for the org) but the page was entirely rewritten and significantly expanded, so is being treated as a new page creation');
-
 
 # -- Jesse Clifton page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
@@ -455,7 +454,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page update','Timeline of Instagram','https://en.wikipedia.org/wiki/Timeline_of_Instagram','2017-02-22',22,'Technology/company','Timeline','Periodic updates to timeline; added events since last updates to timeline and also filled and improved some old events. Diff URL: https://en.wikipedia.org/w/index.php?title=Timeline_of_Instagram&type=revision&diff=766926705&oldid=764465670 taking page from 19,714 bytes to 25,821 bytes'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Timeline of GitHub','https://en.wikipedia.org/wiki/Timeline_of_GitHub','2017-03-01',100,'Technology/company','Timeline','Significant updates to and revamp/cleanup of timeline. Diff URL: https://en.wikipedia.org/w/index.php?title=Timeline_of_GitHub&type=revision&diff=768159084&oldid=764360786 taking page from 10,400 bytes to 58,682 bytes'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Timeline of Reddit','https://en.wikipedia.org/wiki/Timeline_of_Reddit','2017-03-03',29,'Technology/company','Timeline','Significant updates to and revamp/cleanup of timeline. Diff URL: https://en.wikipedia.org/w/index.php?title=Timeline_of_Reddit&type=revision&diff=768435576&oldid=767857741 taking page from 21,870 bytes to 36,244 bytes. Note that baseline 10 dollars was not included as expansion was not completed prior to shutdown of contract work'),
-  ('Issa Rice','None','Preliminary research','Understanding different editing patterns on Wikipedia','N/A','2017-03-03',200,'Wikipedia','Private communication + code','Research produced profiles of different kinds of Wikipedia editors, and an interface to generate a report on the trajectory of Wikipedia editor. The interface is not yet public. However, you can visit https://github.com/riceissa/wikidossier for the underlying code');
+  ('Issa Rice','None','Preliminary research','Understanding different editing patterns on Wikipedia','N/A','2017-03-03',200,'Wikipedia','Private communication + code','Research produced profiles of different kinds of Wikipedia editors, and an interface to generate a report on the trajectory of Wikipedia editor. The interface is not yet public. However, you can visit https://github.com/riceissa/wikidossier for the underlying code'),
+   ('Issa Rice','Timelines wiki','Content migration','TImelines wiki','https://timelines.issarice.com','2017-03-20',200,'Timeline content','Timeline','Migrated a bunch of timelines from Wikipedia to the new Timelines wiki');
 
 
 # -- insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
