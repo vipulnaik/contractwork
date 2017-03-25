@@ -11,17 +11,17 @@ create table stipends(
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Issa Rice',700,'2016-02-01','2016-02-28','2016-12-28','Paid after long deferral as end-of-year award'),
   ('Issa Rice',900,'2016-03-01','2016-03-31','2016-12-28','Paid after long deferral as end-of-year award'),
-  ('Issa Rice',900,'2016-04-01','2016-04-30',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',1000,'2016-05-01','2016-05-31',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',1250,'2016-06-01','2016-06-30',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',1250,'2016-07-01','2016-07-31',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',960,'2016-08-01','2016-08-31',NULL,'Deferred to LiftIgniter milestone; pay less than usual 1250 because of reduced work while in Japan'),
-  ('Issa Rice',1250,'2016-09-01','2016-09-30',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',1250,'2016-10-01','2016-10-31',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',750,'2016-11-01','2016-11-30',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',750,'2016-12-01','2016-12-31',NULL,'Deferred to LiftIgniter milestone'),
-  ('Issa Rice',1200,'2017-01-01','2017-01-31',NULL,'Deferred to LiftIgniter milestone; paid more than usual 750 because of full month of global health work'),
-  ('Issa Rice',1150,'2017-02-01','2017-02-28',NULL,'Deferred to LiftIgniter milestone; paid more than usual 750 because most of the month was spent doing work for Vipul');
+  ('Issa Rice',900,'2016-04-01','2016-04-30','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone'),
+  ('Issa Rice',1000,'2016-05-01','2016-05-31','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone'),
+  ('Issa Rice',1250,'2016-06-01','2016-06-30','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone'),
+  ('Issa Rice',1250,'2016-07-01','2016-07-31','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone'),
+  ('Issa Rice',960,'2016-08-01','2016-08-31','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone; pay less than usual 1250 because of reduced work while in Japan'),
+  ('Issa Rice',1250,'2016-09-01','2016-09-30','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone'),
+  ('Issa Rice',1250,'2016-10-01','2016-10-31','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone'),
+  ('Issa Rice',750,'2016-11-01','2016-11-30','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone'),
+  ('Issa Rice',750,'2016-12-01','2016-12-31','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone'),
+  ('Issa Rice',1200,'2017-01-01','2017-01-31','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone; paid more than usual 750 because of full month of global health work'),
+  ('Issa Rice',1150,'2017-02-01','2017-02-28','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone; paid more than usual 750 because most of the month was spent doing work for Vipul');
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Issa Rice',300,'2016-05-01','2016-05-31','2016-05-31',NULL),
