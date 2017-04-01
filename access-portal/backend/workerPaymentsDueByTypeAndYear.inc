@@ -54,7 +54,7 @@ for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
     $totalStipendPaymentAwardedInSameYear += $row['payment'];
   } else if ($row['awarded'] == 1) {
     $stipendPaymentAwardedInLaterYear[$row['year']] += $row['payment'];
-    $stipendPaymentAwardedFromEarlierYear[$row['awardedYear']] += $row['payment'];
+    $stipendPaymentAwardedFromEarlierYear[$row['awardYear']] += $row['payment'];
     $totalStipendPaymentStraddlingYears += $row['payment'];
   } else {
     $unawardedStipendPayment[$row['year']] += $row['payment'];
