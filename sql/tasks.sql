@@ -354,7 +354,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of healthcare in Japan','https://en.wikipedia.org/wiki/Timeline_of_healthcare_in_Japan','2017-01-02',35,'Country healthcare','Timeline','Reference robustification'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of leukemia','https://en.wikipedia.org/wiki/Timeline_of_leukemia','2017-01-01',5,'Global health/diseases','Timeline','Graph added'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Multiple timelines: healthcare in Japan, India, Germany, Ethiopia','N/A','2017-01-02',20,'Country healthcare','Timeline','Life expectancy graphs added'),
-  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of influenza','https://en.wikipedia.org/wiki/Timeline_of_influenza','2017-02-21',100,'Global health/diseases','Timeline','Reference robustification, significant expansion, and one graph added');
+  ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of influenza','https://en.wikipedia.org/wiki/Timeline_of_influenza','2017-02-21',100,'Global health/diseases','Timeline','Reference robustification, significant expansion, and one graph added'),
+  ('Sebastian Sanchez','Timelines wiki','Wiki page update','Timeline of typhoid fever','https://timelines.issarice.com/wiki/Timeline_of_typhoid_fever','2017-04-05',25,'Global health/diseases','Timeline','Significant expansion, see https://timelines.issarice.com/index.php?title=Timeline_of_typhoid_fever&type=revision&diff=13102&oldid=11919 for diff');
 
 
 # -- Issa Rice's Open Philanthropy Project periodic grant updates

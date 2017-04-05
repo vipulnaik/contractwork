@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $1675
+Total money earned as income: $1700
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $1302.40
 
-Net payment due: ($137.77)
+Net payment due: ($112.77)
 
 === Completed pages (Wikipedia) ===
 
@@ -54,7 +54,7 @@ Total so far: $420
 
 * Timeline of DNA sequencing: $170. Completed April 4, 2017. Includes 8 graphs.
 
-=== Additions to existing pages ===
+=== Additions to existing pages (Wikipedia) ===
 
 Total so far: $190
 
@@ -67,6 +67,12 @@ Total so far: $190
 * Graphs for timelines of healthcare in Japan, India, Germany, and Ethiopia: $20. Completed January 2, 2017.
 
 * Significant expansion of and reference robustification for timeline of influenza: $100. Completed February 21, 2017. Of the two extra graphs added, one was own creation.
+
+=== Additions to existing pages (Timelines wiki) ===
+
+Total so far: $25
+
+* More rows added to timeline of typhoid fever: $25. Completed April 5, 2017.
 
 === Payment schedule ===
 
