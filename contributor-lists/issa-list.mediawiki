@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $15420.10
+Total money earned by doing work (taxable as income for 2017): $15500.10
 
 Payment made: $4000
 
 Carryover payment due from 2016: $4803.31
 
-Net payment due: $16223.41
+Net payment due: $16303.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -108,7 +108,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $1013
+Total so far: $1093
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -135,6 +135,8 @@ Total so far: $1013
 * Content migration of timelines from Wikipedia to Timelines wiki (at https://timelines.issarice.com): $200. Completed March 20, 2017.
 
 * Addition of Laura and John Arnold Foundation grants to donations list website, see https://github.com/riceissa/arnold-foundation-grants/blob/master/grants.sql for the pasteable code and https://donations.vipulnaik.com/donor.php?donor=Laura+and+John+Arnold+Foundation for the result: $60. Completed March 22, 2017.
+
+* LessWrong post on LessWrong traffic data: $80. Post available at http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/ published on April 16, 2017.
 
 === Stipends ===
 
