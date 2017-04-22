@@ -27,7 +27,7 @@ function computeTax($taxableIncome) {
   } else if ($taxableIncome < 418400) {
     return (120910.25 + 0.35 * ($taxableIncome - 416700));
   } else {
-    return (121505.25 + 0396 * ($taxableIncome - 418400));
+    return (121505.25 + 0.396 * ($taxableIncome - 418400));
   }
 }
 ?>
