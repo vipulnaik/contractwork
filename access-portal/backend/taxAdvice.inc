@@ -37,16 +37,16 @@ foreach(array_reverse($yearList) as $year) {
       $selfEmploymentTax = 0;
     }
     $taxableIncomeAssumingNoExemption = max(0, $income - 0.5 * $selfEmploymentTax - $standardDeduction[$year]);
-    $incomeTaxAssumingNoExemption = 0.1 * $taxableIncomeAssumingNoExemption;
+    $incomeTaxAssumingNoExemption = computeTax($taxableIncomeAssumingNoExemption);
     $taxableIncomeAssumingExemption = max(0, $income - 0.5 * $selfEmploymentTax - $standardDeduction[$year] - $basicExemption[$year]);
-    $incomeTaxAssumingExemption = 0.1 * $taxableIncomeAssumingExemption;
+    $incomeTaxAssumingExemption = computeTax($taxableIncomeAssumingExemption);
     $totalTaxAssumingNoExemption = $selfEmploymentTax + $incomeTaxAssumingNoExemption;
     $totalTaxAssumingExemption = $selfEmploymentTax + $incomeTaxAssumingExemption;
     print "<p>In the year $year, the total payment awarded to you (your income) was $".sprintf('%.2f',$income)." USD, and the total money paid to you was $".sprintf('%.2f',$receivedIncome)." USD.</p>\n";
-    print "<p>Here is a rough estimate for how much tax you would need to pay assuming all your income was from contract work for Vipul Naik:</p>\n";
+    print "<p>Here is a rough estimate for how much tax you would need to pay assuming all your income was from contract work for Vipul Naik using the tax rates described at ".'<a href="https://www.forbes.com/sites/kellyphillipserb/2016/10/25/irs-announces-2017-tax-rates-standard-deductions-exemption-amounts-and-more/#6841a6c75701">IRS Announces 2017 Tax Rates, Standard Deductions, Exemption Amounts And More</a>'.".:</p>\n";
     print "<ul>\n";
-    print "    <li>Assuming you cannot take a personal exemption: $".sprintf('%.2f',$selfEmploymentTax)." self-employment tax and $".sprintf('%.2f',$incomeTaxAssumingNoExemption)." income tax totaling to $".sprintf('%.2f',$totalTaxAssumingNoExemption).".</li>\n";
-    print "    <li>Assuming you can take a personal exemption: $".sprintf('%.2f',$selfEmploymentTax)." self-employment tax and $".sprintf('%.2f',$incomeTaxAssumingExemption)." income tax, totaling to $".sprintf('%.2f',$totalTaxAssumingExemption).".</li>\n";
+    print "    <li>Assuming you are single and cannot take a personal exemption: $".sprintf('%.2f',$selfEmploymentTax)." self-employment tax and $".sprintf('%.2f',$incomeTaxAssumingNoExemption)." income tax totaling to $".sprintf('%.2f',$totalTaxAssumingNoExemption)."</li>\n";
+    print "    <li>Assuming you are single an can take a personal exemption: $".sprintf('%.2f',$selfEmploymentTax)." self-employment tax and $".sprintf('%.2f',$incomeTaxAssumingExemption)." income tax, totaling to $".sprintf('%.2f',$totalTaxAssumingExemption).".</li>\n";
     print "</ul>\n";
     print "<p>More details of your tax situation and how to fill your tax forms are below.</p>\n";
     if (0.9235 * $income < $selfEmploymentFilingThreshold[$year]) {
