@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $15730.10
+Total money earned by doing work (taxable as income for 2017): $15885.10
 
 Payment made: $16000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $4563.41
+Net payment due: $4718.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -61,6 +61,12 @@ Total so far: $202
 * Global Burden of Disease Study: $75. Completed February 7, 2017.
 
 * Johns Hopkins Center for Health Security: $37. Completed February 9, 2017.
+
+=== Completed pages (on timelines wiki) ===
+
+Total so far: $155
+
+* [Timeline of Against Malaria Foundation](https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation): $155. Completed April 27, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=13553
 
 === Royalties ===
 
