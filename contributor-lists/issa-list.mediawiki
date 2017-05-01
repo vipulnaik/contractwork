@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $15885.10
+Total money earned by doing work (taxable as income for 2017): $17335.10
 
 Payment made: $16000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $4718.41
+Net payment due: $6168.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -148,7 +148,7 @@ Total so far: $1323
 
 === Stipends ===
 
-Total so far: $13660
+Total so far: $15110
 
 * January: $250
 
@@ -161,6 +161,8 @@ Total so far: $13660
 * February (deferred, realized on March 24): $1150. More than usual $750 since most of the month was spent working with Vipul.
 
 * Deferred stipends from 2016 awarded in 2017: $9360
+
+* April: $1450
 
 === Touch payments ===
 
