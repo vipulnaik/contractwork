@@ -85,7 +85,7 @@ foreach($monthList as $month) {
   $totalPayment[$month] = 0;
   $totalPaymentAwarded[$month] = $taskPayment[$month] + $commissionOnTaskPayment[$month]  + $stipendPaymentAwardedInSameMonth[$month] + $stipendPaymentAwardedFromEarlierMonth[$month] + $royaltyPayment[$month] + $commissionOnRoyaltyPayment[$month];
   $totalPaymentAwardedAcrossMonths += $totalPaymentAwarded[$month];
-  $totalPayment[$month] = $totalPaymentAwarded[$month] + $stipendPaymentAwardedInLaterMonth[$month] - $stipendPaymentsAwardedFromEarlierMonth[$month] + $unawardedStipendPayment[$month];
+  $totalPayment[$month] = $totalPaymentAwarded[$month] + $stipendPaymentAwardedInLaterMonth[$month] - $stipendPaymentAwardedFromEarlierMonth[$month] + $unawardedStipendPayment[$month];
   $totalPaymentAcrossMonths += $totalPayment[$month];
 }
 
