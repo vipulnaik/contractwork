@@ -66,7 +66,7 @@ Total so far: $202
 
 Total so far: $155
 
-* [Timeline of Against Malaria Foundation](https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation): $155. Completed April 27, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=13553
+* [https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation Timeline of Against Malaria Foundation]: $155. Completed April 27, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=13553
 
 === Royalties ===
 
@@ -144,7 +144,7 @@ Total so far: $1323
 
 * LessWrong post on LessWrong traffic data: $80. Post available at http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/ published on April 16, 2017.
 
-* Adddtion of Bill and Melinda Gates Foundation grants to donations list website, see https://github.com/riceissa/gates-foundation-iati-processing for the code to generate the data, and https://donations.vipulnaik.com/donor.php?donor=Bill+and+Melinda+Gates+Foundation for the result: $230. Completed April 23, 2017.
+* Addition of Bill and Melinda Gates Foundation grants to donations list website, see https://github.com/riceissa/gates-foundation-iati-processing for the code to generate the data, and https://donations.vipulnaik.com/donor.php?donor=Bill+and+Melinda+Gates+Foundation for the result: $230. Completed April 23, 2017.
 
 === Stipends ===
 
