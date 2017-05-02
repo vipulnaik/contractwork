@@ -3,8 +3,10 @@ print '<h4 id="paymentsDueByTypeAndYear">Payments due by type and year</h4>';
 
 # Initialize values to zero
 foreach ($yearList as $year) {
-  $taskPayment[$year] = 0;
-  $totalTaskPayment = 0;
+  $taskPayment[$year]["Vipul Naik"] = 0;
+  $taskPayment[$year]["Peter Hurford"] = 0;
+  $totalTaskPayment["Vipul Naik"] = 0;
+  $totalTaskPayment["Peter Hurford"] = 0;
   $commissionOnTaskPayment[$year] = 0;
   $totalCommissionOnTaskPayment = 0;
   $stipendPaymentAwardedInSameYear[$year] = 0;
@@ -24,12 +26,12 @@ foreach ($yearList as $year) {
 
 # Get task payments
 
-$taskSelectQuery = "select year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks group by year(completion_date);";
+$taskSelectQuery = "select payer, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks group by payer, year(completion_date);";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
-  $taskPayment[$row['year']] = $row['payment'];
-  $totalTaskPayment += $row['payment'];
+  $taskPayment[$row['year']][$row['payer']] = $row['payment'];
+  $totalTaskPayment[$row['payer']] += $row['payment'];
 }
 
 # Get commission on task payments
@@ -81,7 +83,7 @@ for ($i = 0; $i < $commissionOnRoyaltySelectResult -> num_rows; $i++) {
 foreach($yearList as $year) {
   $totalPaymentAwarded[$year] = 0;
   $totalPayment[$year] = 0;
-  $totalPaymentAwarded[$year] = $taskPayment[$year] + $commissionOnTaskPayment[$year]  + $stipendPaymentAwardedInSameYear[$year] + $stipendPaymentAwardedFromEarlierYear[$year] + $royaltyPayment[$year] + $commissionOnRoyaltyPayment[$year];
+  $totalPaymentAwarded[$year] = $taskPayment[$year]["Vipul Naik"] + $taskPayment[$year]["Peter Hurford"] + $commissionOnTaskPayment[$year]  + $stipendPaymentAwardedInSameYear[$year] + $stipendPaymentAwardedFromEarlierYear[$year] + $royaltyPayment[$year] + $commissionOnRoyaltyPayment[$year];
   $totalPaymentAwardedAcrossYears += $totalPaymentAwarded[$year];
   $totalPayment[$year] = $totalPaymentAwarded[$year] + $stipendPaymentAwardedInLaterYear[$year] - $stipendPaymentAwardedFromEarlierYear[$year] + $unawardedStipendPayment[$year];
   $totalPaymentAcrossYears += $totalPayment[$year];
@@ -96,12 +98,16 @@ foreach (array_reverse($yearList) as $year) {
 }
 print "	<th>Total across years</th>\n</tr>\n";
 print "</thead>\n<tbody>\n";
-print "<tr>\n	<td>Tasks</td>\n";
-foreach (array_reverse($yearList) as $year) {
-  print '	<td align="right">'.sprintf('%.2f',$taskPayment[$year])."</td>\n";
+foreach (array("Vipul Naik", "Peter Hurford") as $payer) {
+  if ($totalTaskPayment[$payer] > 0) {
+    print "<tr>\n	<td>Tasks for $payer</td>\n";
+    foreach (array_reverse($yearList) as $year) {
+      print '	<td align="right">'.sprintf('%.2f',$taskPayment[$year][$payer])."</td>\n";
+    }
+    print '	<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment[$payer])."</strong></td>\n";
+    print "</tr>\n";
+  }
 }
-print '	<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment)."</strong></td>\n";
-print "</tr>\n";
 print "<tr>\n	<td>Commissions on tasks</td>\n";
 foreach (array_reverse($yearList) as $year) {
   print '	<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$year])."</td>\n";
