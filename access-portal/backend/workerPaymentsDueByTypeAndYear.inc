@@ -5,10 +5,10 @@ if ($printTables == true) {
 
 # Initialize values to zero
 foreach ($yearList as $year) {
-  $taskPayment[$year]["Vipul Naik"] = 0;
-  $taskpayment[$year]["Peter Hurford"] = 0; 
-  $totalTaskPayment["Vipul Naik"] = 0;
-  $totalTaskPayment["Peter Hurford"] = 0;
+  foreach ($payers as $payer) {
+    $taskPayment[$year][$payer] = 0;
+    $totalTaskPayment[$payer] = 0;
+  }
   $commissionOnTaskPayment[$year] = 0;
   $totalCommissionOnTaskPayment = 0;
   $stipendPaymentAwardedInSameYear[$year] = 0;
@@ -85,7 +85,11 @@ for ($i = 0; $i < $commissionOnRoyaltySelectResult -> num_rows; $i++) {
 foreach($yearList as $year) {
   $totalPaymentAwarded[$year] = 0;
   $totalPayment[$year] = 0;
-  $totalPaymentAwarded[$year] = $taskPayment[$year]["Vipul Naik"] + $taskPayment[$year]["Peter Hurford"] + $commissionOnTaskPayment[$year]  + $stipendPaymentAwardedInSameYear[$year] + $stipendPaymentAwardedFromEarlierYear[$year] + $royaltyPayment[$year] + $commissionOnRoyaltyPayment[$year];
+  $taskPaymentAcrossPayers[$year] = 0;
+  foreach ($payers as $payer) {
+    $taskPaymentAcrossPayers[$year] += $taskPayment[$year][$payer];
+  }
+  $totalPaymentAwarded[$year] = $taskPaymentAcrossPayers[$year] + $commissionOnTaskPayment[$year]  + $stipendPaymentAwardedInSameYear[$year] + $stipendPaymentAwardedFromEarlierYear[$year] + $royaltyPayment[$year] + $commissionOnRoyaltyPayment[$year];
   $totalPaymentAwardedAcrossYears += $totalPaymentAwarded[$year];
   $totalPayment[$year] = $totalPaymentAwarded[$year] + $stipendPaymentAwardedInLaterYear[$year] - $stipendPaymentAwardedFromEarlierYear[$year] + $unawardedStipendPayment[$year];
   $totalPaymentAcrossYears += $totalPayment[$year];
@@ -102,7 +106,7 @@ if ($printTables == true) {
   }
   print '<th>Total across years</th></tr>';
   print "</thead>\n<tbody>\n";
-  foreach(array("Vipul Naik", "Peter Hurford") as $payer) {
+  foreach($payers as $payer) {
     if ($totalTaskPayment[$payer] > 0) {
       print "<tr><td>Tasks for $payer</td>";
       foreach (array_reverse($yearList) as $year) {
