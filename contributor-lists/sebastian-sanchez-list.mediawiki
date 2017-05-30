@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $2230
+Total money earned as income: $2830
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $2621.72
 
-Net payment due: ($902.09)
+Net payment due: ($302.09)
 
 === Completed pages (Wikipedia) ===
 
@@ -46,9 +46,9 @@ Total so far: $1065
 
 * Timeline of typhoid fever: $100. Completed March 4, 2017. Includes two graphs.
 
-=== Completed pages (Timelines wiki) ===
+=== Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $850
+Total so far: $1050
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health Timeline of the National Institutes of Health]: $250. Completed April 3, 2017. Includes 29 graphs (1 cumulative, 28 for the individual institutes).
 
@@ -59,6 +59,16 @@ Total so far: $850
 * [https://timelines.issarice.com/wiki/Timeline_of_The_Global_Fund_to_Fight_AIDS%2C_Tuberculosis_and_Malaria Timeline of malaria vaccine]: $80. Completed April 24, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_malaria_vaccine&oldid=13472
 
 * [https://timelines.issarice.com/wiki/Timeline_of_The_Global_Fund_to_Fight_AIDS%2C_Tuberculosis_and_Malaria Timeline of The Global Fund to Fight AIDS, Tuberculosis and Malaria]: $190. Includes 8 graphs. Completed May 15, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_The_Global_Fund_to_Fight_AIDS,_Tuberculosis_and_Malaria&oldid=13861
+
+* [https://timelines.issarice.com/wiki/Timeline_of_UNICEF Timeline of UNICEF]: $200. Includes 7 graphs. Completed May 29, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_UNICEF&oldid=14185
+
+=== Completed pages paid for by Peter (Timelines wiki) ===
+
+Total so far: $400
+
+* [https://timelines.issarice.com/wiki/Timeline_of_diphtheria Timeline of diphtheria]: $200. Completed May 26, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_diphtheria&oldid=14055
+
+* [https://timelines.issarice.com/wiki/Timeline_of_tetanus Timeline of tetanus]: $200. Completed May 26, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_tetanus&oldid=14088
 
 === Additions to existing pages (Wikipedia) ===
 
