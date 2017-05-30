@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $2830
+Total money earned as income: $2930
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $2621.72
 
-Net payment due: ($302.09)
+Net payment due: ($202.09)
 
 === Completed pages (Wikipedia) ===
 
@@ -93,6 +93,12 @@ Total so far: $125
 * Porting over of graphs from Wikipedia for existing disease timelines (38 graphs ported) $50. Completed April 23, 2017.
 
 * 16 new graphs on timeline of malaria giving funding distributions: $50. Completed April 23, 2017. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=13420&oldid=13223 for a diff
+
+=== Stipends ===
+
+Total so far: $100
+
+* May: $100
 
 === Payment schedule ===
 
