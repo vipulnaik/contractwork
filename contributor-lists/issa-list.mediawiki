@@ -44,7 +44,7 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $18715.10
+Total money earned by doing work (taxable as income for 2017): $19285.10
 
 Payment made: $16000
 
@@ -69,6 +69,12 @@ Total so far: $275
 * [https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation Timeline of Against Malaria Foundation]: $155. Completed April 27, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=13553
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Bill_%26_Melinda_Gates_Foundation Timeline of Bill & Melinda Gates Foundation]: $120. Completed May 11, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Bill_%26_Melinda_Gates_Foundation&oldid=13804
+
+=== Tasks for Peter Hurford ===
+
+Total so far: $570
+
+* [https://gist.github.com/riceissa/186b1d2e8bbb85e6204b5e06aba64018 hits-based giving project]: $570. Initial work on a project based on a slight modification of an earlier [http://effective-altruism.com/ea/14s/how_many_hits_does_hitsbased_giving_get_a/ proposal by Peter Hurford]. The project couldn't work out due to data not being available; however, Issa was paid $15/hour for 38 hours.
 
 === Royalties ===
 
