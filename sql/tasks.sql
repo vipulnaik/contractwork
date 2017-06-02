@@ -481,6 +481,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','LessWrong','Blog post or article','LessWrong analytics (February 2009 to January 2017)','http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/','2017-04-16',80,'Web analytics','Prose','Full Gist available at https://gist.github.com/cbdd400180417c689b2befbfbe2158fc.git includes data, source code, and post markdown'),
   ('Issa Rice','Donations list website','Data entry','Bill and Melinda Gates Foundation','https://donations.vipulnaik.com/donor.php?donor=Bill+and+Melinda+Gates+Foundation','2017-04-23',230,'Foundation grants','Database rows','Processed Bill and Melinda Gates Foundation grants from IATI at https://iatiregistry.org/publisher/bmgf to generate data for insertion in donations database. Code available at https://github.com/riceissa/gates-foundation-iati-processing -- run the commands there and then pass the generated SQL to the donations database');
 
-
+# -- Issa Rice tasks paid for by Peter Hurford
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
+  ('Issa Rice', 'None', 'Preliminary research','hits-based giving project','https://gist.github.com/riceissa/186b1d2e8bbb85e6204b5e06aba64018','2017-03-22',570,'Notes','Philanthropy/history of philanthropy','Initial work for a project announced by Peter Hurford at http://effective-altruism.com/ea/14s/how_many_hits_does_hitsbased_giving_get_a/ after some modification and discussion with Peter. Due to data availability constraints, the project could not be completed, so the pay is for 38 hours of initial work at $15/hour','Peter Hurford');
 # -- insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
 
