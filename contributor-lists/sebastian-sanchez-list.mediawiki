@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $2930
+Total money earned as income: $3125
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $2621.72
 
-Net payment due: ($202.09)
+Net payment due: ($7.09)
 
 === Completed pages (Wikipedia) ===
 
@@ -48,7 +48,7 @@ Total so far: $1065
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $1050
+Total so far: $1245
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health Timeline of the National Institutes of Health]: $250. Completed April 3, 2017. Includes 29 graphs (1 cumulative, 28 for the individual institutes).
 
@@ -61,6 +61,10 @@ Total so far: $1050
 * [https://timelines.issarice.com/wiki/Timeline_of_The_Global_Fund_to_Fight_AIDS%2C_Tuberculosis_and_Malaria Timeline of The Global Fund to Fight AIDS, Tuberculosis and Malaria]: $190. Includes 8 graphs. Completed May 15, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_The_Global_Fund_to_Fight_AIDS,_Tuberculosis_and_Malaria&oldid=13861
 
 * [https://timelines.issarice.com/wiki/Timeline_of_UNICEF Timeline of UNICEF]: $200. Includes 7 graphs. Completed May 29, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_UNICEF&oldid=14185
+
+* [https://timelines.issarice.com/wiki/Comparison_of_methods_of_malaria_control Comparison of methods of malaria control]: $120. Completed April 27, 2017. Completed version at https://timelines.issarice.com/index.php?title=Comparison_of_methods_of_malaria_control&oldid=13547
+
+* [https://timelines.issarice.com/wiki/Comparison_of_measures_of_abundance_of_malaria Comparison of measures of abundance of malaria]: $75. Completed May 7, 2017. Completed version at https://timelines.issarice.com/index.php?title=Comparison_of_measures_of_abundance_of_malaria&oldid=13671
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
