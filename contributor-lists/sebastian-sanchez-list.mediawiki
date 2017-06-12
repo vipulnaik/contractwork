@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $3350
+Total money earned as income: $3510
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $3900.02
 
-Net payment due: ($1060.39)
+Net payment due: ($900.39)
 
 === Completed pages (Wikipedia) ===
 
@@ -48,7 +48,7 @@ Total so far: $1065
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $1470
+Total so far: $1630
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health Timeline of the National Institutes of Health]: $250. Completed April 3, 2017. Includes 29 graphs (1 cumulative, 28 for the individual institutes).
 
@@ -68,6 +68,7 @@ Total so far: $1470
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Gavi%2C_the_Vaccine_Alliance Timeline of Gavi, the Vaccine Alliance]: $225. Completed June 4, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Gavi,_the_Vaccine_Alliance&oldid=14400 and pay also includes related graphs uploaded to https://timelines.issarice.com/wiki/Global_health_visual_data_repository (section GAVI, the Vaccine Alliance)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_CRISPR Timeline of CRISPR]: $160. Completed June 11, 2017.  Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_CRISPR&oldid=14655
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
