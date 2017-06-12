@@ -22,9 +22,9 @@ Total money earned as income: $3350
 
 Forward balance carried over from 2016: ($510.37)
 
-Payment made: $3258.11
+Payment made: $3900.02
 
-Net payment due: ($418.48)
+Net payment due: ($1060.39)
 
 === Completed pages (Wikipedia) ===
 
@@ -67,6 +67,7 @@ Total so far: $1470
 * [https://timelines.issarice.com/wiki/Comparison_of_measures_of_abundance_of_malaria Comparison of measures of abundance of malaria]: $75. Completed May 7, 2017. Completed version at https://timelines.issarice.com/index.php?title=Comparison_of_measures_of_abundance_of_malaria&oldid=13671
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Gavi%2C_the_Vaccine_Alliance Timeline of Gavi, the Vaccine Alliance]: $225. Completed June 4, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Gavi,_the_Vaccine_Alliance&oldid=14400 and pay also includes related graphs uploaded to https://timelines.issarice.com/wiki/Global_health_visual_data_repository (section GAVI, the Vaccine Alliance)
+
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
@@ -114,6 +115,11 @@ added on Timeline of tuberculosis
 20:38, 25 April 2017 
 30/5/2017: 1 row timeline of hepatitis
 
+Also additions in June 2017 to:
+Timeline of malaria
+Timeline of NIH
+Timeline of polio
+
 === Stipends ===
 
 Total so far: $100
@@ -122,7 +128,7 @@ Total so far: $100
 
 === Payment schedule ===
 
-Total paid: $3258.11 (=$3218.11 received + $40 transaction fee)
+Total paid: $3900.02 (=$3852.02 received + $48 transaction fee)
 
 * Payment of $632.78 made on January 18, 2017, received on January 19, 2017. Transaction fee of $8.
 
@@ -133,6 +139,8 @@ Total paid: $3258.11 (=$3218.11 received + $40 transaction fee)
 * Payment of $651.61 made on Saturday, May 13, 2017, received on Monday, May 15, 2017. Transaction fee of $8.
 
 * Payment of $628.39 made on Saturday, June 3, 2017, received on Tuesday, June 6, 2017. Transaction fee of $8.
+
+* Payment of $633.91 made on Saturday, June 10, 2017, received on Monday, June 12, 2017. Transaction fee of $8.
 
 == Work in 2016 ==
 
