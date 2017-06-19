@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $19530.10
+Total money earned by doing work (taxable as income for 2017): $19570.10
 
 Payment made: $16000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $8363.41
+Net payment due: $8403.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -124,7 +124,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $1423
+Total so far: $1463
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -157,6 +157,8 @@ Total so far: $1423
 * Addition of Bill and Melinda Gates Foundation grants to donations list website, see https://github.com/riceissa/gates-foundation-iati-processing for the code to generate the data, and https://donations.vipulnaik.com/donor.php?donor=Bill+and+Melinda+Gates+Foundation for the result: $230. Completed April 23, 2017.
 
 * Improvements to wikidossier, including user comparison and namespace breakdown: $100. Completed March 11, 2017. See https://github.com/riceissa/wikidossier/commit/ae343d95b27bb0cb65fcf886f96591cabd6d25ca for the most recent commit covered by this payment.
+
+* Fix sorting of tables for donations.vipulnaik.com so it can handle sorting with the numbers having commas in them for readability: $40. Completed June 18, 2017. See https://github.com/vipulnaik/donations/tree/comma-sort for the branch and https://github.com/vipulnaik/donations/commit/f7f99b4f0db39d3147d72a5a7f8f30f856fa4e9f for the most recent commit.
 
 === Stipends ===
 
