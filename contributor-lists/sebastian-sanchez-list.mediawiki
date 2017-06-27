@@ -22,9 +22,9 @@ Total money earned as income: $3510
 
 Forward balance carried over from 2016: ($510.37)
 
-Payment made: $3900.02
+Payment made: $4533.30
 
-Net payment due: ($900.39)
+Net payment due: ($1533.67)
 
 === Completed pages (Wikipedia) ===
 
@@ -131,7 +131,7 @@ Total so far: $100
 
 === Payment schedule ===
 
-Total paid: $3900.02 (=$3852.02 received + $48 transaction fee)
+Total paid: $4533.30 (=$4477.30 received + $56 transaction fee)
 
 * Payment of $632.78 made on January 18, 2017, received on January 19, 2017. Transaction fee of $8.
 
@@ -144,6 +144,8 @@ Total paid: $3900.02 (=$3852.02 received + $48 transaction fee)
 * Payment of $628.39 made on Saturday, June 3, 2017, received on Tuesday, June 6, 2017. Transaction fee of $8.
 
 * Payment of $633.91 made on Saturday, June 10, 2017, received on Monday, June 12, 2017. Transaction fee of $8.
+
+* Payment of $625.28 made on Saturday, June 24, 2017, received on Monday, June 26, 2017. Transaction fee of $8.
 
 == Work in 2016 ==
 
@@ -328,3 +330,4 @@ Each payment had a transaction fee of $8. Thus, the total amount we consider pai
 * Seventh payment of $669 was initiated on November 5, 2016 (Saturday) and completed on November 7, 2016 (Monday).
 
 * Eighth payment of $634.37 was initiated on December 21, 2016 (Wednesday) and competed on December 22, 2016 (Thursday).
+
