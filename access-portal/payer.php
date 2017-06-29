@@ -3,7 +3,7 @@ print '<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN"><html><hea
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 include_once("backend/stringFunctions.inc");
-$payer = 'Issa Rice';
+$payer = 'Vipul Naik';
 if (!empty($_REQUEST['payer'])) {
   $payer = $_REQUEST['payer'];
 }
@@ -23,7 +23,6 @@ print '<script>$(document).ready(function()
         $("#myTablePayerTaskPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTablePayerTaskPaymentsDueByTopicAndMonth").tablesorter();
         $("#myTablePayerTaskPaymentsDueByVenueAndMonth").tablesorter();
-        $("#myTablePayerPaymentsDueAndMadeByMonth").tablesorter();
         $("#myTablePayerTaskList").tablesorter();
      }
 ); </script>'."\n";
@@ -42,7 +41,6 @@ if ($payerSelectResult -> num_rows == 0) {
   print '<li><a href="#payerTaskPaymentsDueByTypeAndMonth">Payer task payments due by type and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByTopicAndMonth">Payer task payments due by topic and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByVenueAndMonth">Payer task payments due by venue and month</a></li>';
-  print '<li><a href="#payerPaymentsDueAndMadeByMonth">Payer payments due and made by month</a></li>';
   print '<li><a href="#payerTaskList">Payer task list</a></li>';
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
@@ -54,7 +52,6 @@ if ($payerSelectResult -> num_rows == 0) {
   include("backend/payerTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/payerTaskPaymentsDueByTopicAndMonth.inc");
   include("backend/payerTaskPaymentsDueByVenueAndMonth.inc");
-  include("backend/payerPaymentsDueAndMadeByMonth.inc");
   include("backend/payerTaskList.inc");
 }
 print '</body>';
