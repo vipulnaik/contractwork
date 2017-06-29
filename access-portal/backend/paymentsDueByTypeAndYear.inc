@@ -104,7 +104,7 @@ print "	<th>Total across years</th>\n</tr>\n";
 print "</thead>\n<tbody>\n";
 foreach ($payers as $payer) {
   if ($totalTaskPayment[$payer] > 0) {
-    print "<tr>\n	<td>Tasks for $payer</td>\n";
+    print "<tr>\n	<td>Tasks for <a href=\"/paper.php?payer=".urlencode($payer)."\">$payer</td>\n";
     foreach (array_reverse($yearList) as $year) {
       print '	<td align="right">'.sprintf('%.2f',$taskPayment[$year][$payer])."</td>\n";
     }
