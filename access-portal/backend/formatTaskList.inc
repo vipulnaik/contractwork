@@ -30,7 +30,7 @@ for($i = 0; $i < $formatTaskSelectResult -> num_rows; $i++) {
   }
   print '<td>'.$row['completion_date'].'</td>';
   print '<td align="right">'.sprintf("%.2f",$row['payment']).'</td>';
-  print '<td>'.$row[''topic'].'</td>';
+  print '<td>'.$row['topic'].'</td>';
   print '<td>'.$row['format'].'</td>';
   print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
