@@ -1,8 +1,8 @@
 <?php
 
-print '<h4 id="topicImpact">Topic impact: Wikipedia</h4>';
+print '<h4 id="formatImpact">Format impact: Wikipedia</h4>';
 
-$paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where $topicRegexMatcher and task_type in ('Wikipedia page creation','Wikipedia page translation')) and drilldown in ('desktop','mobile-web','mobile-app');";
+$paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where $formatRegexMatcher and task_type in ('Wikipedia page creation','Wikipedia page translation')) and drilldown in ('desktop','mobile-web','mobile-app');";
  
 $paidViewsResult = $mysqli -> query($paidViewsQuery);
 
@@ -12,7 +12,7 @@ if ($paidViewsResult -> num_rows > 0) {
   $paidViewCount = $row['totalViews'];
 }
 
-$paidCreatedOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where $topicRegexMatcher and task_type in ('Wikipedia page creation','Wikipedia page translation','Wikipedia page update')) and drilldown in ('desktop', 'mobile-web', 'mobile-app');";
+$paidCreatedOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where $formatRegexMatcher and task_type in ('Wikipedia page creation','Wikipedia page translation','Wikipedia page update')) and drilldown in ('desktop', 'mobile-web', 'mobile-app');";
 
 $paidCreatedOrEditedPageViewsResult = $mysqli -> query($paidCreatedOrEditedPageViewsQuery);
 
@@ -37,7 +37,7 @@ if ($paidCreatedOrEditedPageViewCount > 0) {
 }
 
 print "\n";
-print '<table id="myTableTopicImpact" class="tablesorter">'."\n";
+print '<table id="myTableFormatImpact" class="tablesorter">'."\n";
 print "<thead>\n";
 print "<tr>\n    <th>Item</th>\n    <th>Value</th>\n</tr>\n";
 print "</thead>\n<tbody>\n";
