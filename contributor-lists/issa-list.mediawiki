@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $19570.10
+Total money earned by doing work (taxable as income for 2017): $21020.10
 
 Payment made: $16000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $8403.41
+Net payment due: $9853.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -162,7 +162,7 @@ Total so far: $1463
 
 === Stipends ===
 
-Total so far: $16370
+Total so far: $17820
 
 * January: $250
 
@@ -179,6 +179,8 @@ Total so far: $16370
 * April: $1450
 
 * May: $1260 (adjusted downward since Issa took the last week of May (Monday May 29 to Wednesday May 31) off)
+
+* June: $1450
 
 === Touch payments ===
 
