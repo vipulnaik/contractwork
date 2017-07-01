@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $3575
+Total money earned as income: $3665
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $4533.30
 
-Net payment due: ($1468.67)
+Net payment due: ($1378.67)
 
 === Completed pages (Wikipedia) ===
 
@@ -94,7 +94,7 @@ Total so far: $190
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $190
+Total so far: $280
 
 * More rows added to timeline of typhoid fever: $25. Completed April 5, 2017.
 
@@ -103,6 +103,8 @@ Total so far: $190
 * 16 new graphs on timeline of malaria giving funding distributions: $50. Completed April 23, 2017. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=13420&oldid=13223 for a diff
 
 * Expansion of the timeline of malaria: $65. This covers expansions starting AFTER the addition of graphs (April 23) and continuing till June 25. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=15109&oldid=13420 for a diff
+
+* Continued expansion and filling in the table for comparison of methods of malaria control: $90. This covers expansions after the reported timeline completion date of April 27. See https://timelines.issarice.com/index.php?title=Comparison_of_methods_of_malaria_control&type=revision&diff=15116&oldid=13547 for a diff
 
 Payment has not yet been added for the following additions:
 
