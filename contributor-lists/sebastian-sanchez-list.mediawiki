@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $3510
+Total money earned as income: $3575
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $4533.30
 
-Net payment due: ($1533.67)
+Net payment due: ($1468.67)
 
 === Completed pages (Wikipedia) ===
 
@@ -94,13 +94,15 @@ Total so far: $190
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $125
+Total so far: $190
 
 * More rows added to timeline of typhoid fever: $25. Completed April 5, 2017.
 
 * Porting over of graphs from Wikipedia for existing disease timelines (38 graphs ported) $50. Completed April 23, 2017.
 
 * 16 new graphs on timeline of malaria giving funding distributions: $50. Completed April 23, 2017. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=13420&oldid=13223 for a diff
+
+* Expansion of the timeline of malaria: $65. This covers expansions starting AFTER the addition of graphs (April 23) and continuing till June 25. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=15109&oldid=13420 for a diff
 
 Payment has not yet been added for the following additions:
 
@@ -110,14 +112,9 @@ added on Timeline of tuberculosis
 21:30, 25 April 2017 
 21:25, 25 April 2017 
 
-3 events added on timeline of malaria:
-20:48, 25 April 2017
-20:42, 25 April 2017 
-20:38, 25 April 2017 
 30/5/2017: 1 row timeline of hepatitis
 
 Also additions in June 2017 to:
-Timeline of malaria (in multiple batches)
 Timeline of NIH
 Timeline of polio
 Timeline of malaria vaccine
