@@ -20,9 +20,11 @@ print '<script>$(document).ready(function()
         $("#myTablePayerTaskPaymentsDueByTypeAndYear").tablesorter();
         $("#myTablePayerTaskPaymentsDueByTopicAndYear").tablesorter();
         $("#myTablePayerTaskPaymentsDueByVenueAndYear").tablesorter();
+        $("#myTablePayerTaskPaymentsDueByFormatAndYear").tablesorter();
         $("#myTablePayerTaskPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTablePayerTaskPaymentsDueByTopicAndMonth").tablesorter();
         $("#myTablePayerTaskPaymentsDueByVenueAndMonth").tablesorter();
+        $("#myTablePayerTaskPaymentsDueByFormatAndMonth").tablesorter();
         $("#myTablePayerTaskList").tablesorter();
      }
 ); </script>'."\n";
@@ -38,9 +40,11 @@ if ($payerSelectResult -> num_rows == 0) {
   print '<li><a href="#payerTaskPaymentsDueByTypeAndYear">Payer task payments due by type and year</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByTopicAndYear">Payer task payments due by topic and year</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByVenueAndYear">Payer task payments due by venue and year</a></li>';
+  print '<li><a href="#payerTaskPaymentsDueByFormatAndYear">Payer task payments due by format and year</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByTypeAndMonth">Payer task payments due by type and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByTopicAndMonth">Payer task payments due by topic and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByVenueAndMonth">Payer task payments due by venue and month</a></li>';
+  print '<li><a href="#payerTaskPaymentsDueByFormatAndMonth">Payer task payments due by format and month</a></li>';
   print '<li><a href="#payerTaskList">Payer task list</a></li>';
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
@@ -49,9 +53,11 @@ if ($payerSelectResult -> num_rows == 0) {
   include("backend/payerTaskPaymentsDueByTypeAndYear.inc");
   include("backend/payerTaskPaymentsDueByTopicAndYear.inc");
   include("backend/payerTaskPaymentsDueByVenueAndYear.inc");
+  include("backend/payerTaskPaymentsDueByFormatAndYear.inc");
   include("backend/payerTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/payerTaskPaymentsDueByTopicAndMonth.inc");
   include("backend/payerTaskPaymentsDueByVenueAndMonth.inc");
+  include("backend/payerTaskPaymentsDueByFormatAndMonth.inc");
   include("backend/payerTaskList.inc");
 }
 print '</body>';

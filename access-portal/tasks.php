@@ -5,10 +5,17 @@ include_once("backend/globalVariables/lists.inc");
 include_once("backend/stringFunctions.inc");
 $receptacle = "";
 $receptacle_url = "";
+$matchingMethod = "REGEXP";
 $titleExtras = "";
 if (!empty($_REQUEST['receptacle'])) {
   $receptacle = $_REQUEST['receptacle'];
   $titleExtras .= "receptacle $receptacle, ";
+}
+if (!empty($_REQUEST['matching'])) {
+  $matching = $_REQUEST['matching'];
+  if ($matching == "exact") {
+    $matchingMethod = "=";
+  }
 }
 if (!empty($_REQUEST['receptacle_url'])) {
   $receptacle_url = $_REQUEST['receptacle_url'];
@@ -16,11 +23,11 @@ if (!empty($_REQUEST['receptacle_url'])) {
 }
 $filterQuery = "";
 if ($receptacle != "" && $receptacle_url != "") {
-  $filterQuery = "task_receptacle REGEXP \"$receptacle\" and task_receptacle_url REGEXP \"$receptacle_url\"";
+  $filterQuery = "task_receptacle $matchingMethod \"$receptacle\" and task_receptacle_url $matchingMethod \"$receptacle_url\"";
 } else if ($receptacle != "") {
-  $filterQuery = "task_receptacle REGEXP \"$receptacle\"";
+  $filterQuery = "task_receptacle $matchingMethod \"$receptacle\"";
 } else if ($receptacle_url != "") {
-  $filterQuery = "task_receptacle_url REGEXP \"$receptacle_url\"";
+  $filterQuery = "task_receptacle_url $matchingMethod \"$receptacle_url\"";
 }
 
 include_once('analytics.inc');
