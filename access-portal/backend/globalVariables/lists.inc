@@ -10,6 +10,8 @@ $taskTypes = array('Wikipedia page creation','Wikipedia page update','Wikipedia 
 
 $taskVenues = array('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','None','Donations list website','Timelines wiki');
 
+$taskFormats = array('Timeline','Prose','Table','Code');
+
 $topics = array('Health','Global health','Country healthcare','Animal welfare','Technology','Philanthropy','People','Wikipedia','United States taxation','United States migration','United States politics','Political philosophy','Digital preservation','Artificial intelligence','Poverty','Government','GiveWell');
 
 $paymentMethods = array("Cash","Check","PayPal","Wire transfer","Western Union","Debit card via Facebook");

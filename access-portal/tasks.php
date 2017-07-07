@@ -1,0 +1,55 @@
+<?php
+print '<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8" >';
+include_once("backend/globalVariables/passwordFile.inc");
+include_once("backend/globalVariables/lists.inc");
+include_once("backend/stringFunctions.inc");
+$receptacle = "";
+$receptacle_url = "";
+$titleExtras = "";
+if (!empty($_REQUEST['receptacle'])) {
+  $receptacle = $_REQUEST['receptacle'];
+  $titleExtras .= "receptacle $receptacle, ";
+}
+if (!empty($_REQUEST['receptacle_url'])) {
+  $receptacle_url = $_REQUEST['receptacle_url'];
+  $titleExtras .= "receptable_url $receptacle_url";
+}
+$filterQuery = "";
+if ($receptacle != "" && $receptacle_url != "") {
+  $filterQuery = "task_receptacle REGEXP \"$receptacle\" and task_receptacle_url REGEXP \"$receptacle_url\"";
+} else if ($receptacle != "") {
+  $filterQuery = "task_receptacle REGEXP \"$receptacle\"";
+} else if ($receptacle_url != "") {
+  $filterQuery = "task_receptacle_url REGEXP \"$receptacle_url\"";
+}
+
+include_once('analytics.inc');
+print "<title>$titleExtras contract work for Vipul Naik</title>\n";
+print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
+print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
+print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
+print '</head>';
+print '<body>';
+print '<script>$(document).ready(function()
+    {
+        $("#myTableFilteredTaskPaymentsDueByTypeAndYear").tablesorter();    
+        $("#myTableFilteredTaskPaymentsDueByVenueAndYear").tablesorter();    
+        $("#myTableFilteredTaskPaymentsDueByFormatAndYear").tablesorter();    
+        $("#myTableFilteredTaskList").tablesorter();
+     }
+); </script>'."\n";
+print "<h3>$titleExtras contract work for Vipul Naik</h3>";
+print '<h4>Table of contents</h4>';
+print '<ul>';
+print '<li><a href="#filteredTaskPaymentsDueByTypeAndYear">Filtered task payments due by type and year</a></li>';
+print '<li><a href="#filteredTaskPaymentsDueByVenueAndYear">Filtered task payments due by venue and year</a></li>';
+print '<li><a href="#filteredTaskPaymentsDueByFormatAndYear">Filtered task payments due by format  and year</a></li>';
+print '<li><a href="#filteredTaskList">Filtered task list</a></li>';
+print '</ul>';
+
+include("backend/filteredTaskPaymentsDueByTypeAndYear.inc");
+include("backend/filteredTaskPaymentsDueByVenueAndYear.inc");
+include("backend/filteredTaskPaymentsDueByFormatAndYear.inc");
+include("backend/filteredTaskList.inc");
+print '</body>';
+?>

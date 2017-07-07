@@ -22,11 +22,13 @@ print '<script>$(document).ready(function()
         $("#myTableWorkerTaskPaymentsDueByTypeAndYear").tablesorter();
         $("#myTableWorkerTaskPaymentsDueByTopicAndYear").tablesorter();
         $("#myTableWorkerTaskPaymentsDueByVenueAndYear").tablesorter();
+        $("#myTableWorkerTaskPaymentsDueByFormatAndYear").tablesorter();
         $("#myTableWorkerImpact").tablesorter();
         $("#myTableWorkerPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTableWorkerTaskPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTableWorkerTaskPaymentsDueByTopicAndMonth").tablesorter();
         $("#myTableWorkerTaskPaymentsDueByVenueAndMonth").tablesorter();
+        $("#myTableWorkerTaskPaymentsDueByFormatAndMonth").tablesorter();
         $("#myTableWorkerPaymentsDueAndMadeByMonth").tablesorter();
         $("#myTableWorkerTaskList").tablesorter();
         $("#myTableWorkerCommissionOnTaskList").tablesorter();
@@ -51,11 +53,13 @@ if ($workerSelectResult -> num_rows == 0) {
   print '<li><a href="#workerTaskPaymentsDueByTypeAndYear">Worker task payments due by type and year</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByTopicAndYear">Worker task payments due by topic and year</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByVenueAndYear">Worker task payments due by venue and year</a></li>';
+  print '<li><a href="#workerTaskPaymentsDueByFormatAndYear">Worker task payments due by format and year</a></li>';
   print '<li><a href="#workerImpact">Worker impact</a></li>';
   print '<li><a href="#workerPaymentsDueByTypeAndMonth">Worker payments due by type and month</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByTypeAndMonth">Worker task payments due by type and month</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByTopicAndMonth">Worker task payments due by topic and month</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByVenueAndMonth">Worker task payments due by venue and month</a></li>';
+  print '<li><a href="#workerTaskPaymentsDueByFormatAndMonth">Worker task payments due by format and month</a></li>';
   print '<li><a href="#workerPaymentsDueAndMadeByMonth">Worker payments due and made by month</a></li>';
   print '<li><a href="#workerTaskList">Worker task list</a></li>';
   print '</ul>';
@@ -67,11 +71,13 @@ if ($workerSelectResult -> num_rows == 0) {
   include("backend/workerTaskPaymentsDueByTypeAndYear.inc");
   include("backend/workerTaskPaymentsDueByTopicAndYear.inc");
   include("backend/workerTaskPaymentsDueByVenueAndYear.inc");
+  include("backend/workerTaskPaymentsDueByFormatAndYear.inc");
   include("backend/workerImpact.inc");
   include("backend/workerPaymentsDueByTypeAndMonth.inc");
   include("backend/workerTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/workerTaskPaymentsDueByTopicAndMonth.inc");
   include("backend/workerTaskPaymentsDueByVenueAndMonth.inc");
+  include("backend/workerTaskPaymentsDueByFormatAndMonth.inc");
   include("backend/workerPaymentsDueAndMadeByMonth.inc");
   include("backend/workerTaskList.inc");
   if ($totalCommissionOnTaskPayment > 0) {

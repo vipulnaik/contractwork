@@ -16,6 +16,7 @@ print '<script>$(document).ready(function()
         $("#myTableTaskPaymentsDueByTypeAndYear").tablesorter();
         $("#myTableTaskPaymentsDueByTopicAndYear").tablesorter();
         $("#myTableTaskPaymentsDueByVenueAndYear").tablesorter();
+        $("#myTableTaskPaymentsDueByFormatAndYear").tablesorter();
         $("#myTablePaymentsDueByWorkerAndType").tablesorter();
         $("#myTablePaymentsMadeByWorkerAndMethod").tablesorter();
         $("#myTablePaymentsDueAndMadeByWorker").tablesorter();
@@ -23,6 +24,7 @@ print '<script>$(document).ready(function()
         $("#myTableTaskPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTableTaskPaymentsDueByTopicAndMonth").tablesorter();
         $("#myTableTaskPaymentsDueByVenueAndMonth").tablesorter();
+        $("#myTableTaskPaymentsDueByFormatAndMonth").tablesorter();
         $("#myTablePaymentsDueAndMadeByMonth").tablesorter();
     }
 ); </script>'."\n";
@@ -35,6 +37,8 @@ print '<li><a href="#paymentsMadeByMethodAndYear">Payments made by method and ye
 print '<li><a href="#taskPaymentsDueByTypeAndYear">Task payments due by type and year</a></li>';
 print '<li><a href="#taskPaymentsDueByTopicAndYear">Task payments due by topic and year</a></li>';
 print '<li><a href="#taskPaymentsDueByVenueAndYear">Task payments due by venue and year</a></li>';
+print '<li><a href="#taskPaymentsDueByVenueAndYear">Task payments due by format and year</a></li>';
+print '<li><a href="#taskPaymentsDueByFormatAndYear">Task payments due by format and year</a></li>';
 print '<li><a href="#paymentsDueByWorkerAndType">Payments due by worker and type</a></li>';
 print '<li><a href="#paymentsMadeByWorkerAndMethod">Payments made by worker and method</a></li>';
 print '<li><a href="#paymentsDueAndMadeByWorker">Payments due and made by worker</a></li>';
@@ -42,6 +46,7 @@ print '<li><a href="#paymentsDueByTypeAndMonth">Payments due by type and month</
 print '<li><a href="#taskPaymentsDueByTypeAndMonth">Task payments due by type and month</a></li>';
 print '<li><a href="#taskPaymentsDueByTopicAndMonth">Task payments due by topic and month</a></li>';
 print '<li><a href="#taskPaymentsDueByVenueAndMonth">Task payments due by venue and month</a></li>';
+print '<li><a href="#taskPaymentsDueByFormatAndMonth">Task payments due by format and month</a></li>';
 print '<li><a href="#paymentsDueAndMadeByMonth">Payments due and made by month</a></li>';
 print '</ul>';
 
@@ -50,6 +55,7 @@ include ("backend/paymentsMadeByMethodAndYear.inc");
 include ("backend/taskPaymentsDueByTypeAndYear.inc");
 include ("backend/taskPaymentsDueByTopicAndYear.inc");
 include ("backend/taskPaymentsDueByVenueAndYear.inc");
+include ("backend/taskPaymentsDueByFormatAndYear.inc");
 include ("backend/paymentsDueByWorkerAndType.inc");
 include ("backend/paymentsMadeByWorkerAndMethod.inc");
 include ("backend/paymentsDueAndMadeByWorker.inc");
@@ -57,6 +63,7 @@ include ("backend/paymentsDueByTypeAndMonth.inc");
 include ("backend/taskPaymentsDueByTypeAndMonth.inc");
 include ("backend/taskPaymentsDueByTopicAndMonth.inc");
 include ("backend/taskPaymentsDueByVenueAndMonth.inc");
+include ("backend/taskPaymentsDueByFormatAndMonth.inc");
 include ("backend/paymentsDueAndMadeByMonth.inc");
 print '</body>';
 ?>
