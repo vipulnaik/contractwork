@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $3951
+Total money earned as income: $4351
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $4533.30
 
-Net payment due: ($1092.67)
+Net payment due: ($692.67)
 
 === Completed pages (Wikipedia) ===
 
@@ -72,11 +72,13 @@ Total so far: $1630
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
-Total so far: $400
+Total so far: $800
 
 * [https://timelines.issarice.com/wiki/Timeline_of_diphtheria Timeline of diphtheria]: $200. Completed May 26, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_diphtheria&oldid=14055
 
 * [https://timelines.issarice.com/wiki/Timeline_of_tetanus Timeline of tetanus]: $200. Completed May 26, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_tetanus&oldid=14088
+
+* [https://timelines.issarice.com/wiki/Timeline_of_the_environmentalist_movement Timeline of the environmentalist novement]: $400. Completed July 7, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_environmentalist_movement&oldid=15429
 
 === Additions to existing pages (Wikipedia) ===
 

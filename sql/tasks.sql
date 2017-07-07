@@ -107,7 +107,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 # -- Sebastian Sanchez tasks paid for by Peter Hurford
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
   ('Sebastian Sanchez','Timelines wiki','Wiki page creation','Timeline of diphtheria','https://timelines.issarice.com/wiki/Timeline_of_diphtheria','2017-05-26',200,'Global health/diseases','Timeline','Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_diphtheria&oldid=14055 (2017-05-26 16:56 UTC)','Peter Hurford'),
-  ('Sebastian Sanchez','Timelines wiki','Wiki page creation','Timeline of tetanus','https://timelines.issarice.com/wiki/Timeline_of_tetanus','2017-05-26',200,'Global health/diseases','Timeline','Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_tetanus&oldid=14088 (2017-05-27 03:37 UTC)','Peter Hurford');
+  ('Sebastian Sanchez','Timelines wiki','Wiki page creation','Timeline of tetanus','https://timelines.issarice.com/wiki/Timeline_of_tetanus','2017-05-26',200,'Global health/diseases','Timeline','Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_tetanus&oldid=14088 (2017-05-27 03:37 UTC)','Peter Hurford'),
+  ('Sebastian Sanchez','Timelines wiki','Wiki page creation','Timeline of the environmentalist movement','https://timelines.issarice.com/wiki/Timeline_of_the_environmentalist_movement','2017-07-07',400,'Environmentalism/social movements','Timeline','Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_the_environmentalist_movement&oldid=15429 (2017-07-07 15:15 UTC','Peter Hurford');
 
 # -- Adrian Ulloa page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
