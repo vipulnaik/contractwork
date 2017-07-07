@@ -41,7 +41,7 @@ usort($taskFormats,"cmpTaskFormats");
 print "\n";
 print '<table id="myTableFilteredTaskPaymentsDueByFormatAndYear" class="tablesorter">'."\n";
 print "<thead>\n";
-print '<tr><th>Task format</th>';
+print '<tr><th>Format</th>';
 foreach (array_reverse($yearList) as $year) {
   print "<th>Total in year $year</th>";
 }
