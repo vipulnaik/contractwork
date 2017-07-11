@@ -60,7 +60,7 @@ if ($printTables == true) {
   print "<thead>\n";
   print '<tr><th>Month</th>';
   print '<th>Payment awarded in month</th>';
-  print '<th>Cumulative payment awarded in month</th>';
+  print '<th>Cumulative payment awarded till month</th>';
   if ($cumulativeReimbursementDueSoFar > 0) {
     print '<th>Reimbursement due in month</th>';
     print '<th>Cumulative reimbursement due</th>';

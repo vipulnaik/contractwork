@@ -39,7 +39,7 @@ print '<table id="myTablePaymentsDueAndMadeByMonth" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Month</th>';
 print '<th>Payment awarded in month</th>';
-print '<th>Cumulative payment awarded in month</th>';
+print '<th>Cumulative payment awarded till month</th>';
 print '<th>Payment made in month</th>';
 print '<th>Cumulative payment made till month</th>';
 print '<th>Pending payment increase in month</th>';
