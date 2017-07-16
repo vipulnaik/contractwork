@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $21060.10
+Total money earned by doing work (taxable as income for 2017): $21310.10
 
 Payment made: $16000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $9893.41
+Net payment due: $10143.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -64,13 +64,15 @@ Total so far: $202
 
 === Completed pages (on timelines wiki) ===
 
-Total so far: $400
+Total so far: $650
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation Timeline of Against Malaria Foundation]: $155. Completed April 27, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=13553
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Bill_%26_Melinda_Gates_Foundation Timeline of Bill & Melinda Gates Foundation]: $120. Completed May 11, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Bill_%26_Melinda_Gates_Foundation&oldid=13804
 
 * [https://timelines.issarice.com/wiki/Timeline_of_electricity_adoption Timeline of electricity adoption]: $125. Completed June 8, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_electricity_adoption&oldid=14606
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute Timeline of Machine Intelligence Research Institute]. $250. Completed July 15, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&oldid=15715
 
 === Tasks for Peter Hurford ===
 
