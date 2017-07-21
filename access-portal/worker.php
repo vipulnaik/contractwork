@@ -40,7 +40,7 @@ print '<script>$(document).ready(function()
      }
 ); </script>'."\n";
 print "<h3>Contract work by $worker for Vipul Naik</h3>";
-$workerSelectQuery = "select * from workers where worker='$worker' and private = false;";
+$workerSelectQuery = "select * from workers where worker=".'"'.str_replace('"','\"',$worker).'"'." and private = false;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);
 if ($workerSelectResult -> num_rows == 0) {
   print '<p>Sorry, we did not find a worker with this name in our public list of workers. Go back to the <a href="/">home page</a> for a full list of workers.</p>';

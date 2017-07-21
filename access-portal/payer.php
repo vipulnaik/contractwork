@@ -29,7 +29,7 @@ print '<script>$(document).ready(function()
      }
 ); </script>'."\n";
 print "<h3>Contract work by $payer for Vipul Naik</h3>";
-$payerSelectQuery = "select payer from tasks where payer='$payer';";
+$payerSelectQuery = "select payer from tasks where payer=".'"'.str_replace('"','\"',$payer)'"'.";";
 $payerSelectResult = $mysqli -> query($payerSelectQuery);
 if ($payerSelectResult -> num_rows == 0) {
   print '<p>Sorry, we did not find a payer with this name in our public list of payers. Go back to the <a href="/">home page</a> for a full list of payers.</p>';
