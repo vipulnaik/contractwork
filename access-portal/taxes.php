@@ -12,7 +12,7 @@ include_once('analytics.inc');
 print '</head>';
 print '<body>';
 print "<h3>$worker tax details: Contract work for Vipul Naik</h3>";
-$workerSelectQuery = "select * from workers where worker='$worker' and private = false;";
+$workerSelectQuery = "select * from workers where worker=".'"'.str_replace('"','\"',$worker).'"'." and private = false;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);
 if ($workerSelectResult -> num_rows == 0) {
   print '<p>Sorry, we did not find a worker with this name in our public list of workers. Go back to the <a href="/">home page</a> for a full list of workers.</p>';

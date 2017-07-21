@@ -1,5 +1,5 @@
 <?php
-$workerSelectQuery = "select * from workers where worker='$worker' and private = false;";
+$workerSelectQuery = "select * from workers where worker=".'"'.str_replace('"','\"',$worker).'"'." and private = false;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);
 $row = $workerSelectResult -> fetch_assoc();
 

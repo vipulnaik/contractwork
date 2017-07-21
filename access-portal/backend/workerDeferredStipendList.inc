@@ -1,6 +1,6 @@
 <?php
 
-$stipendSelectQuery = "select * from stipends where payee='$worker' and stipend_award_date is null order by stipend_end_date desc";
+$stipendSelectQuery = "select * from stipends where payee=".'"'.str_replace('"','\"',$worker).'"'." and stipend_award_date is null order by stipend_end_date desc";
 
 $stipendSelectResult = $mysqli -> query($stipendSelectQuery);
 

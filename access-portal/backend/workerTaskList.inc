@@ -1,6 +1,6 @@
 <?php
 
-$workerTaskSelectQuery = "select * from tasks where worker='$worker' and private = false order by completion_date desc";
+$workerTaskSelectQuery = "select * from tasks where worker=".'"'.str_replace('"','\"',$worker).'"'." and private = false order by completion_date desc";
 $workerTaskSelectResult = $mysqli -> query($workerTaskSelectQuery);
 print '<h4 id="workerTaskList">Full list of tasks in reverse chronological order ('.($workerTaskSelectResult -> num_rows).' tasks)</h4>';
 print "\n";

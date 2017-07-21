@@ -28,7 +28,7 @@ foreach ($yearList as $year) {
 
 # Get task payments
 
-$taskSelectQuery = "select payer, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where worker='$worker' group by payer, year(completion_date);";
+$taskSelectQuery = "select payer, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where worker=".'"'.str_replace('"','\"',$worker).'"'." group by payer, year(completion_date);";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
@@ -37,7 +37,7 @@ for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
 }
 
 # Get commission on task payments
-$commissionOnTaskSelectQuery = "select year(completion_date) as year, coalesce(sum(payment), 0) as payment from (select commission_receiver, completion_date, (commission * payment) as payment from commissions left join tasks on commissions.earner = tasks.worker where (commission_validity_start is null or tasks.completion_date >= commission_validity_start) and (commission_validity_end is null or tasks.completion_date <= commission_validity_end)) t1 where commission_receiver='$worker' group by year(completion_date);";
+$commissionOnTaskSelectQuery = "select year(completion_date) as year, coalesce(sum(payment), 0) as payment from (select commission_receiver, completion_date, (commission * payment) as payment from commissions left join tasks on commissions.earner = tasks.worker where (commission_validity_start is null or tasks.completion_date >= commission_validity_start) and (commission_validity_end is null or tasks.completion_date <= commission_validity_end)) t1 where commission_receiver=".'"'.str_replace('"','\"',$worker).'"'." group by year(completion_date);";
 $commissionOnTaskSelectResult = $mysqli -> query($commissionOnTaskSelectQuery);
 for ($i = 0; $i < $commissionOnTaskSelectResult -> num_rows; $i++) {
   $row = $commissionOnTaskSelectResult -> fetch_assoc();
@@ -47,7 +47,7 @@ for ($i = 0; $i < $commissionOnTaskSelectResult -> num_rows; $i++) {
 
 # Get stipend payments
 
-$stipendSelectQuery = "select year(stipend_award_date) as awardYear, year(stipend_end_date) as year, (stipend_award_date is not null) as awarded, coalesce(sum(payment), 0) as payment from stipends where payee='$worker' group by year(stipend_award_date), year(stipend_end_date), (stipend_award_date is not null);";
+$stipendSelectQuery = "select year(stipend_award_date) as awardYear, year(stipend_end_date) as year, (stipend_award_date is not null) as awarded, coalesce(sum(payment), 0) as payment from stipends where payee=".'"'.str_replace('"','\"',$worker).'"'." group by year(stipend_award_date), year(stipend_end_date), (stipend_award_date is not null);";
 $stipendSelectResult = $mysqli -> query($stipendSelectQuery);
 for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
   $row = $stipendSelectResult -> fetch_assoc();
@@ -65,7 +65,7 @@ for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
 }
 
 # Get royalty payments
-$royaltySelectQuery = "select year(royalty_end_date) as year, coalesce(sum(payment), 0) as payment from royalties where payee='$worker' group by year(royalty_end_date);";
+$royaltySelectQuery = "select year(royalty_end_date) as year, coalesce(sum(payment), 0) as payment from royalties where payee=".'"'.str_replace('"','\"',$worker).'"'." group by year(royalty_end_date);";
 $royaltySelectResult = $mysqli -> query($royaltySelectQuery);
 for ($i = 0; $i < $royaltySelectResult -> num_rows; $i++) {
   $row = $royaltySelectResult -> fetch_assoc();
@@ -74,7 +74,7 @@ for ($i = 0; $i < $royaltySelectResult -> num_rows; $i++) {
 }
 
 # Get commission on royalty payments
-$commissionOnRoyaltySelectQuery = "select year(royalty_end_date) as year, coalesce(sum(payment), 0) as payment from (select commission_receiver, royalty_end_date, (commission * payment) as payment from commissions left join royalties on commissions.earner = royalties.payee where (commission_validity_start is null or royalties.royalty_start_date >= commission_validity_start) and (commission_validity_end is null or royalties.royalty_end_date <= commission_validity_end)) t1 where commission_receiver='$worker' group by year(royalty_end_date);";
+$commissionOnRoyaltySelectQuery = "select year(royalty_end_date) as year, coalesce(sum(payment), 0) as payment from (select commission_receiver, royalty_end_date, (commission * payment) as payment from commissions left join royalties on commissions.earner = royalties.payee where (commission_validity_start is null or royalties.royalty_start_date >= commission_validity_start) and (commission_validity_end is null or royalties.royalty_end_date <= commission_validity_end)) t1 where commission_receiver=".'"'.str_replace('"','\"',$worker).'"'." group by year(royalty_end_date);";
 $commissionOnRoyaltySelectResult = $mysqli -> query($commissionOnRoyaltySelectQuery);
 for ($i = 0; $i < $commissionOnRoyaltySelectResult -> num_rows; $i++) {
   $row = $commissionOnRoyaltySelectResult -> fetch_assoc();

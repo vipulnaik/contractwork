@@ -1,6 +1,6 @@
 <?php
 
-$royaltySelectQuery = "select * from royalties where payee='$worker' order by royalty_end_date desc";
+$royaltySelectQuery = "select * from royalties where payee=".'"'.str_replace('"','\"',$worker).'"'." order by royalty_end_date desc";
 
 $royaltySelectResult = $mysqli -> query($royaltySelectQuery);
 

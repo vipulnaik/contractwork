@@ -23,11 +23,11 @@ if (!empty($_REQUEST['receptacle_url'])) {
 }
 $filterQuery = "";
 if ($receptacle != "" && $receptacle_url != "") {
-  $filterQuery = "task_receptacle $matchingMethod \"$receptacle\" and task_receptacle_url $matchingMethod \"$receptacle_url\"";
+  $filterQuery = "task_receptacle $matchingMethod \"".str_replace('"','\"',$receptacle)."\" and task_receptacle_url $matchingMethod \"".str_replace('"','\"',$receptacle_url)\"";
 } else if ($receptacle != "") {
-  $filterQuery = "task_receptacle $matchingMethod \"$receptacle\"";
+  $filterQuery = "task_receptacle $matchingMethod \"".str_replace('"','\"',$receptacle)."\"";
 } else if ($receptacle_url != "") {
-  $filterQuery = "task_receptacle_url $matchingMethod \"$receptacle_url\"";
+  $filterQuery = "task_receptacle_url $matchingMethod \"".str_replace('"','\"',$receptacle_url)."\"";
 }
 
 include_once('analytics.inc');

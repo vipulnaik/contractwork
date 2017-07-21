@@ -12,7 +12,7 @@ if (!empty($_REQUEST['topic'])) {
   $topic = $_REQUEST['topic'];
 }
 if ($topic != '') {
-  $topicRegexMatcher = '`topic` REGEXP "'.$topic.'"';
+  $topicRegexMatcher = '`topic` REGEXP "'.str_replace('"','\"',$topic).'"';
   print "<title>$topic topic work details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';

@@ -16,7 +16,7 @@ print "\n! Page !! Creator (if paid) !! Contributors (if paid) !! Connected cont
 
 function getWikipediaUsername($worker) {
   global $mysqli;
-  $sqlQuery = "select wikipedia_username from workers where worker='$worker'";
+  $sqlQuery = "select wikipedia_username from workers where worker=".'"'.str_replace('"','\"',$worker).'"'."";
   $sqlResult = $mysqli -> query($sqlQuery);
   for ($i = 0; $i < $sqlResult -> num_rows; $i++) {
     $sqlRow = $sqlResult -> fetch_assoc();

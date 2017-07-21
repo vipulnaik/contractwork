@@ -12,7 +12,7 @@ if (!empty($_REQUEST['format'])) {
   $format = $_REQUEST['format'];
 }
 if ($format != '') {
-  $formatRegexMatcher = '`format` REGEXP "'.$format.'"';
+  $formatRegexMatcher = '`format` REGEXP "'.str_replace('"','\"',$format).'"';
   print "<title>$format format work details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';

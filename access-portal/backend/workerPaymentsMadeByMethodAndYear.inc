@@ -14,7 +14,7 @@ foreach ($paymentMethods as $paymentMethod) {
 
 # Get payments
 
-$paymentSelectQuery = "select payment_method, year(receipt_date) as year, coalesce(sum(payment), 0) as payment from payments where payee='$worker' and receipt_date is not null group by payment_method, year(receipt_date);";
+$paymentSelectQuery = "select payment_method, year(receipt_date) as year, coalesce(sum(payment), 0) as payment from payments where payee=".'"'.str_replace('"','\"',$worker).'"'." and receipt_date is not null group by payment_method, year(receipt_date);";
 $paymentSelectResult = $mysqli -> query($paymentSelectQuery);
 for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
