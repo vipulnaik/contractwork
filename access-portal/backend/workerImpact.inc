@@ -2,7 +2,7 @@
 
 print '<h4 id="workerImpact">Worker impact: Wikipedia</h4>';
 
-$totalViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = ".'"'.Pages created by ".str_replace('"','\"',$worker).'"'.") and drilldown in ('desktop','mobile-web','mobile-app');";
+$totalViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = ".'"'."Pages created by ".str_replace('"','\"',$worker).'"'.") and drilldown in ('desktop','mobile-web','mobile-app');";
 
 $totalViewsResult = $mysqli -> query($totalViewsQuery);
 
@@ -12,7 +12,7 @@ if ($totalViewsResult -> num_rows > 0) {
   $totalViewCount = $row['totalViews'];
 }
 
-$createdOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = ".'"'.Pages edited significantly but not created by ".str_replace('"','\"',$worker).'"'." or tag = ".'"'.Pages created by ".str_replace('"','\"',$worker).'"'.") and drilldown in ('desktop','mobile-web','mobile-app')";
+$createdOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = ".'"'."Pages edited significantly but not created by ".str_replace('"','\"',$worker).'"'." or tag = ".'"'.Pages created by ".str_replace('"','\"',$worker).'"'.") and drilldown in ('desktop','mobile-web','mobile-app')";
 
 $createdOrEditedPageViewsResult = $mysqli -> query($createdOrEditedPageViewsQuery);
 
