@@ -1,5 +1,5 @@
 <?php
-print '<h4 id="paymentsDueByWorkerAndType">Payments due by recipient and type</h4>';
+print '<h4 id="paymentsDueByWorkerAndType">Payments due by worker and type</h4>';
 
 print '<p>Note that workers who have opted to be paid privately are not listed here.</p>';
 

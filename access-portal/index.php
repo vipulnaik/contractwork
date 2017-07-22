@@ -18,6 +18,7 @@ print '<script>$(document).ready(function()
         $("#myTableTaskPaymentsDueByVenueAndYear").tablesorter();
         $("#myTableTaskPaymentsDueByFormatAndYear").tablesorter();
         $("#myTablePaymentsDueByWorkerAndType").tablesorter();
+        $("#myTableTaskPaymentsDueByWorkerAndType").tablesorter();
         $("#myTablePaymentsMadeByWorkerAndMethod").tablesorter();
         $("#myTablePaymentsDueAndMadeByWorker").tablesorter();
         $("#myTablePaymentsDueByTypeAndMonth").tablesorter();
@@ -40,6 +41,7 @@ print '<li><a href="#taskPaymentsDueByVenueAndYear">Task payments due by venue a
 print '<li><a href="#taskPaymentsDueByVenueAndYear">Task payments due by format and year</a></li>';
 print '<li><a href="#taskPaymentsDueByFormatAndYear">Task payments due by format and year</a></li>';
 print '<li><a href="#paymentsDueByWorkerAndType">Payments due by worker and type</a></li>';
+print '<li><a href="#taskPaymentsDueByWorkerAndType">Task payments due by worker and type</a></li>';
 print '<li><a href="#paymentsMadeByWorkerAndMethod">Payments made by worker and method</a></li>';
 print '<li><a href="#paymentsDueAndMadeByWorker">Payments due and made by worker</a></li>';
 print '<li><a href="#paymentsDueByTypeAndMonth">Payments due by type and month</a></li>';
@@ -57,6 +59,7 @@ include ("backend/taskPaymentsDueByTopicAndYear.inc");
 include ("backend/taskPaymentsDueByVenueAndYear.inc");
 include ("backend/taskPaymentsDueByFormatAndYear.inc");
 include ("backend/paymentsDueByWorkerAndType.inc");
+include ("backend/taskPaymentsDueByWorkerAndType.inc");
 include ("backend/paymentsMadeByWorkerAndMethod.inc");
 include ("backend/paymentsDueAndMadeByWorker.inc");
 include ("backend/paymentsDueByTypeAndMonth.inc");
