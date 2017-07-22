@@ -21,6 +21,7 @@ print '<script>$(document).ready(function()
         $("#myTablePayerTaskPaymentsDueByTopicAndYear").tablesorter();
         $("#myTablePayerTaskPaymentsDueByVenueAndYear").tablesorter();
         $("#myTablePayerTaskPaymentsDueByFormatAndYear").tablesorter();
+        $("#myTablePayerTaskPaymentsDueByWorkerAndType").tablesorter();
         $("#myTablePayerTaskPaymentsDueByTypeAndMonth").tablesorter();
         $("#myTablePayerTaskPaymentsDueByTopicAndMonth").tablesorter();
         $("#myTablePayerTaskPaymentsDueByVenueAndMonth").tablesorter();
@@ -41,6 +42,7 @@ if ($payerSelectResult -> num_rows == 0) {
   print '<li><a href="#payerTaskPaymentsDueByTopicAndYear">Payer task payments due by topic and year</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByVenueAndYear">Payer task payments due by venue and year</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByFormatAndYear">Payer task payments due by format and year</a></li>';
+  print '<li><a href="#payerTaskPaymentsDueByWorkerAndType">Payer task payments due by worker and type</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByTypeAndMonth">Payer task payments due by type and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByTopicAndMonth">Payer task payments due by topic and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByVenueAndMonth">Payer task payments due by venue and month</a></li>';
@@ -54,6 +56,7 @@ if ($payerSelectResult -> num_rows == 0) {
   include("backend/payerTaskPaymentsDueByTopicAndYear.inc");
   include("backend/payerTaskPaymentsDueByVenueAndYear.inc");
   include("backend/payerTaskPaymentsDueByFormatAndYear.inc");
+  include("backend/payerTaskPaymentsDueByWorkerAndType.inc");
   include("backend/payerTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/payerTaskPaymentsDueByTopicAndMonth.inc");
   include("backend/payerTaskPaymentsDueByVenueAndMonth.inc");
