@@ -28,15 +28,15 @@ for($i = 0; $i < $payerTaskSelectResult -> num_rows; $i++) {
     if ($row['task_type'] == "Wikipedia page creation" or $row['task_type'] == "Wikipedia page update") {
       print ' (<a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?page='.urlencode($row['task_receptacle']).'&language=en&drilldown=all&allmonths=allmonths">Wikipedia Views</a>)';
     }
-    print '</td>';
   } else {
-    print '<td>'.$row['task_receptacle'].'</td>';
+    print '<td>'.$row['task_receptacle'];
   }
+  print ' <a href="/tasks.php?receptacle='.urlencode($row['task_receptacle']).'&matching=exact">(all tasks)</a></td>';
   print '<td>'.$row['completion_date'].'</td>';
-  print '<td>'.$row['worker'].'</td>';
+  print '<td><a href="/worker.php?worker='.urlencode($row['worker']).'">'.$row['worker'].'</a></td>';
   print '<td align="right">'.sprintf("%.2f",$row['payment']).'</td>';
-  print '<td>'.$row['topic'].'</td>';
-  print '<td>'.$row['format'].'</td>';
+  print '<td><a href="/topic.php?topic="'.urlencode($row['topic']).'">'.$row['topic'].'</a></td>';
+  print '<td><a href="/format.php?format="'.urlencode($row['format']).'">'.$row['format'].'</a></td>';
   print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
 }
