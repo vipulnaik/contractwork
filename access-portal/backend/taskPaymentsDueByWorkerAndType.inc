@@ -34,8 +34,8 @@ $taskSelectQuery = "select task_type, worker, coalesce(sum(payment), 0) as payme
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
-  $paymentForTaskTypeAndMonth[$row['task_type']][$row['worker']] = $row['payment'];
-  $totalTaskPaymentForMonth[$row['worker']] += $row['payment'];
+  $paymentForTaskTypeAndWorker[$row['task_type']][$row['worker']] = $row['payment'];
+  $totalTaskPaymentForWorker[$row['worker']] += $row['payment'];
   $totalPaymentForTaskType[$row['task_type']] += $row['payment'];
   $totalTaskPayment += $row['payment'];
 }
@@ -60,7 +60,7 @@ function cmpWorkersForTaskType ($firstWorker, $secondWorker) {
 usort($taskTypes,"cmpTaskTypesForWorker");
 usort($workers,"cmpWorkersForTaskType");
 
-# Then print data by month
+# Then print data by worker
 
 # Print table
 print "\n";
