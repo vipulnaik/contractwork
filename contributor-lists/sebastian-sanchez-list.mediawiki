@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $4351
+Total money earned as income: $4451
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $7544.91
 
-Net payment due: ($3704.28)
+Net payment due: ($3604.28)
 
 === Completed pages (Wikipedia) ===
 
@@ -72,13 +72,15 @@ Total so far: $1630
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
-Total so far: $800
+Total so far: $900
 
 * [https://timelines.issarice.com/wiki/Timeline_of_diphtheria Timeline of diphtheria]: $200. Completed May 26, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_diphtheria&oldid=14055
 
 * [https://timelines.issarice.com/wiki/Timeline_of_tetanus Timeline of tetanus]: $200. Completed May 26, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_tetanus&oldid=14088
 
-* [https://timelines.issarice.com/wiki/Timeline_of_the_environmentalist_movement Timeline of the environmentalist novement]: $400. Completed July 7, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_environmentalist_movement&oldid=15429
+* [https://timelines.issarice.com/wiki/Timeline_of_the_environmentalist_movement Timeline of the environmentalist movement]: $400. Completed July 7, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_environmentalist_movement&oldid=15429
+
+* [https://timelines.issarice.com/wiki/Timeline_of_The_Sierra_Club Timeline of The Sierra Club]: $100. Completed July 11, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_The_Sierra_Club&oldid=15545 Although originally the pay for the page was set at $200, already existing quality timelines made us decide to stop early and set the pay to $100
 
 === Additions to existing pages (Wikipedia) ===
 
