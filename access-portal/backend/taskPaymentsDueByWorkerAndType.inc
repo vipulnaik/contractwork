@@ -77,7 +77,7 @@ print '</tr>';
 print "</thead>\n<tbody>\n";
 foreach ($workers as $worker) {
   if ($totalTaskPaymentForWorker[$worker] > 0) {
-    print "<tr><td>$worker</td>";
+    print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>";
     foreach ($taskTypes as $taskType) {
       if ($totalPaymentForTaskType[$taskType] > 0) {
         print '<td align="right">'.sprintf('%.2f',$paymentForTaskTypeAndWorker[$taskType][$worker]).'</td>';
