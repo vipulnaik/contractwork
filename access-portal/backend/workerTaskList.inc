@@ -35,8 +35,8 @@ for($i = 0; $i < $workerTaskSelectResult -> num_rows; $i++) {
   print '<td>'.$row['completion_date'].'</td>';
   print '<td><a href="/payer.php?payer='.urlencode($row['payer']).'">'.$row['payer'].'</a></td>';
   print '<td align="right">'.sprintf("%.2f",$row['payment']).'</td>';
-  print '<td><a href="/topic.php?topic="'.urlencode($row['topic']).'">'.$row['topic'].'</a></td>';
-  print '<td><a href="/format.php?format="'.urlencode($row['format']).'">'.$row['format'].'</a></td>';
+  print '<td><a href="/topic.php?topic='.urlencode($row['topic']).'">'.$row['topic'].'</a></td>';
+  print '<td><a href="/format.php?format='.urlencode($row['format']).'">'.$row['format'].'</a></td>';
   print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
 }
