@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $21310.10
+Total money earned by doing work (taxable as income for 2017): $21610.10
 
 Payment made: $16000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $10143.41
+Net payment due: $10443.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -126,7 +126,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $1503
+Total so far: $1803
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -163,6 +163,8 @@ Total so far: $1503
 * Fix sorting of tables for donations.vipulnaik.com so it can handle sorting with the numbers having commas in them for readability: $40. Completed June 18, 2017. See https://github.com/vipulnaik/donations/tree/comma-sort for the branch and https://github.com/vipulnaik/donations/commit/f7f99b4f0db39d3147d72a5a7f8f30f856fa4e9f for the most recent commit.
 
 * Add legend in graphs on Wikipedia Views: $40. Completed July 7, 2017. See https://github.com/vipulnaik/wikipediaviews/pull/18 and https://github.com/vipulnaik/wikipediaviews/pull/19. Code is at https://github.com/vipulnaik/wikipediaviews/blob/master/python/graph.py and was also copied by Vipul to https://github.com/vipulnaik/bart/blob/master/python/graph.py and https://github.com/vipulnaik/donations/blob/master/python/graph.py
+
+* Lots of code updates for Donations List Website: $300. Completed July 22, 2017. See the branches https://github.com/vipulnaik/donations/tree/donee-deduplication https://github.com/vipulnaik/donations/tree/donor-similarity and https://github.com/vipulnaik/donations/tree/notes-col-expansion for the relevant commits. Some commits done directly in master. Worked for about 5.5 working days (started July 15, 2017).
 
 === Stipends ===
 
