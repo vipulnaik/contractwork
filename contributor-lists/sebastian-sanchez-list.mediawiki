@@ -108,7 +108,7 @@ Total so far: $316
 
 * Expansion of the timeline of malaria: $65. This covers expansions starting AFTER the addition of graphs (April 23) and continuing till June 25. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=15109&oldid=13420 for the diff
 
-* Continued expansion and filling in the table for comparison of methods of malaria control: $90. This covers expansions after the reported timeline completion date of April 27. See https://timelines.issarice.com/index.php?title=Comparison_of_methods_of_malaria_control&type=revision&diff=15116&oldid=13547 for the diff
+* Continued expansion and filling in the table for comparison of methods of malaria control: $90. This covers expansions after the reported timeline completion date of April 27 and continuing till June 25. See https://timelines.issarice.com/index.php?title=Comparison_of_methods_of_malaria_control&type=revision&diff=15116&oldid=13547 for the diff
 
 * Additions to timeline of tuberculosis: $7. Completed April 25, 2017. About 1250 bytes added. See https://timelines.issarice.com/index.php?title=Timeline_of_tuberculosis&type=revision&diff=13490&oldid=11922 for the diff
 
@@ -119,6 +119,26 @@ Total so far: $316
 * Additions to timeline of poliomyelitis: $20. Completed June 8, 2017. 11 rows and 3700 bytes added. See https://timelines.issarice.com/index.php?title=Timeline_of_poliomyelitis&type=revision&diff=14555&oldid=13372 for the diff
 
 * Additions to malaria vaccine: $5. Completed June 16, 2017. 2 rows and 1200 bytes added. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria_vaccine&type=revision&diff=14811&oldid=13472 for the diff
+
+=== TODO ===
+
+Next payment update planned date for cleaning up TODO: 2017-08-05
+
+Completed work, payment addition pending (note the worker may still add more prior to addition of payment, and all work up till the point of addition of payment will be included):
+
+* Timeline of malaria by year: 2017, 2016, 2015, 2014
+
+* Timeline of Ebola virus disease
+
+Still working:
+
+* Timeline of mobile telephony
+
+* Timeline of roads
+
+Page created but no substantive work yet:
+
+* Timeline of sanitation
 
 === Stipends ===
 

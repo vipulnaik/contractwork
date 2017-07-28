@@ -223,6 +223,20 @@ Total so far: $16000
 
 * Check for $12000: Sent March 25, 2017. Received April 10, 2017. Deposited April 15, 2017, money withdrawn from account April 17, 2017.
 
+=== TODO ===
+
+Next payment update planned date for cleaning up TODO: 2017-08-05
+
+Completed work, payment addition pending (note the worker may still add more prior to addition of payment, and all work up till the point of addition of payment will be included):
+
+* Timeline of Center for Applied Rationality
+
+Still working:
+
+* Timeline of Bitcoin
+
+* Timeline of friendly artificial intelligence (completed except big picture, and maybe some miscellaneous other events we forgot this round)
+
 == Work and other compensation in 2016 ==
 
 === Summary ===
