@@ -126,11 +126,13 @@ Next payment update planned date for cleaning up TODO: 2017-08-05
 
 Completed work, payment addition pending (note the worker may still add more prior to addition of payment, and all work up till the point of addition of payment will be included):
 
-* Timeline of malaria by year: 2017, 2016, 2015, 2014
+* Timeline of malaria by year: 2017, 2016
 
 * Timeline of Ebola virus disease
 
 Still working:
+
+* Timelines of malaria by year: 2015, 2014
 
 * Timeline of mobile telephony
 
