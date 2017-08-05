@@ -233,9 +233,11 @@ Completed work, payment addition pending (note the worker may still add more pri
 
 Still working:
 
-* Timeline of Bitcoin
+* Timeline of Bitcoin (pseudo-complete, but lots of pieces to be added)
 
 * Timeline of friendly artificial intelligence (completed except big picture, and maybe some miscellaneous other events we forgot this round)
+
+* Timeline of libertarianism in the United States (completed except big picture, and maybe some miscellaneous other events we forgot this round)
 
 == Work and other compensation in 2016 ==
 
