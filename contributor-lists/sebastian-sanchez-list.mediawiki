@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $4701
+Total money earned as income: $5171
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $7544.91
 
-Net payment due: ($3354.28)
+Net payment due: ($2884.28)
 
 === Completed pages (Wikipedia) ===
 
@@ -48,7 +48,7 @@ Total so far: $1065
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $1630
+Total so far: $2100
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health Timeline of the National Institutes of Health]: $250. Completed April 3, 2017. Includes 29 graphs (1 cumulative, 28 for the individual institutes).
 
@@ -69,6 +69,12 @@ Total so far: $1630
 * [https://timelines.issarice.com/wiki/Timeline_of_Gavi%2C_the_Vaccine_Alliance Timeline of Gavi, the Vaccine Alliance]: $225. Completed June 4, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Gavi,_the_Vaccine_Alliance&oldid=14400 and pay also includes related graphs uploaded to https://timelines.issarice.com/wiki/Global_health_visual_data_repository (section GAVI, the Vaccine Alliance)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_CRISPR Timeline of CRISPR]: $160. Completed June 11, 2017.  Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_CRISPR&oldid=14655
+
+* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2017 Timeline of malaria in 2017]: $135. Completed July 13, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2017&oldid=15617 (28094 bytes, 2017-07-13 19:48 UTC).
+
+* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2016 Timeline of malaria in 2016]: $175. Completed July 14, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2016&oldid=15659 (36442 bytes, 2017-07-15 04:36 UTC)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Ebola_virus_disease Timeline of Ebola virus disease]: $160. Completed July 24, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ebola_virus_disease&oldid=15918 (30442 bytes, 2017-07-24 22:47 UTC). Includes three graphs (two that use the same data on linear and log scale)
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
@@ -122,13 +128,7 @@ Total so far: $316
 
 === TODO ===
 
-Next payment update planned date for cleaning up TODO: 2017-08-05
-
-Completed work, payment addition pending (note the worker may still add more prior to addition of payment, and all work up till the point of addition of payment will be included):
-
-* Timeline of malaria by year: 2017, 2016
-
-* Timeline of Ebola virus disease
+Next payment update planned date for cleaning up TODO: 2017-09-02
 
 Still working:
 
