@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $23110.10
+Total money earned by doing work (taxable as income for 2017): $23610.10
 
 Payment made: $16000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $11943.41
+Net payment due: $12443.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -128,7 +128,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $1803
+Total so far: $2303
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -168,6 +168,8 @@ Total so far: $1803
 
 * Lots of code updates for Donations List Website: $300. Completed July 22, 2017. See the branches https://github.com/vipulnaik/donations/tree/donee-deduplication https://github.com/vipulnaik/donations/tree/donor-similarity and https://github.com/vipulnaik/donations/tree/notes-col-expansion for the relevant commits. Some commits done directly in master. Worked for about 5.5 working days (started July 15, 2017).
 
+* One-time onboarding payment for Sebastian Sanchez: $500. Awarded August 5, 2017. Since no commission structure was used for Sebastian, but Issa did help with onboarding Sebastian and continues to provide technical assistance, a one-time payment of $500 was determined instead. The award date is chosen as a date after Sebastian's total payment awarded has crossed $5000.
+
 === Stipends ===
 
 Total so far: $19270
@@ -203,6 +205,7 @@ Total so far: $70
 * April total: $10
 
 * June total: $20
+
 === Commissions ===
 
 Total so far: $31.10

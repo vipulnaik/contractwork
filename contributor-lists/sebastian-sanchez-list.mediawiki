@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $5171
+Total money earned as income: $5191
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $7544.91
 
-Net payment due: ($2884.28)
+Net payment due: ($2864.28)
 
 === Completed pages (Wikipedia) ===
 
@@ -104,7 +104,7 @@ Total so far: $190
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $316
+Total so far: $336
 
 * More rows added to timeline of typhoid fever: $25. Completed April 5, 2017.
 
@@ -124,7 +124,9 @@ Total so far: $316
 
 * Additions to timeline of poliomyelitis: $20. Completed June 8, 2017. 11 rows and 3700 bytes added. See https://timelines.issarice.com/index.php?title=Timeline_of_poliomyelitis&type=revision&diff=14555&oldid=13372 for the diff
 
-* Additions to malaria vaccine: $5. Completed June 16, 2017. 2 rows and 1200 bytes added. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria_vaccine&type=revision&diff=14811&oldid=13472 for the diff
+* Additions to timeline of malaria vaccine: $5. Completed June 16, 2017. 2 rows and 1200 bytes added. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria_vaccine&type=revision&diff=14811&oldid=13472 for the diff
+
+* Additions to timeline of malaria: $20. Completed July 19, 2017. This covers expansions after June 25, 2017 and till July 19, 2017. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=15860&oldid=15109 for the relevant diff
 
 === TODO ===
 
