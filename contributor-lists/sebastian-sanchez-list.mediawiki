@@ -132,15 +132,27 @@ Total so far: $336
 
 Next payment update planned date for cleaning up TODO: 2017-09-02
 
+Completed:
+
+* Timeline of malaria in 2014
+
 Still working:
 
-* Timelines of malaria by year: 2015, 2014
+* Timelines of malaria in 2015
 
 * Timeline of mobile telephony
 
 * Timeline of road transport
 
 * Timeline of sanitation
+
+* Timeline of universal healthcare
+
+* Timeline of hygiene
+
+* Timeline of water supply
+
+* Timeline of irrigation
 
 === Stipends ===
 
