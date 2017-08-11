@@ -154,6 +154,10 @@ Still working:
 
 * Timeline of irrigation
 
+* Timeline of water treatment
+
+* Timeline of waste management
+
 === Stipends ===
 
 Total so far: $600
