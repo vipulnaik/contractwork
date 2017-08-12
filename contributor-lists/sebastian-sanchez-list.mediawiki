@@ -158,6 +158,8 @@ Still working:
 
 * Timeline of waste management
 
+* Timeline of recycling
+
 === Stipends ===
 
 Total so far: $600
