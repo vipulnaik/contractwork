@@ -136,7 +136,7 @@ Completed:
 
 * Timeline of malaria in 2014
 
-Still working:
+Still working or not yet started:
 
 * Timelines of malaria in 2015
 
@@ -171,6 +171,8 @@ Still working:
 * Timeline of pipeline transport
 
 * Timeline of nuclear energy
+
+* Timeline of cable transport
 
 === Stipends ===
 
