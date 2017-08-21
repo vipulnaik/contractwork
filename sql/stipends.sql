@@ -36,7 +36,7 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',250,'2017-02-01','2017-02-28','2017-02-28',NULL),
   ('Issa Rice',1450,'2017-03-01','2017-03-31','2017-03-31',NULL),
   ('Issa Rice',1450,'2017-04-01','2017-04-30','2017-04-30',NULL),
-  ('Issa Rice',1260,'2017-05-01','2017-05-31','2017-05-31','Stipend for month of May. Took last week of may (Monday 2017-05-29 to Wednesday 2017-05-31) off'),
+  ('Issa Rice',1260,'2017-05-01','2017-05-31','2017-05-31','Stipend for month of May. Took last week of May (Monday 2017-05-29 to Wednesday 2017-05-31) off'),
   ('Issa Rice',1450,'2017-06-01','2017-06-30','2017-06-30',NULL),
   ('Issa Rice',1450,'2017-07-01','2017-07-31','2017-07-31',NULL);
 
