@@ -136,13 +136,19 @@ Completed:
 
 * Timeline of malaria in 2014
 
+* Timeline of mobile telephony
+
+* Timeline of recycling
+
+* Timeline of roads
+
+* Timeline of pipeline transport
+
+* Timeline of waste management
+
 Still working or not yet started:
 
 * Timelines of malaria in 2015
-
-* Timeline of mobile telephony
-
-* Timeline of road transport
 
 * Timeline of sanitation
 
@@ -156,10 +162,6 @@ Still working or not yet started:
 
 * Timeline of water treatment
 
-* Timeline of waste management
-
-* Timeline of recycling
-
 * Timeline of nuclear waste management
 
 * Timeline of rail transport
@@ -167,8 +169,6 @@ Still working or not yet started:
 * Timeline of high speed rail
 
 * Timeline of water transport
-
-* Timeline of pipeline transport
 
 * Timeline of nuclear energy
 
