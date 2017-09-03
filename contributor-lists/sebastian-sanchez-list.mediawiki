@@ -130,7 +130,7 @@ Total so far: $336
 
 === TODO ===
 
-Next payment update planned date for cleaning up TODO: 2017-09-02
+Next payment update planned date for cleaning up TODO: 2017-09-09 or earlier
 
 Completed:
 
