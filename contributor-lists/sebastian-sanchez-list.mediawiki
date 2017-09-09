@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $5441
+Total money earned as income: $6387
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $7544.91
 
-Net payment due: ($2614.28)
+Net payment due: ($1668.28)
 
 === Completed pages (Wikipedia) ===
 
@@ -48,7 +48,7 @@ Total so far: $1065
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $2100
+Total so far: $3046
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health Timeline of the National Institutes of Health]: $250. Completed April 3, 2017. Includes 29 graphs (1 cumulative, 28 for the individual institutes).
 
@@ -75,6 +75,18 @@ Total so far: $2100
 * [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2016 Timeline of malaria in 2016]: $175. Completed July 14, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2016&oldid=15659 (36442 bytes, 2017-07-15 04:36 UTC)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Ebola_virus_disease Timeline of Ebola virus disease]: $160. Completed July 24, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ebola_virus_disease&oldid=15918 (30442 bytes, 2017-07-24 22:47 UTC). Includes three graphs (two that use the same data on linear and log scale)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2014 Timeline of malaria in 2014]: $130. Completed August 5, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2014&oldid=16322 (26188 bytes, 2017-08-06 04:12 UTC).
+
+* [https://timelines.issarice.com/wiki/Timeline_of_mobile_telephony Timeline of mobile telephony]: $238. Completed August 23, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_mobile_telephony&oldid=16990 (46041 bytes, 2017-08-24 03:53 UTC)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_recycling Timeline of recycling]: $131. Completed August 26, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_recycling&oldid=17061 (24821 bytes, 2017-08-27 05:23 UTC)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_pipeline_transport Timeline of pipeline transport]: $113. Completed August 26, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_pipeline_transport&oldid=17051 (21978 bytes, 2017-08-27 03:38 UTC)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_waste_management Timeline of waste management]: $163. Completed August 28, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_waste_management&oldid=17062 (31199 bytes, 2017-08-28 08:32 UTC)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_roads Timeline of roads]: $171. Completed August 29, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_roads&oldid=17067 (32589 bytes, 2017-08-29 19:52 UTC)
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
@@ -130,21 +142,7 @@ Total so far: $336
 
 === TODO ===
 
-Next payment update planned date for cleaning up TODO: 2017-09-09 or earlier
-
-Completed:
-
-* Timeline of malaria in 2014
-
-* Timeline of mobile telephony
-
-* Timeline of recycling
-
-* Timeline of roads
-
-* Timeline of pipeline transport
-
-* Timeline of waste management
+Next payment update planned date for cleaning up TODO: 2017-10-21 or earlier
 
 Still working or not yet started:
 
