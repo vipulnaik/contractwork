@@ -144,6 +144,8 @@ Total so far: $336
 
 Next payment update planned date for cleaning up TODO: 2017-10-21 or earlier
 
+Completed:
+
 * Timeline of sanitation
 
 Still working or not yet started:
