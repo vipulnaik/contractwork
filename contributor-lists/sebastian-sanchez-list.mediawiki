@@ -152,6 +152,12 @@ Updated:
 
 * Timeline of waste management: Added visual data
 
+* Timeline of healthcare in Ethiopia: 4 events added
+
+* Timeline of hospitals: 1 event added
+
+* Timeline of malaria: 2 events added
+
 Still working or not yet started:
 
 * Timelines of malaria in 2015
