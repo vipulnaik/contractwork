@@ -148,6 +148,10 @@ Completed:
 
 * Timeline of sanitation
 
+Updated:
+
+* Timeline of waste management: Added visual data
+
 Still working or not yet started:
 
 * Timelines of malaria in 2015
