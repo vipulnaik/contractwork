@@ -148,6 +148,8 @@ Completed:
 
 * Timeline of sanitation
 
+* Timeline of malaria in 2015
+
 Updated:
 
 * Timeline of waste management: Added visual data
@@ -159,8 +161,6 @@ Updated:
 * Timeline of malaria: 2 events added
 
 Still working or not yet started:
-
-* Timelines of malaria in 2015
 
 * Timeline of universal healthcare
 
