@@ -94,7 +94,7 @@ if ($printTables == true) {
       print '<td align="right">'.sprintf('%.2f',$totalPaymentAwarded[$month] + $reimbursementDueInMonth[$month] - $paymentMadeInMonth[$month]).'</td>';
       print '<td align="right">'.$opener.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month] + $cumulativeReimbursementDueTillMonth[$month] - $cumulativePaymentMadeTillMonth[$month]).$closer.'</td>';
       $starting = false;
-      print '</tr>';
+      print "</tr>\n";
     }
   }
   
