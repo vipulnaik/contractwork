@@ -1,0 +1,35 @@
+<?php
+
+$payerPaymentSelectQuery = "select * from payer_payments where payer=".'"'.str_replace('"','\"',$payer).'"'." and receipt_date is not null order by receipt_date desc";
+$payerPaymentSelectResult = $mysqli -> query($payerPaymentSelectQuery);
+print '<h4>Full list of received payments in reverse chronological order ('.($payerPaymentSelectResult -> num_rows).' payments)</h4>';
+print "\n";
+print '<table id="myTablePayerPaymentList" class="tablesorter">'."\n";
+print "<thead>\n";
+print '<tr>';
+print '<th>Payment method</th>';
+print '<th>Sent date</th>';
+print '<th>Receipt date</th>';
+print '<th>Payment</th>';
+print '<th>Amount sent</th>';
+print '<th>Overhead</th>';
+print '<th>Amount received</th>';
+print '<th>Intermediary (empty if none)</th>';
+print '</tr>';
+print "</thead>\n<tbody>\n";
+for($i = 0; $i < $payerPaymentSelectResult -> num_rows; $i++) {
+  $row = $payerPaymentSelectResult -> fetch_assoc();
+  print '<tr>';
+  print '<td>'.$row['payment_method'].'</td>';
+  print '<td>'.$row['sent_date'].'</td>';
+  print '<td>'.$row['receipt_date'].'</td>';
+  print '<td align="right">'.sprintf("%.2f",$row['payment']).'</td>';
+  print '<td align="right">'.sprintf("%.2f",$row['sent_payment']).'</td>';
+  print '<td align="right">'.sprintf("%.2f",$row['overhead']).'</td>';
+  print '<td align="right">'.sprintf("%.2f",$row['received_payment']).'</td>';
+  print '<td>'.$row['intermediary'].'</td>';
+  print '</tr>';
+}
+
+print "</tbody>\n</table>\n";
+?>

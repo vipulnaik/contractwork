@@ -28,6 +28,7 @@ print '<script>$(document).ready(function()
         $("#myTablePayerTaskPaymentsDueByVenueAndMonth").tablesorter();
         $("#myTablePayerTaskPaymentsDueByFormatAndMonth").tablesorter();
         $("#myTablePayerTaskList").tablesorter();
+        $("#myTablePayerPaymentList").tablesorter();
      }
 ); </script>'."\n";
 print "<h3>Contract work sponsored by $payer for Vipul Naik</h3>";
@@ -50,6 +51,7 @@ if ($payerSelectResult -> num_rows == 0) {
   print '<li><a href="#payerTaskPaymentsDueByVenueAndMonth">Payer task payments due by venue and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByFormatAndMonth">Payer task payments due by format and month</a></li>';
   print '<li><a href="#payerTaskList">Payer task list</a></li>';
+  print '<li><a href="#payerPaymentList">Payer payment list</a></li>';
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;
@@ -65,6 +67,7 @@ if ($payerSelectResult -> num_rows == 0) {
   include("backend/payerTaskPaymentsDueByVenueAndMonth.inc");
   include("backend/payerTaskPaymentsDueByFormatAndMonth.inc");
   include("backend/payerTaskList.inc");
+  include("backend/payerPaymentList.inc");
 }
 print '</body>';
 ?>
