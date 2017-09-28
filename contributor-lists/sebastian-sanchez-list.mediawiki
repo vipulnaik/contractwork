@@ -150,6 +150,8 @@ Completed:
 
 * Timeline of malaria in 2015
 
+* Timeline of hygiene
+
 Updated:
 
 * Timeline of waste management: Added visual data
@@ -163,8 +165,6 @@ Updated:
 Still working or not yet started:
 
 * Timeline of universal healthcare
-
-* Timeline of hygiene
 
 * Timeline of water supply
 
