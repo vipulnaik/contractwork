@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $6387
+Total money earned as income: $6637
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $7544.91
 
-Net payment due: ($1668.28)
+Net payment due: ($1418.28)
 
 === Completed pages (Wikipedia) ===
 
@@ -186,7 +186,7 @@ Still working or not yet started:
 
 === Stipends ===
 
-Total so far: $850
+Total so far: $1100
 
 * May: $100
 
@@ -196,6 +196,7 @@ Total so far: $850
 
 * August: $250
 
+* September: $250
 === Payment schedule ===
 
 Total paid: $7544.91 (=$7458.91 received + $86 transaction fee)
