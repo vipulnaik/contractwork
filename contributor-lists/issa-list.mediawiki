@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $26674.10
+Total money earned by doing work (taxable as income for 2017): $26874.10
 
 Payment made: $16000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $15507.41
+Net payment due: $15707.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -132,7 +132,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $2277
+Total so far: $2477
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -177,6 +177,8 @@ Total so far: $2277
 * Lots of code updates for Donations List Website: $325. Completed August 12, 2017. This included some work for Peter visible at https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear for which a cost of $75 was paid by Peter, so the amount paid here includes total value of work ($400) minus the cost covered by Peter. Work spanned 6.5 working days.
 
 * Creation of list of Open Philanthropy Project predictions on PredictionBook: $74. Completed August 29, 2017. Available at https://predictionbook.com/users/OpenPhilUnofficial and GitHub repository at https://github.com/riceissa/open-phil-predictions Breakdown of pay: $30 base pay, $44 for predictions
+
+* Lots of code updates for Donations list website: $200. Completed September 30, 2017. See commits from Septeber 28 to September 30 by Issa Rice, specifically https://github.com/vipulnaik/donations/commits?author=riceissa&since=2017-09-28T07:00:00Z&until=2017-10-01T07:00:00Z for the full list. This included incorporating data from the Effective Altruism Survey (separate repository https://github.com/riceissa/ea-survey-donations with 12 commits) and Effective Altruism Grants (separate repository https://github.com/riceissa/ea-grants-processing/commits?author=riceissa&since=2017-09-01T07:00:00Z&until=2017-10-01T07:00:00Z with 6 commits)
 
 === Stipends ===
 
