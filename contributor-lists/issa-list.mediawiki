@@ -46,11 +46,11 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 Total money earned by doing work (taxable as income for 2017): $26874.10
 
-Payment made: $16000
+Payment made: $31000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $15707.41
+Net payment due: $707.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -235,11 +235,13 @@ Total so far: $31.10
 
 === Payments made ===
 
-Total so far: $16000
+Total so far: $31000
 
 * Check for $4000: Sent October 1, 2016. Deposited January 3, 2017, money withdrawn from account January 4, 2017.
 
 * Check for $12000: Sent March 25, 2017. Received April 10, 2017. Deposited April 15, 2017, money withdrawn from account April 17, 2017.
+
+* Check for $15000: Sent September 27, 2017. Received September 30, 2017. Deposited October 2, 2017, third installment of money to be deposited October 12, 2017.
 
 === TODO ===
 
