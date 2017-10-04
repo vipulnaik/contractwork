@@ -54,7 +54,7 @@ if ($row['recruiter'] == "Vipul Naik") {
   print '<td><a href="https://contractwork.vipulnaik.com/worker.php?worker='.urlencode($row['recruiter']).'">'.$row['recruiter'].'</a></td></tr>';
 }
 print '<tr><td>Contact method (initial contact)</td><td>'.$row['contact_method'].'</td></tr>';
-print '<tr><td>Worker file (on GitHub, with revision history)</td><td><a href="https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/'.$row['worker_file'].'">'.$row['worker_file'].'</a></td></tr>';
+print '<tr><td>Worker file (on GitHub, with revision history)</td><td><a href="https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/'.$row['worker_file'].'">'.$row['worker_file'].'</a> (this file includes a list of partial or completed tasks for which pay has not yet been added, if applicable; look for TODO in the file)</td></tr>';
 if ($row['notes'] != '') {
   print '<tr><td>Notes</td><td>'.$row['notes'].'</td></tr>';
 }
