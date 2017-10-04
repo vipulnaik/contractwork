@@ -245,7 +245,7 @@ Total so far: $31000
 
 === TODO ===
 
-Next payment update planned date for cleaning up TODO: 2017-10-07
+Next payment update planned date for cleaning up TODO: 2017-10-21
 
 Still working:
 
@@ -258,6 +258,12 @@ Still working:
 * Timeline of Ludwig von Mises Institute (mostly completed, but big picture still fledgeling and some expansion possible)
 
 * Timeline of Cato Institute (mostly completed, probably about a day more of work needed)
+
+* Timeline of the rationality community
+
+* Timeline of economic statistics
+
+Also pending payment for when it reaches a logical point: Work on devec.subwiki.org
 
 == Work and other compensation in 2016 ==
 
