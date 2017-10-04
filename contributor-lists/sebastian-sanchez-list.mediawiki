@@ -164,6 +164,10 @@ Updated:
 
 Still working or not yet started:
 
+* Timeline of Slack
+
+* Timeline of GiveWell
+
 * Timeline of universal healthcare
 
 * Timeline of water supply
