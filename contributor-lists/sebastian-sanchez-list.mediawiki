@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $6637
+Total money earned as income: $7207
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $12289.24
 
-Net payment due: ($6162.61)
+Net payment due: ($5592.61)
 
 === Completed pages (Wikipedia) ===
 
@@ -139,6 +139,12 @@ Total so far: $336
 * Additions to timeline of malaria vaccine: $5. Completed June 16, 2017. 2 rows and 1200 bytes added. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria_vaccine&type=revision&diff=14811&oldid=13472 for the diff
 
 * Additions to timeline of malaria: $20. Completed July 19, 2017. This covers expansions after June 25, 2017 and till July 19, 2017. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=15860&oldid=15109 for the relevant diff
+
+=== Other work for Peter ===
+
+Total so far: $570
+
+* Factory farming visits in Africa: $570. Completed October 5, 2017, including publication of reports. Breakdown: $360 for reimbursements, $180 for labor ($15/hour, 12 hours), and $30 for uploading content. See https://www.facebook.com/media/set/?set=a.10156676891004377.1073741837.634404376&type=3 (visit 1), https://www.facebook.com/media/set/?set=a.10156677566689377.1073741838.634404376&type=3 (visit 2), and https://www.facebook.com/media/set/?set=a.10156685699114377.1073741839.634404376&type=3 (visit 3)
 
 === TODO ===
 
