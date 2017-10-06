@@ -9,36 +9,13 @@ if (!empty($_REQUEST['worker'])) {
 }
 print "<title>$worker work details: Contract work for Vipul Naik</title>";
 include_once('analytics.inc');
+include_once('strip-commas.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
 print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
 print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
 print '</head>';
 print '<body>';
-print '<script>$(document).ready(function()
-    {
-        $("#myTableWorkerInfo").tablesorter();
-        $("#myTableWorkerPaymentsDueByTypeAndYear").tablesorter();
-        $("#myTableWorkerPaymentsMadeByMethodAndYear").tablesorter();
-        $("#myTableWorkerTaskPaymentsDueByTypeAndYear").tablesorter();
-        $("#myTableWorkerTaskPaymentsDueByTopicAndYear").tablesorter();
-        $("#myTableWorkerTaskPaymentsDueByVenueAndYear").tablesorter();
-        $("#myTableWorkerTaskPaymentsDueByFormatAndYear").tablesorter();
-        $("#myTableWorkerImpact").tablesorter();
-        $("#myTableWorkerPaymentsDueByTypeAndMonth").tablesorter();
-        $("#myTableWorkerTaskPaymentsDueByTypeAndMonth").tablesorter();
-        $("#myTableWorkerTaskPaymentsDueByTopicAndMonth").tablesorter();
-        $("#myTableWorkerTaskPaymentsDueByVenueAndMonth").tablesorter();
-        $("#myTableWorkerTaskPaymentsDueByFormatAndMonth").tablesorter();
-        $("#myTableWorkerPaymentsDueAndMadeByMonth").tablesorter();
-        $("#myTableWorkerTaskList").tablesorter();
-        $("#myTableWorkerCommissionOnTaskList").tablesorter();
-        $("#myTableWorkerRoyaltyList").tablesorter();
-        $("#myTableWorkerCommissionOnRoyaltyList").tablesorter();
-        $("#myTableWorkerAwardedStipendList").tablesorter();
-        $("#myTableWorkerDeferredStipendList").tablesorter();
-        $("#myTableWorkerPaymentList").tablesorter();
-     }
-); </script>'."\n";
+print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
 print "<h3>Contract work by $worker for Vipul Naik</h3>";
 $workerSelectQuery = "select * from workers where worker=".'"'.str_replace('"','\"',$worker).'"'." and private = false;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);

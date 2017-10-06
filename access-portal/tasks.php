@@ -31,20 +31,14 @@ if ($receptacle != "" && $receptacle_url != "") {
 }
 
 include_once('analytics.inc');
+include_once('strip-commas.inc');
 print "<title>$titleExtras contract work for Vipul Naik</title>\n";
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
 print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
 print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
 print '</head>';
 print '<body>';
-print '<script>$(document).ready(function()
-    {
-        $("#myTableFilteredTaskPaymentsDueByTypeAndYear").tablesorter();    
-        $("#myTableFilteredTaskPaymentsDueByVenueAndYear").tablesorter();    
-        $("#myTableFilteredTaskPaymentsDueByFormatAndYear").tablesorter();    
-        $("#myTableFilteredTaskList").tablesorter();
-     }
-); </script>'."\n";
+print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
 print "<h3>$titleExtras contract work for Vipul Naik</h3>";
 print '<h4>Table of contents</h4>';
 print '<ul>';
