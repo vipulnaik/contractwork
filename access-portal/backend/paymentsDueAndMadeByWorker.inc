@@ -45,20 +45,20 @@ print "</thead>\n<tbody>\n";
 $starting = true;
 foreach ($workerList as $worker) {
   print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
-  print '<td align="right">'.sprintf('%.2f',$totalPaymentAwarded[$worker]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$reimbursementDueToWorker[$worker]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$totalPaymentMadeToWorker[$worker]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$pendingPayment[$worker]).'</td>';
+  print '<td align="right">'.number_format($totalPaymentAwarded[$worker],2).'</td>';
+  print '<td align="right">'.number_format($reimbursementDueToWorker[$worker],2).'</td>';
+  print '<td align="right">'.number_format($totalPaymentMadeToWorker[$worker],2).'</td>';
+  print '<td align="right">'.number_format($pendingPayment[$worker],2).'</td>';
   print '</tr>';
 }
 
 print "</tbody>\n<tfoot>\n";
 
 print '<tr><td><strong>Total across workers</strong></td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossWorkers).'</strong></td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalReimbursementDueAcrossWorkers).'</strong></td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeAcrossWorkers).'</strong></td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossWorkers + $totalReimbursementDueAcrossWorkers - $totalPaymentMadeAcrossWorkers).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalPaymentAwardedAcrossWorkers,2).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalReimbursementDueAcrossWorkers,2).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalPaymentMadeAcrossWorkers,2).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalPaymentAwardedAcrossWorkers + $totalReimbursementDueAcrossWorkers - $totalPaymentMadeAcrossWorkers,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";

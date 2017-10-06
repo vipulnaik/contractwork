@@ -51,18 +51,18 @@ foreach($taskFormats as $taskFormat) {
   if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
     print "<tr><td>$taskFormat</td>";
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$paymentForTaskFormatAndYear[$taskFormat][$year]).'</td>';
+      print '<td align="right">'.number_format($paymentForTaskFormatAndYear[$taskFormat][$year],2).'</td>';
     }
-    print '<td align="right">'.sprintf('%.2f',$totalPaymentForTaskFormat[$taskFormat]).'</td>';
+    print '<td align="right">'.number_format($totalPaymentForTaskFormat[$taskFormat],2).'</td>';
     print '</tr>';
   }
 }
 print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year]).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
+print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 print '</tr>';
 print "</tfoot>\n</table>\n";
 ?>

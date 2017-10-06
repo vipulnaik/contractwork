@@ -32,8 +32,8 @@ for ($i = 0; $i < $commissionOnRoyaltyByEarnerSelectResult -> num_rows; $i++) {
   }
   print '<td>'.$row['commission_reason'].'</td>';
   print '<td align="right">'.($row['commission'] * 100).'%</td>';
-  print '<td align="right">'.sprintf('%.2f',$row['originalPayment']).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$row['payment']).'</td>';
+  print '<td align="right">'.number_format($row['originalPayment'],2).'</td>';
+  print '<td align="right">'.number_format($row['payment'],2).'</td>';
   print '</tr>';
 }
 print "</tbody>\n</table>\n";
