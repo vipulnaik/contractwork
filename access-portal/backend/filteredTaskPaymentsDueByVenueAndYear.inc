@@ -53,16 +53,16 @@ foreach($taskVenues as $taskVenue) {
     foreach (array_reverse($yearList) as $year) {
       print '<td align="right">'.number_format($paymentForTaskVenueAndYear[$taskVenue][$year],2).'</td>';
     }
-    print '<td align="right">'.sprintf('%.2f',$totalPaymentForTaskVenue[$taskVenue]).'</td>';
+    print '<td align="right">'.number_format($totalPaymentForTaskVenue[$taskVenue],2).'</td>';
     print '</tr>';
   }
 }
 print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year]).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
+print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 print '</tr>';
 print "</tfoot>\n</table>\n";
 ?>

@@ -51,15 +51,15 @@ if ($printTables == true) {
       foreach (array_reverse($yearList) as $year) {
         print '<td align="right">'.number_format($payment[$paymentMethod][$year],2).'</td>';
       }
-      print '<td align="right">'.sprintf('%.2f',$totalPaymentMadeByMethod[$paymentMethod]).'</td></tr>';
+      print '<td align="right">'.number_format($totalPaymentMadeByMethod[$paymentMethod],2).'</td></tr>';
     }
   }
   print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total across payment methods</strong></td>';
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeByYear[$year]).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalPaymentMadeByYear[$year],2).'</strong></td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeByPayer).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentMadeByPayer,2).'</strong></td>';
   print '</tr>';
   print "</tfoot>\n</table>\n";
 }

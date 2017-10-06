@@ -74,7 +74,7 @@ if ($printTables == true) {
           print '<td align="right">'.number_format($paymentForTopicAndMonth[$topic][$month],2).'</td>';
         }
       }
-      print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentForMonth[$month]).'</strong></td>';
+      print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
       print '</tr>';
     }
   }
@@ -82,10 +82,10 @@ if ($printTables == true) {
   print '<tr><td><strong>Total across months</strong></td>';
   foreach($topics as $topic) {
     if ($totalPaymentForTopic[$topic] > 0) {
-      print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForTopic[$topic]).'</strong></td>';
+      print '<td align="right"><strong>'.number_format($totalPaymentForTopic[$topic],2).'</strong></td>';
     }
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
   print '</tr>';
   
   print "</tfoot>\n</table>\n";

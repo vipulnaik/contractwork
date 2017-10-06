@@ -42,10 +42,10 @@ print "<thead>\n";
 print "<tr>\n    <th>Item</th>\n    <th>Value</th>\n</tr>\n";
 print "</thead>\n<tbody>\n";
 print "<tr>\n    <td>Total pageviews of Wikipedia pages created as contract work</td>\n    ".'<td align="right">'.number_format($paidViewCount,2)."</td>\n</tr>\n";
-print "<tr>\n    <td>Total pageviews of Wikipedia pages created or edited (not necessarily significantly) as contract work</td>\n    ".'<td align="right">'.sprintf('%.2f',$paidCreatedOrEditedPageViewCount)."</td>\n</tr>\n";
-print "<tr>\n    <td>Cost per thousand views of pages created (including only explicit costs for page creation)</td>\n    ".'<td align="right">'.sprintf('%.2f',$costPerThousandViews)."</td>\n</tr>\n";
-print "<tr>\n    <td>Cost per thousand views of pages created (including all task pay)</td>\n".'    <td align="right">'.sprintf('%.2f',$blendedCostPerThousandViews)."</td>\n</tr>\n";
-print "<tr>\n    <td>Cost per thousand views of pages created or edited (including only explicit costs for page creation and editing)</td>\n".'    <td align="right">'.sprintf('%.2f',$costPerThousandViewsCreatedOrEdited)."</td>\n</tr>\n";
-print "<tr>\n    <td>Cost per thousand views of pages created or edited (including pay for everything)</td>\n".'    <td align="right">'.sprintf('%.2f',$blendedCostPerThousandViewsCreatedOrEdited)."</td>\n</tr>\n";
+print "<tr>\n    <td>Total pageviews of Wikipedia pages created or edited (not necessarily significantly) as contract work</td>\n    ".'<td align="right">'.number_format($paidCreatedOrEditedPageViewCount,2)."</td>\n</tr>\n";
+print "<tr>\n    <td>Cost per thousand views of pages created (including only explicit costs for page creation)</td>\n    ".'<td align="right">'.number_format($costPerThousandViews,2)."</td>\n</tr>\n";
+print "<tr>\n    <td>Cost per thousand views of pages created (including all task pay)</td>\n".'    <td align="right">'.number_format($blendedCostPerThousandViews,2)."</td>\n</tr>\n";
+print "<tr>\n    <td>Cost per thousand views of pages created or edited (including only explicit costs for page creation and editing)</td>\n".'    <td align="right">'.number_format($costPerThousandViewsCreatedOrEdited,2)."</td>\n</tr>\n";
+print "<tr>\n    <td>Cost per thousand views of pages created or edited (including pay for everything)</td>\n".'    <td align="right">'.number_format($blendedCostPerThousandViewsCreatedOrEdited,2)."</td>\n</tr>\n";
 print "</tbody>\n</table>\n";
 ?>
