@@ -42,7 +42,7 @@ foreach(array_reverse($yearList) as $year) {
     $incomeTaxAssumingExemption = computeTax($taxableIncomeAssumingExemption, $year);
     $totalTaxAssumingNoExemption = $selfEmploymentTax + $incomeTaxAssumingNoExemption;
     $totalTaxAssumingExemption = $selfEmploymentTax + $incomeTaxAssumingExemption;
-    print "<p>In the year $year, the total payment awarded to you (your income) was $".sprintf('%.2f',$income)." USD, and the total money paid to you was $".sprintf('%.2f',$receivedIncome)." USD.</p>\n";
+    print "<p>In the year $year, the total payment awarded to you (your income) was $".number_format($income,2)." USD, and the total money paid to you was $".sprintf('%.2f',$receivedIncome)." USD.</p>\n";
     print "<p>Here is a rough estimate for how much tax you would need to pay assuming all your income was from contract work for Vipul Naik:</p>\n";
     print "<ul>\n";
     print "    <li>Assuming you are single and cannot take a personal exemption: $".sprintf('%.2f',$selfEmploymentTax)." self-employment tax and $".sprintf('%.2f',$incomeTaxAssumingNoExemption)." income tax totaling to $".sprintf('%.2f',$totalTaxAssumingNoExemption).".</li>\n";

@@ -71,7 +71,7 @@ if ($printTables == true) {
       print "<tr><td>$month</td>";
       foreach ($topics as $topic) {
         if ($totalPaymentForTopic[$topic] > 0) {
-          print '<td align="right">'.sprintf('%.2f',$paymentForTopicAndMonth[$topic][$month]).'</td>';
+          print '<td align="right">'.number_format($paymentForTopicAndMonth[$topic][$month],2).'</td>';
         }
       }
       print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentForMonth[$month]).'</strong></td>';

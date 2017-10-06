@@ -110,70 +110,70 @@ if ($printTables == true) {
     if ($totalTaskPayment[$payer] > 0) {
       print "<tr><td>Tasks for $payer</td>";
       foreach (array_reverse($yearList) as $year) {
-        print '<td align="right">'.sprintf('%.2f',$taskPayment[$year][$payer]).'</td>';
+        print '<td align="right">'.number_format($taskPayment[$year][$payer],2).'</td>';
       }
-      print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment[$payer]).'</strong></td>';
+      print '<td align="right"><strong>'.number_format($totalTaskPayment[$payer],2).'</strong></td>';
       print '</tr>';
     }
   }
   print '<tr><td>Commissions on tasks</td>';
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$year]).'</td>';
+    print '<td align="right">'.number_format($commissionOnTaskPayment[$year],2).'</td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalCommissionOnTaskPayment,2).'</strong></td>';
   print '</tr>';
   print '<tr><td>Stipends (awarded same year)</td>';
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInSameYear[$year]).'</td>';
+    print '<td align="right">'.number_format($stipendPaymentAwardedInSameYear[$year],2).'</td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentAwardedInSameYear).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalStipendPaymentAwardedInSameYear,2).'</strong></td>';
   print '</tr>';
   if ($totalStipendPaymentStraddlingYears > 0) {
     print '<tr><td>Stipends (awarded from earlier year)</td>';
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedFromEarlierYear[$year]).'</td>';
+      print '<td align="right">'.number_format($stipendPaymentAwardedFromEarlierYear[$year],2).'</td>';
     }
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingYears).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingYears,2).'</strong></td>';
     print '</tr>';
   }
   print '<tr><td>Royalties</td>';
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$year]).'</td>';
+    print '<td align="right">'.number_format($royaltyPayment[$year],2).'</td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalRoyaltyPayment,2).'</strong></td>';
   print '</tr>';
   print '<tr><td>Commissions on royalties</td>';
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$year]).'</td>';
+    print '<td align="right">'.number_format($commissionOnRoyaltyPayment[$year],2).'</td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalCommissionOnRoyaltyPayment,2).'</strong></td>';
   print '</tr>';
   print '<tr><td><strong>Total payment awarded</strong></td>';
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$year]).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalPaymentAwarded[$year],2).'</strong></td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossYears).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentAwardedAcrossYears,2).'</strong></td>';
   print '</tr>';
   print '<tr><td>Stipends (unawarded)</td>';
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right">'.sprintf('%.2f',$unawardedStipendPayment[$year]).'</td>';
+    print '<td align="right">'.number_format($unawardedStipendPayment[$year],2).'</td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalUnawardedStipendPayment).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalUnawardedStipendPayment,2).'</strong></td>';
   print '</tr>';
   if ($totalStipendPaymentStraddlingYears > 0) {
     print '<tr><td>Stipends (deferred to later year)</td>';
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInLaterYear[$year]).'</td>';
+      print '<td align="right">'.number_format($stipendPaymentAwardedInLaterYear[$year],2).'</td>';
     }
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingYears).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingYears,2).'</strong></td>';
     print '</tr>';
   }
   print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total payment</strong></td>';
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$year]).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalPayment[$year],2).'</strong></td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossYears).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentAcrossYears,2).'</strong></td>';
   print '</tr>';
   
   print "</tfoot>\n</table>\n";

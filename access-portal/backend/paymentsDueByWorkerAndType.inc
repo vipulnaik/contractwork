@@ -111,27 +111,27 @@ print '</tr>';
 print "</thead>\n<tbody>\n";
 foreach ($workerList as $worker) {
   print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
-  print '<td align="right">'.sprintf('%.2f',$taskPayment[$worker]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$worker]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$stipendPayment[$worker][1]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$worker]).'</td>';
-  print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$worker]).'</td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$worker]).'</strong></td>';
-  print '<td align="right">'.sprintf('%.2f',$stipendPayment[$worker][0]).'</td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$worker]).'</strong></td>';
+  print '<td align="right">'.number_format($taskPayment[$worker],2).'</td>';
+  print '<td align="right">'.number_format($commissionOnTaskPayment[$worker],2).'</td>';
+  print '<td align="right">'.number_format($stipendPayment[$worker][1],2).'</td>';
+  print '<td align="right">'.number_format($royaltyPayment[$worker],2).'</td>';
+  print '<td align="right">'.number_format($commissionOnRoyaltyPayment[$worker],2).'</td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentAwarded[$worker],2).'</strong></td>';
+  print '<td align="right">'.number_format($stipendPayment[$worker][0],2).'</td>';
+  print '<td align="right"><strong>'.number_format($totalPayment[$worker],2).'</strong></td>';
   print '</tr>';
 }
 
 print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across workers</strong></td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[1]).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossWorkers).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPayment[0]).'</td>';
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossWorkers).'</td>';
+print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</td>';
+print '<td align="right"><strong>'.number_format($totalCommissionOnTaskPayment,2).'</td>';
+print '<td align="right"><strong>'.number_format($totalStipendPayment[1],2).'</td>';
+print '<td align="right"><strong>'.number_format($totalRoyaltyPayment,2).'</td>';
+print '<td align="right"><strong>'.number_format($totalCommissionOnRoyaltyPayment,2).'</td>';
+print '<td align="right"><strong>'.number_format($totalPaymentAwardedAcrossWorkers,2).'</td>';
+print '<td align="right"><strong>'.number_format($totalStipendPayment[0],2).'</td>';
+print '<td align="right"><strong>'.number_format($totalPaymentAcrossWorkers,2).'</td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";

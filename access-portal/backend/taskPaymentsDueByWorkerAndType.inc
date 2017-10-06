@@ -80,10 +80,10 @@ foreach ($workers as $worker) {
     print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
     foreach ($taskTypes as $taskType) {
       if ($totalPaymentForTaskType[$taskType] > 0) {
-        print '<td align="right">'.sprintf('%.2f',$paymentForTaskTypeAndWorker[$taskType][$worker]).'</td>';
+        print '<td align="right">'.number_format($paymentForTaskTypeAndWorker[$taskType][$worker],2).'</td>';
       }
     }
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentForWorker[$worker]).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalTaskPaymentForWorker[$worker],2).'</strong></td>';
     print '</tr>';
   }
 }
@@ -92,10 +92,10 @@ print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across workers</strong></td>';
 foreach($taskTypes as $taskType) {
   if ($totalPaymentForTaskType[$taskType] > 0) {
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForTaskType[$taskType]).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalPaymentForTaskType[$taskType],2).'</strong></td>';
   }
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";

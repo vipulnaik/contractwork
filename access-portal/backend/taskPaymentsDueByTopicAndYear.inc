@@ -64,9 +64,9 @@ foreach($topics as $topic) {
   if ($totalPaymentForTopic[$topic] > 0) {
     print '<tr><td><a href="/topic.php?topic='.urlencode($topic).'">'.$topic.'</a></td>';
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$paymentForTopicAndYear[$topic][$year]).'</td>';
+      print '<td align="right">'.number_format($paymentForTopicAndYear[$topic][$year],2).'</td>';
     }
-    print '<td align="right">'.sprintf('%.2f',$totalPaymentForTopic[$topic]).'</td>';
+    print '<td align="right">'.number_format($totalPaymentForTopic[$topic],2).'</td>';
     print '</tr>';
   }
 }
@@ -74,9 +74,9 @@ foreach($topics as $topic) {
 print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year]).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentAcrossYears).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalTaskPaymentAcrossYears,2).'</strong></td>';
 print '</tr>';
 print "</tfoot>\n</table>\n";
 ?>

@@ -82,17 +82,17 @@ if ($printTables == true) {
         $closer = "</strong>";
       }
       print "<td>$opener$month$closer</td>";
-      print '<td align="right">'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</td>';
-      print '<td align="right">'.$opener.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month]).$closer.'</td>';
+      print '<td align="right">'.number_format($totalPaymentAwarded[$month],2).'</td>';
+      print '<td align="right">'.$opener.number_format($cumulativePaymentAwardedTillMonth[$month],2).$closer.'</td>';
       if ($cumulativeReimbursementDueSoFar > 0) {
-        print '<td align="right">'.sprintf('%.2f',$reimbursementDueInMonth[$month]).'</td>';
-        print '<td align="right">'.$opener.sprintf('%.2f',$cumulativeReimbursementDueTillMonth[$month]).$closer.'</td>';
+        print '<td align="right">'.number_format($reimbursementDueInMonth[$month],2).'</td>';
+        print '<td align="right">'.$opener.number_format($cumulativeReimbursementDueTillMonth[$month],2).$closer.'</td>';
       }
   
-      print '<td align="right">'.sprintf('%.2f',$paymentMadeInMonth[$month]).'</td>';
-      print '<td align="right">'.$opener.sprintf('%.2f',$cumulativePaymentMadeTillMonth[$month]).$closer.'</td>';
-      print '<td align="right">'.sprintf('%.2f',$totalPaymentAwarded[$month] + $reimbursementDueInMonth[$month] - $paymentMadeInMonth[$month]).'</td>';
-      print '<td align="right">'.$opener.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month] + $cumulativeReimbursementDueTillMonth[$month] - $cumulativePaymentMadeTillMonth[$month]).$closer.'</td>';
+      print '<td align="right">'.number_format($paymentMadeInMonth[$month],2).'</td>';
+      print '<td align="right">'.$opener.number_format($cumulativePaymentMadeTillMonth[$month],2).$closer.'</td>';
+      print '<td align="right">'.number_format($totalPaymentAwarded[$month] + $reimbursementDueInMonth[$month] - $paymentMadeInMonth[$month],2).'</td>';
+      print '<td align="right">'.$opener.number_format($cumulativePaymentAwardedTillMonth[$month] + $cumulativeReimbursementDueTillMonth[$month] - $cumulativePaymentMadeTillMonth[$month],2).$closer.'</td>';
       $starting = false;
       print "</tr>\n";
     }

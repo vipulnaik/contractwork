@@ -1,9 +1,10 @@
 <?php
-print '<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8" >';
+include_once('doctype.inc');
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 include_once("backend/stringFunctions.inc");
 include_once('analytics.inc');
+include_once('strip-commas.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
 print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
 print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
@@ -16,28 +17,14 @@ if ($topic != '') {
   print "<title>$topic topic work details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';
-  print '<script>$(document).ready(function()
-    {
-        $("#myTableTopicTaskPaymentsDueByTypeAndYear").tablesorter();
-        $("#myTableTopicImpact").tablesorter();
-        $("#myTableTopicTaskPaymentsDueByTypeAndMonth").tablesorter();
-        $("#myTableTopicTaskList").tablesorter();
-    }
-  ); </script>'."\n";
+  print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
   print "<h3>Contract work related to topic $topic for Vipul Naik</h3>";
 } else {
   $topicRegexMatcher = '1 = 1';
   print "<title>All task details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';
-  print '<script>$(document).ready(function()
-    {
-        $("#myTableTopicTaskPaymentsDueByTypeAndYear").tablesorter();
-        $("#myTableTopicImpact").tablesorter();
-        $("#myTableTopicTaskPaymentsDueByTypeAndMonth").tablesorter();
-        $("#myTableTopicTaskList").tablesorter();
-    }
-  ); </script>'."\n";
+  print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
   print "<h3>Contract work (all tasks) for Vipul Naik</h3>";
 }
 
@@ -58,5 +45,6 @@ if ($taskSelectResult -> num_rows == 0) {
   include("backend/topicTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/topicTaskList.inc");
 }
+include_once('anchorjs.inc');
 print '</body>';
 ?>

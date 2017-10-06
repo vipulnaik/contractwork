@@ -60,10 +60,10 @@ foreach (array_reverse($monthList) as $month) {
     print "<tr><td>$month</td>";
     foreach ($taskFormats as $taskFormat) {
       if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
-        print '<td align="right">'.sprintf('%.2f',$paymentForTaskFormatAndMonth[$taskFormat][$month]).'</td>';
+        print '<td align="right">'.number_format($paymentForTaskFormatAndMonth[$taskFormat][$month],2).'</td>';
       }
     }
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentForMonth[$month]).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
     print '</tr>';
   }
 }
@@ -71,10 +71,10 @@ print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across months</strong></td>';
 foreach($taskFormats as $taskFormat) {
   if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForTaskFormat[$taskFormat]).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalPaymentForTaskFormat[$taskFormat],2).'</strong></td>';
   }
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";

@@ -29,7 +29,7 @@ for ($i = 0; $i < $royaltySelectResult -> num_rows; $i++) {
   } else {
     print '–'.$row['royalty_end_date'].'</td>';
   }
-  print '<td align="right">'.sprintf('%.2f',$row['payment']).'</td>';
+  print '<td align="right">'.number_format($row['payment'],2).'</td>';
   print '<td>'.$row['notes'].'</td>';
   print '</tr>';
 }

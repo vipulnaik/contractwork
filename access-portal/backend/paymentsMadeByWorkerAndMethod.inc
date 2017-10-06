@@ -46,16 +46,16 @@ print "</thead>\n<tbody>\n";
 foreach ($workerList as $worker) {
   print '<tr><td><a href="http://contractwork.vipulnaik.com/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
   foreach ($paymentMethods as $paymentMethod) {
-    print '<td align="right">'.sprintf('%.2f',$payment[$worker][$paymentMethod]).'</td>';
+    print '<td align="right">'.number_format($payment[$worker][$paymentMethod],2).'</td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeToWorker[$worker]).'</strong></td></tr>';
+  print '<td align="right"><strong>'.number_format($totalPaymentMadeToWorker[$worker],2).'</strong></td></tr>';
 }
 print "<tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across workers</strong></td>';
 foreach ($paymentMethods as $paymentMethod) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentByMethod[$paymentMethod]).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentByMethod[$paymentMethod],2).'</strong></td>';
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentMadeAcrossWorkers).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalPaymentMadeAcrossWorkers,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";

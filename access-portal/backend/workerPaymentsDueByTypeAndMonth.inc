@@ -114,40 +114,40 @@ if ($printTables == true) {
   foreach (array_reverse($monthList) as $month) {
     if ($totalPayment[$month] > 0) {
       print "<tr><td>$month</td>";
-      print '<td align="right">'.sprintf('%.2f',$taskPayment[$month]).'</td>';
-      print '<td align="right">'.sprintf('%.2f',$commissionOnTaskPayment[$month]).'</td>';
-      print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInSameMonth[$month]).'</td>';
+      print '<td align="right">'.number_format($taskPayment[$month],2).'</td>';
+      print '<td align="right">'.number_format($commissionOnTaskPayment[$month],2).'</td>';
+      print '<td align="right">'.number_format($stipendPaymentAwardedInSameMonth[$month],2).'</td>';
       if ($totalStipendPaymentStraddlingMonths > 0) {
-        print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedFromEarlierMonth[$month]).'</td>';
+        print '<td align="right">'.number_format($stipendPaymentAwardedFromEarlierMonth[$month],2).'</td>';
       }
-      print '<td align="right">'.sprintf('%.2f',$royaltyPayment[$month]).'</td>';
-      print '<td align="right">'.sprintf('%.2f',$commissionOnRoyaltyPayment[$month]).'</td>';
-      print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwarded[$month]).'</strong></td>';
-      print '<td align="right">'.sprintf('%.2f',$unawardedStipendPayment[$month]).'</td>';
+      print '<td align="right">'.number_format($royaltyPayment[$month],2).'</td>';
+      print '<td align="right">'.number_format($commissionOnRoyaltyPayment[$month],2).'</td>';
+      print '<td align="right"><strong>'.number_format($totalPaymentAwarded[$month],2).'</strong></td>';
+      print '<td align="right">'.number_format($unawardedStipendPayment[$month],2).'</td>';
       if ($totalStipendPaymentStraddlingMonths > 0) {
-        print '<td align="right">'.sprintf('%.2f',$stipendPaymentAwardedInLaterMonth[$month]).'</td>';
+        print '<td align="right">'.number_format($stipendPaymentAwardedInLaterMonth[$month],2).'</td>';
       }
-      print '<td align="right"><strong>'.sprintf('%.2f',$totalPayment[$month]).'</strong></td>';
+      print '<td align="right"><strong>'.number_format($totalPayment[$month],2).'</strong></td>';
       print '</tr>';
     }
   }
 
   print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total across months</strong></td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPayment).'</td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnTaskPayment).'</td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentAwardedInSameMonth).'</td>';
+  print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</td>';
+  print '<td align="right"><strong>'.number_format($totalCommissionOnTaskPayment,2).'</td>';
+  print '<td align="right"><strong>'.number_format($totalStipendPaymentAwardedInSameMonth,2).'</td>';
   if ($totalStipendPaymentStraddlingMonths > 0) {
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingMonths).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingMonths,2).'</strong></td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalRoyaltyPayment).'</td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalCommissionOnRoyaltyPayment).'</td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAwardedAcrossMonths).'</td>';
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalUnawardedStipendPayment).'</td>';
+  print '<td align="right"><strong>'.number_format($totalRoyaltyPayment,2).'</td>';
+  print '<td align="right"><strong>'.number_format($totalCommissionOnRoyaltyPayment,2).'</td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentAwardedAcrossMonths,2).'</td>';
+  print '<td align="right"><strong>'.number_format($totalUnawardedStipendPayment,2).'</td>';
   if ($totalStipendPaymentStraddlingMonths > 0) {
-    print '<td align="right"><strong>'.sprintf('%.2f',$totalStipendPaymentStraddlingMonths).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingMonths,2).'</strong></td>';
   }
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentAcrossMonths).'</td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentAcrossMonths,2).'</td>';
   print '</tr>';
   
   print "</tfoot>\n</table>\n";

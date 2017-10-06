@@ -23,7 +23,7 @@ for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
   } else {
     print '–'.$row['stipend_end_date'].'</td>';
   }
-  print '<td align="right">'.sprintf('%.2f',$row['payment']).'</td>';
+  print '<td align="right">'.number_format($row['payment'],2).'</td>';
   print '<td>'.$row['notes'].'</td>';
   print '</tr>';
 }
