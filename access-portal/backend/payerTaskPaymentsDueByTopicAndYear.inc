@@ -60,7 +60,7 @@ foreach($topics as $topic) {
   if ($totalPaymentForTopic[$topic] > 0) {
     print "<tr><td>$topic</td>";
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$paymentForTopicAndYear[$topic][$year]).'</td>';
+      print '<td align="right">'.number_format($paymentForTopicAndYear[$topic][$year],2).'</td>';
     }
     print '<td align="right">'.sprintf('%.2f',$totalPaymentForTopic[$topic]).'</td>';
     print '</tr>';

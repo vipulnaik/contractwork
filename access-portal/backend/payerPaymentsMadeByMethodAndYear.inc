@@ -49,7 +49,7 @@ if ($printTables == true) {
     if ($totalPaymentMadeByMethod[$paymentMethod] > 0) {
       print "<tr><td>$paymentMethod</td>";
       foreach (array_reverse($yearList) as $year) {
-        print '<td align="right">'.sprintf('%.2f',$payment[$paymentMethod][$year]).'</td>';
+        print '<td align="right">'.number_format($payment[$paymentMethod][$year],2).'</td>';
       }
       print '<td align="right">'.sprintf('%.2f',$totalPaymentMadeByMethod[$paymentMethod]).'</td></tr>';
     }

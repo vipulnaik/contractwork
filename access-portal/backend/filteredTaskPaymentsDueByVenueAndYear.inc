@@ -51,7 +51,7 @@ foreach($taskVenues as $taskVenue) {
   if ($totalPaymentForTaskVenue[$taskVenue] > 0) {
     print "<tr><td>$taskVenue</td>";
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$paymentForTaskVenueAndYear[$taskVenue][$year]).'</td>';
+      print '<td align="right">'.number_format($paymentForTaskVenueAndYear[$taskVenue][$year],2).'</td>';
     }
     print '<td align="right">'.sprintf('%.2f',$totalPaymentForTaskVenue[$taskVenue]).'</td>';
     print '</tr>';

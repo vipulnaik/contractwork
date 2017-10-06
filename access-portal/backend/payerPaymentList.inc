@@ -23,7 +23,7 @@ for($i = 0; $i < $payerPaymentSelectResult -> num_rows; $i++) {
   print '<td>'.$row['payment_method'].'</td>';
   print '<td>'.$row['sent_date'].'</td>';
   print '<td>'.$row['receipt_date'].'</td>';
-  print '<td align="right">'.sprintf("%.2f",$row['payment']).'</td>';
+  print '<td align="right">'.number_format($row['payment'],2).'</td>';
   print '<td align="right">'.sprintf("%.2f",$row['sent_payment']).'</td>';
   print '<td align="right">'.sprintf("%.2f",$row['overhead']).'</td>';
   print '<td align="right">'.sprintf("%.2f",$row['received_payment']).'</td>';

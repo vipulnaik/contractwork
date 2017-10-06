@@ -52,7 +52,7 @@ foreach($taskTypes as $taskType) {
   if ($totalPaymentForTaskType[$taskType] > 0) {
     print "<tr><td>$taskType</td>";
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$paymentForTaskTypeAndYear[$taskType][$year]).'</td>';
+      print '<td align="right">'.number_format($paymentForTaskTypeAndYear[$taskType][$year],2).'</td>';
     }
     print '<td align="right">'.sprintf('%.2f',$totalPaymentForTaskType[$taskType]).'</td>';
     print '</tr>';

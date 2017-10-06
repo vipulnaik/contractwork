@@ -58,7 +58,7 @@ foreach($taskTypes as $taskType) {
     print "<tr>\n";
     print "    <td>$taskType</td>\n";
     foreach (array_reverse($yearList) as $year) {
-      print '    <td align="right">'.sprintf('%.2f',$paymentForTaskTypeAndYear[$taskType][$year])."</td>\n";
+      print '    <td align="right">'.number_format($paymentForTaskTypeAndYear[$taskType][$year],2)."</td>\n";
     }
     print '    <td align="right">'.sprintf('%.2f',$totalPaymentForTaskType[$taskType])."</td>\n";
     print "</tr>\n";

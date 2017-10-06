@@ -41,7 +41,7 @@ print '<table id="myTableTopicImpact" class="tablesorter">'."\n";
 print "<thead>\n";
 print "<tr>\n    <th>Item</th>\n    <th>Value</th>\n</tr>\n";
 print "</thead>\n<tbody>\n";
-print "<tr>\n    <td>Total pageviews of Wikipedia pages created as contract work</td>\n    ".'<td align="right">'.sprintf('%.2f',$paidViewCount)."</td>\n</tr>\n";
+print "<tr>\n    <td>Total pageviews of Wikipedia pages created as contract work</td>\n    ".'<td align="right">'.number_format($paidViewCount,2)."</td>\n</tr>\n";
 print "<tr>\n    <td>Total pageviews of Wikipedia pages created or edited (not necessarily significantly) as contract work</td>\n    ".'<td align="right">'.sprintf('%.2f',$paidCreatedOrEditedPageViewCount)."</td>\n</tr>\n";
 print "<tr>\n    <td>Cost per thousand views of pages created (including only explicit costs for page creation)</td>\n    ".'<td align="right">'.sprintf('%.2f',$costPerThousandViews)."</td>\n</tr>\n";
 print "<tr>\n    <td>Cost per thousand views of pages created (including all task pay)</td>\n".'    <td align="right">'.sprintf('%.2f',$blendedCostPerThousandViews)."</td>\n</tr>\n";

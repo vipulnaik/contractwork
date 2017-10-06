@@ -80,7 +80,7 @@ foreach ($workers as $worker) {
     print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
     foreach ($taskTypes as $taskType) {
       if ($totalPaymentForTaskType[$taskType] > 0) {
-        print '<td align="right">'.sprintf('%.2f',$paymentForTaskTypeAndWorker[$taskType][$worker]).'</td>';
+        print '<td align="right">'.number_format($paymentForTaskTypeAndWorker[$taskType][$worker],2).'</td>';
       }
     }
     print '<td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentForWorker[$worker]).'</strong></td>';

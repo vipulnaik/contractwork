@@ -59,7 +59,7 @@ if ($printTables == true) {
         $closer = "</strong>";
       }
       print "<td>$opener$month$closer</td>";
-      print '<td align="right">'.sprintf('%.2f',$totalTaskPaymentForMonth[$month]).'</td>';
+      print '<td align="right">'.number_format($totalTaskPaymentForMonth[$month],2).'</td>';
       print '<td align="right">'.$opener.sprintf('%.2f',$cumulativePaymentAwardedTillMonth[$month]).$closer.'</td>';
   
       print '<td align="right">'.sprintf('%.2f',$paymentMadeInMonth[$month]).'</td>';

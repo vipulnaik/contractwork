@@ -51,7 +51,7 @@ foreach($taskFormats as $taskFormat) {
   if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
     print "<tr><td>$taskFormat</td>";
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.sprintf('%.2f',$paymentForTaskFormatAndYear[$taskFormat][$year]).'</td>';
+      print '<td align="right">'.number_format($paymentForTaskFormatAndYear[$taskFormat][$year],2).'</td>';
     }
     print '<td align="right">'.sprintf('%.2f',$totalPaymentForTaskFormat[$taskFormat]).'</td>';
     print '</tr>';
