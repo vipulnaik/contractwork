@@ -1,5 +1,5 @@
 <?php
-print '<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8" >';
+include_once('doctype.inc');
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 include_once("backend/stringFunctions.inc");
@@ -99,5 +99,6 @@ if ($workerSelectResult -> num_rows == 0) {
     include("backend/workerPaymentList.inc");
   }
 }
+include_once('anchorjs.inc');
 print '</body>';
 ?>

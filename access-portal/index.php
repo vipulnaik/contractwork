@@ -1,5 +1,5 @@
 <?php
-print '<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8" >';
+include_once('doctype.inc');
 print '<title>Contract work for Vipul Naik</title>';
 include_once('analytics.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
@@ -68,5 +68,7 @@ include ("backend/taskPaymentsDueByTopicAndMonth.inc");
 include ("backend/taskPaymentsDueByVenueAndMonth.inc");
 include ("backend/taskPaymentsDueByFormatAndMonth.inc");
 include ("backend/paymentsDueAndMadeByMonth.inc");
+
+include_once('anchorjs.inc');
 print '</body>';
 ?>
