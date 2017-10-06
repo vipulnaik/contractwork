@@ -8,7 +8,7 @@ $monthList = array("2015-01","2015-02","2015-03","2015-04","2015-05","2015-06","
 
 $taskTypes = array('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry','Task listing','Content migration','Timelines page creation','Timelines page update','Worker onboarding and assistance');
 
-$taskVenues = array('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','None','Donations list website','Timelines wiki');
+$taskVenues = array('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','PredictionBook','Facebook','None');
 
 $taskFormats = array('Timeline','Prose','Table','Code');
 
