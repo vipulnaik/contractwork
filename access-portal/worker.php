@@ -55,11 +55,15 @@ if ($workerSelectResult -> num_rows == 0) {
   print '<li><a href="#workerTaskList">Worker task list</a></li>';
 
   if (show_toc_line($mysqli, $worker, "select commission from commissions where commission_receiver= ? limit 1")) {
-    print '<li><a href="#workerCommissionsOnTasks">Commissions on tasks: breakdown by earner</a></li>';
+    print '<li><a href="#workerCommissionOnTaskList">Commissions on tasks: breakdown by earner</a></li>';
   }
 
   if (show_toc_line($mysqli, $worker, "select * from stipends where payee = ? and stipend_award_date is not null limit 1")) {
-    print '<li><a href="#workerFullStipendsList">Full list of awarded stipends in reverse chronological order</a></li>';
+    print '<li><a href="#workerAwardedStipendList">Full list of awarded stipends in reverse chronological order</a></li>';
+  }
+
+  if (show_toc_line($mysqli, $worker, "select * from stipends where payee = ? and stipend_award_date is null limit 1")) {
+    print '<li><a href="#workerDeferredStipendList">Full list of deferred stipends in reverse chronological order</a></li>';
   }
 
   if (show_toc_line($mysqli, $worker, "select * from royalties where payee = ? limit 1")) {

@@ -4,7 +4,7 @@ $stipendSelectQuery = "select * from stipends where payee=".'"'.str_replace('"',
 
 $stipendSelectResult = $mysqli -> query($stipendSelectQuery);
 
-print '<h4>Full list of deferred stipends in reverse chronological order ('.($stipendSelectResult -> num_rows).' entries)</h4>';
+print '<h4 id="workerDeferredStipendList">Full list of deferred stipends in reverse chronological order ('.($stipendSelectResult -> num_rows).' entries)</h4>';
 print "\n";
 print '<table id="myTableWorkerDeferredStipendList" class="tablesorter">'."\n";
 print "<thead>\n";
