@@ -1,4 +1,18 @@
 <?php
+function show_toc_line($mysqli, $worker, $query) {
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->bind_param("s", $worker);
+    $stmt->execute();
+    // Get result to allow the next query to happen, but we only need the
+    // number of rows so don't bother assigning to a variable
+    $stmt->get_result();
+    if ($mysqli->affected_rows > 0) {
+      return true;
+    }
+  }
+  return false;
+}
+
 include_once('doctype.inc');
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
@@ -39,11 +53,27 @@ if ($workerSelectResult -> num_rows == 0) {
   print '<li><a href="#workerTaskPaymentsDueByFormatAndMonth">Worker task payments due by format and month</a></li>';
   print '<li><a href="#workerPaymentsDueAndMadeByMonth">Worker payments due and made by month</a></li>';
   print '<li><a href="#workerTaskList">Worker task list</a></li>';
-  print '<li><a href="#workerCommissionsOnTasks">Commissions on tasks: breakdown by earner</a></li>';
-  print '<li><a href="#workerFullStipendsList">Full list of awarded stipends in reverse chronological order</a></li>';
-  print '<li><a href="#workerRoyaltyList">Full list of royalties in reverse chronological order</a></li>';
-  print '<li><a href="#workerCommissionOnRoyaltyList">Commissions on royalties</a></li>';
-  print '<li><a href="#workerPaymentList">Full list of received payments in reverse chronological order</a></li>';
+
+  if (show_toc_line($mysqli, $worker, "select commission from commissions where commission_receiver= ? limit 1")) {
+    print '<li><a href="#workerCommissionsOnTasks">Commissions on tasks: breakdown by earner</a></li>';
+  }
+
+  if (show_toc_line($mysqli, $worker, "select * from stipends where payee = ? and stipend_award_date is not null limit 1")) {
+    print '<li><a href="#workerFullStipendsList">Full list of awarded stipends in reverse chronological order</a></li>';
+  }
+
+  if (show_toc_line($mysqli, $worker, "select * from royalties where payee = ? limit 1")) {
+    print '<li><a href="#workerRoyaltyList">Full list of royalties in reverse chronological order</a></li>';
+  }
+
+  if (show_toc_line($mysqli, $worker, "select earner, commission, commission_reason, commission_validity_start, commission_validity_end, coalesce(sum(originalPayment), 0) as originalPayment, coalesce(sum(payment), 0) as payment from (select earner, commission, commission_reason, commission_validity_start, commission_validity_end, commission_receiver, royalty_end_date, payment as originalPayment, (commission * payment) as payment from commissions left join royalties on commissions.earner = royalties.payee where (commission_validity_start is null or royalties.royalty_start_date >= commission_validity_start) and (commission_validity_end is null or royalties.royalty_end_date <= commission_validity_end)) t1 where commission_receiver = ?  group by earner, commission, commission_reason, commission_validity_start, commission_validity_end limit 1")) {
+    print '<li><a href="#workerCommissionOnRoyaltyList">Commissions on royalties</a></li>';
+  }
+
+  if (show_toc_line($mysqli, $worker, "select * from payments where payee = ? and receipt_date is not null limit 1")) {
+    print '<li><a href="#workerPaymentList">Full list of received payments in reverse chronological order</a></li>';
+  }
+
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;
