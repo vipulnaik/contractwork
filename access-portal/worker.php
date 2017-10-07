@@ -39,6 +39,11 @@ if ($workerSelectResult -> num_rows == 0) {
   print '<li><a href="#workerTaskPaymentsDueByFormatAndMonth">Worker task payments due by format and month</a></li>';
   print '<li><a href="#workerPaymentsDueAndMadeByMonth">Worker payments due and made by month</a></li>';
   print '<li><a href="#workerTaskList">Worker task list</a></li>';
+  print '<li><a href="#workerCommissionsOnTasks">Commissions on tasks: breakdown by earner</a></li>';
+  print '<li><a href="#workerFullStipendsList">Full list of awarded stipends in reverse chronological order</a></li>';
+  print '<li><a href="#workerRoyaltyList">Full list of royalties in reverse chronological order</a></li>';
+  print '<li><a href="#workerCommissionOnRoyaltyList">Commissions on royalties</a></li>';
+  print '<li><a href="#workerPaymentList">Full list of received payments in reverse chronological order</a></li>';
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;

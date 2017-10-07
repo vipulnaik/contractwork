@@ -6,7 +6,7 @@ $commissionOnRoyaltyByEarnerSelectQuery = "select earner, commission, commission
 
 $commissionOnRoyaltyByEarnerSelectResult = $mysqli -> query($commissionOnRoyaltyByEarnerSelectQuery);
 
-print '<h4>Commissions on royalties: breakdown by earner</h4>';
+print '<h4 id="workerCommissionOnRoyaltyList">Commissions on royalties: breakdown by earner</h4>';
 print "\n";
 print '<table id="myTableWorkerCommissionOnRoyaltyList" class="tablesorter">'."\n";
 print "<thead>\n";
