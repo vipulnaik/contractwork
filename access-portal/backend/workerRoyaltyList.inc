@@ -4,7 +4,7 @@ $royaltySelectQuery = "select * from royalties where payee=".'"'.str_replace('"'
 
 $royaltySelectResult = $mysqli -> query($royaltySelectQuery);
 
-print '<h4>Full list of royalties in reverse chronological order ('.($royaltySelectResult -> num_rows).' entries)</h4>'."\n";
+print '<h4 id="workerRoyaltyList">Full list of royalties in reverse chronological order ('.($royaltySelectResult -> num_rows).' entries)</h4>'."\n";
 print "\n";
 print '<table id="myTableWorkerRoyaltyList" class="tablesorter">'."\n";
 print "<thead>\n";

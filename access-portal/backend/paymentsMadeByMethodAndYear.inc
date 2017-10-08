@@ -61,4 +61,21 @@ print '    <td align="right"><strong>'.number_format($grandTotal,2)."</strong></
 print "</tr>\n";
 print "</tfoot>\n";
 print "</table>\n";
+
+$graphs = timeSeriesGraphs(
+  $yearList,
+  $paymentMethods,
+  $totalPaymentByYear,
+  $payment,
+  $generateGraphCmdBase,
+  $imagesPath,
+  "https://contractwork.vipulnaik.com/index.php",
+  "#paymentsMadeByMethodAndYear"
+);
+
+print "<p><strong>Graph of payments made by method and year (incremental, not cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+
+print "<p><strong>Graph of payments made by method and year (cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 ?>

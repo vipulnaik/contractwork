@@ -81,4 +81,21 @@ if ($printTables == true) {
   
   print "</tfoot>\n</table>\n";
 }
+
+$graphs = timeSeriesGraphs(
+  $monthList,
+  $taskVenues,
+  $totalTaskPaymentForMonth,
+  $paymentForTaskVenueAndMonth,
+  $generateGraphCmdBase,
+  $imagesPath,
+  "https://contractwork.vipulnaik.com/worker.php",
+  "#workerTaskPaymentsDueByVenueAndMonth"
+);
+
+print "<p><strong>Graph of worker task payments due by venue and month (incremental, not cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+
+print "<p><strong>Graph of worker task payments due by venue and month (cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 ?>

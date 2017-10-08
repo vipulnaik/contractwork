@@ -62,7 +62,7 @@ foreach($topics as $topic) {
     foreach (array_reverse($yearList) as $year) {
       print '<td align="right">'.number_format($paymentForTopicAndYear[$topic][$year],2).'</td>';
     }
-    print '<td align="right">'.sprintf('%.2f',$totalPaymentForTopic[$topic]).'</td>';
+    print '<td align="right">'.number_format($totalPaymentForTopic[$topic],2).'</td>';
     print '</tr>';
   }
 }
@@ -70,9 +70,9 @@ foreach($topics as $topic) {
 print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year]).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
 }
-print '<td align="right"><strong>'.sprintf('%.2f',$grandTotal).'</strong></td>';
+print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 print '</tr>';
 print "</tfoot>\n</table>\n";
 ?>
