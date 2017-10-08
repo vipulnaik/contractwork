@@ -2,7 +2,7 @@
 
 $workerPaymentSelectQuery = "select * from payments where payee=".'"'.str_replace('"','\"',$worker).'"'." and receipt_date is not null order by receipt_date desc";
 $workerPaymentSelectResult = $mysqli -> query($workerPaymentSelectQuery);
-print '<h4>Full list of received payments in reverse chronological order ('.($workerPaymentSelectResult -> num_rows).' payments)</h4>';
+print '<h4 id="workerPaymentList">Full list of received payments in reverse chronological order ('.($workerPaymentSelectResult -> num_rows).' payments)</h4>';
 print "\n";
 print '<table id="myTableWorkerPaymentList" class="tablesorter">'."\n";
 print "<thead>\n";

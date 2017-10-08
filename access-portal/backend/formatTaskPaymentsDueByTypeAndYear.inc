@@ -60,7 +60,7 @@ foreach($taskTypes as $taskType) {
     foreach (array_reverse($yearList) as $year) {
       print '    <td align="right">'.number_format($paymentForTaskTypeAndYear[$taskType][$year],2)."</td>\n";
     }
-    print '    <td align="right">'.sprintf('%.2f',$totalPaymentForTaskType[$taskType])."</td>\n";
+    print '    <td align="right">'.number_format($totalPaymentForTaskType[$taskType],2)."</td>\n";
     print "</tr>\n";
   }
 }
@@ -68,9 +68,9 @@ foreach($taskTypes as $taskType) {
 print "</tbody>\n<tfoot>\n";
 print "<tr>\n    <td><strong>Total</td>\n";
 foreach (array_reverse($yearList) as $year) {
-  print '    <td align="right"><strong>'.sprintf('%.2f',$totalPaymentForYear[$year])."</strong></td>\n";
+  print '    <td align="right"><strong>'.number_format($totalPaymentForYear[$year],2)."</strong></td>\n";
 }
-print '    <td align="right"><strong>'.sprintf('%.2f',$totalTaskPaymentAcrossYears)."</strong></td>\n";
+print '    <td align="right"><strong>'.number_format($totalTaskPaymentAcrossYears,2)."</strong></td>\n";
 print "</tr>\n";
 print "</tfoot>\n</table>\n";
 ?>
