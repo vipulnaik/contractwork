@@ -79,4 +79,21 @@ print '</tr>';
 
 print "</tfoot>\n</table>\n";
 
+$graphs = timeSeriesGraphs(
+  $monthList,
+  $taskTypes,
+  $totalTaskPaymentForMonth,
+  $paymentForTaskTypeAndMonth,
+  $generateGraphCmdBase,
+  $imagesPath,
+  "https://contractwork.vipulnaik.com/worker.php",
+  "#taskPaymentsDueByTypeAndMonth"
+);
+
+print "<p><strong>Graph of task payments due by type and month (incremental, not cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+
+print "<p><strong>Graph of task payments due by type and month (cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+
 ?>
