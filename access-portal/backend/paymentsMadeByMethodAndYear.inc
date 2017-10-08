@@ -62,7 +62,7 @@ print "</tr>\n";
 print "</tfoot>\n";
 print "</table>\n";
 
-$graphs = yearlyGraphs(
+$graphs = timeSeriesGraphs(
   $yearList,
   $paymentMethods,
   $totalPaymentByYear,

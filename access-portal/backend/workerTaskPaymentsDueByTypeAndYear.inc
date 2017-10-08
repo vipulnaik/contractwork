@@ -67,7 +67,7 @@ print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>'
 print '</tr>';
 print "</tfoot>\n</table>\n";
 
-$graphs = yearlyGraphs(
+$graphs = timeSeriesGraphs(
   $yearList,
   $taskTypes,
   $totalPaymentForYear,

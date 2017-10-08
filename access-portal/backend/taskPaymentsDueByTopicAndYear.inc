@@ -80,7 +80,7 @@ print '<td align="right"><strong>'.number_format($totalTaskPaymentAcrossYears,2)
 print '</tr>';
 print "</tfoot>\n</table>\n";
 
-$graphs = yearlyGraphs(
+$graphs = timeSeriesGraphs(
   $yearList,
   $topics,
   $totalPaymentForYear,
