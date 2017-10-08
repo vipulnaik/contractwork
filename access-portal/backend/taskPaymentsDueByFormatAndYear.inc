@@ -80,6 +80,6 @@ $graphs = yearlyGraphs(
 print "<p><strong>Graph of task payments due by format and year (incremental, not cumulative)</strong></p>";
 print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of task payments due by format and yearr (cumulative)</strong></p>";
+print "<p><strong>Graph of task payments due by format and year (cumulative)</strong></p>";
 print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 ?>
