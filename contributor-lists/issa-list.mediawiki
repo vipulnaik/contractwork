@@ -245,7 +245,7 @@ Total so far: $31000
 
 === TODO ===
 
-Next payment update planned date for cleaning up TODO: 2017-10-21
+Next payment update planned date for cleaning up TODO: 2017-11-03
 
 Still working:
 
@@ -263,7 +263,9 @@ Still working:
 
 * Timeline of economic statistics
 
-Also pending payment for when it reaches a logical point: Work on devec.subwiki.org
+* contractwork.vipulnaik.com updates (one round done, some more work remaining)
+
+* Work on devec.subwiki.org
 
 == Work and other compensation in 2016 ==
 
