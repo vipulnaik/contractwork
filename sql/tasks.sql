@@ -1,7 +1,7 @@
 create table tasks(
   task_id int(11) not null auto_increment primary key, 
   worker varchar(40),
-  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','PredictionBook','Facebook','None') default 'Wikipedia',
+  task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','PredictionBook','Facebook', 'Devec subwiki', 'Demography subwiki', 'None') default 'Timelines wiki',
   task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry','Task listing','Content migration','Timelines page creation','Timelines page update','Worker onboarding and assistance','On-the-ground investigation'),
   task_receptacle varchar(200) NOT NULL,
   task_receptacle_url varchar(200) NOT NULL,
@@ -12,7 +12,8 @@ create table tasks(
   notes varchar(2000) DEFAULT NULL,
   private boolean DEFAULT false,
   language enum('en','es','ru','de','ja','fr','zh','it','pl','pt','nl','id','tr','ar','cs','sv','fa','ko','fi','uk','hu','th','bg','vi','he','av','no','az','ro','da','el','ca','sr','hr','simple','sk','kk','lt','bs','et','hi','sl','sh','af','ms','ka','tl','lv','hy','ta','sq','eu','bi','zh-yue','eo','mk','bn','gl','ml','ur','an','be','nn','te','ak','la','arz','mr','is','mn','war','ceb','cy','oc','kn','bug','br','uz','sco','ast','lb','ky','als','zh-min-nan','si','ga','jv','sw','fy','tt','io','ckb','pa','bar','ne','ba','scn','as','am','pnb','ku','wuu','nds','yi','ia','my','bm','qu','gu','su','yo','tg','lmo','mg','fo','ilo','vo','so','li','bh','cv','pms','ps','or','gd','new','ht','ce','vec','sa','diq','hsb','sah','frr','zh-classical','nah','nds-nl','bat-smg','os','ang','hak','hif','km','wa','gv','pam','mzn','gan','nap','lad','gn','bpy','vls','fiu-vro','tk','dsb','rue','mhr','map-bms','eml','szl','se','ext','stq','cdo','bo','min','sc','co','mt','bcl','sd','ksh','frp','vep','csb','nrm','lo','ug','lij','mai','kw','pap','fur','bxr','ace','dv','ie','kv','mi','crh','cbk-zam','ay','zea','rm','ln','krc','mwl','pdc','mrj','lez','udm','rw','pcd','kab','myv','arc','jbo','xal','nov','roa-tara','sn','bjn','ig','kaa','kl','nv','nso','pag','wo','tpi','roa-rup','chr','haw','na','tet','gom','za','kbd','ab','pi','cu','zu','iu','kg','ts','koi','mdf','pih','ch','om','sm','ki','lbe','ha','pnt','tyv','rmy','srn','tw','xh','chy','ss','ltg','ee','ty','got','ny','glk','dz','ik','tum','st','to','fj','ff','sg','tn','ti','lg','ks','rn','mo','ve','cr','kr','ng','aa','cho','mus','hz','mh','kj','ho','ii') COLLATE utf8_unicode_ci DEFAULT 'en',
-  payer enum('Vipul Naik', 'Peter Hurford') default 'Vipul Naik'
+  payer enum('Vipul Naik', 'Peter Hurford') default 'Vipul Naik',
+  minutes_spent int(11) DEFAULT NULL
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 # -- Milo King's Wikipedia page updates
@@ -516,6 +517,12 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com','2017-08-12',325,'Philanthropy/tabular presentation','Code','See commits by riceissa from 2017-08-04 to 2017-08-12. Work was for 6.5 working days, spanning 8.5 calendar days'),
   ('Issa Rice','PredictionBook','Data entry','Open Philanthropy Predictions','https://predictionbook.com/users/OpenPhilUnofficial','2017-08-29',74,'Philanthropy','Predictions','Payment of $30 base and $44 for predictions, with $40 for two-way predictions and $4 for more complex predictions. See also the GitHub repository https://github.com/riceissa/open-phil-predictions for more background'),
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com','2017-09-30',200,'Philanthropy/tabular presentation','Code','See commits from September 28 to September 30 by Issa Rice, specifically https://github.com/vipulnaik/donations/commits?author=riceissa&since=2017-09-28T07:00:00Z&until=2017-10-01T07:00:00Z for the full list. This included incorporating data from the Effective Altruism Survey (separate repository https://github.com/riceissa/ea-survey-donations with 12 commits) and Effective Altruism Grants (separate repository https://github.com/riceissa/ea-grants-processing/commits?author=riceissa&since=2017-09-01T07:00:00Z&until=2017-10-01T07:00:00Z with 6 commits)');
+
+# -- Issa Rice payments, with time clocked
+# -- Other payments to Issa Rice
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
+  ('Issa Rice','Contract work for Vipul Naik','Coding','Contract work for Vipul Naik','https://contractwork.vipulnaik.com','2017-10-07',135,'Graphical presentation', 'Code','Code written to generate graphs of incremental and cumulative payments by various drilldowns plotted at yearly and monthly granularity. See pull requests https://github.com/vipulnaik/contractwork/pull/10 https://github.com/vipulnaik/contractwork/pull/11 https://github.com/vipulnaik/contractwork/pull/12 or look at the commits made in https://github.com/riceissa/contractwork/tree/misc-2017-10 (a fork where the commits were made)', 529),
+  ('Issa Rice','Devec subwiki','Preliminary research','Devec subwiki','https://devec.subwiki.org','2017-10-07',300,'Global development','Notes','This is a stipend supplement. Preliminary reading on development economics as well as databases of economic growth and metrics. This would eventually help with data porting exercises and expanding https://devec.subwiki.org (the Devec subwiki)', 6780);
 
 # -- Issa Rice tasks paid for by Peter Hurford
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
