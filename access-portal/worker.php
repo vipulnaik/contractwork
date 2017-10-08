@@ -17,7 +17,7 @@ include_once('doctype.inc');
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 include_once("backend/stringFunctions.inc");
-include_once("backend/yearlyGraph.inc");
+include_once('backend/graphing.inc');
 $worker = 'Issa Rice';
 if (!empty($_REQUEST['worker'])) {
   $worker = $_REQUEST['worker'];

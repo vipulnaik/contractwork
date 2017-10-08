@@ -64,7 +64,7 @@ if ($printTables == true) {
   print "</tfoot>\n</table>\n";
 }
 
-$graphs = yearlyGraphs(
+$graphs = timeSeriesGraphs(
   $yearList,
   $paymentMethods,
   $totalPaymentMadeByYear,

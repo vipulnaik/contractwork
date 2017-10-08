@@ -1,14 +1,31 @@
 <?php
 
-function yearlyGraphs($years, $group, $yearDonationAmount,
-    $donationAmountByGroupAndYear, $generateGraphCmdBase, $imagesPath,
+function timeSeriesGraphs($timePeriods, $group, $timePeriodAmount,
+    $amountByGroupAndTimePeriod, $generateGraphCmdBase, $imagesPath,
     $permalinkUrlBase, $graphIdentifier) {
   $cumulativeTotal = 0;
   $cumulativeForGroup = array();
-  $dataForGraph = "Year";
-  $dataForCumulativeGraph = "Year";
-  $yearsCopy = $years;
-  sort($yearsCopy);
+
+  // If a dash is present in the first time period, like "2010-01", then
+  // consider the graph to be monthly, otherwise default to yearly
+  if (strpos($timePeriods[0], "-") === false) {
+    $dataForGraph = "Year";
+    $dataForCumulativeGraph = "Year";
+  } else {
+    $dataForGraph = "Month";
+    $dataForCumulativeGraph = "Month";
+  }
+
+  $timePeriodsCopy = $timePeriods;
+  $groupCopy = $group;
+  sort($timePeriodsCopy);
+
+  // Remove group elements that are zero across all time periods
+  foreach ($groupCopy as $g) {
+    if (array_sum($amountByGroupAndTimePeriod[$g]) == 0) {
+      $group = array_diff($group, array($g));
+    }
+  }
 
   foreach ($group as $i) {
     $dataForGraph .= "|$i";
@@ -17,23 +34,23 @@ function yearlyGraphs($years, $group, $yearDonationAmount,
   $dataForGraph .= "|Total\n";
   $dataForCumulativeGraph .= "|Total\n";
 
-  /* Populate all the yearly rows */
-  foreach ($yearsCopy as $year) {
-    if (($yearDonationAmount[$year] ?? 0) != 0) {
-      $dataForGraph .= "$year";
-      $dataForCumulativeGraph .= "$year";
+  /* Populate all the rows for each time period */
+  foreach ($timePeriodsCopy as $p) {
+    if (($timePeriodAmount[$p] ?? 0) != 0) {
+      $dataForGraph .= "$p";
+      $dataForCumulativeGraph .= "$p";
       foreach ($group as $i) {
         if (!isset($cumulativeForGroup[$i])) {
           $cumulativeForGroup[$i] = 0;
         }
-        $cumulativeForGroup[$i] += ($donationAmountByGroupAndYear[$i][$year] ?? 0);
+        $cumulativeForGroup[$i] += ($amountByGroupAndTimePeriod[$i][$p] ?? 0);
         $dataForGraph .= "|" .
-          sprintf("%d", $donationAmountByGroupAndYear[$i][$year] ?? 0);
+          sprintf("%d", $amountByGroupAndTimePeriod[$i][$p] ?? 0);
         $dataForCumulativeGraph .= "|" .
           sprintf("%d", $cumulativeForGroup[$i] ?? 0);
       }
-      $cumulativeTotal += $yearDonationAmount[$year];
-      $dataForGraph .= "|" . sprintf("%d", $yearDonationAmount[$year]) . "\n";
+      $cumulativeTotal += $timePeriodAmount[$p];
+      $dataForGraph .= "|" . sprintf("%d", $timePeriodAmount[$p]) . "\n";
       $dataForCumulativeGraph .= "|" . sprintf("%d", $cumulativeTotal) . "\n";
     }
   }

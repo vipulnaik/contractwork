@@ -3,7 +3,7 @@ include_once('doctype.inc');
 print '<title>Contract work for Vipul Naik</title>';
 include_once('analytics.inc');
 include_once('strip-commas.inc');
-include_once('backend/yearlyGraph.inc');
+include_once('backend/graphing.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
 print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
 print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
