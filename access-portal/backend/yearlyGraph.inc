@@ -8,7 +8,15 @@ function yearlyGraphs($years, $group, $yearDonationAmount,
   $dataForGraph = "Year";
   $dataForCumulativeGraph = "Year";
   $yearsCopy = $years;
+  $groupCopy = $group;
   sort($yearsCopy);
+
+  // Remove group elements that are zero across all years
+  foreach ($groupCopy as $g) {
+    if (array_sum($donationAmountByGroupAndYear[$g]) == 0) {
+      $group = array_diff($group, array($g));
+    }
+  }
 
   foreach ($group as $i) {
     $dataForGraph .= "|$i";
