@@ -267,9 +267,7 @@ Still working:
 
 * Timeline of economic statistics
 
-* contractwork.vipulnaik.com updates (one round done, some more work remaining)
-
-* Work on devec.subwiki.org
+* Touch payment for contacts related to Devec
 
 == Work and other compensation in 2016 ==
 
