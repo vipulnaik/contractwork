@@ -158,6 +158,10 @@ Completed:
 
 * Timeline of hygiene
 
+* Timeline of Slack
+
+* Timeline of Stripe
+
 Updated:
 
 * Timeline of waste management: Added visual data
@@ -168,9 +172,9 @@ Updated:
 
 * Timeline of malaria: 2 events added
 
-Still working or not yet started:
+* Timeline of CRISPR
 
-* Timeline of Slack
+Still working or not yet started:
 
 * Timeline of GiveWell
 
