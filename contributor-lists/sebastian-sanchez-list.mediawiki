@@ -162,6 +162,10 @@ Completed:
 
 * Timeline of Stripe
 
+* Timeline of water treatment
+
+* Timeline of water supply
+
 Updated:
 
 * Timeline of waste management: Added visual data
@@ -180,11 +184,7 @@ Still working or not yet started:
 
 * Timeline of universal healthcare
 
-* Timeline of water supply
-
 * Timeline of irrigation
-
-* Timeline of water treatment
 
 * Timeline of nuclear waste management
 
