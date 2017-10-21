@@ -154,8 +154,6 @@ Completed:
 
 * Timeline of Slack
 
-* Timeline of Stripe
-
 * Timeline of sanitation
 
 * Timeline of water treatment
@@ -183,6 +181,10 @@ Updated:
 * Timeline of plague
 
 * Timeline of senescence research
+
+Returned with feedback:
+
+* Timeline of Stripe
 
 Still working or not yet started (so no payment to be added in current cycle):
 
