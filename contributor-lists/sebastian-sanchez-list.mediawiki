@@ -152,19 +152,19 @@ Next payment update planned date for cleaning up TODO: 2017-10-21 or earlier
 
 Completed:
 
-* Timeline of sanitation
-
-* Timeline of malaria in 2015
-
-* Timeline of hygiene
-
 * Timeline of Slack
 
 * Timeline of Stripe
 
+* Timeline of sanitation
+
 * Timeline of water treatment
 
 * Timeline of water supply
+
+* Timeline of malaria in 2015
+
+* Timeline of hygiene
 
 Updated:
 
