@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $7207
+Total money earned as income: $8175
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $12289.24
 
-Net payment due: ($5592.61)
+Net payment due: ($4624.61)
 
 === Completed pages (Wikipedia) ===
 
@@ -48,7 +48,7 @@ Total so far: $1065
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $3046
+Total so far: $3931
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health Timeline of the National Institutes of Health]: $250. Completed April 3, 2017. Includes 29 graphs (1 cumulative, 28 for the individual institutes).
 
@@ -88,6 +88,18 @@ Total so far: $3046
 
 * [https://timelines.issarice.com/wiki/Timeline_of_roads Timeline of roads]: $171. Completed August 29, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_roads&oldid=17067 (32589 bytes, 2017-08-29 19:52 UTC)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_Slack Timeline of Slack]: $140. Completed October 16, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Slack&oldid=17697 (45392 bytes, 2017-10-17 00:39 UTC, 39 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_sanitation Timeline of sanitation]: $200. Completed September 28, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_sanitation&oldid=17334 (40165 bytes, 2017-09-28 20:25 UTC)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_water_treatment Timeline of water treatment]: $160. Completed September 29, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_water_treatment&oldid=17375 (31859 bytes, 2017-09-29 18:08 UTC)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_water_supply Timeline of water supply]: $115. Completed September 29, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_water_supply&oldid=17372 (22484 bytes, 2017-09-29 17:25 UTC)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2015 Timeline of malaria in 2015]: $133. Completed September 27, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2015&oldid=17316 (28633 bytes, 2017-09-27 21:30 UTC)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_hygiene Timeline of hygiene]: $137. Completed October 21, 2017. Competed version at https://timelines.issarice.com/index.php?title=Timeline_of_hygiene&oldid=17796 (26861 bytes, 2017-10-21 18:38 UTC)
+
 === Completed pages paid for by Peter (Timelines wiki) ===
 
 Total so far: $900
@@ -116,7 +128,7 @@ Total so far: $190
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $336
+Total so far: $419
 
 * More rows added to timeline of typhoid fever: $25. Completed April 5, 2017.
 
@@ -140,6 +152,18 @@ Total so far: $336
 
 * Additions to timeline of malaria: $20. Completed July 19, 2017. This covers expansions after June 25, 2017 and till July 19, 2017. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=15860&oldid=15109 for the relevant diff
 
+* Additions to timeline of waste management: $8. Completed September 26, 2017. Two new graphs added. See https://timelines.issarice.com/index.php?title=Timeline_of_waste_management&type=revision&diff=17269&oldid=17062 for the diff
+
+* Additions to timeline of healthcare in Ethiopia: $10. Completed August 22, 2017. Four events added. See https://timelines.issarice.com/index.php?title=Timeline_of_healthcare_in_Ethiopia&type=revision&diff=16948&oldid=13342 for the diff
+
+* Additions to timeline of hospitals: $3. Completed October 14, 2017. One event added. See https://timelines.issarice.com/index.php?title=Timeline_of_hospitals&type=revision&diff=17630&oldid=11849 for the diff
+
+* Additions to timeline of malaria: $5. Completed August 23, 2017. Two events added. See https://timelines.issarice.com/index.php?title=Timeline_of_malaria&type=revision&diff=17001&oldid=15860 for the diff
+
+* Additions to timeline of CRISPR: $12. Completed October 22, 2017. Five events added. See https://timelines.issarice.com/index.php?title=Timeline_of_CRISPR&type=revision&diff=17842&oldid=14655 for the diff
+
+* Additions to timeline of bladder cancer: $45. Completed October 13, 2017. See https://timelines.issarice.com/index.php?title=Timeline_of_bladder_cancer&type=revision&diff=17616&oldid=11902 for the diff
+
 === Other work for Peter ===
 
 Total so far: $570
@@ -148,39 +172,7 @@ Total so far: $570
 
 === TODO ===
 
-Next payment update planned date for cleaning up TODO: 2017-10-21 or earlier
-
-Completed:
-
-* Timeline of Slack (tentative pay: $140, incl. 1 graph)
-
-* Timeline of sanitation (tentative pay: $200)
-
-* Timeline of water treatment (tentative pay: $160)
-
-* Timeline of water supply (tentative pay: $115)
-
-* Timeline of malaria in 2015 (tentative pay: $135)
-
-* Timeline of hygiene (tentative pay: $137)
-
-Updated:
-
-* Timeline of waste management: Added visual data
-
-* Timeline of healthcare in Ethiopia: 4 events added
-
-* Timeline of hospitals: 1 event added
-
-* Timeline of malaria: 2 events added
-
-* Timeline of CRISPR
-
-* Timeline of bladder cancer
-
-* Timeline of plague
-
-* Timeline of senescence research
+Next pament: 2017-11-25 or later
 
 Returned with feedback:
 
