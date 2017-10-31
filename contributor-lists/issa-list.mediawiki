@@ -266,7 +266,15 @@ Total so far: $31000
 
 Next payment update planned date for cleaning up TODO: 2017-12-02
 
-Should add by default:
+The following will be added on completion or a mutually agreed upon milestone reached, regardless of planned update date above:
+
+* Completion of phase I work on AI safety project (started)
+
+* Next round of devec work (started)
+
+* Next round of devec data portal work (not yet started)
+
+The following will be added by default on the planned update date:
 
 * Timeline of Bitcoin (pseudo-complete, but lots of pieces to be added)
 
