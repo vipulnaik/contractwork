@@ -266,6 +266,22 @@ Total so far: $31000
 
 Next payment update planned date for cleaning up TODO: 2017-12-02
 
+Previous completed tasks for which payment wasn't added:
+
+* Translating list of pages in a bunch of tags to other languages: $150 agreed. Quote from chat: """"did finnish cities, usual 4
+did japanese, usual 4
+onto musicians
+did japanese, no drake, romeo santos, sia
+did french, no drake or sia
+did spanish, no drake or sia
+did german, no drake or sia
+did italian, no drake or sia
+did dutch, no drake, romeo santos, sia
+did polish, same 3 as dutch
+did russian, drake and sia"""
+
+* Automatic archival of Wikipedia pages: $4 per week, from November 28, 2016 onward.
+
 The following will be added on completion or a mutually agreed upon milestone reached, regardless of planned update date above:
 
 * Completion of phase I work on AI safety project (started)
@@ -283,6 +299,10 @@ The following will be added by default on the planned update date:
 This might get added earlier or later depending on active work state. Vipul is currently doing some edits on the timeline:
 
 * Timeline of economic statistics
+
+Tasks to add pay for, but not in the forthcoming TODO:
+
+* Add one year's pay for Timelines wiki maintenance, at $20/month plus additional pay for work done on Timelines wiki feature enhancement. This will be paid out around the end of March 2017.
 
 == Work and other compensation in 2016 ==
 
