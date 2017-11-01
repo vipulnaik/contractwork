@@ -46,7 +46,6 @@ if ($workerSelectResult -> num_rows == 0) {
   print '<li><a href="#workerTaskPaymentsDueByTopicAndYear">Worker task payments due by topic and year</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByVenueAndYear">Worker task payments due by venue and year</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByFormatAndYear">Worker task payments due by format and year</a></li>';
-  print '<li><a href="#workerImpact">Worker impact</a></li>';
   print '<li><a href="#workerPaymentsDueByTypeAndMonth">Worker payments due by type and month</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByTypeAndMonth">Worker task payments due by type and month</a></li>';
   print '<li><a href="#workerTaskPaymentsDueByTopicAndMonth">Worker task payments due by topic and month</a></li>';
@@ -89,7 +88,6 @@ if ($workerSelectResult -> num_rows == 0) {
   include("backend/workerTaskPaymentsDueByTopicAndYear.inc");
   include("backend/workerTaskPaymentsDueByVenueAndYear.inc");
   include("backend/workerTaskPaymentsDueByFormatAndYear.inc");
-  include("backend/workerImpact.inc");
   include("backend/workerPaymentsDueByTypeAndMonth.inc");
   include("backend/workerTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/workerTaskPaymentsDueByTopicAndMonth.inc");
