@@ -26,7 +26,7 @@ for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
   }
   print '<td>'.$row['stipend_award_date'].'</td>';
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
-  print '<td>'.$row['notes'].'</td>';
+  print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
 }
 print "</tbody>\n</table>\n";
