@@ -19,7 +19,9 @@ create table workers(
   patreon_username varchar(40),
   predictionbook_username varchar(40),
   github_username varchar(40),
+  linkedin_username varchar(40),
   worker_file varchar(100),
+  worker_own_file varchar(100),
   unique key worker(`worker`)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
@@ -58,6 +60,12 @@ update workers set eaf_username='JesseClifton' where worker = 'Jesse Clifton';
 update workers set github_username='riceissa' where worker = 'Issa Rice';
 update workers set github_username='aviglozman' where worker = 'Avi Glozman';
 update workers set github_username='ethanbas' where worker = 'Ethan Bashkansky';
+
+# -- LinkedIn usernames
+update workers set linkedin_username='issarice' where worker='Issa Rice';
+update workers set linkedin_username='ethan-bashkansky-56166766' where worker='Ethan Bashkansky';
+update workers set linkedin_username='sebastián-sánchez-7b77968a' where worker='Sebastian Sanchez';
+update workers set linkedin_username='jesse-clifton-45652758' where worker='Jesse Clifton';
 
 # -- Worker file insertions
 update workers set worker_file = 'milo-list.mediawiki' where worker = 'Milo King';

@@ -36,6 +36,10 @@ if ($row['twitter_username'] != '') {
 if ($row['github_username'] != '') {
   print '<tr><td>GitHub username</td><td><a href="https://github.com/'.$row['github_username'].'">'.$row['github_username'].'</a></td></tr>';
 }
+if ($row['linkedin_username'] != '') {
+  print '<tr><td>LinkedIn username</td><td><a href="https://www.linkedin.com/in/'.$row['linkedin_username'].'/">'.$row['linkedin_username'].'</a></td></tr>';
+}
+
 if ($row['lesswrong_username'] != '') {
   print '<tr><td>LessWrong username</td><td><a href="http://lesswrong.com/user/'.$row['lesswrong_username'].'">'.$row['lesswrong_username'].'</a></td></tr>';
 }
