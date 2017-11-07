@@ -125,7 +125,8 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   # -- Alex K. Chen
   ('Check','Alex K. Chen',NULL,'2015-12-26','2015-12-31','2016-01-06','2016-01-06',7100,7100,0,7100),
   ('Check','Alex K. Chen',NULL,'2017-01-07','2017-01-13','2017-01-19','2017-01-19',4000,4000,0,4000),
-
+  ('Venmo','Alex K. Chen',NULL,'2017-11-06','2017-11-06','2017-11-06','2017-11-06',-624.50,-624.50,0,-624.50),
+  
   # -- Milo King
   ('Debit card via Facebook','Milo King',NULL,'2016-12-13','2016-12-13','2016-12-13','2016-12-13',205,205,0,205),
 

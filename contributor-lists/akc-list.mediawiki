@@ -36,7 +36,9 @@ Pending payment from 2016: $3373
 
 Payment made: $4000 (check deposited January 19)
 
-Net pending payment: ($624.50)
+Return payment received: $624.50 (made via Venmo November 6)
+
+Net pending payment: 0
 
 === Commissions ===
 
