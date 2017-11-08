@@ -45,8 +45,8 @@ for($i = 0; $i < $workerTaskSelectResult -> num_rows; $i++) {
     print '<td align="right">'.$hoursSpent.":".sprintf("%02d",$residualMinutesSpent).'</td>';
     print '<td align="right">'.number_format($row['payment'] * 60/ $row['minutes_spent'], 2).'</td>';
   } else {
-    print '<td align="right">--</td>';
-    print '<td align="right">--</td>';
+    print '<td align="right"></td>';
+    print '<td align="right"></td>';
   }
   print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';

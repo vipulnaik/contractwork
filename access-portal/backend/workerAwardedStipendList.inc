@@ -33,22 +33,22 @@ for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
   if (isset($row['hours_logged']) && $row['hours_logged'] != '') {
     print '<td align="right">'.$row['hours_logged'].'</td>';
   } else {
-    print '<td align="right">--</td>';
+    print '<td align="right"></td>';
   }
   if (isset($row['total_work_hours']) && $row['total_work_hours'] != '') {
     print '<td align="right">'.$row['total_work_hours'].'</td>';
   } else {
-    print '<td align="right">--</td>';
+    print '<td align="right"></td>';
   }
   if (isset($row['hours_logged']) && $row['hours_logged'] != '') {
     print '<td align="right">'.number_format($row['payment'] / $row['hours_logged'], 2).'</td>';
   } else {
-    print '<td align="right">--</td>';
+    print '<td align="right"></td>';
   }
   if (isset($row['total_work_hours']) && $row['total_work_hours'] != '') {
     print '<td align="right">'.number_format($row['payment'] / $row['total_work_hours'], 2).'</td>';
   } else {
-    print '<td align="right">--</td>';
+    print '<td align="right"></td>';
   }
   print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
