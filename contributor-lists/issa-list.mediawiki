@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $30393.10
+Total money earned by doing work (taxable as income for 2017): $30693.10
 
 Payment made: $31000
 
 Carryover payment due from 2016: $4833.31
 
-Net payment due: $4226.41
+Net payment due: $4526.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -140,7 +140,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $3612
+Total so far: $3912
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -193,6 +193,10 @@ Total so far: $3612
 * Preliminary research in development economics: $300. Completed October 7, 2017. This is a stipend supplement. Preliminary reading on development economics as well as databases of economic growth and metrics. This would eventually help with data porting exercises and expanding https://devec.subwiki.org (the Devec subwiki).
 
 * First round of work on data gathering from the Devec data portal: $700. Completed October 30, 2017. Most of the work was done between ? and ?. Outputs are at https://github.com/riceissa/maddison-project-data https://github.com/riceissa/penn-world-table-data https://github.com/riceissa/world-development-indicators https://github.com/riceissa/total-economy-database https://github.com/riceissa/fred-processing Total time spent is about 71 hours and 48 minutes.
+
+* [https://aiwatch.issarice.com/ Phase 1 of work on AI Watch portal]: $150. Completed November 7, 2017.
+
+* Tag page list translation to other languages: $150. Completed November 8, 2017. From chat logs: did finnish cities, usual 4, did japanese, usual 4,, onto musicians, did japanese, no drake, romeo santos, sia, did french, no drake or sia, did spanish, no drake or sia, did german, no drake or sia, did italian, no drake or sia, did dutch, no drake, romeo santos, sia, did polish, same 3 as dutch, did russian, drake and sia".
 
 === Stipends ===
 
