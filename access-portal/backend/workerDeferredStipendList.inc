@@ -11,6 +11,10 @@ print "<thead>\n";
 print '<tr>';
 print '<th>Stipend period</th>';
 print '<th>Payment</th>';
+print '<th>Hours logged</th>';
+print '<th>Total work hours</th>';
+print '<th>Effective hourly pay using hours logged</th>';
+print '<th>Effective hourly pay using total work hours</th>';
 print '<th>Notes</th>';
 print '</tr>';
 print "</thead>\n<tbody>\n";
@@ -24,6 +28,26 @@ for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
     print '–'.$row['stipend_end_date'].'</td>';
   }
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
+  if (isset($row['hours_logged']) && $row['hours_logged'] != '') {
+    print '<td align="right">'.$row['hours_logged'].'</td>';
+  } else {
+    print '<td align="right">--</td>';
+  }
+  if (isset($row['total_work_hours']) && $row['total_work_hours'] != '') {
+    print '<td align="right">'.$row['total_work_hours'].'</td>';
+  } else {
+    print '<td align="right">--</td>';
+  }
+  if (isset($row['hours_logged']) && $row['hours_logged'] != '') {
+    print '<td align="right">'.number_format($row['payment'] / $row['hours_logged'], 2).'</td>';
+  } else {
+    print '<td align="right">--</td>';
+  }
+  if (isset($row['total_work_hours']) && $row['total_work_hours'] != '') {
+    print '<td align="right">'.number_format($row['payment'] / $row['total_work_hours'], 2).'</td>';
+  } else {
+    print '<td align="right">--</td>';
+  }
   print '<td>'.$row['notes'].'</td>';
   print '</tr>';
 }
