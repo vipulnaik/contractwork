@@ -40,7 +40,7 @@ for($i = 0; $i < $workerTaskSelectResult -> num_rows; $i++) {
   print '<td><a href="/topic.php?topic='.urlencode($row['topic']).'">'.$row['topic'].'</a></td>';
   print '<td><a href="/format.php?format='.urlencode($row['format']).'">'.$row['format'].'</a></td>';
   if (isset($row['minutes_spent']) && $row['minutes_spent'] != '') {
-    $hoursSpent = round($row['minutes_spent']/60);
+    $hoursSpent = floor($row['minutes_spent']/60);
     $residualMinutesSpent = $row['minutes_spent'] - ($hoursSpent * 60);
     print '<td align="right">'.$hoursSpent.":".sprintf("%02d",$residualMinutesSpent).'</td>';
     print '<td align="right">'.number_format($row['payment'] * 60/ $row['minutes_spent'], 2).'</td>';
