@@ -15,7 +15,7 @@ print '<th>Payer</th>';
 print '<th>Payment</th>';
 print '<th>Topic</th>';
 print '<th>Format</th>';
-print '<th>Time spent</th>';
+print '<th>Time spent (hours:minutes)</th>';
 print '<th>Effective pay per hour</th>';
 print '<th>Notes</th>';
 print '</tr>';
