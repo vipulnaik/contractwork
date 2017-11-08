@@ -10,7 +10,7 @@ $taskTypes = array('Wikipedia page creation','Wikipedia page update','Wikipedia 
 
 $taskVenues = array('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','PredictionBook','Facebook', 'Devec subwiki', 'Demography subwiki', 'None');
 
-$taskFormats = array('Timeline','Prose','Table','Code','Photos/videos + notes','Code and data','Communication','Email');
+$taskFormats = array('Timeline','Prose','Table','Code','Photos/videos + notes','Code and data','Communication with Vipul','Communication with worker','Email');
 
 $topics = array('Health','Global health','Country healthcare','Animal welfare','Technology','Philanthropy','People','Wikipedia','United States taxation','United States migration','United States politics','Political philosophy','Digital preservation','Artificial intelligence','Poverty','Government','GiveWell');
 
