@@ -16,6 +16,8 @@ print '<th>Payer</th>';
 print '<th>Payment</th>';
 print '<th>Topic</th>';
 print '<th>Format</th>';
+print '<th>Time spent</th>';
+print '<th>Effective pay per hour</th>';
 print '<th>Notes</th>';
 print '</tr>';
 print "</thead>\n<tbody>\n";
@@ -39,6 +41,15 @@ for($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
   print '<td>'.$row['topic'].'</td>';
   print '<td>'.$row['format'].'</td>';
+  if (isset($row['minutes_spent']) && $row['minutes_spent'] != '') {
+    $hoursSpent = floor($row['minutes_spent']/60);
+    $residualMinutesSpent = $row['minutes_spent'] - ($hoursSpent * 60);
+    print '<td align="right">'.$hoursSpent.":".sprintf("%02d",$residualMinutesSpent).'</td>';
+    print '<td align="right">'.number_format($row['payment'] * 60/ $row['minutes_spent'], 2).'</td>';
+  } else {
+    print '<td align="right"></td>';
+    print '<td align="right"></td>';
+  }
   print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
 }
