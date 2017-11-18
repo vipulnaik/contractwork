@@ -84,7 +84,7 @@ Total so far: $1345
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Cato_Institute Timeline of Cato Institute]: $135. Completed August 31, 2017, with 81 rows. Still needs some big picture expansion and more event completion. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Cato_Institute&oldid=17072
 
-* [https://timelines.issarice.com/wiki/Timeline_of_friendly_artificial_intelligence Timeline of friendly artificial intelligence]: $170. Completed October 31, 2017, with 83 rows. Still missing a big picture. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_friendly_artificial_intelligence&oldid=18070
+* [https://timelines.issarice.com/wiki/Timeline_of_AI_safety Timeline of AI safety]: $170. Completed October 31, 2017, with 83 rows. Still missing a big picture. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_AI_safety&oldid=18070
 
 === Tasks for Peter Hurford ===
 
