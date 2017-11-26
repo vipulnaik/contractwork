@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 === Summary ===
 
-Total money earned as income: $8624
+Total money earned as income: $10093
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $12289.24
 
-Net payment due: ($4175.61)
+Net payment due: ($2706.61)
 
 === Completed pages (Wikipedia) ===
 
@@ -48,7 +48,7 @@ Total so far: $1065
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $3931
+Total so far: $35286
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health Timeline of the National Institutes of Health]: $250. Completed April 3, 2017. Includes 29 graphs (1 cumulative, 28 for the individual institutes).
 
@@ -146,7 +146,7 @@ Total so far: $190
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $419
+Total so far: $533
 
 * More rows added to timeline of typhoid fever: $25. Completed April 5, 2017.
 
@@ -188,7 +188,7 @@ Total so far: $419
 
 * [https://timelines.issarice.com/wiki/Timeline_of_tuberculosis Timeline of tuberculosis]: $10. Completed November 20, 2017. See diff at https://timelines.issarice.com/index.php?title=Timeline_of_tuberculosis&type=revision&diff=18603&oldid=13490
 
-* [https://timelines.issarice.com/wiki/Timeline_of_water_treatment Timeline of water treatment]: $51. Completed Novermber 18, 2017. Added 17 graphs. See https://timelines.issarice.com/index.php?title=Timeline_of_water_treatment&type=revision&diff=18559&oldid=17375 for the diff
+* [https://timelines.issarice.com/wiki/Timeline_of_water_treatment Timeline of water treatment]: $51. Completed Novermber 18, 2017. Added 17 graphs. See diff at ttps://timelines.issarice.com/index.php?title=Timeline_of_water_treatment&type=revision&diff=18559&oldid=17375 for the diff
 
 === Other work for Peter ===
 
@@ -199,13 +199,6 @@ Total so far: $570
 === TODO ===
 
 NOTE This list may not be fully up-to-date. Please check https://timelines.issarice.com/wiki/User:Sebastian for the most up-to-date list maintained by the worker.
-
-TO BE ADDED AFTER REVIEW:
-
-NEW PAGES
-
-ADDITIONS TO EXISTING PAGES
-
 
 Next pament: 2017-12-25 or later
 
