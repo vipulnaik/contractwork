@@ -44,7 +44,7 @@ foreach (array_reverse($yearList) as $year) {
 print "    <th>Total across years</th>\n</tr>\n";
 print "</thead>\n<tbody>\n";
 foreach ($paymentMethods as $paymentMethod) {
-  if ($totalPaymentByMethod[$paymentMethod] > 0) {
+  if ($totalPaymentByMethod[$paymentMethod] != 0) {
     print "<tr>\n    <td>$paymentMethod</td>\n";
     foreach (array_reverse($yearList) as $year) {
       print '    <td align="right">'.number_format($payment[$paymentMethod][$year],2)."</td>\n";
