@@ -41,6 +41,7 @@ include ("backend/taskPaymentsDueByTypeAndYear.inc");
 include ("backend/taskPaymentsDueByTopicAndYear.inc");
 include ("backend/taskPaymentsDueByVenueAndYear.inc");
 include ("backend/taskPaymentsDueByFormatAndYear.inc");
+include ("backend/taskPaymentsDueByWorkerAndYear.inc");
 include ("backend/paymentsDueByWorkerAndType.inc");
 include ("backend/taskPaymentsDueByWorkerAndType.inc");
 include ("backend/paymentsMadeByWorkerAndMethod.inc");
