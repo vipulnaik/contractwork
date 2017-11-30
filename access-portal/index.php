@@ -32,6 +32,7 @@ print '<li><a href="#taskPaymentsDueByTypeAndMonth">Task payments due by type an
 print '<li><a href="#taskPaymentsDueByTopicAndMonth">Task payments due by topic and month</a></li>';
 print '<li><a href="#taskPaymentsDueByVenueAndMonth">Task payments due by venue and month</a></li>';
 print '<li><a href="#taskPaymentsDueByFormatAndMonth">Task payments due by format and month</a></li>';
+print '<li><a href="#taskPaymentsDueByWorkerAndMonth">Task payments due by worker and month</a></li>';
 print '<li><a href="#paymentsDueAndMadeByMonth">Payments due and made by month</a></li>';
 print '</ul>';
 
@@ -51,6 +52,7 @@ include ("backend/taskPaymentsDueByTypeAndMonth.inc");
 include ("backend/taskPaymentsDueByTopicAndMonth.inc");
 include ("backend/taskPaymentsDueByVenueAndMonth.inc");
 include ("backend/taskPaymentsDueByFormatAndMonth.inc");
+include ("backend/taskPaymentsDueByWorkerAndMonth.inc");
 include ("backend/paymentsDueAndMadeByMonth.inc");
 
 include_once('anchorjs.inc');
