@@ -100,7 +100,7 @@ Total so far: $35286
 
 * [https://timelines.issarice.com/wiki/Timeline_of_hygiene Timeline of hygiene]: $137. Completed October 21, 2017. Competed version at https://timelines.issarice.com/index.php?title=Timeline_of_hygiene&oldid=17796 (26861 bytes, 2017-10-21 18:38 UTC)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_telephony_in_Finland Timeline of telephony in Finland]: $130. Completed November 20, 2017. Took about 15 hours. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_telephony_in_Finland&oldid=18635 (2017-11-21 02:41 UTC, 24524 bytes, ~57 rows).
+* [https://timelines.issarice.com/wiki/Timeline_of_telephony_in_Finland Timeline of telephony in Finland]: $130. Completed November 20, 2017. Took about 15 hours. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_telephony_in_Finland&oldid=18635 (2017-11-21 02:41 UTC, 24524 bytes, 57 rows).
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Stripe Timeline of Stripe]: $200. Completed November 14, 2017. Took about 20 hours. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Stripe&oldid=18402 (2017-11-14 03:#7 UTC, 60868 bytes, 62 rows)
 
