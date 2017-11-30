@@ -1,8 +1,17 @@
 <?php
 print '<h4 id="taskPaymentsDueByWorkerAndYear">Task payments due by worker and year</h4>';
 
-$paymentForWorkerAndYear = array();
+$workerList = array();
+$workerSelectQuery = "select distinct worker from workers where private = false;";
+$workerSelectResult = $mysqli -> query($workerSelectQuery);
 
+for($i=0;$i < $workerSelectResult -> num_rows; $i++) {
+  $row = $workerSelectResult -> fetch_assoc();
+  array_push($workerList, $row['worker']);
+}
+
+$paymentForWorkerAndYear = array();
+$workerList = array();
 foreach($yearList as $year) {
   $totalPaymentForYear[$year] = 0;
 }
@@ -15,6 +24,7 @@ $taskSelectQuery = "select worker, year(completion_date) as year, coalesce(sum(p
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
+  array_push($workerList, $row['worker']);
   if (!isset($paymentForWorkerAndYear[$row['worker']])) {
     $paymentForWorkerAndYear[$row['worker']] = array();
   }
@@ -27,7 +37,7 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $grandTotal += $row['payment'];
 }
 
-function cmpWorkersUsingYear($firstWorker, $secondWorker) {
+function cmpWorkerListUsingYear($firstWorker, $secondWorker) {
   global $totalPaymentForWorkerUsingYear;
   if (intval($totalPaymentForWorkerUsingYear[$firstWorker]) == intval($totalPaymentForWorkerUsingYear[$secondWorker])) {
       return 0;
@@ -35,7 +45,7 @@ function cmpWorkersUsingYear($firstWorker, $secondWorker) {
   return (intval($totalPaymentForWorkerUsingYear[$firstWorker]) > intval($totalPaymentForWorkerUsingYear[$secondWorker])) ? -1 : 1;
 }
 
-usort($workers,"cmpWorkersUsingYear");
+usort($workerList,"cmpWorkerListUsingYear");
 
 # Print table
 print "\n";
@@ -47,7 +57,7 @@ foreach (array_reverse($yearList) as $year) {
 }
 print '<th>Total across years</th></tr>';
 print "</thead>\n<tbody>\n";
-foreach($workers as $worker) {
+foreach($workerList as $worker) {
   if ($totalPaymentForWorkerUsingYear[$worker] > 0) {
     print "<tr><td>$worker</td>";
     foreach (array_reverse($yearList) as $year) {
@@ -68,7 +78,7 @@ print "</tfoot>\n</table>\n";
 
 $graphs = timeSeriesGraphs(
   $yearList,
-  $workers,
+  $workerList,
   $totalPaymentForYear,
   $paymentForWorkerAndYear,
   $generateGraphCmdBase,
