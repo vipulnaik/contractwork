@@ -35,7 +35,7 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $grandTotal += $row['payment'];
 }
 
-function cmpWorkerListUsingYear($firstWorker, $secondWorker) {
+function cmpWorkersUsingYear($firstWorker, $secondWorker) {
   global $totalPaymentForWorkerUsingYear;
   if (intval($totalPaymentForWorkerUsingYear[$firstWorker]) == intval($totalPaymentForWorkerUsingYear[$secondWorker])) {
       return 0;
@@ -43,7 +43,7 @@ function cmpWorkerListUsingYear($firstWorker, $secondWorker) {
   return (intval($totalPaymentForWorkerUsingYear[$firstWorker]) > intval($totalPaymentForWorkerUsingYear[$secondWorker])) ? -1 : 1;
 }
 
-usort($workerList,"cmpWorkerListUsingYear");
+usort($workerList,"cmpWorkersUsingYear");
 
 # Print table
 print "\n";
