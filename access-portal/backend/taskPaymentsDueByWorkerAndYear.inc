@@ -15,10 +15,10 @@ $taskSelectQuery = "select worker, year(completion_date) as year, coalesce(sum(p
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
-  if (!isset($paymentForWorkerAndYear[$row['worker']]) {
+  if (!isset($paymentForWorkerAndYear[$row['worker']])) {
     $paymentForWorkerAndYear[$row['worker']] = array()
   }
-  if (!isset($totalPaymentForWorkerUsingYear[$row['worker']]) {
+  if (!isset($totalPaymentForWorkerUsingYear[$row['worker']])) {
     $totalPaymentForWorkerUsingYear[$row['worker']] = 0;
   }
   $paymentForWorkerAndYear[$row['worker']][$row['year']] = $row['payment'];
