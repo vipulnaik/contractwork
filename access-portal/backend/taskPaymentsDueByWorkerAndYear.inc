@@ -16,7 +16,7 @@ $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   if (!isset($paymentForWorkerAndYear[$row['worker']])) {
-    $paymentForWorkerAndYear[$row['worker']] = array()
+    $paymentForWorkerAndYear[$row['worker']] = array();
   }
   if (!isset($totalPaymentForWorkerUsingYear[$row['worker']])) {
     $totalPaymentForWorkerUsingYear[$row['worker']] = 0;
