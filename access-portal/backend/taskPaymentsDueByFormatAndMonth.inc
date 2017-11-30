@@ -1,21 +1,12 @@
 <?php
-print '<h4 id="taskPaymentsDueByWorkerAndMonth">Task payments due by worker and month</h4>';
-
-$workerList = array();
-$workerSelectQuery = "select distinct worker from workers where private = false;";
-$workerSelectResult = $mysqli -> query($workerSelectQuery);
-
-for($i=0;$i < $workerSelectResult -> num_rows; $i++) {
-  $row = $workerSelectResult -> fetch_assoc();
-  array_push($workerList, $row['worker']);
-}
+print '<h4 id="taskPaymentsDueByFormatAndMonth">Task payments due by format and month</h4>';
 
 # Initialize values to zero
-global $totalPaymentForWorker;
-foreach($workerList as $worker) {
-  $totalPaymentForWorker[$worker] = 0; 
+global $totalPaymentForTaskFormat;
+foreach($taskFormats as $taskFormat) {
+  $totalPaymentForTaskFormat[$taskFormat] = 0; 
   foreach ($monthList as $month) {
-    $paymentForWorkerAndMonth[$worker][$month] = 0;
+    $paymentForTaskFormatAndMonth[$taskFormat][$month] = 0;
   }
 }  
 
@@ -27,88 +18,82 @@ $totalTaskPayment = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select worker, year(completion_date) as year,month(completion_date) as month, coalesce(sum(payment), 0) as payment from tasks group by worker, year(completion_date), month(completion_date);";
+$taskSelectQuery = "select format, year(completion_date) as year,month(completion_date) as month, coalesce(sum(payment), 0) as payment from tasks group by format, year(completion_date), month(completion_date);";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
-  if (!isset($paymentForWorkerAndMonth[$row['worker']])) {
-    $paymentForWorkerAndMonth[$row['worker']] = array();
-  }
-  if (!isset($totalPaymentForWorkerUsingMonth[$row['worker']])) {
-    $totalPaymentForWorkerUsingMonth[$row['worker']] = 0;
-  }
-  $paymentForWorkerAndMonth[$row['worker']][$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
+  $paymentForTaskFormatAndMonth[$row['format']][$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
   $totalTaskPaymentForMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] += $row['payment'];
-  $totalPaymentForWorkerUsingMonth[$row['worker']] += $row['payment'];
+  $totalPaymentForTaskFormat[$row['format']] += $row['payment'];
   $totalTaskPayment += $row['payment'];
 }
-# Sort workerList
+# Sort task formats
 
-function cmpWorkersForMonth($firstWorker, $secondWorker) {
-  global $totalPaymentForWorkerUsingMonth;
-  if (intval($totalPaymentForWorkerUsingMonth[$firstWorker]) == intval($totalPaymentForWorkerUsingMonth[$secondWorker])) {
+function cmpTaskFormatsForMonth($firstTaskFormat, $secondTaskFormat) {
+  global $totalPaymentForTaskFormat;
+  if (intval($totalPaymentForTaskFormat[$firstTaskFormat]) == intval($totalPaymentForTaskFormat[$secondTaskFormat])) {
       return 0;
   }
-  return (intval($totalPaymentForWorkerUsingMonth[$firstWorker]) > intval($totalPaymentForWorkerUsingMonth[$secondWorker])) ? -1 : 1;
+  return (intval($totalPaymentForTaskFormat[$firstTaskFormat]) > intval($totalPaymentForTaskFormat[$secondTaskFormat])) ? -1 : 1;
 }
 
-usort($workerList,"cmpWorkersForMonth");
+usort($taskFormats,"cmpTaskFormatsForMonth");
 
 # Then print data by month
 
 # Print table
 print "\n";
-print '<table id="myTableTaskPaymentsDueByWorkerAndMonth" class="tablesorter">'."\n";
+print '<table id="myTableTaskPaymentsDueByFormatAndMonth" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Month</th>';
-foreach ($workerList as $worker) {
-  if ($totalPaymentForWorkerUsingMonth[$worker] > 0) {
-    print "<th>$worker</th>";
+foreach ($taskFormats as $taskFormat) {
+  if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
+    print "<th>$taskFormat</th>";
   }
 }
-print "<th>Total across task workers</th>";
+print "<th>Total across task formats</th>";
 print '</tr>';
 print "</thead>\n<tbody>\n";
 
 foreach (array_reverse($monthList) as $month) {
   if ($totalTaskPaymentForMonth[$month] > 0) {
     print "<tr><td>$month</td>";
-    foreach ($workerList as $worker) {
-      if ($totalPaymentForWorkerUsingMonth[$worker] > 0) {
-        print '<td align="right">'.number_worker($paymentForWorkerAndMonth[$worker][$month],2).'</td>';
+    foreach ($taskFormats as $taskFormat) {
+      if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
+        print '<td align="right">'.number_format($paymentForTaskFormatAndMonth[$taskFormat][$month],2).'</td>';
       }
     }
-    print '<td align="right"><strong>'.number_worker($totalTaskPaymentForMonth[$month],2).'</strong></td>';
+    print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
     print '</tr>';
   }
 }
 print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across months</strong></td>';
-foreach($workerList as $worker) {
-  if ($totalPaymentForWorkerUsingMonth[$worker] > 0) {
-    print '<td align="right"><strong>'.number_worker($totalPaymentForWorkerUsingMonth[$worker],2).'</strong></td>';
+foreach($taskFormats as $taskFormat) {
+  if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
+    print '<td align="right"><strong>'.number_format($totalPaymentForTaskFormat[$taskFormat],2).'</strong></td>';
   }
 }
-print '<td align="right"><strong>'.number_worker($totalTaskPayment,2).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";
 
 $graphs = timeSeriesGraphs(
   $monthList,
-  $workerList,
+  $taskFormats,
   $totalTaskPaymentForMonth,
-  $paymentForWorkerAndMonth,
+  $paymentForTaskFormatAndMonth,
   $generateGraphCmdBase,
   $imagesPath,
   "https://contractwork.vipulnaik.com/worker.php",
-  "#taskPaymentsDueByWorkerAndMonth"
+  "#taskPaymentsDueByFormatAndMonth"
 );
 
-print "<p><strong>Graph of task payments due by worker and month (incremental, not cumulative)</strong></p>";
+print "<p><strong>Graph of task payments due by format and month (incremental, not cumulative)</strong></p>";
 print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of task payments due by worker and month (cumulative)</strong></p>";
+print "<p><strong>Graph of task payments due by format and month (cumulative)</strong></p>";
 print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
 ?>
