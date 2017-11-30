@@ -61,7 +61,7 @@ foreach($workerList as $worker) {
     foreach (array_reverse($yearList) as $year) {
       print '<td align="right">'.number_format($paymentForWorkerAndYear[$worker][$year],2).'</td>';
     }
-    print '<td align="right">'.number_format($totalPaymentForWorkerUsingYear[$worker],2).'</td>';
+    print '<td align="right"><strong>'.number_format($totalPaymentForWorkerUsingYear[$worker],2).'</strong></td>';
     print '</tr>';
   }
 }

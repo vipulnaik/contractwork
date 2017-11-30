@@ -53,7 +53,7 @@ foreach($taskVenues as $taskVenue) {
     foreach (array_reverse($yearList) as $year) {
       print '<td align="right">'.number_format($paymentForTaskVenueAndYear[$taskVenue][$year],2).'</td>';
     }
-    print '<td align="right">'.number_format($totalPaymentForTaskVenue[$taskVenue],2).'</td>';
+    print '<td align="right"><strong>'.number_format($totalPaymentForTaskVenue[$taskVenue],2).'</strong></td>';
     print '</tr>';
   }
 }
