@@ -57,7 +57,7 @@ print '<th>Total across years</th></tr>';
 print "</thead>\n<tbody>\n";
 foreach($workerList as $worker) {
   if ($totalPaymentForWorkerUsingYear[$worker] > 0) {
-    print "<tr><td>$worker</td>";
+    print "<tr><td><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">$worker</a></td>";
     foreach (array_reverse($yearList) as $year) {
       print '<td align="right">'.number_format($paymentForWorkerAndYear[$worker][$year],2).'</td>';
     }
