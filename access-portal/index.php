@@ -21,7 +21,6 @@ print '<li><a href="#paymentsMadeByMethodAndYear">Payments made by method and ye
 print '<li><a href="#taskPaymentsDueByTypeAndYear">Task payments due by type and year</a></li>';
 print '<li><a href="#taskPaymentsDueByTopicAndYear">Task payments due by topic and year</a></li>';
 print '<li><a href="#taskPaymentsDueByVenueAndYear">Task payments due by venue and year</a></li>';
-print '<li><a href="#taskPaymentsDueByVenueAndYear">Task payments due by format and year</a></li>';
 print '<li><a href="#taskPaymentsDueByFormatAndYear">Task payments due by format and year</a></li>';
 print '<li><a href="#paymentsDueByWorkerAndType">Payments due by worker and type</a></li>';
 print '<li><a href="#taskPaymentsDueByWorkerAndType">Task payments due by worker and type</a></li>';
