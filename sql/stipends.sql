@@ -45,13 +45,14 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',1500,'2017-09-01','2017-09-30','2017-09-30',NULL,173,176),
   ('Issa Rice',1500,'2017-10-01','2017-10-31','2017-10-31',NULL,170,168);
   
-insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
-  ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL),
-  ('Sebastian Sanchez',250,'2017-06-01','2017-06-30','2017-06-30',NULL),
-  ('Sebastian Sanchez',250,'2017-07-01','2017-07-31','2017-07-31',NULL),
-  ('Sebastian Sanchez',250,'2017-08-01','2017-08-31','2017-08-31',NULL),
-  ('Sebastian Sanchez',250,'2017-09-01','2017-09-30','2017-09-30',NULL),
-  ('Sebastian Sanchez',400,'2017-10-01','2017-10-31','2017-10-31','Moved to full time work, so stipend increase from $250 to $400');
+insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
+  ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),
+  ('Sebastian Sanchez',250,'2017-06-01','2017-06-30','2017-06-30',NULL,NULL),
+  ('Sebastian Sanchez',250,'2017-07-01','2017-07-31','2017-07-31',NULL,NULL),
+  ('Sebastian Sanchez',250,'2017-08-01','2017-08-31','2017-08-31',NULL,NULL),
+  ('Sebastian Sanchez',250,'2017-09-01','2017-09-30','2017-09-30',NULL,NULL),
+  ('Sebastian Sanchez',400,'2017-10-01','2017-10-31','2017-10-31','Moved to full time work, so stipend increase from $250 to $400',NULL),
+  ('Sebastian Sanchez',500,'2017-11-01','2017-11-30','2017-11-30','Increased amount of work, so stipend increased correspondingly. Average of 5.5 hours of work per day all days, totaling to 165 hours. This is based on estimation, not actual time tracking',165);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');
