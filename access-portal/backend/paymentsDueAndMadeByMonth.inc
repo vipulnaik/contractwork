@@ -56,7 +56,7 @@ foreach (array_reverse($monthList) as $month) {
       $opener = "<strong>";
       $closer = "</strong>";
     }
-    print "<td>$opener$month$closer</td>";
+    print "<td>$month</td>";
     print '<td align="right">'.number_format($totalPaymentAwarded[$month],2).'</td>';
     print '<td align="right">'.$opener.number_format($cumulativePaymentAwardedTillMonth[$month],2).$closer.'</td>';
     print '<td align="right">'.number_format($paymentMadeInMonth[$month],2).'</td>';

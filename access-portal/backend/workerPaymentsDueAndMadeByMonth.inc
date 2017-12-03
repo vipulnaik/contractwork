@@ -81,7 +81,7 @@ if ($printTables == true) {
         $opener = "<strong>";
         $closer = "</strong>";
       }
-      print "<td>$opener$month$closer</td>";
+      print "<td>$month</td>";
       print '<td align="right">'.number_format($totalPaymentAwarded[$month],2).'</td>';
       print '<td align="right">'.$opener.number_format($cumulativePaymentAwardedTillMonth[$month],2).$closer.'</td>';
       if ($cumulativeReimbursementDueSoFar > 0) {
