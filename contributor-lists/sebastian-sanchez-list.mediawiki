@@ -22,9 +22,9 @@ Total money earned as income: $10593
 
 Forward balance carried over from 2016: ($510.37)
 
-Payment made: $12389.24
+Payment made: $12383.54
 
-Net payment due: ($2306.61)
+Net payment due: ($2300.91)
 
 === Completed pages (Wikipedia) ===
 
@@ -228,7 +228,7 @@ Total so far: $49
 
 === Payment schedule ===
 
-Total paid: $12389.24 (=$12273.24 received + $116 transaction fee)
+Total paid: $12383.54
 
 * Payment of $632.78 made via Western Union on January 18, 2017, received on January 19, 2017. Transaction fee of $8.
 
@@ -248,7 +248,7 @@ Total paid: $12389.24 (=$12273.24 received + $116 transaction fee)
 
 * Payment of $4714.33 made via Western Union on Wednesday, October 4, 2017, received on Thursday, October 5, 2017. Transaction fee of $30.
 
-* Payment of $100 made via PayPal on Sunday, December 10, 2017, received on Monday, December 11, 2017. Transaction fee of $0.
+* Payment of $94.30 made via PayPal on Sunday, December 10, 2017, received on Monday, December 11, 2017. Transaction fee of $5.70 on original payment of $100.
 
 == Work in 2016 ==
 
