@@ -13,12 +13,11 @@ for($i = 0;$i < $reimbursementSelectResult -> num_rows;$i++) {
 }
 
 $upwardTaxAdjustmentsQuery = "select payment_finalization_year as year, coalesce(sum(adjustment), 0) as adjustment from tax_adjustments group by payment_finalization_year;";
-$rupwardTaxAdjustmentsResult = $mysqli -> query($upwardTaxAdjustmentsQuery);
+$upwardTaxAdjustmentsResult = $mysqli -> query($upwardTaxAdjustmentsQuery);
 $upwardTaxAdjustmentForYear = array();
 foreach($yearList as $year) {
   $upwardTaxAdjustmentForYear[$year] = 0;
 }
-print "Number of rows for upward tax adjustment result: ".($upwardTaxAdjustmentsResult -> num_rows);
 
 for($i = 0;$i < $upwardTaxAdjustmentsResult -> num_rows;$i++) {
   $row = $upwardTaxAdjustmentsResult -> fetch_assoc();
@@ -27,7 +26,7 @@ for($i = 0;$i < $upwardTaxAdjustmentsResult -> num_rows;$i++) {
 }
 
 $downwardTaxAdjustmentsQuery = "select completion_year as year, coalesce(sum(adjustment), 0) as adjustment from tax_adjustments group by completion_year;";
-$rdownwardTaxAdjustmentsResult = $mysqli -> query($downwardTaxAdjustmentsQuery);
+$downwardTaxAdjustmentsResult = $mysqli -> query($downwardTaxAdjustmentsQuery);
 $downwardTaxAdjustmentForYear = array();
 foreach($yearList as $year) {
   $downwardTaxAdjustmentForYear[$year] = 0;
