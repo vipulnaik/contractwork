@@ -44,11 +44,11 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $32930.10
+Total money earned by doing work (taxable as income for 2017): $32480.10
 
 Payment made: $31000
 
-Carryover payment due from 2016: $4833.31
+Carryover payment due from 2016: $5283.31
 
 Net payment due: $6763.41
 
@@ -200,13 +200,7 @@ Total so far: $4424
 
 * [https://aiwatch.issarice.com/ Phase 1 of work on AI Watch portal]: $150. Completed November 7, 2017.
 
-* Tag page list translation to other languages: $150. Completed November 8, 2017. From chat logs: did finnish cities, usual 4, did japanese, usual 4,, onto musicians, did japanese, no drake, romeo santos, sia, did french, no drake or sia, did spanish, no drake or sia, did german, no drake or sia, did italian, no drake or sia, did dutch, no drake, romeo santos, sia, did polish, same 3 as dutch, did russian, drake and sia".
-
 * Automatic Wikipedia backup download, keeping it running continuously: $212. $4 per week at 53 weeks.
-
-* Abandoned work on Giving Games: $200 severance fee. Although work last done on August 24, 2016, this will be marked as completed for December 2, 2017, for more consistency in accounting and tax.
-
-* Abandoned work on GiveWell mid-year review post for 2017: $100 severance fee. Although the last revision was on July 9, 2016, this will be marked as completed for December 8, 2017, for more consistency in accounting and tax.
 
 === Stipends ===
 
@@ -306,7 +300,7 @@ Tasks to add pay for, but not in the forthcoming TODO:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2016): $9816.55
+Total money earned by doing work (taxable as income for 2016): $10266.55
 
 Reimbursement due (not taxable as income for 2016): $401.03
 
@@ -314,7 +308,7 @@ Payment made: $6382
 
 Carryover pending payment from 2015: $997.73
 
-Net payment due: $4833.31
+Net payment due: $5283.31
 
 === Completed pages ===
 
@@ -471,6 +465,16 @@ Total so far: $2993
 * Language conversion. $150. Completed October 4, 2016. Issa still owes me some some language conversions when I need them, though I'll probably just incorporate his code ideas into WV and he won't need to do anything (other than maybe help if I have questions).
 
 * Researcher profiles: $70. Completed part sponsored by Vipul by December 31, 2016, though project officially stopped January 1, 2017.
+
+=== Completed tasks for which payment was finalized too late for the 2016 tax year (will be included in 2017) ===
+
+Total: $450
+
+* Tag page list translation to other languages: $150. Completed about September 30, 2017. Payment finalized November 8, 2017. From chat logs: did finnish cities, usual 4, did japanese, usual 4,, onto musicians, did japanese, no drake, romeo santos, sia, did french, no drake or sia, did spanish, no drake or sia, did german, no drake or sia, did italian, no drake or sia, did dutch, no drake, romeo santos, sia, did polish, same 3 as dutch, did russian, drake and sia".
+
+* Abandoned work on Giving Games: $200 severance fee. Completed August 24, 2016. Payment finalized December 2, 2017.
+
+* Abandoned work on GiveWell mid-year review post for 2017: $100 severance fee. Completed July 9, 2016. Payment finalized December 8, 2017.
 
 === Touch payments ===
 

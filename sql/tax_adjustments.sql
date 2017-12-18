@@ -7,5 +7,5 @@ create table tax_adjustments(
  ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into tax_adjustments(worker, completion_year, payment_finalization_year, adjustment) values
-  ('Issa Rice','2016','2017','30');
+  ('Issa Rice','2016','2017',480);
 
