@@ -14,6 +14,7 @@ for($i = 0;$i < $reimbursementSelectResult -> num_rows;$i++) {
 
 $upwardTaxAdjustmentsQuery = "select payment_finalization_year as year, coalesce(sum(adjustment), 0) as adjustment from tax_adjustments group by payment_finalization_year;";
 $rupwardTaxAdjustmentsResult = $mysqli -> query($upwardTaxAdjustmentsQuery);
+print("Query: $upwardTaxAdjustmentsQuery");
 $upwardTaxAdjustmentForYear = array();
 foreach($yearList as $year) {
   $upwardTaxAdjustmentForYear[$year] = 0;
