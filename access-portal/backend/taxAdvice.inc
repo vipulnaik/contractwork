@@ -18,6 +18,7 @@ $upwardTaxAdjustmentForYear = array();
 foreach($yearList as $year) {
   $upwardTaxAdjustmentForYear[$year] = 0;
 }
+print "Number of rows for upward tax adjustment result: ".($upwardTaxAdjustmentsResult -> num_rows);
 
 for($i = 0;$i < $upwardTaxAdjustmentsResult -> num_rows;$i++) {
   $row = $upwardTaxAdjustmentsResult -> fetch_assoc();
