@@ -19,9 +19,9 @@ foreach($yearList as $year) {
   $upwardTaxForYear[$year] = 0;
 }
 
-for($i = 0;$i < $downwardTaxAdjustmentsResult -> num_rows;$i++) {
-  $row = $downwardTaxAdjustmentsResult -> fetch_assoc();
-  $downwardTaxForYear[$row['year']] = $row['adjustment'];
+for($i = 0;$i < $upwardTaxAdjustmentsResult -> num_rows;$i++) {
+  $row = $upwardTaxAdjustmentsResult -> fetch_assoc();
+  $upwardTaxForYear[$row['year']] = $row['adjustment'];
 }
 
 $downwardTaxAdjustmentsQuery = "select completion_year as year, coalesce(sum(adjustment), 0) as adjustment from tax_adjustments group by completion_year;";
@@ -68,7 +68,7 @@ foreach(array_reverse($yearList) as $year) {
     $incomeTaxAssumingExemption = computeTax($taxableIncomeAssumingExemption, $year);
     $totalTaxAssumingNoExemption = $selfEmploymentTax + $incomeTaxAssumingNoExemption;
     $totalTaxAssumingExemption = $selfEmploymentTax + $incomeTaxAssumingExemption;
-    print "<p>In the year $year, the total payment awarded to you (your income) was $".number_format($income,2)." USD, and the total money paid to you was $".number_format($receivedIncome,2)." USD. Your upward adjustment to income (for payments from tasks completed in previous years, that was finalized in $year) was ".number_format($upwardTaxForYear[$year],2)." and the downward adjustment to income (for payments for completed tasks in that year, but finalized in later years) was ".number_format($downwardTaxForYear[$year],2).". Thus, the effective income for tax purposes from contract work is ".number_format($incomeForTaxPurposes,2)."</p>\n";
+    print "<p>In the year $year, the total payment awarded to you (your income) was $".number_format($income,2)." USD, and the total money paid to you was $".number_format($receivedIncome,2)." USD. Your upward adjustment to income (for payments from tasks completed in previous years, that was finalized in $year) was $".number_format($upwardTaxForYear[$year],2)." and the downward adjustment to income (for payments for completed tasks in that year, but finalized in later years) was $".number_format($downwardTaxForYear[$year],2).". Thus, the effective income for tax purposes from contract work is ".number_format($incomeForTaxPurposes,2)."</p>\n";
     print "<p>Here is a rough estimate for how much tax you would need to pay assuming all your income was from contract work for Vipul Naik:</p>\n";
     print "<ul>\n";
     print "    <li>Assuming you are single and cannot take a personal exemption: $".number_format($selfEmploymentTax,2)." self-employment tax and $".number_format($incomeTaxAssumingNoExemption,2)." income tax totaling to $".number_format($totalTaxAssumingNoExemption,2).".</li>\n";
