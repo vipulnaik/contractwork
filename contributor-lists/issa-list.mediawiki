@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $32480.10
+Total money earned by doing work (taxable as income for 2017): $33980.10
 
 Payment made: $31000
 
 Carryover payment due from 2016: $5283.31
 
-Net payment due: $6763.41
+Net payment due: $8263.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -204,7 +204,7 @@ Total so far: $4424
 
 === Stipends ===
 
-Total so far: $25514
+Total so far: $27014
 
 * January: $250
 
@@ -233,6 +233,8 @@ Total so far: $25514
 * October: $1500
 
 * November: $1500
+
+* December: $1500
 
 === Touch payments ===
 
