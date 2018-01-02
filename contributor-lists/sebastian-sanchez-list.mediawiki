@@ -16,19 +16,35 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Nothing here yet!
+Total money earned as income: $0
+
+Forward balance carried over from 2017: ($1751.91)
+
+Payment made: $4175
+
+Net payment due: ($5926.91)
+
+=== Payment schedule ===
+
+Total paid: $4175
+
+Starting 2018, the amount a payment is for will be treated as the value in USD at market rates of the received ARS at time of exchange. Thus, Vipul will bear the cost of transfer overhead (both exchange rate costs and overhead).
+
+* $4175 sent December 30, 2017, received January 2, 2018. Sent $4447.81 + $30 transaction fees via Western Union, receiver got 80000 ARS. $4175 is calculated as 80000 ARS at the time of exchange.
 
 == Work in 2017 ==
 
+Note: 2017 data is not yet final, since work done in December has not yet been entered.
+
 === Summary ===
 
-Total money earned as income: $11093
+Total money earned as income: $11142
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $12383.54
 
-Net payment due: ($1800.91)
+Net payment due: ($1751.91)
 
 === Completed pages (Wikipedia) ===
 
@@ -228,9 +244,11 @@ Total so far: $2500
 
 === Subscription reimbursement ===
 
-Total so far: $49
+Total so far: $98
 
 * Crunchbase 1-month subscription: $49
+
+* Second Crunchbase 1-month subscription: $49
 
 === Payment schedule ===
 
