@@ -39,6 +39,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Ethan Bashkansky',NULL,'2016-04-30','2016-04-30','2016-04-30','2016-04-30',44,44,0,44),
   ('PayPal','Ethan Bashkansky',NULL,'2016-08-30','2016-08-30','2016-08-30','2016-08-30',196.90,196.90,0,196.90),
   ('PayPal','Ethan Bashkansky',NULL,'2016-11-09','2016-11-09','2016-11-09','2016-11-09',257.30,257.30,0,257.30),
+  ('PayPal','Ethan Bashkansky',NULL,'2018-01-07','2018-01-07','2018-01-07','2018-01-07',545.52,545.52,0,545.52),
 
   # --Issa Rice payments
   # -- Payments for 2015 tax year

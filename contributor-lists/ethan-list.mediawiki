@@ -22,15 +22,33 @@ You can see data on all pages created by Ethan at http://wikipediaviews.org/disp
 
 The article "Vote pairing the United States presidential election, 2016" on Wikipedia, created November 2, 2016, was cited at http://effective-altruism.com/ea/17t/vote_pairing_is_a_costeffective_political/ by Ben West, published February 26, 2017.
 
+== Work in 2018 ==
+
+=== Summary ===
+
+Grand total (this is taxable income for tax year 2018): $0
+
+Carryover pending payment from 2017: $545.52
+
+Payment made: $545.52
+
+Net payment due: $0 (nothing)
+
+=== Payment history ==
+
+Total: $545.52
+
+* January 7, 2018: $545.52 via PayPal
+
 == Work in 2017 ==
 
 === Summary ===
 
-Grand total (this is taxable income for tax year 2017): $42.60
+Grand total (this is taxable income for tax year 2017): $531.92
 
 Carryover pending payment from 2016: $13.60
 
-Net payment due: $56.20
+Net payment due: $545.52
 
 === Non-Wikipedia work ===
 
@@ -47,6 +65,16 @@ Total so far: $21.10
 * Devansh Dwivedy: Commission of 10% on $28 = $2.80
 
 * Avi Glozman: Commission of 10% on $110 = $11
+
+=== Royalties ===
+
+Total: $489.32
+
+* 2446617 pageviews in 2017 for Wikipedia pages created in 2017, across desktop, mobile-web, and mobile-app, at 20 cents per 1000 pageviews. Links with more details:
+** [https://wikipediaviews.org/displayviewsformultipletagsandyears.php?tag=Pages%20created%20by%20Ethan%20Bashkansky%20in%202017&year=2017&language=en&drilldown=human&numericDisplayFormat=fullprecision 2017 totals broken down by device type only (desktop, mobile web, and mobile app)]
+** [https://wikipediaviews.org/displayviewsformultipletagsandmonths.php?tag=Pages+created+by+Ethan+Bashkansky+in+2017&year=2017&language=en&drilldown=human&numericDisplayFormat=fullprecision 2017 totals broken down by device type and month]
+** [https://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages+created+by+Ethan+Bashkansky+in+2017&year=2017&language=en&drilldown=human&numericDisplayFormat=fullPrecision 2017 totals broken down by device type and page]
+** [https://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages+created+by+Ethan+Bashkansky+in+2017&year=2017&language=en&drilldown=human&numericDisplayFormat=fullprecision 2017 totals broken down by device type, month, and page]
 
 == Work in 2016 ==
 
