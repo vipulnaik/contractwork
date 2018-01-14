@@ -40,17 +40,35 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 * People at one of the orgs whose page Issa created offered to buy him drinks if he ever visited their location (note that they did not inappropriately influence the content of the page, beyond pointing to existing references and correcting errors backed by verifiable citations).
 
+== Work and other compensation in 2018 ==
+
+=== Summary ===
+
+Total money earned by doing work (taxable as income for 2018): $380
+
+Payment made: $0
+
+Carryover payment due from 2017: $8663.41
+
+Net payment due: $9043.41
+
+=== Other tasks ===
+
+Total so far: $380
+
+* People watching: $380 for two 4-day periods at $50/day and $45/day, ending January 13, 2018.
+
 == Work and other compensation in 2017 ==
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $33980.10
+Total money earned by doing work (taxable as income for 2017): $34380.10
 
 Payment made: $31000
 
 Carryover payment due from 2016: $5283.31
 
-Net payment due: $8263.41
+Net payment due: $8663.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -144,7 +162,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $4424
+Total so far: $4824
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -201,6 +219,8 @@ Total so far: $4424
 * [https://aiwatch.issarice.com/ Phase 1 of work on AI Watch portal]: $150. Completed November 7, 2017.
 
 * Automatic Wikipedia backup download, keeping it running continuously: $212. $4 per week at 53 weeks.
+
+* People watching: $400 for two 4-day periods at $50/day, 4 days each in the last two weeks of December, ending December 29. See https://github.com/riceissa/issarice.com/commit/0e10eca1b82c425067779bc32af0b6f94be7acb8#diff-c7ed78d772be81a5381d65cc6d32a95f for more details
 
 === Stipends ===
 
