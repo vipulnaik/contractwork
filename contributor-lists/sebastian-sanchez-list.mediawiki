@@ -16,13 +16,19 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $0
+Total money earned as income: $150
 
 Forward balance carried over from 2017: ($1751.91)
 
 Payment made: $4175
 
-Net payment due: ($5926.91)
+Net payment due: ($5776.91)
+
+=== Stipends ===
+
+Total so far: $150
+
+* January: $150 (worked 30% of the month)
 
 === Payment schedule ===
 
@@ -215,12 +221,6 @@ Total so far: $533
 Total so far: $570
 
 * Visits to animal farms in Zambia: $570. Completed October 5, 2017, including publication of reports. Breakdown: $360 for reimbursements, $180 for labor ($15/hour, 12 hours), and $30 for uploading content. See https://www.facebook.com/seba.sanchez.3998/posts/10156691896339377 for the summary post. See https://www.facebook.com/media/set/?set=a.10156676891004377.1073741837.634404376&type=3 (visit 1, slaughterhouse/abattoir in Livingstone), https://www.facebook.com/media/set/?set=a.10156677566689377.1073741838.634404376&type=3 (visit 2, modern chicken and cattle farm in Southern Zambia), and https://www.facebook.com/media/set/?set=a.10156685699114377.1073741839.634404376&type=3 (visit 3, Siyakasipa Village where animals are reared by a village)
-
-=== TODO ===
-
-NOTE This list may not be fully up-to-date. Please check https://timelines.issarice.com/wiki/User:Sebastian for the most up-to-date list maintained by the worker.
-
-Next payment: 2018-01-20 or later
 
 === Stipends ===
 
