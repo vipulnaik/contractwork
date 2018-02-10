@@ -74,7 +74,11 @@ Total so far: $10
 
 Next payment update planned date for cleaning up TODO: 2018-03-01
 
+Note that this covers work done, or paid for, in 2018.
+
+* Updates to timeline of Machine Intelligence Research Institute
 * Timeline of Berkeley Existential Risk Initiative
+* The 2018 part of continued work on Donations List Website
 * Add one year's pay for Timelines wiki maintenance, at $20/month plus additional pay for work done on Timelines wiki feature enhancement. This will be paid out around the end of March 2018.
 
 == Work and other compensation in 2017 ==
