@@ -70,6 +70,13 @@ Total so far: $10
 
 * January: $10
 
+=== TODO ===
+
+Next payment update planned date for cleaning up TODO: 2018-03-01
+
+* Timeline of Berkeley Existential Risk Initiative
+* Add one year's pay for Timelines wiki maintenance, at $20/month plus additional pay for work done on Timelines wiki feature enhancement. This will be paid out around the end of March 2018.
+
 == Work and other compensation in 2017 ==
 
 === Summary ===
@@ -310,25 +317,16 @@ Total so far: $31000
 
 === TODO ===
 
-Next payment update planned date for cleaning up TODO: 2018-01-06
+Next payment update planned date for cleaning up TODO: 2018-03-01
 
-The following will be added on completion or a mutually agreed upon milestone reached, regardless of planned update date above:
+This TODO list is restricted to work done in 2017, For work done in 2018, see the TODO for 2018.
 
-* Next round of devec data portal work (not yet started)
-
-For the following, Vipul will check with Issa on the planned update date if it is complete and payment should be added:
-
-* Timeline of the rationality community
-
-This might get added earlier or later depending on active work state. Vipul is currently doing some edits on the timeline:
-
-* Timeline of economic statistics
-
-Tasks to add pay for, but not in the forthcoming TODO:
-
-* Add one year's pay for Timelines wiki maintenance, at $20/month plus additional pay for work done on Timelines wiki feature enhancement. This will be paid out around the end of March 2018.
-
-* Work on Wikipedia spotlight. We have to figure out the right time to complete this project and finalize pay at that time.
+* Devec/demography data portal (ready for review)
+* Computing data portal (CDP) (partial work/data entry done)
+* The 2017 part of the work on Donations List Website
+* Timeline of economic statistics (the part of the work done by Issa)
+* Timeline of the rationalty community (check with Issa at time of entry whether he wants to continue working on expanding it)
+* The 2017 part of the work on Wikipedia spotlight
 
 == Work and other compensation in 2016 ==
 
