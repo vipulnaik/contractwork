@@ -22,7 +22,7 @@ You can look at [https://contractwork.vipulnaik.com/format.php?format=Timeline h
 
 === Pay entry for completed timelines ===
 
-Once the timeline is completed, Vipul either adds pay for it right away, or adds it to the TODO list to be processed for the worker. Vipul processes the TODO list periodically, usually at least once a month, but sometimes less freequently.
+Once the timeline is completed, Vipul either adds pay for it right away, or adds it to the TODO list to be processed for the worker. Vipul processes the TODO list periodically, usually at least once a month, but sometimes less frequently.
 
 === Pay entry for partial timelines ===
 
