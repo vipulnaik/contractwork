@@ -1,0 +1,69 @@
+The following are some general policies related to payment for new and existing timelines.
+
+== New timelines ==
+
+=== Initial agreement ===
+
+The worker should start work on a new timeline only after obtaining initial agreement from Vipul that the timeline will be paid for.
+
+In some cases, the timeline is one of a family of timelines being worked on (such as timeline of healthcare in country X, for varying values of X) where initial agreement may not be necessary for each individual timeline in the bunch. In this case, it is the joint responsibility of Vipul and the worker to identify criteria for what constitutes membership in that family. In case the worker is unsure regarding a specific timeline, the worker should check with Vipul.
+
+=== Pay amount agreement ===
+
+In some cases, a pay amount, or pay formula, is determined as part of the initial agreement to work on the timeline. However, in many other cases, it is not. Payment is determined after the fact, based on the amount of information collected and the quality of the presentation. If the worker has concerns around the payment amount, the worker should discuss with Vipul beforehand, so that they can come to an agreement on how to derisk on both sides before beginning work in earnest.
+
+The following are some loose guidelines for payment amounts:
+
+* Somewhere between $0.25 and $0.60 for every 1000 characters. The amounts are on the higher end in global health and on the lower end for technology articles.
+* Somewhere between $0.75 and $2.00 for every row in the full timeline
+* An extra amount that can range from $3 to $8 per graph
+
+You can look at [https://contractwork.vipulnaik.com/format.php?format=Timeline historical payments for timelines] to get a better idea.
+
+=== Pay entry for completed timelines ===
+
+Once the timeline is completed, Vipul either adds pay for it right away, or adds it to the TODO list to be processed for the worker. Vipul processes the TODO list periodically, usually at least once a month, but sometimes less freequently.
+
+=== Pay entry for partial timelines ===
+
+If the worker takes a break of over 3 months from a timeline without completing it, Vipul will enter partial pay for work done so far (he'll first add it to the TODO, then process the TODO in the next batch). In some cases, partial pay may be added after a shorter interval of no work.
+
+In such cases, unless both sides agree that no more work should be done on the timeline, the worker can resume work on the timeline any time and Vipul will pay the remainder of the pay after completion just as with completed timelines.
+
+Note that the one-time payment timelines are exceptions here: these are timelines where Vipul is willing to add pay only once in the lifetime of the timeline.
+
+=== Size and pay limits ===
+
+In general, if the timeline size exceeds 100,000 bytes, and/or the amount that the worker thinks he/she deserves exceeds $300, the worker should check with Vipul. In general, a single batch of initial work on a timeline will not be paid out at more than $300.
+
+=== One-time payment timelines ===
+
+The following is a list of timelines that Vipul is willing to pay for only one-time:
+
+* Timeline of evolutionary thought (already paid for)
+* Timeline of the rationality community (not yet paid for)
+
+In particular, for these timelines, Vipul 
+
+== Updates to existing timelines ==
+
+In general, updates require no discussion if all three of these hold:
+ 
+* Vipul paid for the original timeline, and it is not among the one-time payment timelines listed above
+* Vipul has not previously communicated to the worker that he will ''not'' pay for updates to the timeline
+* The worker does not expect pay of more than $25 from the updates, i.e., the updates are small enough, or Vipul has given sanction to continue updating that timeline with bigger chunks of material
+
+If a worker is planning to make updates beyond the $25 budget and has not received sanction for that specific timeline or family of timelines, the worker should check with Vipul.
+
+The following families of timeline can continue to be updated by amounts more than $25 but less than $100, without further consent from Vipul:
+
+* Timeline of healthcare in country X
+* Timeline of a disease
+* Timeline of an organization in global health
+* Any timeline related to AI safety
+* Any timeline completed in the last 1-2 months, or any completed timeline for which pay has not yet been added
+
+In contrast, the following timelines should be updated only in small amounts (up to $25), or discussed with Vipul:
+
+* Any timeline of a technology company that was completed more than 2 months ago
+* Timeline of animal welfare in country X
