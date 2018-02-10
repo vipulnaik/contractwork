@@ -48,7 +48,7 @@ In particular, for these timelines, Vipul
 == Updates to existing timelines ==
 
 In general, updates require no discussion if all three of these hold:
- 
+
 * Vipul paid for the original timeline, and it is not among the one-time payment timelines listed above
 * Vipul has not previously communicated to the worker that he will ''not'' pay for updates to the timeline
 * The worker does not expect pay of more than $25 from the updates, i.e., the updates are small enough, or Vipul has given sanction to continue updating that timeline with bigger chunks of material
