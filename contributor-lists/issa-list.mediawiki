@@ -44,13 +44,19 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $1890
+Total money earned by doing work (taxable as income for 2018): $1940
 
 Payment made: $0
 
-Carryover payment due from 2017: $8663.41
+Carryover payment due from 2017: $9768.41
 
-Net payment due: $10553.41
+Net payment due: $11708.41
+
+=== Completed pages (timelines wiki) ===
+
+Total so far: $50
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Berkeley_Existential_Risk_Initiative Timeline of Berkeley Existential Risk Initiative]: $50. Completed February 9, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Berkeley_Existential_Risk_Initiative&oldid=19986 (10,881 bytes, 2018-02-09 18:49 UTC)
 
 === Other tasks ===
 
@@ -80,18 +86,19 @@ Note that this covers work done, or paid for, in 2018.
 * Timeline of Berkeley Existential Risk Initiative
 * The 2018 part of continued work on Donations List Website
 * Add one year's pay for Timelines wiki maintenance, at $20/month plus additional pay for work done on Timelines wiki feature enhancement. This will be paid out around the end of March 2018.
+* Check with Issa about payment plans for timeline of the rationality community
 
 == Work and other compensation in 2017 ==
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $34380.10
+Total money earned by doing work (taxable as income for 2017): $35485.10
 
 Payment made: $31000
 
 Carryover payment due from 2016: $5283.31
 
-Net payment due: $8663.41
+Net payment due: $9768.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -105,7 +112,7 @@ Total so far: $202
 
 === Completed pages (on timelines wiki) ===
 
-Total so far: $1550
+Total so far: $1695
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation Timeline of Against Malaria Foundation]: $155. Completed April 27, 2017. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=13553
 
@@ -130,6 +137,8 @@ Total so far: $1550
 * [https://timelines.issarice.com/wiki/Timeline_of_AI_safety Timeline of AI safety]: $170. Completed October 31, 2017, with 83 rows. Still missing a big picture. Version as of https://timelines.issarice.com/index.php?title=Timeline_of_AI_safety&oldid=18070
 
 * [https://timelines.issarice.com/wiki/Timeline_of_evolutionary_thought Timeline of evolutionary thought]: $25. Completed December 2, 2017 (stub). Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_evolutionary_thought&oldid=18927 (2017-12-03 00:57 UTC, 4828 bytes, 20 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_economic_statistics Timeline of economic statistics]: $145. Completed November 10, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_economic_statistics&oldid=18235 (2017-11-11 00:46 UTC, 55767 bytes). About half the size as of this point was due to Issa, with the other half being from Vipul. Subsequent expansion was mostly by Vipul
 
 === Tasks for Peter Hurford ===
 
@@ -185,7 +194,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $4824
+Total so far: $5784
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -244,6 +253,10 @@ Total so far: $4824
 * Automatic Wikipedia backup download, keeping it running continuously: $212. $4 per week at 53 weeks.
 
 * People watching: $400 for two 4-day periods at $50/day, 4 days each in the last two weeks of December, ending December 29. See https://github.com/riceissa/issarice.com/commit/0e10eca1b82c425067779bc32af0b6f94be7acb8#diff-c7ed78d772be81a5381d65cc6d32a95f for more details
+
+* Work on Donations List Website, including a bunch of issues related to importing data: $260. Total of 30 hours and 18 minutes logged, with last work on December 30. See comments made in December on http://github.com/vipulnaik/donations/issues for more information.
+
+* Wikipedia spotlight: $700. Last worked on on November 30, 2017. Retrospective on how we got kicked out of Wikipedia for paid editing. This includes $600 for work from March through June and $100 for two days of work in November. There is a remaining $300 of potential pay for this project, for likely 6 days of additional work.
 
 === Stipends ===
 
@@ -327,10 +340,6 @@ This TODO list is restricted to work done in 2017, For work done in 2018, see th
 
 * Devec/demography data portal (ready for review)
 * Computing data portal (CDP) (partial work/data entry done)
-* The 2017 part of the work on Donations List Website
-* Timeline of economic statistics (the part of the work done by Issa)
-* Timeline of the rationalty community (check with Issa at time of entry whether he wants to continue working on expanding it)
-* The 2017 part of the work on Wikipedia spotlight
 
 == Work and other compensation in 2016 ==
 
