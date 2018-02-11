@@ -30,7 +30,7 @@ for ($i = 0; $i < $royaltySelectResult -> num_rows; $i++) {
     print '–'.$row['royalty_end_date'].'</td>';
   }
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
-  print '<td>'.$row['notes'].'</td>';
+  print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
 }
 print "</tbody>\n</table>\n";

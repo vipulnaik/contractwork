@@ -78,7 +78,7 @@ Total so far: $10
 
 === TODO ===
 
-Next payment update planned date for cleaning up TODO: 2018-03-01
+Next payment update planned date for cleaning up TODO: 2018-03-10
 
 Note that this covers work done, or paid for, in 2018.
 
