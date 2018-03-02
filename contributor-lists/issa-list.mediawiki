@@ -48,9 +48,9 @@ Total money earned by doing work (taxable as income for 2018): $3440
 
 Payment made: $0
 
-Carryover payment due from 2017: $9768.41
+Carryover payment due from 2017: $11048.41
 
-Net payment due: $13208.41
+Net payment due: $14488.41
 
 === Completed pages (Timelines Wiki) ===
 
@@ -94,13 +94,13 @@ Note that this covers work done, or paid for, in 2018.
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2017): $35485.10
+Total money earned by doing work (taxable as income for 2017): $36765.10
 
 Payment made: $31000
 
 Carryover payment due from 2016: $5283.31
 
-Net payment due: $9768.41
+Net payment due: $11048.41
 
 === Completed pages (on Wikipedia) ===
 
@@ -196,7 +196,7 @@ Total so far: $323
 
 === Other tasks ===
 
-Total so far: $5784
+Total so far: $7064
 
 * Initial work on SQL table structure and initial set of rows for https://donations.vipulnaik.com: $155. Completed January 8, 2017.
 
@@ -259,6 +259,16 @@ Total so far: $5784
 * Work on Donations List Website, including a bunch of issues related to importing data: $260. Total of 30 hours and 18 minutes logged, with last work on December 30. See comments made in December on http://github.com/vipulnaik/donations/issues for more information.
 
 * Wikipedia spotlight: $700. Last worked on on November 30, 2017. Retrospective on how we got kicked out of Wikipedia for paid editing. This includes $600 for work from March through June and $100 for two days of work in November. There is a remaining $300 of potential pay for this project, for likely 6 days of additional work.
+
+* Devec/Demography data portal work (SQL data porting): $475. Pay till December 7, 2017. Continued work on data porting to SQL; this extends the previously mentioned work ending 2017-10-30 of importing datasets and cleaning them up. This entry counts the part of the work after 2017-10-30 and till 2017-12-07
+
+* Devec/Demography data portal work (portal creation): $165. Pay till December 14, 2017. Work on setting up the interface of the Devec/Demography data portal, from 2017-12-08 to 2017-12-14. Launch of the portal is pending review by Vipul
+
+* Devec/Demography data portal work (SQL query optimization): $40. Pay till November 17, 2017. SQL query optimization work on 2017-11-16 and 2017-11-17 related to the Devec/Demography data portal
+
+* Devec reading (related to Devec subwiki): $350. Pay till November 16, 2017. Continuation of preliminary reading in development economics work; this covers the batch of reading from 2017-10-07 to 2017-11-16. A previous payment was added for work from 2017-09-06 to 2017-10-06
+
+* Computing data project: $250. Pay till December 9, 2017. Basic data entry and setup for a project to track computing prices over time. The project was paused for a while without producing a complete launchable product or website. Work was from 2017-11-08 to 2017-12-09
 
 === Stipends ===
 
@@ -333,15 +343,6 @@ Total so far: $31000
 * Check for $12000: Sent March 25, 2017. Received April 10, 2017. Deposited April 15, 2017, money withdrawn from account April 17, 2017.
 
 * Check for $15000: Sent September 27, 2017. Received September 30, 2017. Deposited October 2, 2017, third installment of money to be deposited October 12, 2017.
-
-=== TODO ===
-
-Next payment update planned date for cleaning up TODO: 2018-03-01
-
-This TODO list is restricted to work done in 2017, For work done in 2018, see the TODO for 2018.
-
-* Devec/demography data portal (ready for review)
-* Computing data portal (CDP) (partial work/data entry done)
 
 == Work and other compensation in 2016 ==
 
