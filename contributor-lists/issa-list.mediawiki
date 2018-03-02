@@ -44,15 +44,15 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $1940
+Total money earned by doing work (taxable as income for 2018): $3440
 
 Payment made: $0
 
 Carryover payment due from 2017: $9768.41
 
-Net payment due: $11708.41
+Net payment due: $13208.41
 
-=== Completed pages (timelines wiki) ===
+=== Completed pages (Timelines Wiki) ===
 
 Total so far: $50
 
@@ -66,9 +66,11 @@ Total so far: $380
 
 === Stipends ===
 
-Total so far: $1500
+Total so far: $3000
 
 * January: $1500
+
+* February: $1500. Worked 161.6 hours against total work hours of 160; accumulated 1.6 hours to adjust against a future month.
 
 === Touch payments ===
 

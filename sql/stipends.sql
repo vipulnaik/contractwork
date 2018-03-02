@@ -6,7 +6,7 @@ create table stipends(
   stipend_end_date date NOT NULL,
   stipend_award_date date,
   notes varchar(2000),
-  hours_logged int(11) DEFAULT NULL,
+  hours_logged float(13,2) DEFAULT NULL,
   total_work_hours int(11) DEFAULT NULL
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
@@ -46,7 +46,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',1500,'2017-10-01','2017-10-31','2017-10-31',NULL,170,168),
   ('Issa Rice',1500,'2017-11-01','2017-11-30','2017-11-30',NULL,178,176),
   ('Issa Rice',1500,'2017-12-01','2017-12-31','2017-12-31',NULL,176,176),
-  ('Issa Rice',1500,'2018-01-01','2018-01-31','2018-01-31',NULL,179,176);
+  ('Issa Rice',1500,'2018-01-01','2018-01-31','2018-01-31',NULL,179,176),
+  ('Issa Rice',1500,'2018-02-01','2018-02-28','2018-02-28','Accumulated 1.6 hours of overtime work to be adjusted against a later month',161.6,160);
   
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),
@@ -57,7 +58,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',400,'2017-10-01','2017-10-31','2017-10-31','Moved to full time work, so stipend increase from $250 to $400',NULL),
   ('Sebastian Sanchez',500,'2017-11-01','2017-11-30','2017-11-30','Increased amount of work, so stipend increased correspondingly. Average of 5.5 hours of work per day all days, totaling to 165 hours. This is based on estimation, not actual time tracking',165),
   ('Sebastian Sanchez',500,'2017-12-01','2017-12-31','2017-12-31','The work hours estimate is very rough and not based on time tracking. Using the same average of 5.5 hours per day as we did the previous month',171),
-  ('Sebastian Sanchez',150,'2018-01-01','2018-01-31','2018-01-31','The work hours estimate is rough, assuming 5.5 hours per day for 30% of days. Worker was away on vacation from approximately the 10th to the 31st of the month',50);
+  ('Sebastian Sanchez',150,'2018-01-01','2018-01-31','2018-01-31','The work hours estimate is rough, assuming 5.5 hours per day for 30% of days. Worker was away on vacation from approximately the 10th to the 31st of the month',50),
+  ('Sebastian Sanchez',500,'2018-02-01','2018-02-28','2018-02-28','Time estimate includes time spent in general research and writing, not just on Timelines Wiki. The writing tasks outside Timelines Wiki are not paid for as individual tasks',160);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');
