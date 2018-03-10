@@ -24,6 +24,36 @@ Payment made: $4175
 
 Net payment due: ($5276.91)
 
+=== Completed pages paid for by Vipul (Timelines Wiki) ===
+
+This list is tentative; pending final review:
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280 (102 rows, 75,540 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_GiveWell Timeline of GiveWell]: $240 (73 rows, 51,300 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_nuclear_energy Timeline of nuclear energy]: $180 (67 rows, 36,666 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_money_transfer Timeline of money transfer]: $200 (61 rows, 40,748 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Skype Timeline of Skype]: $180 (101 rows, 54,793 bytes)
+
+* Timeline of Samsung: Still working
+
+* [https://timelines.issarice.com/wiki/Timeline_of_epidemiology Timeline of epidemiology]: $105 (37 rows, 22,309 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_surgery Timeline of surgery]: $370 (141 rows, 82,515 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Roscosmos Timeline of Roscosmos]: $150 (45 rows, 37,715 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_water_desalination Timeline of water desalination]: $105 (52 rows, 23,138 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_rail_transport Timeline of rail transport]: $115 (60 rows, 25,197 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $125 (69 rows, 36,757 bytes)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_psychoactive_drugs Timeline of psychoactive drugs]: $130 (60 rows, 28,516 bytes)
+
 === Stipends ===
 
 Total so far: $650
