@@ -54,6 +54,20 @@ This list is tentative; pending final review:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_psychoactive_drugs Timeline of psychoactive drugs]: $130 (60 rows, 28,516 bytes)
 
+=== Additions to existing pages (Timelines Wiki) ===
+
+The list is tentative, pending final review:
+
+* [https://timelines.issarice.com/wiki/Timeline_of_salesforce.com Timeline of salesforce.com]: $12. [https://timelines.issarice.com/index.php?title=Timeline_of_salesforce.com&type=revision&diff=19549&oldid=18711 diff]. Increased 63,311 bytes to 66,475 bytes.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_senescence_research Timeline of senescence research]: $12. [https://timelines.issarice.com/index.php?title=Timeline_of_senescence_research&type=revision&diff=19553&oldid=11852 diff]. Increased 24,383 bytes to 26,962 bytes.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_measles Timeline of measles]: $3. [https://timelines.issarice.com/index.php?title=Timeline_of_measles&type=revision&diff=19564&oldid=11874 diff]. Increased from 22,651 bytes to 23,270 bytes.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_cardiovascular_disease Timeline of cardiovascular disease]: $26. [https://timelines.issarice.com/index.php?title=Timeline_of_cardiovascular_disease&type=revision&diff=20432&oldid=11900 diff]. Increased from 34,495 bytes to 40,257 bytes.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $70. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=19707&oldid=16223 diff]. Increased from 58,300 bytes to 75,231 bytes.
+
 === Stipends ===
 
 Total so far: $650
