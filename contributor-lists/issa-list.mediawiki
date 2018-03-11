@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $3440
+Total money earned by doing work (taxable as income for 2018): $4945
 
 Payment made: $0
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $14488.41
+Net payment due: $15993.41
 
 === Completed pages (Timelines Wiki) ===
 
@@ -58,11 +58,25 @@ Total so far: $50
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Berkeley_Existential_Risk_Initiative Timeline of Berkeley Existential Risk Initiative]: $50. Completed February 9, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Berkeley_Existential_Risk_Initiative&oldid=19986 (10,881 bytes, 2018-02-09 18:49 UTC)
 
+=== Updates to existing pages (Timelines Wiki) ===
+
+Total so far: $25
+
+* Timeline of Machine Intelligence Research Institute: $25. Completed February 24, 2018. Payment for page as of https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&oldid=20301 and specifically for the diff https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&type=revision&diff=20301&oldid=16832 (82,663 bytes to 89,249 bytes)
+
 === Other tasks ===
 
-Total so far: $380
+Total so far: $1860
 
 * People watching: $380 for two 4-day periods at $50/day and $45/day, ending January 13, 2018.
+
+* Work on Cause Prioritization Wiki: $450 at $45/day for 10 days, ending March 7, 2018.
+
+* Work on Donations List Website in January: $675
+
+* Work on Donations List Website in February: $350
+
+* Timelines main page update at request: $5
 
 === Stipends ===
 
@@ -84,9 +98,6 @@ Next payment update planned date for cleaning up TODO: 2018-03-10
 
 Note that this covers work done, or paid for, in 2018.
 
-* Updates to timeline of Machine Intelligence Research Institute
-* Timeline of Berkeley Existential Risk Initiative
-* The 2018 part of continued work on Donations List Website
 * Add one year's pay for Timelines wiki maintenance, at $20/month plus additional pay for work done on Timelines wiki feature enhancement. This will be paid out around the end of March 2018.
 * Check with Issa about payment plans for timeline of the rationality community
 
