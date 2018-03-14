@@ -20,9 +20,9 @@ Total money earned as income: $650
 
 Forward balance carried over from 2017: ($1751.91)
 
-Payment made: $4175
+Payment made: $8135
 
-Net payment due: ($5276.91)
+Net payment due: ($9236.91) (this does not include pending payments to be entered)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -78,12 +78,13 @@ Total so far: $650
 
 === Payment schedule ===
 
-Total paid: $4175
+Total paid: $8135
 
 Starting 2018, the amount a payment is for will be treated as the value in USD at market rates of the received ARS at time of exchange. Thus, Vipul will bear the cost of transfer overhead (both exchange rate costs and overhead).
 
 * $4175 sent December 30, 2017, received January 2, 2018. Sent $4447.81 + $30 transaction fees via Western Union, receiver got 80000 ARS. $4175 is calculated as 80000 ARS at the time of exchange.
 
+* $3960 sent March 11, 2018, received March 12, 2018. Sent $4035.73 + $30 transaction fees via Western Union, receiver got 80010 ARS. $3960 is calculated as 800010 ARS at the of exchange.
 == Work in 2017 ==
 
 Note: 2017 data is not yet final, since work done in December has not yet been entered.
