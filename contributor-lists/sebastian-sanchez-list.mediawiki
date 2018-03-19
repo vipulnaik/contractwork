@@ -16,43 +16,41 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $650
+Total money earned as income: $2880
 
-Forward balance carried over from 2017: ($1751.91)
+Forward balance carried over from 2017: ($1571.91)
 
 Payment made: $8135
 
-Net payment due: ($9236.91) (this does not include pending payments to be entered)
+Net payment due: ($6826.91) (this does not include pending payments to be entered)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-This list is tentative; pending final review:
+Total so far: $2230
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280 (102 rows, 75,540 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280. Completed March 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Nokia&oldid=20708 (2018-03-08 06:00 UTC, 75540 bytes, 102 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_GiveWell Timeline of GiveWell]: $240 (73 rows, 51,300 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_GiveWell Timeline of GiveWell]: $240. Completed March 10, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_GiveWell&oldid=20815 (2018-03-10 20:28 UTC, 51300 bytes, 73 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_nuclear_energy Timeline of nuclear energy]: $180 (67 rows, 36,666 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_money_transfer Timeline of money transfer]: $200. Completed March 10, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nuclear_energy&oldid=19451 (2017-12-29 07:34 UTC, 36666 bytes, 67 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_money_transfer Timeline of money transfer]: $200 (61 rows, 40,748 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_Skype Timeline of Skype]: $180. Completed March 9, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Skype&oldid=20797 (2018-03-10 05:37 UTC, 54793 bytes, 101 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Skype Timeline of Skype]: $180 (101 rows, 54,793 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_Samsung Timeline of Samsung]: $230. Completed March 11, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Samsung&oldid=20850 (2018-03-11 20:23 UTC, 60379 bytes, 108 rows)
 
-* Timeline of Samsung: Still working
+* [https://timelines.issarice.com/wiki/Timeline_of_epidemiology Timeline of epidemiology]: $105. Completed March 1, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_epidemiology&oldid=20494 (2018-03-01 05:07 UTC, 22309 bytes, 37 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_epidemiology Timeline of epidemiology]: $105 (37 rows, 22,309 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_surgery Timeline of surgery]: $370. Completed March 3, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_surgery&oldid=20561 (208-03-03 17:33 UTC, 82515 bytes, 141 rows
 
-* [https://timelines.issarice.com/wiki/Timeline_of_surgery Timeline of surgery]: $370 (141 rows, 82,515 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_Roscosmos Timeline of Roscosmos]: $150. Completed March 8, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Roscosmos&oldid=20734 (2018-03-09 00:47 UTC, 37715 bytes, 45 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Roscosmos Timeline of Roscosmos]: $150 (45 rows, 37,715 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_water_desalination Timeline of water desalination]: $105. Compleyed March 5, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_water_desalination&oldid=20632 (2018-03-05 22:51 UTC, 23138 bytes, 52 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_water_desalination Timeline of water desalination]: $105 (52 rows, 23,138 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_rail_transport Timeline of rail transport]: $115. Completed March 11, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_rail_transport&oldid=20851 (2018-03-11 20:26 UTC, 24897 bytes, 60 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_rail_transport Timeline of rail transport]: $115 (60 rows, 25,197 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $125. Completed March 8, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&oldid=20741 (2018-03-09 01:05 UTC, 36757 bytes, 69 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $125 (69 rows, 36,757 bytes)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_psychoactive_drugs Timeline of psychoactive drugs]: $130 (60 rows, 28,516 bytes)
+* [https://timelines.issarice.com/wiki/Timeline_of_psychoactive_drugs Timeline of psychoactive drugs]: $130. Completed March 9, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_psychoactive_drugs&oldid=20804 (2018-03-10 06:24 UTC, 28516 bytes, 60 rows)
 
 === Additions to existing pages (Timelines Wiki) ===
 
@@ -91,13 +89,13 @@ Note: 2017 data is not yet final, since work done in December has not yet been e
 
 === Summary ===
 
-Total money earned as income: $11142
+Total money earned as income: $11322
 
 Forward balance carried over from 2016: ($510.37)
 
 Payment made: $12383.54
 
-Net payment due: ($1751.91)
+Net payment due: ($1571.91)
 
 === Completed pages (Wikipedia) ===
 
@@ -121,7 +119,7 @@ Total so far: $1065
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $35286
+Total so far: $35466
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health Timeline of the National Institutes of Health]: $250. Completed April 3, 2017. Includes 29 graphs (1 cumulative, 28 for the individual institutes).
 
@@ -190,6 +188,8 @@ Total so far: $35286
 * [https://timelines.issarice.com/wiki/Timeline_of_telephony_in_Sweden Timeline of telephony in Sweden]: $100. Completed November 24, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_telephony_in_Sweden&oldid=18770 (2017-11-25 03:12 UTC, 20602 bytes, 54 rows).
 
 * [https://timelines.issarice.com/wiki/Timeline_of_irrigation Timeline of irrigation]: $120. Completed November 24, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_irrigation&oldid=18764 (2017-11-24 21:55 UTC, 23742 bytes, 41 rows).
+
+* [https://timelines.issarice.com/wiki/Timeline_of_nuclear_energy Timeline of nuclear energy]: $180. Completed December 28, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nuclear_energy&oldid=19451 (2017-12-29 07:34 UTC, 36666 bytes, 67 rows)
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
