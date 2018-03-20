@@ -1,6 +1,6 @@
 <?php
 
-$payers = array("Vipul Naik", "Peter Hurford");
+$payers = array("Vipul Naik", "Peter Hurford", "Alex Flint");
 
 $yearList = array("2015", "2016", "2017", "2018");
 
