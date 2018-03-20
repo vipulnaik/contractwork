@@ -16,17 +16,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $2880
+Total money earned as income: $3490
 
 Forward balance carried over from 2017: ($1571.91)
 
 Payment made: $8135
 
-Net payment due: ($6826.91) (this does not include pending payments to be entered)
+Net payment due: ($6216.91) (this does not include pending payments to be entered)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-Total so far: $2230
+Total so far: $2840
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280. Completed March 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Nokia&oldid=20708 (2018-03-08 06:00 UTC, 75540 bytes, 102 rows)
 
@@ -52,15 +52,11 @@ Total so far: $2230
 
 * [https://timelines.issarice.com/wiki/Timeline_of_psychoactive_drugs Timeline of psychoactive drugs]: $130. Completed March 9, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_psychoactive_drugs&oldid=20804 (2018-03-10 06:24 UTC, 28516 bytes, 60 rows)
 
-==== Tentative completed pages ====
+* [https://timelines.issarice.com/wiki/Timeline_of_Pandora_Radio Timeline of Pandora Radio]: $110. Completed March 20, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Pandora_Radio&oldid=21067 (2018-03-11 19:48 UTC, 32861 bytes, 67 rows)
 
-Total of tentative payments: $610
+* [https://timelines.issarice.com/wiki/Timeline_of_virology Timeline of virology]: $350. Completed March 18, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_virology&oldid=21045 (2018-03-18 20:24 UTC, 87269 bytes, 137 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Pandora_Radio Timeline of Pandora Radio]: $110. Completed March 20, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Pandora_Radio&oldid=21067 (2018-03-11 19:48 UTC, 32861 bytes, 68 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_virology Timeline of virology]: $350. Completed March 18, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_virology&oldid=21045 (2018-03-18 20:24 UTC, 87269 bytes, 138 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_high-speed_rail Timeline of high-speed rail]: $150. Completed March 19, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_high-speed_rail&oldid=21060 (2018-03-19 20:15 UTC, 29199 bytes, 57 rows; also two graphs)
+* [https://timelines.issarice.com/wiki/Timeline_of_high-speed_rail Timeline of high-speed rail]: $150. Completed March 19, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_high-speed_rail&oldid=21060 (2018-03-19 20:15 UTC, 29199 bytes, 56 rows; also two graphs)
 
 === Additions to existing pages (Timelines Wiki) ===
 
