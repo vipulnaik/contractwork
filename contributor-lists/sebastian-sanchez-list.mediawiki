@@ -16,13 +16,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $3490
+Total money earned as income: $3613
 
 Forward balance carried over from 2017: ($1571.91)
 
 Payment made: $8135
 
-Net payment due: ($6216.91) (this does not include pending payments to be entered)
+Net payment due: ($6093.91) (this does not include pending payments to be entered)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -60,17 +60,17 @@ Total so far: $2840
 
 === Additions to existing pages (Timelines Wiki) ===
 
-The list is tentative, pending final review:
+Total so far: $123
 
-* [https://timelines.issarice.com/wiki/Timeline_of_salesforce.com Timeline of salesforce.com]: $12. [https://timelines.issarice.com/index.php?title=Timeline_of_salesforce.com&type=revision&diff=19549&oldid=18711 diff]. Increased 63,311 bytes to 66,475 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_salesforce.com Timeline of salesforce.com]: $12. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_salesforce.com&type=revision&diff=19549&oldid=18711 diff]. Increased from 63,311 bytes to 66,475 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_senescence_research Timeline of senescence research]: $12. [https://timelines.issarice.com/index.php?title=Timeline_of_senescence_research&type=revision&diff=19553&oldid=11852 diff]. Increased 24,383 bytes to 26,962 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_senescence_research Timeline of senescence research]: $12. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_senescence_research&type=revision&diff=19553&oldid=11852 diff]. Increased from 24,383 bytes to 26,962 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_measles Timeline of measles]: $3. [https://timelines.issarice.com/index.php?title=Timeline_of_measles&type=revision&diff=19564&oldid=11874 diff]. Increased from 22,651 bytes to 23,270 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_measles Timeline of measles]: $3. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_measles&type=revision&diff=19564&oldid=11874 diff]. Increased from 22,651 bytes to 23,270 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_cardiovascular_disease Timeline of cardiovascular disease]: $26. [https://timelines.issarice.com/index.php?title=Timeline_of_cardiovascular_disease&type=revision&diff=20432&oldid=11900 diff]. Increased from 34,495 bytes to 40,257 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $70. Completed January 31, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=19707&oldid=16223 diff]. Increased from 58,300 bytes to 75,231 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $70. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=19707&oldid=16223 diff]. Increased from 58,300 bytes to 75,231 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_cardiovascular_disease Timeline of cardiovascular disease]: $26. Completed March 1, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_cardiovascular_disease&type=revision&diff=20432&oldid=11900 diff]. Increased from 34,495 bytes to 40,257 bytes.
 
 === Stipends ===
 
