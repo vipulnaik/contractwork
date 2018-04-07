@@ -70,7 +70,7 @@ print '<table id="myTableTaskPaymentsDueByWorkerAndMonth" class="tablesorter">'.
 print "<thead>\n";
 print '<tr><th>Month</th>';
 foreach ($workerList as $worker) {
-  if ($totalPaymentForWorkerUsingMonth[$worker] > 0) {
+  if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
     print "<th><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">$worker</a></th>";
   }
 }
