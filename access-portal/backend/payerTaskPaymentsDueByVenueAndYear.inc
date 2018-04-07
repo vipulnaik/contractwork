@@ -49,7 +49,7 @@ print '<th>Total across years</th></tr>';
 print "</thead>\n<tbody>\n";
 foreach($taskVenues as $taskVenue) {
   if ($totalPaymentForTaskVenue[$taskVenue] > 0) {
-    print "<tr><td>$taskVenue</td>";
+    print "<tr><td><a href=\"venue.php?venue=".urlencode($taskVenue)."&matching=exact\">$taskVenue</a></td>";
     foreach (array_reverse($yearList) as $year) {
       print '<td align="right">'.number_format($paymentForTaskVenueAndYear[$taskVenue][$year],2).'</td>';
     }

@@ -51,7 +51,7 @@ if ($printTables == true) {
   print '<tr><th>Month</th>';
   foreach ($taskVenues as $taskVenue) {
     if ($totalPaymentForTaskVenue[$taskVenue] > 0) {
-      print "<th>$taskVenue</th>";
+     print "<th><a href=\"venue.php?venue=".urlencode($taskVenue)."&matching=exact\">$taskVenue</a></th>";
     }
   }
   print "<th>Total across task venues</th>";
