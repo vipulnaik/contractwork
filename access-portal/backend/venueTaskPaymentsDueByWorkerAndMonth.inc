@@ -89,7 +89,7 @@ foreach (array_reverse($monthList) as $month) {
 print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across months</strong></td>';
 foreach($workerList as $worker) {
-  if ($totalPaymentForWorkerUsingMonth[$worker] > 0) {
+  if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
     print '<td align="right"><strong>'.number_format($totalPaymentForWorkerUsingMonth[$worker],2).'</strong></td>';
   }
 }
