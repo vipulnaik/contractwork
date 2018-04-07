@@ -84,7 +84,7 @@ foreach (array_reverse($monthList) as $month) {
     foreach ($workerList as $worker) {
       if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
         $localPayment = 0;
-        if (isset($paymentForWorkerAndYear[$worker][$month])) {
+        if (isset($paymentForWorkerAndMonth[$worker][$month])) {
           $localPayment = $paymentForWorkerAndMonth[$worker][$month];
         }
         print '<td align="right">'.number_format($localPayment,2).'</td>';
