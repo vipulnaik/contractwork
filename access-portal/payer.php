@@ -16,7 +16,7 @@ print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."
 print '</head>';
 print '<body>';
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
-print "<h3>Contract work sponsored by $payer for Vipul Naik</h3>";
+print "<h3>Contract work sponsored by $payer and managed through Vipul Naik</h3>";
 $payerSelectQuery = "select payer from tasks where payer=".'"'.str_replace('"','\"',$payer).'"'.";";
 $payerSelectResult = $mysqli -> query($payerSelectQuery);
 if ($payerSelectResult -> num_rows == 0) {
