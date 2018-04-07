@@ -43,12 +43,10 @@ if ($taskSelectResult -> num_rows == 0) {
   print '<h4>Table of contents</h4>';
   print '<ul>';
   print '<li><a href="#venueTaskPaymentsDueByTypeAndYear">Venue task payments due by type and year</a></li>';
-  print '<li><a href="#venueImpact">Venue impact: Wikipedia</a></li>';
   print '<li><a href="#venueTaskPaymentsDueByTypeAndMonth">Venue task payments due by type and month</a></li>';
   print '<li><a href="#venueTaskList">Venue task list</a></li>';
   print '</ul>';
   include("backend/venueTaskPaymentsDueByTypeAndYear.inc");
-  include("backend/venueImpact.inc");
   include("backend/venueTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/venueTaskList.inc");
 }

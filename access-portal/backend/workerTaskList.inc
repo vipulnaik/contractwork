@@ -23,7 +23,7 @@ print "</thead>\n<tbody>\n";
 for($i = 0; $i < $workerTaskSelectResult -> num_rows; $i++) {
   $row = $workerTaskSelectResult -> fetch_assoc();
   print '<tr>';
-  print '<td>'.$row['task_venue'].'</td>';
+  print '<td>'.<a href="/venue.php?venue='.urlencode($row['task_venue']).'">'.$row['task_venue'].'</a></td>';
   print '<td>'.$row['task_type'].'</td>';
   if (substr($row['task_receptacle_url'],0,4) == "http" and strpos($row['task_receptacle_url'],',http') == false) {
     print '<td><a href="'.$row['task_receptacle_url'].'">'.$row['task_receptacle'].'</a>';
@@ -38,7 +38,7 @@ for($i = 0; $i < $workerTaskSelectResult -> num_rows; $i++) {
   print '<td><a href="/payer.php?payer='.urlencode($row['payer']).'">'.$row['payer'].'</a></td>';
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
   print '<td><a href="/topic.php?topic='.urlencode($row['topic']).'">'.$row['topic'].'</a></td>';
-  print '<td><a href="/format.php?format='.urlencode($row['format']).'">'.$row['format'].'</a></td>';
+  print '<td><a href="/format.php?format='.urlencode($row['format']).'&matching=exact">'.$row['format'].'</a></td>';
   if (isset($row['minutes_spent']) && $row['minutes_spent'] != '') {
     $hoursSpent = floor($row['minutes_spent']/60);
     $residualMinutesSpent = $row['minutes_spent'] - ($hoursSpent * 60);

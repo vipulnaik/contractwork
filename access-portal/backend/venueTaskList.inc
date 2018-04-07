@@ -8,7 +8,6 @@ print '<table id="myTableVenueTaskList" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr>';
 print '<th>Worker</th>';
-print '<th>Task venue</th>';
 print '<th>Task type</th>';
 print '<th>Task receptacle</th>';
 print '<th>Completion date</th>';
@@ -22,7 +21,6 @@ print "</thead>\n<tbody>\n";
 for($i = 0; $i < $venueTaskSelectResult -> num_rows; $i++) {
   $row = $venueTaskSelectResult -> fetch_assoc();
   print '<tr><td><a href="/worker.php?worker='.urlencode($row['worker']).'">'.$row['worker'].'</a></td>';
-  print '<td>'.$row['task_venue'].'</td>';
   print '<td>'.$row['task_type'].'</td>';
   if (substr($row['task_receptacle_url'],0,4) == "http" and strpos($row['task_receptacle_url'],',http') == false) {
     print '<td><a href="'.$row['task_receptacle_url'].'">'.$row['task_receptacle'].'</a></td>';
@@ -33,7 +31,7 @@ for($i = 0; $i < $venueTaskSelectResult -> num_rows; $i++) {
   print '<td><a href="/payer.php?payer='.urlencode($row['payer']).'">'.$row['payer'].'</a></td>';
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
   print '<td>'.$row['topic'].'</td>';
-  print '<td>'.$row['format'].'</td>';
+  print '<td>'.<a href="/format.php?format='.urlencode($row['format']).'&matching=exact">'.$row['format'].'</a></td>';
   print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
 }
