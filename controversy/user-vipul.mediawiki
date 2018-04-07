@@ -13,11 +13,11 @@ I also appear to have logged in using this account on my phone a few times, so s
 
 == Sponsored Wikipedia editing ==
 
-I have been running an experiment with sponsored Wikipedia editing since April 2015. As of March 8, 2017, I am suspending this operation, pending review of it at [[Wikipedia:Conflict of interest/Noticeboard|COIN]] and [[Wikipedia:Administrators' Noticeboard/Incidents|ANI]]. I will update this page if and when the status changes.
+I had been running an experiment with sponsored Wikipedia editing since April 2015. On March 8, 2017, I terminated this operation, due to negative feedback from [[Wikipedia:Conflict of interest/Noticeboard|COIN]] and [[Wikipedia:Administrators' Noticeboard/Incidents|ANI]]. I will update this page if and when the status changes.
 
-For a most up-to-date list of people I have sponsored to create Wikipedia content, and links to the specific pieces of work I have sponsored, see [https://github.com/vipulnaik/contractwork this repository] or [https://contractwork.vipulnaik.com this portal]. Most specifically, [https://contractwork.vipulnaik.com/venue.php?venue=Wikipedia&matching=exact this page] lists all sponsored Wikipedia editing tasks that I have paid for, along with various types of summary information.
+For the list of people I have paid to create Wikipedia content, and links to the specific pieces of work I have sponsored, see [https://github.com/vipulnaik/contractwork this repository] or [https://contractwork.vipulnaik.com this portal]. Most specifically, [https://contractwork.vipulnaik.com/venue.php?venue=Wikipedia&matching=exact this page] lists all sponsored Wikipedia editing tasks that I have paid for, along with various types of summary information.
 
-You might also be interested in [[User:Riceissa|Issa Rice]], one of the people who makes edits and improvements to Wikipedia, some of which I pay for. You can also see [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki my payment list to him] (or a [http://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice more information-rich version thereof]).
+You might also be interested in [[User:Riceissa|Issa Rice]], one of the people who has made edits on Wikipedia that I have paid for, and who is currently working with me outside of Wikipedia. You can also see [https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki my payment list to him] (or a [http://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice more information-rich version thereof]).
 
 == Permission to cite and reference (in on-Wikipedia discussions) any stuff published under my name off-wiki ==
 
