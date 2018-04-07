@@ -31,7 +31,7 @@ for($i = 0; $i < $venueTaskSelectResult -> num_rows; $i++) {
   print '<td><a href="/payer.php?payer='.urlencode($row['payer']).'">'.$row['payer'].'</a></td>';
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
   print '<td>'.$row['topic'].'</td>';
-  print '<td>'.<a href="/format.php?format='.urlencode($row['format']).'&matching=exact">'.$row['format'].'</a></td>';
+  print '<td><a href="/format.php?format='.urlencode($row['format']).'&matching=exact">'.$row['format'].'</a></td>';
   print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
 }

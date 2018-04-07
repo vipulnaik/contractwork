@@ -40,7 +40,7 @@ for($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   print '<td><a href="/payer.php?payer='.urlencode($row['payer']).'">'.$row['payer'].'</a></td>';
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
   print '<td>'.$row['topic'].'</td>';
-  print '<td>'.<a href="/format.php?venue='.urlencode($row['format']).'&matching=exact">'.$row['format'].'</a></td>';
+  print '<td><a href="/format.php?venue='.urlencode($row['format']).'&matching=exact">'.$row['format'].'</a></td>';
   if (isset($row['minutes_spent']) && $row['minutes_spent'] != '') {
     $hoursSpent = floor($row['minutes_spent']/60);
     $residualMinutesSpent = $row['minutes_spent'] - ($hoursSpent * 60);
