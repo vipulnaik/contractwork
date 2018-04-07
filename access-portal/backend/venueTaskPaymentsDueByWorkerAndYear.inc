@@ -1,5 +1,5 @@
 <?php
-print '<h4 id="venueTaskPaymentsDueByWorkerAndYear">Venue task payments due by worker and year</h4>';
+print "<h4 id=\"venueTaskPaymentsDueByWorkerAndYear\">Task payments due for tasks related to venue $venue by worker and year</h4>";
 
 $workerList = array();
 $workerSelectQuery = "select distinct worker from workers where private = false;";
