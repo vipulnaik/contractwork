@@ -24,7 +24,7 @@ print "</thead>\n<tbody>\n";
 for($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   print '<tr>';
-  print '<td>'.<a href="/venue.php?venue='.urlencode($row['task_venue']).'&matching=exact">'.$row['task_venue'].'</a></td>';
+  print '<td><a href="/venue.php?venue='.urlencode($row['task_venue']).'&matching=exact">'.$row['task_venue'].'</a></td>';
   print '<td>'.$row['task_type'].'</td>';
   if (substr($row['task_receptacle_url'],0,4) == "http" and strpos($row['task_receptacle_url'],',http') == false) {
     print '<td><a href="'.$row['task_receptacle_url'].'">'.$row['task_receptacle'].'</a>';
