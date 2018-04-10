@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $7065
+Total money earned by doing work (taxable as income for 2018): $7081
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $119.41
+Net payment due: $129.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -101,11 +101,14 @@ Total so far: $4500
 Total so far: $6
 
 * April 1, 2018: $6. Payment of $1 for every $1,000 in deferred payment receipt above a $12,000 base. Since the check was for $18,000, that translated to $6 (for the $6,000 above the base $12,000)
+
 === Touch payments ===
 
-Total so far: $10
+Total so far: $20
 
 * January: $10
+
+* February: $10
 
 === TODO ===
 
