@@ -78,6 +78,9 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Check','Issa Rice',NULL,'2017-03-25','2017-04-10','2017-04-15','2017-04-17',12000,12000,0,12000),
   ('Check','Issa Rice',NULL,'2017-09-27','2017-09-30','2017-10-02','2017-10-12',15000,15000,0,15000),
 
+  # -- Payments for 2018 tax year
+  ('Check','Issa Rice',NULL,'2018-04-02','2018-04-05','2018-04-09','2018-04-18',18000,18000,0,18000),
+  
   # -- Adrian Ulloa payment
   ('PayPal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105),
   ('PayPal','Adrian Ulloa','Issa Rice','2016-12-14','2016-12-14','2016-12-20','2016-12-20',100,100.50,0.50,100),
