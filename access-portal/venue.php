@@ -43,14 +43,18 @@ if ($taskSelectResult -> num_rows == 0) {
   print '<h4>Table of contents</h4>';
   print '<ul>';
   print '<li><a href="#venueTaskPaymentsDueByTypeAndYear">Venue task payments due by type and year</a></li>';
+  print '<li><a href="#venueTaskPaymentsDueByPayerAndYear">Venue task payments due by payer and year</a></li>';
   print '<li><a href="#venueTaskPaymentsDueByWorkerAndYear">Venue task payments due by worker and year</a></li>';
   print '<li><a href="#venueTaskPaymentsDueByTypeAndMonth">Venue task payments due by type and month</a></li>';
+  print '<li><a href="#venueTaskPaymentsDueByPayerAndMonth">Venue task payments due by payer and month</a></li>';
   print '<li><a href="#venueTaskPaymentsDueByWorkerAndMonth">Venue task payments due by worker and month</a></li>';
   print '<li><a href="#venueTaskList">Venue task list</a></li>';
   print '</ul>';
   include("backend/venueTaskPaymentsDueByTypeAndYear.inc");
+  include("backend/venueTaskPaymentsDueByPayerAndYear.inc");
   include("backend/venueTaskPaymentsDueByWorkerAndYear.inc");
   include("backend/venueTaskPaymentsDueByTypeAndMonth.inc");
+  include("backend/venueTaskPaymentsDueByPayerAndMonth.inc");
   include("backend/venueTaskPaymentsDueByWorkerAndMonth.inc");
   include("backend/venueTaskList.inc");
 }
