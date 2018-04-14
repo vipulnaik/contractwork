@@ -2,7 +2,7 @@
 print "<h4 id=\"venueTaskPaymentsDueByPayerAndMonth\">Task payments due for tasks related to venue $venue by payer and month</h4>";
 
 $payerList = array();
-$payerSelectQuery = "select distinct payer from payers;";
+$payerSelectQuery = "select distinct payer from tasks where $venueRegexMatcher;";
 $payerSelectResult = $mysqli -> query($payerSelectQuery);
 
 for($i=0;$i < $payerSelectResult -> num_rows; $i++) {
