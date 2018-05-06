@@ -16,17 +16,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $5191
+Total money earned as income: $5291
 
 Forward balance carried over from 2017: ($1571.91)
 
 Payment made: $8135
 
-Net payment due: ($4515.91) (this does not include pending payments to be entered)
+Net payment due: ($4415.91) (this does not include pending payments to be entered)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-Total so far: $3205
+Total so far: $3305
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280. Completed March 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Nokia&oldid=20708 (2018-03-08 06:00 UTC, 75540 bytes, 102 rows)
 
@@ -61,6 +61,8 @@ Total so far: $3205
 * [https://timelines.issarice.com/wiki/Timeline_of_IBM Timeline of IBM]: $265. Completed April 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_IBM&oldid=22058 (2018-04-30 23:12 UTC, 73275 bytes, 239 rows)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_telephony_in_Norway Timeline of telephony in Norway]: $100. Completed April 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_telephony_in_Norway&oldid=22036 (2018-04-30 19:21 UTC, 19944 bytes, 68 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_cable_transport Timeline of cable transport]: $100. Completed May 4, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cable_transport&oldid=22153 (2018-05-04 19:59 UTC, 21946 bytes, 49 rows)
 
 === Additions to existing pages (Timelines Wiki) ===
 
