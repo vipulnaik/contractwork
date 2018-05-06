@@ -134,8 +134,9 @@ Total so far: $20
 
 === TODO ===
 
-At next pay:
+At next pay (early June 2018):
 
+* Timeline of OpenAI
 * Update pay for timeline of BERI updates/expansion
 * Check with Issa about payment plans for timeline of the rationality community
 * Updates to timeline of MIRI and timeline of CFAR
