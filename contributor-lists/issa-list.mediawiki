@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $8581
+Total money earned by doing work (taxable as income for 2018): $9701
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $1629.41
+Net payment due: $2749.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -70,19 +70,39 @@ Total so far: $25
 
 * Timeline of Machine Intelligence Research Institute: $25. Completed February 24, 2018. Payment for page as of https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&oldid=20301 and specifically for the diff https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&type=revision&diff=20301&oldid=16832 (82,663 bytes to 89,249 bytes)
 
-=== Other tasks ===
+=== Work on Cause Prioritization Wiki ===
 
-Total so far: $2180
+Total so far: $1250
+
+* Work on Cause Prioritization Wiki (first installment): $450 at $45/day for 10 days, ending March 7, 2018.
+
+* Work on Cause Prioritization Wiki (second installment): $400 at $40/day for 10 days, from March 8, 2018 to April 14, 2018 (ending March 29, 2018 excluding report preparation). Progress report at https://causeprioritization.org/Progress_report_2018-03-08_to_2018-03-29
+
+* Work on Cause Prioritization Wiki (third installment): $400 at $40/day for 10 days, from April 14, 2018 to May 3, 2018. Progress report at https://causeprioritization.org/Progress_report_starting_2018-04-14
+
+=== Work on people watching ===
+
+Total so far: $380
 
 * People watching: $380 for two 4-day periods at $50/day and $45/day, ending January 13, 2018.
 
-* Work on Cause Prioritization Wiki: $450 at $45/day for 10 days, ending March 7, 2018.
+=== Work on Donations List Website ===
+
+Total so far: $1345
 
 * Work on Donations List Website in January: $675
 
 * Work on Donations List Website in February: $350
 
-* Timelines main page update at request: $5
+* Work on Donations List Website in March: $70
+
+* Work on Donations List Website in April: $250
+
+=== Other work on timelines wiki ===
+
+Total so far: $325
+
+* Timelines main page update at request: $5. Done March 10, 2018.
 
 * One year of timelines wiki maintenance: $320. This includes hosting and maintenance costs of $20/month (total $240), plus payment for additional work, such as automating the main page table and making sure it is updated: https://github.com/riceissa/timelines-wiki-main-page-table
 
@@ -117,8 +137,6 @@ Total so far: $20
 At next pay:
 
 * Update pay for timeline of BERI updates/expansion
-* Update DLW pay for March and April
-* Make next 10-day payment for work on Cause Prioritization Wiki
 * Check with Issa about payment plans for timeline of the rationality community
 * Updates to timeline of MIRI and timeline of CFAR
 * 1 day spent on recruitment plan
