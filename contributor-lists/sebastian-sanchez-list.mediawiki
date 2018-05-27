@@ -92,15 +92,25 @@ Total so far: $336
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Amazon.com Timeline of Amazon.com]: $37. Completed April 28, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Amazon.com&type=revision&diff=21974&oldid=15863 diff]. Increased from 29,817 bytes to 41,269 bytes.
 
+=== Tentative payments for completed timelines ===
+
+* [https://timelines.issarice.com/wiki/Timeline_of_bacteriology Timeline of bacteriology]: ??. Completed May 8, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_bacteriology&oldid=22250 (2018-05-08 19:54 UTC, 82793 bytes, ?? rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_diabetes Timeline of diabetes]: ??. Completed May 10, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_diabetes&oldid=22301 (2018-05-10 17:57 UTC, 68279 bytes, ?? rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_health_software Timeline of health software]: ??. Completed May 14, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_health_software&oldid=22396 (2018-05-14 22:33 UTC, 20881 bytes, ?? rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_drug_development Timeline of drug development]: ??. Completed May 25, 2018. Completed version at https://timelines.issarice.com/wiki/Timeline_of_drug_development (2018-05-27 18:02 UTC, 32413 bytes, ?? rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_lithium Timeline of lithium]: ??. Completed May 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_lithium&oldid=22742 (2018-05-26 23:24 UTC, 21945 bytes, ?? rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Cisco_Systems Timeline of Cisco Systems]: ??. Completed May 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Cisco_Systems&oldid=22760 (2018-05-27 05:51 UTC, 32444 bytes, ?? rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Evidence_Action Timeline of Evidence Action]: ??. Completed May 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Evidence_Action&oldid=22762 (2018-05-27 06:00 UTC, 19107 bytes, ?? rows)
+
+=== Tentative payments for expansions ===
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Spotify Timeline of Spotify]: $26. Completed May 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Spotify&type=revision&diff=22343&oldid=18473 diff]. Increased from 41,067 bytes to 49,875 bytes
+
 === TODO ===
 
-Deferred payment as of April 30, 2018 because of planned further expansion:
+Deferred payment as of May 27, 2018 because changes are small, so we'll see if they consolidate with bigger changes (expected amount of each is $1-10):
 
-* Timeline of antibiotics: Suggestion given for explaining each row more clearly.
-
-* Timeline of Spotify (more expansion to be done)
-
-Deferred payment as of April 30, 2018 because changes are small, so we'll see if they consolidate with bigger changes (expected amount of each is $1-7):
+* Timeline of colorectal cancer
 
 * Timeline of brain cancer
 
