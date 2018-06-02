@@ -94,13 +94,17 @@ Total so far: $336
 
 === Tentative payments for completed timelines ===
 
-* [https://timelines.issarice.com/wiki/Timeline_of_bacteriology Timeline of bacteriology]: ??. Completed May 8, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_bacteriology&oldid=22250 (2018-05-08 19:54 UTC, 82793 bytes, ?? rows)
-* [https://timelines.issarice.com/wiki/Timeline_of_diabetes Timeline of diabetes]: ??. Completed May 10, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_diabetes&oldid=22301 (2018-05-10 17:57 UTC, 68279 bytes, ?? rows)
-* [https://timelines.issarice.com/wiki/Timeline_of_health_software Timeline of health software]: ??. Completed May 14, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_health_software&oldid=22396 (2018-05-14 22:33 UTC, 20881 bytes, ?? rows)
-* [https://timelines.issarice.com/wiki/Timeline_of_drug_development Timeline of drug development]: ??. Completed May 25, 2018. Completed version at https://timelines.issarice.com/wiki/Timeline_of_drug_development (2018-05-27 18:02 UTC, 32413 bytes, ?? rows)
-* [https://timelines.issarice.com/wiki/Timeline_of_lithium Timeline of lithium]: ??. Completed May 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_lithium&oldid=22742 (2018-05-26 23:24 UTC, 21945 bytes, ?? rows)
-* [https://timelines.issarice.com/wiki/Timeline_of_Cisco_Systems Timeline of Cisco Systems]: ??. Completed May 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Cisco_Systems&oldid=22760 (2018-05-27 05:51 UTC, 32444 bytes, ?? rows)
-* [https://timelines.issarice.com/wiki/Timeline_of_Evidence_Action Timeline of Evidence Action]: ??. Completed May 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Evidence_Action&oldid=22762 (2018-05-27 06:00 UTC, 19107 bytes, ?? rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_bacteriology Timeline of bacteriology]: $395. Completed May 8, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_bacteriology&oldid=22250 (2018-05-08 19:54 UTC, 82793 bytes, 113 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_diabetes Timeline of diabetes]: $340. Completed May 10, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_diabetes&oldid=22301 (2018-05-10 17:57 UTC, 68279 bytes, 162 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_health_software Timeline of health software]: $100. Completed May 14, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_health_software&oldid=22396 (2018-05-14 22:33 UTC, 20881 bytes, 42 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_drug_development Timeline of drug development]: $160. Completed May 25, 2018. Completed version at https://timelines.issarice.com/wiki/Timeline_of_drug_development (2018-05-27 18:02 UTC, 32413 bytes, 70 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_lithium Timeline of lithium]: $110. Completed May 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_lithium&oldid=22742 (2018-05-26 23:24 UTC, 21945 bytes, 37 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Cisco_Systems Timeline of Cisco Systems]: $140. Completed May 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Cisco_Systems&oldid=22760 (2018-05-27 05:51 UTC, 32444 bytes, 73 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Evidence_Action Timeline of Evidence Action]: $100. Completed May 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Evidence_Action&oldid=22762 (2018-05-27 06:00 UTC, 19107 bytes, 28 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Wi-Fi Timeline of Wi-Fi]: $145. Completed May 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Wi-Fi&oldid=22834 (2018-05-30 22:21 UTC, 30711 bytes, 70 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Oracle_Corporation Timeline of Oracle Corporation]: $135. Completed May 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Oracle_Corporation&oldid=22836 (2018-05-30 23:07 UTC, 30281 bytes, 73 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_HIV/AIDS Timeline of HIV/AIDS]: $285. Completed June 1, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_HIV/AIDS&oldid=22888 (2018-06-01 17:08 UTC, 56131 bytes, 134 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_vaccines Timeline of vaccines]: $200. Completed June 1, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_vaccines&oldid=22889 (2018-06-01 17:16 UTC, 39176 bytes, 82 rows)
 
 === Tentative payments for expansions ===
 
