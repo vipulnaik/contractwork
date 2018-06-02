@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $9701
+Total money earned by doing work (taxable as income for 2018): $10241
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $2749.41
+Net payment due: $3289.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -108,7 +108,7 @@ Total so far: $325
 
 === Stipends ===
 
-Total so far: $6000
+Total so far: $6540
 
 * January: $1500
 
@@ -117,6 +117,8 @@ Total so far: $6000
 * March: $1500. Worked 184 hours against total work hours of 184.
 
 * April: $1500. Worked 160.78 hours against total work hours of 160.
+
+* May: $540. Worked 63.9 hours against total work hours of 160. Applied 2.38 hours from the past, giving 66.28 hours. This is out of a total of 184 hours.
 
 === Royalties ===
 

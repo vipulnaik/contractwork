@@ -49,7 +49,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',1500,'2018-01-01','2018-01-31','2018-01-31',NULL,179,176),
   ('Issa Rice',1500,'2018-02-01','2018-02-28','2018-02-28','Accumulated 1.6 hours of overtime work to be adjusted against a later month',161.6,160),
   ('Issa Rice',1500,'2018-03-01','2018-03-31','2018-03-31',NULL,184,184),
-  ('Issa Rice',1500,'2018-04-01','2018-04-30','2018-04-30',NULL,160.78,160);
+  ('Issa Rice',1500,'2018-04-01','2018-04-30','2018-04-30',NULL,160.78,160),
+  ('Issa Rice',540,'2018-05-01','2018-05-31','2018-05-31','Used up 2.38 accumulated overtime hours from previous months. Still below full monthly quota, so scaled pay based on fraction of month worked',63.9,184);
   
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),
