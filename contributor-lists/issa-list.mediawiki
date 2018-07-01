@@ -50,7 +50,7 @@ Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $3289.41
+Net payment due: $4499.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -88,15 +88,31 @@ Total so far: $380
 
 === Work on Donations List Website ===
 
-Total so far: $1345
+Total so far: $1400
 
-* Work on Donations List Website in January: $675
+* Work on Donations List Website in January: $675 (79 hours 20 minutes)
 
-* Work on Donations List Website in February: $350
+* Work on Donations List Website in February: $350 (41 hours)
 
-* Work on Donations List Website in March: $70
+* Work on Donations List Website in March: $70 (8 hours 12 minutes)
 
-* Work on Donations List Website in April: $250
+* Work on Donations List Website in April: $250 (29 hours 43 minutes)
+
+* Work on Donations List Website in June: $55 (6 hours 27 minutes)
+
+== Work on Org Watch ===
+
+Total so far: $396
+
+* Work on Org Watch in June: $396 (52 hours 48 minutes at $7.50/hour)
+
+=== Work on AI Watch ===
+
+Total so far: $100
+
+NOTE: This does not include AI Watch tasks that are performed during hours covered under the stipend, but are not directly paid for.
+
+* Work on AI Watch in May: $100. 2 days (total 16 hours: May 28 and May 29) of work to add more data and summarization tools for people at the Machine Intelligence Research Institute: https://aiwatch.issarice.com/?organization=Machine+Intelligence+Research+Institute
 
 === Other work on timelines wiki ===
 
@@ -108,7 +124,7 @@ Total so far: $325
 
 === Stipends ===
 
-Total so far: $6540
+Total so far: $7199
 
 * January: $1500
 
@@ -118,7 +134,9 @@ Total so far: $6540
 
 * April: $1500. Worked 160.78 hours against total work hours of 160.
 
-* May: $540. Worked 63.9 hours against total work hours of 160. Applied 2.38 hours from the past, giving 66.28 hours. This is out of a total of 184 hours.
+* May: $540. Worked 63.9 hours against total work hours of 184. Applied 2.38 hours from the past, giving 66.28 hours.
+
+* June: $659. Worked 77.28 against total work hours of 184, so pay scaled from original of $1500.
 
 === Royalties ===
 
@@ -136,7 +154,7 @@ Total so far: $20
 
 === TODO ===
 
-At next pay (early June 2018):
+At next pay (early July 2018):
 
 * Update pay for timeline of BERI updates/expansion
 * Check with Issa about payment plans for timeline of the rationality community
