@@ -154,7 +154,7 @@ Total so far: $20
 
 === TODO ===
 
-At next pay (early July 2018):
+At next pay (early August 2018):
 
 * Update pay for timeline of BERI updates/expansion
 * Check with Issa about payment plans for timeline of the rationality community
@@ -163,6 +163,7 @@ At next pay (early July 2018):
 * 2 days spent on timelines wiki (2 more days left, might add pay together)
 * Timeline of OpenAI
 * Timeline of Center for Human-Compatible AI
+* Timeline of Google Brain
 
 === Payments made ===
 
