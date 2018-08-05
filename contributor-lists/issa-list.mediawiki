@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $13415
+Total money earned by doing work (taxable as income for 2018): $13584
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $6463.41
+Net payment due: $6632.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -154,11 +154,19 @@ Total so far: $30
 
 === Other work on timelines wiki ===
 
-Total so far: $325
+Total so far: $444
 
 * Timelines main page update at request: $5. Done March 10, 2018.
 
 * One year of timelines wiki maintenance: $320. This includes hosting and maintenance costs of $20/month (total $240), plus payment for additional work, such as automating the main page table and making sure it is updated: https://github.com/riceissa/timelines-wiki-main-page-table
+
+* Timelines wiki popularization thinking: $119. Completed April 13, 2018. This is 19 hours of work brainstorming various ideas on improving content and engagement with Timelines Wiki. One of the outcomes of this was the creation of the [https://www.reddit.com/r/TimelinesWiki/ Timelines Wiki subreddit] to which Issa has posting regularly. Budget was for four days (32 hours) at $6.25/hour of which 19 were used; Issa has flexibility to spend, report, and get paid for the remaining 13 hours later
+
+=== Other work ===
+
+Total so far: $50
+
+* Work on summer recruitment plans: $50. Completed April 13, 2018. This was an exploration of strategies to find people who might work with us over the summer. However, we ultimately decided not to pursue this further in 2018
 
 === Stipends ===
 
@@ -200,8 +208,6 @@ At next pay (August 11, 2018):
 * Update pay for timeline of BERI updates/expansion
 * Check with Issa about payment plans for timeline of the rationality community
 * Updates to timeline of MIRI and timeline of CFAR
-* 1 day spent on recruitment plan
-* 2 days spent on timelines wiki (2 more days left, might add pay together)
 * Timeline of Google Brain (not complete as of July 1, 2018. Check with Issa if it is complete before finalizing pay)
 
 === Payments made ===
