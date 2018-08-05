@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $13382
+Total money earned by doing work (taxable as income for 2018): $13415
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $6430.41
+Net payment due: $6463.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -76,13 +76,15 @@ Total so far: $25
 
 === Work on Cause Prioritization Wiki ===
 
-Total so far: $1250
+Total so far: $1283
 
 * Work on Cause Prioritization Wiki (first installment): $450 at $45/day for 10 days, ending March 7, 2018.
 
 * Work on Cause Prioritization Wiki (second installment): $400 at $40/day for 10 days, from March 8, 2018 to April 14, 2018 (ending March 29, 2018 excluding report preparation). Progress report at https://causeprioritization.org/Progress_report_2018-03-08_to_2018-03-29
 
 * Work on Cause Prioritization Wiki (third installment): $400 at $40/day for 10 days, from April 14, 2018 to May 3, 2018. Progress report at https://causeprioritization.org/Progress_report_starting_2018-04-14
+
+* Work on Cause Prioritization Wiki (aborted fourth installment) $33 at $40/day for 6 hours 35 minutes of work on May 3, 2018. The original thinking was that this would lead to another 10-day block, but Vipul decided against investing in that 10-day block right now.
 
 === Work on people watching ===
 
