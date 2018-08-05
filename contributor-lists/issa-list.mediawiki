@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $13584
+Total money earned by doing work (taxable as income for 2018): $13654
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $6632.41
+Net payment due: $6702.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -152,6 +152,12 @@ Total so far: $30
 
 * Org repo: $30 (5 hours 8 minutes of work, completed May 27)
 
+=== Work on Wikipedia Views ===
+
+Total so far: $70
+
+* Wikipedia Clickstream: $70. Worked for 7 hours, 54 minutes, on April 21 and April 25. The work built on previous work with the clickstream dataset to streamline the monthly update process, now that the Wikimedia Foundation is publishing the datasets every month. See https://github.com/vipulnaik/wikipediaviews/issues/21 for the issue specifics
+
 === Other work on timelines wiki ===
 
 Total so far: $444
@@ -207,7 +213,8 @@ At next pay (August 11, 2018):
 * Subwiki one day of work (learning.subwiki): $70 announced
 * Update pay for timeline of BERI updates/expansion
 * Check with Issa about payment plans for timeline of the rationality community
-* Updates to timeline of MIRI and timeline of CFAR
+* Updates to timeline of MIRI, CFAR, and AI safety
+* Timeline of Foundational Research Institute
 * Timeline of Google Brain (not complete as of July 1, 2018. Check with Issa if it is complete before finalizing pay)
 
 === Payments made ===
