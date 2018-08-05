@@ -192,14 +192,6 @@ Total so far: $20
 
 * February: $10
 
-=== Tentative payments for completed timelines ===
-
-Data entered on the morning of Wednesday, July 25, 2018.
-
-Expected finalization date: Between August 1 and August 7, 2018.
-
-Total of tentative payments entered so far: $130
-
 === TODO ===
 
 At next pay (August 11, 2018):
