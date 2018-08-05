@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $12946
+Total money earned by doing work (taxable as income for 2018): $13108
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $5994.41
+Net payment due: $6156.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -120,15 +120,15 @@ NOTE: This does not include AI Watch tasks that are performed during hours cover
 
 === Work on computing data project ===
 
-Total so far: $314
+Total so far: $408
 
-* Work on computing data project in July: $314 (41 hours 53 minutes at $7.50/hour)
+* Work on computing data project in July: $408 (41 hours 53 minutes at $9.75/hour)
 
 === Work on AI safety matched against other projects ===
 
-Total so far: $227
+Total so far: $295
 
-* Work in July to match against CDP work in July: $227 (30 hours 14 minutes at $7.50/hour)
+* Work in July to match against CDP work in July: $295 (30 hours 14 minutes at $9.75/hour)
 
 As of July end, there are 11 hours 39 minutes of remaining time that can be spent on AI safety.
 
