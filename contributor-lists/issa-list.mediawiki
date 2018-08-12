@@ -44,23 +44,29 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $13654
+Total money earned by doing work (taxable as income for 2018): $13849
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $6702.41
+Net payment due: $6897.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
-Total so far: $180
+Total so far: $375
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Berkeley_Existential_Risk_Initiative Timeline of Berkeley Existential Risk Initiative]: $50. Completed February 9, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Berkeley_Existential_Risk_Initiative&oldid=19986 (10,881 bytes, 2018-02-09 18:49 UTC)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $100. Completed May 8, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&oldid=22261 (2018-05-08 23:02 UTC, 28771 bytes, 37 rows)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_the_rationality_community Timeline of the rationality community]: $70. Completed May 9, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_rationality_community&oldid=22297 (2018-05-10 05:19 UTC, 23790 bytes, 42 rows)
+
 * [https://timelines.issarice.com/wiki/Timeline_of_Center_for_Human-Compatible_AI Timeline of Center for Human-Compatible AI]: $30. Completed May 10, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Center_for_Human-Compatible_AI&oldid=22309 (2018-05-11 00:35 UTC, 7179 bytes, 11 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Google_Brain Timeline of Google Brain]: $75. Completed June 13, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Google_Brain&oldid=23178 (2018-06-14 00:59 UTC, 17419 bytes, 24 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Foundational_Research_Institute Timeline of Foundational Research Institute]: $50. Completed July 16, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Foundational_Research_Institute&oldid=23956 (2018-07-16 17:08 UTC, 10413 bytes, 19 rows)
 
 === Completed pages for Alex Flint (Timelines Wiki) ===
 
@@ -208,14 +214,11 @@ Total so far: $20
 
 === TODO ===
 
-At next pay (August 11, 2018):
+At next pay (August 25, 2018):
 
 * Subwiki one day of work (learning.subwiki): $70 announced
 * Update pay for timeline of BERI updates/expansion
-* Check with Issa about payment plans for timeline of the rationality community
 * Updates to timeline of MIRI, CFAR, and AI safety
-* Timeline of Foundational Research Institute
-* Timeline of Google Brain (not complete as of July 1, 2018. Check with Issa if it is complete before finalizing pay)
 
 === Payments made ===
 
