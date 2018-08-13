@@ -16,21 +16,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $11592
+Total money earned as income: $12112
 
 Forward balance carried over from 2017: ($1571.91)
 
 Payment made: $12085.32
 
-Net payment due: ($2065.23) (this does not include pending tentative payments)
-
-Tentative payments, tentative sum: $520
-
-Net payment due after incorporating tentative sum: ($1545.23)
+Net payment due: ($1545.23)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-Total so far: $7380
+Total so far: $7865
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280. Completed March 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Nokia&oldid=20708 (2018-03-08 06:00 UTC, 75540 bytes, 102 rows)
 
@@ -112,6 +108,14 @@ Total so far: $7380
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Mercy_For_Animals Timeline of Mercy For Animals]: $155. Completed July 23, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Mercy_For_Animals&oldid=24213 (2018-07-23 23:41 UTC, 30392 bytes, 43 rows)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_cobalt Timeline of cobalt]: $85. Completed July 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cobalt&oldid=24413 (2018-07-30 23:45 UTC, 33 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_The_Humane_League Timeline of The Humane League]: $100. Completed August 5, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_The_Humane_League&oldid=24543 (2018-08-06 00:39 UTC, 20537 bytes, 36 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_titanium Timeline of titanium]: $120. Completed August 10, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_titanium&oldid=24632 (2018-08-11 03:21 UTC, 25098 bytes, 53 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_medical_education Timeline of medical education]: $180. Completed July 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_education&oldid=24403 (2018-07-29 18:37 UTC, 36146 bytes, 69 rows)
+
 === Completed pages paid for by Peter (Timelines Wiki) ===
 
 Total so far: $250
@@ -120,7 +124,7 @@ Total so far: $250
 
 === Additions to existing pages (Timelines Wiki) ===
 
-Total so far: $362
+Total so far: $397
 
 * [https://timelines.issarice.com/wiki/Timeline_of_salesforce.com Timeline of salesforce.com]: $12. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_salesforce.com&type=revision&diff=19549&oldid=18711 diff]. Increased from 63,311 bytes to 66,475 bytes.
 
@@ -147,22 +151,6 @@ Total so far: $362
 * [https://timelines.issarice.com/wiki/Timeline_of_Amazon.com Timeline of Amazon.com]: $37. Completed April 28, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Amazon.com&type=revision&diff=21974&oldid=15863 diff]. Increased from 29,817 bytes to 41,269 bytes.
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Spotify Timeline of Spotify]: $26. Completed May 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Spotify&type=revision&diff=22343&oldid=18473 diff]. Increased from 41,067 bytes to 49,875 bytes
-
-=== Tentative payments for completed timelines ===
-
-Total so far: $485
-
-* [https://timelines.issarice.com/wiki/Timeline_of_cobalt Timeline of cobalt]: $85. Completed July 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cobalt&oldid=24413 (2018-07-30 23:45 UTC, 33 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_The_Humane_League Timeline of The Humane League]: $100. Completed August 5, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_The_Humane_League&oldid=24543 (2018-08-06 00:39 UTC, 20537 bytes, 36 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_titanium Timeline of titanium]: $120. Completed August 10, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_titanium&oldid=24632 (2018-08-11 03:21 UTC, 25098 bytes, 53 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_medical_education Timeline of medical education]: $180. Completed July 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_education&oldid=24403 (2018-07-29 18:37 UTC, 36146 bytes, 69 rows)
-
-=== Tentative payments for expansions ===
-
-Total so far: $35
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Netflix Timeline of Netflix]: $35. Completed July 15, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Netflix&type=revision&diff=23937&oldid=13850 diff]. Increased from 21,803 bytes to 31,153 bytes.
 
