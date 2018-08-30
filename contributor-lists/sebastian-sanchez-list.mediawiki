@@ -24,6 +24,8 @@ Payment made: $16338.32
 
 Net payment due: ($5798.23)
 
+Estimated tentative payment: $1035
+
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
 Total so far: $7865
@@ -156,7 +158,7 @@ Total so far: $397
 
 === Tentative payments for completed timelines ===
 
-Total so far: $480
+Total so far: $1030
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Direct_Action_Everywhere Timeline of Direct Action Everywhere]: $125. Completed August 16, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Direct_Action_Everywhere&oldid=24747 (2018-08-16 23:16 UTC, 24513 bytes, 35 rows)
 
@@ -165,6 +167,14 @@ Total so far: $480
 * [https://timelines.issarice.com/wiki/Timeline_of_People_for_the_Ethical_Treatment_of_Animals Timeline of People for the Ethical Treatment of Animals]: $135. Completed August 28, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_People_for_the_Ethical_Treatment_of_Animals&oldid=24921 (2018-08-28 16:21 UTC, 26583 bytes, 56 rows)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Abdul_Latif_Jameel_Poverty_Action_Lab Timeline of Abdul Latif Jameel Poverty Action Lab]: $95. Completed August 19, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Abdul_Latif_Jameel_Poverty_Action_Lab&oldid=24753 (2018-08-19 23:57 UTC, 19306 bytes, 38 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_dentistry Timeline of dentistry]: $180. Completed August 17, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_dentistry&oldid=24719 (2018-08-17 21:02 UTC, 41431 bytes, 110 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_immunology Timeline of immunology]: $195. Completed August 28, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_immunology&oldid=24935 (2018-08-29 02:08 UTC, 44881 bytes, 85 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_nickel Timeline of nickel]: $95. Completed August 27, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nickel&oldid=24910 (2018-08-28 00:25 UTC, 21879 bytes, 47 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_tungsten Timeline of tungsten]: $85. Completed August 27, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_tungsten&oldid=24916 (2018-08-28 02:40 UTC, 19886 bytes, 32 rows)
 
 === TODO ===
 
