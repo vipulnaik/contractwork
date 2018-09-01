@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $13849
+Total money earned by doing work (taxable as income for 2018): $14775
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $6897.41
+Net payment due: $7823.41
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -100,7 +100,7 @@ Total so far: $380
 
 === Work on Donations List Website ===
 
-Total so far: $1624
+Total so far: $1904
 
 * Work on Donations List Website in January: $675 (79 hours 20 minutes)
 
@@ -115,6 +115,10 @@ Total so far: $1624
 * Work on Donations List Website in June: $55 (6 hours 27 minutes)
 
 * Work on Donations List Website in July: $146 (17 hours 11 minutes at $8.50/hour)
+
+* [http://effective-altruism.com/ea/1s3/donations_list_website_tutorial_and_request_for/ Donations List Website: tutorial and request for feedback]: $65 (7 hours 38 minutes at $8.50/hour)
+
+* Work on Donations List Website in August (excluding EA Forum post): $215 (25 hours 18 minutes at $8.50/hour). Date range of work in month: August 5 to August 30
 
 === Work on Org Watch ===
 
@@ -140,17 +144,21 @@ Total so far: $36
 
 === Work on computing data project ===
 
-Total so far: $408
+Total so far: $417
 
 * Work on computing data project in July: $408 (41 hours 53 minutes at $9.75/hour)
 
+* Work on computing data project in August: $9 (1 hour 12 minutes at $7.50/hour). Work done on August 27
+
 === Work on AI safety matched against other projects ===
 
-Total so far: $295
+Total so far: $404
 
 * Work in July to match against CDP work in July: $295 (30 hours 14 minutes at $9.75/hour)
 
-As of July end, there are 11 hours 39 minutes of remaining time that can be spent on AI safety.
+* Work in August to match against CDP work in July: $109 (11 hours 10 minutes at $9.75/hour)
+
+As of August end, 29 minutes of matched time is left at July rates ($9.75/hour). In addition, there is 1 hour 12 minutes of time left at August rates ($7.50/hour).
 
 === Work on org repo (predecessor to Org Watch) ===
 
@@ -182,7 +190,7 @@ Total so far: $50
 
 === Stipends ===
 
-Total so far: $7990
+Total so far: $8518
 
 * January: $1500
 
@@ -197,6 +205,8 @@ Total so far: $7990
 * June: $659. Worked 77.28 against total work hours of 176, so pay scaled from original of $1500.
 
 * July: $791. Worked 97.07 hours against total work hours of 184, so pay scaled from original of $1500.
+
+* August: $528. Worked 59.82 hours against total work hours of 136, so pay scaled from original of $1200.
 
 === Royalties ===
 
@@ -216,7 +226,8 @@ Total so far: $20
 
 At next pay (August 25, 2018):
 
-* Subwiki one day of work (learning.subwiki): $70 announced
+* Subwiki one day of work (learning.subwiki): $70 announced. As of end of August, 2.93 hours have been spent on strategy
+* URL navigation wikiHow article: Rate of $7.50/hour, current budget of 22 hours. As of end of August, a little over 8 hours were worked on from August 23 to August 30
 * Update pay for timeline of BERI updates/expansion
 * Updates to timeline of MIRI, CFAR, and AI safety
 
