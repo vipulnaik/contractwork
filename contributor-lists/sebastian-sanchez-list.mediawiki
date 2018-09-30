@@ -24,6 +24,10 @@ Payment made: $16338.32
 
 Net payment due: ($3803.23)
 
+Tentative payments (not yet finalized): $910
+
+Net payment due after accounting for tentative payment: ($2893.23)
+
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
 Total so far: $9235
@@ -174,9 +178,21 @@ Total so far: $397
 
 === Tentative pending payments ===
 
-Total so far: $340
+Total so far: $910
 
+* [https://timelines.issarice.com/wiki/Timeline_of_healthcare_in_Pakistan Timeline of healthcare in Pakistan]: $105. Completed September 22, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_healthcare_in_Pakistan&oldid=25576 (2018-09-22 15:22 UTC, 20800 bytes, 41 rows)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_healthcare_in_Bangladesh Timeline of healthcare in Bangladesh]: $95. Completed September 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_healthcare_in_Bangladesh&oldid=25733 (2018-09-29 13:51 UTC, 18972 bytes, 45 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_radiology Timeline of radiology]: $150. Completed September 28, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_radiology&oldid=25708 (2018-09-28 19:39 UTC, 32041 bytes, 59 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_anesthesiology Timeline of anesthesiology]: $170. Completed September 26, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_anesthesiology&oldid=25659 (2018-09-26 19:59 UTC, 33123 bytes, 91 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_ophthalmology Timeline of ophthalmology]: $130. Completed September 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_ophthalmology&oldid=25763 (2018-09-30 02:12 UTC, 24246 bytes, 56 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_the_Great_Ape_Project Timeline of the Great Ape Project]: $100. Completed September 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_Great_Ape_Project&oldid=25751 (2018-09-29 22:19 UTC, 20650 bytes, 31 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_bioethics Timeline of bioethics]: $160. Completed September 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_bioethics&oldid=25753 (2018-09-29 22:38 UTC, 30391 bytes, 66 rows)
 
 === Stipends ===
 
