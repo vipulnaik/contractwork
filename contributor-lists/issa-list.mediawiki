@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $14775
+Total money earned by doing work (taxable as income for 2018): $15178.29
 
 Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $7823.41
+Net payment due: $8226.70
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -80,6 +80,18 @@ Total so far: $25
 
 * Timeline of Machine Intelligence Research Institute: $25. Completed February 24, 2018. Payment for page as of https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&oldid=20301 and specifically for the diff https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&type=revision&diff=20301&oldid=16832 (82,663 bytes to 89,249 bytes)
 
+=== Completed articles on wikiHow ===
+
+Total so far: $118.13
+
+* [https://www.wikihow.com/Navigate-to-Web-Pages-Efficiently-Without-Using-Navigation-Menus Navigate to Web Pages Efficiently Without Using Navigation Menus]: $118.13 (15 hours 45 minutes at $7.50/hour). Completed September 10, 2018. Worked August 23 to September 10, including post-publication improvement. Completed version at https://www.wikihow.com/index.php?title=Navigate-to-Web-Pages-Efficiently-Without-Using-Navigation-Menus&oldid=25218935 and mirror at https://github.com/riceissa/issarice.com/blob/master/external/wikihow.com/url-navigation-tips.mediawiki
+
+=== Other miscellaneous wikiHow work ===
+
+Total so far: $18.90
+
+* Miscellaneous work in September: $18.90 (2 hours 31 minutes at $7.50/hour). Work done on September 8 and 9. Involved making improvements to pages such as https://www.wikihow.com/index.php?title=Get-Traffic-Analytics-for-a-Website-You-Don%27t-Own&diff=25209675&oldid=25104427
+
 === Work on Cause Prioritization Wiki ===
 
 Total so far: $1283
@@ -100,7 +112,7 @@ Total so far: $380
 
 === Work on Donations List Website ===
 
-Total so far: $1904
+Total so far: $1943.10
 
 * Work on Donations List Website in January: $675 (79 hours 20 minutes)
 
@@ -120,13 +132,17 @@ Total so far: $1904
 
 * Work on Donations List Website in August (excluding EA Forum post): $215 (25 hours 18 minutes at $8.50/hour). Date range of work in month: August 5 to August 30
 
+* Work on Donations List Website in September: $39.10 (4 hours 36 minutes at $8.50/hour). Work happened from September 1 to September 21
+
 === Work on Org Watch ===
 
-Total so far: $413
+Total so far: $481.85
 
 * Work on Org Watch in June: $396 (52 hours 48 minutes at $7.50/hour)
 
 * Work on Org Watch in July: $17 (2 hours 17 minutes at $7.50/hour)
+
+* Work on Org Watch in August and September: $68.85 (9 hours 11 minutes at $7.50/hour). Mostly happened September 13 to September 19
 
 === Work on AI Watch ===
 
@@ -171,6 +187,12 @@ Total so far: $30
 Total so far: $70
 
 * Wikipedia Clickstream: $70. Worked for 7 hours, 54 minutes, on April 21 and April 25. The work built on previous work with the clickstream dataset to streamline the monthly update process, now that the Wikimedia Foundation is publishing the datasets every month. See https://github.com/vipulnaik/wikipediaviews/issues/21 for the issue specifics
+
+=== Work on career planning ===
+
+Total so far: $158.31
+
+* Work on career planning in September: $158.31 (25 hours 20 minutes at $6.25/hour). Work happened from September 22 to September 30
 
 === Other work on timelines wiki ===
 
@@ -224,10 +246,9 @@ Total so far: $20
 
 === TODO ===
 
-At next pay (August 25, 2018):
+At next pay (end October 2018):
 
-* Subwiki one day of work (learning.subwiki): $70 announced. As of end of August, 2.93 hours have been spent on strategy
-* URL navigation wikiHow article: Rate of $7.50/hour, current budget of 22 hours. As of end of August, a little over 8 hours were worked on from August 23 to August 30
+* Subwiki one week of work (learning.subwiki)
 * Update pay for timeline of BERI updates/expansion
 * Updates to timeline of MIRI, CFAR, and AI safety
 
@@ -797,7 +818,9 @@ Unfortunately we don't have a record of payment per page for 2015. However, we d
 
 * Effective Altruism Forum article on Y Combinator nonprofit, available online at http://effective-altruism.com/ea/pn/an_overview_of_y_combinators_nonprofit_program/ $250. Published on Novemer 7, 2015
 
-* A Plus (aplus.com): Some expansion of the article. Payment was $20 or $25; we don't remember the exact amount.
+* A Plus (aplus.com): Some expansion of the article. $20
+
+* [http://www.wikihow.com/Archive-Websites-on-Unix-Like-Systems Archive Websites on Unix Like Systems]: $300. Completed September 22, 2015
 
 === Commissions ===
 
