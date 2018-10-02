@@ -16,17 +16,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $15642
+Total money earned as income: $16077
 
 Forward balance carried over from 2017: ($1571.91)
 
 Payment made: $16338.32
 
-Net payment due: ($2268.23)
+Net payment due: ($1833.23)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-Total so far: $10145
+Total so far: $10580
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280. Completed March 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Nokia&oldid=20708 (2018-03-08 06:00 UTC, 75540 bytes, 102 rows)
 
@@ -148,6 +148,12 @@ Total so far: $10145
 
 * [https://timelines.issarice.com/wiki/Timeline_of_bioethics Timeline of bioethics]: $160. Completed September 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_bioethics&oldid=25753 (2018-09-29 22:38 UTC, 30391 bytes, 66 rows)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_solar_power Timeline of solar power]: $185. Completed September 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_solar_power&oldid=25781 (2018-10-01 00:57 UTC, 36986 bytes, 71 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_pediatrics Timeline of pediatrics]: $120. Completed September 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_pediatrics&oldid=25827 (2018-10-01 04:12 UTC, 24489 bytes, 52 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_hepatology Timeline of hepatology]: $130. Completed September 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_hepatology&oldid=25832 (2018-10-01 04:21 UTC, 27605 bytes, 54 rows)
+
 === Completed pages paid for by Peter (Timelines Wiki) ===
 
 Total so far: $250
@@ -185,16 +191,6 @@ Total so far: $397
 * [https://timelines.issarice.com/wiki/Timeline_of_Spotify Timeline of Spotify]: $26. Completed May 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Spotify&type=revision&diff=22343&oldid=18473 diff]. Increased from 41,067 bytes to 49,875 bytes
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Netflix Timeline of Netflix]: $35. Completed July 15, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Netflix&type=revision&diff=23937&oldid=13850 diff]. Increased from 21,803 bytes to 31,153 bytes.
-
-=== Tentative pending payments ===
-
-Total so far: $435
-
-* [https://timelines.issarice.com/wiki/Timeline_of_solar_power Timeline of solar power]: $185. Completed September 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_solar_power&oldid=25781 (2018-10-01 00:57 UTC, 36986 bytes, 71 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_pediatrics Timeline of pediatrics]: $120. Completed September 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_pediatrics&oldid=25827 (2018-10-01 04:12 UTC, 24489 bytes, 52 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_hepatology Timeline of hepatology]: $130. Completed September 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_hepatology&oldid=25832 (2018-10-01 04:21 UTC, 27605 bytes, 54 rows)
 
 === Stipends ===
 
