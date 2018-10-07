@@ -313,6 +313,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of Google Brain','https://timelines.issarice.com/wiki/Timeline_of_Google_Brain','2018-06-13',75,'AI','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Google_Brain&oldid=23178 (2018-06-13 00:59 UTC, 17419 bytes, 24 rows)'),
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of Foundational Research Institute','https://timelines.issarice.com/wiki/Timeline_of_Foundational_Research_Institute','2018-07-16',50,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Foundational_Research_Institute&oldid=23956 (2018-07-16 17:08 UTC, 10413 bytes, 19 rows)');
 
+# -- Orpheus Lummis page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Orpheus Lummis','Timelines wiki','Timelines page creation','Timeline of prediction markets','https://timelines.issarice.com/wiki/Timeline_of_prediction_markets','2018-09-30',160,'Forecasting','Timeline','First timeline created by worker, based on worker interest in the subject. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_prediction_markets&oldid=25848 (2018-10-01 06:16 UTC, 32382 bytes, 65 rows, 2 graphs)');
+
 # -- Issa Rice page creation for Alex Flint
 # -- Issa Rice page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values

@@ -82,6 +82,9 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   # -- Payments for 2018 tax year
   ('Check','Issa Rice',NULL,'2018-04-02','2018-04-05','2018-04-09','2018-04-18',18000,18000,0,18000),
+
+  # -- Orpheus Lummis
+  ('PayPal','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160),
   
   # -- Adrian Ulloa payment
   ('PayPal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105),

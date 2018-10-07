@@ -7,7 +7,7 @@ create table workers(
   facebook_username varchar(100),
   email_id varchar(40),
   website varchar(40),
-  preferred_payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union') not null,
+  preferred_payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Ethereum','Bitcoin') not null,
   recruiter enum('Vipul Naik','Issa Rice','Ethan Bashkansky','Linchuan Zhang','Alex K. Chen','Sebastian Sanchez') not null,
   contact_method enum('inbound email','inbound Facebook','outbound email','outbound Facebook','outbound in-person') not null,
   notes varchar(2000) default null,
@@ -26,6 +26,7 @@ create table workers(
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into workers(worker, country, wikipedia_username, timelines_wiki_username, facebook_username, email_id, preferred_payment_method, recruiter, contact_method, notes, worker_file) values
+  ('Orpheus Lummis','Canada','Orpheus_Lummis','Orpheus_Lummis','orpheus.lummis','o@orpheuslummis.com','Ethereum','Issa Rice','inbound email','Started work on topics of interest to the worker','orpheus-lummis-list.mediawiki'),
   ('Milo King','United States','MiloJBKing',NULL,'milo.king','milo.j.king@gmail.com','PayPal','Vipul Naik','outbound Facebook','Did a bit of Wikipedia work in March and then a lot of work on the Market subwiki in the summer of 2016','milo-list.mediawiki'),
   ('Issa Rice','United States','Riceissa','Issa','riceissa','riceissa@gmail.com','Check','Vipul Naik','outbound Facebook','Been working sporadically since 2015; started working regularly since early 2016. Recruited other workers and also helps with managing workers and sprints.', 'issa-list.mediawiki'),
   ('Sebastian Sanchez','Argentina','Wikisanchez','Sebastian','seba.sanchez.3998','sebastian123sanchez@gmail.com','Western Union','Vipul Naik','inbound Facebook','Started work in April 2016. Took break in June 2016 for Japan visit. Worked on disease timelines, country healthcare timelines, and miscellaneous global health Wikipedia articles.','sebastian-sanchez-list.mediawiki'),
@@ -49,6 +50,7 @@ insert into workers(worker, country, wikipedia_username, timelines_wiki_username
 
 # -- website lists
 update workers set website='https://issarice.com' where worker = 'Issa Rice';
+update workers set website='http://orpheuslummis.com/' where worker = 'Orpheus Lummis';
 
 #-- LessWrong and EAF username lists
 update workers set lesswrong_username='riceissa' where worker = 'Issa Rice';
