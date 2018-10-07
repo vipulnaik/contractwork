@@ -14,6 +14,6 @@ $taskFormats = array('Timeline','Prose','Table','Code','Photos/videos + notes','
 
 $topics = array('Health','Global health','Country healthcare','Animal welfare','Technology','Philanthropy','People','Wikipedia','United States taxation','United States migration','United States politics','Political philosophy','Digital preservation','Artificial intelligence','Poverty','Government','GiveWell');
 
-$paymentMethods = array("Cash","Check","PayPal","Wire transfer","Western Union","Debit card via Facebook","Venmo");
+$paymentMethods = array("Cash","Check","PayPal","Wire transfer","Western Union","Debit card via Facebook","Venmo","Ethereum");
 
 ?>
