@@ -16,17 +16,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $16077
+Total money earned as income: $16517
 
 Forward balance carried over from 2017: ($1571.91)
 
 Payment made: $20556.92
 
-Net payment due: ($6051.83)
+Net payment due: ($5611.83)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-Total so far: $10580
+Total so far: $11020
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280. Completed March 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Nokia&oldid=20708 (2018-03-08 06:00 UTC, 75540 bytes, 102 rows)
 
@@ -154,6 +154,12 @@ Total so far: $10580
 
 * [https://timelines.issarice.com/wiki/Timeline_of_hepatology Timeline of hepatology]: $130. Completed September 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_hepatology&oldid=25832 (2018-10-01 04:21 UTC, 27605 bytes, 54 rows)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_Cruelty_Free_International Timeline of Cruelty Free International]: $65. Completed October 6, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Cruelty_Free_International&oldid=26022 (2018-10-07 03:42 UTC, 13229 bytes, 25 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_psychiatry Timeline of psychiatry]: $300. Completed October 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_psychiatry&oldid=26065 (2018-10-08 04:42 UTC, 78008 bytes, 118 rows of which 46 were from Wikipedia)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_the_American_Anti-Vivisection_Society Timeline of the American Anti-Vivisection Society]: $75. Completed October 12, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_American_Anti-Vivisection_Society&oldid=26236 (2018-10-13 06:03 UTC, 15951 bytes, 39 rows)
+
 === Completed pages paid for by Peter (Timelines Wiki) ===
 
 Total so far: $250
@@ -194,19 +200,13 @@ Total so far: $397
 
 === Tentative pending payments ===
 
-Total so far: $968 (subject to some increases for timelines where we are seeing expansion, and not including timeline of WHO)
+Total so far: $528 (subject to some increases for timelines where we are seeing expansion, and not including timeline of WHO)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Cruelty_Free_International Timeline of Cruelty Free International]: $65. Completed October 6, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Cruelty_Free_International&oldid=26022 (2018-10-07 03:42 UTC, 13229 bytes, 25 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_animal_testing Timeline of animal testing]: $150 (tentative, pending further review by Issa of the timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_animal_testing Timeline of animal testing]: $150 (tentative, pending implementation of suggestions based on review by Issa of the timeline)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_transfusion_medicine Timeline of transfusion medicine]: $128. Completed October 12, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_transfusion_medicine&oldid=26203 (2018-10-12 16:44 UTC, 26597 bytes, 62 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_psychiatry Timeline of psychiatry]: $300. Completed October 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_psychiatry&oldid=26065 (2018-10-08 04:42 UTC, 78008 bytes, 118 rows of which 46 were from Wikipedia)
-
 * [https://timelines.issarice.com/wiki/Timeline_of_hematology Timeline of hematology]: $250 (tentative; some additional amount, likely $20 to $30 but possibly more, for expanding on the significance of blood group systems)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_the_American_Anti-Vivisection_Society Timeline of the American Anti-Vivisection Society]: $75. Completed October 12, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_American_Anti-Vivisection_Society&oldid=26236 (2018-10-13 06:03 UTC, 15951 bytes, 39 rows)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_World_Health_Organization Timeline of the World Health Organization]: pending review by Issa
 
