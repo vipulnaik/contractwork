@@ -1,6 +1,6 @@
 <?php
 if ($printTables == true) {
-  print '<h4 id="payerPaymentsDueAndMadeByMonth">Payerer payments due and payments made by month</h4>';
+  print '<h4 id="payerPaymentsDueAndMadeByMonth">Payer payments due and payments made by month</h4>';
 }
 print '<p>For completed months, the row for the month gives the data at the end of the month. For the current month, the row for the month gives the data from the beginning of the month till now. The bold amounts are the cumulative numbers so far, across all time.</p>';
 

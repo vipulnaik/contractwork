@@ -3,6 +3,7 @@ include_once('doctype.inc');
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 include_once("backend/stringFunctions.inc");
+include_once('backend/graphing.inc');
 $payer = 'Vipul Naik';
 if (!empty($_REQUEST['payer'])) {
   $payer = $_REQUEST['payer'];
