@@ -65,4 +65,21 @@ foreach (array_reverse($yearList) as $year) {
 print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 print '</tr>';
 print "</tfoot>\n</table>\n";
+
+$graphs = timeSeriesGraphs(
+  $yearList,
+  $taskVenues,
+  $totalPaymentForYear,
+  $paymentForTaskVenueAndYear,
+  $generateGraphCmdBase,
+  $imagesPath,
+  "https://contractwork.vipulnaik.com/tasks.php",
+  "#filteredTaskPaymentsDueByVenueAndYear"
+);
+
+print "<p><strong>Graph of filtered task payments due by venue and year (incremental, not cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+
+print "<p><strong>Graph of filtered task payments due by venue and year (cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 ?>

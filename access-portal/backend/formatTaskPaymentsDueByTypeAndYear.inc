@@ -73,4 +73,22 @@ foreach (array_reverse($yearList) as $year) {
 print '    <td align="right"><strong>'.number_format($totalTaskPaymentAcrossYears,2)."</strong></td>\n";
 print "</tr>\n";
 print "</tfoot>\n</table>\n";
+
+$graphs = timeSeriesGraphs(
+  $yearList,
+  $taskTypes,
+  $totalPaymentForYear,
+  $paymentForTaskTypeAndYear,
+  $generateGraphCmdBase,
+  $imagesPath,
+  "https://contractwork.vipulnaik.com/format.php",
+  "#formatTaskPaymentsDueByTypeAndYear"
+);
+
+print "<p><strong>Graph of payments made by task type and year (incremental, not cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+
+print "<p><strong>Graph of payments made by task type and year (cumulative)</strong></p>";
+print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+
 ?>

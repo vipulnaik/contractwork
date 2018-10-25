@@ -3,6 +3,7 @@ include_once('doctype.inc');
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 include_once("backend/stringFunctions.inc");
+include_once('backend/graphing.inc');
 include_once('analytics.inc');
 include_once('strip-commas.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
