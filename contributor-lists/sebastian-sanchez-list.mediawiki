@@ -200,13 +200,15 @@ Total so far: $397
 
 === Tentative pending payments ===
 
-Total so far: $528 (subject to some increases for timelines where we are seeing expansion, and not including timeline of WHO)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_animal_testing Timeline of animal testing]: $150 (tentative, pending implementation of suggestions based on review by Issa of the timeline)
+Ready to finalize:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_transfusion_medicine Timeline of transfusion medicine]: $128. Completed October 12, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_transfusion_medicine&oldid=26203 (2018-10-12 16:44 UTC, 26597 bytes, 62 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_hematology Timeline of hematology]: $250 (tentative; some additional amount, likely $20 to $30 but possibly more, for expanding on the significance of blood group systems)
+* [https://timelines.issarice.com/wiki/Timeline_of_hematology Timeline of hematology]: $275. Completed October 25, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_hematology&oldid=26579 (2018-10-26 00:55 UTC, 59270 bytes, 119 rows)
+
+Not yet ready to finalize:
+
+* [https://timelines.issarice.com/wiki/Timeline_of_animal_testing Timeline of animal testing]: $150 (tentative, pending implementation of suggestions based on review by Issa of the timeline)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_World_Health_Organization Timeline of the World Health Organization]: pending review by Issa
 
