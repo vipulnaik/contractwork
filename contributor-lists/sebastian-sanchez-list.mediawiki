@@ -16,13 +16,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $17570
+Total money earned as income: $17645
 
 Forward balance carried over from 2017: ($1571.91)
 
 Payment made: $20556.92
 
-Net payment due: ($4558.83)
+Net payment due: ($4483.83)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -212,7 +212,7 @@ Not yet ready to finalize:
 
 === Stipends ===
 
-Total so far: $5500
+Total so far: $5575
 
 * January: $150 (worked 30% of the month)
 
@@ -233,6 +233,8 @@ Total so far: $5500
 * September: $625. Worked 170 hours, including time spent outside Timelines Wiki.
 
 * October: $650. Worked 180 hours, including time spent outside Timelines Wiki.
+
+* November: $75. Worked 20 hours, including time spent outside Timelines Wiki.
 
 === Payment schedule ===
 
