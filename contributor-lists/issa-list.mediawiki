@@ -50,7 +50,7 @@ Payment made: $18000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $10733.63
+Net payment due: $10732.73
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
