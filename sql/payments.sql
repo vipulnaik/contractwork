@@ -83,6 +83,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   # -- Payments for 2018 tax year
   ('Check','Issa Rice',NULL,'2018-04-02','2018-04-05','2018-04-09','2018-04-18',18000,18000,0,18000),
+  ('Check','Issa Rice',NULL,'2018-11-22','2018-11-30','2018-12-11','2018-12-12',10000,10000,0,10000),
 
   # -- Orpheus Lummis
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160),
