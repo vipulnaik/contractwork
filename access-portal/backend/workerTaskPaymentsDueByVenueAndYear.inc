@@ -44,7 +44,9 @@ print "<thead>\n";
 print '<tr><th>Task venue</th>';
 print '<th>Total across years</th>';
 foreach (array_reverse($yearList) as $year) {
-  print "<th>Total in year $year</th>";
+  if ($totalPaymentForYear[$year] > 0) {
+    print "<th>Total in year $year</th>";
+  }
 }
 print "</tr>\n</thead>\n<tbody>\n";
 foreach($taskVenues as $taskVenue) {
@@ -52,7 +54,9 @@ foreach($taskVenues as $taskVenue) {
     print "<tr><td><a href=\"venue.php?venue=".urlencode($taskVenue)."&matching=exact\">$taskVenue</a></td>";
     print '<td align="right"><strong>'.number_format($totalPaymentForTaskVenue[$taskVenue],2).'</strong></td>';
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.number_format($paymentForTaskVenueAndYear[$taskVenue][$year],2).'</td>';
+      if ($totalPaymentForYear[$year] > 0) {
+        print '<td align="right">'.number_format($paymentForTaskVenueAndYear[$taskVenue][$year],2).'</td>'; 
+      }
     }
     print "</tr>\n";
   }
@@ -61,7 +65,9 @@ print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
+  if ($totalPaymentForYear[$year] > 0) {
+    print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
+  }
 }
 print "</tr>\n</tfoot>\n</table>\n";
 
