@@ -40,28 +40,28 @@ if ($printTables == true) {
   print '<table id="myTableWorkerPaymentsMadeByMethodAndYear" class="tablesorter">'."\n";
   print "<thead>\n";
   print '<tr><th>Payment method</th>';
+  print '<th>Total across years</th>';
   foreach (array_reverse($yearList) as $year) {
     print "<th>Total in year $year</th>";
   }
-  print '<th>Total across years</th></tr>';
-  print "</thead>\n<tbody>\n";
+  print "</tr>\n</thead>\n<tbody>\n";
   foreach ($paymentMethods as $paymentMethod) {
     if ($totalPaymentMadeByMethod[$paymentMethod] != 0) {
       print "<tr><td>$paymentMethod</td>";
+      print '<td align="right"><strong>'.number_format($totalPaymentMadeByMethod[$paymentMethod],2).'</strong></td>';
       foreach (array_reverse($yearList) as $year) {
         print '<td align="right">'.number_format($payment[$paymentMethod][$year],2).'</td>';
       }
-      print '<td align="right">'.number_format($totalPaymentMadeByMethod[$paymentMethod],2).'</td></tr>';
+      print "</tr>\n";
     }
   }
   print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total across payment methods</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentMadeToWorker,2).'</strong></td>';
   foreach (array_reverse($yearList) as $year) {
     print '<td align="right"><strong>'.number_format($totalPaymentMadeByYear[$year],2).'</strong></td>';
   }
-  print '<td align="right"><strong>'.number_format($totalPaymentMadeToWorker,2).'</strong></td>';
-  print '</tr>';
-  print "</tfoot>\n</table>\n";
+  print "</tr>\n</tfoot>\n</table>\n";
   $graphs = timeSeriesGraphs(
     $yearList,
     $paymentMethods,

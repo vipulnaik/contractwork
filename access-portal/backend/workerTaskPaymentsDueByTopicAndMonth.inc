@@ -58,37 +58,34 @@ if ($printTables == true) {
   print '<table id="myTableWorkerTaskPaymentsDueByTopicAndMonth" class="tablesorter">'."\n";
   print "<thead>\n";
   print '<tr><th>Month</th>';
+  print "<th>Total across topics</th>";
   foreach ($topics as $topic) {
     if ($totalPaymentForTopic[$topic] > 0) {
       print "<th>$topic</th>";
     }
   }
-  print "<th>Total across topics</th>";
-  print '</tr>';
-  print "</thead>\n<tbody>\n";
+  print "</tr>\n</thead>\n<tbody>\n";
   foreach (array_reverse($monthList) as $month) {
     if ($totalTaskPaymentForMonth[$month] > 0) {
       print "<tr><td>$month</td>";
+      print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
       foreach ($topics as $topic) {
         if ($totalPaymentForTopic[$topic] > 0) {
           print '<td align="right">'.number_format($paymentForTopicAndMonth[$topic][$month],2).'</td>';
         }
       }
-      print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
-      print '</tr>';
+      print "</tr>\n";
     }
   }
   print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total across months</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
   foreach($topics as $topic) {
     if ($totalPaymentForTopic[$topic] > 0) {
       print '<td align="right"><strong>'.number_format($totalPaymentForTopic[$topic],2).'</strong></td>';
     }
   }
-  print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
-  print '</tr>';
-  
-  print "</tfoot>\n</table>\n";
+  print "</tr>\n</tfoot>\n</table>\n";
 }
 
 $graphs = timeSeriesGraphs(
