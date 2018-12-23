@@ -8,3 +8,4 @@
 <li><a href="https://www.facebook.com/vipulnaik.r/posts/10208522775642817">Facebook post</a> by Vipul Naik, May 28, 2016, linking to the aforementioned article and advertising content creation again; this post was the impetus for Ethan Bashkansky to recruit many other workers.</li>
 <li><a href="http://effective-altruism.com/ea/150/looking_for_global_healthrelated_wikipedia/">Looking for global health-related Wikipedia contributors</a> by Vipul Naik on the Effective Altruism Forum, December 16, 2016.</li>
 </ul>
+<p>You can access pageview data for this site at <a href="https://analytics.vipulnaik.com/">analytics.vipulnaik.com</a>.</p>
