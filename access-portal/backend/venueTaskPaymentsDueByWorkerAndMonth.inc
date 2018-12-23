@@ -69,18 +69,19 @@ print "\n";
 print '<table id="myTableTaskPaymentsDueByWorkerAndMonth" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Month</th>';
+print "<th>Total across task workers</th>";
 foreach ($workerList as $worker) {
   if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
     print "<th><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">$worker</a></th>";
   }
 }
-print "<th>Total across task workers</th>";
 print '</tr>';
 print "</thead>\n<tbody>\n";
 
 foreach (array_reverse($monthList) as $month) {
   if ($totalTaskPaymentForMonth[$month] > 0) {
     print "<tr><td>$month</td>";
+    print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
     foreach ($workerList as $worker) {
       if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
         $localPayment = 0;
@@ -90,18 +91,17 @@ foreach (array_reverse($monthList) as $month) {
         print '<td align="right">'.number_format($localPayment,2).'</td>';
       }
     }
-    print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
     print '</tr>';
   }
 }
 print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across months</strong></td>';
+print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 foreach($workerList as $worker) {
   if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
     print '<td align="right"><strong>'.number_format($totalPaymentForWorkerUsingMonth[$worker],2).'</strong></td>';
   }
 }
-print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";
