@@ -38,24 +38,24 @@ print "\n";
 print '<table id="myTablePaymentsMadeByWorkerAndMethod" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Worker</th>';
+print '<th>Total across payment methods</th>';
 foreach ($paymentMethods as $paymentMethod) {
   print "<th>$paymentMethod payments made</th>";
 }
-print '<th>Total across payment methods</th></tr>';
-print "</thead>\n<tbody>\n";
+print "</tr>\n</thead>\n<tbody>\n";
 foreach ($workerList as $worker) {
   print '<tr><td><a href="http://contractwork.vipulnaik.com/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
+  print '<td align="right"><strong>'.number_format($totalPaymentMadeToWorker[$worker],2).'</strong></td></tr>';
   foreach ($paymentMethods as $paymentMethod) {
     print '<td align="right">'.number_format($payment[$worker][$paymentMethod],2).'</td>';
   }
-  print '<td align="right"><strong>'.number_format($totalPaymentMadeToWorker[$worker],2).'</strong></td></tr>';
 }
 print "<tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across workers</strong></td>';
+print '<td align="right"><strong>'.number_format($totalPaymentMadeAcrossWorkers,2).'</strong></td>';
 foreach ($paymentMethods as $paymentMethod) {
   print '<td align="right"><strong>'.number_format($totalPaymentByMethod[$paymentMethod],2).'</strong></td>';
 }
-print '<td align="right"><strong>'.number_format($totalPaymentMadeAcrossWorkers,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";

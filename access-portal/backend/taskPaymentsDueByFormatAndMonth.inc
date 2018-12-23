@@ -46,35 +46,35 @@ print "\n";
 print '<table id="myTableTaskPaymentsDueByFormatAndMonth" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Month</th>';
+print "<th>Total across task formats</th>";
 foreach ($taskFormats as $taskFormat) {
   if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
     print "<th>$taskFormat</th>";
   }
 }
-print "<th>Total across task formats</th>";
 print '</tr>';
 print "</thead>\n<tbody>\n";
 
 foreach (array_reverse($monthList) as $month) {
   if ($totalTaskPaymentForMonth[$month] > 0) {
     print "<tr><td>$month</td>";
+    print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
     foreach ($taskFormats as $taskFormat) {
       if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
         print '<td align="right">'.number_format($paymentForTaskFormatAndMonth[$taskFormat][$month],2).'</td>';
       }
     }
-    print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
     print '</tr>';
   }
 }
 print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across months</strong></td>';
+print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 foreach($taskFormats as $taskFormat) {
   if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
     print '<td align="right"><strong>'.number_format($totalPaymentForTaskFormat[$taskFormat],2).'</strong></td>';
   }
 }
-print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";

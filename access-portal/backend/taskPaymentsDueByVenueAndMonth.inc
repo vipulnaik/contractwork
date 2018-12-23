@@ -46,35 +46,35 @@ print "\n";
 print '<table id="myTableTaskPaymentsDueByVenueAndMonth" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Month</th>';
+print "<th>Total across task venues</th>";
 foreach ($taskVenues as $taskVenue) {
   if ($totalPaymentForTaskVenue[$taskVenue] > 0) {
     print "<th><a href=\"venue.php?venue=".urlencode($taskVenue)."&matching=exact\">$taskVenue</a></th>";
   }
 }
-print "<th>Total across task venues</th>";
 print '</tr>';
 print "</thead>\n<tbody>\n";
 
 foreach (array_reverse($monthList) as $month) {
   if ($totalTaskPaymentForMonth[$month] > 0) {
     print "<tr><td>$month</td>";
+    print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
     foreach ($taskVenues as $taskVenue) {
       if ($totalPaymentForTaskVenue[$taskVenue] > 0) {
         print '<td align="right">'.number_format($paymentForTaskVenueAndMonth[$taskVenue][$month],2).'</td>';
       }
     }
-    print '<td align="right"><strong>'.number_format($totalTaskPaymentForMonth[$month],2).'</strong></td>';
     print '</tr>';
   }
 }
 print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across months</strong></td>';
+print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 foreach($taskVenues as $taskVenue) {
   if ($totalPaymentForTaskVenue[$taskVenue] > 0) {
     print '<td align="right"><strong>'.number_format($totalPaymentForTaskVenue[$taskVenue],2).'</strong></td>';
   }
 }
-print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";

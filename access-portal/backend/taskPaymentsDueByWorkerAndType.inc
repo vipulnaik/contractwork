@@ -67,35 +67,35 @@ print "\n";
 print '<table id="myTableTaskPaymentsDueByWorkerAndType" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Worker</th>';
+print "<th>Total across task types</th>";
 foreach ($taskTypes as $taskType) {
   if ($totalPaymentForTaskType[$taskType] > 0) {
     print "<th>$taskType</th>";
   }
 }
-print "<th>Total across task types</th>";
 print '</tr>';
 print "</thead>\n<tbody>\n";
 foreach ($workers as $worker) {
   if ($totalTaskPaymentForWorker[$worker] > 0) {
     print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
+    print '<td align="right"><strong>'.number_format($totalTaskPaymentForWorker[$worker],2).'</strong></td>';
     foreach ($taskTypes as $taskType) {
       if ($totalPaymentForTaskType[$taskType] > 0) {
         print '<td align="right">'.number_format($paymentForTaskTypeAndWorker[$taskType][$worker],2).'</td>';
       }
     }
-    print '<td align="right"><strong>'.number_format($totalTaskPaymentForWorker[$worker],2).'</strong></td>';
     print '</tr>';
   }
 }
 
 print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across workers</strong></td>';
+print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 foreach($taskTypes as $taskType) {
   if ($totalPaymentForTaskType[$taskType] > 0) {
     print '<td align="right"><strong>'.number_format($totalPaymentForTaskType[$taskType],2).'</strong></td>';
   }
 }
-print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";
