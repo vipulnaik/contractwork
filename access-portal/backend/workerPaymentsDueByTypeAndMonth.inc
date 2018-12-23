@@ -108,6 +108,9 @@ if ($printTables == true) {
   if ($totalStipendPaymentStraddlingMonths > 0) {
     print '<th>Stipend payments (awarded later)</th>';
   }
+  if ($totalStipendPaymentStraddlingMonths > 0) {
+    print '<th>Stipend payments (awarded from earlier; subtract)</th>';
+  }
   print '<th>Total payment</th>';
   print '</tr>';
   print "</thead>\n<tbody>\n";
@@ -126,6 +129,9 @@ if ($printTables == true) {
       print '<td align="right">'.number_format($unawardedStipendPayment[$month],2).'</td>';
       if ($totalStipendPaymentStraddlingMonths > 0) {
         print '<td align="right">'.number_format($stipendPaymentAwardedInLaterMonth[$month],2).'</td>';
+      }
+      if ($totalStipendPaymentStraddlingMonths > 0) {
+        print '<td align="right">'.number_format(-$stipendPaymentAwardedFromEarlierMonth[$month],2).'</td>';
       }
       print '<td align="right"><strong>'.number_format($totalPayment[$month],2).'</strong></td>';
       print '</tr>';
@@ -146,6 +152,9 @@ if ($printTables == true) {
   print '<td align="right"><strong>'.number_format($totalUnawardedStipendPayment,2).'</td>';
   if ($totalStipendPaymentStraddlingMonths > 0) {
     print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingMonths,2).'</strong></td>';
+  }
+  if ($totalStipendPaymentStraddlingMonths > 0) {
+    print '<td align="right"><strong>'.number_format(-$totalStipendPaymentStraddlingMonths,2).'</strong></td>';
   }
   print '<td align="right"><strong>'.number_format($totalPaymentAcrossMonths,2).'</td>';
   print '</tr>';

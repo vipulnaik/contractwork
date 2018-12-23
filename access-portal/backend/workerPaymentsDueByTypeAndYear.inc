@@ -168,6 +168,14 @@ if ($printTables == true) {
     }
     print '</tr>';
   }
+  if ($totalStipendPaymentStraddlingYears > 0) {
+    print '<tr><td>Stipends (awarded from earlier year; subtract)</td>';
+    print '<td align="right"><strong>'.number_format(-$totalStipendPaymentStraddlingYears,2).'</strong></td>';
+    foreach (array_reverse($yearList) as $year) {
+      print '<td align="right">'.number_format(-$stipendPaymentAwardedFromEarlierYear[$year],2).'</td>';
+    }
+    print '</tr>';
+  }
   print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total payment</strong></td>';
   print '<td align="right"><strong>'.number_format($totalPaymentAcrossYears,2).'</strong></td>';
