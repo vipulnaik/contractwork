@@ -97,11 +97,11 @@ foreach($yearList as $year) {
 print "\n";
 print '<table id="myTablePaymentsDueByTypeAndYear" class="tablesorter">'."\n";
 print "<thead>\n<tr>\n	<th>Type of payment due</th>\n";
-print "	<th>Total across years</th>\n</tr>\n";
+print "	<th>Total across years</th>\n";
 foreach (array_reverse($yearList) as $year) {
   print "	<th>Total in year $year</th>\n";
 }
-print "</thead>\n<tbody>\n";
+print "</tr>\n</thead>\n<tbody>\n";
 foreach ($payers as $payer) {
   if ($totalTaskPayment[$payer] > 0) {
     print "<tr>\n	<td>Tasks for <a href=\"/payer.php?payer=".urlencode($payer)."\">$payer</td>\n";
