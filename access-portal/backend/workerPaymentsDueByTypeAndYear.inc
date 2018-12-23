@@ -157,7 +157,9 @@ if ($printTables == true) {
   print '<tr><td>Commissions on royalties</td>';
   print '<td align="right"><strong>'.number_format($totalCommissionOnRoyaltyPayment,2).'</strong></td>';
   foreach (array_reverse($yearList) as $year) {
-    print '<td align="right">'.number_format($commissionOnRoyaltyPayment[$year],2).'</td>';
+    if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
+      print '<td align="right">'.number_format($commissionOnRoyaltyPayment[$year],2).'</td>';
+    }
   }
   print '</tr>';
   print '<tr><td><strong>Total payment awarded</strong></td>';
