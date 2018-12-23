@@ -42,11 +42,11 @@ print "\n";
 print '<table id="myTableTaskPaymentsDueByFormatAndYear" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Format</th>';
-print '<th>Total across years</th></tr>';
+print '<th>Total across years</th>';
 foreach (array_reverse($yearList) as $year) {
   print "<th>Total in year $year</th>";
 }
-print "</thead>\n<tbody>\n";
+print "</tr>\n</thead>\n<tbody>\n";
 foreach($taskFormats as $taskFormat) {
   if ($totalPaymentForTaskFormat[$taskFormat] > 0) {
     print "<tr><td>$taskFormat</td>";
