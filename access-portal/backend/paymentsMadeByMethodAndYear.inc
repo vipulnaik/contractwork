@@ -38,26 +38,26 @@ print "\n";
 print '<table id="myTablePaymentsMadeByMethodAndYear" class="tablesorter">'."\n";
 print "<thead>\n";
 print "<tr>\n    <th>Payment method</th>\n";
+print "    <th>Total across years</th>\n";
 foreach (array_reverse($yearList) as $year) {
   print "    <th>Total in year $year</th>\n";
 }
-print "    <th>Total across years</th>\n</tr>\n";
-print "</thead>\n<tbody>\n";
+print "</tr>\n</thead>\n<tbody>\n";
 foreach ($paymentMethods as $paymentMethod) {
   if ($totalPaymentByMethod[$paymentMethod] != 0) {
     print "<tr>\n    <td>$paymentMethod</td>\n";
+    print '    <td align="right"><strong>'.number_format($totalPaymentByMethod[$paymentMethod],2)."</strong></td>\n</tr>\n";
     foreach (array_reverse($yearList) as $year) {
       print '    <td align="right">'.number_format($payment[$paymentMethod][$year],2)."</td>\n";
     }
-    print '    <td align="right">'.number_format($totalPaymentByMethod[$paymentMethod],2)."</td>\n</tr>\n";
   }
 }
 print "</tbody>\n<tfoot>\n";
 print "<tr>\n    <td><strong>Total across payment methods</strong></td>\n";
+print '    <td align="right"><strong>'.number_format($grandTotal,2)."</strong></td>\n";
 foreach (array_reverse($yearList) as $year) {
   print '    <td align="right"><strong>'.number_format($totalPaymentByYear[$year],2)."</strong></td>\n";
 }
-print '    <td align="right"><strong>'.number_format($grandTotal,2)."</strong></td>\n";
 print "</tr>\n";
 print "</tfoot>\n";
 print "</table>\n";
