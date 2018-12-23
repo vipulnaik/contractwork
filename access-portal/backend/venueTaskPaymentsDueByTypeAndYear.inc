@@ -47,11 +47,11 @@ print "\n";
 print '<table id="myTableVenueTaskPaymentsDueByTypeAndYear" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Task type</th>';
-print '<th>Total across years</th></tr>';
+print '<th>Total across years</th>';
 foreach (array_reverse($yearList) as $year) {
   print "<th>Total in year $year</th>";
 }
-print "</thead>\n<tbody>\n";
+print "</tr></thead>\n<tbody>\n";
 
 foreach($taskTypes as $taskType) {
   if ($totalPaymentForTaskType[$taskType] > 0) {
