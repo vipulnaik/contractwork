@@ -16,17 +16,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2018 ==
 
-Total money earned as income: $17645
+Total money earned as income: $18876
 
 Forward balance carried over from 2017: ($1571.91)
 
 Payment made: $20556.92
 
-Net payment due: ($4483.83)
+Net payment due: ($3252.83)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-Total so far: $11423
+Total so far: $12446
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280. Completed March 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Nokia&oldid=20708 (2018-03-08 06:00 UTC, 75540 bytes, 102 rows)
 
@@ -164,6 +164,20 @@ Total so far: $11423
 
 * [https://timelines.issarice.com/wiki/Timeline_of_hematology Timeline of hematology]: $275. Completed October 25, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_hematology&oldid=26579 (2018-10-26 00:55 UTC, 59270 bytes, 119 rows)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_the_Nonhuman_Rights_Project Timeline of the Nonhuman Rights Project]: $95. Completed October 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_Nonhuman_Rights_Project&oldid=26692 (2018-10-30 03:37 UTC, 19221 bytes, 36 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_urology Timeline of urology]: $95. Completed October 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_urology&oldid=26695 (2018-10-30 04:14 UTC, 19892 bytes, 56 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_gene_therapy Timeline of gene therapy]: $185. Completed October 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_gene_therapy&oldid=26709 (2018-10-30 20:46 UTC, 41902 bytes, 67 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_orthopedics Timeline of orthopedics]: $118. Completed October 31, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_orthopedics&oldid=26737 (2018-10-31 22:32 UTC, 24179 bytes, 61 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_animal_testing Timeline of animal testing]: $185. Completed October 28, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_animal_testing&oldid=26640 (2018-10-28 21:57 UTC, 38518 bytes, 89 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_the_World_Health_Organization Timeline of the World Health Organization]: $270. Completed December 21, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_World_Health_Organization&oldid=27091 (2018-12-21 2015 UTC, 59523 bytes, 124 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Farm_Sanctuary Timeline of Farm Sanctuary]: $75. Completed October 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Farm_Sanctuary&oldid=26698 (2018-10-30 04:36 UTC, 15659 bytes, 30 rows)
+
 === Completed pages paid for by Peter (Timelines Wiki) ===
 
 Total so far: $250
@@ -172,7 +186,7 @@ Total so far: $250
 
 === Additions to existing pages (Timelines Wiki) ===
 
-Total so far: $397
+Total so far: $485
 
 * [https://timelines.issarice.com/wiki/Timeline_of_salesforce.com Timeline of salesforce.com]: $12. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_salesforce.com&type=revision&diff=19549&oldid=18711 diff]. Increased from 63,311 bytes to 66,475 bytes.
 
@@ -202,26 +216,6 @@ Total so far: $397
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Netflix Timeline of Netflix]: $35. Completed July 15, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Netflix&type=revision&diff=23937&oldid=13850 diff]. Increased from 21,803 bytes to 31,153 bytes.
 
-=== Tentative pending payments ===
-
-Newly added (total $1023):
-
-* [https://timelines.issarice.com/wiki/Timeline_of_the_Nonhuman_Rights_Project Timeline of the Nonhuman Rights Project]: $95. Completed October 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_Nonhuman_Rights_Project&oldid=26692 (2018-10-30 03:37 UTC, 19221 bytes, 36 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_urology Timeline of urology]: $95. Completed October 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_urology&oldid=26695 (2018-10-30 04:14 UTC, 19892 bytes, 56 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_gene_therapy Timeline of gene therapy]: $185. Completed October 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_gene_therapy&oldid=26709 (2018-10-30 20:46 UTC, 41902 bytes, 67 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_orthopedics Timeline of orthopedics]: $118. Completed October 31, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_orthopedics&oldid=26737 (2018-10-31 22:32 UTC, 24179 bytes, 61 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_animal_testing Timeline of animal testing]: $185. Completed October 28, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_animal_testing&oldid=26640 (2018-10-28 21:57 UTC, 38518 bytes, 89 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_the_World_Health_Organization Timeline of the World Health Organization]: $270. Completed December 21, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_World_Health_Organization&oldid=27091 (2018-12-21 2015 UTC, 59523 bytes, 124 rows)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_Farm_Sanctuary Timeline of Farm Sanctuary]: $75. Completed October 29, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Farm_Sanctuary&oldid=26698 (2018-10-30 04:36 UTC, 15659 bytes, 30 rows)
-
-Expanded (total $88):
-
 * [https://timelines.issarice.com/wiki/Timeline_of_Facebook Timeline of Facebook]: $20. Completed December 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Facebook&type=revision&diff=26995&oldid=21985 diff]. Increased from 170,603 bytes to 177,502 bytes
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Instagram Timeline of Instagram]: $33. Completed December 17, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Instagram&type=revision&diff=27071&oldid=13997 diff]. Increased from 28,786 bytes to 39,203 bytes
@@ -230,7 +224,7 @@ Expanded (total $88):
 
 === Stipends ===
 
-Total so far: $5575
+Total so far: $5695
 
 * January: $150 (worked 30% of the month)
 
@@ -252,7 +246,9 @@ Total so far: $5575
 
 * October: $650. Worked 180 hours, including time spent outside Timelines Wiki.
 
-* November: $75. Worked 20 hours, including time spent outside Timelines Wiki.
+* November: $75. Worked 20 hours, including time spent outside Timelines Wiki. Most of the month was spent on travel to Europe
+
+* December: $120. Worked 30 hours, including time spent outside TImelines Wiki. Most of the month was spent on sick leave
 
 === Payment schedule ===
 
