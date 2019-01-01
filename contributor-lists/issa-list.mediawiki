@@ -44,13 +44,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $17684.32
+Total money earned by doing work (taxable as income for 2018): $18151.32
 
 Payment made: $28000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $732.73
+Net payment due: $1199.73
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -118,7 +118,7 @@ Total so far: $380
 
 === Work on Donations List Website ===
 
-Total so far: $2063.52
+Total so far: $2072.88
 
 * Work on Donations List Website in January: $675 (79 hours 20 minutes)
 
@@ -143,6 +143,8 @@ Total so far: $2063.52
 * Work on Donations List Website in October: $66.44 (7 hours 49 minutes at $8.50/hour). Work happened from October 5 to October 22
 
 * Work on Donations List Website in November: $53.98 (6 hours 21 minutes at $8.50/hour). Work happened from November 6 to November 29
+
+* Work on Donations List Website in December: $8.76 (1 hour 2 minutes at $8.50/hour). Work happened from December 5 to December 27
 
 === Work on Contract Work website ===
 
@@ -216,9 +218,11 @@ Total so far: $158.31
 
 === Work on learning subwiki
 
-Total so far: $306.56
+Total so far: $383.62
 
-* Work on learning subwiki August to Novmeber: $306.56 (45 hours 51 minutes). August: 4th; September: 10th to 20th; October: 6th to 26th; November: 2nd to 29th. $70 for the first 8 hours at $8.75/hour, and $236.56 for the next 37 hours 51 minutes at $6.25/hour.
+* Work on learning subwiki August to November: $306.56 (45 hours 51 minutes). August: 4th; September: 10th to 20th; October: 6th to 26th; November: 2nd to 29th. $70 for the first 8 hours at $8.75/hour, and $236.56 for the next 37 hours 51 minutes at $6.25/hour.
+
+* Work on learning subwiki December: $77.06 (12 hours 20 minutes at $6.25/hour). Work done December 6 to December 24
 
 === Other work on timelines wiki ===
 
@@ -232,15 +236,17 @@ Total so far: $444
 
 === Other work ===
 
-Total so far: $170
+Total so far: $320
 
 * Work on summer recruitment plans: $50. Completed April 13, 2018. This is 8.5 hours of work. This was an exploration of strategies to find people who might work with us over the summer. However, we ultimately decided not to pursue this further in 2018. Initially agreed on $50 for 8 hours of work; Issa ended up spending an extra half hour on it
 
 * [https://www.lesswrong.com/s/h8DebDmuode4TMcRj/p/LJiGhpq8w4Badr5KJ GraphQL tutorial for LessWrong and Effective Altruism Forum]: $120 (16 hours at $7.50/hour). Completed December 8, 2018. Work done November 16, 2018 to December 8, 2018, see history at https://github.com/riceissa/ea-forum-reader/commits/master/tutorial.md Although work on the post and the associated tools took more time, the paid time was capped at 16 hours. The post was added to the [https://www.lesswrong.com/s/h8DebDmuode4TMcRj LW Open Source Guide] by Raymond Arnold.
 
+* First round of work on [https://analytics.vipulnaik.com analytics.vipulnaik.com]: $150 (pay was agreed at $8.50/hour with a floor of $150; total work was 12.92 hours so that the floor of $150 was binding). Work done November 26, 2018 to December 15, 2018. GitHub repository [https://github.com/riceissa/analytics-table riceissa/analytics-table]
+
 === Stipends ===
 
-Total so far: $10165.79
+Total so far: $10396.97
 
 * January: $1500
 
@@ -263,6 +269,8 @@ Total so far: $10165.79
 * October: $585. Worked 66.30 hours against total work hours of 136, so pay scaled from original of $1200.
 
 * November: $419.12. Worked 47.50 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* December: $231.18. Worked 26.20 hours against total work hours of 136, so pay scaled from original of $1200.
 
 === Royalties ===
 
