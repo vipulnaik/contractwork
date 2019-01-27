@@ -79,6 +79,7 @@ function computeTax($taxableIncome, $year) {
       return (0.1 * $bracket10Top[$year] + 0.12 * ($bracket12Top[$year] - $bracket10Top[$year]) + 0.22 * ($bracket22Top[$year] - $bracket12Top[$year]) + 0.24 * ($bracket24Top[$year] - $bracket22Top[$year]) + 0.32 * ($bracket32Top[$year] - $bracket24Top[$year]) + 0.35 * ($taxableIncome - $bracket32Top[$year]));
     } else {
       return (0.1 * $bracket10Top[$year] + 0.12 * ($bracket12Top[$year] - $bracket10Top[$year]) + 0.22 * ($bracket22Top[$year] - $bracket12Top[$year]) + 0.24 * ($bracket24Top[$year] - $bracket22Top[$year]) + 0.32 * ($bracket32Top[$year] - $bracket24Top[$year]) + 0.35 * ($bracket35Top[$year] - $bracket32Top[$year]) + 0.37 * ($taxableIncome - $bracket35Top[$year]));
-    } 
+    }
+  }
 }
 ?>
