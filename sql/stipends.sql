@@ -57,7 +57,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',643.67,'2018-09-01','2018-09-30','2018-09-30','Below full monthly quota, so scaled full month pay of $1200 (for 17 days = 136 hours) based on fraction of month worked',72.95,136),
   ('Issa Rice',585,'2018-10-01','2018-10-31','2018-10-31','Below full monthly quota, so scaled full month pay of $1200 (for 17 days = 136 hours) based on fraction of month worked',66.30,136),
   ('Issa Rice',419.12,'2018-11-01','2018-11-30','2018-11-30','Below full monthly quota, so scaled full month pay of $1200 (for 17 days = 136 hours) based on fraction of month worked',47.50,136),
-  ('Issa Rice',231.18,'2018-12-01','2018-12-31','2018-12-31','Below full monthly quota, so scaled full month pay of $1200 (for 17 days = 136 hours) based on fraction of month worked',26.20,136);
+  ('Issa Rice',231.18,'2018-12-01','2018-12-31','2018-12-31','Below full monthly quota, so scaled full month pay of $1200 (for 17 days = 136 hours) based on fraction of month worked',26.20,136),
+  ('Issa Rice',194.38,'2019-01-01','2019-01-31','2019-01-31','Below full monthly quota, so scaled full month pay of $1200 (for 17 days = 136 hours) based on fraction of month worked',22.03,136);
   
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),
