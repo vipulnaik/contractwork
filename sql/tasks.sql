@@ -336,6 +336,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Orpheus Lummis','Timelines wiki','Timelines page creation','Timeline of prediction markets','https://timelines.issarice.com/wiki/Timeline_of_prediction_markets','2018-09-30',160,'Forecasting','Timeline','First timeline created by worker, based on worker interest in the subject. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_prediction_markets&oldid=25848 (2018-10-01 06:16 UTC, 32382 bytes, 65 rows, 2 graphs)');
 
+# -- Mati Roy page creation
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
+  ('Mati Roy','Timelines wiki','Timelines page creation','Timeline of brain preservation','https://timelines.issarice.com/wiki/Timeline_of_brain_preservation','2019-02-17',500,'Cryonics','Timeline','First timeline created by worker, based on worker interest in the subject. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_brain_preservation&oldid=28219 (2019-02-17 09:57 UTC, 135884 bytes, 209 rows in full timeline as well as additional summary tables, 6 graphs)');
+
 # -- Issa Rice page creation for Alex Flint
 # -- Issa Rice page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values

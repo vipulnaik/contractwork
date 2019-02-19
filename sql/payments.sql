@@ -87,7 +87,10 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   # -- Orpheus Lummis
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160),
-  
+
+  # -- Mati Roy
+  ('PayPal','Mati Roy',NULL,'2019-02-17','2019-02-17','2019-02-17','2019-02-17',500,500,18.82,481.18),
+
   # -- Adrian Ulloa payment
   ('PayPal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105),
   ('PayPal','Adrian Ulloa','Issa Rice','2016-12-14','2016-12-14','2016-12-20','2016-12-20',100,100.50,0.50,100),
