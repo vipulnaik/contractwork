@@ -15,7 +15,6 @@ create table workers(
   twitter_username varchar(40),
   lesswrong_username varchar(40),
   eaf_username varchar(40),
-  gratipay_username varchar(40),
   patreon_username varchar(40),
   predictionbook_username varchar(40),
   github_username varchar(40),
@@ -56,7 +55,6 @@ update workers set website='http://orpheuslummis.com/' where worker = 'Orpheus L
 #-- LessWrong and EAF username lists
 update workers set lesswrong_username='riceissa' where worker = 'Issa Rice';
 update workers set eaf_username='riceissa' where worker = 'Issa Rice';
-update workers set gratipay_username='riceissa' where worker = 'Issa Rice';
 update workers set eaf_username='JesseClifton' where worker = 'Jesse Clifton';
 
 # -- GitHub username lists
