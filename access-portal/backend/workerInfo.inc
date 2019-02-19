@@ -46,9 +46,6 @@ if ($row['lesswrong_username'] != '') {
 if ($row['eaf_username'] != '') {
   print '<tr><td>Effective Altruism Forum username</td><td><a href="http://effective-altruism.com/user/'.$row['eaf_username'].'">'.$row['eaf_username'].'</a></td></tr>';
 }
-if ($row['gratipay_username'] != '') {
-  print '<tr><td>GratiPay username</td><td><a href="https://gratipay.com/~'.$row['gratipay_username'].'">'.$row['gratipay_username'].'</a></td></tr>';
-}
 
 print '<tr><td>Preferred payment method</td><td>'.$row['preferred_payment_method'].'</td></tr>';
 print '<tr><td>Recruiter</td>';
