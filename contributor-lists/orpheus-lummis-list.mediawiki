@@ -18,8 +18,18 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Orph
 
 Total money earned as income: $160
 
+Payments so far: $160
+
+Net payment due: $0
+
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
 Total so far: $160
 
 * [https://timelines.issarice.com/wiki/Timeline_of_prediction_markets Timeline of prediction markets]: $160. Completed September 30, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_prediction_markets&oldid=25848 (2018-10-01 06:16 UTC, 32382 bytes, 65 rows, 2 graphs)
+
+=== Payments ===
+
+Total $160
+
+* $160 as Ethereum on 2018-10-06. Sent $160.01, received $160. Overhead of $0.01.
