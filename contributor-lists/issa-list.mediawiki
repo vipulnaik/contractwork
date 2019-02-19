@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 == Work and other compensation in 2019 ==
 
-Total money earned as income (taxable as income for 2019): $284.80
+Total money earned as income (taxable as income for 2019): $359.80
 
 Payment made: $0
 
-Carryover pament due from 2018: 1312.73
+Carryover pament due from 2018: 1336.73
 
-Net payment due: $1597.53
+Net payment due: $1696.53
 
 === Work on Donations List Website ===
 
@@ -68,17 +68,23 @@ Total so far: $194.38
 
 * January: $194.38. Worked 22.03 hours against total work hours of 136, so pay scaled from original of $1200.
 
+=== Commissions ===
+
+Total so far: $75
+
+* Mati Roy: 15% on $500 = $75
+
 == Work and other compensation in 2018 ==
 
 === Summary ===
 
-Total money earned by doing work (taxable as income for 2018): $18264.32
+Total money earned by doing work (taxable as income for 2018): $18288.32
 
 Payment made: $28000
 
 Carryover payment due from 2017: $11048.41
 
-Net payment due: $1312.73
+Net payment due: $1336.73
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -317,6 +323,12 @@ Total so far: $30
 * April: $10
 
 * September: $10
+
+=== Commissions ===
+
+Total so far: $24
+
+* Orpheus Lummis: 15% on $160 = $24
 
 === TODO ===
 
