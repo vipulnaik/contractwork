@@ -61,6 +61,7 @@ update workers set eaf_username='JesseClifton' where worker = 'Jesse Clifton';
 update workers set github_username='riceissa' where worker = 'Issa Rice';
 update workers set github_username='aviglozman' where worker = 'Avi Glozman';
 update workers set github_username='ethanbas' where worker = 'Ethan Bashkansky';
+update workers set github_username='sebastiansanchez123' where worker = 'Sebastian Sanchez';
 
 # -- LinkedIn usernames
 update workers set linkedin_username='issarice' where worker='Issa Rice';

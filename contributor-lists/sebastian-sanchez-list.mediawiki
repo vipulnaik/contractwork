@@ -16,17 +16,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2019 ==
 
-Total money earned as income: $1275
+Total money earned as income: $1925
 
 Forward balance carried over from 2018: ($3252.83)
 
-Payment made: $0
+Payment made: $4145
 
-Net payment due: ($1977.83)
+Net payment due: ($5472.83)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-Total of tentative payments: $825
+Total so far: $825
 
 * [https://timelines.issarice.com/wiki/Timeline_of_nuclear_medicine Timeline of nuclear medicine]: $200. Completed January 5, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nuclear_medicine&oldid=27354 (2019-01-06 00:37 UTC, 43697 bytes, 83 rows)
 
@@ -40,9 +40,19 @@ Total of tentative payments: $825
 
 === Stipends ===
 
-Total so far: $450
+Total so far: $1100
 
 * January: $450. Worked 100 hours, including time spent outside Timelines Wiki.
+
+* February: $650. Worked 160 hours, but no work outside Timelines Wiki.
+
+=== Payment schedule ===
+
+Total paid: $4145
+
+The amount a payment is for will be treated as the value in USD at market rates of the received ARS at time of exchange. Thus, Vipul will bear the cost of transfer overhead (both exchange rate costs and overhead).
+
+* $4145 sent Saturday, March 9, 2019, received Monday, March 11, 2019. Sent $4300 + $30 transaction fees via Western Union, receiver got 172717 ARS. $4145 is calculated as 172717 ARS at the exchange rate of 1 ARS = 0.024 USD
 
 == Work in 2018 ==
 
