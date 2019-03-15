@@ -42,13 +42,19 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 == Work and other compensation in 2019 ==
 
-Total money earned as income (taxable as income for 2019): $359.80
+Total money earned as income (taxable as income for 2019): $574.90
 
 Payment made: $0
 
 Carryover pament due from 2018: 1336.73
 
-Net payment due: $1696.53
+Net payment due: $1911.63
+
+=== Updates to existing pages (Timelines Wiki) ===
+
+Total so far: $27
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute Timeline of Machine Intelligence Research Institute]: $27. Completed March 11, 2019; covers work since the last payment on February 24, 2018. Payment for page as of https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&oldid=28758 and specifically for the diff https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&type=revision&diff=28758&oldid=20301 (89,249 bytes to 96,505 bytes)
 
 === Work on Donations List Website ===
 
@@ -56,17 +62,23 @@ Total so far: $75.23
 
 * Work on Donations List Website in January: $75.23 (8 hours 51 minutes at $8.50/hour between January 10 and January 21)
 
+* Work on Donations List Website in February: $42.47 (4 hours 29 minutes at $9.50/hour between February 2 and February 26)
+
 === Work on learning subwiki ===
 
-Total so far: $15.19
+Total so far: $48.32
 
 * Work on learning subwiki in January: $15.19 (2 hours 26 minutes at $6.25/hour between January 7 and January 23)
 
+* Work on learning subwiki in February: $33.13 (5 hours 18 minutes at $6.25/hour between February 12 and February 23)
+
 === Stipends ===
 
-Total so far: $194.38
+Total so far: $306.88
 
 * January: $194.38. Worked 22.03 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* February: $112.50. Worked 12.75 hours against total work hours of 136, so pay scaled from original of $1200.
 
 === Commissions ===
 
