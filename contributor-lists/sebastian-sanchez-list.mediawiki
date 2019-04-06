@@ -16,13 +16,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2019 ==
 
-Total money earned as income: $1925
+Total money earned as income: $2475
 
 Forward balance carried over from 2018: ($3252.83)
 
 Payment made: $4145
 
-Net payment due: ($5472.83)
+Net payment due: ($4922.83)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -38,13 +38,40 @@ Total so far: $825
 
 * [https://timelines.issarice.com/wiki/Timeline_of_nursing Timeline of nusing]: $200. Completed January 13, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nursing&oldid=27455 (2019-01-13 18:21 UTC, 39398 bytes, 87 rows)
 
+=== Tentative pending payments ===
+
+Total so far: $1550
+
+* [https://timelines.issarice.com/wiki/Timeline_of_pneumonia Timeline of pneumonia]: $145. Completed January 31, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_pneumonia&oldid=27698 (2019-01-31 23:21 UTC, 30481 bytes, 37 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_microscopy Timeline of microscopy]: $245. Completed March 3, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_microscopy&oldid=28555 (2019-03-04 01:53 UTC, 53496 bytes, 88 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_endocrinology Timeline of endocrinology]: $300. Completed March 5, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_endocrinology&oldid=28608 (2019-03-05 21:55 UTC, 61002 bytes, 153 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_gastroenterology Timeline of gastroenterology]: $215. Completed March 1, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_gastroenterology&oldid=28502 (2019-03-01 19:04 UTC, 41841 bytes, 99 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_the_Centers_for_Disease_Control_and_Prevention Timeline of the Centers for Disease Control and Prevention]: $300. Completed March 7, 2019. Completed version at https://timelines.issarice.com/wiki/Timeline_of_the_Centers_for_Disease_Control_and_Prevention (2019-03-08 03:48 UTC, 63996 bytes, 166 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2018 Timeline of malaria in 2018]: $240. Completed March 8, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2018&oldid=28690 (2019-03-08 14:18 UTC, 68874 bytes, 78 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_assertive_community_treatment Timeline of assertive community treatment]: $105. Completed April 6, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_assertive_community_treatment&oldid=29082 (2019-04-06 18:06 UTC, 23226 bytes, 37 rows)
+
+The payments for the following have not yet been added because the timelines have been returned with feedback:
+
+* [https://timelines.issarice.com/wiki/Timeline_of_meditation Timeline of meditation]
+* [https://timelines.issarice.com/wiki/Timeline_of_Animal_Equality Timeline of Animal Equality]
+* [https://timelines.issarice.com/wiki/Timeline_of_GiveDirectly Timeline of GiveDirectly]
+* [https://timelines.issarice.com/wiki/Timeline_of_Malaria_Consortium Timeline of Malaria Consortium]
+
 === Stipends ===
 
-Total so far: $1100
+Total so far: $1650
 
 * January: $450. Worked 100 hours, including time spent outside Timelines Wiki.
 
 * February: $650. Worked 160 hours, but no work outside Timelines Wiki.
+
+* March: $550. Worked 125 hours, including time spent outside Timelines Wiki.
 
 === Payment schedule ===
 
