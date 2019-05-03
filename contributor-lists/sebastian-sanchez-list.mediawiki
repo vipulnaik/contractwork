@@ -84,6 +84,8 @@ The payments for the following almost-complete timelines have not yet been added
 
 Total so far: $2310
 
+From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours were spent on Timelines Wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
+
 * January: $450. Worked 100 hours, including time spent outside Timelines Wiki.
 
 * February: $650. Worked 160 hours, but no work outside Timelines Wiki.
