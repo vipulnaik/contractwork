@@ -68,17 +68,25 @@ Total so far: $275
 
 === Tentative pending payments for completed timelines ===
 
+* [https://timelines.issarice.com/wiki/Timeline_of_Animal_Equality Timeline of Animal Equality]: $300. Completed May 2, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Animal_Equality&oldid=29520 (2019-05-02 23:00 UTC, 65176 bytes, 139 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_cognitive_behavioral_therapy Timeline of cognitive behavioral therapy]: $160. Completed May 3, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cognitive_behavioral_therapy&oldid=29542 (2019-05-03 19:39 UTC, 33505 bytes, 53 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_GiveDirectly Timeline of GiveDirectly]: $170. Completed May 3, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_GiveDirectly&oldid=29554 (2019-05-03 23:36 UTC, 34568 bytes, 70 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_index_funds Timeline of index funds]: $100. Completed May 10, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_index_funds&oldid=29746 (2019-05-10 19:05 UTC, 19028 bytes, 39 rows)
+
 Payment still needs to be assessed and added for:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_United_States_Agency_for_International_Development Timeline of the United States Agency for International Development]
+* [https://timelines.issarice.com/wiki/Timeline_of_the_World_Bank Timeline of the World Bank]
 
-The payments for the following almost-complete timelines have not yet been added because the timelines have been returned with feedback:
+The following timelines have been returned with feedback:
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Animal_Equality Timeline of Animal Equality]
-* [https://timelines.issarice.com/wiki/Timeline_of_GiveDirectly Timeline of GiveDirectly]
+* [https://timelines.issarice.com/wiki/Timeline_of_Schistosomiasis_Control_Initiative Timeline of Schistosomiasis Control Initiative] (just some minor typos)
 * [https://timelines.issarice.com/wiki/Timeline_of_Malaria_Atlas_Project Timeline of Malaria Atlas Project]
-* [https://timelines.issarice.com/wiki/Timeline_of_cognitive_behavioral_therapy Timeline of cognitive behavioral therapy]
-* [https://timelines.issarice.com/wiki/Timeline_of_Schistosomiasis_Control_Initiative Timeline of Schistosomiasis Control Initiative]
+* [https://timelines.issarice.com/wiki/Timeline_of_cloud_computing Timeline of cloud computing]
+* [https://timelines.issarice.com/wiki/Timeline_of_pollution_in_Delhi Timeline of pollution in Delhi]
 
 === Stipends ===
 
