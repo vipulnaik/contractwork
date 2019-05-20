@@ -39,6 +39,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Western Union','Sebastian Sanchez',NULL,'2018-08-04','2018-08-04','2018-08-13','2018-08-13',4253,4530,30,4500),
   ('Western Union','Sebastian Sanchez',NULL,'2018-10-13','2018-10-13','2018-10-16','2018-10-16',4218.60,4330,30,4300),
   ('Western Union','Sebastian Sanchez',NULL,'2019-03-09','2019-03-09','2019-03-11','2019-03-11',4145,4330,30,4300),
+  ('Western Union','Sebastian Sanchez',NULL,'2019-05-19','2019-05-19','2019-05-20','2019-05-20',4705,4770,20,4750),
   # --Ethan Bashkansky payments
   ('Cash','Ethan Bashkansky','Issa Rice','2016-02-17','2016-02-17','2016-02-17','2016-02-17',115,115,0,115),
   ('PayPal','Ethan Bashkansky',NULL,'2016-04-30','2016-04-30','2016-04-30','2016-04-30',44,44,0,44),
