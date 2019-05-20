@@ -81,12 +81,15 @@ Payment still needs to be assessed and added for:
 * [https://timelines.issarice.com/wiki/Timeline_of_the_United_States_Agency_for_International_Development Timeline of the United States Agency for International Development]
 * [https://timelines.issarice.com/wiki/Timeline_of_the_World_Bank Timeline of the World Bank]
 
-The following timelines have been returned with feedback:
+The following timelines were returned with feedback on Sunday, May 19, 2019:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Schistosomiasis_Control_Initiative Timeline of Schistosomiasis Control Initiative] (just some minor typos)
-* [https://timelines.issarice.com/wiki/Timeline_of_Malaria_Atlas_Project Timeline of Malaria Atlas Project]
 * [https://timelines.issarice.com/wiki/Timeline_of_cloud_computing Timeline of cloud computing]
 * [https://timelines.issarice.com/wiki/Timeline_of_pollution_in_Delhi Timeline of pollution in Delhi]
+
+The following timeline was returned with feedback earlier:
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Malaria_Atlas_Project Timeline of Malaria Atlas Project]
 
 === Stipends ===
 
