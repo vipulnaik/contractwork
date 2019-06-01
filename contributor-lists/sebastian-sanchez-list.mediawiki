@@ -16,13 +16,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2019 ==
 
-Total money earned as income: $5290
+Total money earned as income: $5970
 
 Forward balance carried over from 2018: ($3252.83)
 
 Payment made: $8850
 
-Net payment due: ($6812.83)
+Net payment due: ($6132.83)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -78,24 +78,33 @@ Tentative payments accepted by Sebastian:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_index_funds Timeline of index funds]: $100. Completed May 10, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_index_funds&oldid=29746 (2019-05-10 19:05 UTC, 19028 bytes, 39 rows)
 
-Payment still needs to be assessed and added for:
+Other tentative payments:
 
-* [https://timelines.issarice.com/wiki/Timeline_of_the_United_States_Agency_for_International_Development Timeline of the United States Agency for International Development]
-* [https://timelines.issarice.com/wiki/Timeline_of_the_World_Bank Timeline of the World Bank]
+* [https://timelines.issarice.com/wiki/Timeline_of_the_United_States_Agency_for_International_Development Timeline of the United States Agency for International Development]: $165. Completed April 24, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_United_States_Agency_for_International_Development&oldid=29380 (2019-05-25 02:38 UTC, 33407 bytes, 63 rows)
 
-The following timelines were returned with feedback on Sunday, May 19, 2019:
+* [https://timelines.issarice.com/wiki/Timeline_of_the_World_Bank Timeline of the World Bank]: $250. Completed April 24, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_World_Bank&oldid=29368 (2019-04-24 20:01 UTC, 46614 bytes, 157 rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Schistosomiasis_Control_Initiative Timeline of Schistosomiasis Control Initiative] (just some minor typos)
+* [https://timelines.issarice.com/wiki/Timeline_of_Schistosomiasis_Control_Initiative Timeline of Schistosomiasis Control Initiative]: $120. Completed May 21, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Schistosomiasis_Control_Initiative&oldid=29996 (2019-05-21 19:39 UTC, 23403 bytes, 53 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_pollution_in_Delhi Timeline of pollution in Delhi]: $110. Completed May 24, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_pollution_in_Delhi&oldid=30052 (2019-05-24 12:57 UTC, 20710 bytes, 35 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_pollution Timeline of pollution]: $255. Completed May 24, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_pollution&oldid=30060 (2019-05-24 18:51 UTC, 49461 bytes, 96 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Malaria_Atlas_Project Timeline of Malaria Atlas Project]: $150. Completed June 1, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Malaria_Atlas_Project&oldid=30191 (2019-06-01 18:53 UTC, 32358 bytes, 48 rows)
+
+The following timeline was returned with feedback on Sunday, May 19, 2019:
+
 * [https://timelines.issarice.com/wiki/Timeline_of_cloud_computing Timeline of cloud computing]
-* [https://timelines.issarice.com/wiki/Timeline_of_pollution_in_Delhi Timeline of pollution in Delhi]
 
-The following timeline was returned with feedback earlier:
+=== Tentative pending payments for expansions ===
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Malaria_Atlas_Project Timeline of Malaria Atlas Project]
+* [https://timelines.issarice.com/wiki/Timeline_of_GitHub Timeline of GitHub]: $110. Completed May 26, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_GitHub&type=revision&diff=30080&oldid=23707 diff]. Increased from 62,157 bytes to 101,657 bytes, with 39 rows added.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_animal_testing Timeline of animal testing]: $15. Completed April 28, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_animal_testing&type=revision&diff=29443&oldid=26640 diff]. Increased from 38,518 bytes to 41,582 bytes, with 4 rows added.
 
 === Stipends ===
 
-Total so far: $2310
+Total so far: $2990
 
 From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours were spent on Timelines Wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
@@ -106,6 +115,8 @@ From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours w
 * March: $550. Worked 125 hours, including time spent outside Timelines Wiki.
 
 * April: $660. Worked 165 hours, but no work outside Timelines Wiki.
+
+* May: $680. Worked 170 hours, but no work outside Timelines Wiki.
 
 === Payment schedule ===
 
