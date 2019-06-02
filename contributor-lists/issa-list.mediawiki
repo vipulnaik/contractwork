@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 == Work and other compensation in 2019 ==
 
-Total money earned as income (taxable as income for 2019): $1180.28
+Total money earned as income (taxable as income for 2019): $2139.57
 
 Payment made: $0
 
 Carryover pament due from 2018: 1336.73
 
-Net payment due: $2517.01
+Net payment due: $3476.30
 
 === Updates to existing pages (Timelines Wiki) ===
 
@@ -64,13 +64,17 @@ Total so far: $300
 
 === Work on Donations List Website (DLW) ===
 
-Total so far: $75.23
+Total so far: $387.44
 
 * Work on Donations List Website in January: $75.23 (8 hours 51 minutes at $8.50/hour between January 10 and January 21)
 
 * Work on Donations List Website in February: $42.47 (4 hours 29 minutes at $9.50/hour between February 2 and February 26)
 
 * Work on Donations List Website in March: $33.09 (3 hours 29 minutes at $9.50/hour between March 10 and March 27)
+
+* Work on Donations List Website in April: $166.73 (17 hours 33 minutes at $9.50/hour between April 8 and April 28)
+
+* Work on Donations List Website in May: $69.92 (7 hours 22 minutes at $9.50/hour between May 1 and May 13)
 
 === Work on learning subwiki ===
 
@@ -88,25 +92,45 @@ Total so far: $1.79
 
 === Work on Computing Data Project (CDP) ===
 
-Total so far: $4.38
+Total so far: $12.01
 
 * Work on Computing Data Project in March: $4.38 (35 minutes at $7.50/hour on March 23)
 
+* Work on Computing Data Project in April: $7.63 (1 hour 1 minute at $7.50/hour from April 15 to April 23)
+
 === Work on Org Watch (OW) ===
 
-Total so far: $106.24
+Total so far: $148.20
 
 * Work on Org Watch in March: $106.24 (11 hours 11 minutes at $9.50/hour from March 17 to March 27)
 
+* Work on Org Watch in April: $41.96 (4 hours 25 minutes at $9.50/hour from April 1 to April 30)
+
+=== Work on AI Watch (AIW) ===
+
+Total so far: $109.06
+
+* Work on AI Watch in May: $109.06 (11 hours 29 minutes at $9.50/hour from May 2 to May 22). Note that this may include some work on Org Watch; the time on the two was not separated but the bulk of the time was on AI Watch
+
+=== Work on Wikipedia Views ===
+
+Total so far: $21.08
+
+* Work on Wikipedia Views in May: $21.08 (2 hours 29 minutes at $8.50/hour). The time is largely spent on https://github.com/vipulnaik/wikipediaviews/issues/22
+
 === Stipends ===
 
-Total so far: $306.88
+Total so far: $849.79
 
 * January: $194.38. Worked 22.03 hours against total work hours of 136, so pay scaled from original of $1200.
 
 * February: $112.50. Worked 12.75 hours against total work hours of 136, so pay scaled from original of $1200.
 
 * March: $159.88. Worked 18.12 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* April: $267.35. Worked 30.3 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* May: $275.56. Worked 31.23 hours against total work hours of 136, so pay scaled from original of $1200.
 
 === Commissions ===
 
