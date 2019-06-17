@@ -90,8 +90,6 @@ Tentative payments accepted by Sebastian:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Malaria_Atlas_Project Timeline of Malaria Atlas Project]: $150. Completed June 1, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Malaria_Atlas_Project&oldid=30191 (2019-06-01 18:53 UTC, 32358 bytes, 48 rows)
 
-Tentative payments not yet accepted:
-
 * [https://timelines.issarice.com/wiki/Timeline_of_cloud_computing Timeline of cloud computing]: $290. Completed June 9, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cloud_computing&oldid=30320 (2019-06-09 14:47 UTC, 59442 bytes, 119 rows)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_pollution_in_India Timeline of pollution in India]: $150. Completed June 15, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_pollution_in_India&oldid=30523 (2019-06-15 22:51 UTC, 30333 bytes, 60 rows)
