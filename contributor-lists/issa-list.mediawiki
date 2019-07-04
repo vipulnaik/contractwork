@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 == Work and other compensation in 2019 ==
 
-Total money earned as income (taxable as income for 2019): $2139.57
+Total money earned as income (taxable as income for 2019): $2721.81
 
 Payment made: $0
 
 Carryover pament due from 2018: 1336.73
 
-Net payment due: $3476.30
+Net payment due: $4058.54
 
 === Updates to existing pages (Timelines Wiki) ===
 
@@ -62,19 +62,21 @@ Total so far: $300
 
 * One year of maintenance of Timelines Wiki: $300. Completed as of March 20, 2019. This includes $20/month for hosting and maintenance, plus an additional $60 ($5/month) to cover regular maintenance.
 
-=== Work on Donations List Website (DLW) ===
+=== Work on Donations list website (DLW) ===
 
-Total so far: $387.44
+Total so far: $401.50
 
-* Work on Donations List Website in January: $75.23 (8 hours 51 minutes at $8.50/hour between January 10 and January 21)
+* Work on Donations list website in January: $75.23 (8 hours 51 minutes at $8.50/hour between January 10 and January 21)
 
-* Work on Donations List Website in February: $42.47 (4 hours 29 minutes at $9.50/hour between February 2 and February 26)
+* Work on Donations list website in February: $42.47 (4 hours 29 minutes at $9.50/hour between February 2 and February 26)
 
-* Work on Donations List Website in March: $33.09 (3 hours 29 minutes at $9.50/hour between March 10 and March 27)
+* Work on Donations list website in March: $33.09 (3 hours 29 minutes at $9.50/hour between March 10 and March 27)
 
-* Work on Donations List Website in April: $166.73 (17 hours 33 minutes at $9.50/hour between April 8 and April 28)
+* Work on Donations list website in April: $166.73 (17 hours 33 minutes at $9.50/hour between April 8 and April 28)
 
-* Work on Donations List Website in May: $69.92 (7 hours 22 minutes at $9.50/hour between May 1 and May 13)
+* Work on Donations list website in May: $69.92 (7 hours 22 minutes at $9.50/hour between May 1 and May 13)
+
+* Work on Donations list website in June: $14.06 (1 hour 29 minutes at $9.50/hour between June 20 and June 30)
 
 === Work on learning subwiki ===
 
@@ -86,25 +88,33 @@ Total so far: $48.32
 
 === Work on Devec/Demography data portal ===
 
-Total so far: $1.79
+Total so far: $3.45
 
 * Work on Devec/Demography data portal in March: $1.79 (11 minutes at $9.75/hour on March 23)
 
-=== Work on Computing Data Project (CDP) ===
+* Work on Devec/Demography data portal in June: $1.66 (10 minutes at $9.75/hour on June 22)
 
-Total so far: $12.01
+=== Work on Computing data project (CDP) ===
 
-* Work on Computing Data Project in March: $4.38 (35 minutes at $7.50/hour on March 23)
+Total so far: $38.36
 
-* Work on Computing Data Project in April: $7.63 (1 hour 1 minute at $7.50/hour from April 15 to April 23)
+* Work on Computing data project in March: $4.38 (35 minutes at $7.50/hour on March 23)
+
+* Work on Computing data project in April: $7.63 (1 hour 1 minute at $7.50/hour from April 15 to April 23)
+
+* Fresh data collection for Computing data project in June: $21.70 (2 hours 10 minutes at $10/hour on June 18 and June 19): Note that the somewhat-higher-than-usual rate is for the fresh data collection, which tends to be more tedious than other CDP work
+
+* Other work on Computing data project in June: $4.65 (37 minutes at $7.50/hour on June 30): This includes research on benchmarking tools
 
 === Work on Org Watch (OW) ===
 
-Total so far: $148.20
+Total so far: $401.95
 
 * Work on Org Watch in March: $106.24 (11 hours 11 minutes at $9.50/hour from March 17 to March 27)
 
 * Work on Org Watch in April: $41.96 (4 hours 25 minutes at $9.50/hour from April 1 to April 30)
+
+* Special data entry for Org Watch in June: $253.75 (total of 12 hours 15 minutes; first 10 hours at $22/hour and remaining time at $15/hour; work from June 23 to June 28): See https://github.com/riceissa/aiwatch/issues/18 for more work details
 
 === Work on AI Watch (AIW) ===
 
@@ -114,13 +124,15 @@ Total so far: $109.06
 
 === Work on Wikipedia Views ===
 
-Total so far: $21.08
+Total so far: $41.74
 
-* Work on Wikipedia Views in May: $21.08 (2 hours 29 minutes at $8.50/hour). The time is largely spent on https://github.com/vipulnaik/wikipediaviews/issues/22
+* Work on Wikipedia Views in May: $21.08 (2 hours 29 minutes at $8.50/hour on May 8 and May 9). The time is largely spent on https://github.com/vipulnaik/wikipediaviews/issues/22
+
+* Work on Wikipedia Views in June: $20.66 (2 hours 26 minutes at $8.50/hour on June 4 and June 5). The time is largely spent on some residual work for https://github.com/vipulnaik/wikipediaviews/issues/22
 
 === Stipends ===
 
-Total so far: $849.79
+Total so far: $1115.55
 
 * January: $194.38. Worked 22.03 hours against total work hours of 136, so pay scaled from original of $1200.
 
@@ -131,6 +143,8 @@ Total so far: $849.79
 * April: $267.35. Worked 30.3 hours against total work hours of 136, so pay scaled from original of $1200.
 
 * May: $275.56. Worked 31.23 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* June: $265.76. Worked 30.12 hours against total work hours of 136, so pay scaled from original of $1200.
 
 === Commissions ===
 
@@ -214,35 +228,35 @@ Total so far: $380
 
 * People watching: $380 for two 4-day periods at $50/day and $45/day, ending January 13, 2018.
 
-=== Work on Donations List Website ===
+=== Work on Donations list website ===
 
 Total so far: $2072.88
 
-* Work on Donations List Website in January: $675 (79 hours 20 minutes)
+* Work on Donations list website in January: $675 (79 hours 20 minutes)
 
-* Work on Donations List Website in February: $350 (41 hours)
+* Work on Donations list website in February: $350 (41 hours)
 
-* Work on Donations List Website in March: $70 (8 hours 12 minutes)
+* Work on Donations list website in March: $70 (8 hours 12 minutes)
 
-* Work on Donations List Website in April: $250 (29 hours 43 minutes)
+* Work on Donations list website in April: $250 (29 hours 43 minutes)
 
-* Work on Donations List Website in May: $78 (9 hours 8 minutes)
+* Work on Donations list website in May: $78 (9 hours 8 minutes)
 
-* Work on Donations List Website in June: $55 (6 hours 27 minutes)
+* Work on Donations list website in June: $55 (6 hours 27 minutes)
 
-* Work on Donations List Website in July: $146 (17 hours 11 minutes at $8.50/hour)
+* Work on Donations list website in July: $146 (17 hours 11 minutes at $8.50/hour)
 
-* [http://effective-altruism.com/ea/1s3/donations_list_website_tutorial_and_request_for/ Donations List Website: tutorial and request for feedback]: $65 (7 hours 38 minutes at $8.50/hour). Work done between August 18 and August 24. The post itself was published on August 21, but time spent includes time replying to comments
+* [http://effective-altruism.com/ea/1s3/donations_list_website_tutorial_and_request_for/ Donations list website: tutorial and request for feedback]: $65 (7 hours 38 minutes at $8.50/hour). Work done between August 18 and August 24. The post itself was published on August 21, but time spent includes time replying to comments
 
-* Work on Donations List Website in August (excluding EA Forum post): $215 (25 hours 18 minutes at $8.50/hour). Date range of work in month: August 5 to August 30
+* Work on Donations list website in August (excluding EA Forum post): $215 (25 hours 18 minutes at $8.50/hour). Date range of work in month: August 5 to August 30
 
-* Work on Donations List Website in September: $39.10 (4 hours 36 minutes at $8.50/hour). Work happened from September 1 to September 21
+* Work on Donations list website in September: $39.10 (4 hours 36 minutes at $8.50/hour). Work happened from September 1 to September 21
 
-* Work on Donations List Website in October: $66.44 (7 hours 49 minutes at $8.50/hour). Work happened from October 5 to October 22
+* Work on Donations list website in October: $66.44 (7 hours 49 minutes at $8.50/hour). Work happened from October 5 to October 22
 
-* Work on Donations List Website in November: $53.98 (6 hours 21 minutes at $8.50/hour). Work happened from November 6 to November 29
+* Work on Donations list website in November: $53.98 (6 hours 21 minutes at $8.50/hour). Work happened from November 6 to November 29
 
-* Work on Donations List Website in December: $8.76 (1 hour 2 minutes at $8.50/hour). Work happened from December 5 to December 27
+* Work on Donations list website in December: $8.76 (1 hour 2 minutes at $8.50/hour). Work happened from December 5 to December 27
 
 === Work on Contract Work website ===
 
@@ -467,7 +481,7 @@ Total so far: $645
 
 * [https://gist.github.com/riceissa/186b1d2e8bbb85e6204b5e06aba64018 hits-based giving project]: $570. Initial work on a project based on a slight modification of an earlier [http://effective-altruism.com/ea/14s/how_many_hits_does_hitsbased_giving_get_a/ proposal by Peter Hurford]. The project couldn't work out due to data not being available; however, Issa was paid $15/hour for 38 hours.
 
-* [https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear Breakdown of Open Phil donations by disclosure and year, also works with any cause area filter]: $75. Although total billable time cost was a little higher, that time was also used to improve the Donations List Website, so Peter only paid part of the cost.
+* [https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear Breakdown of Open Phil donations by disclosure and year, also works with any cause area filter]: $75. Although total billable time cost was a little higher, that time was also used to improve the Donations list website, so Peter only paid part of the cost.
 
 === Royalties ===
 
@@ -553,11 +567,11 @@ Total so far: $7064
 
 * Add legend in graphs on Wikipedia Views: $40. Completed July 7, 2017. See https://github.com/vipulnaik/wikipediaviews/pull/18 and https://github.com/vipulnaik/wikipediaviews/pull/19. Code is at https://github.com/vipulnaik/wikipediaviews/blob/master/python/graph.py and was also copied by Vipul to https://github.com/vipulnaik/bart/blob/master/python/graph.py and https://github.com/vipulnaik/donations/blob/master/python/graph.py
 
-* Lots of code updates for Donations List Website: $300. Completed July 22, 2017. See the branches https://github.com/vipulnaik/donations/tree/donee-deduplication https://github.com/vipulnaik/donations/tree/donor-similarity and https://github.com/vipulnaik/donations/tree/notes-col-expansion for the relevant commits. Some commits done directly in master. Worked for about 5.5 working days (started July 15, 2017).
+* Lots of code updates for Donations list website: $300. Completed July 22, 2017. See the branches https://github.com/vipulnaik/donations/tree/donee-deduplication https://github.com/vipulnaik/donations/tree/donor-similarity and https://github.com/vipulnaik/donations/tree/notes-col-expansion for the relevant commits. Some commits done directly in master. Worked for about 5.5 working days (started July 15, 2017).
 
 * One-time onboarding payment for Sebastian Sanchez: $75. Awarded August 5, 2017. Since no commission structure was used for Sebastian, but Issa did help with onboarding Sebastian and continues to provide technical assistance, a one-time payment of $75 (at 15% of the first $500) was added.
 
-* Lots of code updates for Donations List Website: $325. Completed August 12, 2017. This included some work for Peter visible at https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear for which a cost of $75 was paid by Peter, so the amount paid here includes total value of work ($400) minus the cost covered by Peter. Work spanned 6.5 working days.
+* Lots of code updates for Donations list website: $325. Completed August 12, 2017. This included some work for Peter visible at https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear for which a cost of $75 was paid by Peter, so the amount paid here includes total value of work ($400) minus the cost covered by Peter. Work spanned 6.5 working days.
 
 * Creation of list of Open Philanthropy Project predictions on PredictionBook: $74. Completed August 29, 2017. Available at https://predictionbook.com/users/OpenPhilUnofficial and GitHub repository at https://github.com/riceissa/open-phil-predictions Breakdown of pay: $30 base pay, $44 for predictions
 
@@ -575,7 +589,7 @@ Total so far: $7064
 
 * People watching: $400 for two 4-day periods at $50/day, 4 days each in the last two weeks of December, ending December 29. See https://github.com/riceissa/issarice.com/commit/0e10eca1b82c425067779bc32af0b6f94be7acb8#diff-c7ed78d772be81a5381d65cc6d32a95f for more details
 
-* Work on Donations List Website, including a bunch of issues related to importing data: $260. Total of 30 hours and 18 minutes logged, with last work on December 30. See comments made in December on http://github.com/vipulnaik/donations/issues for more information.
+* Work on Donations list website, including a bunch of issues related to importing data: $260. Total of 30 hours and 18 minutes logged, with last work on December 30. See comments made in December on http://github.com/vipulnaik/donations/issues for more information.
 
 * Wikipedia spotlight: $700. Last worked on on November 30, 2017. Retrospective on how we got kicked out of Wikipedia for paid editing. This includes $600 for work from March through June and $100 for two days of work in November. There is a remaining $300 of potential pay for this project, for likely 6 days of additional work.
 
