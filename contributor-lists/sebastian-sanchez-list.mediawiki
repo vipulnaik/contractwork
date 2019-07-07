@@ -106,6 +106,10 @@ Completed timelines (amount proposed has been accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Our_World_in_Data Timeline of Our World in Data]: $120. Completed June 27, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Our_World_in_Data&oldid=30829 (2019-06-27 17:32 UTC, 25,931 bytes, 54 rows)
 
+Completed timelines (amount proposed not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_DeepMind Timeline of DeepMind]: $285. Completed July 5, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_DeepMind&oldid=31145 (2019-07-05 19:01 UTC, 64,633 bytes, 71 rows)
+
 === Stipends ===
 
 Total so far: $3760
