@@ -106,9 +106,15 @@ Completed timelines (amount proposed has been accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Our_World_in_Data Timeline of Our World in Data]: $120. Completed June 27, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Our_World_in_Data&oldid=30829 (2019-06-27 17:32 UTC, 25,931 bytes, 54 rows)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_DeepMind Timeline of DeepMind]: $285. Completed July 5, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_DeepMind&oldid=31145 (2019-07-05 19:01 UTC, 64,633 bytes, 71 rows)
+
 Completed timelines (amount proposed not yet accepted):
 
-* [https://timelines.issarice.com/wiki/Timeline_of_DeepMind Timeline of DeepMind]: $285. Completed July 5, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_DeepMind&oldid=31145 (2019-07-05 19:01 UTC, 64,633 bytes, 71 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_content_delivery_networks Timeline of content delivery networks]: $110. Completed July 11, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_content_delivery_networks&oldid=31256 (2019-07-11 18:24 UTC, 20,303 bytes, 55 rows)
+
+Expansions (amount proposed not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $70. Completed July 10, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&type=revision&diff=31243&oldid=29270 diff]. Increased from 28,864 bytes to 44,187 bytes
 
 === Stipends ===
 
