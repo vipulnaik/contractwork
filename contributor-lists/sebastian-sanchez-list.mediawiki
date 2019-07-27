@@ -100,10 +100,6 @@ Total so far: $400
 
 === Tentative pending payments ===
 
-Completed timelines (amount proposed not yet accepted):
-
-* [https://timelines.issarice.com/wiki/Timeline_of_Y_Combinator Timeline of Y Combinator]: $295. Completed July 27, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Y_Combinator&oldid=32006 (2019-07-27 21:10 UTC, 63,084 bytes, 116 rows)
-
 Completed timelines (amount proposed has been accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_pollution_in_Beijing Timeline of pollution in Beijing]: $130. Completed July 5, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_pollution_in_Beijing&oldid=31132 (2019-07-05 16:43 UTC, 26,184 bytes, 53 rows)
@@ -119,6 +115,8 @@ Completed timelines (amount proposed has been accepted):
 * [https://timelines.issarice.com/wiki/Timeline_of_the_International_Red_Cross_and_Red_Crescent_Movement Timeline of the International Red Cross and Red Crescent Movement]: $380. Completed July 18, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_International_Red_Cross_and_Red_Crescent_Movement&oldid=31541 (2019-07-18 19:28 UTC, 78,196 bytes, 262 rows)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_M%C3%A9decins_Sans_Fronti%C3%A8res Timeline of Médecins Sans Frontières]: $250. Completed July 20, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_M%C3%A9decins_Sans_Fronti%C3%A8res&oldid=31669 (2019-07-21 02:19 UTC, 52,782 bytes, 128 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Y_Combinator Timeline of Y Combinator]: $295. Completed July 27, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Y_Combinator&oldid=32006 (2019-07-27 21:10 UTC, 63,084 bytes, 116 rows)
 
 Expansions (amount proposed has been accepted):
 
