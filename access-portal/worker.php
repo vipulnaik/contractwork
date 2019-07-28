@@ -81,35 +81,55 @@ if ($workerSelectResult -> num_rows == 0) {
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;
+  print date("Y-m-d h:i:sa").";
   include("backend/workerInfo.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerPaymentsDueByTypeAndYear.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerPaymentsMadeByMethodAndYear.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerTaskPaymentsDueByTypeAndYear.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerTaskPaymentsDueByTopicAndYear.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerTaskPaymentsDueByVenueAndYear.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerTaskPaymentsDueByFormatAndYear.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerPaymentsDueByTypeAndMonth.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerTaskPaymentsDueByTypeAndMonth.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerTaskPaymentsDueByTopicAndMonth.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerTaskPaymentsDueByVenueAndMonth.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerTaskPaymentsDueByFormatAndMonth.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerPaymentsDueAndMadeByMonth.inc");
+  print date("Y-m-d h:i:sa").";
   include("backend/workerTaskList.inc");
+  print date("Y-m-d h:i:sa").";
   if ($totalCommissionOnTaskPayment > 0) {
     include("backend/workerCommissionOnTaskList.inc");
   }
+  print date("Y-m-d h:i:sa").";
   if ($totalStipendPaymentAwardedInSameMonth + $totalStipendPaymentStraddlingMonths > 0) {
     include("backend/workerAwardedStipendList.inc");
   }
+  print date("Y-m-d h:i:sa").";
   if ($totalUnawardedStipendPayment > 0) {
     include("backend/workerDeferredStipendList.inc");
   }
+  print date("Y-m-d h:i:sa").";
   if ($totalRoyaltyPayment > 0) {
     include("backend/workerRoyaltyList.inc");
   }
+  print date("Y-m-d h:i:sa").";
   if ($totalCommissionOnRoyaltyPayment > 0) {
     include("backend/workerCommissionOnRoyaltyList.inc");
   }
+  print date("Y-m-d h:i:sa").";
   if ($totalPaymentMadeToWorker > 0) {
     include("backend/workerPaymentList.inc");
   }
