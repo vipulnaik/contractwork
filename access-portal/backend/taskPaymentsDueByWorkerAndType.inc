@@ -34,6 +34,12 @@ $taskSelectQuery = "select task_type, worker, coalesce(sum(payment), 0) as payme
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
+  if (!isset($paymentForTaskTypeAndWorker[$row['task_type']])) {
+    $paymentForWorkerAndMonth[$row['task_type']] = array();
+  }
+  if (!isset($totalPaymentForTaskType[$row['task_type']])) {
+    $totalPaymentForTaskType[$row['task_type']] = 0;
+  }
   $paymentForTaskTypeAndWorker[$row['task_type']][$row['worker']] = $row['payment'];
   $totalTaskPaymentForWorker[$row['worker']] += $row['payment'];
   $totalPaymentForTaskType[$row['task_type']] += $row['payment'];
