@@ -90,6 +90,7 @@ function timeSeriesGraphs($timePeriods, $group, $timePeriodAmount,
     if (file_exists($filePathBase . "-timeseries.png")) {
       exec("rm " . $filePathBase . "-timeseries.png");
     }
+    print date("Y-m-d h:i:sa").": Regenerating data for file $filePathBase";
     exec($cmdToExecute);
   }
 
