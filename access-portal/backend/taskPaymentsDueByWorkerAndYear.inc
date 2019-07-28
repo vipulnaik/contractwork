@@ -70,7 +70,11 @@ foreach($workerList as $worker) {
     print "<tr><td><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">$worker</a></td>";
     print '<td align="right"><strong>'.number_format($totalPaymentForWorkerUsingYear[$worker],2).'</strong></td>';
     foreach (array_reverse($yearList) as $year) {
-      print '<td align="right">'.number_format($paymentForWorkerAndYear[$worker][$year],2).'</td>';
+      $amountToPrint = 0;
+      if (isset($paymentForWorkerAndYear[$worker][$year])) {
+        $amountToPrint = $paymentForWorkerAndYear[$worker][$year];
+      }
+      print '<td align="right">'.number_format($amountToPrint,2).'</td>';
     }
     print '</tr>';
   }
