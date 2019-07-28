@@ -96,7 +96,7 @@ print "</tbody>\n<tfoot>\n";
 print '<tr><td><strong>Total across months</strong></td>';
 print '<td align="right"><strong>'.number_format($totalTaskPayment,2).'</strong></td>';
 foreach($workerList as $worker) {
-  if ($totalPaymentForWorkerUsingMonth[$worker] > 0) {
+  if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
     print '<td align="right"><strong>'.number_format($totalPaymentForWorkerUsingMonth[$worker],2).'</strong></td>';
   }
 }

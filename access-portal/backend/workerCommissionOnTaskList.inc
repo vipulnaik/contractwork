@@ -23,7 +23,7 @@ for ($i = 0; $i < $commissionOnTaskByEarnerSelectResult -> num_rows; $i++) {
   $row = $commissionOnTaskByEarnerSelectResult -> fetch_assoc();
   array_push($earnerList, $row['earner']);
   print '<tr>';
-  print '<td><a href="http://contractwork.vipulnaik.com/worker.php?worker='.urlencode($row['worker']).'">'.$row['earner'].'</a></td>';
+  print '<td><a href="http://contractwork.vipulnaik.com/worker.php?worker='.urlencode($row['earner']).'">'.$row['earner'].'</a></td>';
   print '<td>'.$row['commission_validity_start'];
   if ($row['commission_validity_end'] == '') {
     print ' onward';
