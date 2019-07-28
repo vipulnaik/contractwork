@@ -22,6 +22,12 @@ $taskSelectQuery = "select task_type, year(completion_date) as year, coalesce(su
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
+  if (!isset($paymentForTaskTypeAndYear[$row['task_type']])) {
+    $paymentForTaskTypeAndYear[$row['task_type']] = 0;
+  }
+  if (!isset($totalPaymentForTaskType[$row['task_type']])) {
+    $totalPaymentForTaskType[$row['task_type']] = 0;
+  }
   $paymentForTaskTypeAndYear[$row['task_type']][$row['year']] = $row['payment'];
   $totalPaymentForYear[$row['year']] += $row['payment'];
   $totalPaymentForTaskType[$row['task_type']] += $row['payment'];
