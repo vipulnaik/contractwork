@@ -2,7 +2,7 @@
 print '<h4 id="taskPaymentsDueByWorkerAndType">Task payments due by worker and type</h4>';
 
 $workerSelectQuery = "select distinct worker from workers where private = false and worker != 'Linchuan Zhang'";
-$workerSelectResult = $mysqli -> query($workerSelectQuery + ";");
+$workerSelectResult = $mysqli -> query($workerSelectQuery . ";");
 
 $workers = array();
 
