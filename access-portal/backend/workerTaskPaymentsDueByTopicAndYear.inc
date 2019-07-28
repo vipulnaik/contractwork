@@ -88,7 +88,7 @@ $graphs = timeSeriesGraphs(
   $paymentForTopicAndYear,
   $generateGraphCmdBase,
   $imagesPath,
-  "https://contractwork.vipulnaik.com/worker.php",
+  "https://contractwork.vipulnaik.com/worker.php?worker=" . urlencode($worker),
   "#workerTaskPaymentsDueByTopicAndYear"
 );
 

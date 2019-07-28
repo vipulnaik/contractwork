@@ -86,7 +86,7 @@ $graphs = timeSeriesGraphs(
   $paymentForTaskFormatAndMonth,
   $generateGraphCmdBase,
   $imagesPath,
-  "https://contractwork.vipulnaik.com/payer.php",
+  "https://contractwork.vipulnaik.com/payer.php?payer=" . urlencode($payer),
   "#payerTaskPaymentsDueByFormatAndMonth"
 );
 

@@ -70,7 +70,7 @@ if ($printTables == true) {
     $payment,
     $generateGraphCmdBase,
     $imagesPath,
-    "https://contractwork.vipulnaik.com/payer.php",
+    "https://contractwork.vipulnaik.com/payer.php?payer=" . urlencode($payer),
     "#payerPaymentsMadeByMethodAndYear"
   );
 

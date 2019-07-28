@@ -73,7 +73,7 @@ $graphs = timeSeriesGraphs(
   $paymentForTaskFormatAndYear,
   $generateGraphCmdBase,
   $imagesPath,
-  "https://contractwork.vipulnaik.com/tasks.php",
+  "https://contractwork.vipulnaik.com/tasks.php?filterQuery=" . urlencode($filterQuery),
   "#filteredTaskPaymentsDueByFormatAndYear"
 );
 

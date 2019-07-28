@@ -89,7 +89,7 @@ $graphs = timeSeriesGraphs(
   $paymentForTaskTypeAndMonth,
   $generateGraphCmdBase,
   $imagesPath,
-  "https://contractwork.vipulnaik.com/venue.php",
+  "https://contractwork.vipulnaik.com/venue.php?venue=" . urlencode($venue),
   "#venueTaskPaymentsDueByTypeAndMonth"
 );
 
