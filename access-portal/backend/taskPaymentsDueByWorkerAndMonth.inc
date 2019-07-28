@@ -46,10 +46,20 @@ for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
 
 function cmpWorkersForMonth($firstWorker, $secondWorker) {
   global $totalPaymentForWorkerUsingMonth;
-  if (intval($totalPaymentForWorkerUsingMonth[$firstWorker]) == intval($totalPaymentForWorkerUsingMonth[$secondWorker])) {
+  if (!isset($totalPaymentForWorkerUsingMonth[$firstWorker])) {
+    $paymentForFirstWorker = 0;
+  } else {
+    $paymentForFirstWorker = intval($totalPaymentForWorkerUsingMonth[$firstWorker]);
+  }
+  if (!isset($totalPaymentForWorkerUsingMonth[$secondWorker])) {
+    $paymentForSecondWorker = 0;
+  } else {
+    $paymentForSecondWorker = intval($totalPaymentForWorkerUsingMonth[$secondWorker]);
+  }
+  if ($paymentForFirstWorker == $paymentForSecondWorker) {
       return 0;
   }
-  return (intval($totalPaymentForWorkerUsingMonth[$firstWorker]) > intval($totalPaymentForWorkerUsingMonth[$secondWorker])) ? -1 : 1;
+  return ($paymentForFirstWorker > $paymentForSecondWorker) ? -1 : 1;
 }
 
 usort($workerList,"cmpWorkersForMonth");

@@ -21,6 +21,15 @@ $taskSelectQuery = "select format, year(completion_date) as year, coalesce(sum(p
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
+  if (!isset($paymentForTaskFormatAndYear[$row['format']])) {
+    $paymentForTaskFormatAndYear[$row['format']] = array();
+  }
+  if (!isset($totalPaymentForYear[$row['year']])) {
+    $totalPaymentForYear[$row['year']] = 0;
+  }
+  if (!isset($totalPaymentForTaskFormat[$row['format']])) {
+    $totalPaymentForTaskFormat[$row['format']] = 0;
+  }
   $paymentForTaskFormatAndYear[$row['format']][$row['year']] = $row['payment'];
   $totalPaymentForYear[$row['year']] += $row['payment'];
   $totalPaymentForTaskFormat[$row['format']] += $row['payment'];

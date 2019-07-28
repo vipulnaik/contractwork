@@ -6,9 +6,12 @@ print '<p>For completed months, the row for the month gives the data at the end 
 # Initialize values to zero
 $cumulativePaymentAwardedSoFar = 0;
 $cumulativePaymentMadeSoFar = 0;
+$cumulativeReimbursementDueSoFar = 0;
 foreach ($monthList as $month) {
   $paymentMadeInMonth[$month] = 0;
   $cumulativePaymentMadeTillMonth[$month] = 0;
+  $reimbursementDueInMonth[$month] = 0;
+  $cumulativeReimbursementDueTillMonth[$month] = 0;
   $cumulativePaymentAwardedSoFar += $totalPaymentAwarded[$month];
   $cumulativePaymentAwardedTillMonth[$month] = $cumulativePaymentAwardedSoFar;
 }  
@@ -22,6 +25,16 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $paymentMadeInMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
   $cumulativePaymentMadeSoFar += $row['payment'];
   $cumulativePaymentMadeTillMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $cumulativePaymentMadeSoFar;
+}
+
+$reimbursementSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(sent_payment), 0) as payment from payments where intermediary is not null and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
+
+$reimbursementSelectResult = $mysqli -> query($reimbursementSelectQuery);
+for ($i=0; $i < $reimbursementSelectResult -> num_rows; $i++) {
+  $row = $reimbursementSelectResult -> fetch_assoc();
+  $reimbursementDueInMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
+  $cumulativeReimbursementDueSoFar += $row['payment'];
+  $cumulativeReimbursementDueTillMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $cumulativeReimbursementDueSoFar;
 }
 
 $mostRecentlySeenCumulativePayment = 0;
