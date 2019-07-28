@@ -2,7 +2,7 @@
 print '<h4 id="taskPaymentsDueByWorkerAndMonth">Task payments due by worker and month</h4>';
 
 $workerList = array();
-$workerSelectQuery = "select distinct worker from workers where private = false;";
+$workerSelectQuery = "select distinct worker from workers where private = false and worker != 'Linchuan Zhang';";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);
 
 for($i=0;$i < $workerSelectResult -> num_rows; $i++) {
@@ -73,7 +73,7 @@ print "<thead>\n";
 print '<tr><th>Month</th>';
 print "<th>Total across task workers</th>";
 foreach ($workerList as $worker) {
-  if ($totalPaymentForWorkerUsingMonth[$worker] > 0) {
+  if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
     print "<th><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">$worker</a></th>";
   }
 }
