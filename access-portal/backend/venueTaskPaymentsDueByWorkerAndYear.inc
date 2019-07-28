@@ -37,10 +37,20 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
 
 function cmpWorkersUsingYear($firstWorker, $secondWorker) {
   global $totalPaymentForWorkerUsingYear;
-  if (intval($totalPaymentForWorkerUsingYear[$firstWorker]) == intval($totalPaymentForWorkerUsingYear[$secondWorker])) {
+  if (!isset($totalPaymentForWorkerUsingYear[$firstWorker])) {
+    $paymentForFirstWorker = 0;
+  } else {
+    $paymentForFirstWorker = intval($totalPaymentForWorkerUsingYear[$firstWorker]);
+  }
+  if (!isset($totalPaymentForWorkerUsingYear[$secondWorker])) {
+    $paymentForSecondWorker = 0;
+  } else {
+    $paymentForSecondWorker = intval($totalPaymentForWorkerUsingYear[$secondWorker]);
+  }
+  if ($paymentForFirstWorker == $paymentForSecondWorker) {
       return 0;
   }
-  return (intval($totalPaymentForWorkerUsingYear[$firstWorker]) > intval($totalPaymentForWorkerUsingYear[$secondWorker])) ? -1 : 1;
+  return ($paymentForFirstWorker > $paymentForSecondWorker) ? -1 : 1;
 }
 
 usort($workerList,"cmpWorkersUsingYear");
