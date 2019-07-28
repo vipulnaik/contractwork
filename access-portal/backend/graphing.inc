@@ -22,7 +22,7 @@ function timeSeriesGraphs($timePeriods, $group, $timePeriodAmount,
 
   // Remove group elements that are zero across all time periods
   foreach ($groupCopy as $g) {
-    if (array_sum($amountByGroupAndTimePeriod[$g]) == 0) {
+    if (!isset($amountByGroupAndTimePeriod[$g]) || array_sum($amountByGroupAndTimePeriod[$g]) == 0) {
       $group = array_diff($group, array($g));
     }
   }
