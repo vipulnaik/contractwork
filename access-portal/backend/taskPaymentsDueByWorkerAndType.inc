@@ -31,7 +31,6 @@ $totalTaskPayment = 0;
 # Get task payments
 
 $taskSelectQuery = "select task_type, worker, coalesce(sum(payment), 0) as payment from tasks where worker in ($workerSelectQuery) group by task_type, worker;";
-print "taskSelectQuery = $taskSelectQuery";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
