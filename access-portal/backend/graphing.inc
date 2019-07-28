@@ -73,13 +73,11 @@ function timeSeriesGraphs($timePeriods, $group, $timePeriodAmount,
   $filePathBase = $imagesPath . $fileName;
   $dataHasChanged= false;
   if (!file_exists($filePathBase . ".csv")) {
-    print date("Y-m-d h:i:sa").": Creating file $filePathBase.csv since it does not exist";
     file_put_contents($filePathBase . ".csv", $dataForGraph);
     $dataHasChanged = true;
   } else {
     $previousOutput = file_get_contents($filePathBase . ".csv");
     if ($previousOutput != $dataForGraph) {
-      print date("Y-m-d h:i:sa").": File $filePathBase.csv exists but the contents do not match what we want to put into it";
       $dataHasChanged = true;
       file_put_contents($filePathBase . ".csv", $dataForGraph);
     }
@@ -90,10 +88,9 @@ function timeSeriesGraphs($timePeriods, $group, $timePeriodAmount,
     $filePathBase . "-timeseries.png";
   if ($dataHasChanged or ! file_exists($filePathBase . "-timeseries.png")) {
     if (file_exists($filePathBase . "-timeseries.png")) {
-      print date("Y-m-d h:i:sa").": Removing PNG file because the data has changed and we need to regenerate it";
       exec("rm " . $filePathBase . "-timeseries.png");
     }
-    print date("Y-m-d h:i:sa").": Regenerating data from file $filePathBase.csv with dataHasChanged = $dataHasChanged";
+    print date("Y-m-d h:i:sa").": Regenerating data for file $filePathBase";
     exec($cmdToExecute);
   }
 
