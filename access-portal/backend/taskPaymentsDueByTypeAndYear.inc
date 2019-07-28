@@ -23,7 +23,7 @@ $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   if (!isset($paymentForTaskTypeAndYear[$row['task_type']])) {
-    $paymentForTaskTypeAndYear[$row['task_type']] = 0;
+    $paymentForTaskTypeAndYear[$row['task_type']] = array();
   }
   if (!isset($totalPaymentForTaskType[$row['task_type']])) {
     $totalPaymentForTaskType[$row['task_type']] = 0;
