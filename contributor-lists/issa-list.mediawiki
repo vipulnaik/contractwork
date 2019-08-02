@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 == Work and other compensation in 2019 ==
 
-Total money earned as income (taxable as income for 2019): $2721.81
+Total money earned as income (taxable as income for 2019): $2926.29
 
 Payment made: $0
 
 Carryover pament due from 2018: 1336.73
 
-Net payment due: $4058.54
+Net payment due: $4263.02
 
 === Updates to existing pages (Timelines Wiki) ===
 
@@ -88,15 +88,17 @@ Total so far: $48.32
 
 === Work on Devec/Demography data portal ===
 
-Total so far: $3.45
+Total so far: $21.49
 
 * Work on Devec/Demography data portal in March: $1.79 (11 minutes at $9.75/hour on March 23)
 
 * Work on Devec/Demography data portal in June: $1.66 (10 minutes at $9.75/hour on June 22)
 
+* Work on Devec/Demography data portal in July: $18.04 (1 hour 51 minutes on July 4): Work on https://github.com/riceissa/devec-demography-data-portal/issues/2
+
 === Work on Computing data project (CDP) ===
 
-Total so far: $38.36
+Total so far: $74.36
 
 * Work on Computing data project in March: $4.38 (35 minutes at $7.50/hour on March 23)
 
@@ -105,6 +107,8 @@ Total so far: $38.36
 * Fresh data collection for Computing data project in June: $21.70 (2 hours 10 minutes at $10/hour on June 18 and June 19): Note that the somewhat-higher-than-usual rate is for the fresh data collection, which tends to be more tedious than other CDP work
 
 * Other work on Computing data project in June: $4.65 (37 minutes at $7.50/hour on June 30): This includes research on benchmarking tools
+
+* Fresh data collection for Computing data project in July: $36 (3 hours 36 minutes at $10/hour on July 8 and July 9): Note that the somewhat-higher-than-usual rate is for the fresh data collection, which tends to be more tedious than other CDP work
 
 === Work on Org Watch (OW) ===
 
@@ -130,9 +134,15 @@ Total so far: $41.74
 
 * Work on Wikipedia Views in June: $20.66 (2 hours 26 minutes at $8.50/hour on June 4 and June 5). The time is largely spent on some residual work for https://github.com/vipulnaik/wikipediaviews/issues/22
 
+=== Other work ===
+
+Total so far: $30
+
+* Fact-finding mission for search.gov: $30 (3 hours at $10/hour on July 13). Output in private location (for now)
+
 === Stipends ===
 
-Total so far: $1115.55
+Total so far: $1395.87
 
 * January: $194.38. Worked 22.03 hours against total work hours of 136, so pay scaled from original of $1200.
 
@@ -145,6 +155,8 @@ Total so far: $1115.55
 * May: $275.56. Worked 31.23 hours against total work hours of 136, so pay scaled from original of $1200.
 
 * June: $265.76. Worked 30.12 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* July: $120.44. Worked 13.65 hours against total work hours of 136, so pay scaled from original of $1200.
 
 === Commissions ===
 
