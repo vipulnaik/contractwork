@@ -40,6 +40,8 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Western Union','Sebastian Sanchez',NULL,'2018-10-13','2018-10-13','2018-10-16','2018-10-16',4218.60,4330,30,4300),
   ('Western Union','Sebastian Sanchez',NULL,'2019-03-09','2019-03-09','2019-03-11','2019-03-11',4145,4330,30,4300),
   ('Western Union','Sebastian Sanchez',NULL,'2019-05-19','2019-05-19','2019-05-20','2019-05-20',4705,4770,20,4750),
+  ('PayPal','Sebastian Sanchez',NULL,'2019-08-02','2019-08-02','2019-08-02','2019-08-02',50,50,3,47),
+  
   # --Ethan Bashkansky payments
   ('Cash','Ethan Bashkansky','Issa Rice','2016-02-17','2016-02-17','2016-02-17','2016-02-17',115,115,0,115),
   ('PayPal','Ethan Bashkansky',NULL,'2016-04-30','2016-04-30','2016-04-30','2016-04-30',44,44,0,44),
@@ -87,6 +89,9 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Check','Issa Rice',NULL,'2018-04-02','2018-04-05','2018-04-09','2018-04-18',18000,18000,0,18000),
   ('Check','Issa Rice',NULL,'2018-11-22','2018-11-30','2018-12-11','2018-12-12',10000,10000,0,10000),
 
+  # -- Payments for 2019 tax year
+  ('PayPal','Issa Rice',NULL,'2019-08-02','2019-08-02','2019-08-02','2019-08-02',4263.02,4263.02,0,4263.02),
+  
   # -- Orpheus Lummis
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160),
 

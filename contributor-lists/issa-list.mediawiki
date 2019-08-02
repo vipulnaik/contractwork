@@ -44,11 +44,11 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 Total money earned as income (taxable as income for 2019): $2926.29
 
-Payment made: $0
+Payment made: $4263.02
 
 Carryover pament due from 2018: 1336.73
 
-Net payment due: $4263.02
+Net payment due: $0
 
 === Updates to existing pages (Timelines Wiki) ===
 
@@ -163,6 +163,10 @@ Total so far: $1395.87
 Total so far: $75
 
 * Mati Roy: 15% on $500 = $75
+
+=== Payments made ===
+
+* $4263.02 via PayPal on August 2, 2019
 
 == Work and other compensation in 2018 ==
 
