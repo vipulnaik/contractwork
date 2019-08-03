@@ -20,9 +20,9 @@ Total money earned as income: $10180
 
 Forward balance carried over from 2018: ($3252.83)
 
-Payment made: $8900
+Payment made: $8866.65
 
-Net payment due: ($1972.83)
+Net payment due: ($1939.38)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -146,7 +146,7 @@ From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours w
 
 === Payment schedule ===
 
-Total paid: $8900
+Total paid: $8866.65
 
 The amount a payment is for will be treated as the value in USD at market rates of the received ARS at time of exchange. Thus, Vipul will bear the cost of transfer overhead (both exchange rate costs and overhead).
 
@@ -155,6 +155,9 @@ The amount a payment is for will be treated as the value in USD at market rates 
 * $4705 sent Sunday, March 19, 2019, received Monday, March 20, 2019. Sent $4750 + $20 transaction fees via Western Union, receiver got 212918.23 ARS. $4705 is calculated as 212918.23 ARS at the exchange rate of 1 ARS = 0.0221 USD
 
 * $50 sent Friday, August 2, 2019, received Friday, August 2, 2019 via PayPal. Amount received was $47.
+
+* $33.45 returned by Sebastian Saturday, August 3, 2019 via PayPal. Amount sent was $35.30; amount received was $33.45 after subtracting fee of $1.85.
+
 
 == Work in 2018 ==
 
