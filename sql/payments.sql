@@ -1,6 +1,6 @@
 create table payments(
   payment_id int(11) not null auto_increment primary key,
-  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo', 'Ethereum') not null,
+  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo', 'Ethereum', 'Bitcoin') not null,
   payee varchar(40) not null,
   intermediary varchar(40) default null,
   sent_date date NOT NULL,
@@ -99,6 +99,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   # -- Mati Roy
   ('PayPal','Mati Roy',NULL,'2019-02-17','2019-02-17','2019-02-17','2019-02-17',500,500,18.82,481.18),
+  ('Bitcoin','Mati Roy',NULL,'2019-08-17','2019-08-17','2019-08-17','2019-08-17',100,100.69,0.69,100),
 
   # -- Adrian Ulloa payment
   ('PayPal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105),

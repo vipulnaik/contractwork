@@ -18,9 +18,9 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Mati
 
 Total money earned as income: $600
 
-Payments so far: $500
+Payments so far: $600
 
-Net payment due: $100
+Net payment due: $0
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -37,7 +37,7 @@ Total so far: $100
 
 === Payments ===
 
-Total so far: $500
+Total so far: $600
 
 * 2019-02-17: $500 via PayPal. Sent $500 USD, overhead of $18.82, received $481.18 USD. Overhead because the worker is based on Canada.
-
+* 2019-08-17: $100 via PayPal. Sent $100 USD in the form of BTC from Coinbase to a Bitcoin Wallet; the amount in BTC is 0.00988154 BTC. The network fee was 0.00988154 BTC or about $0.69
