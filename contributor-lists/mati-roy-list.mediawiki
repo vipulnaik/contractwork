@@ -16,17 +16,24 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Mati
 
 == Work in 2019 ==
 
-Total money earned as income: $500
+Total money earned as income: $600
 
 Payments so far: $500
 
-Net payment due: $0
+Net payment due: $100
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
 Total so far: $500
 
 * [https://timelines.issarice.com/wiki/Timeline_of_brain_preservation Timeline of brain preservation]: $500. Completed February 17, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_brain_preservation&oldid=28219 (2019-02-17 09:57 UTC, 135884 bytes, 209 rows in full timeline as well as additional summary tables, 6 graphs)
+
+=== Additions to existing pages (Timelines Wiki)  ===
+
+Total so far: $100
+
+* [https://timelines.issarice.com/wiki/Timeline_of_wild_animal_suffering Timeline of wild animal suffering]: $75. Completed July 25, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_wild_animal_suffering&type=revision&diff=31934&oldid=30528 diff]. Increased from 76,737 bytes to 92,428 bytes
+* [https://timelines.issarice.com/wiki/Timeline_of_online_dating_services Timeline of online dating services]: $25. Completed July 25, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_online_dating_services&type=revision&diff=31935&oldid=26967 diff]. Increased from 10,939 bytes to 17,249 bytes
 
 === Payments ===
 

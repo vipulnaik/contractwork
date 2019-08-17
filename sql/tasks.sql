@@ -364,7 +364,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 # -- Mati Roy page creation
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  ('Mati Roy','Timelines wiki','Timelines page creation','Timeline of brain preservation','https://timelines.issarice.com/wiki/Timeline_of_brain_preservation','2019-02-17',500,'Cryonics','Timeline','First timeline created by worker, based on worker interest in the subject. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_brain_preservation&oldid=28219 (2019-02-17 09:57 UTC, 135884 bytes, 209 rows in full timeline as well as additional summary tables, 6 graphs)');
+  ('Mati Roy','Timelines wiki','Timelines page creation','Timeline of brain preservation','https://timelines.issarice.com/wiki/Timeline_of_brain_preservation','2019-02-17',500,'Cryonics','Timeline','First timeline created by worker, based on worker interest in the subject. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_brain_preservation&oldid=28219 (2019-02-17 09:57 UTC, 135884 bytes, 209 rows in full timeline as well as additional summary tables, 6 graphs)'),
+  ('Mati Roy','Timelines wiki','Timelines page update','Timeline of wild animal suffering','https://timelines.issarice.com/wiki/Timeline_of_wild_animal_suffering','2019-07-25',75,'Animal welfare','Timeline','See https://timelines.issarice.com/index.php?title=Timeline_of_online_dating_services&type=revision&diff=31935&oldid=26967 for the diff. Increased from 76,737 bytes to 92,428 bytes'),
+  ('Mati Roy','Timelines wiki','Timelines page update','Timeline of online dating services','https://timelines.issarice.com/wiki/Timeline_of_online_dating_services','2019-07-25',25,'Dating','Timeline','See https://timelines.issarice.com/index.php?title=Timeline_of_online_dating_services&type=revision&diff=31935&oldid=26967 for the diff. Increased from 10,939 bytes to 17,249 bytes');
 
 # -- Issa Rice page creation for Alex Flint
 # -- Issa Rice page creation
