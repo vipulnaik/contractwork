@@ -99,6 +99,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   # -- Mati Roy
   ('PayPal','Mati Roy',NULL,'2019-02-17','2019-02-17','2019-02-17','2019-02-17',500,500,18.82,481.18),
+  ('Bitcoin','Mati Roy',NULL,'2019-08-17','2019-08-17','2019-08-17','2019-08-17',100,100.69,0.69,100),
 
   # -- Adrian Ulloa payment
   ('PayPal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105),
