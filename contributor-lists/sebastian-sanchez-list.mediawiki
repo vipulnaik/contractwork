@@ -158,13 +158,15 @@ The amount a payment is for will be treated as the value in USD at market rates 
 
 * $4145 sent Saturday, March 9, 2019, received Monday, March 11, 2019. Sent $4300 + $30 transaction fees via Western Union, receiver got 172717 ARS. $4145 is calculated as 172717 ARS at the exchange rate of 1 ARS = 0.024 USD
 
-* $4705 sent Sunday, March 19, 2019, received Monday, March 20, 2019. Sent $4750 + $20 transaction fees via Western Union, receiver got 212918.23 ARS. $4705 is calculated as 212918.23 ARS at the exchange rate of 1 ARS = 0.0221 USD
+* $4705 sent Sunday, May 19, 2019, received Monday, May 20, 2019. Sent $4750 + $20 transaction fees via Western Union, receiver got 212918.23 ARS. $4705 is calculated as 212918.23 ARS at the exchange rate of 1 ARS = 0.0221 USD
 
 * $50 sent Friday, August 2, 2019, received Friday, August 2, 2019 via PayPal. Amount received was $47.
 
 * $33.45 returned by Sebastian Saturday, August 3, 2019 via PayPal. Amount sent was $35.30; amount received was $33.45 after subtracting fee of $1.85.
 
 * $692.92 sent Sunday, August 11, 2019, received Monday, August 12, 2019. Sent $700 + $8 transaction fees via Western Union, receiver got 31496.46 ARS. $692.92 is calculated as 31496.46 ARS at the exchange rate of 1 ARS = 0.022 USD
+
+* $4950 sent Sunday, August 25, 2019, received Monday, August 26, 2019. Sent $4950 + $20 transaction fees via Western Union, receiver got 271770.03 ARS. The exchange rate used by Western Union matches the market exchange rate at the time
 
 == Work in 2018 ==
 

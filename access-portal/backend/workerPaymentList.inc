@@ -15,6 +15,7 @@ print '<th>Amount sent</th>';
 print '<th>Overhead</th>';
 print '<th>Amount received</th>';
 print '<th>Intermediary (empty if none)</th>';
+print '<th>Notes</th>';
 print '</tr>';
 print "</thead>\n<tbody>\n";
 for($i = 0; $i < $workerPaymentSelectResult -> num_rows; $i++) {
@@ -28,6 +29,7 @@ for($i = 0; $i < $workerPaymentSelectResult -> num_rows; $i++) {
   print '<td align="right">'.number_format($row['overhead'],2).'</td>';
   print '<td align="right">'.number_format($row['received_payment'],2).'</td>';
   print '<td>'.$row['intermediary'].'</td>';
+  print '<td>'.cleanNotes($row['notes']).'</td>';
   print '</tr>';
 }
 
