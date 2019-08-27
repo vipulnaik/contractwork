@@ -20,9 +20,9 @@ Total money earned as income: $10180
 
 Forward balance carried over from 2018: ($3252.83)
 
-Payment made: $9559.47
+Payment made: $14509.47
 
-Net payment due: ($2632.30)
+Net payment due: ($7582.30)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -152,7 +152,7 @@ From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours w
 
 === Payment schedule ===
 
-Total paid: $9559.57
+Total paid: $14509.57
 
 The amount a payment is for will be treated as the value in USD at market rates of the received ARS at time of exchange. Thus, Vipul will bear the cost of transfer overhead (both exchange rate costs and overhead).
 
