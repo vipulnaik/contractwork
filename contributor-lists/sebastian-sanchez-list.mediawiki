@@ -100,9 +100,9 @@ Total so far: $400
 
 === Tentative pending payments ===
 
-Completed timelines (amount proposed not yet accepted):
+Expansions (amount proposed not yet accepted):
 
-* [https://timelines.issarice.com/wiki/Timeline_of_8chan Timeline of 8chan]: $164. Completed August 21, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_8chan&oldid=32533 (2019-08-21 15:29 UTC, 33819 bytes, 41 rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Pinterest Timeline of Pinterest]: $95. Completed August 24, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Pinterest&type=revision&diff=32626&oldid=12850 diff]. Increased 51,453 bytes to 82,654 bytes; about 31 new rows in full timeline and 1 new row in big picture
 
 Completed timelines (amount proposed has been accepted):
 
@@ -121,6 +121,8 @@ Completed timelines (amount proposed has been accepted):
 * [https://timelines.issarice.com/wiki/Timeline_of_M%C3%A9decins_Sans_Fronti%C3%A8res Timeline of Médecins Sans Frontières]: $250. Completed July 20, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_M%C3%A9decins_Sans_Fronti%C3%A8res&oldid=31669 (2019-07-21 02:19 UTC, 52,782 bytes, 128 rows)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Y_Combinator Timeline of Y Combinator]: $295. Completed July 27, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Y_Combinator&oldid=32006 (2019-07-27 21:10 UTC, 63,084 bytes, 116 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_8chan Timeline of 8chan]: $164. Completed August 21, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_8chan&oldid=32533 (2019-08-21 15:29 UTC, 33819 bytes, 41 rows)
 
 Expansions (amount proposed has been accepted):
 
