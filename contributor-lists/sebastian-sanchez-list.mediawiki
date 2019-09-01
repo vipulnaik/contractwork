@@ -102,7 +102,7 @@ Total so far: $400
 
 Expansions (amount proposed not yet accepted):
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Pinterest Timeline of Pinterest]: $95. Completed August 24, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Pinterest&type=revision&diff=32626&oldid=12850 diff]. Increased 51,453 bytes to 82,654 bytes; about 31 new rows in full timeline and 1 new row in big picture
+* [https://timelines.issarice.com/wiki/Timeline_of_Wi-Fi Timeline of Wi-Fi]: $35. Completed July 31, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Wi-Fi&type=revision&diff=32166&oldid=29432 Increased from 30,631 bytes to 37,058 bytes
 
 Completed timelines (amount proposed has been accepted):
 
@@ -131,6 +131,8 @@ Expansions (amount proposed has been accepted):
 * [https://timelines.issarice.com/wiki/Timeline_of_online_food_delivery Timeline of online food delivery]: $175. Completed July 24, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_online_food_delivery&type=revision&diff=31862&oldid=15864 diff]. Increased from 30,464 bytes to 71,762 bytes
 
 * [https://timelines.issarice.com/wiki/Timeline_of_pollution Timeline of pollution]: $33. Completed July 31, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_pollution&type=revision&diff=32148&oldid=31131 diff]. Increased from 49,460 bytes to 56,235 bytes
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Pinterest Timeline of Pinterest]: $95. Completed August 24, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Pinterest&type=revision&diff=32626&oldid=12850 diff]. Increased 51,453 bytes to 82,654 bytes; about 31 new rows in full timeline and 1 new row in big picture
 
 === Stipends ===
 
