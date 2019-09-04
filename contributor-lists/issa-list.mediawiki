@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 == Work and other compensation in 2019 ==
 
-Total money earned as income (taxable as income for 2019): $2926.29
+Total money earned as income (taxable as income for 2019): $3020.08
 
 Payment made: $4263.02
 
 Carryover pament due from 2018: 1336.73
 
-Net payment due: $0
+Net payment due: $93.79
 
 === Updates to existing pages (Timelines Wiki) ===
 
@@ -142,7 +142,7 @@ Total so far: $30
 
 === Stipends ===
 
-Total so far: $1395.87
+Total so far: $1489.66
 
 * January: $194.38. Worked 22.03 hours against total work hours of 136, so pay scaled from original of $1200.
 
@@ -157,6 +157,8 @@ Total so far: $1395.87
 * June: $265.76. Worked 30.12 hours against total work hours of 136, so pay scaled from original of $1200.
 
 * July: $120.44. Worked 13.65 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* August: $93.79. Worked 10.63 hours against total work hours of 136, so pay scaled from original of $1200.
 
 === Commissions ===
 
