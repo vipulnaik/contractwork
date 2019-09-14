@@ -1,6 +1,6 @@
 <?php
 
-$payers = array("Vipul Naik", "Peter Hurford", "Alex Flint");
+$payers = array("Vipul Naik", "Peter Hurford", "Berkeley Existential Risk Initiative", "Alex Flint");
 
 $yearList = array("2015", "2016", "2017", "2018", "2019");
 

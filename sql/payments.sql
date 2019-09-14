@@ -96,7 +96,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   /* Payments for 2019 tax year */
   ('PayPal','Issa Rice',NULL,'2019-08-02','2019-08-02','2019-08-02','2019-08-02',4263.02,4263.02,0,4263.02,'We decided to try out PayPal to clear out the existing amount due, because the amount was large enough to be worth a transfer, but too small to be worth the overhead of a check. Fortunately, PayPal worked'),
   ('Direct deposit via Gusto','Issa Rice',NULL,'2019-08-13','2019-08-13','2019-08-13','2019-08-13',498.75,498.75,0,498.75,'Payment from Berkeley Existential Risk Initiative (BERI) for work done by Issa Rice in July 2019'),
-  ('Direct deposit via Gusto','Issa Rice',NULL,'2019-09-11','2019-09-11','2019-09-11','2019-09-11',95.10,9510,0,95.10,'Payment from Berkeley Existential Risk Initiative (BERI) for work done by Issa Rice in July 2019'),
+  ('Direct deposit via Gusto','Issa Rice',NULL,'2019-09-11','2019-09-11','2019-09-11','2019-09-11',95.10,95.10,0,95.10,'Payment from Berkeley Existential Risk Initiative (BERI) for work done by Issa Rice in August 2019'),
 
   /* Orpheus Lummis */
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160,NULL),
