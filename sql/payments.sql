@@ -1,6 +1,6 @@
 create table payments(
   payment_id int(11) not null auto_increment primary key,
-  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo', 'Ethereum', 'Bitcoin') not null,
+  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo', 'Ethereum', 'Bitcoin','Direct deposit via Gusto') not null,
   payee varchar(40) not null,
   intermediary varchar(40) default null,
   sent_date date NOT NULL,
@@ -15,7 +15,7 @@ create table payments(
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into payments(payment_method, payee, intermediary, sent_date, payment_notice_receipt_date, cashout_request_date, receipt_date, payment, sent_payment, overhead, received_payment,notes) values
-  # -- Sebastian Sanchez payments
+  /* Sebastian Sanchez payments */
   ('Western Union','Sebastian Sanchez',NULL,'2016-05-07','2016-05-07','2016-05-09','2016-05-09',108,108,8,100,NULL),
   ('Western Union','Sebastian Sanchez',NULL,'2016-05-09','2016-05-09','2016-05-10','2016-05-10',508,508,8,500,NULL),
   ('Western Union','Sebastian Sanchez',NULL,'2016-05-14','2016-05-14','2016-05-16','2016-05-16',708,708,8,700,NULL),
@@ -46,15 +46,15 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Western Union','Sebastian Sanchez',NULL,'2019-08-11','2019-08-11','2019-08-12','2019-08-12',692.92,708,8,700,'Payee gets 31496.46 ARS. $692.92 is calculated as 31496.46 ARS at the exchange rate at the time of transfer (1 ARS = 0.022 USD)'),
   ('Western Union','Sebastian Sanchez',NULL,'2019-08-25','2019-08-25','2019-08-26','2019-08-26',4950,4970,20,4950,'Payee gets 271770.03 ARS. The exchange rate used by Western Union matches the market exchange rate at the time of transfer (1 USD = 54.63 ARS)'),
 
-  # --Ethan Bashkansky payments
+  /* Ethan Bashkansky payments */
   ('Cash','Ethan Bashkansky','Issa Rice','2016-02-17','2016-02-17','2016-02-17','2016-02-17',115,115,0,115,NULL),
   ('PayPal','Ethan Bashkansky',NULL,'2016-04-30','2016-04-30','2016-04-30','2016-04-30',44,44,0,44,NULL),
   ('PayPal','Ethan Bashkansky',NULL,'2016-08-30','2016-08-30','2016-08-30','2016-08-30',196.90,196.90,0,196.90,NULL),
   ('PayPal','Ethan Bashkansky',NULL,'2016-11-09','2016-11-09','2016-11-09','2016-11-09',257.30,257.30,0,257.30,NULL),
   ('PayPal','Ethan Bashkansky',NULL,'2018-01-07','2018-01-07','2018-01-07','2018-01-07',545.52,545.52,0,545.52,NULL),
 
-  # --Issa Rice payments
-  # -- Payments for 2015 tax year
+  /* Issa Rice payments */
+  /* Payments for 2015 tax year */
   ('PayPal','Issa Rice',NULL,'2015-06-13','2015-06-13','2015-06-13','2015-06-13',218,220,0,220,NULL),
   ('PayPal','Issa Rice',NULL,'2015-08-05','2015-08-05','2015-08-05','2015-08-05',62,62,0,62,NULL),
   ('PayPal','Issa Rice',NULL,'2015-08-08','2015-08-08','2015-08-08','2015-08-08',135,135,0,135,NULL),
@@ -69,10 +69,10 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Issa Rice',NULL,'2016-01-01','2016-01-01','2016-01-01','2016-01-01',5,5,0,5,NULL),
   ('PayPal','Issa Rice',NULL,'2016-01-01','2016-01-01','2016-01-01','2016-01-01',5,5,0,5,NULL),
   ('PayPal','Issa Rice',NULL,'2016-01-01','2016-01-01','2016-01-01','2016-01-01',1,1,0,1,NULL),
-  # -- Possibly mixed payment
+  /* Possibly mixed payment */
   ('PayPal','Issa Rice',NULL,'2016-01-16','2016-01-16','2016-01-16','2016-01-16',1342,1342,0,1342,NULL),
 
-  # -- Payments for 2016 tax year
+  /* Payments for 2016 tax year */
   ('PayPal','Issa Rice',NULL,'2016-01-21','2016-01-21','2016-01-21','2016-01-21',50,50,0,50,NULL),
   ('PayPal','Issa Rice',NULL,'2016-01-23','2016-01-23','2016-01-23','2016-01-23',50,50,0,50,NULL),
   ('PayPal','Issa Rice',NULL,'2016-01-24','2016-01-24','2016-01-24','2016-01-24',25,25,0,25,NULL),
@@ -85,83 +85,85 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Check','Issa Rice',NULL,'2016-05-14','2016-05-18','2016-05-23','2016-05-23',4000,4000,0,4000,'This is the first payment made by check to Issa Rice; we switched to check because PayPal was not reliable at processing large payments'),
   ('Check','Issa Rice',NULL,'2016-10-01','2016-10-06','2017-01-03','2017-01-04',4000,4000,0,4000,NULL),
   
-  # -- Payments for 2017 tax year
+  /* Payments for 2017 tax year */
   ('Check','Issa Rice',NULL,'2017-03-25','2017-04-10','2017-04-15','2017-04-17',12000,12000,0,12000,'This is the biggest contract work payment ever so far; the payment also begins to pay off Issa for the stipends from 2016 the award of which had been deferred till March 2017'),
   ('Check','Issa Rice',NULL,'2017-09-27','2017-09-30','2017-10-02','2017-10-12',15000,15000,0,15000,'This is the biggest contract work payment ever so far; the payment completes the paying off of deferred stipends from previous years'),
 
-  # -- Payments for 2018 tax year
+  /* Payments for 2018 tax year */
   ('Check','Issa Rice',NULL,'2018-04-02','2018-04-05','2018-04-09','2018-04-18',18000,18000,0,18000,'This is the biggest contract work payment ever so far; we decided to hold out till the amount reached $18,000 to reduce the proportional effort overhead of money transfer'),
   ('Check','Issa Rice',NULL,'2018-11-22','2018-11-30','2018-12-11','2018-12-12',10000,10000,0,10000,'We decided to make the transfer at a smaller amount threshold than last time''s $18,000, because the monthly amount of work had declined, and waiting till we get to $18,000 would take a lot of time'),
 
-  # -- Payments for 2019 tax year
+  /* Payments for 2019 tax year */
   ('PayPal','Issa Rice',NULL,'2019-08-02','2019-08-02','2019-08-02','2019-08-02',4263.02,4263.02,0,4263.02,'We decided to try out PayPal to clear out the existing amount due, because the amount was large enough to be worth a transfer, but too small to be worth the overhead of a check. Fortunately, PayPal worked'),
-  
-  # -- Orpheus Lummis
+  ('Direct deposit via Gusto','Issa Rice',NULL,'2019-08-13','2019-08-13','2019-08-13','2019-08-13',498.75,498.75,0,498.75,'Payment from Berkeley Existential Risk Initiative (BERI) for work done by Issa Rice in July 2019'),
+  ('Direct deposit via Gusto','Issa Rice',NULL,'2019-09-11','2019-09-11','2019-09-11','2019-09-11',95.10,9510,0,95.10,'Payment from Berkeley Existential Risk Initiative (BERI) for work done by Issa Rice in July 2019'),
+
+  /* Orpheus Lummis */
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160,NULL),
 
-  # -- Mati Roy
+  /* Mati Roy */
   ('PayPal','Mati Roy',NULL,'2019-02-17','2019-02-17','2019-02-17','2019-02-17',500,500,18.82,481.18,NULL),
   ('Bitcoin','Mati Roy',NULL,'2019-08-17','2019-08-17','2019-08-17','2019-08-17',100,100.69,0.69,100,NULL),
 
-  # -- Adrian Ulloa payment
+  /* Adrian Ulloa payment */
   ('PayPal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105,NULL),
   ('PayPal','Adrian Ulloa','Issa Rice','2016-12-14','2016-12-14','2016-12-20','2016-12-20',100,100.50,0.50,100,NULL),
 
-  # -- Amy Zhang
+  /* Amy Zhang */
   ('PayPal','Amy Zhang','Issa Rice','2016-06-26','2016-06-26','2016-06-26','2016-06-26',80,80,0,80,NULL),
 
-  # -- Avi Glozman
+  /* Avi Glozman */
   ('PayPal','Avi Glozman',NULL,'2016-06-04','2016-06-04','2016-06-04','2016-06-04',33,33,0,33,NULL),
   ('PayPal','Avi Glozman',NULL,'2016-07-28','2016-07-28','2016-07-28','2016-07-28',193,193,0,193,NULL),
   ('PayPal','Avi Glozman',NULL,'2016-08-28','2016-08-28','2016-08-28','2016-08-28',190,190,0,190,NULL),
   ('PayPal','Avi Glozman',NULL,'2016-12-13','2016-12-13','2016-12-14','2016-12-14',60,60,0,60,NULL),
   ('PayPal','Avi Glozman',NULL,'2017-03-08','2017-03-08','2017-03-08','2017-03-08',110,110,0,110,NULL),
 
-  # -- Charlie Corner payments
+  /* Charlie Corner */
   ('PayPal','Charlie Corner',NULL,'2016-07-09','2016-07-09','2016-07-09','2016-07-09',50,50,0,50,NULL),
   ('PayPal','Charlie Corner',NULL,'2016-09-18','2016-09-18','2016-09-18','2016-09-18',102,102,0,102,NULL),
 
-  # -- Christopher Kunin payments
+  /* Christopher Kunin */
   ('PayPal','Christopher Kunin',NULL,'2016-06-18','2016-06-18','2016-06-18','2016-06-18',30,30,0,30,NULL),
   ('PayPal','Christopher Kunin',NULL,'2016-08-01','2016-08-01','2016-08-01','2016-08-01',112,112,0,112,NULL),
   ('PayPal','Christopher Kunin',NULL,'2016-10-12','2016-10-12','2016-10-12','2016-10-12',120,120,0,120,NULL),
 
-  # -- Devansh Dwivedy payments
+  /* Devansh Dwivedy */
   ('PayPal','Devansh Dwivedy',NULL,'2016-06-29','2016-06-29','2016-06-29','2016-06-29',50,50,0,50,NULL),
   ('PayPal','Devansh Dwivedy',NULL,'2017-01-31','2017-01-31','2017-01-31','2017-01-31',103,103,0,103,NULL),
 
-  # -- Eddy Su payments
+  /* Eddy Su */
   ('PayPal','Eddy Su',NULL,'2016-06-11','2016-06-11','2016-06-11','2016-06-11',38,38,0,38,NULL),
   ('PayPal','Eddy Su',NULL,'2016-12-13','2016-12-13','2016-12-13','2016-12-13',33,33,0,33,NULL),
 
-  # -- Jesse Clifton payments
+  /* Jesse Clifton */
   ('Check','Jesse Clifton',NULL,'2016-08-15','2016-08-18','2016-08-24','2016-08-27',2000,2000,0,2000,NULL),
   ('PayPal','Jesse Clifton',NULL,'2017-03-18','2017-03-18','2017-03-18','2017-03-18',234,234,0,234,NULL),
 
-  # -- Michael Royzen payment
+  /* Michael Royzen */
   ('PayPal','Michael Royzen',NULL,'2016-06-21','2016-06-21','2016-06-21','2016-06-21',50,50,0,50,NULL),
 
-  # -- Sean Yu payment
+  /* Sean Yu */
   ('PayPal','Sean Yu',NULL,'2016-06-23','2016-06-23','2016-06-23','2016-06-23',50,50,0,50,NULL),
 
-  # -- Sergey Yegorov payment
+  /* Sergey Yegorov */
   ('PayPal','Sergey Yegorov',NULL,'2016-10-17','2016-10-17','2016-10-17','2016-10-17',175,175.88,0.88,175,NULL),
 
-  # -- Thomas Foster payment
+  /* Thomas Foster */
   ('PayPal','Thomas Foster',NULL,'2016-06-16','2016-06-16','2016-06-16','2016-06-16',80,79.99,0.79,79,NULL),
   ('PayPal','Thomas Foster',NULL,'2017-02-07','2017-02-07','2017-02-07','2017-02-07',50,50.51,0.51,50,NULL),
 
-  # -- Alex K. Chen
+  /* Alex K. Chen */
   ('Check','Alex K. Chen',NULL,'2015-12-26','2015-12-31','2016-01-06','2016-01-06',7100,7100,0,7100,NULL),
   ('Check','Alex K. Chen',NULL,'2017-01-07','2017-01-13','2017-01-19','2017-01-19',4000,4000,0,4000,NULL),
   ('Venmo','Alex K. Chen',NULL,'2017-11-06','2017-11-06','2017-11-06','2017-11-06',-624.50,-624.50,0,-624.50,NULL),
   
-  # -- Milo King
+  /* Milo King */
   ('Debit card via Facebook','Milo King',NULL,'2016-12-13','2016-12-13','2016-12-13','2016-12-13',205,205,0,205,NULL),
 
-  # -- Joey Malandra
+  /* Joey Malandra */
   ('PayPal','Joey Malandra',NULL,'2016-12-25','2016-12-25','2016-12-25','2016-12-25',64,64,0,64,NULL),
   ('PayPal','Joey Malandra',NULL,'2017-03-18','2017-03-18','2017-03-18','2017-03-18',73,73,0,73,NULL),
 
-  # -- Daniel Alejandro Maidana
+  /* Daniel Alejandro Maidana */
   ('Western Union','Daniel Alejandro Maidana','Sebastian Sanchez','2016-12-31','2016-12-31','2016-12-31','2016-12-31',30,30,0,30,NULL);

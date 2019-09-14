@@ -16,15 +16,15 @@ create table tasks(
   minutes_spent int(11) DEFAULT NULL
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
-# -- Milo King's Wikipedia page updates
+/* Milo King's Wikipedia page updates */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Milo King', 'Wikipedia', 'Wikipedia page update','Premium Processing Service','https://en.wikipedia.org/wiki/Premium_Processing_Service','2016-03-12',5,'United States migration','Prose','Added section on non-profit ability to use the old system of discretionary expedite requests, with citation');
 
-# -- Milo King's Market work
+/* Milo King's Market work */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Milo King', 'Market subwiki', 'Wiki page update','Multiple pages','http://market.subwiki.org','2016-07-24',200,'Economics','Prose with tables','Summer project to improve coverage of monopoly cases for sales tax, price ceilings, etc. Did not get as far as originally hoped, but provided a good start for Vipul to continue');
 
-# -- Ethan Bashkansky's Wikipedia page creation work
+/* Ethan Bashkansky's Wikipedia page creation work */
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Ethan Bashkansky', 'Wikipedia', 'Wikipedia page creation','Form W-4','https://en.wikipedia.org/wiki/Form_W-4','2016-02-12',30,'United States taxation','Prose', NULL),
@@ -36,11 +36,11 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Ethan Bashkansky', 'Wikipedia', 'Wikipedia page creation','Form 1099-R','https://en.wikipedia.org/wiki/Form_1099-R','2016-08-29',50,'United States taxation','Prose',NULL),
   ('Ethan Bashkansky', 'Wikipedia', 'Wikipedia page creation','Vote pairing in the United States presidential election, 2016','https://en.wikipedia.org/wiki/Vote_pairing_in_the_United_States_presidential_election,_2016','2016-11-02',105,'United States politics','Prose',NULL);
 
-# -- Sebastian Sanchez's Wikipedia page translation work
+/* Sebastian Sanchez's Wikipedia page translation work */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, `language`) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page translation', 'Dolor en los animales', 'https://es.wikipedia.org/wiki/Dolor_en_los_animales','2016-04-21',100,'Animal welfare','Translation', 'Source: Pain in animals (English Wikipedia)','es');
 
-# -- Sebastian Sanchez's Wikipedia and Timelines Wiki page creation work
+/* Sebastian Sanchez's Wikipedia and Timelines Wiki page creation work */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of cholera', 'https://en.wikipedia.org/wiki/Timeline_of_cholera','2016-04-23',100,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of malaria', 'https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-04-27',200,'Global health/diseases/malaria','Timeline', NULL),
@@ -93,7 +93,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of hepatitis','https://en.wikipedia.org/wiki/Timeline_of_hepatitis','2017-02-28',170,'Global health/diseases','Timeline','Includes ten graphs. Originally published to main space on 2017-02-27'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of Chagas disease','https://en.wikipedia.org/wiki/Timeline_of_Chagas_disease','2017-03-01',105,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-02-28'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation','Timeline of typhoid fever','https://en.wikipedia.org/wiki/Timeline_of_typhoid_fever','2017-03-04',100,'Global health/diseases','Timeline','Includes two graphs. Originally published to main space on 2017-03-02. Pay for version as of https://en.wikipedia.org/w/index.php?title=Timeline_of_typhoid_fever&oldid=768624929 (2017-03-04 22:13 UTC)'),
-  # -- Moved to timelines wiki
+  /* Moved to timelines wiki */
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of the National Institutes of Health','https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health','2017-04-03',250,'Global health/basic research','Timeline','Includes 29 graphs: 28 for funding for individual institutes and 1 cumulative. Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_the_National_Institutes_of_Health&oldid=12970 (2017-03-04 18:08 UTC)'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of DNA sequencing','https://timelines.issarice.com/wiki/Timeline_of_DNA_sequencing','2017-04-04',170,'Health/biotechnology','Timeline','Includes 8 graphs of various forms of progress in DNA sequencing. Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_DNA_sequencing&oldid=13090 (2017-04-05 02:32 UTC)'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of mosquito net distribution','https://timelines.issarice.com/wiki/Timeline_of_mosquito_net_distribution','2017-04-15',160,'Global health/malaria','Timeline','Includes 10 graphs related to bed net distribution. Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_mosquito_net_distribution&oldid=13248 (2017-04-15 17:21 UTC)'),
@@ -126,7 +126,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of telephony in Sweden','https://timelines.issarice.com/wiki/Timeline_of_telephony_in_Sweden','2017-11-24',100,'Telecommunications','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_telephony_in_Sweden&oldid=18770 (2017-11-25 03:12 UTC, 20602 bytes, 54 rows)'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of irrigation','https://timelines.issarice.com/wiki/Timeline_of_irrigation','2017-11-24',120,'Water sanitation and hygiene','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_irrigation&oldid=18764 (2017-11-24 21:55 UTC, 23742 bytes, 41 rows)'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of nuclear energy','https://timelines.issarice.com/wiki/Timeline_of_nuclear_energy','2017-12-28',180,'Nuclear energy','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nuclear_energy&oldid=19451 (2017-12-29 07:34 UTC, 36666 bytes, 67 rows)'),
-  # -- 2018 completions
+  /* 2018 completions */
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Nokia','https://timelines.issarice.com/wiki/Timeline_of_Nokia','2018-03-07',280,'Technology/company','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Nokia&oldid=20708 (2018-03-08 06:00 UTC, 75540 bytes, 102 rows)'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of GiveWell','https://timelines.issarice.com/wiki/Timeline_of_GiveWell','2018-03-10',240,'Charity evaluator','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_GiveWell&oldid=20815 (2018-03-10 20:28 UTC, 51300 bytes, 73 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of money transfer','https://timelines.issarice.com/wiki/Timeline_of_money_transfer','2018-03-10',200,'Money transfer','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_money_transfer&oldid=20813 (2018-03-10 19:57 UTC, 40748 bytes, 61 rows)'),
@@ -142,11 +142,11 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Pandora Radio','https://timelines.issarice.com/wiki/Timeline_of_Pandora_Radio','2018-03-11',110,'Technology/company','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Pandora_Radio&oldid=21067 (2018-03-11 19:48 UTC, 32861 bytes, 67 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of virology','https://timelines.issarice.com/wiki/Timeline_of_virology','2018-03-18',350,'Health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_virology&oldid=21045 (2018-03-18 20:24 UTC, 87269 bytes, 137 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of high-speed rail','https://timelines.issarice.com/wiki/Timeline_of_high-speed_rail','2018-03-19',150,'Transportation','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_high-speed_rail&oldid=21060 (2018-03-19 20:15 UTC, 29199 bytes, 56 rows; also two graphs)'),
- # -- Added 2018-05-05
+ /* Added 2018-05-05 */
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of IBM','https://timelines.issarice.com/wiki/Timeline_of_IBM','2018-04-30',265,'Technology/company','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_IBM&oldid=22058 (2018-04-30 23:12 UTC, 73275 bytes, 239 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of telephony in Norway','https://timelines.issarice.com/wiki/Timeline_of_telephony_in_Norway','2018-04-30',100,'Telecommunications','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_telephony_in_Norway&oldid=22036 (2018-04-30 19:21 UTC, 19944 bytes, 68 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of cable transport','https://timelines.issarice.com/wiki/Timeline_of_cable_transport','2018-05-04',100,'Transportation','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cable_transport&oldid=22153 (2018-05-04 19:59 UTC, 21946 bytes, 49 rows)'),
- # -- Added 2018-06-02
+ /* Added 2018-06-02 */
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of bacteriology','https://timelines.issarice.com/wiki/Timeline_of_bacteriology','2018-05-08',395,'Biology','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_bacteriology&oldid=22250 (2018-05-08 19:54 UTC, 82793 bytes, 113 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of diabetes','https://timelines.issarice.com/wiki/Timeline_of_diabetes','2018-05-10',340,'Global health/diseases','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_diabetes&oldid=22301 (2018-05-10 17:57 UTC, 68279 bytes, 162 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of health software','https://timelines.issarice.com/wiki/Timeline_of_health_software','2018-05-14',100,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_health_software&oldid=22396 (2018-05-14 22:33 UTC, 20881 bytes, 42 rows)'),
@@ -159,7 +159,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of medical websites','https://timelines.issarice.com/wiki/Timeline_of_medical_websites','2018-05-31',150,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_websites&oldid=22866 (2018-05-31 22:54 UTC, 31295 bytes, 60 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of HIV/AIDS','https://timelines.issarice.com/wiki/Timeline_of_HIV/AIDS','2018-06-01',285,'Global health/diseases','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_HIV/AIDS&oldid=22888 (2018-06-01 17:08 UTC, 56131 bytes, 134 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of vaccines','https://timelines.issarice.com/wiki/Timeline_of_vaccines','2018-06-01',200,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_vaccines&oldid=22889 (2018-06-01 17:16 UTC, 39176 bytes, 82 rows)'),
- # -- Added 2018-08-04
+ /* Added 2018-08-04 */
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of palliative care','https://timelines.issarice.com/wiki/Timeline_of_palliative_care','2018-07-22',190,'Health/aging','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_palliative_care&oldid=24167 (2018-07-22 23:31 UTC, 38393 bytes, 83 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of antibiotics','https://timelines.issarice.com/wiki/Timeline_of_antibiotics','2018-07-23',350,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_antibiotics&oldid=24175 (2018-07-23 13:06 UTC, 93240 bytes, 130 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of steel','https://timelines.issarice.com/wiki/Timeline_of_steel','2018-08-04',225,'Industrial materials','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_steel&oldid=24527 (2018-08-04 19:14 UTC, 47654 bytes, 99 rows)'),
@@ -170,12 +170,12 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of aluminium','https://timelines.issarice.com/wiki/Timeline_of_aluminium','2018-08-04',170,'Industrial materials','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_aluminium&oldid=24528 (2018-08-04 19:18 UTC, 80 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of the Humane Society of the United States','https://timelines.issarice.com/wiki/Timeline_of_the_Humane_Society_of_the_United_States','2018-07-23',160,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_Humane_Society_of_the_United_States&oldid=24195 (2018-07-23 18:53 UTC, 32697 bytes, 74 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Mercy For Animals','https://timelines.issarice.com/wiki/Timeline_of_Mercy_For_Animals','2018-07-23',155,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Mercy_For_Animals&oldid=24213 (2018-07-23 23:41 UTC, 30392 bytes, 43 rows)'),
- # -- Added 2018-08-13
+ /* Added 2018-08-13 */
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of cobalt','https://timelines.issarice.com/wiki/Timeline_of_cobalt','2018-07-30',85,'Industrial materials','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cobalt&oldid=24413 (2018-07-30 23:45 UTC, 33 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of The Humane League','https://timelines.issarice.com/wiki/Timeline_of_The_Humane_League','2018-08-05',100,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_The_Humane_League&oldid=24543 (2018-08-06 00:39 UTC, 20537 bytes, 36 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of titanium','https://timelines.issarice.com/wiki/Timeline_of_titanium','2018-08-10',120,'Industrial materials','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_titanium&oldid=24632 (2018-08-11 03:21 UTC, 25098 bytes, 53 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of medical education','https://timelines.issarice.com/wiki/Timeline_of_medical_education','2018-07-29',180,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_education&oldid=24403 (2018-07-29 18:37 UTC, 36146 bytes, 69 rows)'),
- # -- Added 2018-08-30
+ /* Added 2018-08-30 */
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Direct Action Everywhere','https://timelines.issarice.com/wiki/Timeline_of_Direct_Action_Everywhere','2018-08-16',125,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Direct_Action_Everywhere&oldid=24747 (2018-08-16 23:16 UTC, 24513 bytes, 35 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of dentistry','https://timelines.issarice.com/wiki/Timeline_of_dentistry','2018-08-17',180,'Health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_dentistry&oldid=24719 (2018-08-17 21:02 UTC, 41431 bytes, 110 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Animal Charity Evaluators','https://timelines.issarice.com/wiki/Timeline_of_Animal_Charity_Evaluators','2018-08-17',120,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Animal_Charity_Evaluators&oldid=24728 (2018-08-17 23:45 UTC, 23804 bytes, 35 rows)'),
@@ -200,7 +200,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of the American Anti-Vivisection Society','https://timelines.issarice.com/wiki/Timeline_of_the_American_Anti-Vivisection_Society','2018-10-12',75,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_American_Anti-Vivisection_Society&oldid=26236 (2018-10-13 06:03 UTC, 15951 bytes, 39 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of transfusion medicine','https://timelines.issarice.com/wiki/Timeline_of_transfusion_medicine','2018-10-12',128,'Health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_transfusion_medicine&oldid=26203 (2018-10-12 16:44 UTC, 26597 bytes, 62 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of hematology','https://timelines.issarice.com/wiki/Timeline_of_hematology','2018-10-25',275,'Health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_hematology&oldid=26579 (2018-10-26 00:55 UTC, 59270 bytes, 119 rows)'),
- # -- Added 2018-12-31 (drafted 2018-12-30)
+ /* Added 2018-12-31 (drafted 2018-12-30) */
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of the Nonhuman Rights Project','https://timelines.issarice.com/wiki/Timeline_of_the_Nonhuman_Rights_Project','2018-10-29',95,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_Nonhuman_Rights_Project&oldid=26692 (2018-10-30 03:37 UTC, 19221 bytes, 36 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of urology','https://timelines.issarice.com/wiki/Timeline_of_urology','2018-10-29',95,'Health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_urology&oldid=26695 (2018-10-30 04:14 UTC, 19892 bytes, 56 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of gene therapy','https://timelines.issarice.com/wiki/Timeline_of_gene_therapy','2018-10-30',185,'Health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_gene_therapy&oldid=26709 (2018-10-30 20:46 UTC, 41902 bytes, 67 rows)'),
@@ -208,13 +208,13 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of animal testing','https://timelines.issarice.com/wiki/Timeline_of_animal_testing','2018-10-28',185,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_animal_testing&oldid=26640 (2018-10-28 21:57 UTC, 38518 bytes, 89 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of the World Health Organization','https://timelines.issarice.com/wiki/Timeline_of_the_World_Health_Organization','2018-12-21',270,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_World_Health_Organization&oldid=27091 (2018-12-21 20:15 UTC, 59523 bytes, 124 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Farm Sanctuary','https://timelines.issarice.com/wiki/Timeline_of_Farm_Sanctuary','2018-10-29',75,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Farm_Sanctuary&oldid=26698 (2018-10-30 04:36 UTC, 15659 bytes, 30 rows)'),
- # -- Added 2019-01-20, finalized 2019-01-22
+ /* Added 2019-01-20, finalized 2019-01-22 */
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of nuclear medicine','https://timelines.issarice.com/wiki/Timeline_of_nuclear_medicine','2019-01-05',200,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nuclear_medicine&oldid=27354 (2019-01-06 00:37 UTC, 43697 bytes, 83 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of organ transplantation','https://timelines.issarice.com/wiki/Timeline_of_organ_transplantation','2019-01-12',165,'Global health/organ donation','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_organ_transplantation&oldid=27436 (2019-01-12 19:30 UTC, 33522 bytes, 84 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of hemophilia','https://timelines.issarice.com/wiki/Timeline_of_hemophilia','2019-01-12',145,'Global health/genetic conditions','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_hemophilia&oldid=27438 (2019-01-12 23:04 UTC, 29673 bytes, 59 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of first aid','https://timelines.issarice.com/wiki/Timeline_of_first_aid','2019-01-13',115,'Global health/emergency medical response','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_first_aid&oldid=27442 (2019-01-13 15:07 UTC, 23733 bytes, 53 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of nusing','https://timelines.issarice.com/wiki/Timeline_of_nursing','2019-01-13',200,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nursing&oldid=27455 (2019-01-13 18:21 UTC, 39398 bytes, 87 rows)'),
- # -- Added 2019-04-26 (date of finalization)
+ /* Added 2019-04-26 (date of finalization) */
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of pneumonia','https://timelines.issarice.com/wiki/Timeline_of_pneumonia','2019-01-31',145,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_pneumonia&oldid=27698 (2019-01-31 23:21 UTC, 30481 bytes, 37 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of gastroenterology','https://timelines.issarice.com/wiki/Timeline_of_gastroenterology','2019-03-01',215,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_gastroenterology&oldid=28502 (2019-03-01 19:04 UTC, 41841 bytes, 99 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of microscopy','https://timelines.issarice.com/wiki/Timeline_of_microscopy','2019-03-03',245,'Optics','Timeline','Completed March 3, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_microscopy&oldid=28555 (2019-03-04 01:53 UTC, 53496 bytes, 88 rows)'),
@@ -224,7 +224,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of assertive community treatment','https://timelines.issarice.com/wiki/Timeline_of_assertive_community_treatment','2019-04-06',105,'Global health/mental health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_assertive_community_treatment&oldid=29082 (2019-04-06 18:06 UTC, 23226 bytes, 37 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of meditation','https://timelines.issarice.com/wiki/Timeline_of_meditation','2019-04-18',220,'Global health/mental health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_meditation&oldid=29280 (2019-04-18 23:21 UTC, 45500 bytes, 97 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Malaria Consortium','https://timelines.issarice.com/wiki/Timeline_of_Malaria_Consortium','2019-04-20',110,'Global health/malaria','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Malaria_Consortium&oldid=29290 (2019-04-20 15:36 UTC, 22523 bytes, 43 rows)'),
- # -- Added 2019-06-18 (finalization date)
+ /* Added 2019-06-18 (finalization date) */
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of the United States Agency for International Development','https://timelines.issarice.com/wiki/Timeline_of_the_United_States_Agency_for_International_Development','2019-04-24',165,'Global health and development','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_United_States_Agency_for_International_Development&oldid=29380 (2019-05-25 02:38 UTC, 33407 bytes, 63 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of the World Bank','https://timelines.issarice.com/wiki/Timeline_of_the_World_Bank','2019-04-24',250,'International financial institutions','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_World_Bank&oldid=29368 (2019-04-24 20:01 UTC, 46614 bytes, 157 rows)'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Animal Equality','https://timelines.issarice.com/wiki/Timeline_of_Animal_Equality','2019-05-02',300,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Animal_Equality&oldid=29520 (2019-05-02 23:00 UTC, 65176 bytes, 139 rows)'),
@@ -256,7 +256,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
  ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Pinterest','https://timelines.issarice.com/wiki/Timeline_of_Pinterest','2019-08-24',95,'Technology/company','Timeline','See https://timelines.issarice.com/index.php?title=Timeline_of_Pinterest&type=revision&diff=32626&oldid=12850 for the diff. Increased from 51,453 bytes to 82,654 bytes; about 31 new rows in full timeline and 1 new row in big picture'),
  ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Wi-Fi','https://timelines.issarice.com/wiki/Timeline_of_Wi-Fi','2019-07-31',35,'Technology/trends','Timeline','See https://timelines.issarice.com/index.php?title=Timeline_of_Wi-Fi&type=revision&diff=32166&oldid=29432 for the diff. Increased from 30,631 bytes to 37,058 bytes');
  
-# -- Sebastian Sanchez tasks paid for by Peter Hurford
+/* Sebastian Sanchez tasks paid for by Peter Hurford */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of diphtheria','https://timelines.issarice.com/wiki/Timeline_of_diphtheria','2017-05-26',200,'Global health/diseases','Timeline','Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_diphtheria&oldid=14055 (2017-05-26 16:56 UTC)','Peter Hurford'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of tetanus','https://timelines.issarice.com/wiki/Timeline_of_tetanus','2017-05-26',200,'Global health/diseases','Timeline','Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_tetanus&oldid=14088 (2017-05-27 03:37 UTC)','Peter Hurford'),
@@ -265,7 +265,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Facebook','On-the-ground investigation','Visits to animal farms in Zambia','https://www.facebook.com/seba.sanchez.3998/posts/10156691896339377','2017-10-05',570,'Animal welfare/factory farming','Photos/videos + notes','Breakdown: $360 for reimbursements, $180 for labor ($15/hour, 12 hours), and $30 for uploading content. See https://www.facebook.com/media/set/?set=a.10156676891004377.1073741837.634404376&type=3 (visit 1, slaughterhouse/abattoir in Livingstone), https://www.facebook.com/media/set/?set=a.10156677566689377.1073741838.634404376&type=3 (visit 2, modern chicken and cattle farm in Southern Zambia), and https://www.facebook.com/media/set/?set=a.10156685699114377.1073741839.634404376&type=3 (visit 3, Siyakasipa Village where animals are reared by a village)','Peter Hurford'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Zika virus','https://timelines.issarice.com/wiki/Timeline_of_Zika_virus','2018-07-22',250,'Global health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Zika_virus&oldid=24155 (2018-07-22 22:04 UTC, 26011 bytes, 57 rows)','Peter Hurford');
 
-# -- Adrian Ulloa page creation
+/* Adrian Ulloa page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Waitlist Zero', 'https://en.wikipedia.org/wiki/Waitlist_Zero', '2016-08-16', 35, 'Philanthropy/charity/organ donation','Prose', NULL),
   ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Commodity Supplemental Food Program', 'https://en.wikipedia.org/wiki/Commodity_Suppplemental_Food_Program', '2016-08-24', 70, 'United States welfare state', 'Prose', NULL),
@@ -273,7 +273,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Timeline of optical character recognition', 'https://en.wikipedia.org/wiki/Timeline_of_optical_character_recognition', '2016-09-22', 60, 'Artificial intelligence/Machine learning','Timeline', NULL),
   ('Adrian Ulloa','Wikipedia', 'Wikipedia page creation', 'Seth Baum', 'https://en.wikipedia.org/wiki/Seth_Baum', '2016-10-19', 20, 'Artificial intelligence/Existential risk/Influential people','Prose','Worker-initiated page creation');
   
-# -- Avi Glozman page creation
+/* Avi Glozman page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Silicon Valley Education Foundation', 'https://en.wikipedia.org/wiki/Silicon_Valley_Education_Foundation', '2016-06-05', 33, 'Philanthropy/foundations/education', 'Prose', NULL),
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Screening Partnership Program', 'https://en.wikipedia.org/wiki/Screening_Partnership_Program', '2016-06-29', 53, 'United States government programs/Air travel', 'Prose', NULL),
@@ -282,14 +282,14 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page creation', 'Chicago Community Trust', 'https://en.wikipedia.org/wiki/Chicago_Community_Trust', '2016-10-21', 33, 'Philanthropy/foundations', 'Prose', NULL),
   ('Avi Glozman','Wikipedia','Wikipedia page creation','Timeline of online advertising','https://en.wikipedia.org/wiki/Timeline_of_online_advertising','2017-02-08',110,'Online advertising/Internet','Timeline','Initial version; more robustification needed explaining importance of each row');
 
-# -- Charlie Corner page creation
+/* Charlie Corner page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Charlie Corner','Wikipedia','Wikipedia page creation','Form 1098-T','https://en.wikipedia.org/wiki/Form_1098-T','2016-07-10',50,'United States taxation','Prose',NULL),
   ('Charlie Corner','Wikipedia','Wikipedia page creation','Adora Cheung','https://en.wikipedia.org/wiki/Adora_Cheung','2016-08-04',32,'Technology/influential people','Prose',NULL),
   ('Charlie Corner','Wikipedia','Wikipedia page creation','Fresh Fruit and Vegetable Program','https:/en.wikipedia.org/wiki/Fresh_Fruit_and_Vegetable_Program','2016-09-14',70,'United States welfare state','Prose',NULL),
   ('Charlie Corner','Wikipedia','Wikipedia page creation','Form 1023','https://en.wikipedia.org/wiki/Form_1023','2017-01-23',50,'United States taxation/Nonprofit','Prose',NULL);
   
-# -- Christopher Kunin page creation
+/* Christopher Kunin page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','The Ethics of Voting','https://en.wikipedia.org/wiki/The_Ethics_of_Voting','2016-06-16',30,'Political philosophy/political science','Prose',NULL),
   ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Global Polio Eradication Initiative','https://en.wikipedia.org/wiki/Global_Polio_Eradication_Initiative','2016-06-21',35,'Global health/programs','Prose',NULL),
@@ -298,28 +298,28 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Stokes interview','https://en.wikipedia.org/wiki/Stokes_interview','2016-09-04',50,'United States migration','Prose',NULL),
   ('Christopher Kunin', 'Wikipedia','Wikipedia page creation','Scientific Charity Movement','https://en.wikipedia.org/wiki/Scientific_Charity_Movement','2016-10-10',35,'Philanthropy/philosophy','Prose',NULL);
 
-# -- Daniel Alejandro Maidana page creation
+/* Daniel Alejandro Maidana page creation */
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Daniel Alejandro Maidana', 'Wikipedia','Wikipedia page creation','Global Programme on AIDS','https://en.wikipedia.org/wiki/User:DanielMB/Global_programme_on_AIDS','2016-10-25',30,'Global health/program','Prose','Daniel finished userspace draft but as of 2016-12-14 the article has not been cleaned and ported to main space. Cleaning and porting is on Vipul.');
 
-# -- Devansh Dwivedy page creation
+/* Devansh Dwivedy page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Richard W. Boone','https://en.wikipedia.org/wiki/Richard_W._Boone','2016-06-29', 50, 'Philanthropy/influential people', 'Prose', NULL),
   ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Field Foundation of New York','https://en.wikipedia.org/wiki/Field_Foundation_of_New_York','2016-07-15', 30, 'Philanthropy/foundations', 'Prose', NULL),
   ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Global Outbreak Alert and Response Network','https://en.wikipedia.org/wiki/Global_Outbreak_Alert_and_Response_Network', '2016-11-06', 45, 'Global health/organizations', 'Prose', NULL),
   ('Devansh Dwivedy','Wikipedia','Wikipedia page creation','Malaria Eradication Scientific Alliance','https://en.wikipedia.org/wiki/Malaria_Eradication_Scientific_Alliance', '2017-01-30', 28, 'Global health/organizations', 'Prose', NULL);
   
-# -- Eddy Su page creation
+/* Eddy Su page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Eddy Su','Wikipedia','Wikipedia page creation','H-1C visa','https://en.wikipedia.org/wiki/H-1C_visa','2016-06-12',38,'United States migration', 'Prose', NULL),
   ('Eddy Su','Wikipedia','Wikipedia page creation','H-1A visa','https://en.wikipedia.org/wiki/H-1A_visa','2016-06-13',33,'United States migration', 'Prose', NULL);
 
-# -- Issa Rice page creation
+/* Issa Rice page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  # -- 2015 page creation
+  /* 2015 page creation */
   ('Issa Rice','Wikipedia','Wikipedia page creation','Form 1040','https://en.wikipedia.org/wiki/Form_1040','2015-12-31',400,'United States taxation','Prose','Although mostly completed by 2015-12-31, the article was published to main space on 2016-01-01. Payment, however, is considered to be for the 2015 tax year.'),
-  # -- 2016 page creation
+  /* 2016 page creation */
   ('Issa Rice','Wikipedia','Wikipedia page creation','Green Card Test','https://en.wikipedia.org/wiki/Green_Card_Test','2016-01-05',25,'United States taxation/United States migration', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Triplebyte','https://en.wikipedia.org/wiki/User:Riceissa/Triplebyte','2016-06-04',31,'Technology/company','Prose','25 for initial work in January. 6 for later work in June and publication. Later deleted through AfD, userspace version survives'),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Form 1099','https://en.wikipedia.org/wiki/Form_1099','2016-01-11',50,'United States taxation', 'Prose', NULL),
@@ -346,11 +346,11 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page creation','Professional consensus of economics','https://en.wikipedia.org/wiki/Professional_consensus_of_economics', '2016-07-10',67,'Economics', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Priority-setting in global health','https://en.wikipedia.org/wiki/Priority-setting_in_global_health','2016-07-27',155,'Health systems/Global health', 'Prose', NULL),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Initiative on Global Markets','https://en.wikipedia.org/wiki/Initiative_on_Global_Markets', '2016-10-05',30,'Economics', 'Prose', NULL),
-  # -- 2017 page creation
+  /* 2017 page creation */
   ('Issa Rice','Wikipedia','Wikipedia page creation','Timeline of digital preservation','https://en.wikipedia.org/wiki/Timeline_of_digital_preservation', '2017-01-04', 90, 'Digital preservation','Timeline', 'There is still more to port over from https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_digital_preservation and additional payment will be added when the porting is complete'),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Global Burden of Disease Study','https://en.wikipedia.org/wiki/Global_Burden_of_Disease_Study','2017-02-07',75,'Global health','Prose','There was an existing confused page called "Global burden of disease" but this was essentially rewritten from scratch'),
   ('Issa Rice','Wikipedia','Wikipedia page creation','Johns Hopkins Center for Health Security','https://en.wikipedia.org/wiki/Johns_Hopkins_Center_for_Health_Security','2017-02-09',37,'Biosecurity','Prose','There was an existing page for "UPMC Center for Health Security" (the previous name for the org) but the page was entirely rewritten and significantly expanded, so is being treated as a new page creation'),
-  # -- 2017 page creation, after moving over to timelines wiki
+  /* 2017 page creation, after moving over to timelines wiki */
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of Against Malaria Foundation','https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation','2017-04-27',155,'Global health/malaria/philanthropy/GiveWell top charities','Timeline','Payment for page as of https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=13553 (2017-04-28 03:02 UTC). Includes timeline with 128 references, big picture, and evolution of cost-per-life-saved estimates (imported from Wikipedia, where Issa and Vipul worked on the table)'),
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of Bill & Melinda Gates Foundation','https://timelines.issarice.com/wiki/Timeline_of_Bill_%26_Melinda_Gates_Foundation','2017-05-11',120,'Philanthropy/foundations/global health','Timeline','Payment for page as of https://timelines.issarice.com/index.php?title=Timeline_of_Bill_%26_Melinda_Gates_Foundation&oldid=13804 (2017-05-11 19:21 UTC). Includes 78 references, has data 2011 onward, and no big picture'),
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of electricity adoption','https://timelines.issarice.com/wiki/Timeline_of_electricity_adoption','2017-06-08',125,'Infrastructure/electricity','Timeline','Payment for page as of https://timelines.issarice.com/index.php?title=Timeline_of_electricity_adoption&oldid=14606 (2017-06-09 05:41 UTC, 20303 bytes). Pay does not cover all reading/research work that led up to the timeline; compensation for that is covered in the stipend and also in pay for future expansion of the article that incorporates all the extra knowledge acquired'),
@@ -365,30 +365,29 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of evolutionary thought','https://timelines.issarice.com/wiki/Timeline_of_evolutionary_thought','2017-12-02',25,'Biology','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_evolutionary_thought&oldid=18927 (2017-12-03 00:57 UTC, 4828 bytes, 20 rows)'),
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of economic statistics','https://timelines.issarice.com/wiki/Timeline_of_economic_statistics','2017-11-10',145,'Economics','Timeline','Version as of pay at https://timelines.issarice.com/index.php?title=Timeline_of_economic_statistics&oldid=18235 (2017-11-11 00:46 UTC, 55767 bytes). About half the size as of this point was due to Issa, with the other half being from Vipul. Subsequent expansion was mostly by Vipul'),
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of Berkeley Existential Risk Initiative','https://timelines.issarice.com/wiki/Timeline_of_Berkeley_Existential_Risk_Initiative','2018-02-09',50,'AI safety','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Berkeley_Existential_Risk_Initiative&oldid=19986 (2018-02-09 18:49 UTC, 10881 bytes, 19 rows)'),
-  # -- Added 2018-08-04
+  /* Added 2018-08-04 */
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of OpenAI','https://timelines.issarice.com/wiki/Timeline_of_OpenAI','2018-05-08',100,'AI safety','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&oldid=22261 (2018-05-08 23:02 UTC, 28771 bytes, 37 rows)'),
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of Center for Human-Compatible AI','https://timelines.issarice.com/wiki/Timeline_of_Center_for_Human-Compatible_AI','2018-05-10',30,'AI safety','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Center_for_Human-Compatible_AI&oldid=22309 (2018-05-11 00:35 UTC, 7179 bytes, 11 rows)'),
-  # -- Added 2018-08-12
+  /* Added 2018-08-12 */
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of the rationality community','https://timelines.issarice.com/wiki/Timeline_of_the_rationality_community','2018-05-09',70,'Rationality improvement','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_rationality_community&oldid=22297 (2018-05-10 05:19 UTC, 23790 bytes, 42 rows)'),
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of Google Brain','https://timelines.issarice.com/wiki/Timeline_of_Google_Brain','2018-06-13',75,'AI','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Google_Brain&oldid=23178 (2018-06-13 00:59 UTC, 17419 bytes, 24 rows)'),
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of Foundational Research Institute','https://timelines.issarice.com/wiki/Timeline_of_Foundational_Research_Institute','2018-07-16',50,'Animal welfare','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Foundational_Research_Institute&oldid=23956 (2018-07-16 17:08 UTC, 10413 bytes, 19 rows)');
 
-# -- Orpheus Lummis page creation
+/* Orpheus Lummis page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Orpheus Lummis','Timelines wiki','Timelines page creation','Timeline of prediction markets','https://timelines.issarice.com/wiki/Timeline_of_prediction_markets','2018-09-30',160,'Forecasting','Timeline','First timeline created by worker, based on worker interest in the subject. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_prediction_markets&oldid=25848 (2018-10-01 06:16 UTC, 32382 bytes, 65 rows, 2 graphs)');
 
-# -- Mati Roy page creation
+/* Mati Roy page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Mati Roy','Timelines wiki','Timelines page creation','Timeline of brain preservation','https://timelines.issarice.com/wiki/Timeline_of_brain_preservation','2019-02-17',500,'Cryonics','Timeline','First timeline created by worker, based on worker interest in the subject. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_brain_preservation&oldid=28219 (2019-02-17 09:57 UTC, 135884 bytes, 209 rows in full timeline as well as additional summary tables, 6 graphs)'),
   ('Mati Roy','Timelines wiki','Timelines page update','Timeline of wild animal suffering','https://timelines.issarice.com/wiki/Timeline_of_wild_animal_suffering','2019-07-25',75,'Animal welfare','Timeline','See https://timelines.issarice.com/index.php?title=Timeline_of_online_dating_services&type=revision&diff=31935&oldid=26967 for the diff. Increased from 76,737 bytes to 92,428 bytes'),
   ('Mati Roy','Timelines wiki','Timelines page update','Timeline of online dating services','https://timelines.issarice.com/wiki/Timeline_of_online_dating_services','2019-07-25',25,'Dating','Timeline','See https://timelines.issarice.com/index.php?title=Timeline_of_online_dating_services&type=revision&diff=31935&oldid=26967 for the diff. Increased from 10,939 bytes to 17,249 bytes');
 
-# -- Issa Rice page creation for Alex Flint
-# -- Issa Rice page creation
+/* Issa Rice page creation for Alex Flint */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
   ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of Future of Humanity Institute','https://timelines.issarice.com/wiki/Timeline_of_Future_of_Humanity_Institute','2018-03-18',300,'AI safety','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Future_of_Humanity_Institute&oldid=21039 (2018-03-18 18:48 UTC, 91994 bytes, 150 rows)','Alex Flint');
   
-# -- Jesse Clifton page creation
+/* Jesse Clifton page creation */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Timeline of animal welfare and rights','https://en.wikipedia.org/wiki/Timeline_of_animal_welfare_and_rights','2016-04-25',150,'Animal welfare','Timeline', NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in India','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_India','2016-04-26',100,'Animal welfare by country','Prose', NULL),
@@ -420,27 +419,27 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Animal welfare and rights in Switzerland','https://en.wikipedia.org/wiki/Animal_welfare_and_rights_in_Switzerland','2016-11-20',60,'Animal welfare by country','Prose', NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page creation','Sentience Politics','https://en.wikipedia.org/wiki/Sentience_Politics','2017-01-08',40,'Animal welfare/charity','Prose','Topic and work were done on own initiative; payment covered as it is part of coverage of animal welfare orgs');
 
-# -- Michael Royzen list
+/* Michael Royzen list */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Michael Royzen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of speech and voice recognition', 'https://en.wikipedia.org/wiki/Timeline_of_speech_and_voice_recognition', '2016-06-21', 50, 'Artificial intelligence/Computer science', 'Timeline', NULL);
 
-# -- Sean Yu list
+/* Sean Yu list */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sean Yu', 'Wikipedia', 'Wikipedia page creation', 'Form 1120', 'https://en.wikipedia.org/wiki/Form_1120', '2016-06-24', 35, 'United States taxation', 'Prose', NULL);
 
-# -- Sergey Yegorov list
+/* Sergey Yegorov list */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sergey Yegorov', 'Wikipedia', 'Wikipedia page creation', 'Academic Training', 'https://en.wikipedia.org/wiki/Academic_Training', '2016-09-20', 150, 'United States migration/academia', 'Prose', NULL),
   ('Sergey Yegorov', 'Wikipedia', 'Wikipedia page creation', 'Food frequency questionnaire', 'https://en.wikipedia.org/wiki/Food_frequency_questionnaire', '2016-10-23', 28, 'Nutrition', 'Prose', NULL),
   ('Sergey Yegorov', 'Wikipedia', 'Miscellaneous Wikipedia work', 'WHO-CHOICE', 'https://en.wikipedia.org/wiki/WHO-CHOICE', '2016-12-24', 20, 'Global health/priority-setting', 'Prose', 'Initia work that would lead to final published article by Vipul Naik on 2017-01-21');
   
-# -- Thomas Foster list
+/* Thomas Foster list */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of machine learning', 'https://en.wikipedia.org/wiki/Timeline_of_machine_learning', '2016-06-16', 80, 'Artificial intelligence/Machine learning', 'Timeline', NULL),
   ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in Oceania', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_Oceania', '2016-06-23', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation'),
   ('Thomas Foster', 'Wikipedia', 'Wikipedia page creation', 'Timeline of sovereign states in North America', 'https://en.wikipedia.org/wiki/Timeline_of_sovereign_states_in_North_America', '2017-01-31', 25, 'Geography/history', 'Timeline', 'Worker-initiated page creation');
 
-# -- Joey Malandra list
+/* Joey Malandra list */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'American Time Use Survey', 'https://en.wikipedia.org/wiki/American_Time_Use_Survey','2016-12-14',34,'Survey research','Prose',NULL),
   ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'Marlowe–Crowne Social Desirability Scale', 'https://en.wikipedia.org/wiki/Marlowe%E2%80%93Crowne_Social_Desirability_Scale','2016-12-24',30,'Survey research','Prose',NULL),
@@ -448,10 +447,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Joey Malandra', 'Wikipedia', 'Wikipedia page creation', 'MalariaWorld', 'https://en.wikipedia.org/wiki/MalariaWorld','2017-01-26',28,'Global health/diseases/malaria','Prose',NULL),
   ('Joey Malandra','Wikipedia','Attempted Wikipedia work','WorldPop','https://en.wikipedia.org/wiki/User:Joeykai/WorldPop','2017-02-25',15,'Global ealth/demographics','Prose','Last edit on 2017-02-25 in userspace. Project abandoned in March, so payment for draft as it stood before then');
 
-# -- Alex K. Chen list
+/* Alex K. Chen list */
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  # -- 2015 pages
+  /* 2015 pages */
   ('Alex K. Chen','Wikipedia','Wikipedia page creation','Parker Conrad','https://en.wikipedia.org/wiki/Parker_Conrad','2015-05-13',25,'Technology/influential people','Prose','Accidental/retroactive bounty -- page was created to decent quality so bounty awarded'),
   ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Reddit','https://en.wikipedia.org/wiki/Timeline_of_Reddit','2015-05-30',60,'Technology/company','Timeline','First timeline and first major bounty'),
   ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Uber','https://en.wikipedia.org/wiki/Timeline_of_Uber','2015-06-30',35,'Technology/company','Timeline','Originally created on 2015-06-01, fully expanded by 2015-06-30'),
@@ -466,7 +465,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Alex K. Chen','Wikipedia','Wikipedia page creation','Timeline of Square','https://en.wikipedia.org/wiki/Timeline_of_Square','2015-11-29',200,'Technology/company','Timeline','Extra large bounty because of timelineness due to recent IPO'),
   ('Alex K. Chen','Wikipedia','Wikipedia page creation','Project Healthy Children','https://en.wikipedia.org/wiki/Project_Healthy_Children','2015-11-28',25,'Philanthropy/nonprofit evaluation','Prose',NULL),
   ('Alex K. Chen','Wikipedia','Wikipedia page creation','The Humane League','https://en.wikipedia.org/wiki/The_Humane_League','2015-11-30',20,'Animal welfare/organizations','Prose',NULL),
-  # -- 2016 pages
+  /* 2016 pages */
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of online food delivery', 'https://en.wikipedia.org/wiki/Online_food_ordering#Timeline_of_online_food_delivery', '2016-01-10',55,'Technology/trends','Timeline','50 for initial page, 5 for adding stuff. Page was deleted and moved to the online food ordering page, with a redirect'),
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Amazon.com', 'https://en.wikipedia.org/wiki/Timeline_of_Amazon.com', '2016-01-17',250,'Technology/company','Timeline',NULL),
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Microsoft', 'https://en.wikipedia.org/wiki/Timeline_of_Microsoft', '2016-01-25', 128, 'Technology/company', 'Timeline', '125 for original, 3 for adding acquisition of LinkedIn'),
@@ -498,7 +497,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Timeline of Monsanto', 'https://en.wikipedia.org/wiki/Timeline_of_Monsanto', '2016-08-15',80,'Biotechnology/company','Timeline',NULL),
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page creation', 'Michael Seibel', 'https://en.wikipedia.org/wiki/Michael_Seibel', '2016-09-25',50,'Technology/investor/influential people','Prose',NULL); 
 
-# -- Ethan Bashkansky's other work
+/* Ethan Bashkansky's other work */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Ethan Bashkansky', 'Wikipedia', 'Miscellaneous Wikipedia work', 'N/A', 'N/A', '2016-09-07', 120, 'Miscellaneous', 'Prose','Ethan went on a page creation spree and sought rewards for creating broadly relevant pages'),
   ('Ethan Bashkansky', 'Wikipedia', 'Attempted Wikipedia work', 'De minimis fringe benefit', 'https://en.wikipedia.org/wiki/De_minimis_fringe_benefit','2016-04-26',5,'United States taxation','Prose','The page already existed'),
@@ -506,29 +505,29 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Ethan Bashkansky', 'None', 'Survey recruitment', 'Wikipedia use change over time', 'N/A', '2016-09-30',20.5, 'Wikipedia usage', 'Outreach', 'Got 41 responses from UW audience for 50 cents a response'),
   ('Ethan Bashkansky', 'None', 'Survey recruitment', 'Migration levels and migrants', 'N/A', '2017-02-15',21.5, 'Migration', 'Outreach', 'Got 43 responses from UW-related audiences for 50 cents a response');
 
-# -- Amy Zhang's other work
+/* Amy Zhang's other work */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Amy Zhang', 'Wikipedia', 'Wikipedia page update','Timeline of global health','https://en.wikipedia.org/wiki/Timeline_of_global_health','2016-06-26',80,'Global health', 'Timeline', 'Expanded existing events, added a few more, and revamped big picture');
 
-# -- Alex K. Chen's other work
+/* Alex K. Chen's other work */
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  # -- 2015 page updates
+  /* 2015 page updates */
   ('Alex K. Chen','Wikipedia','Wikipedia page update','Timeline of Uber','https://en.wikipedia.org/wiki/Timeline_of_Uber','2015-07-17',3,'Technology/company','Timeline',NULL),
   ('Alex K. Chen','Wikipedia','Wikipedia page update','Timeline of Reddit','https://en.wikipedia.org/wiki/Timeline_of_Reddit','2015-07-04',3,'Technology/company','Timeline',NULL),
-  # -- 2016 page updates
+  /* 2016 page updates */
   ('Alex K. Chen', 'Wikipedia', 'Wikipedia page update', 'Many timeline pages', 'N/A', '2016-09-24',200,'Technology/company','Timeline','Work spread over a month, to avoid having other timelines meet the deletion fate of Timeline of Valve Corporation');
 
-# -- Avi Glozman's other work
+/* Avi Glozman's other work */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Avi Glozman', 'Wikipedia', 'Wikipedia page update', 'Vote pairing in the United States presidential election, 2016','https://en.wikipedia.org/wiki/Vote_pairing_in_the_United_States_presidential_election,_2016','2016-11-03',27,'United States politics','Prose','Improved typology around vote pairing sites and added more references');
 
-# -- Christopher Kunin's other work
+/* Christopher Kunin's other work */
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Christopher Kunin','Wikipedia','Wikipedia page update','Privacy Impact Assessment','https://en.wikipedia.org/wiki/Privacy_Impact_Assessment','2016-07-29',45,'Government bureaucracy jargon','Prose','Originally intended to create the page, but somebody else made it, so added content into it');
 
-# -- Jesse Clifton's other work
+/* Jesse Clifton's other work */
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Jesse Clifton','Wikipedia','Wikipedia page update','Animal welfare in the United States','https://en.wikipedia.org/wiki/Animal_welfare_in_the_United_States','2016-05-08',60,'Animal welfare by country','Prose',NULL),
@@ -539,12 +538,11 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Jesse Clifton','Effective Altruism Forum','Blog post or article','Scenarios for cellular agriculture','http://effective-altruism.com/ea/yu/scenarios_for_cellular_agriculture/','2016-06-20',200,'Animal welfare/Technology','Prose/Opinion',NULL),
   ('Jesse Clifton','Wikipedia','Wikipedia page update','The Humane League, Mercy for Animals,The Good Food Institute,...','N/A','2016-11-29',20,'Animal welfare/Animal Charity Evaluators/nonprofit evaluation','Prose','Updates to all ACE top charities and standouts with information on the latest ACE recommendation');
 
-# -- Sean Yu's other work
+/* Sean Yu's other work */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sean Yu', 'Wikipedia', 'Wikipedia page update', 'Form 1040', 'https://en.wikipedia.org/wiki/Form_1040','2016-07-31',20,'United States taxation','Prose','Adding stuff on state taxes and controversies');
 
-# -- Sebastian Sanchez's other work
-
+/* Sebastian Sanchez's other work */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Cancer timelines','N/A','2016-08-28',5,'Global health/diseases','Timeline','Adding IARC to existing timelines'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of malaria','https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-12-06',185,'Global health/diseases/malaria','Timeline','Significant expansion of early history of malaria, also some recent events. And four graphs'),
@@ -584,13 +582,13 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of tubercuolosis','https://timelines.issarice.com/wiki/Timeline_of_tuberculosis','2017-11-20',10,'Global health/tuberculosis','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_tuberculosis&type=revision&diff=18603&oldid=13490'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of water treatment','https://timelines.issarice.com/wiki/Timeline_of_water_treatment','2017-11-18',51,'Water sanitation and hygiene','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_water_treatment&type=revision&diff=18559&oldid=17375'),
   ('Sebastian Sanchez','Timelines wiki','Preliminary research','None','N/A','2017-11-21',49,'Technology/company','Timeline','Reimbursement for CrunchBase $49 subscription for one month, to test its usefulness in generating timelines for technology companies'),
-  # -- 2018 tasks
+  /* 2018 tasks */
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of salesforce.com','https://timelines.issarice.com/wiki/Timeline_of_salesforce.com','2018-01-03',12,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_salesforce.com&type=revision&diff=19549&oldid=18711 increased from 63,311 bytes to 66,475 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of senescence research','https://timelines.issarice.com/wiki/Timeline_of_senescence_research','2018-01-03',12,'Frontier health/speculative','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_senescence_research&type=revision&diff=19553&oldid=11852 increased from 24,383 bytes to 26,962 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of measles','https://timelines.issarice.com/wiki/Timeline_of_measles','2018-01-03',3,'Global health/diseases','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_measles&type=revision&diff=19564&oldid=11874 increased from 22,651 bytes to 23,270 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Bitcoin','https://timelines.issarice.com/wiki/Timeline_of_Bitcoin','2018-01-31',70,'Cryptocurrency/Bitcoin','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=19707&oldid=16223 increased from 58,300 bytes to 75,231 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of cardiovascular disease','https://timelines.issarice.com/wiki/Timeline_of_cardiovascular_disease','2018-03-01',26,'Global health/diseases','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_cardiovascular_disease&type=revision&diff=20432&oldid=11900 increased from 34,495 bytes to 40,257 bytes'),
-  # -- Added 2018-04-30
+  /* Added 2018-04-30 */
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of poliomyelitis','https://timelines.issarice.com/wiki/Timeline_of_poliomyelitis','2018-04-05',25,'Global health/diseases','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_poliomyelitis&type=revision&diff=21384&oldid=13322 increased from 24,423 bytes to 29,093 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of GiveWell','https://timelines.issarice.com/wiki/Timeline_of_GiveWell','2018-04-12',10,'Charity evaluator','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_GiveWell&type=revision&diff=21529&oldid=19667 increased 49,957 bytes to 52,050 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of hygiene','https://timelines.issarice.com/wiki/Timeline_of_hygiene','2018-04-13',8,'Water sanitation and hygiene','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_hygiene&type=revision&diff=21567&oldid=17796 increased from 26,861 bytes to 28,349 bytes'),
@@ -598,23 +596,23 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Uber','https://timelines.issarice.com/wiki/Timeline_of_Uber','2018-04-15',52,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Uber&type=revision&diff=21595&oldid=17088 increased from 80,804 bytes to 97,041 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Innovations for Poverty Action','https://timelines.issarice.com/wiki/Timeline_of_Innovations_for_Poverty_Action','2018-04-19',25,'Global health and development','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Innovations_for_Poverty_Action&type=revision&diff=21737&oldid=18824 increased from 5,256 bytes to 9,413 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Amazon.com','https://timelines.issarice.com/wiki/Timeline_of_Amazon.com','2018-04-28',37,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Amazon.com&type=revision&diff=21974&oldid=15863 increased from 29,817 bytes to 41,269 bytes'),
-  # -- Added 2018-06-02
+  /* Added 2018-06-02 */
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Spotify','https://timelines.issarice.com/wiki/Timeline_of_Spotify','2018-05-12',26,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Spotify&type=revision&diff=22343&oldid=18473 increased from 41,067 bytes to 49,875 bytes'),
-  # -- Added 2018-08-13
+  /* Added 2018-08-13 */
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Netflix','https://timelines.issarice.com/wiki/Timeline_of_Netflix','2018-07-15',35,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Netflix&type=revision&diff=23937&oldid=13850 increased from 21,803 bytes to 31,153 bytes'),
-  # -- Added 2018-12-31 (drafted 2018-12-30)
+  /* Added 2018-12-31 (drafted 2018-12-30) */
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Facebook','https://timelines.issarice.com/wiki/Timeline_of_Facebook','2018-12-12',20,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Facebook&type=revision&diff=26995&oldid=21985 Increased from 170,603 bytes to 177,502 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Instagram','https://timelines.issarice.com/wiki/Timeline_of_Instagram','2018-12-17',33,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Instagram&type=revision&diff=27071&oldid=13997 Increased from 28,786 bytes to 39,203 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of malaria in 2017','https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2017','2018-12-21',35,'Global health/malaria','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2017&type=revision&diff=27093&oldid=15617 Increased from 28,094 bytes to 35,336 bytes'),
-  # -- Added 2019-04-26 (finalization date)
+  /* Added 2019-04-26 (finalization date) */
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Lyft','https://timelines.issarice.com/wiki/Timeline_of_Lyft','2019-04-15',75,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Lyft&type=revision&diff=29209&oldid=1180 Increased from 22,621 bytes to 41,499 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of SpaceX','https://timelines.issarice.com/wiki/Timeline_of_SpaceX','2019-04-15',95,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=29219&oldid=20741 Increased from 36,757 bytes to 59,665 bytes'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of Uber','https://timelines.issarice.com/wiki/Timeline_of_Uber','2019-04-15',105,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_Uber&type=revision&diff=29201&oldid=21595 Increased from 97,041 bytes to 123,184 bytes'),
-  # -- Added 2019-06-18 (finalization date)
+  /* Added 2019-06-18 (finalization date) */
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of animal testing','https://timelines.issarice.com/wiki/Timeline_of_animal_testing','2019-04-28',15,'Animal welfare','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_animal_testing&type=revision&diff=29443&oldid=26640 Increased from 38,518 bytes to 41,582 bytes, with 4 rows added'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of GitHub','https://timelines.issarice.com/wiki/Timeline_of_GitHub','2019-05-26',110,'Technology/company','Timeline','See diff at https://timelines.issarice.com/index.php?title=Timeline_of_GitHub&type=revision&diff=30080&oldid=23707 Increased from 62,157 bytes to 101,657 bytes, with 39 rows added');
 
-# -- Issa Rice's Open Philanthropy Project periodic grant updates
+/* Issa Rice's Open Philanthropy Project periodic grant updates */
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2016-04-30',50,'Philanthropy/Grants','Table','April end grants update'),
@@ -629,7 +627,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2017-01-29',50,'Philanthropy/Grants','Table','January end grants update: 6 grants to Open Phil, 13 grants to Good Ventures, so pay = 50'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Open Philanthropy Project,Good Ventures','https://en.wikipedia.org/wiki/Open_Philanthropy_Project,https://en.wikipedia.org/wiki/Good_Ventures','2017-02-26',50,'Philanthropy/Grants','Table','February end grants update: 13 grants to Open Phil, 9 grants to Good Ventures; 21 distinct grants, so pay = 50');
 
-# -- Issa Rice's IATI grant updates
+/* Issa Rice's IATI grant updates */
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Issa Rice','Wikipedia','Wikipedia page update','Bill & Melinda Gates Foundation','https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation','2016-08-29',50,'Philanthropy/Grants/IATI','Table','IATI Gates Round 1'),
@@ -642,9 +640,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Wikipedia','Attempted Wikipedia work','French Development Agency','https://en.wikipedia.org/wiki/French_Development_Agency','2016-09-05',10,'Philanthropy/Grants/IATI','Table','We decided not to publish as there was too little meaningful data'),
   ('Issa Rice','Wikipedia','Wikipedia page update','GAVI Alliance','https://en.wikipedia.org/wiki/GAVI_Alliance','2016-09-06',15,'Philanthropy/Grants/IATI','Table',NULL);
   
-# -- Other payments to Issa Rice
+/* Other payments to Issa Rice */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-  # -- Touch payments
+  /* Touch payments */
   ('Issa Rice','None','Contacting people','N/A','N/A','2016-12-12',320,'Miscellaneous','Email','Total payment for reaching out to people with relevant questions, suggestions, and comments'),
   ('Issa Rice','None','Contacting people','N/A','N/A','2017-01-19',20,'Miscellaneous','Email','Total payment for reaching out to people with relevant questions, suggestions, and comments'),
   ('Issa Rice','None','Contacting people','N/A','N/A','2017-02-04',20,'Miscellaneous','Email','Total payment for reaching out to people with relevant questions, suggestions, and comments'),
@@ -656,7 +654,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','None','Contacting people','N/A','N/A','2018-01-16',10,'Miscellaneous','Email','Total payment for reaching out to people with relevant questions, suggestions, and comments'),
   ('Issa Rice','None','Contacting people','N/A','N/A','2018-04-01',10,'Miscellaneous','Email','Total payment for reaching out to people with relevant questions, suggestions, and comments'),
   ('Issa Rice','None','Contacting people','N/A','N/A','2018-09-24',10,'Miscellaneous','Email','Total payment for reaching out to people with relevant questions, suggestions, and comments'),
-  # -- 2015 payments
+  /* 2015 tasks */
   ('Issa Rice','Wikipedia','Wikipedia page update','A Plus (aplus.com)','https://en.wikipedia.org/wiki/A_Plus_(aplus.com)','2015-04-05',20,'Media company','Prose','First Wikipedia article experience. Originally intended to create article, but it got created while this was in draft, so merged work in.'),
   ('Issa Rice','wikiHow','Wiki page creation','Archive Websites on Unix Like Systems','http://www.wikihow.com/Archive-Websites-on-Unix-Like-Systems','2015-09-22',300,'Digital preservation','Prose/How-to',NULL),
   ('Issa Rice','Effective Altruism Forum','Blog post or article',
@@ -669,7 +667,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','None','Consulting','N/A','N/A','2015-08-08',37,'No record','Communication with Vipul',NULL),
   ('Issa Rice','None','Consulting','N/A','N/A','2015-08-08',20,'Spam filtering','Communication with Vipul','Helped Vipul set up spam filters for Google Analytics accounts'),
   ('Issa Rice','None','Consulting','Quantcast data tabulation','N/A','2015-11-22',50,'Web analytics/Quantcast','Spreadsheet','Tabulated a bunch of data related to website Quantcast data. Some of this was later used in wikiHow articles by Vipul such as http://www.wikihow.com/Understand-Your-Website-Audience-Profile'),
-  # -- 2016 payments
+  /* 2016 tasks */
   ('Issa Rice','Wikipedia Views','Coding','pageviewQueries.inc','https://github.com/vipulnaik/wikipediaviews/blob/master/backend/pageviewQueries.inc','2016-01-31',80,'API integration','Code','Add ability to query Wikimedia API for pageviews'),
   ('Issa Rice','Wikipedia','Miscellaneous Wikipedia work','Animal Charity Evaluators','https://en.wikipedia.org/wiki/User:Riceissa/Animal_Charity_Evaluators','2016-03-18',20,'Animal welfare/nonprofit evaluation/Animal Charity Evaluators','Communication with Vipul','Retrieved deleted page from admin and userfied it'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Disease Control Priorities Project','https://en.wikipedia.org/wiki/Disease_Control_Priorities_Project','2016-04-13',6,'Global health','Prose','Add years'),
@@ -704,7 +702,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','LessWrong','Preliminary research','Revisiting the great decline in Wikipedia pageviews','https://github.com/vipulnaik/working-drafts/blob/master/wikipediaviews/revisiting-the-great-decline-in-wikipedia-pageviews.md','2016-10-03',925,'Wikipedia','Prose with tables and charts and code','Started on it at ~$100/day pay, slowed down, then we realized a lot more toolkit improvements are needed before we can push out the post'),
   ('Issa Rice','Wikipedia Views','Coding','Tag entries in different languages','https://wikipediaviews.org','2016-10-04',150,'Wikipedia Views','Code and data','Wrote code to translate tags en masse to new languages. Code still exists, plan is now to incorporate into Wikipedia Views itself to avoid need to run separate code'),
   ('Issa Rice','None','Preliminary research','Researcher profiles','N/A as it was private work','2016-12-31',70,'Research strategy','Prose','Officially stopped project 2017-01-01 but part paid by Vipul was finished by 2016-12-31'),
-  # -- 2017 payments
+  /* 2017 tasks */
   ('Issa Rice','Donations list website','Data entry','Donations list website','https://donations.vipulnaik.com/','2017-01-08',155,'Effective altruism/donation history','Structured data','Designed SQL tables and provided initial set of rows to insert'),
   ('Issa Rice','Effective Altruism Forum','Blog post or article','Essay contest: general considerations for evaluating small-scale giving opportunities ($300 for winning submission)','http://effective-altruism.com/ea/16e/essay_contest_general_considerations_for/','2017-01-19',50,'Effective altruism/contest/small-scale giving','Prose','Announced contest organized by Peter Hurford, Vipul Naik, and Issa Rice. Remaining $50 pay to be given after first serious submission'),
   ('Issa Rice','Wikipedia','Wikipedia page update','Gavi, the Vaccine Alliance','https://en.wikipedia.org/wiki/Gavi%2C_the_Vaccine_Alliance','2017-01-25',7,'Global health','Prose','Page improvements including clarifying history of name changes and adding references'),
@@ -746,12 +744,12 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Timelines wiki','Timelines page update','Timeline of Machine Intelligence Research Institute','https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute','2018-02-24',25,'AI safety','Timeline','Payment for page as of https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&oldid=20301 and specifically for the diff https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&type=revision&diff=20301&oldid=16832 (82,663 bytes to 89,249 bytes)'),
   ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2018-03-20',320,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240), plus payment for additional work, such as automating the main page table and making sure it is updated: https://github.com/riceissa/timelines-wiki-main-page-table'),
   ('Issa Rice','None','Coding','Backups','N/A','2018-12-31',113,'Wikipedia/Backup','Code and data','Payment for maintaining the process that does daily backups of Wikipedia content, at $2/week for 56.5 weeks, from 2017-12-02 to 2018-12-31'),
-  # -- Tasks in 2019
+  /* 2019 tasks */
   ('Issa Rice','Timelines wiki','Timelines page update','Timeline of Machine Intelligence Research Institute','https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute','2019-03-11',27,'AI safety','Timeline','Completed March 11, 2019; covers work since the last payment on February 24, 2018. Payment for page as of https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&oldid=28758 and specifically for the diff https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&type=revision&diff=28758&oldid=20301 (89,249 bytes to 96,505 bytes)'),
   ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2019-03-20',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240), plus monthly updates and ongoing improvements to https://github.com/riceissa/timelines-wiki-main-page-table at $5/month (total $60)');
 
-# -- Issa Rice payments, with time clocked
-# -- Other payments to Issa Rice
+/* Issa Rice payments, with time clocked
+Other payments to Issa Rice */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
   ('Issa Rice','Contract work for Vipul Naik','Coding','Contract work for Vipul Naik','https://contractwork.vipulnaik.com','2017-10-07',135,'Graphical presentation', 'Code','Code written to generate graphs of incremental and cumulative payments by various drilldowns plotted at yearly and monthly granularity. See pull requests https://github.com/vipulnaik/contractwork/pull/10 https://github.com/vipulnaik/contractwork/pull/11 https://github.com/vipulnaik/contractwork/pull/12 or look at the commits made in https://github.com/riceissa/contractwork/tree/misc-2017-10 (a fork where the commits were made)', 529),
   ('Issa Rice','Devec subwiki','Preliminary research','Devec subwiki','https://devec.subwiki.org','2017-10-06',300,'Global development','Notes','This is a stipend supplement. Preliminary reading on development economics as well as databases of economic growth and metrics. This would eventually help with data porting exercises and expanding https://devec.subwiki.org (the Devec subwiki)', 6780),
@@ -786,18 +784,18 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2018-07-31',17,'Organizational structures and dynamics','Code and data','A little bit of work adding more data for some already added orgs. Work begun end of July and continued in August; this payment is for the part of work till the end of July',137),
   ('Issa Rice','None','Preliminary research','None','N/A','2018-07-26',295,'AI safety','Prose','Some research, reading, and writing related to AI safety and adjacent topics like decision theory. Payment at $9.75/hour was based on time matching against work on the computing data project (CDP)',1814),
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com/','2018-07-31',146,'Philanthropy','Code and data','Work on a bunch of issues related to importing grants databases for different donors into the donations list website. See comments made in July 2018 on http://github.com/vipulnaik/donations/issues for more information.', 1031),
-  # -- Tasks added for August 2018
+  /* Tasks added for August 2018 */
   ('Issa Rice','Effective Altruism Forum','Blog post or article','Donations List Website: tutorial and request for feedback','http://effective-altruism.com/ea/1s3/donations_list_website_tutorial_and_request_for/','2018-08-24',65,'Philanthropy','Prose','Blog post explaining the Donations List Website through a tutorial, and asking for feedback about how people use it and what kinds of improvements they would most appreciate. The tutorial part of the blog post was also mirrored in updates to the README https://github.com/vipulnaik/donations/blob/master/README.md Payment here includes payment both for work on the post and time spent replying to a comment by Milan, see http://effective-altruism.com/ea/1s3/donations_list_website_tutorial_and_request_for/fe1?context=1#comments Work (including the comment reply) happened between August 18 and August 24, though the post was published August 21', 458),
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com/','2018-08-30',215,'Philanthropy','Code and data','Work on a bunch of issues related to importing grants databases for different donors into the donations list website. See comments made in August 2018 on http://github.com/vipulnaik/donations/issues for more information. Dates of work ranged from August 5 to August 30', 1518),
   ('Issa Rice','Computing data project','Data entry','Computing data project','https://computingdata.vipulnaik.com','2018-08-27',9,'Computer science','Code and data','Addition of some more provider data (Amazon Lightsail) and other related work. Work done on August 27',72),
   ('Issa Rice','None','Preliminary research','None','N/A','2018-08-03',109,'AI safety','Prose','Some research, reading, and writing related to AI safety and adjacent topics like decision theory. Payment at $9.75/hour was based on time matching against work on the computing data project (CDP). The corresponding hours for CDP that were matched against had been worked in July',670),
-  # -- Tasks added for September 2018
+  /* Tasks added for September 2018 */
   ('Issa Rice','wikiHow','Blog post or article','Navigate to Web Pages Efficiently Without Using Navigation Menus','https://www.wikihow.com/Navigate-to-Web-Pages-Efficiently-Without-Using-Navigation-Menus','2018-09-10',118.13,'Web use','Prose','Worked August 23 to September 10, including post-publication improvement. Completed version at https://www.wikihow.com/index.php?title=Navigate-to-Web-Pages-Efficiently-Without-Using-Navigation-Menus&oldid=25218935 and mirror at https://github.com/riceissa/issarice.com/blob/master/external/wikihow.com/url-navigation-tips.mediawiki',945),
   ('Issa Rice','wikiHow','Blog post or article','Get Traffic Analytics for a Website You Don''t Own','https://www.wikihow.com/Get-Traffic-Analytics-for-a-Website-You-Don%27t-Own','2018-09-09',18.90,'Web use','Prose','Minor improvements requested by Vipul, see https://www.wikihow.com/index.php?title=Get-Traffic-Analytics-for-a-Website-You-Don%27t-Own&diff=25209675&oldid=25104427 for diff. Work done on 2018-09-08 and 2018-09-09',151),
   ('Issa Rice','Donations list website','Data entry','Donations list website','https://donations.vipulnaik.com/','2018-09-21',39.10,'Philanthropy','Code and data','Work on MIRI top donors updates and BERI grants. Work done between 2018-09-01 and 2018-09-21. See https://github.com/vipulnaik/donations/commits/master/sql?author=riceissa and check the September 2018 commits for more information',276),
   ('Issa Rice','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2018-09-19',68.85,'Organizational structures and dynamics','Code and data','Work done primarily between 2018-09-13 and 2018-09-19 adding data for The Good Food Institute and Effective Altruism Foundation and making other minor edits; see https://github.com/riceissa/aiwatch/commits and check the September 2018 commits for more.',551),
   ('Issa Rice','None','Career planning','None','N/A','2018-09-30',158.31,'None','Prose','Preliminary research on career opportunities and their impact, along the lines of 80,000 Hours. Work done between 2018-09-22 and 2018-09-30',1520),
-  # -- Tasks added for October 2018
+  /* Tasks added for October 2018 */
   ('Issa Rice','wikiHow','Blog post or article','Write Facebook Graph Search Queries','https://www.wikihow.com/Write-Facebook-Graph-Search-Queries','2018-10-04',101.13,'Web use','Prose','Work done September 30 to October 4. Completed version at https://www.wikihow.com/index.php?title=Write-Facebook-Graph-Search-Queries&oldid=25361362 and mirror at https://github.com/riceissa/issarice.com/blob/master/external/wikihow.com/facebook-graph-search.mediawiki',809),
   ('Issa Rice','Cause Prioritization Wiki','Preliminary research','List of effective altruism-related projects','https://causeprioritization.org/List_of_effective_altruism-related_projects','2018-10-28',37.60,'Effective altruism','Table','Work done October 27 and October 28. It had a number of related goals, including identifying good donation targets, donor motivations and strategies, and projects in and around the effective altruism movement that might be good donation targets. Ultimately, after some work by Issa on the list, we decided it made sense to wait a bit longer for more public disclosure of EA Grants before returning to looking at this',451),
   ('Issa Rice','Cause Prioritization Wiki','Preliminary research','None','N/A','2018-10-31',45.15,'Technological progress and stagnation','Prose','Work done October 29 to October 31. Most of the work was preliminary reading and research into the Great Stagnation hypothesis, with no immediate visible public output',542),
@@ -805,46 +803,46 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Contract work for Vipul Naik','Coding','Contract work for Vipul Naik','https://contractwork.vipulnaik.com','2018-10-24',50,'Graphical presentation','Code','The availability of graphs was extended to a number of other pages on the contract work website. Pay was set at max{$8.50 * number of hours, $50}. Since the work was completed in less than 2 hours, payment of $50 was selected. GitHub issue https://github.com/vipulnaik/contractwork/issues/17 and pull request https://github.com/vipulnaik/contractwork/pull/18',119),
   ('Issa Rice','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2018-10-17',16.13,'Organizational structures and dynamics','Code and data','Work done primarily between 2018-10-06 and 2018-10-17',129),
   ('Issa Rice','None','Career planning','None','N/A','2018-10-11',51.25,'None','Prose','Continued research on career opportunities and their impact, along the lines of 80,000 Hours. Work done between 2018-10-02 and 2018-10-11',492),
-  # -- Tasks added for November 2018
+  /* Tasks added for November 2018 */
   ('Issa Rice','Donations list website','Data entry','Donations list website','https://donations.vipulnaik.com/','2018-11-29',53.98,'Philanthropy','Code and data','Most of the focus was on adding metadata for a number of donees. Work was done between 2018-11-06 and 2018-11-29',381),
   ('Issa Rice','Learning subwiki','Wiki page update','Multiple pages','https://learning.subwiki.org','2018-11-29',306.56,'Learning','Prose','August: 4th; September: 10th to 20th; October: 6th to 26th; November: 2nd to 29th. $70 for the first 8 hours at $8.75/hour, and $236.56 for the next 37 hours 51 minutes at $6.25/hour.',2751),
-  # -- Tasks added for December 2018
+  /* Tasks added for December 2018 */
   ('Issa Rice','LessWrong','Blog post or article','GraphQL tutorial for LessWrong and Effective Altruism Forum','https://www.lesswrong.com/s/h8DebDmuode4TMcRj/p/LJiGhpq8w4Badr5KJ','2018-12-08',120,'Web use','Prose','Work done 2018-11-16 to 2018-12-08; see history at https://github.com/riceissa/ea-forum-reader/commits/master/tutorial.md Although work on the post and the associated tools took more time than the 16 hours indicated for payment, the paid time was capped at 16 hours. The post was added to the LW Open Source Guide https://www.lesswrong.com/s/h8DebDmuode4TMcRj by Raymond Arnold',960),
   ('Issa Rice','Donations list website','Data entry','Donations list website','https://donations.vipulnaik.com/','2018-12-27',8.76,'Philanthropy','Code and data','Most of the focus was on adding metadata for a number of donees. Work was done between 2018-12-05 and 2018-12-27',62),
   ('Issa Rice','analytics.vipulnaik.com','Coding','analytics.vipulnaik.com','https://analytics.vipulnaik.com','2018-12-15',150,'Analytics','Code and data','Setup work for a public website https://analytics.vipulnaik.com that records Google Analytics data for a number of websites. Pay for this was set as max{$150, $8.50/hour * Time spent}. 12.92 hours were spent on the first phase of work, so the $150 was binding. Work done 2018-11-26 to 2018-12-15. GitHub repository at https://github.com/riceissa/analytics-table',775),
   ('Issa Rice','Learning subwiki','Wiki page update','Multiple pages','https://learning.subwiki.org','2018-12-24',77.06,'Learning','Prose','Creation of and augmentation of many pages on learning subwiki. Work done 2018-12-06 to 2018-12-24',740),
-  # -- Tasks added for January 2019
+  /* Tasks added for January 2019 */
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com/','2019-01-21',75.23,'Philanthropy','Code and data','Most of the focus was on writing code to process grants lists for a number of foundation donors. See issues #89 to #107 (not all of them were completed or worked on within the month of January). Work was done between 2019-01-10 and 2019-01-21',531),
   ('Issa Rice','Learning subwiki','Wiki page update','Multiple pages','https://learning.subwiki.org','2019-01-23',15.19,'Learning','Prose','Creation of and augmentation of many pages on learning subwiki. Work done 2019-01-07 to 2019-01-23',146),
-  # -- Tasks added for February 2019
+  /* Tasks added for February 2019 */
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com/','2019-02-26',42.47,'Philanthropy','Code and data','Most of the focus was on adding various kinds of donation statistics that are particularly useful for large donors who have made lots of donations. Work was done between 2019-02-02 and 2019-02-26',269),
   ('Issa Rice','Learning subwiki','Wiki page update','Multiple pages','https://learning.subwiki.org','2019-02-23',33.13,'Learning','Prose','Creation of and augmentation of many pages on learning subwiki. Work done 2019-02-12 to 2019-02-23',318),
-  # -- Tasks added for March 2019
+  /* Tasks added for March 2019 */
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com/','2019-03-27',33.09,'Philanthropy','Code and data','See https://github.com/vipulnaik/donations/commits?author=riceissa&since=2019-03-01&until=2019-04-01 for the work done. Work was done between 2019-03-10 and 2019-03-27',209),
   ('Issa Rice','Devec/Demography data portal','Consulting','None','N/A','2019-03-23',1.79,'Global development','N/A','Strategy discussion with Vipul on plan for eventually resuming this project',11),
   ('Issa Rice','Computing data project','Consulting','None','N/A','2019-03-23',4.38,'Computer science','N/A','Strategy discussion with Vipul on plans for eventually resuming this project',35),
   ('Issa Rice','Org Watch','Coding','Org Watch','https:://orgwatch.issarice.com/','2019-03-27',106.24,'Organizational structures and dynamics','Code','Work involved finishing up some pending issues filed in https://github.com/riceissa/aiwatch/issues See https://github.com/riceissa/aiwatch/commits?author=riceissa&since=2019-03-01&until=2019-04-01 for the work done. Work was done between 2019-03-17 and 2019-03-27',671),
-  # -- Tasks added for April 2019
+  /* Tasks added for April 2019 */
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com/','2019-04-28',166.73,'Philanthropy','Code and data','See https://github.com/vipulnaik/donations/commits?author=riceissa&since=2019-04-01&until=2019-05-01 for the work done. Work was done between 2019-04-08 and 2019-04-28',1053),
   ('Issa Rice','Computing data project','Consulting','None','N/A','2019-04-23',7.63,'Computer science','N/A','Strategy discussion with Vipul on plans for eventually resuming this project. Work was done 2019-04-15 to 2019-04-23',61),
   ('Issa Rice','Org Watch','Coding','Org Watch','https:://orgwatch.issarice.com/','2019-04-30',41.96,'Organizational structures and dynamics','Code','Work mostly involved adding display support for organization documents, adding a table of contents, and miscellaneous UI tweaks. See https://github.com/riceissa/aiwatch/commits?author=riceissa&since=2019-04-01&until=2019-05-01 for the work done. Work was done between 2019-04-01 and 2019-04-30',265),
-  # -- Tasks added for May 2019
+  /* Tasks added for May 2019 */
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com/','2019-05-13',69.92,'Philanthropy','Code and data','See https://github.com/vipulnaik/donations/commits?author=riceissa&since=2019-05-01&until=2019-06-01 for the work done. Work was done between 2019-05-01 and 2019-05-13',442),
   ('Issa Rice','Wikipedia Views','Coding','Wikipedia Views country breakdown','https://github.com/riceissa/wikipediaviews-country-breakdown','2019-05-09',21.08,'Wikipedia','Code','Work done on 2019-05-08 and 2019-05-09 for https://github.com/vipulnaik/wikipediaviews/issues/22',149),
   ('Issa Rice','AI Watch','Data entry','AI Watch','https://aiwatch.issarice.com/','2019-05-22',109.06,'AI safety','Code and data','See https://github.com/riceissa/aiwatch/commits?author=riceissa&since=2019-05-01&until=2019-06-01 for the work done. Work was done between 2019-05-02 and 2019-05-22. Although all the time spent is counted under AI Watch, some of the work was for the related Org Watch',689),
-  # -- Tasks added for June 2019
+  /* Tasks added for June 2019 */
   ('Issa Rice','Donations list website','Coding','Donations list website','https://donations.vipulnaik.com/','2019-06-30',14.06,'Philanthropy','Code and data','See https://github.com/vipulnaik/donations/commits?author=riceissa&since=2019-06-01&until=2019-07-01 for the work done. Work was done between 2019-06-20 and 2019-05-30',89),
   ('Issa Rice','Devec/Demography data portal','Consulting','None','N/A','2019-06-22',1.66,'Global development','N/A','Some discussion with Vipul about the portal, data sources, and potential further work. Work was done on 2019-06-22',10),
   ('Issa Rice','Computing data project','Data entry','Computing data project','https://computingdata.vipulnaik.com/','2019-06-19',21.70,'Computer science','Data','Periodic data refresh for the data in CDP. The rate for this data refresh work is $10/hour for up to 10 hours, higher than the usual $7.50/hour for general CDP work. Work was done on 2019-06-18 and 2019-06-19',130),
   ('Issa Rice','Computing data project','Preliminary research','Computing data project','https://computingdata.vipulnaik.com/','2019-06-30',4.65,'Computer science','N/A','Investigation of benchmarking tools; this is related to https://github.com/riceissa/computing-data-project/issues/1 Work was done on 2019-06-30',37),
   ('Issa Rice','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2019-06-28',253.75,'Organizational structures and dynamics','Data','Periodic data refresh for organization data in Org Watch (OW). Because of the unpleasantness of data entry as well as the economies of scale from bunching this work together, this work is paid at a higher rate than the normal rate for Org Watch work of $9.50/hour. First 10 hours at $22/hour and remaining time at $15/hour; work from 2019-06-23 to 2019-06-28 See https://github.com/riceissa/aiwatch/issues/18 for more work details',735),
   ('Issa Rice','Wikipedia Views','Coding','Wikipedia Views country breakdown','https://github.com/riceissa/wikipediaviews-country-breakdown','2019-06-05',20.66,'Wikipedia','Code','Work done on 2019-06-04 and 2019-06-05 for some residual cleanup and fixes related to https://github.com/vipulnaik/wikipediaviews/issues/22',146),
-  # -- Tasks added for July 2019
+  /* Tasks added for July 2019 */
   ('Issa Rice','Devec/Demography data portal','Coding','None','N/A','2019-07-04',18.04,'Global development','Code','Some work on https://github.com/riceissa/devec-demography-data-portal/issues/2 Work was done on 2019-07-04 at standard rates for Devec/Demography data portal of $9.75/hour',111),
   ('Issa Rice','Computing data project','Data entry','Computing data project','https://computingdata.vipulnaik.com/','2019-07-09',36,'Computer science','Data','Periodic data refresh for the data in CDP. The rate for this data refresh work is $10/hour for up to 10 hours, higher than the usual $7.50/hour for general CDP work. Work was done on 2019-07-08 and 2019-07-09',216),
   ('Issa Rice','None','Preliminary research','search.gov','N/A','2019-07-13',30,'Technology','Prose','Assembling of a draft Wikipedia-like page for search.gov. Work was done for 3 hours at $10/hour on 2019-07-13',180);
 
-# -- Issa Rice tasks paid for by Peter Hurford
+/* Issa Rice tasks paid for by Peter Hurford */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
   ('Issa Rice', 'None', 'Preliminary research','hits-based giving project','https://gist.github.com/riceissa/186b1d2e8bbb85e6204b5e06aba64018','2017-03-22',570,'Philanthropy/history of philanthropy','Notes','Initial work for a project announced by Peter Hurford at http://effective-altruism.com/ea/14s/how_many_hits_does_hitsbased_giving_get_a/ after some modification and discussion with Peter. Due to data availability constraints, the project could not be completed, so the pay is for 38 hours of initial work at $15/hour','Peter Hurford'),
   ('Issa Rice','Donations list website','Coding','Donation amounts by disclosures and year','https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear','2017-08-12',75,'Philanthropy/Open Philanthropy Project','Table','Schema design, data entry, and coding to render tables in the Donations list website for Open Philanthropy Project grant-related relationship disclosures data','Peter Hurford');
