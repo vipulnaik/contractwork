@@ -95,7 +95,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',680,'2019-05-01','2019-05-31','2019-05-31','There was no significant time spent outside Timelines wiki in this month, so we will treat all time as having been on Timelines wiki',170),
   ('Sebastian Sanchez',770,'2019-06-01','2019-06-30','2019-06-30','Of the 185 hours spent this month, 5 were spent outside Timelines wiki, and the remaining 180 were sent on Timelines wiki',185),
   ('Sebastian Sanchez',780,'2019-07-01','2019-07-31','2019-07-31','There was no time spent outside Timelines wiki in this month, so all time is on Timelines wiki',195),
-  ('Sebastian Sanchez',580,'2019-08-01','2019-08-31','2019-08-31','There was no time spent outside Timelines wiki in this month, so all time is on Timelines wiki. Number of hours this month is lower than the typical monthly amount, due to a vacation of about one week',145);
+  ('Sebastian Sanchez',580,'2019-08-01','2019-08-31','2019-08-31','There was no time spent outside Timelines wiki in this month, so all time is on Timelines wiki. Number of hours this month is lower than the typical monthly amount, due to a vacation of about one week',145),
+  ('Sebastian Sanchez',740,'2019-09-01','2019-09-30','2019-09-30','There was no time spent outside Timelines wiki in this month, so all time is on Timelines wiki',185);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');

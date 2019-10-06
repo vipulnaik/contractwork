@@ -16,13 +16,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2019 ==
 
-Total money earned as income: $13122
+Total money earned as income: $13862
 
 Forward balance carried over from 2018: ($3252.83)
 
 Payment made: $14509.47
 
-Net payment due: ($4640.30)
+Net payment due: ($3900.30)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -128,7 +128,7 @@ Total so far: $808
 
 === Stipends ===
 
-Total so far: $5120
+Total so far: $5860
 
 From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours were spent on Timelines Wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
@@ -147,6 +147,8 @@ From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours w
 * July: $780. Worked 195 hours, but no work outside Timlines wiki.
 
 * August: $580. Worked 145 hours, but no work outside Timelines wiki. Number of hours this month is lower than the typical monthly amount, due to a vacation of about one week
+
+* September: $740. Worked 185 hours, but no work outside Timelines wiki.
 
 === Payment schedule ===
 
