@@ -126,6 +126,16 @@ Total so far: $808
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Wi-Fi Timeline of Wi-Fi]: $35. Completed July 31, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Wi-Fi&type=revision&diff=32166&oldid=29432 diff] Increased from 30,631 bytes to 37,058 bytes
 
+=== Tentative pending payments ===
+
+Payments for completed timelines (amount proposed not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_food_and_nutrition_in_India Timeline of food and nutrition in India]: $320. Completed September 24, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_food_and_nutrition_in_India&oldid=33410 (2019-09-24 20:48 UTC, 59249 bytes, 117 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_WikiLeaks Timeline of WikiLeaks]: $350. Completed September 24, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_WikiLeaks&oldid=33411 (2019-09-24 20:38 UTC, 69472 bytes, 125 rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Neuralink Timeline of Neuralink]: $95. Completed September 23, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Neuralink&oldid=33398 (2019-09-23 20:28 UTC, 19744 bytes, 31 rows)
+
 === Stipends ===
 
 Total so far: $5860
