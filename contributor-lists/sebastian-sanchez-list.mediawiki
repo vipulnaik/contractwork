@@ -132,6 +132,10 @@ Payments for completed timelines (amount proposed not yet accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_bicycle_transportation Timeline of bicycle transportation]: $300. Completed October 12, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_bicycle_transportation&oldid=33787 (2019-10-13 04:03 UTC, 66126 bytes, 171 rows)
 
+Payments for expansions (amount proposed not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Reddit Timeline of Reddit]: $135. Completed Septembe 23, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Reddit&type=revision&diff=33904&oldid=25173 diff]. Increased from 40,195 bytes to 79,371 bytes; 2 rows added to big picture and about 40 rows added to full timeline (along with edits to existing rows)
+
 Payments for completed timelines (amount proposed has been accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_food_and_nutrition_in_India Timeline of food and nutrition in India]: $320. Completed September 24, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_food_and_nutrition_in_India&oldid=33410 (2019-09-24 20:48 UTC, 59249 bytes, 117 rows)
