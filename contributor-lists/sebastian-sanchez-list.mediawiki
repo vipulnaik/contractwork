@@ -146,6 +146,8 @@ Payments for expansions (amount proposed not yet accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_mobile_telephony Timeline of mobile telephony]: $140. Completed October 19, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_mobile_telephony&type=revision&diff=33936&oldid=18670 diff]. Increased from 55,266 bytes to 84,363 bytes, with about 63 new rows
 
+* [https://timelines.issarice.com/wiki/Timeline_of_Airbnb Timeline of Airbnb]: $135. Completed October 19, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Airbnb&type=revision&diff=33913&oldid=11658 diff]. Increased from 46,762 bytes to 88,268 bytes; 2 rows added to big picture and about 39 rows added to full timeline (along with edits to existing rows)
+
 === Stipends ===
 
 Total so far: $5860
