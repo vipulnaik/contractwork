@@ -148,6 +148,12 @@ Payments for expansions (amount proposed has been accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Slack Timeline of Slack]: $105. Completed October 20, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Slack&type=revision&diff=33955&oldid=18085 diff]. Increased from 51,797 bytes to 86,357 bytes; 2 rows added to big picture and about 30 rows added to full timeline (along with edits to existing rows)
 
+Payments for expansions (amount proposed not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2018 Timeline of malaria in 2018]: $15. Completed October 21, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2018&type=revision&diff=33983&oldid=28690 diff]. Increased from 68,874 bytes to 72,602 bytes; 4 rows added to full timeline (along with edits to existing rows)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_The_Global_Fund_to_Fight_AIDS,_Tuberculosis_and_Malaria Timeline of The Global Fund to Fight AIDS, Tuberculosis and Malaria]: $7. Completed October 21, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_The_Global_Fund_to_Fight_AIDS%2C_Tuberculosis_and_Malaria&type=revision&diff=33988&oldid=33950 diff]. Increased from 30,230 bytes to 31,501 bytes; 2 rows added to full timeline (along with edits to existing rows)
+
 === Stipends ===
 
 Total so far: $5860
