@@ -840,7 +840,14 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for July 2019 */
   ('Issa Rice','Devec/Demography data portal','Coding','None','N/A','2019-07-04',18.04,'Global development','Code','Some work on https://github.com/riceissa/devec-demography-data-portal/issues/2 Work was done on 2019-07-04 at standard rates for Devec/Demography data portal of $9.75/hour',111),
   ('Issa Rice','Computing data project','Data entry','Computing data project','https://computingdata.vipulnaik.com/','2019-07-09',36,'Computer science','Data','Periodic data refresh for the data in CDP. The rate for this data refresh work is $10/hour for up to 10 hours, higher than the usual $7.50/hour for general CDP work. Work was done on 2019-07-08 and 2019-07-09',216),
-  ('Issa Rice','None','Preliminary research','search.gov','N/A','2019-07-13',30,'Technology','Prose','Assembling of a draft Wikipedia-like page for search.gov. Work was done for 3 hours at $10/hour on 2019-07-13',180);
+  ('Issa Rice','None','Preliminary research','search.gov','N/A','2019-07-13',30,'Technology','Prose','Assembling of a draft Wikipedia-like page for search.gov. Work was done for 3 hours at $10/hour on 2019-07-13',180),
+  ('Issa Rice','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2019-07-05',0.79,'Organizational structures and dynamics','Data','Answering some questions from Vipul related to work on Org Watch in June',5),
+  /* Tasks added for August 2019 */
+  ('Issa Rice','AI Watch','Data entry','AI Watch','https://aiwatch.issarice.com/','2019-08-16',1.27,'AI safety','Code and data','See https://github.com/riceissa/aiwatch/commit/02f2358640ad027f7906c9e7fe3179f13aedea81 for the commit',8),
+  /* Tasks added for September 2019 */
+  ('Issa Rice','Donations list website','Preliminary research','Explore the creation of graphical timeline for donors, donees, and donor-donee pairs based on intended_funding_timeframe_in_months','https://github.com/vipulnaik/donations/issues/125','2019-09-18',11.40,'Philanthropy','Code and comments','Exploratory work related to graphical timelines. The results are recorded in the comments on https://github.com/vipulnaik/donations/issues/125',72),
+  /* Tasks added for October 2019 */
+  ('Issa Rice','People repo','People watching','People repo','N/A as it was private work','2019-10-23',350,'People','Notes','96 hours of work (12 working days of 8 hours each) over the time period of February 6, 2018 to October 23, 2019. The original payment agreement was 10 working days of 8 hours each at $35/day, but we increased it by 2 days in exchange for Vipul going out and collecting some information of potential interest to Issa.',5760);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

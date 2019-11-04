@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 == Work and other compensation in 2019 ==
 
-Total money earned as income (taxable as income for 2019): $3020.08
+Total money earned as income (taxable as income for 2019): $4147.66
 
 Payment made: $4263.02
 
 Carryover pament due from 2018: 1336.73
 
-Net payment due: $93.79
+Net payment due: $627.52
 
 === Updates to existing pages (Timelines Wiki) ===
 
@@ -64,7 +64,7 @@ Total so far: $300
 
 === Work on Donations list website (DLW) ===
 
-Total so far: $401.50
+Total so far: $412.90
 
 * Work on Donations list website in January: $75.23 (8 hours 51 minutes at $8.50/hour between January 10 and January 21)
 
@@ -77,6 +77,8 @@ Total so far: $401.50
 * Work on Donations list website in May: $69.92 (7 hours 22 minutes at $9.50/hour between May 1 and May 13)
 
 * Work on Donations list website in June: $14.06 (1 hour 29 minutes at $9.50/hour between June 20 and June 30)
+
+* Work on Donations list website in September: $11.40  (1 hour 12 minutes at $9.50/hour on September 18). Most of this is exploratory work related to graphical timelines and is recorded in the comments on https://github.com/vipulnaik/donations/issues/125
 
 === Work on learning subwiki ===
 
@@ -112,7 +114,7 @@ Total so far: $74.36
 
 === Work on Org Watch (OW) ===
 
-Total so far: $401.95
+Total so far: $402.74
 
 * Work on Org Watch in March: $106.24 (11 hours 11 minutes at $9.50/hour from March 17 to March 27)
 
@@ -120,11 +122,15 @@ Total so far: $401.95
 
 * Special data entry for Org Watch in June: $253.75 (total of 12 hours 15 minutes; first 10 hours at $22/hour and remaining time at $15/hour; work from June 23 to June 28): See https://github.com/riceissa/aiwatch/issues/18 for more work details
 
+* Work on Org Watch in July: $0.79 (5 minutes at $9.50/hour on July 5)
+
 === Work on AI Watch (AIW) ===
 
-Total so far: $109.06
+Total so far: $110.33
 
 * Work on AI Watch in May: $109.06 (11 hours 29 minutes at $9.50/hour from May 2 to May 22). Note that this may include some work on Org Watch; the time on the two was not separated but the bulk of the time was on AI Watch
+
+* Work on AI Watch in August: $1.27 (8 minutes at $9.50/hour on August 16)
 
 === Work on Wikipedia Views ===
 
@@ -134,6 +140,28 @@ Total so far: $41.74
 
 * Work on Wikipedia Views in June: $20.66 (2 hours 26 minutes at $8.50/hour on June 4 and June 5). The time is largely spent on some residual work for https://github.com/vipulnaik/wikipediaviews/issues/22
 
+=== Work on people watching ===
+
+Total so far: $350
+
+* People watching: $350 for 96 hours of work (12 working days of 8 hours each) over the time period of February 6, 2018 to October 23, 2019. The original payment agreement was 10 working days of 8 hours each at $35/day, but we increased it by 2 days in exchange for Vipul going out and collecting some information of potential interest to Issa.
+
+=== Work for Berkeley Existential Risk Initiative (BERI) ===
+
+Total so far: $593.85
+
+This is work done helping Future of Humanity Institute (FHI) with recruitment. Payment is from the Berkeley Existential Risk Initiative (BERI) via the BERI/FHI collaboration. The rate is $15/hour; this time does not qualify for additional stipend from Vipul.
+
+* July: $498.75 (33 hours 15 minutes at $15/hour)
+
+* August: $95.10 (6 hours 20 minutes at $15/hour)
+
+=== Prize from the EA Forum ===
+
+Total so far: $50
+
+* EA Forum Comment Prize: $50. Comment made at https://forum.effectivealtruism.org/posts/kFmFLcdSFKo2GFJkc/cause-x-guide#dqCy9FEuLDP25hw9a on September 1, 2019. A comment by Issa Rice on Joey''s post "Cause X Guide" on the Effective Altruism Forum wins a $50 comment prize awarded by the Centre for Effective Altruism (CEA); see https://forum.effectivealtruism.org/posts/AZyZ62FBJLGhzH8ni/ea-forum-prize-winners-for-september-2019 for the prize announcement
+
 === Other work ===
 
 Total so far: $30
@@ -142,7 +170,7 @@ Total so far: $30
 
 === Stipends ===
 
-Total so far: $1489.66
+Total so far: $1609.93
 
 * January: $194.38. Worked 22.03 hours against total work hours of 136, so pay scaled from original of $1200.
 
@@ -159,6 +187,10 @@ Total so far: $1489.66
 * July: $120.44. Worked 13.65 hours against total work hours of 136, so pay scaled from original of $1200.
 
 * August: $93.79. Worked 10.63 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* September: $32.21. Worked 3.65 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* October: $88.06. Worked 9.98 hours against total work hours of 136, so pay scaled from original of $1200.
 
 === Commissions ===
 
