@@ -156,6 +156,10 @@ Payments for expansions (amount proposed has been accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_The_Global_Fund_to_Fight_AIDS,_Tuberculosis_and_Malaria Timeline of The Global Fund to Fight AIDS, Tuberculosis and Malaria]: $7. Completed October 21, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_The_Global_Fund_to_Fight_AIDS%2C_Tuberculosis_and_Malaria&type=revision&diff=33988&oldid=33950 diff]. Increased from 30,230 bytes to 31,501 bytes; 2 rows added to full timeline (along with edits to existing rows)
 
+Payments for completed timelines (amount proposed not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Combined_timeline_of_malaria_organizations Combined timeline of malaria organizations] $400. Completed November 4, 2019. Completed version at https://timelines.issarice.com/index.php?title=Combined_timeline_of_malaria_organizations&oldid=34381 (2019-11-04 14:57 UTC, 65594 bytes, 20 rows and 5 columns). The payment amount is higher than normal for a timeline of this size; the reason for the greater payment is to compensate for the effort of trying out the new format, as well as for the related expansions of the timelines of the organizations done along with work on this combined timeline.
+
 === Stipends ===
 
 Total so far: $6560
