@@ -1,6 +1,6 @@
 create table payments(
   payment_id int(11) not null auto_increment primary key,
-  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo', 'Ethereum', 'Bitcoin','Direct deposit via Gusto') not null,
+  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo', 'Ethereum', 'Bitcoin','Direct deposit via Gusto', 'Direct deposit') not null,
   payee varchar(40) not null,
   intermediary varchar(40) default null,
   sent_date date NOT NULL,
@@ -97,6 +97,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Issa Rice',NULL,'2019-08-02','2019-08-02','2019-08-02','2019-08-02',4263.02,4263.02,0,4263.02,'We decided to try out PayPal to clear out the existing amount due, because the amount was large enough to be worth a transfer, but too small to be worth the overhead of a check. Fortunately, PayPal worked'),
   ('Direct deposit via Gusto','Issa Rice',NULL,'2019-08-13','2019-08-13','2019-08-13','2019-08-13',498.75,498.75,0,498.75,'Payment from Berkeley Existential Risk Initiative (BERI) for work done by Issa Rice in July 2019'),
   ('Direct deposit via Gusto','Issa Rice',NULL,'2019-09-11','2019-09-11','2019-09-11','2019-09-11',95.10,95.10,0,95.10,'Payment from Berkeley Existential Risk Initiative (BERI) for work done by Issa Rice in August 2019'),
+  ('Direct deposit','Issa Rice',NULL,'2019-11-15','2019-11-15','2019-11-15','2019-11-15',50,50,0,50,'Payment from Centre for Effective Altruism (CEA) for an EA Forum comment prize'),
 
   /* Orpheus Lummis */
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160,NULL),

@@ -1,6 +1,6 @@
 create table payer_payments(
   payment_id int(11) not null auto_increment primary key,
-  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo','Direct deposit via Gusto') not null,
+  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo','Ethereum','Bitcoin','Direct deposit via Gusto', 'Direct deposit') not null,
   payer varchar(40) not null,
   intermediary varchar(40) default null,
   sent_date date NOT NULL,
@@ -22,7 +22,10 @@ insert into payer_payments(payment_method, payer, sent_date, payment_notice_rece
   ('PayPal', 'Alex Flint', '2018-03-22', '2018-03-22', '2018-03-22', '2018-03-22', 150, 150, 0, 150),
   /* Berkeley Existential Risk Initiative payments */
   ('Direct deposit via Gusto', 'Berkeley Existential Risk Initiative', '2019-08-13', '2019-08-13', '2019-08-13', '2019-08-13', 498.75, 498.75, 0, 498.75),
-  ('Direct deposit via Gusto', 'Berkeley Existential Risk Initiative', '2019-09-11', '2019-09-11', '2019-09-11', '2019-09-11', 95.10, 95.10, 0, 95.10);
+  ('Direct deposit via Gusto', 'Berkeley Existential Risk Initiative', '2019-09-11', '2019-09-11', '2019-09-11', '2019-09-11', 95.10, 95.10, 0, 95.10),
+  /* Centre for Effective Altruism */
+  ('Direct deposit','Centre for Effective Altruism','2019-11-15', '2019-11-15', '2019-11-15', '2019-11-15', 50, 50, 0, 50);
+
 
 
 
