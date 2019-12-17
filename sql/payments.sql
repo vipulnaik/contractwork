@@ -45,6 +45,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Sebastian Sanchez',NULL,'2019-08-03','2019-08-03','2019-08-03','2019-08-03',-33.45,-35.30,-1.85,-33.45,'Payee returns money via PayPal after we determined that the PayPal transaction fees were too high for the PayPal transfer to be cost-effective'),
   ('Western Union','Sebastian Sanchez',NULL,'2019-08-11','2019-08-11','2019-08-12','2019-08-12',692.92,708,8,700,'Payee gets 31496.46 ARS. $692.92 is calculated as 31496.46 ARS at the exchange rate at the time of transfer (1 ARS = 0.022 USD)'),
   ('Western Union','Sebastian Sanchez',NULL,'2019-08-25','2019-08-25','2019-08-26','2019-08-26',4950,4970,20,4950,'Payee gets 271770.03 ARS. The exchange rate used by Western Union matches the market exchange rate at the time of transfer (1 USD = 54.63 ARS)'),
+  ('Western Union','Sebastian Sanchez',NULL,'2019-12-14','2019-12-14','2019-12-16','2019-12-16',4950,4990,40,4950,'Payee gets 354370.50 ARS. The exchange rate used by Western Union matches the "true" market exchange rate at the time of transfer (1 USD = 71.59 ARS)'),
 
   /* Ethan Bashkansky payments */
   ('Cash','Ethan Bashkansky','Issa Rice','2016-02-17','2016-02-17','2016-02-17','2016-02-17',115,115,0,115,NULL),
