@@ -16,13 +16,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2019 ==
 
-Total money earned as income: $18269
+Total money earned as income: $18969
 
 Forward balance carried over from 2018: ($3252.83)
 
 Payment made: $19549.47
 
-Net payment due: ($4443.30)
+Net payment due: ($3743.30)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
@@ -162,7 +162,7 @@ Total so far: $1345
 
 NOTE: Some of these tentative pending payments will eventually be moved to the 2020 section. I'm going to do that when finalizing the payments.
 
-Tentative payments for completed timelines (amount proposed not yet accepted):
+Tentative payments for completed timelines (amount proposed has been accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_food_and_nutrition_in_China Timeline of food and nutrition in China]: $270. Completed January 1, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_food_and_nutrition_in_China&oldid=35663 (2020-01-01 13:23 UTC, 54035 bytes, 120 rows in full timeline, 6 rows in big picture, 4 sample questions)
 
@@ -172,7 +172,7 @@ Tentative payments for completed timelines (amount proposed not yet accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Reliance_Industries_Limited Timeline of Reliance Industries Limited]: $240. Completed December 9, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Reliance_Industries_Limited&oldid=35199 (2019-12-09 19:47 UTC, 48373 bytes, 128 rows in full timeline, 4 and 7 rows respectively in two versions of the big picture, 5 sample questions)
 
-Tentative payments for expansions (amount proposed not yet accepted):
+Tentative payments for expansions (amount proposed has been accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation Timeline of Against Malaria Foundation]: $75. Completed December 7, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=35171 diff]. Increased from 55776 bytes to 67997 bytes. In addition to adding new rows, the changes also include the addition of a location column and redefinition of event types for more consistency with other timelines and with additional rows
 
@@ -180,7 +180,7 @@ Tentative payments for expansions (amount proposed not yet accepted):
 
 === Stipends ===
 
-Total so far: $7340
+Total so far: $8040
 
 From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours were spent on Timelines Wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
@@ -205,6 +205,8 @@ From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours w
 * October: $700. Worked 175 hours, but no work outside Timelines wiki.
 
 * November: $780. Worked 185 hours, including some time spent outside Timelines wiki.
+
+* December: $700. Worked 165 hours on Timelines wiki, and a number of hours on preparatory work for other projects that will start in 2020.
 
 === Payment schedule ===
 
