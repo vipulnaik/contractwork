@@ -120,7 +120,7 @@ Total so far: $9584
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Infosys Timeline of Infosys]: $180. Completed November 12, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Infosys&oldid=34595 (2019-11-12 18:30 UTC, 35809 bytes, 101 rows in full timeline, 4 rows in big picture)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Tumblr Timeline of Tumblr]: $160. Completed November 30, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Tumblr&oldid=35007 (2019-11-30 14:31 UTC, 71 rows in full timeline, 5 rows in big picture)
+* [https://timelines.issarice.com/wiki/Timeline_of_Tumblr Timeline of Tumblr]: $160. Completed November 30, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Tumblr&oldid=35007 (2019-11-30 14:31 UTC, 37233 bytes, 71 rows in full timeline, 5 rows in big picture)
 
 === Additions to existing pages (Timelines Wiki) ===
 
@@ -160,7 +160,23 @@ Total so far: $1345
 
 === Tentative pending payments ===
 
-None as of now!
+NOTE: Some of these tentative pending payments will eventually be moved to the 2020 section. I'm going to do that when finalizing the payments.
+
+Tentative payments for completed timelines (amount proposed not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_food_and_nutrition_in_China Timeline of food and nutrition in China]: $270. Completed January 1, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_food_and_nutrition_in_China&oldid=35663 (2020-01-01 13:23 UTC, 54035 bytes, 120 rows in full timeline, 6 rows in big picture, 4 sample questions)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Tata_Group Timeline of Tata Group]: $340. Completed December 12, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Tata_Group&oldid=35294 (2019-12-13 23:24 UTC, 74537 bytes, 172 rows in full timeline, 3 rows in big picture, 6 sample questions)
+
+* [https://timelines.issarice.com/wiki/Speculative_timeline_of_future_malaria_events Speculative timeline of future malaria events]: $120. Completed December 14, 2019. Completed version at https://timelines.issarice.com/index.php?title=Speculative_timeline_of_future_malaria_events&oldid=35348 (2019-12-14 16:58 UTC, 23858 bytes, 3 rows in big picture, 4 sample questions)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Reliance_Industries_Limited Timeline of Reliance Industries Limited]: $240. Completed December 9, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Reliance_Industries_Limited&oldid=35199 (2019-12-09 19:47 UTC, 48373 bytes, 128 rows in full timeline, 4 and 7 rows respectively in two versions of the big picture, 5 sample questions)
+
+Tentative payments for expansions (amount proposed not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation Timeline of Against Malaria Foundation]: $75. Completed December 7, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=35171 diff]. Increased from 55776 bytes to 67997 bytes. In addition to adding new rows, the changes also include the addition of a location column and redefinition of event types for more consistency with other timelines and with additional rows
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Animal_Charity_Evaluators Timeline of Animal Charity Evaluators]: $90. Completed December 7, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Animal_Charity_Evaluators&type=revision&diff=35161&oldid=25570 diff]. Increased from 24906 bytes to 40101 bytes. In addition to adding new rows, the changes also include 4 sample questions and redefinition of event types for more consistency with other timelines and with additional rows
 
 === Stipends ===
 
