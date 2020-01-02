@@ -40,15 +40,31 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 * People at one of the orgs whose page Issa created offered to buy him drinks if he ever visited their location (note that they did not inappropriately influence the content of the page, beyond pointing to existing references and correcting errors backed by verifiable citations).
 
+== Work and other compensation in 2020 ==
+
+Total money earned as income (taxable as income for 2020): $0
+
+Payment made: $1460.13
+
+Carryover payment due from 2019: $1460.13
+
+Net payment due: $0
+
+=== Payments made ===
+
+Total so far: $1460.13
+
+* $1460.13 via PayPal on January 1, 2020 (from Vipul Naik)
+
 == Work and other compensation in 2019 ==
 
-Total money earned as income (taxable as income for 2019): $4147.66
+Total money earned as income (taxable as income for 2019): $5030.27
 
 Payment made: $4906.87
 
 Carryover pament due from 2018: 1336.73
 
-Net payment due: $577.52
+Net payment due: 1460.13
 
 === Updates to existing pages (Timelines Wiki) ===
 
@@ -58,13 +74,17 @@ Total so far: $27
 
 === Other work on Timelines Wiki ===
 
-Total so far: $300
+Total so far: $665
 
 * One year of maintenance of Timelines Wiki: $300. Completed as of March 20, 2019. This includes $20/month for hosting and maintenance, plus an additional $60 ($5/month) to cover regular maintenance.
 
+* A round of work on main page table upgrades: $125. Work done between November 28 and November 30, 2019. Rate determined as max($125, 5.05 hours * $8.50). Issues include https://github.com/riceissa/timelines-wiki-main-page-table/issues/3 https://github.com/riceissa/timelines-wiki-main-page-table/issues/4 and https://github.com/riceissa/timelines-wiki-main-page-table/issues/5
+
+* 9.5 months of timelines wiki maintenance: $240. $20/month for 9 months for baseline maintenance, $5/month for main page updates, and $15 extra to cover the half month.
+
 === Work on Donations list website (DLW) ===
 
-Total so far: $412.90
+Total so far: $421.74
 
 * Work on Donations list website in January: $75.23 (8 hours 51 minutes at $8.50/hour between January 10 and January 21)
 
@@ -78,7 +98,9 @@ Total so far: $412.90
 
 * Work on Donations list website in June: $14.06 (1 hour 29 minutes at $9.50/hour between June 20 and June 30)
 
-* Work on Donations list website in September: $11.40  (1 hour 12 minutes at $9.50/hour on September 18). Most of this is exploratory work related to graphical timelines and is recorded in the comments on https://github.com/vipulnaik/donations/issues/125
+* Work on Donations list website in September: $11.40 (1 hour 12 minutes at $9.50/hour on September 18). Most of this is exploratory work related to graphical timelines and is recorded in the comments on https://github.com/vipulnaik/donations/issues/125
+
+* Work on Donations list website in December: $8.84 (56 minutes at $9.50.hour on December 19). Work on https://github.com/vipulnaik/donations/issues/126
 
 === Work on learning subwiki ===
 
@@ -146,6 +168,12 @@ Total so far: $350
 
 * People watching: $350 for 96 hours of work (12 working days of 8 hours each) over the time period of February 6, 2018 to October 23, 2019. The original payment agreement was 10 working days of 8 hours each at $35/day, but we increased it by 2 days in exchange for Vipul going out and collecting some information of potential interest to Issa.
 
+=== Work on Cause Prioritization Wiki ===
+
+Total so far: $46.51
+
+* Reimbursement for renewing three auxiliary domains for Cause Prioritization Wiki: $46.51. Renewal purchased November 11, 2019. Details: $15.17 - causeprioritization.com, $15.17 - causeprioritisation.com, $16.17 - causeprioritisation.org (.org domains cost an extra dollar). Issa shouldered the $16.17 cost of renewing the main domain causeprioritization.org himself
+
 === Work for Berkeley Existential Risk Initiative (BERI) ===
 
 Total so far: $593.85
@@ -162,15 +190,23 @@ Total so far: $50
 
 * EA Forum Comment Prize: $50. Comment made at https://forum.effectivealtruism.org/posts/kFmFLcdSFKo2GFJkc/cause-x-guide#dqCy9FEuLDP25hw9a on September 1, 2019. A comment by Issa Rice on Joey''s post "Cause X Guide" on the Effective Altruism Forum wins a $50 comment prize awarded by the Centre for Effective Altruism (CEA); see https://forum.effectivealtruism.org/posts/AZyZ62FBJLGhzH8ni/ea-forum-prize-winners-for-september-2019 for the prize announcement
 
+=== Work on analytics.vipulnaik.com ===
+
+Total so far: $175
+
+* Work on a number of issues related to analytics.vipulnaik.com: $175. Work done from October 25 to December 15, 2019. The work was on issues https://github.com/riceissa/analytics-table/issues/2 https://github.com/riceissa/analytics-table/issues/3 https://github.com/riceissa/analytics-table/issues/4 https://github.com/riceissa/analytics-table/issues/5 and https://github.com/riceissa/analytics-table/issues/6 of which the bulk of effort was on the last issue; this makes available the top viewed pages by month for each site. Payment calculated as max($175, 20.10 hours * $8.50/hour).
+
 === Other work ===
 
-Total so far: $30
+Total so far: $135
 
 * Fact-finding mission for search.gov: $30 (3 hours at $10/hour on July 13). Output in private location (for now)
 
+* Automatic Wikipedia backup download: $105. Payment for maintaining the process that does daily backups of Wikipedia content, at $2/week for 52 weeks, from 2019-01-01 to 2019-12-31, with an extra dollar because of the extra day beyond 52 weeks
+
 === Stipends ===
 
-Total so far: $1609.93
+Total so far: $1792.19
 
 * January: $194.38. Worked 22.03 hours against total work hours of 136, so pay scaled from original of $1200.
 
@@ -191,6 +227,10 @@ Total so far: $1609.93
 * September: $32.21. Worked 3.65 hours against total work hours of 136, so pay scaled from original of $1200.
 
 * October: $88.06. Worked 9.98 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* November: $94.24. Worked 10.68 hours against total work hours of 136, so pay scaled from original of $1200.
+
+* December: $88.02. Worked 9.78 hours at $9/hour.
 
 === Commissions ===
 
