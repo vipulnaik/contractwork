@@ -17,8 +17,11 @@ $grandTotal = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select format, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where worker=".'"'.str_replace('"','\"',$worker).'"'." group by format, year(completion_date);";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$taskSelectQuery = "select format, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where worker=? group by format, year(completion_date);";
+$stmt = $mysqli->prepare($taskSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   if (!isset($paymentForTaskFormatAndYear[$row['format']])) {

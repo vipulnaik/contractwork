@@ -1,6 +1,9 @@
 <?php
-$workerSelectQuery = "select * from workers where worker=".'"'.str_replace('"','\"',$worker).'"'." and private = false;";
-$workerSelectResult = $mysqli -> query($workerSelectQuery);
+$workerSelectQuery = "select * from workers where worker=? and private = false;";
+$stmt = $mysqli->prepare($workerSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$workerSelectResult = $stmt->get_result();
 $row = $workerSelectResult -> fetch_assoc();
 
 print '<h4 id="workerInfo">Basic worker information</h4>';

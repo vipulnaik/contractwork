@@ -26,8 +26,11 @@ foreach ($monthList as $month) {
 
 # Get task payments
 
-$taskSelectQuery = "select year(completion_date) as year,month(completion_date) as month, coalesce(sum(payment), 0) as payment from tasks where worker=".'"'.str_replace('"','\"',$worker).'"'." group by year(completion_date), month(completion_date);";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$taskSelectQuery = "select year(completion_date) as year,month(completion_date) as month, coalesce(sum(payment), 0) as payment from tasks where worker=? group by year(completion_date), month(completion_date);";
+$stmt = $mysqli->prepare($taskSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   $taskPayment[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];

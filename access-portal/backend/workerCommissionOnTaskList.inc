@@ -2,9 +2,12 @@
 
 $earnerList = array();
 
-$commissionOnTaskByEarnerSelectQuery = "select earner, commission, commission_reason, commission_validity_start, commission_validity_end, coalesce(sum(originalPayment), 0) as originalPayment, coalesce(sum(payment), 0) as payment from (select earner, commission_receiver, completion_date, commission, commission_reason, commission_validity_start, commission_validity_end, payment as originalPayment, (commission * payment) as payment from commissions left join tasks on commissions.earner = tasks.worker where (commission_validity_start is null or tasks.completion_date >= commission_validity_start) and (commission_validity_end is null or tasks.completion_date <= commission_validity_end)) t1 where commission_receiver=".'"'.str_replace('"','\"',$worker).'"'." group by earner, commission, commission_reason, commission_validity_start, commission_validity_end order by coalesce(sum(payment), 0) desc;";
+$commissionOnTaskByEarnerSelectQuery = "select earner, commission, commission_reason, commission_validity_start, commission_validity_end, coalesce(sum(originalPayment), 0) as originalPayment, coalesce(sum(payment), 0) as payment from (select earner, commission_receiver, completion_date, commission, commission_reason, commission_validity_start, commission_validity_end, payment as originalPayment, (commission * payment) as payment from commissions left join tasks on commissions.earner = tasks.worker where (commission_validity_start is null or tasks.completion_date >= commission_validity_start) and (commission_validity_end is null or tasks.completion_date <= commission_validity_end)) t1 where commission_receiver=? group by earner, commission, commission_reason, commission_validity_start, commission_validity_end order by coalesce(sum(payment), 0) desc;";
 
-$commissionOnTaskByEarnerSelectResult = $mysqli -> query($commissionOnTaskByEarnerSelectQuery);
+$stmt = $mysqli->prepare($commissionOnTaskByEarnerSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$commissionOnTaskByEarnerSelectResult = $stmt->get_result();
 
 print '<h4 id="workerCommissionOnTaskList">Commissions on tasks: breakdown by earner</h4>'."\n";
 print "\n";
