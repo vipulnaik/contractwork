@@ -3,8 +3,12 @@
 print '<h4 id="formatImpact">Format impact: Wikipedia</h4>';
 
 $paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where $formatRegexMatcher and task_type in ('Wikipedia page creation','Wikipedia page translation')) and drilldown in ('desktop','mobile-web','mobile-app');";
- 
-$paidViewsResult = $mysqli -> query($paidViewsQuery);
+$stmt = $mysqli->prepare($paidViewsQuery);
+if ($formatRegexMatcherParams) {
+  $stmt->bind_param($formatRegexMatcherParamStr, ...$formatRegexMatcherParams);
+}
+$stmt->execute();
+$paidViewsResult = $stmt->get_result();
 
 $paidViewCount = 0;
 if ($paidViewsResult -> num_rows > 0) {
@@ -13,8 +17,12 @@ if ($paidViewsResult -> num_rows > 0) {
 }
 
 $paidCreatedOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where $formatRegexMatcher and task_type in ('Wikipedia page creation','Wikipedia page translation','Wikipedia page update')) and drilldown in ('desktop', 'mobile-web', 'mobile-app');";
-
-$paidCreatedOrEditedPageViewsResult = $mysqli -> query($paidCreatedOrEditedPageViewsQuery);
+$stmt = $mysqli->prepare($paidCreatedOrEditedPageViewsQuery);
+if ($formatRegexMatcherParams) {
+  $stmt->bind_param($formatRegexMatcherParamStr, ...$formatRegexMatcherParams);
+}
+$stmt->execute();
+$paidCreatedOrEditedPageViewsResult = $stmt->get_result();
 
 $paidCreatedOrEditedPageViewCount = 0;
 if ($paidCreatedOrEditedPageViewsResult -> num_rows > 0) {
