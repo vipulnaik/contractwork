@@ -12,8 +12,12 @@ $topic = '';
 if (!empty($_REQUEST['topic'])) {
   $topic = $_REQUEST['topic'];
 }
+$topicRegexMatcherParamStr = "";
+$topicRegexMatcherParams = array();
 if ($topic != '') {
-  $topicRegexMatcher = '`topic` REGEXP "'.str_replace('"','\"',$topic).'"';
+  $topicRegexMatcher = '`topic` REGEXP ?';
+  $topicRegexMatcherParamStr .= "s";
+  $topicRegexMatcherParams[] = $topic;
   print "<title>$topic topic work details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';
@@ -29,7 +33,12 @@ if ($topic != '') {
 }
 
 $taskSelectQuery = "select * from tasks where $topicRegexMatcher and private = false;";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$stmt = $mysqli->prepare($taskSelectQuery);
+if ($topicRegexMatcherParams) {
+  $stmt->bind_param($topicRegexMatcherParamStr, ...$topicRegexMatcherParams);
+}
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 if ($taskSelectResult -> num_rows == 0) {
   print "<p>We could not find any tasks with a matching topic.</p>";
 } else {
