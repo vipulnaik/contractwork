@@ -17,8 +17,11 @@ $grandTotal = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select task_venue, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where payer='$payer' group by task_venue, year(completion_date);";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$taskSelectQuery = "select task_venue, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where payer=? group by task_venue, year(completion_date);";
+$stmt = $mysqli->prepare($taskSelectQuery);
+$stmt->bind_param("s", $payer);
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   $paymentForTaskVenueAndYear[$row['task_venue']][$row['year']] = $row['payment'];

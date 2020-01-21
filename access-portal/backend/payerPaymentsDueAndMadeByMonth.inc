@@ -16,8 +16,11 @@ foreach ($monthList as $month) {
 
 # Get payments
 
-$paymentSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(payment), 0) as payment from payer_payments where payer=".'"'.str_replace('"','\"',$payer).'"'." and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
-$paymentSelectResult = $mysqli -> query($paymentSelectQuery);
+$paymentSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(payment), 0) as payment from payer_payments where payer=? and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
+$stmt = $mysqli->prepare($paymentSelectQuery);
+$stmt->bind_param("s", $payer);
+$stmt->execute();
+$paymentSelectResult = $stmt->get_result();
 for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
   $paymentMadeInMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];

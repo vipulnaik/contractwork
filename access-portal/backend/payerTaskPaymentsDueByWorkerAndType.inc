@@ -30,8 +30,11 @@ $totalTaskPayment = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select task_type, worker, coalesce(sum(payment), 0) as payment from tasks where payer = \"".str_replace('"','\"',$payer)."\" group by task_type, worker;";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$taskSelectQuery = "select task_type, worker, coalesce(sum(payment), 0) as payment from tasks where payer = ? group by task_type, worker;";
+$stmt = $mysqli->prepare($taskSelectQuery);
+$stmt->bind_param("s", $payer);
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   $paymentForTaskTypeAndWorker[$row['task_type']][$row['worker']] = $row['payment'];

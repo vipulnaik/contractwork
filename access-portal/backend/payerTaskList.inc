@@ -1,7 +1,10 @@
 <?php
 
-$payerTaskSelectQuery = "select * from tasks where payer='$payer' and private = false order by completion_date desc";
-$payerTaskSelectResult = $mysqli -> query($payerTaskSelectQuery);
+$payerTaskSelectQuery = "select * from tasks where payer=? and private = false order by completion_date desc";
+$stmt = $mysqli->prepare($payerTaskSelectQuery);
+$stmt->bind_param("s", $payer);
+$stmt->execute();
+$payerTaskSelectResult = $stmt->get_result();
 print '<h4 id="payerTaskList">Full list of tasks in reverse chronological order ('.($payerTaskSelectResult -> num_rows).' tasks)</h4>';
 print "\n";
 print '<table id="myTablePayerTaskList" class="tablesorter">'."\n";

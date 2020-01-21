@@ -1,7 +1,10 @@
 <?php
 
-$payerPaymentSelectQuery = "select * from payer_payments where payer=".'"'.str_replace('"','\"',$payer).'"'." and receipt_date is not null order by receipt_date desc";
-$payerPaymentSelectResult = $mysqli -> query($payerPaymentSelectQuery);
+$payerPaymentSelectQuery = "select * from payer_payments where payer=? and receipt_date is not null order by receipt_date desc";
+$stmt = $mysqli->prepare($payerPaymentSelectQuery);
+$stmt->bind_param("s", $payer);
+$stmt->execute();
+$payerPaymentSelectResult = $stmt->get_result();
 print '<h4>Full list of sent payments in reverse chronological order ('.($payerPaymentSelectResult -> num_rows).' payments)</h4>';
 print "\n";
 print '<table id="myTablePayerPaymentList" class="tablesorter">'."\n";
