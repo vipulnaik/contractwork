@@ -1,7 +1,12 @@
 <?php
 
 $venueTaskSelectQuery = "select * from tasks where $venueRegexMatcher and private = false order by completion_date desc";
-$venueTaskSelectResult = $mysqli -> query($venueTaskSelectQuery);
+$stmt = $mysqli->prepare($venueTaskSelectQuery);
+if ($venueRegexMatcherParams) {
+  $stmt->bind_param($venueRegexMatcherParamStr, ...$venueRegexMatcherParams);
+}
+$stmt->execute();
+$venueTaskSelectResult = $stmt->get_result();
 print '<h4 id="venueTaskList">Full list of tasks in reverse chronological order ('.($venueTaskSelectResult -> num_rows).' tasks)</h4>';
 print "\n";
 print '<table id="myTableVenueTaskList" class="tablesorter">'."\n";

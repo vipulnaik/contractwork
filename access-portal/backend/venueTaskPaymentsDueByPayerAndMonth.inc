@@ -3,7 +3,12 @@ print "<h4 id=\"venueTaskPaymentsDueByPayerAndMonth\">Task payments due for task
 
 $payerList = array();
 $payerSelectQuery = "select distinct payer from tasks where $venueRegexMatcher;";
-$payerSelectResult = $mysqli -> query($payerSelectQuery);
+$stmt = $mysqli->prepare($payerSelectQuery);
+if ($venueRegexMatcherParams) {
+  $stmt->bind_param($venueRegexMatcherParamStr, ...$venueRegexMatcherParams);
+}
+$stmt->execute();
+$payerSelectResult = $stmt->get_result();
 
 for($i=0;$i < $payerSelectResult -> num_rows; $i++) {
   $row = $payerSelectResult -> fetch_assoc();
@@ -28,7 +33,12 @@ $totalTaskPayment = 0;
 # Get task payments
 
 $taskSelectQuery = "select payer, year(completion_date) as year,month(completion_date) as month, coalesce(sum(payment), 0) as payment from tasks where $venueRegexMatcher group by payer, year(completion_date), month(completion_date);";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$stmt = $mysqli->prepare($taskSelectQuery);
+if ($venueRegexMatcherParams) {
+  $stmt->bind_param($venueRegexMatcherParamStr, ...$venueRegexMatcherParams);
+}
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   if (!isset($paymentForPayerAndMonth[$row['payer']])) {
