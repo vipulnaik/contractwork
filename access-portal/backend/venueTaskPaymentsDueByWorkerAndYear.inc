@@ -3,12 +3,7 @@ print "<h4 id=\"venueTaskPaymentsDueByWorkerAndYear\">Task payments due for task
 
 $workerList = array();
 $workerSelectQuery = "select distinct worker from workers where private = false;";
-$stmt = $mysqli->prepare($workerSelectQuery);
-if ($venueRegexMatcherParams) {
-  $stmt->bind_param($venueRegexMatcherParamStr, ...$venueRegexMatcherParams);
-}
-$stmt->execute();
-$workerSelectResult = $stmt->get_result();
+$workerSelectResult = $mysqli->query($workerSelectQuery);
 
 for($i=0;$i < $workerSelectResult -> num_rows; $i++) {
   $row = $workerSelectResult -> fetch_assoc();
