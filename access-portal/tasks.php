@@ -23,12 +23,23 @@ if (!empty($_REQUEST['receptacle_url'])) {
   $titleExtras .= "receptable_url $receptacle_url";
 }
 $filterQuery = "";
+$filterQueryParamStr = "";
+$filterQueryParams = array();
 if ($receptacle != "" && $receptacle_url != "") {
-  $filterQuery = "task_receptacle $matchingMethod \"".str_replace('"','\"',$receptacle)."\" and task_receptacle_url $matchingMethod \"".str_replace('"','\"',$receptacle_url)."\"";
+  // $matchingMethod is chosen from a fixed list of possibilities ("=" or
+  // "REGEXP") so does not need to be escaped.
+  $filterQuery = "task_receptacle $matchingMethod ? and task_receptacle_url $matchingMethod ?";
+  $filterQueryParamStr .= "ss";
+  $filterQueryParams[] = $receptacle;
+  $filterQueryParams[] = $receptacle_url;
 } else if ($receptacle != "") {
-  $filterQuery = "task_receptacle $matchingMethod \"".str_replace('"','\"',$receptacle)."\"";
+  $filterQuery = "task_receptacle $matchingMethod ?";
+  $filterQueryParamStr .= "s";
+  $filterQueryParams[] = $receptacle;
 } else if ($receptacle_url != "") {
-  $filterQuery = "task_receptacle_url $matchingMethod \"".str_replace('"','\"',$receptacle_url)."\"";
+  $filterQuery = "task_receptacle_url $matchingMethod ?";
+  $filterQueryParamStr .= "s";
+  $filterQueryParams[] = $receptacle_url;
 }
 
 include_once('analytics.inc');

@@ -1,7 +1,12 @@
 <?php
 
 $taskSelectQuery = "select * from tasks where $filterQuery and private = false order by completion_date desc";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$stmt = $mysqli->prepare($taskSelectQuery);
+if ($filterQueryParams) {
+  $stmt->bind_param($filterQueryParamStr, ...$filterQueryParams);
+}
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 print '<h4 id="filteredTaskList">Full list of tasks in reverse chronological order ('.($taskSelectResult -> num_rows).' tasks)</h4>';
 print "\n";
 print '<table id="myTableFilteredTaskList" class="tablesorter">'."\n";
