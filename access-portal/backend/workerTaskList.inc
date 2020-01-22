@@ -1,7 +1,10 @@
 <?php
 
-$workerTaskSelectQuery = "select * from tasks where worker=".'"'.str_replace('"','\"',$worker).'"'." and private = false order by completion_date desc";
-$workerTaskSelectResult = $mysqli -> query($workerTaskSelectQuery);
+$workerTaskSelectQuery = "select * from tasks where worker=? and private = false order by completion_date desc";
+$stmt = $mysqli->prepare($workerTaskSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$workerTaskSelectResult = $stmt->get_result();
 print '<h4 id="workerTaskList">Full list of tasks in reverse chronological order ('.($workerTaskSelectResult -> num_rows).' tasks)</h4>';
 print "\n";
 print '<table id="myTableWorkerTaskList" class="tablesorter">'."\n";

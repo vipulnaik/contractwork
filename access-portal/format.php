@@ -13,8 +13,12 @@ $format = '';
 if (!empty($_REQUEST['format'])) {
   $format = $_REQUEST['format'];
 }
+$formatRegexMatcherParamStr = "";
+$formatRegexMatcherParams = array();
 if ($format != '') {
-  $formatRegexMatcher = '`format` REGEXP "'.str_replace('"','\"',$format).'"';
+  $formatRegexMatcher = '`format` REGEXP ?';
+  $formatRegexMatcherParamStr .= "s";
+  $formatRegexMatcherParams[] = $format;
   print "<title>$format format work details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';
@@ -30,7 +34,12 @@ if ($format != '') {
 }
 
 $taskSelectQuery = "select * from tasks where $formatRegexMatcher and private = false;";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$stmt = $mysqli->prepare($taskSelectQuery);
+if ($formatRegexMatcherParams) {
+  $stmt->bind_param($formatRegexMatcherParamStr, ...$formatRegexMatcherParams);
+}
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 if ($taskSelectResult -> num_rows == 0) {
   print "<p>We could not find any tasks with a matching format.</p>";
 } else {

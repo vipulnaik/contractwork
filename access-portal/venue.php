@@ -20,8 +20,12 @@ if (!empty($_REQUEST['matching'])) {
     $matchingMethod = "=";
   }
 }
+$venueRegexMatcherParamStr = "";
+$venueRegexMatcherParams = array();
 if ($venue != '') {
-  $venueRegexMatcher = '`task_venue` '.$matchingMethod.' "'.str_replace('"','\"',$venue).'"';
+  $venueRegexMatcher = "`task_venue` $matchingMethod ?";
+  $venueRegexMatcherParamStr .= "s";
+  $venueRegexMatcherParams[] = $venue;
   print "<title>$venue venue work details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';
@@ -37,7 +41,12 @@ if ($venue != '') {
 }
 
 $taskSelectQuery = "select * from tasks where $venueRegexMatcher and private = false;";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$stmt = $mysqli->prepare($taskSelectQuery);
+if ($venueRegexMatcherParams) {
+  $stmt->bind_param($venueRegexMatcherParamStr, ...$venueRegexMatcherParams);
+}
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 if ($taskSelectResult -> num_rows == 0) {
   print "<p>We could not find any tasks with a matching venue.</p>";
 } else {

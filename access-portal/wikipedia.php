@@ -16,8 +16,11 @@ print "\n! Page !! Creator (if paid) !! Contributors (if paid) !! Connected cont
 
 function getWikipediaUsername($worker) {
   global $mysqli;
-  $sqlQuery = "select wikipedia_username from workers where worker=".'"'.str_replace('"','\"',$worker).'"'."";
-  $sqlResult = $mysqli -> query($sqlQuery);
+  $sqlQuery = "select wikipedia_username from workers where worker=?";
+  $stmt = $mysqli->prepare($sqlQuery);
+  $stmt->bind_param("s", $worker);
+  $stmt->execute();
+  $sqlResult = $stmt->get_result();
   for ($i = 0; $i < $sqlResult -> num_rows; $i++) {
     $sqlRow = $sqlResult -> fetch_assoc();
     return $sqlRow['wikipedia_username'];
@@ -33,8 +36,11 @@ for($i = 0; $i < $pageSelectResult -> num_rows; $i++) {
   $pageRow = $pageSelectResult -> fetch_assoc();
   $page = $pageRow["task_receptacle"];
   print "\n|-\n| [[$page]] ";
-  $pageDataQuery = "select * from tasks where task_receptacle=\"$page\" and task_type REGEXP 'Wikipedia' and task_type != 'Attempted Wikipedia work';";
-  $pageDataResult = $mysqli -> query($pageDataQuery);
+  $pageDataQuery = "select * from tasks where task_receptacle=? and task_type REGEXP 'Wikipedia' and task_type != 'Attempted Wikipedia work';";
+  $stmt = $mysqli->prepare($pageDataQuery);
+  $stmt->bind_param("s", $page);
+  $stmt->execute();
+  $pageDataResult = $stmt->get_result();
   $creator = '';
   $contributors = array();
   for($j = 0; $j < $pageDataResult -> num_rows; $j++) {

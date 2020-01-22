@@ -1,8 +1,11 @@
 <?php
 
-$royaltySelectQuery = "select * from royalties where payee=".'"'.str_replace('"','\"',$worker).'"'." order by royalty_end_date desc";
+$royaltySelectQuery = "select * from royalties where payee=? order by royalty_end_date desc";
 
-$royaltySelectResult = $mysqli -> query($royaltySelectQuery);
+$stmt = $mysqli->prepare($royaltySelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$royaltySelectResult = $stmt->get_result();
 
 print '<h4 id="workerRoyaltyList">Full list of royalties in reverse chronological order ('.($royaltySelectResult -> num_rows).' entries)</h4>'."\n";
 print "\n";

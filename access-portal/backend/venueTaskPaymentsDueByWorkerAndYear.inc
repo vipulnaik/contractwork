@@ -3,7 +3,7 @@ print "<h4 id=\"venueTaskPaymentsDueByWorkerAndYear\">Task payments due for task
 
 $workerList = array();
 $workerSelectQuery = "select distinct worker from workers where private = false;";
-$workerSelectResult = $mysqli -> query($workerSelectQuery);
+$workerSelectResult = $mysqli->query($workerSelectQuery);
 
 for($i=0;$i < $workerSelectResult -> num_rows; $i++) {
   $row = $workerSelectResult -> fetch_assoc();
@@ -20,7 +20,12 @@ $grandTotal = 0;
 # Get task payments
 
 $taskSelectQuery = "select worker, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where $venueRegexMatcher group by worker, year(completion_date);";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$stmt = $mysqli->prepare($taskSelectQuery);
+if ($venueRegexMatcherParams) {
+  $stmt->bind_param($venueRegexMatcherParamStr, ...$venueRegexMatcherParams);
+}
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   if (!isset($paymentForWorkerAndYear[$row['worker']])) {

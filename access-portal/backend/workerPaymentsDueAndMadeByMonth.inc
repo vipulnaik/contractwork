@@ -19,8 +19,11 @@ foreach ($monthList as $month) {
 
 # Get payments
 
-$paymentSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(payment), 0) as payment from payments where payee=".'"'.str_replace('"','\"',$worker).'"'." and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
-$paymentSelectResult = $mysqli -> query($paymentSelectQuery);
+$paymentSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(payment), 0) as payment from payments where payee=? and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
+$stmt = $mysqli->prepare($paymentSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$paymentSelectResult = $stmt->get_result();
 for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
   $paymentMadeInMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
@@ -28,8 +31,11 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $cumulativePaymentMadeTillMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $cumulativePaymentMadeSoFar;
 }
 
-$reimbursementSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(sent_payment), 0) as payment from payments where intermediary=".'"'.str_replace('"','\"',$worker).'"'." and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
-$reimbursementSelectResult = $mysqli -> query($reimbursementSelectQuery);
+$reimbursementSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(sent_payment), 0) as payment from payments where intermediary=? and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
+$stmt = $mysqli->prepare($reimbursementSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$reimbursementSelectResult = $stmt->get_result();
 for ($i=0; $i < $reimbursementSelectResult -> num_rows; $i++) {
   $row = $reimbursementSelectResult -> fetch_assoc();
   $reimbursementDueInMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];

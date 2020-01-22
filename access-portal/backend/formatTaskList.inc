@@ -1,7 +1,12 @@
 <?php
 
 $formatTaskSelectQuery = "select * from tasks where $formatRegexMatcher and private = false order by completion_date desc";
-$formatTaskSelectResult = $mysqli -> query($formatTaskSelectQuery);
+$stmt = $mysqli->prepare($formatTaskSelectQuery);
+if ($formatRegexMatcherParams) {
+  $stmt->bind_param($formatRegexMatcherParamStr, ...$formatRegexMatcherParams);
+}
+$stmt->execute();
+$formatTaskSelectResult = $stmt->get_result();
 print '<h4 id="formatTaskList">Full list of tasks in reverse chronological order ('.($formatTaskSelectResult -> num_rows).' tasks)</h4>';
 print "\n";
 print '<table id="myTableFormatTaskList" class="tablesorter">'."\n";

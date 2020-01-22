@@ -1,7 +1,12 @@
 <?php
 
 $topicTaskSelectQuery = "select * from tasks where $topicRegexMatcher and private = false order by completion_date desc";
-$topicTaskSelectResult = $mysqli -> query($topicTaskSelectQuery);
+$stmt = $mysqli->prepare($topicTaskSelectQuery);
+if ($topicRegexMatcherParams) {
+  $stmt->bind_param($topicRegexMatcherParamStr, ...$topicRegexMatcherParams);
+}
+$stmt->execute();
+$topicTaskSelectResult = $stmt->get_result();
 print '<h4 id="topicTaskList">Full list of tasks in reverse chronological order ('.($topicTaskSelectResult -> num_rows).' tasks)</h4>';
 print "\n";
 print '<table id="myTableTopicTaskList" class="tablesorter">'."\n";

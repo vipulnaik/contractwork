@@ -1,8 +1,11 @@
 <?php
 
-$stipendSelectQuery = "select * from stipends where payee=".'"'.str_replace('"','\"',$worker).'"'." and stipend_award_date is null order by stipend_end_date desc";
+$stipendSelectQuery = "select * from stipends where payee=? and stipend_award_date is null order by stipend_end_date desc";
 
-$stipendSelectResult = $mysqli -> query($stipendSelectQuery);
+$stmt = $mysqli->prepare($stipendSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$stipendSelectResult = $stmt->get_result();
 
 print '<h4 id="workerDeferredStipendList">Full list of deferred stipends in reverse chronological order ('.($stipendSelectResult -> num_rows).' entries)</h4>';
 print "\n";

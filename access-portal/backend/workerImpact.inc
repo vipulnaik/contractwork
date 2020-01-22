@@ -2,9 +2,11 @@
 
 print '<h4 id="workerImpact">Worker impact: Wikipedia</h4>';
 
-$totalViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = ".'"'."Pages created by ".str_replace('"','\"',$worker).'"'.") and drilldown in ('desktop','mobile-web','mobile-app');";
-
-$totalViewsResult = $mysqli -> query($totalViewsQuery);
+$totalViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = ?) and drilldown in ('desktop','mobile-web','mobile-app');";
+$stmt = $mysqli->prepare($totalViewsQuery);
+$stmt->bind_param("s", "Pages created by $worker");
+$stmt->execute();
+$totalViewsResult = $stmt->get_result();
 
 $totalViewCount = 0;
 if ($totalViewsResult -> num_rows > 0) {
@@ -12,9 +14,10 @@ if ($totalViewsResult -> num_rows > 0) {
   $totalViewCount = $row['totalViews'];
 }
 
-$createdOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = ".'"'."Pages edited significantly but not created by ".str_replace('"','\"',$worker).'"'." or tag = ".'"'."Pages created by ".str_replace('"','\"',$worker).'"'.") and drilldown in ('desktop','mobile-web','mobile-app')";
-
-$createdOrEditedPageViewsResult = $mysqli -> query($createdOrEditedPageViewsQuery);
+$createdOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename, language) in (select distinct pagename, language from wikipediaviews.pagetags where tag = ? or tag = ?) and drilldown in ('desktop','mobile-web','mobile-app')";
+$stmt = $mysqli->prepare($createdOrEditedPageViewsQuery);
+$stmt->bind_param("ss", "Pages edited significantly but not created by $worker", "Pages created by $worker");
+$createdOrEditedPageViewsResult = $stmt->get_result();
 
 $createdOrEditedPageViewCount = 0;
 if ($createdOrEditedPageViewsResult -> num_rows > 0) {
@@ -22,9 +25,11 @@ if ($createdOrEditedPageViewsResult -> num_rows > 0) {
   $createdOrEditedPageViewCount = $row['totalViews'];
 }
 
-$paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where worker=".'"'.str_replace('"','\"',$worker).'"'." and task_type in ('Wikipedia page creation','Wikipedia page translation')) and drilldown in ('desktop','mobile-web','mobile-app');";
- 
-$paidViewsResult = $mysqli -> query($paidViewsQuery);
+$paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where worker=? and task_type in ('Wikipedia page creation','Wikipedia page translation')) and drilldown in ('desktop','mobile-web','mobile-app');";
+$stmt = $mysqli->prepare($paidViewsQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$paidViewsResult = $stmt->get_result();
 
 $paidViewCount = 0;
 if ($paidViewsResult -> num_rows > 0) {
@@ -32,9 +37,11 @@ if ($paidViewsResult -> num_rows > 0) {
   $paidViewCount = $row['totalViews'];
 }
 
-$paidCreatedOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where worker=".'"'.str_replace('"','\"',$worker).'"'." and task_type in ('Wikipedia page creation','Wikipedia page translation','Wikipedia page update')) and drilldown in ('desktop', 'mobile-web', 'mobile-app');";
-
-$paidCreatedOrEditedPageViewsResult = $mysqli -> query($paidCreatedOrEditedPageViewsQuery);
+$paidCreatedOrEditedPageViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where worker=? and task_type in ('Wikipedia page creation','Wikipedia page translation','Wikipedia page update')) and drilldown in ('desktop', 'mobile-web', 'mobile-app');";
+$stmt = $mysqli->prepare($paidCreatedOrEditedPageViewsQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$paidCreatedOrEditedPageViewsResult = $stmt->get_result();
 
 $paidCreatedOrEditedPageViewCount = 0;
 if ($paidCreatedOrEditedPageViewsResult -> num_rows > 0) {

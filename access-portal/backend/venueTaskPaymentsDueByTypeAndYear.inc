@@ -23,7 +23,12 @@ $totalTaskPaymentAcrossYears = 0;
 # Get task payments
 
 $taskSelectQuery = "select task_type, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where $venueRegexMatcher group by task_type, year(completion_date);";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$stmt = $mysqli->prepare($taskSelectQuery);
+if ($venueRegexMatcherParams) {
+  $stmt->bind_param($venueRegexMatcherParamStr, ...$venueRegexMatcherParams);
+}
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   $paymentForTaskTypeAndYear[$row['task_type']][$row['year']] = $row['payment'];

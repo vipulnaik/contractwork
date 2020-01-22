@@ -25,6 +25,9 @@ $totalTaskPaymentAcrossYears = 0;
 
 # Get task payments
 
+// Both $columnsString and $groupingString are constructed using safe values
+// defined in access-portal/backend/globalVariables/lists.inc so there is no
+// need to escape these.
 $taskSelectQuery = "select $columnsString year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks group by $groupingString year(completion_date);";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {

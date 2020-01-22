@@ -1,7 +1,10 @@
 <?php
 
-$reimbursementSelectQuery = "select year(receipt_date) as year, coalesce(sum(sent_payment), 0) as payment from payments where intermediary=".'"'.str_replace('"','\"',$worker).'"'." and receipt_date is not null group by year(receipt_date) order by year(receipt_date);";
-$reimbursementSelectResult = $mysqli -> query($reimbursementSelectQuery);
+$reimbursementSelectQuery = "select year(receipt_date) as year, coalesce(sum(sent_payment), 0) as payment from payments where intermediary=? and receipt_date is not null group by year(receipt_date) order by year(receipt_date);";
+$stmt = $mysqli->prepare($reimbursementSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$reimbursementSelectResult = $stmt->get_result();
 $reimbursementDueInYear = array();
 foreach($yearList as $year) {
   $reimbursementDueInYear[$year] = 0;

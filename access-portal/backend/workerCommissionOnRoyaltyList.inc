@@ -2,9 +2,12 @@
 
 $earnerList = array();
 
-$commissionOnRoyaltyByEarnerSelectQuery = "select earner, commission, commission_reason, commission_validity_start, commission_validity_end, coalesce(sum(originalPayment), 0) as originalPayment, coalesce(sum(payment), 0) as payment from (select earner, commission, commission_reason, commission_validity_start, commission_validity_end, commission_receiver, royalty_end_date, payment as originalPayment, (commission * payment) as payment from commissions left join royalties on commissions.earner = royalties.payee where (commission_validity_start is null or royalties.royalty_start_date >= commission_validity_start) and (commission_validity_end is null or royalties.royalty_end_date <= commission_validity_end)) t1 where commission_receiver=".'"'.str_replace('"','\"',$worker).'"'." group by earner, commission, commission_reason, commission_validity_start, commission_validity_end order by coalesce(sum(payment), 0) desc;";
+$commissionOnRoyaltyByEarnerSelectQuery = "select earner, commission, commission_reason, commission_validity_start, commission_validity_end, coalesce(sum(originalPayment), 0) as originalPayment, coalesce(sum(payment), 0) as payment from (select earner, commission, commission_reason, commission_validity_start, commission_validity_end, commission_receiver, royalty_end_date, payment as originalPayment, (commission * payment) as payment from commissions left join royalties on commissions.earner = royalties.payee where (commission_validity_start is null or royalties.royalty_start_date >= commission_validity_start) and (commission_validity_end is null or royalties.royalty_end_date <= commission_validity_end)) t1 where commission_receiver=? group by earner, commission, commission_reason, commission_validity_start, commission_validity_end order by coalesce(sum(payment), 0) desc;";
 
-$commissionOnRoyaltyByEarnerSelectResult = $mysqli -> query($commissionOnRoyaltyByEarnerSelectQuery);
+$stmt = $mysqli->prepare($commissionOnRoyaltyByEarnerSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$commissionOnRoyaltyByEarnerSelectResult = $stmt->get_result();
 
 print '<h4 id="workerCommissionOnRoyaltyList">Commissions on royalties: breakdown by earner</h4>';
 print "\n";

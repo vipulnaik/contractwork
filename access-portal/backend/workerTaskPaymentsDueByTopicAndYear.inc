@@ -22,8 +22,14 @@ $grandTotal = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select $columnsString year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where worker=".'"'.str_replace('"','\"',$worker).'"'." group by $groupingString year(completion_date);";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+// Both $columnsString and $groupingString are constructed using safe values
+// defined in access-portal/backend/globalVariables/lists.inc so there is no
+// need to escape these.
+$taskSelectQuery = "select $columnsString year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks where worker=? group by $groupingString year(completion_date);";
+$stmt = $mysqli->prepare($taskSelectQuery);
+$stmt->bind_param("s", $worker);
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   foreach ($topics as $topic) {

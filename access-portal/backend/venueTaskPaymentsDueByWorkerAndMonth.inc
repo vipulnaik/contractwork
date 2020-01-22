@@ -28,7 +28,12 @@ $totalTaskPayment = 0;
 # Get task payments
 
 $taskSelectQuery = "select worker, year(completion_date) as year,month(completion_date) as month, coalesce(sum(payment), 0) as payment from tasks where $venueRegexMatcher group by worker, year(completion_date), month(completion_date);";
-$taskSelectResult = $mysqli -> query($taskSelectQuery);
+$stmt = $mysqli->prepare($taskSelectQuery);
+if ($venueRegexMatcherParams) {
+  $stmt->bind_param($venueRegexMatcherParamStr, ...$venueRegexMatcherParams);
+}
+$stmt->execute();
+$taskSelectResult = $stmt->get_result();
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   if (!isset($paymentForWorkerAndMonth[$row['worker']])) {
