@@ -172,8 +172,6 @@ Tentative payments for completed timelines (amount proposed has been accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Reliance_Industries_Limited Timeline of Reliance Industries Limited]: $240. Completed December 9, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Reliance_Industries_Limited&oldid=35199 (2019-12-09 19:47 UTC, 48373 bytes, 128 rows in full timeline, 4 and 7 rows respectively in two versions of the big picture, 5 sample questions)
 
-Tentative payments for completed timelines (amount proposed not yet accepted):
-
 * [https://timelines.issarice.com/wiki/Timeline_of_Brookings_Institution Timeline of Brookings Institution]: $380. Completed January 24, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Brookings_Institution&oldid=36238 (2020-01-25 01:25 UTC, 74837 bytes, 138 rows in full timeline, 10 rows in big picture, 8 same questions, 3 graphs in visual data)
 
 Tentative payments for expansions (amount proposed has been accepted):
