@@ -80,6 +80,7 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',400,'2017-10-01','2017-10-31','2017-10-31','Moved to full time work, so stipend increase from $250 to $400',NULL),
   ('Sebastian Sanchez',500,'2017-11-01','2017-11-30','2017-11-30','Increased amount of work, so stipend increased correspondingly. Average of 5.5 hours of work per day all days, totaling to 165 hours. This is based on estimation, not actual time tracking',165),
   ('Sebastian Sanchez',500,'2017-12-01','2017-12-31','2017-12-31','The work hours estimate is very rough and not based on time tracking. Using the same average of 5.5 hours per day as we did the previous month',171),
+  /* 2018 */
   ('Sebastian Sanchez',150,'2018-01-01','2018-01-31','2018-01-31','The work hours estimate is rough, assuming 5.5 hours per day for 30% of days. Worker was away on vacation from approximately the 10th to the 31st of the month',50),
   ('Sebastian Sanchez',500,'2018-02-01','2018-02-28','2018-02-28','Time estimate includes time spent in general research and writing, not just on Timelines wiki. The writing tasks outside Timelines wiki are not paid for as individual tasks',160),
   ('Sebastian Sanchez',500,'2018-03-01','2018-03-31','2018-03-31','Time estimate includes time spent in general research and writing, not just on Timelines wiki. The writing tasks outside Timelines wiki are not paid for as individual tasks',175),
@@ -92,6 +93,7 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',650,'2018-10-01','2018-10-31','2018-10-31','Time estimate includes time spent in general research and writing, not just on Timelines wiki. The writing tasks outside Timelines wiki are not paid for as individual tasks',180),
   ('Sebastian Sanchez',75,'2018-11-01','2018-11-30','2018-11-30','Time estimate includes time spent in general research and writing, not just on Timelines wiki. The writing tasks outside Timelines wiki are not paid for as individual tasks. Total work hours logged in this month were low because of vacation travel to Europe',20),
   ('Sebastian Sanchez',120,'2018-12-01','2018-12-31','2018-12-31','Time estimate includes time spent in general research and writing, not just on Timelines wiki. The writing tasks outside Timelines wiki are not paid for as individual tasks. Total work hours logged in this month were low because of sickness',30),
+  /* 2019 */
   ('Sebastian Sanchez',450,'2019-01-01','2019-01-31','2019-01-31','Time estimate includes time spent in general research and writing, not just on Timelines wiki. The writing tasks outside Timelines wiki are not paid for as individual tasks. Total work hours logged in this month were low due to time spent resting and recovering from sickness',100),
   ('Sebastian Sanchez',650,'2019-02-01','2019-02-28','2019-02-28','There was no time spent outside Timelines wiki in this month, so all time is on Timelines wiki',160),
   ('Sebastian Sanchez',550,'2019-03-01','2019-03-31','2019-03-31','Time estimate includes time spent in general research and writing, not just on Timelines wiki. The writing tasks outside Timelines wiki are not paid for as individual tasks',125),
@@ -103,7 +105,9 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',740,'2019-09-01','2019-09-30','2019-09-30','There was no time spent outside Timelines wiki in this month, so all time is on Timelines wiki',185),
   ('Sebastian Sanchez',700,'2019-10-01','2019-10-31','2019-10-31','There was no time spent outside Timelines wiki in this month, so all time is on Timelines wiki',175),
   ('Sebastian Sanchez',780,'2019-11-01','2019-11-30','2019-11-30','This includes some time spent outside Timelines wiki',185),
-  ('Sebastian Sanchez',700,'2019-12-01','2019-12-01','2019-12-31','The listed amount of time (165 hours) is only on Timelines wiki. However, some time was spent on preparing for projects in 2020 as well, which is not counted in the 165 hours, but is reflected in an extra 40 USD added to the stipend',165);
+  ('Sebastian Sanchez',700,'2019-12-01','2019-12-01','2019-12-31','The listed amount of time (165 hours) is only on Timelines wiki. However, some time was spent on preparing for projects in 2020 as well, which is not counted in the 165 hours, but is reflected in an extra 40 USD added to the stipend',165),
+  /* 2020 */
+  ('Sebastian Sanchez',720,'2020-01-01','2020-01-31','2020-01-31','The time and payment are only for time spent on Timelines wiki',180);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');
