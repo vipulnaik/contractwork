@@ -42,13 +42,45 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $0
+Total money earned as income (taxable as income for 2020): $570.16
 
-Payment made: $1460.13
+Payment made: $2030.29
 
-Carryover payment due from 2019: $1460.13
+Carryover payment due from 2019: $1460.14
 
-Net payment due: $0
+Net payment due: $0.01
+
+=== Work on Donations list website (DLW) ===
+
+Total so far: $114.90
+
+* January 8: $39.90. Explore the creation of graphical timeline for donors, donees, and donor-donee pairs based on intended_funding_timeframe_in_months (https://github.com/vipulnaik/donations/issues/125). Spent 4 hours 12 minutes at $9.50/hour. Work done on 2020-01-08. See https://github.com/vipulnaik/donations/issues/125#issuecomment-572384312 for a summary of the work done. This is part of a multi-month effort on the issue
+
+* January 20: $75. Move completely to a safe query structure on donations.vipulnaik.com (https://github.com/vipulnaik/donations/issues/127). Spent 3 hours 24 minutes. Work done on 2020-01-20. Payment determined as max{$75, $9.50/hour * 3.41 hours}
+
+=== Work on contract work portal ===
+
+Total so far: $50
+
+* January 21: $50. Move to a safe query structure for all the queries at contractwork.vipulnaik.com (https://github.com/vipulnaik/contractwork/issues/21). Spent 3 hours 10 minutes. Work done on 2020-01-20 and 2020-01-21. Payment determined as max{$125, $8.50/hour * 3.17 hours}
+
+=== Work on timelines wiki features ===
+
+Total so far: $125
+
+* January 15: $125. Work done on 2020-01-15. Spent 2 hours 53 minutes. Payment determined as max{$125, $8.50/hour * 2.88 hours}. Issues worked on are https://github.com/riceissa/timelines-wiki-main-page-table/issues/6 https://github.com/riceissa/timelines-wiki-main-page-table/issues/7 https://github.com/riceissa/timelines-wiki-main-page-table/issues/8 https://github.com/riceissa/timelines-wiki-main-page-table/issues/9 https://github.com/riceissa/timelines-wiki-main-page-table/issues/10 https://github.com/riceissa/timelines-wiki-main-page-table/issues/11
+
+=== Work on Linode migration (preliminary investigation) ===
+
+Total so far: $79.29
+
+* January 19: $79.29. Plan to reduce my Linode cost, to be executed by end of 2021 (https://github.com/vipulnaik/working-drafts/issues/6). Spent 7 hours 49 minutes. Work done on 2020-01-18 and 2020-01-19. Payment determined based on a $10/hour rate ($78.20), and also including reimbursement of costs for a Linode machine run through the day ($1.09). Output of this iteration of work at https://gist.github.com/riceissa/49e331040a809e3dd14c046a07cd79cf
+
+=== Stipends ===
+
+Total so far: $200.97
+
+* January: $200.97. 22.33 hours at $9/hour
 
 === Payments made ===
 
@@ -56,15 +88,17 @@ Total so far: $1460.13
 
 * $1460.13 via PayPal on January 1, 2020 (from Vipul Naik)
 
+* $570.16 via PayPal on February 6, 2020 (from Vipul Naik)
+
 == Work and other compensation in 2019 ==
 
 Total money earned as income (taxable as income for 2019): $5030.27
 
 Payment made: $4906.87
 
-Carryover pament due from 2018: 1336.73
+Carryover pament due from 2018: 1336.74
 
-Net payment due: 1460.13
+Net payment due: 1460.14
 
 === Updates to existing pages (Timelines Wiki) ===
 
@@ -258,9 +292,9 @@ Total money earned by doing work (taxable as income for 2018): $18288.32
 
 Payment made: $28000
 
-Carryover payment due from 2017: $11048.41
+Carryover payment due from 2017: $11048.42
 
-Net payment due: $1336.73
+Net payment due: $1336.74
 
 === Completed pages for Vipul (Timelines Wiki) ===
 
@@ -529,9 +563,9 @@ Total money earned by doing work (taxable as income for 2017): $36765.10
 
 Payment made: $31000
 
-Carryover payment due from 2016: $5283.31
+Carryover payment due from 2016: $5283.32
 
-Net payment due: $11048.41
+Net payment due: $11048.42
 
 === Completed pages (on Wikipedia) ===
 
@@ -785,9 +819,9 @@ Reimbursement due (not taxable as income for 2016): $401.03
 
 Payment made: $6382
 
-Carryover pending payment from 2015: $997.73
+Carryover pending payment from 2015: $997.74
 
-Net payment due: $5283.31
+Net payment due: $5283.32
 
 === Completed pages ===
 

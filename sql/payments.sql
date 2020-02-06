@@ -103,6 +103,9 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   /* Payment sent in 2020 to wrap up pending amounts due from 2019 tax year */
   ('PayPal','Issa Rice',NULL,'2020-01-01','2020-01-01','2020-01-01','2020-01-01',1460.13,1460.13,0,1460.13,'We decided to try out PayPal to clear out the existing amount due, because the amount was large enough to be worth a transfer, but too small to be worth the overhead of a check. Fortunately, PayPal worked'),
 
+  /* Payments for 2020 tax year */
+  ('PayPal','Issa Rice',NULL,'2020-02-06','2020-02-06','2020-02-06','2020-02-06',570.16,570.16,0,570.16,'Since the amount due was over $300, we decided to clear it via PayPal'),
+
   /* Orpheus Lummis */
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160,NULL),
 
