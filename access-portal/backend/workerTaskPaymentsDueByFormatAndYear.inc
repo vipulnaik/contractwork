@@ -72,12 +72,12 @@ foreach($taskFormats as $taskFormat) {
 }
 print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
+print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 foreach (array_reverse($yearList) as $year) {
   if ($totalPaymentForYear[$year] > 0) {
     print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
   }
 }
-print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 print '</tr>';
 print "</tfoot>\n</table>\n";
 
