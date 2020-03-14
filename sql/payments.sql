@@ -163,6 +163,9 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Thomas Foster',NULL,'2016-06-16','2016-06-16','2016-06-16','2016-06-16',80,79.99,0.79,79,NULL),
   ('PayPal','Thomas Foster',NULL,'2017-02-07','2017-02-07','2017-02-07','2017-02-07',50,50.51,0.51,50,NULL),
 
+  /* Linchuan Zhang */
+  ('PayPal','Linchuan Zhang',NULL,'2020-03-14','2020-03-14','2020-03-14','2020-03-14',30.30,30.30,0,30.30,'A much delayed payment to clear pending balance'),
+
   /* Alex K. Chen */
   ('Check','Alex K. Chen',NULL,'2015-12-26','2015-12-31','2016-01-06','2016-01-06',7100,7100,0,7100,NULL),
   ('Check','Alex K. Chen',NULL,'2017-01-07','2017-01-13','2017-01-19','2017-01-19',4000,4000,0,4000,NULL),
