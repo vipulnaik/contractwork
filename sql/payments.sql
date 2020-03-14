@@ -154,6 +154,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   /* Sean Yu */
   ('PayPal','Sean Yu',NULL,'2016-06-23','2016-06-23','2016-06-23','2016-06-23',50,50,0,50,NULL),
+  ('Venmo','Sean Yu',NULL,'2020-03-14','2020-03-14','2020-03-14','2020-03-14',5,5,0,5,'A much delayed payment to clear pending balance'),
 
   /* Sergey Yegorov */
   ('PayPal','Sergey Yegorov',NULL,'2016-10-17','2016-10-17','2016-10-17','2016-10-17',175,175.88,0.88,175,NULL),
