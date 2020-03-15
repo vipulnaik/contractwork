@@ -56,7 +56,6 @@ foreach($monthList as $month) {
   } else {
     $cumulativeReimbursementDueTillMonth[$month] = $mostRecentlySeenCumulativeReimbursementDue;
   }
-
 }
 
 # Print table
@@ -93,8 +92,7 @@ if ($printTables == true) {
       if ($cumulativeReimbursementDueSoFar > 0) {
         print '<td align="right">'.number_format($reimbursementDueInMonth[$month],2).'</td>';
         print '<td align="right">'.$opener.number_format($cumulativeReimbursementDueTillMonth[$month],2).$closer.'</td>';
-      }
-  
+      }  
       print '<td align="right">'.number_format($paymentMadeInMonth[$month],2).'</td>';
       print '<td align="right">'.$opener.number_format($cumulativePaymentMadeTillMonth[$month],2).$closer.'</td>';
       print '<td align="right">'.number_format($totalPaymentAwarded[$month] + $reimbursementDueInMonth[$month] - $paymentMadeInMonth[$month],2).'</td>';

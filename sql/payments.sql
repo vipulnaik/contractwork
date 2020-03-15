@@ -11,6 +11,7 @@ create table payments(
   sent_payment float(7,2) not null,
   overhead float(7,2) not null,
   received_payment float(7,2) not null,
+  private tinyint(1) default 0,
   notes varchar(2000)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 

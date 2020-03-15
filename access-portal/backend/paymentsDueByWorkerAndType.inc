@@ -1,13 +1,13 @@
 <?php
 print '<h4 id="paymentsDueByWorkerAndType">Payments due by worker and type</h4>';
 
-print '<p>Note that workers who have opted to be paid privately are not listed here.</p>';
+print '<p>Note that workers who have opted to be paid privately are not listed here; all their data is totaled up in the "Private" row.</p>';
 
 $workerList = array();
 
 # Get task payments
 
-$workerSelectQuery = "select distinct worker from workers where private = false;";
+$workerSelectQuery = "select distinct worker from (select case when private = true then 'Private' else worker end as worker from workers) wt1;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);
 
 $totalTaskPayment = 0;
@@ -32,11 +32,11 @@ for($i=0;$i < $workerSelectResult -> num_rows; $i++) {
   $totalPayment[$row['worker']] = 0;
 }
 
-$taskSelectQuery = "select worker, coalesce(sum(payment), 0) as payment from tasks group by worker";
+$taskSelectQuery = "select case when private = true then 'Private' else worker end as worker, coalesce(sum(payment), 0) as payment from tasks group by worker, private";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
-  $taskPayment[$row['worker']] = $row['payment'];
+  $taskPayment[$row['worker']] += $row['payment'];
   $totalTaskPayment += $row['payment'];
 }
 
@@ -110,7 +110,11 @@ print '<th>Total payment</th>';
 print '</tr>';
 print "</thead>\n<tbody>\n";
 foreach ($workerList as $worker) {
-  print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
+  if ($worker == 'Private') {
+    print '<tr><td>Private</td>';
+  } else {
+    print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
+  }
   print '<td align="right">'.number_format($taskPayment[$worker],2).'</td>';
   print '<td align="right">'.number_format($commissionOnTaskPayment[$worker],2).'</td>';
   print '<td align="right">'.number_format($stipendPayment[$worker][1],2).'</td>';

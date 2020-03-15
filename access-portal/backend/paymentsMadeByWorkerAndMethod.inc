@@ -18,7 +18,7 @@ foreach($paymentMethods as $paymentMethod) {
 $totalPaymentMadeViaIntermediaries = 0;
 # Get payments
 
-$paymentSelectQuery = "select payment_method, payee, coalesce(sum(payment), 0) as payment from payments where receipt_date is not null group by payment_method, payee;";
+$paymentSelectQuery = "select payment_method, case when private = 1 then 'Private' else payee end as payee, coalesce(sum(payment), 0) as payment from payments where receipt_date is not null group by payment_method, payee, private;";
 $paymentSelectResult = $mysqli -> query($paymentSelectQuery);
 for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
@@ -59,7 +59,11 @@ foreach ($paymentMethods as $paymentMethod) {
 }
 print "</tr>\n</thead>\n<tbody>\n";
 foreach ($workerList as $worker) {
-  print "<tr>\n".'<td><a href="http://contractwork.vipulnaik.com/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
+  if ($worker == 'Private') {
+    print "<tr>\n".'<td>Private</td>';
+  } else {
+    print "<tr>\n".'<td><a href="http://contractwork.vipulnaik.com/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
+  }
   print '<td align="right"><strong>'.number_format($totalPaymentMadeToWorker[$worker],2).'</strong></td>';
   foreach ($paymentMethods as $paymentMethod) {
     print '<td align="right">'.number_format($payment[$worker][$paymentMethod],2).'</td>';

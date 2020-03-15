@@ -37,12 +37,18 @@ for ($i=0; $i < $reimbursementSelectResult -> num_rows; $i++) {
   $cumulativeReimbursementDueTillMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $cumulativeReimbursementDueSoFar;
 }
 
-$mostRecentlySeenCumulativePayment = 0;
+$mostRecentlySeenCumulativePaymentDue = 0;
+$mostRecentlySeenCumulativeReimbursementDue = 0;
 foreach($monthList as $month) {
   if ($cumulativePaymentMadeTillMonth[$month] > 0) {
-    $mostRecentlySeenCumulativePayment = $cumulativePaymentMadeTillMonth[$month];
+    $mostRecentlySeenCumulativePaymentDue = $cumulativePaymentMadeTillMonth[$month];
   } else {
-    $cumulativePaymentMadeTillMonth[$month] = $mostRecentlySeenCumulativePayment;
+    $cumulativePaymentMadeTillMonth[$month] = $mostRecentlySeenCumulativePaymentDue;
+  }
+  if ($cumulativeReimbursementDueTillMonth[$month] > 0) {
+    $mostRecentlySeenCumulativeReimbursementDue = $cumulativeReimbursementDueTillMonth[$month];
+  } else {
+    $cumulativeReimbursementDueTillMonth[$month] = $mostRecentlySeenCumulativeReimbursementDue;
   }
 }
 
@@ -53,6 +59,10 @@ print "<thead>\n";
 print '<tr><th>Month</th>';
 print '<th>Payment awarded in month</th>';
 print '<th>Cumulative payment awarded till month</th>';
+if ($cumulativeReimbursementDueSoFar > 0) {
+  print '<th>Reimbursement due in month</th>';
+  print '<th>Cumulative reimbursement due</th>';
+}
 print '<th>Payment made in month</th>';
 print '<th>Cumulative payment made till month</th>';
 print '<th>Pending payment increase in month</th>';
@@ -72,6 +82,10 @@ foreach (array_reverse($monthList) as $month) {
     print "<td>$month</td>";
     print '<td align="right">'.number_format($totalPaymentAwarded[$month],2).'</td>';
     print '<td align="right">'.$opener.number_format($cumulativePaymentAwardedTillMonth[$month],2).$closer.'</td>';
+    if ($cumulativeReimbursementDueSoFar > 0) {
+      print '<td align="right">'.number_format($reimbursementDueInMonth[$month],2).'</td>';
+      print '<td align="right">'.$opener.number_format($cumulativeReimbursementDueTillMonth[$month],2).$closer.'</td>';
+    }  
     print '<td align="right">'.number_format($paymentMadeInMonth[$month],2).'</td>';
     print '<td align="right">'.$opener.number_format($cumulativePaymentMadeTillMonth[$month],2).$closer.'</td>';
     print '<td align="right">'.number_format($totalPaymentAwarded[$month] + $reimbursementDueInMonth[$month] - $paymentMadeInMonth[$month],2).'</td>';
