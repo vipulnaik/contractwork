@@ -37,7 +37,6 @@ for ($i=0; $i < $paymentMadeViaIntermediariesResult -> num_rows; $i++) {
   $totalPaymentMadeAcrossWorkers -= $row['payment'];
 }
 
-
 function cmpWorkersByPaymentsMade($firstWorker, $secondWorker) {
   global $totalPaymentMadeToWorker;
   if (floatval($totalPaymentMadeToWorker[$firstWorker]) == floatval($totalPaymentMadeToWorker[$secondWorker])) {
