@@ -1,7 +1,7 @@
 <?php
 print '<h4 id="taskPaymentsDueByWorkerAndType">Task payments due by worker and type</h4>';
 
-$workerSelectQuery = "select distinct worker from workers where private = false and worker != 'Linchuan Zhang'";
+$workerSelectQuery = "select distinct worker from (select case when private = true then 'Private' else worker end as worker from workers where worker != 'Linchuan Zhang') wt1;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery . ";");
 
 $workers = array();
@@ -30,7 +30,7 @@ $totalTaskPayment = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select task_type, worker, coalesce(sum(payment), 0) as payment from tasks where worker in ($workerSelectQuery) group by task_type, worker;";
+$taskSelectQuery = "select task_type, case when private = true then 'Private' else worker end as worker, coalesce(sum(payment), 0) as payment from tasks group by task_type, worker, private;";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
@@ -83,7 +83,7 @@ print '</tr>';
 print "</thead>\n<tbody>\n";
 foreach ($workers as $worker) {
   if ($totalTaskPaymentForWorker[$worker] > 0) {
-    print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
+    printWorker($worker);
     print '<td align="right"><strong>'.number_format($totalTaskPaymentForWorker[$worker],2).'</strong></td>';
     foreach ($taskTypes as $taskType) {
       if ($totalPaymentForTaskType[$taskType] > 0) {

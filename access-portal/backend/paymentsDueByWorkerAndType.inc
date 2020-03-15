@@ -110,11 +110,7 @@ print '<th>Total payment</th>';
 print '</tr>';
 print "</thead>\n<tbody>\n";
 foreach ($workerList as $worker) {
-  if ($worker == 'Private') {
-    print '<tr><td>Private</td>';
-  } else {
-    print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
-  }
+  printWorker($worker);
   print '<td align="right">'.number_format($taskPayment[$worker],2).'</td>';
   print '<td align="right">'.number_format($commissionOnTaskPayment[$worker],2).'</td>';
   print '<td align="right">'.number_format($stipendPayment[$worker][1],2).'</td>';

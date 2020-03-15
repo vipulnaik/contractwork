@@ -1,5 +1,13 @@
 <?php
 
+function printWorker($worker) {
+  if ($worker == "Private") {
+    print '<tr><td>Private</td>';
+  } else {
+    print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
+  }
+}
+
 function cleanNotes($notes) {
   $notesList = explode(" ",$notes);
   $augmentedNotes = "";

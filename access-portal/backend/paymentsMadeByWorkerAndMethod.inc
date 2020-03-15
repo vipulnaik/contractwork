@@ -59,11 +59,7 @@ foreach ($paymentMethods as $paymentMethod) {
 }
 print "</tr>\n</thead>\n<tbody>\n";
 foreach ($workerList as $worker) {
-  if ($worker == 'Private') {
-    print "<tr>\n".'<td>Private</td>';
-  } else {
-    print "<tr>\n".'<td><a href="http://contractwork.vipulnaik.com/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
-  }
+  printWorker($worker);
   print '<td align="right"><strong>'.number_format($totalPaymentMadeToWorker[$worker],2).'</strong></td>';
   foreach ($paymentMethods as $paymentMethod) {
     print '<td align="right">'.number_format($payment[$worker][$paymentMethod],2).'</td>';

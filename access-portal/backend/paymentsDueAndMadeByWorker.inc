@@ -44,11 +44,7 @@ print "</thead>\n<tbody>\n";
 
 $starting = true;
 foreach ($workerList as $worker) {
-  if ($worker == "Private") {
-    print '<tr><td>Private</td>';
-  } else{
-    print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
-  }
+  printWorker($worker);
   print '<td align="right">'.number_format($totalPaymentAwarded[$worker],2).'</td>';
   print '<td align="right">'.number_format($reimbursementDueToWorker[$worker],2).'</td>';
   print '<td align="right">'.number_format($totalPaymentMadeToWorker[$worker],2).'</td>';

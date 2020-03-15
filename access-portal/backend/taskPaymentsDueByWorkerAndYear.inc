@@ -2,7 +2,7 @@
 print '<h4 id="taskPaymentsDueByWorkerAndYear">Task payments due by worker and year</h4>';
 
 $workerList = array();
-$workerSelectQuery = "select distinct worker from workers where private = false;";
+$workerSelectQuery = "select distinct worker from (select case when private = true then 'Private' else worker end as worker from workers where worker != 'Linchuan Zhang') wt1;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);
 
 for($i=0;$i < $workerSelectResult -> num_rows; $i++) {
@@ -19,7 +19,7 @@ $grandTotal = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select worker, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks group by worker, year(completion_date);";
+$taskSelectQuery = "select case when private = true then 'Private' else worker end as worker, year(completion_date) as year, coalesce(sum(payment), 0) as payment from tasks group by worker, private, year(completion_date);";
 $taskSelectResult = $mysqli -> query($taskSelectQuery);
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
@@ -67,7 +67,7 @@ foreach (array_reverse($yearList) as $year) {
 print "</tr>\n</thead>\n<tbody>\n";
 foreach($workerList as $worker) {
   if (isset($totalPaymentForWorkerUsingYear[$worker]) && $totalPaymentForWorkerUsingYear[$worker] > 0) {
-    print "<tr><td><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">$worker</a></td>";
+    printWorker($worker);
     print '<td align="right"><strong>'.number_format($totalPaymentForWorkerUsingYear[$worker],2).'</strong></td>';
     foreach (array_reverse($yearList) as $year) {
       $amountToPrint = 0;
