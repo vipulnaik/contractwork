@@ -180,4 +180,4 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Joey Malandra',NULL,'2017-03-18','2017-03-18','2017-03-18','2017-03-18',73,73,0,73,NULL),
 
   /* Daniel Alejandro Maidana */
-  ('Western Union','Daniel Alejandro Maidana','Sebastian Sanchez','2016-12-31','2016-12-31','2016-12-31','2016-12-31',30,30,0,30,NULL);
+  ('Cash','Daniel Alejandro Maidana','Sebastian Sanchez','2016-12-31','2016-12-31','2016-12-31','2016-12-31',30,30,0,30,'Sebastian Sanchez paid Daniel Alejandro Maidana in pesos at the exchange rate of that date');
