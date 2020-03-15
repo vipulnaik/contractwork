@@ -131,6 +131,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   /* Charlie Corner */
   ('PayPal','Charlie Corner',NULL,'2016-07-09','2016-07-09','2016-07-09','2016-07-09',50,50,0,50,NULL),
   ('PayPal','Charlie Corner',NULL,'2016-09-18','2016-09-18','2016-09-18','2016-09-18',102,102,0,102,NULL),
+  ('PayPal','Charlie Corner',NULL,'2020-03-15','2020-03-15','2020-03-15','2020-03-15',50,50,0,50,'A much delayed payment to clear pending balance'),
 
   /* Christopher Kunin */
   ('PayPal','Christopher Kunin',NULL,'2016-06-18','2016-06-18','2016-06-18','2016-06-18',30,30,0,30,NULL),
