@@ -38,6 +38,12 @@ Total so far: $127
 
 * [https://timelines.issarice.com/wiki/Timeline_of_WeWork Timeline of WeWork]: $127. Completed January 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_WeWork&type=revision&diff=36314&oldid=18466 diff]. Increased from 34620 bytes to 69379 bytes. In addition to adding about 37 new rows, the changes include edits to existing rows, a new sample questions section with 5 questions, big picture expansion, and a visual data section with 3 charts
 
+=== Tentative pending payments ===
+
+Payments for completed timelines (not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_NTT_Docomo Timeline of NTT Docomo]: $450. Completed March 14, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_NTT_Docomo&oldid=37921 (2020-03-14 23:59 UTC, 101879 bytes, 7 sample questions, 6 rows in big picture, 3 graphs, 236 rows in full timeline)
+
 === Stipends ===
 
 Total so far: $1432
