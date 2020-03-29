@@ -52,6 +52,10 @@ Payments for expansions (accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Quora Timeline of Quora]: $250. Completed March 15, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Quora&type=revision&diff=37985&oldid=18139 diff]. Increased from 13206 bytes to 83250 bytes. The expansion includes 6 sample questions, a big picture section with 9 rows, 3 visual data charts, and substantial expansion of the full timeline from 25 rows to 142 rows
 
+Payments for expansions (not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $360. 11 sample questions, 4 new rows in big picture, 5 countries in summary by country, 6 visual data charts, number of rows in big picture increased from 137 to 327; size increased from 75231 bytes to 161211 bytes. Also, updates to data and event types
+
 === Stipends ===
 
 Total so far: $1432
