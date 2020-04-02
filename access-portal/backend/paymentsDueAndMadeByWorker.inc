@@ -54,7 +54,7 @@ foreach ($workerList as $worker) {
 
 print '<tr><td>Adjustment for payment via an intermediary (this would otherwise get double-counted in payments made)</td>';
 print '<td align="right">0.00</td>';
-print '<td align="right"><strong>'.number_format(-$totalPaymentMadeViaIntermediaries,2).'</strong></td>';
+print '<td align="right">'.number_format(-$totalPaymentMadeViaIntermediaries,2).'</td>';
 print '<td align="right">'.number_format(-$totalPaymentMadeViaIntermediaries, 2).'</td>';
 print '<td align="right">'.number_format(0, 2).'</td>';
 print '</tr>';
