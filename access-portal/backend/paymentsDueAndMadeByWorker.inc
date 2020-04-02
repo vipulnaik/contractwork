@@ -54,17 +54,17 @@ foreach ($workerList as $worker) {
 
 print '<tr><td>Adjustment for payment via an intermediary (this would otherwise get double-counted in payments made)</td>';
 print '<td align="right">0.00</td>';
-print '<td align="right">0.00</td>';
+print '<td align="right"><strong>'.number_format(-$totalPaymentMadeViaIntermediaries,2).'</strong></td>';
 print '<td align="right">'.number_format(-$totalPaymentMadeViaIntermediaries, 2).'</td>';
-print '<td align="right">'.number_format($totalPaymentMadeViaIntermediaries, 2).'</td>';
+print '<td align="right">'.number_format(0, 2).'</td>';
 print '</tr>';
 print "</tbody>\n<tfoot>\n";
 
 print '<tr><td><strong>Total across workers</strong></td>';
 print '<td align="right"><strong>'.number_format($totalPaymentAwardedAcrossWorkers,2).'</strong></td>';
-print '<td align="right"><strong>'.number_format($totalReimbursementDueAcrossWorkers,2).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalReimbursementDueAcrossWorkers - $totalPaymentMadeViaIntermediaries,2).'</strong></td>';
 print '<td align="right"><strong>'.number_format($totalPaymentMadeAcrossWorkers,2).'</strong></td>';
-print '<td align="right"><strong>'.number_format($totalPaymentAwardedAcrossWorkers + $totalReimbursementDueAcrossWorkers - $totalPaymentMadeAcrossWorkers,2).'</strong></td>';
+print '<td align="right"><strong>'.number_format($totalPaymentAwardedAcrossWorkers + $totalReimbursementDueAcrossWorkers - $totalPaymentMadeViaIntermediaries - $totalPaymentMadeAcrossWorkers,2).'</strong></td>';
 print '</tr>';
 
 print "</tfoot>\n</table>\n";

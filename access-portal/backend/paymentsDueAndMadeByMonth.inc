@@ -27,7 +27,7 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $cumulativePaymentMadeTillMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $cumulativePaymentMadeSoFar;
 }
 
-$reimbursementSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(sent_payment), 0) as payment from payments where intermediary is not null and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
+$reimbursementSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(sent_payment - payment), 0) as payment from payments where intermediary is not null and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
 
 $reimbursementSelectResult = $mysqli -> query($reimbursementSelectQuery);
 for ($i=0; $i < $reimbursementSelectResult -> num_rows; $i++) {
