@@ -109,7 +109,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',700,'2019-12-01','2019-12-01','2019-12-31','The listed amount of time (165 hours) is only on Timelines wiki. However, some time was spent on preparing for projects in 2020 as well, which is not counted in the 165 hours, but is reflected in an extra 40 USD added to the stipend',165),
   /* 2020 */
   ('Sebastian Sanchez',720,'2020-01-01','2020-01-31','2020-01-31','The time and payment are only for time spent on Timelines wiki',180),
-  ('Sebastian Sanchez',712,'2020-02-01','2020-02-29','2020-02-29','The payment is at $4/hour for a total of 178 hours: 170 spent on Timelines wiki and 8 spent on initial exploration of the Machinelearning subwiki',178);
+  ('Sebastian Sanchez',712,'2020-02-01','2020-02-29','2020-02-29','The payment is at $4/hour for a total of 178 hours: 170 spent on Timelines wiki and 8 spent on initial exploration of the Machinelearning subwiki',178),
+  ('Sebastian Sanchez',830,'2020-03-01','2020-03-31','2020-03-31','The payment is at $4/hour for the first 200 hours and $30 for theadditional 12 hours; 195 hours spent on Timelines wiki, 16 hours spent on Machinelearning subwiki, and 1 hour spent on wikiHow work',212);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');

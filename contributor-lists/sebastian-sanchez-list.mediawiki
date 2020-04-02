@@ -16,53 +16,49 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2020 ==
 
-Total money earned as income: $2209
+Total money earned as income: $4664
 
 Forward balance carried over from 2019: ($2878.30)
 
 Payment made: $4950
 
-Net payment due: ($5619.30)
+Net payment due: ($3164.30)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-Total so far: $650
+Total so far: $1630
 
 * [https://timelines.issarice.com/wiki/Timeline_of_food_and_nutrition_in_China Timeline of food and nutrition in China]: $270. Completed January 1, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_food_and_nutrition_in_China&oldid=35663 (2020-01-01 13:23 UTC, 54035 bytes, 120 rows in full timeline, 6 rows in big picture, 4 sample questions)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Brookings_Institution Timeline of Brookings Institution]: $380. Completed January 24, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Brookings_Institution&oldid=36238 (2020-01-25 01:25 UTC, 74837 bytes, 138 rows in full timeline, 10 rows in big picture, 8 same questions, 3 graphs in visual data)
 
-=== Additions to existing pages (Timelines Wiki) ===
-
-Total so far: $127
-
-* [https://timelines.issarice.com/wiki/Timeline_of_WeWork Timeline of WeWork]: $127. Completed January 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_WeWork&type=revision&diff=36314&oldid=18466 diff]. Increased from 34620 bytes to 69379 bytes. In addition to adding about 37 new rows, the changes include edits to existing rows, a new sample questions section with 5 questions, big picture expansion, and a visual data section with 3 charts
-
-=== Tentative pending payments ===
-
-Payments for completed timelines (accepted):
-
 * [https://timelines.issarice.com/wiki/Timeline_of_NTT_Docomo Timeline of NTT Docomo]: $450. Completed March 14, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_NTT_Docomo&oldid=37921 (2020-03-14 23:59 UTC, 101879 bytes, 7 sample questions, 6 rows in big picture, 3 graphs, 236 rows in full timeline)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_5G Timeline of 5G]: $530. Completed March 19, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_5G&oldid=38100 (2020-03-20 0:12 UTC, 127871 bytes, 11 sample questions, big picture has three tabls with 11, 5, and 6 rows respectively, 4 charts, and 182 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_5G Timeline of 5G]: $530. Completed March 19, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_5G&oldid=38100 (2020-03-20 0:12 UTC, 127871 bytes, 11 sample questions, big picture has three tables with 11, 5, and 6 rows respectively, 4 charts, 182 rows in full timeline)
 
-Payments for expansions (accepted):
+=== Additions to existing pages (Timelines Wiki) ===
+
+Total so far: $772
+
+* [https://timelines.issarice.com/wiki/Timeline_of_WeWork Timeline of WeWork]: $127. Completed January 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_WeWork&type=revision&diff=36314&oldid=18466 diff]. Increased from 34620 bytes to 69379 bytes. In addition to adding about 37 new rows, the changes include edits to existing rows, a new sample questions section with 5 questions, big picture expansion, and a visual data section with 3 charts
 
 * [https://timelines.issarice.com/wiki/Timeline_of_HTTPS_adoption Timeline of HTTPS adoption]: $25. Completed March 1, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_HTTPS_adoption&type=revision&diff=37449&oldid=35060 diff]. Increased from 75358 bytes to 78883 bytes. The expansion incldes 2 new visual data charts and 8 new rows in the full timeline
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Quora Timeline of Quora]: $250. Completed March 15, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Quora&type=revision&diff=37985&oldid=18139 diff]. Increased from 13206 bytes to 83250 bytes. The expansion includes 6 sample questions, a big picture section with 9 rows, 3 visual data charts, and substantial expansion of the full timeline from 25 rows to 142 rows
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $370. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=38402&oldid=19707 diff]. 11 sample questions, 4 new rows in big picture, 5 countries in summary by country, 6 visual data charts, number of rows in big picture increased from 137 to 332; size increased from 75231 bytes to 162981 bytes. Also, updates to data and event types
+* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $370. Completed March 28, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=38402&oldid=19707 diff]. 11 sample questions, 4 new rows in big picture, 5 countries in summary by country, 6 visual data charts, number of rows in big picture increased from 137 to 332; size increased from 75231 bytes to 162981 bytes. Also, updates to data and event types
 
 === Stipends ===
 
-Total so far: $1432
+Total so far: $2262
 
 The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines Wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
 * January: $720. Worked 180 hours on Timelines Wiki
 
 * February: $712. Worked 178 hours, including 170 on Timelines Wiki and 8 on Machinelearning subwiki
+
+* March: $830. Worked 212 hours, including 195 on Timelines Wiki, 16 on ML Machinelearning subwiki, and 1 on reviewing a wikiHow article
 
 === Payment schedule ===
 
