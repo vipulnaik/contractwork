@@ -70,7 +70,9 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',88.06,'2019-10-01','2019-10-31','2019-10-31','Below full monthly quota, so scaled full month pay of $1200 (for 17 days = 136 hours) based on fraction of month worked',9.98,136),
   ('Issa Rice',94.24,'2019-11-01','2019-11-30','2019-11-30','Below full monthly quota, so scaled full month pay of $1200 (for 17 days = 136 hours) based on fraction of month worked',10.68,136),
   ('Issa Rice',88.02,'2019-12-01','2019-12-31','2019-12-31','Rate of $9/hour effective December 2019. This new rate applies to the first 150 hours of work in each month',9.78,150),
-  ('Issa Rice',200.97,'2020-01-01','2020-01-31','2020-01-31','Rate of $9/hour effective December 2019',22.33,150);
+  ('Issa Rice',200.97,'2020-01-01','2020-01-31','2020-01-31','Rate of $9/hour effective December 2019',22.33,150),
+  ('Issa Rice',6.30,'2020-02-01','2020-02-29','2020-02-29','Rate of $9/hour effective December 2019',0.70,150),
+  ('Issa Rice',65.07,'2020-03-01','2020-03-31','2020-03-31','Rate of $9/hour effective December 2019',7.23,150);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),

@@ -42,13 +42,13 @@ Wikipedia Views links for tracking total pageviews of pages created:
 
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $570.16
+Total money earned as income (taxable as income for 2020): $730.78
 
 Payment made: $2030.29
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $0.01
+Net payment due: $160.63
 
 === Work on Donations list website (DLW) ===
 
@@ -76,11 +76,21 @@ Total so far: $79.29
 
 * January 19: $79.29. Plan to reduce my Linode cost, to be executed by end of 2021 (https://github.com/vipulnaik/working-drafts/issues/6). Spent 7 hours 49 minutes. Work done on 2020-01-18 and 2020-01-19. Payment determined based on a $10/hour rate ($78.20), and also including reimbursement of costs for a Linode machine run through the day ($1.09). Output of this iteration of work at https://gist.github.com/riceissa/49e331040a809e3dd14c046a07cd79cf
 
+=== Work on coronavirus analysis ===
+
+Total so far: $89.25
+
+* March 29: $89.25. Work done March 13 to March 29. 5.10 hours at $17.50/hour. This was preliminary research that could potentially inform further work by Issa or Vipul; however, based on the preliminary research, we decided to not continue further for now
+
 === Stipends ===
 
-Total so far: $200.97
+Total so far: $272.34
 
 * January: $200.97. 22.33 hours at $9/hour
+
+* February: $6.30. 0.70 hours at $9/hour
+
+* March: $65.07. 7.23 hours at $9/hour
 
 === Payments made ===
 
