@@ -1,5 +1,9 @@
 # Sebastian Sanchez: Timelines Wiki contract work reduction proposal
 
+This proposal was prepared by Vipul Naik on April 5, 2020 and accepted
+by Sebastian Sanchez on the same day. The proposal remains active and
+current as of the most recent edit on this file.
+
 ## Steady state of proposal
 
 ### Impact on Timelines Wiki work
