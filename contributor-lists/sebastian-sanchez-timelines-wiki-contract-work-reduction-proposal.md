@@ -82,11 +82,39 @@ the July limit of 135 hours.
 
 ## Continued monitoring and tweaks
 
+### Month-to-month monitoring
+
 Both Vipul and Sebastian will monitor the impact of this reduced
 number of hours on both Timelines Wiki output and output in other
 areas. The hour limit for a particular month may be reduced by Vipul
 and communicated to Sebastian by the 15th of the previous
 month. Increases may, however, be done later or even during the month.
+
+### Potential long-term trajectory changes
+
+Vipul expects that the reduction to 75 hours will likely last from
+November 2020 till around April 2021, after which Vipul will make a
+decision with Sebastian as to how to further modify the number of
+hours. There is a good chance that stipend for Timelines Wiki work
+will be further reduced to about 30 hours by late 2021. Most likely, such
+a reduction will be done in a phased manner, with the limit going down
+every month by at most 15 hours per month. It is, however, also
+possible that the hour limit will be increased after April 2021, or
+that there will be more months where the hour limit is lifted.
+
+Factors that will affect which way we go include:
+
+* Vipul's income and financial situation
+* Traction of Timelines Wiki (pageviews, reputation)
+* Vipul's personal interest in the continued expansion of Timelines
+  Wiki, as well as specific timelines (for instance, if Vipul finds
+  that there is frequent need for priority work on timelines that does
+  not fit within the 75-hour limit, he may increase the limit)
+* Availability of other co-funders (for instance, Vipul may be
+  interested in increasing stipend hours if the work itself is paid
+  for by other funders)
+* Progress on and cost-effectiveness of other projects that either
+  Sebastian can do or Vipul can fund through other channels
 
 ## Potential impact on work
 
