@@ -75,7 +75,7 @@ month, starting from the current level of about 200 hours. Explicitly:
 Overages can be accumulated even during the transition phase; the
 overage accumulated from a given month will be calculated against the
 limit set for that month. For instance, if Sebastian works 165 hours
-in June on Timelines Wiki, he will be paid for 160 hours and
+in June on Timelines Wiki, he will be paid for 150 hours and
 accumulate an overage of (165 - 150) = 15 hours. If in July he works
 120 or fewer hours, he can use those 15 hours and still stay within
 the July limit of 135 hours.
