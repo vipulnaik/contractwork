@@ -50,7 +50,7 @@ Total so far: $772
 
 === Tentative pending payments ===
 
-Payments for new pages (not yet accepted):
+Payments for new pages (accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_vegetarianism_and_veganism Timeline of vegetarianism and veganism]: $325. Completed April 19, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_vegetarianism_and_veganism&oldid=39455 (2020-04-19 14:37 UTC, 71730 bytes, 7 sample questions, 2 big pictures with 3 rows each, 4 visual data charts, 147 rows in big picture)
 
