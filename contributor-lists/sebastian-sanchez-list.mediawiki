@@ -48,6 +48,12 @@ Total so far: $772
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $370. Completed March 28, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=38402&oldid=19707 diff]. 11 sample questions, 4 new rows in big picture, 5 countries in summary by country, 6 visual data charts, number of rows in big picture increased from 137 to 332; size increased from 75231 bytes to 162981 bytes. Also, updates to data and event types
 
+=== Tentative pending payments ===
+
+Payments for new pages (not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_vegetarianism_and_veganism Timeline of vegetarianism and veganism]: $325. Completed April 19, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_vegetarianism_and_veganism&oldid=39455 (2020-04-19 14:37 UTC, 71730 bytes, 7 sample questions, 2 big pictures with 3 rows each, 4 visual data charts, 147 rows in big picture)
+
 === Stipends ===
 
 Total so far: $2262
