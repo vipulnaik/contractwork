@@ -18,37 +18,15 @@ Note: The arrangement with Issa is much more complicated because, in addition to
 
 For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice
 
-== Impact ==
-
-=== Pageviews ===
-
-Wikipedia Views links for tracking total pageviews of pages created:
-
-* All time (includes pre-2016 pages): http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths
-
-* Only 2016 (however, this also includes Form 1040, that was published on January 1, though included in 2015 payment): http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice%20in%202016&language=en&allmonths=allmonths
-
-* Pages edited significantly but not created: http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20edited%20significantly%20but%20not%20created%20by%20Issa%20Rice&allmonths=allmonths
-
-=== Anecdotal ===
-
-* Howie Lempel (who works for the Open Philanthropy Project) was impressed with the page on the Open Philanthropy Project. He said that in some ways, the page does a better job of conveying what the Open Philanthropy Project has accomplished so far than the website  (with the caveat that both the Wikipedia page and the website only includes publicly available information, and therefore both are limited in accuracy and comprehensiveness).
-
-* Scott Weathers liked the page on the timeline of global health
-
-* Amy Zhang's high school teacher shared the timeline of global health with a UW professor. The timeline of global health was initially created by Issa and later improved upon by Amy.
-
-* People at one of the orgs whose page Issa created offered to buy him drinks if he ever visited their location (note that they did not inappropriately influence the content of the page, beyond pointing to existing references and correcting errors backed by verifiable citations).
-
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $730.78
+Total money earned as income (taxable as income for 2020): $941.22
 
-Payment made: $2030.29
+Payment made: $2401.36
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $160.63
+Net payment due: $0
 
 === Work on Donations list website (DLW) ===
 
@@ -63,6 +41,18 @@ Total so far: $114.90
 Total so far: $50
 
 * January 21: $50. Move to a safe query structure for all the queries at contractwork.vipulnaik.com (https://github.com/vipulnaik/contractwork/issues/21). Spent 3 hours 10 minutes. Work done on 2020-01-20 and 2020-01-21. Payment determined as max{$125, $8.50/hour * 3.17 hours}
+
+=== Work on AI Watch (AIW) ===
+
+Total so far: $5.41
+
+* Work on AI Watch in May: $5.41. Spent 34 minutes. Work done 2020-04-11 and 2020-04-19 at $9.50/hour. This comprises work on https://github.com/riceissa/aiwatch/issues/20 (2020-04-11), https://github.com/riceissa/aiwatch/issues/21 (2020-04-19), and https://github.com/riceissa/aiwatch/issues/22 (2020-04-19).
+
+=== Work on people watching ===
+
+Total so far: $43.75
+
+* Work on people watching in April: $43.75. Spent 10 hours. People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done from 2020-04-22 to 2020-04-27 and mostly focused on learning more about video game designer Jonathan Blow and collecting quotes by him. This would lead to the Wikiquote article https://en.wikiquote.org/wiki/Jonathan_Blow although the article itself would be published in May 2020.
 
 === Work on timelines wiki features ===
 
@@ -84,7 +74,7 @@ Total so far: $89.25
 
 === Stipends ===
 
-Total so far: $272.34
+Total so far: $433.62
 
 * January: $200.97. 22.33 hours at $9/hour
 
@@ -92,13 +82,17 @@ Total so far: $272.34
 
 * March: $65.07. 7.23 hours at $9/hour
 
+* April: $161.28. 17.92 hours at $9/hour
+
 === Payments made ===
 
-Total so far: $1460.13
+Total so far: $2401.36
 
 * $1460.13 via PayPal on January 1, 2020 (from Vipul Naik)
 
 * $570.16 via PayPal on February 6, 2020 (from Vipul Naik)
+
+* $371.07 via PayPal on May 1, 2020 (from Vipul Naik)
 
 == Work and other compensation in 2019 ==
 

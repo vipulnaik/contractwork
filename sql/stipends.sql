@@ -72,7 +72,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',88.02,'2019-12-01','2019-12-31','2019-12-31','Rate of $9/hour effective December 2019. This new rate applies to the first 150 hours of work in each month',9.78,150),
   ('Issa Rice',200.97,'2020-01-01','2020-01-31','2020-01-31','Rate of $9/hour effective December 2019',22.33,150),
   ('Issa Rice',6.30,'2020-02-01','2020-02-29','2020-02-29','Rate of $9/hour effective December 2019',0.70,150),
-  ('Issa Rice',65.07,'2020-03-01','2020-03-31','2020-03-31','Rate of $9/hour effective December 2019',7.23,150);
+  ('Issa Rice',65.07,'2020-03-01','2020-03-31','2020-03-31','Rate of $9/hour effective December 2019',7.23,150),
+  ('Issa Rice',161.28,'2020-04-01','2020-04-30','2020-04-30','Rate of $9/hour effective December 2019',17.92,150);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),
@@ -112,7 +113,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   /* 2020 */
   ('Sebastian Sanchez',720,'2020-01-01','2020-01-31','2020-01-31','The time and payment are only for time spent on Timelines wiki',180),
   ('Sebastian Sanchez',712,'2020-02-01','2020-02-29','2020-02-29','The payment is at $4/hour for a total of 178 hours: 170 spent on Timelines wiki and 8 spent on initial exploration of the Machinelearning subwiki',178),
-  ('Sebastian Sanchez',830,'2020-03-01','2020-03-31','2020-03-31','The payment is at $4/hour for the first 200 hours and $30 for theadditional 12 hours; 195 hours spent on Timelines wiki, 16 hours spent on Machinelearning subwiki, and 1 hour spent on wikiHow work',212);
+  ('Sebastian Sanchez',830,'2020-03-01','2020-03-31','2020-03-31','The payment is at $4/hour for the first 200 hours and $30 for the additional 12 hours; 195 hours spent on Timelines wiki, 16 hours spent on Machinelearning subwiki, and 1 hour spent on wikiHow work',212),
+  ('Sebastian Sanchez',806,'2020-04-01','2020-04-30','2020-04-30','The payment is at $4/hour for all hours, plus an additional $6/hour for 9 hours for which the output is not directly compensated for. Breakdown of time: 177 hours on Timelines wiki, 1 hour on Machinelearning subwiki, 1 hour on wikiHow work, and 9 hours on other projects',188);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');

@@ -16,17 +16,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2020 ==
 
-Total money earned as income: $4664
+Total money earned as income: $6485
 
 Forward balance carried over from 2019: ($2878.30)
 
 Payment made: $4950
 
-Net payment due: ($3164.30)
+Net payment due: ($1343.30)
 
 === Completed pages paid for by Vipul (Timelines Wiki) ===
 
-Total so far: $1630
+Total so far: $2395
 
 * [https://timelines.issarice.com/wiki/Timeline_of_food_and_nutrition_in_China Timeline of food and nutrition in China]: $270. Completed January 1, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_food_and_nutrition_in_China&oldid=35663 (2020-01-01 13:23 UTC, 54035 bytes, 120 rows in full timeline, 6 rows in big picture, 4 sample questions)
 
@@ -36,9 +36,13 @@ Total so far: $1630
 
 * [https://timelines.issarice.com/wiki/Timeline_of_5G Timeline of 5G]: $530. Completed March 19, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_5G&oldid=38100 (2020-03-20 0:12 UTC, 127871 bytes, 11 sample questions, big picture has three tables with 11, 5, and 6 rows respectively, 4 charts, 182 rows in full timeline)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_vegetarianism_and_veganism Timeline of vegetarianism and veganism]: $325. Completed April 19, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_vegetarianism_and_veganism&oldid=39455 (2020-04-19 14:37 UTC, 71730 bytes, 7 sample questions, 2 big pictures with 3 rows each, 4 visual data charts, 147 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_malnutrition Timeline of malnutrition]: $440. Completed April 29, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_malnutrition&oldid=40002 (2020-04-30 03:36 UTC, 122423 bytes, 10 sample questions, 4 rows in big picture, 1 visual data chart, 208 rows in full timeline)
+
 === Additions to existing pages (Timelines Wiki) ===
 
-Total so far: $772
+Total so far: $1022
 
 * [https://timelines.issarice.com/wiki/Timeline_of_WeWork Timeline of WeWork]: $127. Completed January 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_WeWork&type=revision&diff=36314&oldid=18466 diff]. Increased from 34620 bytes to 69379 bytes. In addition to adding about 37 new rows, the changes include edits to existing rows, a new sample questions section with 5 questions, big picture expansion, and a visual data section with 3 charts
 
@@ -48,21 +52,11 @@ Total so far: $772
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $370. Completed March 28, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=38402&oldid=19707 diff]. 11 sample questions, 4 new rows in big picture, 5 countries in summary by country, 6 visual data charts, number of rows in big picture increased from 137 to 332; size increased from 75231 bytes to 162981 bytes. Also, updates to data and event types
 
-=== Tentative pending payments ===
-
-Payments for new pages (accepted):
-
-* [https://timelines.issarice.com/wiki/Timeline_of_vegetarianism_and_veganism Timeline of vegetarianism and veganism]: $325. Completed April 19, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_vegetarianism_and_veganism&oldid=39455 (2020-04-19 14:37 UTC, 71730 bytes, 7 sample questions, 2 big pictures with 3 rows each, 4 visual data charts, 147 rows in full timeline)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_malnutrition Timeline of malnutrition]: $440. Completed April 29, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_malnutrition&oldid=40002 (2020-04-30 03:36 UTC, 122423 bytes, 10 sample questions, 4 rows in big picture, 1 visual data chart, 208 rows in full timeline)
-
-Payments for expansions (accepted):
-
 * [https://timelines.issarice.com/wiki/Timeline_of_recycling Timeline of recycling]: $250. Completed April 28, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_recycling&type=revision&diff=39955&oldid=17061 diff]. 7 sample questions, 103 new rows in full timeline, and a visual data graph; size increased from 24821 bytes to 83572 bytes. Also, a new "Type of event" column
 
 === Stipends ===
 
-Total so far: $2262
+Total so far: $3068
 
 The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines Wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
@@ -70,7 +64,9 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines W
 
 * February: $712. Worked 178 hours, including 170 on Timelines Wiki and 8 on Machinelearning subwiki
 
-* March: $830. Worked 212 hours, including 195 on Timelines Wiki, 16 on ML Machinelearning subwiki, and 1 on reviewing a wikiHow article
+* March: $830. Worked 212 hours, including 195 on Timelines Wiki, 16 on Machinelearning subwiki, and 1 on reviewing a wikiHow article
+
+* April: $806. Worked 188 hours, including 177 on Timelines Wiki, 1 on Machinelearning subwiki, and 1 on reviewing a wikiHow article
 
 === Payment schedule ===
 
