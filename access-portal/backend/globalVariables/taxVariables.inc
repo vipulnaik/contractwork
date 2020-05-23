@@ -1,6 +1,6 @@
 <?php
 
-$currentTaxYear = '2019';
+$currentTaxYear = '2020';
 $standardDeduction['2015'] = 6200;
 $standardDeduction['2016'] = 6300;
 $standardDeduction['2017'] = 6350;
