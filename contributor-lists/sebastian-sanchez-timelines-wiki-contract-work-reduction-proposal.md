@@ -20,7 +20,7 @@ capped to 75 hours per month at $4/hour, with the following caveats:
   used up in later months when he works less than the 75 hours
   limit. For instance, if he works 125 hours each month on Timelines
   Wiki for three months in a row, he accumulated an overage of 3 *
-  (125 - 75) = 150 hours, which is less than the maximum of 240 hours
+  (125 - 75) = 150 hours, which is less than the maximum of 225 hours
   that can be accumulated. If in the fourth month he works just 5
   hours on Timelines Wiki, he can use up 70 of those 150 hours (for a
   total of the cap of 75 hours in that month), leaving an accumulated
