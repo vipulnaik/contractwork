@@ -58,13 +58,11 @@ Total so far: $1022
 
 Total so far: $650
 
-Payments for expansions (not yet accepted):
+Payments for expansions (accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_GiveWell Timeline of GiveWell]: $200. Completed May 30, 2020 (including some final edits from Vipul). [https://timelines.issarice.com/index.php?title=Timeline_of_GiveWell&type=revision&diff=41176&oldid=21529 diff]. Increeased from 52050 bytes to 98903 bytes. 10 sample questions with answer guides (compared to original 4 without answer guides), restructuring of big picture to have a high level and highlights by year, visual data charts including Wikipedia views and Google Trends, and expansion of full timeline from 74 rows to 169 rows
 
 * [https://timelines.issarice.com/wiki/Timeline_of_waste_management Timeline of waste management]: $300. Completed May 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_waste_management&type=revision&diff=41128&oldid=29403 diff]. Increased from 32373 bytes to 116564 bytes. 10 sample questions, restructuring of big picture with multple groupings, and expansion of full timeline from 75 rows to 200 rows
-
-Payments for expansions (accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $150. Completed May 23, 2020 (including some final edits from Vipul). [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&diff=prev&oldid=37190 diff]. Increased from 45851 bytes to 78868 bytes. 9 sample questions, 2 visual data charts, number of rows in full timeline increased from 57 to 103 (with many additional rows on talk page). Also, a new "Domain" column to classify research work better
 
