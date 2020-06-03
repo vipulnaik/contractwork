@@ -20,21 +20,23 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $941.22
+Total money earned as income (taxable as income for 2020): $1152.34
 
 Payment made: $2401.36
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $0
+Net payment due: $211.12
 
 === Work on Donations list website (DLW) ===
 
-Total so far: $114.90
+Total so far: $129.44
 
 * January 8: $39.90. Explore the creation of graphical timeline for donors, donees, and donor-donee pairs based on intended_funding_timeframe_in_months (https://github.com/vipulnaik/donations/issues/125). Spent 4 hours 12 minutes at $9.50/hour. Work done on 2020-01-08. See https://github.com/vipulnaik/donations/issues/125#issuecomment-572384312 for a summary of the work done. This is part of a multi-month effort on the issue
 
 * January 20: $75. Move completely to a safe query structure on donations.vipulnaik.com (https://github.com/vipulnaik/donations/issues/127). Spent 3 hours 24 minutes. Work done on 2020-01-20. Payment determined as max{$75, $9.50/hour * 3.41 hours}
+
+* May: $14.54. Improve the way we deal with renamings for donors and donees (https://github.com/vipulnaik/donations/issues/128). Spent 1 hour 32 hours. Work done 2020-05-18 and 2020-05-19
 
 === Work on contract work portal ===
 
@@ -46,13 +48,17 @@ Total so far: $50
 
 Total so far: $5.41
 
-* Work on AI Watch in May: $5.41. Spent 34 minutes. Work done 2020-04-11 and 2020-04-19 at $9.50/hour. This comprises work on https://github.com/riceissa/aiwatch/issues/20 (2020-04-11), https://github.com/riceissa/aiwatch/issues/21 (2020-04-19), and https://github.com/riceissa/aiwatch/issues/22 (2020-04-19).
+* Work on AI Watch in April: $5.41. Spent 34 minutes. Work done 2020-04-11 and 2020-04-19 at $9.50/hour. This comprises work on https://github.com/riceissa/aiwatch/issues/20 (2020-04-11), https://github.com/riceissa/aiwatch/issues/21 (2020-04-19), and https://github.com/riceissa/aiwatch/issues/22 (2020-04-19).
 
 === Work on people watching ===
 
-Total so far: $43.75
+Total so far: $63.66
 
-* Work on people watching in April: $43.75. Spent 10 hours. People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done from 2020-04-22 to 2020-04-27 and mostly focused on learning more about video game designer Jonathan Blow and collecting quotes by him. This would lead to the Wikiquote article https://en.wikiquote.org/wiki/Jonathan_Blow although the article itself would be published in May 2020.
+People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms.
+
+* Work on people watching in April: $43.75. Spent 10 hours.  The work for this month was done from 2020-04-22 to 2020-04-27 and mostly focused on learning more about video game designer Jonathan Blow and collecting quotes by him. This would lead to the Wikiquote article https://en.wikiquote.org/wiki/Jonathan_Blow although the article itself would be published in May 2020.
+
+* Work on people watching in May: $19.91. Spent 4 hours 33 minutes. The work for this month was done from 2020-05-01 to 2020-05-29 and mostly focused on a post https://www.facebook.com/groups/1781724435404945/permalink/2638709466373100/ seeking a bounty for interesting thinkers. Work also included the publication of https://en.wikiquote.org/wiki/Jonathan_Blow (which was not directed or requested by Vipul Naik).
 
 === Work on timelines wiki features ===
 
@@ -72,9 +78,15 @@ Total so far: $89.25
 
 * March 29: $89.25. Work done March 13 to March 29. 5.10 hours at $17.50/hour. This was preliminary research that could potentially inform further work by Issa or Vipul; however, based on the preliminary research, we decided to not continue further for now
 
+=== Work on wikiHow ===
+
+Total so far: $22.50
+
+* May 3: $22.50. Completed May 3, but most of the actual work done 2018-09-08 to 2018-09-13: wikiHow view count data analysis for 3 hours at $7.50/hour
+
 === Stipends ===
 
-Total so far: $433.62
+Total so far: $587.79
 
 * January: $200.97. 22.33 hours at $9/hour
 
@@ -83,6 +95,8 @@ Total so far: $433.62
 * March: $65.07. 7.23 hours at $9/hour
 
 * April: $161.28. 17.92 hours at $9/hour
+
+* May: $154.17. 17.13 hours at $9/hour
 
 === Payments made ===
 
