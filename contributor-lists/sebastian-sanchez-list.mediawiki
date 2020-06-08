@@ -44,27 +44,27 @@ Total so far: $2395
 
 Total so far: $1672
 
-* [https://timelines.issarice.com/wiki/Timeline_of_WeWork Timeline of WeWork]: $127. Completed January 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_WeWork&type=revision&diff=36314&oldid=18466 diff]. Increased from 34620 bytes to 69379 bytes. In addition to adding about 37 new rows, the changes include edits to existing rows, a new sample questions section with 5 questions, big picture expansion, and a visual data section with 3 charts
+* [https://timelines.issarice.com/wiki/Timeline_of_WeWork Timeline of WeWork]: $127. Completed January 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_WeWork&type=revision&diff=36314&oldid=18466 Diff]. Increased from 34620 bytes to 69379 bytes. In addition to adding about 37 new rows, the changes include edits to existing rows, a new sample questions section with 5 questions, big picture expansion, and a visual data section with 3 charts
 
-* [https://timelines.issarice.com/wiki/Timeline_of_HTTPS_adoption Timeline of HTTPS adoption]: $25. Completed March 1, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_HTTPS_adoption&type=revision&diff=37449&oldid=35060 diff]. Increased from 75358 bytes to 78883 bytes. The expansion incldes 2 new visual data charts and 8 new rows in the full timeline
+* [https://timelines.issarice.com/wiki/Timeline_of_HTTPS_adoption Timeline of HTTPS adoption]: $25. Completed March 1, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_HTTPS_adoption&type=revision&diff=37449&oldid=35060 Diff]. Increased from 75358 bytes to 78883 bytes. The expansion incldes 2 new visual data charts and 8 new rows in the full timeline
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Quora Timeline of Quora]: $250. Completed March 15, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Quora&type=revision&diff=37985&oldid=18139 diff]. Increased from 13206 bytes to 83250 bytes. The expansion includes 6 sample questions, a big picture section with 9 rows, 3 visual data charts, and substantial expansion of the full timeline from 25 rows to 142 rows
+* [https://timelines.issarice.com/wiki/Timeline_of_Quora Timeline of Quora]: $250. Completed March 15, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Quora&type=revision&diff=37985&oldid=18139 Diff]. Increased from 13206 bytes to 83250 bytes. The expansion includes 6 sample questions, a big picture section with 9 rows, 3 visual data charts, and substantial expansion of the full timeline from 25 rows to 142 rows
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $370. Completed March 28, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=38402&oldid=19707 diff]. 11 sample questions, 4 new rows in big picture, 5 countries in summary by country, 6 visual data charts, number of rows in full timeline increased from 137 to 332; size increased from 75231 bytes to 162981 bytes. Also, updates to data and event types
+* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $370. Completed March 28, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=38402&oldid=19707 Diff]. 11 sample questions, 4 new rows in big picture, 5 countries in summary by country, 6 visual data charts, number of rows in full timeline increased from 137 to 332; size increased from 75231 bytes to 162981 bytes. Also, updates to data and event types
 
-* [https://timelines.issarice.com/wiki/Timeline_of_recycling Timeline of recycling]: $250. Completed April 28, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_recycling&type=revision&diff=39955&oldid=17061 diff]. 7 sample questions, 103 new rows in full timeline, and a visual data graph; size increased from 24821 bytes to 83572 bytes. Also, a new "Type of event" column
+* [https://timelines.issarice.com/wiki/Timeline_of_recycling Timeline of recycling]: $250. Completed April 28, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_recycling&type=revision&diff=39955&oldid=17061 Diff]. 7 sample questions, 103 new rows in full timeline, and a visual data graph; size increased from 24821 bytes to 83572 bytes. Also, a new "Type of event" column
 
-* [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $150. Completed May 23, 2020 (including some final edits from Vipul). [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&diff=prev&oldid=37190 diff]. Increased from 45851 bytes to 78868 bytes. 9 sample questions, 2 visual data charts, number of rows in full timeline increased from 57 to 103 (with many additional rows on talk page). Also, a new "Domain" column to classify research work better
+* [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $150. Completed May 23, 2020 (including some final edits from Vipul). [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&diff=prev&oldid=37190 Diff]. Increased from 45851 bytes to 78868 bytes. 9 sample questions, 2 visual data charts, number of rows in full timeline increased from 57 to 103 (with many additional rows on talk page). Also, a new "Domain" column to classify research work better
 
-* [https://timelines.issarice.com/wiki/Timeline_of_waste_management Timeline of waste management]: $300. Completed May 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_waste_management&type=revision&diff=41128&oldid=29403 diff]. Increased from 32373 bytes to 116564 bytes. 10 sample questions, restructuring of big picture with multple groupings, and expansion of full timeline from 75 rows to 200 rows
+* [https://timelines.issarice.com/wiki/Timeline_of_waste_management Timeline of waste management]: $300. Completed May 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_waste_management&type=revision&diff=41128&oldid=29403 Diff]. Increased from 32373 bytes to 116564 bytes. 10 sample questions, restructuring of big picture with multple groupings, and expansion of full timeline from 75 rows to 200 rows
 
-* [https://timelines.issarice.com/wiki/Timeline_of_GiveWell Timeline of GiveWell]: $200. Completed May 30, 2020 (including some final edits from Vipul). [https://timelines.issarice.com/index.php?title=Timeline_of_GiveWell&type=revision&diff=41176&oldid=21529 diff]. Increased from 52050 bytes to 98903 bytes. 10 sample questions with answer guides (compared to original 4 without answer guides), restructuring of big picture to have a high level and highlights by year, visual data charts including Wikipedia views and Google Trends, and expansion of full timeline from 74 rows to 169 rows
+* [https://timelines.issarice.com/wiki/Timeline_of_GiveWell Timeline of GiveWell]: $200. Completed May 30, 2020 (including some final edits from Vipul). [https://timelines.issarice.com/index.php?title=Timeline_of_GiveWell&type=revision&diff=41176&oldid=21529 Diff]. Increased from 52050 bytes to 98903 bytes. 10 sample questions with answer guides (compared to original 4 without answer guides), restructuring of big picture to have a high level and highlights by year, visual data charts including Wikipedia views and Google Trends, and expansion of full timeline from 74 rows to 169 rows
 
 === Tentative pending payments ===
 
 Payments for expansions (not yet accepted):
 
-* [https://timelines.issarice.com/wiki/Timeline_of_influenza Timeline of influenza]: $350. [https://timelines.issarice.com/index.php?title=Timeline_of_influenza&type=revision&diff=41384&oldid=22873 diff]. Increased from 47068 bytes to 144186 bytes. 7 sample questions, restructured big picture, and full timeline expanded from 68 rows to 216 rows
+* [https://timelines.issarice.com/wiki/Timeline_of_influenza Timeline of influenza]: $350. [https://timelines.issarice.com/index.php?title=Timeline_of_influenza&type=revision&diff=41384&oldid=22873 Diff]. Increased from 47068 bytes to 144186 bytes. 7 sample questions, restructured big picture, and full timeline expanded from 68 rows to 216 rows
 
 === Stipends ===
 
@@ -208,41 +208,41 @@ Total so far: $10284
 
 Total so far: $1510
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Lyft Timeline of Lyft]: $75. Completed April 15, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Lyft&type=revision&diff=29209&oldid=11803 diff]. Increased from 22,621 bytes to 41,499 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_Lyft Timeline of Lyft]: $75. Completed April 15, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Lyft&type=revision&diff=29209&oldid=11803 Diff]. Increased from 22,621 bytes to 41,499 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $95. Completed April 15, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=29219&oldid=20741 diff]. Increased from 36,757 bytes to 59,665 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $95. Completed April 15, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=29219&oldid=20741 Diff]. Increased from 36,757 bytes to 59,665 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Uber Timeline of Uber]: $105. Completed April 15, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Uber&type=revision&diff=29201&oldid=21595 diff]. Increased from 97,041 bytes to 123,184 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_Uber Timeline of Uber]: $105. Completed April 15, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Uber&type=revision&diff=29201&oldid=21595 Diff]. Increased from 97,041 bytes to 123,184 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_animal_testing Timeline of animal testing]: $15. Completed April 28, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_animal_testing&type=revision&diff=29443&oldid=26640 diff]. Increased from 38,518 bytes to 41,582 bytes, with 4 rows added.
+* [https://timelines.issarice.com/wiki/Timeline_of_animal_testing Timeline of animal testing]: $15. Completed April 28, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_animal_testing&type=revision&diff=29443&oldid=26640 Diff]. Increased from 38,518 bytes to 41,582 bytes, with 4 rows added.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_GitHub Timeline of GitHub]: $110. Completed May 26, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_GitHub&type=revision&diff=30080&oldid=23707 diff]. Increased from 62,157 bytes to 101,657 bytes, with 39 rows added.
+* [https://timelines.issarice.com/wiki/Timeline_of_GitHub Timeline of GitHub]: $110. Completed May 26, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_GitHub&type=revision&diff=30080&oldid=23707 Diff]. Increased from 62,157 bytes to 101,657 bytes, with 39 rows added.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $70. Completed July 10, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&type=revision&diff=31243&oldid=29270 diff]. Increased from 28,864 bytes to 44,187 bytes
+* [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $70. Completed July 10, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&type=revision&diff=31243&oldid=29270 Diff]. Increased from 28,864 bytes to 44,187 bytes
 
-* [https://timelines.issarice.com/wiki/Timeline_of_online_food_delivery Timeline of online food delivery]: $175. Completed July 24, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_online_food_delivery&type=revision&diff=31862&oldid=15864 diff]. Increased from 30,464 bytes to 71,762 bytes
+* [https://timelines.issarice.com/wiki/Timeline_of_online_food_delivery Timeline of online food delivery]: $175. Completed July 24, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_online_food_delivery&type=revision&diff=31862&oldid=15864 Diff]. Increased from 30,464 bytes to 71,762 bytes
 
-* [https://timelines.issarice.com/wiki/Timeline_of_pollution Timeline of pollution]: $33. Completed July 31, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_pollution&type=revision&diff=32148&oldid=31131 diff]. Increased from 49,460 bytes to 56,235 bytes
+* [https://timelines.issarice.com/wiki/Timeline_of_pollution Timeline of pollution]: $33. Completed July 31, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_pollution&type=revision&diff=32148&oldid=31131 Diff]. Increased from 49,460 bytes to 56,235 bytes
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Pinterest Timeline of Pinterest]: $95. Completed August 24, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Pinterest&type=revision&diff=32626&oldid=12850 diff]. Increased from 51,453 bytes to 82,654 bytes; about 31 new rows in full timeline and 1 new row in big picture
+* [https://timelines.issarice.com/wiki/Timeline_of_Pinterest Timeline of Pinterest]: $95. Completed August 24, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Pinterest&type=revision&diff=32626&oldid=12850 Diff]. Increased from 51,453 bytes to 82,654 bytes; about 31 new rows in full timeline and 1 new row in big picture
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Wi-Fi Timeline of Wi-Fi]: $35. Completed July 31, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Wi-Fi&type=revision&diff=32166&oldid=29432 diff] Increased from 30,631 bytes to 37,058 bytes
+* [https://timelines.issarice.com/wiki/Timeline_of_Wi-Fi Timeline of Wi-Fi]: $35. Completed July 31, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Wi-Fi&type=revision&diff=32166&oldid=29432 Diff] Increased from 30,631 bytes to 37,058 bytes
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Reddit Timeline of Reddit]: $135. Completed September 23, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Reddit&type=revision&diff=33904&oldid=25173 diff]. Increased from 40,195 bytes to 79,371 bytes; 2 rows added to big picture and about 40 rows added to full timeline (along with edits to existing rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Reddit Timeline of Reddit]: $135. Completed September 23, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Reddit&type=revision&diff=33904&oldid=25173 Diff]. Increased from 40,195 bytes to 79,371 bytes; 2 rows added to big picture and about 40 rows added to full timeline (along with edits to existing rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_mobile_telephony Timeline of mobile telephony]: $140. Completed October 19, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_mobile_telephony&type=revision&diff=33936&oldid=18670 diff]. Increased from 55,266 bytes to 84,363 bytes, with about 63 new rows
+* [https://timelines.issarice.com/wiki/Timeline_of_mobile_telephony Timeline of mobile telephony]: $140. Completed October 19, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_mobile_telephony&type=revision&diff=33936&oldid=18670 Diff]. Increased from 55,266 bytes to 84,363 bytes, with about 63 new rows
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Airbnb Timeline of Airbnb]: $135. Completed October 19, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Airbnb&type=revision&diff=33913&oldid=11658 diff]. Increased from 46,762 bytes to 88,268 bytes; 2 rows added to big picture and about 39 rows added to full timeline (along with edits to existing rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Airbnb Timeline of Airbnb]: $135. Completed October 19, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Airbnb&type=revision&diff=33913&oldid=11658 Diff]. Increased from 46,762 bytes to 88,268 bytes; 2 rows added to big picture and about 39 rows added to full timeline (along with edits to existing rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Slack Timeline of Slack]: $105. Completed October 20, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Slack&type=revision&diff=33955&oldid=18085 diff]. Increased from 51,797 bytes to 86,357 bytes; 2 rows added to big picture and about 30 rows added to full timeline (along with edits to existing rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_Slack Timeline of Slack]: $105. Completed October 20, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Slack&type=revision&diff=33955&oldid=18085 Diff]. Increased from 51,797 bytes to 86,357 bytes; 2 rows added to big picture and about 30 rows added to full timeline (along with edits to existing rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2018 Timeline of malaria in 2018]: $15. Completed October 21, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2018&type=revision&diff=33983&oldid=28690 diff]. Increased from 68,874 bytes to 72,602 bytes; 4 rows added to full timeline (along with edits to existing rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2018 Timeline of malaria in 2018]: $15. Completed October 21, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2018&type=revision&diff=33983&oldid=28690 Diff]. Increased from 68,874 bytes to 72,602 bytes; 4 rows added to full timeline (along with edits to existing rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_The_Global_Fund_to_Fight_AIDS,_Tuberculosis_and_Malaria Timeline of The Global Fund to Fight AIDS, Tuberculosis and Malaria]: $7. Completed October 21, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_The_Global_Fund_to_Fight_AIDS%2C_Tuberculosis_and_Malaria&type=revision&diff=33988&oldid=33950 diff]. Increased from 30,230 bytes to 31,501 bytes; 2 rows added to full timeline (along with edits to existing rows)
+* [https://timelines.issarice.com/wiki/Timeline_of_The_Global_Fund_to_Fight_AIDS,_Tuberculosis_and_Malaria Timeline of The Global Fund to Fight AIDS, Tuberculosis and Malaria]: $7. Completed October 21, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_The_Global_Fund_to_Fight_AIDS%2C_Tuberculosis_and_Malaria&type=revision&diff=33988&oldid=33950 Diff]. Increased from 30,230 bytes to 31,501 bytes; 2 rows added to full timeline (along with edits to existing rows)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation Timeline of Against Malaria Foundation]: $75. Completed December 7, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=35171 diff]. Increased from 55776 bytes to 67997 bytes. In addition to adding new rows, the changes also include the addition of a location column and redefinition of event types for more consistency with other timelines and with additional rows
+* [https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation Timeline of Against Malaria Foundation]: $75. Completed December 7, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=35171 Diff]. Increased from 55776 bytes to 67997 bytes. In addition to adding new rows, the changes also include the addition of a location column and redefinition of event types for more consistency with other timelines and with additional rows
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Animal_Charity_Evaluators Timeline of Animal Charity Evaluators]: $90. Completed December 7, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Animal_Charity_Evaluators&type=revision&diff=35161&oldid=25570 diff]. Increased from 24906 bytes to 40101 bytes. In addition to adding new rows, the changes also include 4 sample questions and redefinition of event types for more consistency with other timelines and with additional rows
+* [https://timelines.issarice.com/wiki/Timeline_of_Animal_Charity_Evaluators Timeline of Animal Charity Evaluators]: $90. Completed December 7, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Animal_Charity_Evaluators&type=revision&diff=35161&oldid=25570 Diff]. Increased from 24906 bytes to 40101 bytes. In addition to adding new rows, the changes also include 4 sample questions and redefinition of event types for more consistency with other timelines and with additional rows
 
 === Stipends ===
 
@@ -468,39 +468,39 @@ Total so far: $250
 
 Total so far: $485
 
-* [https://timelines.issarice.com/wiki/Timeline_of_salesforce.com Timeline of salesforce.com]: $12. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_salesforce.com&type=revision&diff=19549&oldid=18711 diff]. Increased from 63,311 bytes to 66,475 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_salesforce.com Timeline of salesforce.com]: $12. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_salesforce.com&type=revision&diff=19549&oldid=18711 Diff]. Increased from 63,311 bytes to 66,475 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_senescence_research Timeline of senescence research]: $12. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_senescence_research&type=revision&diff=19553&oldid=11852 diff]. Increased from 24,383 bytes to 26,962 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_senescence_research Timeline of senescence research]: $12. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_senescence_research&type=revision&diff=19553&oldid=11852 Diff]. Increased from 24,383 bytes to 26,962 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_measles Timeline of measles]: $3. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_measles&type=revision&diff=19564&oldid=11874 diff]. Increased from 22,651 bytes to 23,270 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_measles Timeline of measles]: $3. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_measles&type=revision&diff=19564&oldid=11874 Diff]. Increased from 22,651 bytes to 23,270 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $70. Completed January 31, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=19707&oldid=16223 diff]. Increased from 58,300 bytes to 75,231 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $70. Completed January 31, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=19707&oldid=16223 Diff]. Increased from 58,300 bytes to 75,231 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_cardiovascular_disease Timeline of cardiovascular disease]: $26. Completed March 1, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_cardiovascular_disease&type=revision&diff=20432&oldid=11900 diff]. Increased from 34,495 bytes to 40,257 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_cardiovascular_disease Timeline of cardiovascular disease]: $26. Completed March 1, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_cardiovascular_disease&type=revision&diff=20432&oldid=11900 Diff]. Increased from 34,495 bytes to 40,257 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_poliomyelitis Timeline of poliomyelitis]: $25. Completed April 5, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_poliomyelitis&type=revision&diff=21384&oldid=13322 diff]. Increased from 24,423 bytes to 29,093 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_poliomyelitis Timeline of poliomyelitis]: $25. Completed April 5, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_poliomyelitis&type=revision&diff=21384&oldid=13322 Diff]. Increased from 24,423 bytes to 29,093 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_GiveWell Timeline of GiveWell]: $10. Completed April 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_GiveWell&type=revision&diff=21529&oldid=19667 diff]. Increased 49,957 bytes to 52,050 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_GiveWell Timeline of GiveWell]: $10. Completed April 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_GiveWell&type=revision&diff=21529&oldid=19667 Diff]. Increased 49,957 bytes to 52,050 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_hygiene Timeline of hygiene]: $8. Completed April 13, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_hygiene&type=revision&diff=21567&oldid=17796 diff]. Increased from 26,861 bytes to 28,349 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_hygiene Timeline of hygiene]: $8. Completed April 13, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_hygiene&type=revision&diff=21567&oldid=17796 Diff]. Increased from 26,861 bytes to 28,349 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Facebook Timeline of Facebook]: $56. Completed April 15, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Facebook&type=revision&diff=21592&oldid=17146 diff]. Increased from 149,821 bytes to 167,737 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_Facebook Timeline of Facebook]: $56. Completed April 15, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Facebook&type=revision&diff=21592&oldid=17146 Diff]. Increased from 149,821 bytes to 167,737 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Uber Timeline of Uber]: $52. Completed April 15, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Uber&type=revision&diff=21595&oldid=17088 diff]. Increased from 80,804 bytes to 97,041 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_Uber Timeline of Uber]: $52. Completed April 15, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Uber&type=revision&diff=21595&oldid=17088 Diff]. Increased from 80,804 bytes to 97,041 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Innovations_for_Poverty_Action Timeline of Innovations for Poverty Action]: $25. Completed April 19, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Innovations_for_Poverty_Action&type=revision&diff=21737&oldid=18824 diff]. Increased from 5,256 bytes to 9,413 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_Innovations_for_Poverty_Action Timeline of Innovations for Poverty Action]: $25. Completed April 19, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Innovations_for_Poverty_Action&type=revision&diff=21737&oldid=18824 Diff]. Increased from 5,256 bytes to 9,413 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Amazon.com Timeline of Amazon.com]: $37. Completed April 28, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Amazon.com&type=revision&diff=21974&oldid=15863 diff]. Increased from 29,817 bytes to 41,269 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_Amazon.com Timeline of Amazon.com]: $37. Completed April 28, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Amazon.com&type=revision&diff=21974&oldid=15863 Diff]. Increased from 29,817 bytes to 41,269 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Spotify Timeline of Spotify]: $26. Completed May 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Spotify&type=revision&diff=22343&oldid=18473 diff]. Increased from 41,067 bytes to 49,875 bytes
+* [https://timelines.issarice.com/wiki/Timeline_of_Spotify Timeline of Spotify]: $26. Completed May 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Spotify&type=revision&diff=22343&oldid=18473 Diff]. Increased from 41,067 bytes to 49,875 bytes
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Netflix Timeline of Netflix]: $35. Completed July 15, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Netflix&type=revision&diff=23937&oldid=13850 diff]. Increased from 21,803 bytes to 31,153 bytes.
+* [https://timelines.issarice.com/wiki/Timeline_of_Netflix Timeline of Netflix]: $35. Completed July 15, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Netflix&type=revision&diff=23937&oldid=13850 Diff]. Increased from 21,803 bytes to 31,153 bytes.
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Facebook Timeline of Facebook]: $20. Completed December 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Facebook&type=revision&diff=26995&oldid=21985 diff]. Increased from 170,603 bytes to 177,502 bytes
+* [https://timelines.issarice.com/wiki/Timeline_of_Facebook Timeline of Facebook]: $20. Completed December 12, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Facebook&type=revision&diff=26995&oldid=21985 Diff]. Increased from 170,603 bytes to 177,502 bytes
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Instagram Timeline of Instagram]: $33. Completed December 17, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Instagram&type=revision&diff=27071&oldid=13997 diff]. Increased from 28,786 bytes to 39,203 bytes
+* [https://timelines.issarice.com/wiki/Timeline_of_Instagram Timeline of Instagram]: $33. Completed December 17, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_Instagram&type=revision&diff=27071&oldid=13997 Diff]. Increased from 28,786 bytes to 39,203 bytes
 
-* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2017 Timeline of malaria in 2017]: $35. Completed December 21, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2017&type=revision&diff=27093&oldid=15617 diff]. Increased from 28,094 bytes to 35,336 bytes
+* [https://timelines.issarice.com/wiki/Timeline_of_malaria_in_2017 Timeline of malaria in 2017]: $35. Completed December 21, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_malaria_in_2017&type=revision&diff=27093&oldid=15617 Diff]. Increased from 28,094 bytes to 35,336 bytes
 
 === Stipends ===
 
