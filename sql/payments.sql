@@ -48,7 +48,8 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Western Union','Sebastian Sanchez',NULL,'2019-08-25','2019-08-25','2019-08-26','2019-08-26',4950,4970,20,4950,'Payee gets 271770.03 ARS. The exchange rate used by Western Union matches the market exchange rate at the time of transfer (1 USD = 54.63 ARS)'),
   ('Western Union','Sebastian Sanchez',NULL,'2019-12-14','2019-12-14','2019-12-16','2019-12-16',4950,4990,40,4950,'Payee gets 354370.50 ARS. The exchange rate used by Western Union matches the "true" market exchange rate at the time of transfer (1 USD = 71.59 ARS)'),
   ('Western Union','Sebastian Sanchez',NULL,'2020-02-08','2020-02-08','2020-02-10','2020-02-10',4950,4990,40,4950,'Payee gets 413424 ARS. The exchange rate used by Western Union matches the "true" market exchange rate at the time of transfer (1 USD = 83.52 ARS)'),
-  ('Bitcoin','Sebastian Sanchez',NULL,'2020-06-02','2020-06-02','2020-06-02','2020-06-02',190.13,190.13,0,190.13,'Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value ta time of transaction), with a very small transaction fee of 0.00002820 BTC. Transaction available online at https://www.blockchain.com/btc/tx/c2c3141e13437ff181cee7caceda69913d3715fc1af7a6bab0b3a8250a497413'),
+  ('Bitcoin','Sebastian Sanchez',NULL,'2020-06-02','2020-06-02','2020-06-02','2020-06-02',190.13,190.13,0,190.13,'Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00002820 BTC. Transaction available online at https://www.blockchain.com/btc/tx/c2c3141e13437ff181cee7caceda69913d3715fc1af7a6bab0b3a8250a497413 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading)'),
+  ('Bitcoin','Sebastian Sanchez',NULL,'2020-06-10','2020-06-10','2020-06-10','2020-06-10',1484.19,1484.19,0,1484.19,'Transaction in Bitcoin for 0.15 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00026640 BTC. Transaction available online at https://www.blockchain.com/btc/tx/8ac25795213e7032d055994f77b8163a74c345522f1dfb7c7899b47125f88ecf'),
 
   /* Ethan Bashkansky payments */
   ('Cash','Ethan Bashkansky','Issa Rice','2016-02-17','2016-02-17','2016-02-17','2016-02-17',115,115,0,115,NULL),
@@ -115,7 +116,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
 
   /* Mati Roy */
   ('PayPal','Mati Roy',NULL,'2019-02-17','2019-02-17','2019-02-17','2019-02-17',500,500,18.82,481.18,NULL),
-  ('Bitcoin','Mati Roy',NULL,'2019-08-17','2019-08-17','2019-08-17','2019-08-17',100,100.69,0.69,100,NULL),
+  ('Bitcoin','Mati Roy',NULL,'2019-08-17','2019-08-17','2019-08-17','2019-08-17',100,100.69,0.69,100,'Transaction in Bitcoin for 0.00981355 BTC (and calculated in terms of USD value at time of transaction) with a very small transaction fee of 0.00006799 BTC. Transaction available online at https://www.blockchain.com/btc/tx/c84d76588c3f8819dabe5c9f4d8eaac5d670f87f0d1de21d8efa7f44247dd820 (note that the transaction as shown in Blockchain appears to additionally allocate 0.00225072 BTC to another account, and that should be ignored)'),
 
   /* Adrian Ulloa payment */
   ('PayPal','Adrian Ulloa','Issa Rice','2016-08-26','2016-08-26','2016-08-26','2016-08-26',105,105.53,0.53,105,NULL),

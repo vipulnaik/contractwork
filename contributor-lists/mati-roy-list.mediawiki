@@ -40,4 +40,4 @@ Total so far: $100
 Total so far: $600
 
 * 2019-02-17: $500 via PayPal. Sent $500 USD, overhead of $18.82, received $481.18 USD. Overhead because the worker is based on Canada.
-* 2019-08-17: $100 via PayPal. Sent $100 USD in the form of BTC from Coinbase to a Bitcoin Wallet; the amount in BTC is 0.00988154 BTC. The network fee was 0.00988154 BTC or about $0.69
+* 2019-08-17: $100 via PayPal. Transaction in Bitcoin for 0.00981355 BTC (and calculated in terms of USD value at time of transaction) with a very small transaction fee of 0.00006799 BTC. Transaction available online at https://www.blockchain.com/btc/tx/c84d76588c3f8819dabe5c9f4d8eaac5d670f87f0d1de21d8efa7f44247dd820 (note that the transaction as shown in Blockchain appears to additionally allocate 0.00225072 BTC to another account, and that should be ignored)
