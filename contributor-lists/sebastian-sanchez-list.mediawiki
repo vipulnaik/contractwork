@@ -64,7 +64,7 @@ Total so far: $2032
 
 === Tentative pending payments ===
 
-Tentative payments for new pages (not yet accepted):
+Tentative payments for new pages (accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_search_engine_optimization Timeline of search engine optimization]: $264. Completed July 7, 2020. Completed version at https://timelines.issarice.com/wiki/Timeline_of_search_engine_optimization (2020-07-07 18:42 UTC, 70962 bytes, 2 charts, 5 rows in big picture, 6 sample questions, 126 rows in full timeline)
 
