@@ -65,7 +65,7 @@ pull request.
 
 ## Org Watch (OW)
 
-In total, Vipul hopes that Sebastian can spend between 10 and 30 hours
+In total, Vipul hopes that Sebastian can spend between 5 and 25 hours
 per month on OW, at a pay rate of $5/hour (on top of stipend). As
 Sebastian becomes more efficient, the pay rate for this work can be
 increased.

@@ -62,6 +62,12 @@ Total so far: $2032
 
 * [https://timelines.issarice.com/wiki/Timeline_of_influenza Timeline of influenza]: $360. Completed June 30, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_influenza&type=revision&diff=42236&oldid=22873 Diff]. Increased from 47068 bytes to 147284 bytes. 7 sample questions, restructured big picture, added Google Trends, and full timeline expanded from 68 rows to 220 rows
 
+=== Tentative pending payments ===
+
+Tentative payments for new pages (not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_search_engine_optimization Timeline of search engine optimization]: $264. Completed July 7, 2020. Completed version at https://timelines.issarice.com/wiki/Timeline_of_search_engine_optimization (2020-07-07 18:42 UTC, 70962 bytes, 2 charts, 5 rows in big picture, 6 sample questions, 126 rows in full timeline)
+
 === Stipends ===
 
 Total so far: $4611
