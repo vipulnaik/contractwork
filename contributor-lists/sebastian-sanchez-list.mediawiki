@@ -16,13 +16,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2020 ==
 
-Total money earned as income: $9028
+Total money earned as income: $9038
 
 Forward balance carried over from 2019: ($2878.30)
 
-Payment made: $6624.32
+Payment made: $11328.66
 
-Net payment due: ($464.62)
+Net payment due: ($5169.26)
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
@@ -92,13 +92,15 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines w
 
 === Payment schedule ===
 
-Total so far: $6624.32
+Total so far: $11328.66
 
 * $4950 sent Saturday, February 8, 2020, received Monday, February 10, 2020. Sent $4950 + $40 transaction fees via Western Union, receiver got 413424 ARS. The exchange rate used by Western Union matches the market exchange rate at the time (1 USD = 83.52 ARS)
 
 * $190.13 sent and received Tuesday, June 2, 2020. Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00002820 BTC. Transaction available online at https://www.blockchain.com/btc/tx/c2c3141e13437ff181cee7caceda69913d3715fc1af7a6bab0b3a8250a497413 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading). Sebastian received 22746 ARS for the 0.02 BTC
 
 * $1484.19 sent and received Wednesday, June 10, 2020. Transaction in Bitcoin for 0.15 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00026640 BTC. Transaction available online at https://www.blockchain.com/btc/tx/8ac25795213e7032d055994f77b8163a74c345522f1dfb7c7899b47125f88ecf Sebastian received 171351.46 ARS for the 0.15 BTC
+
+* $4704.64 sent and received Wednesday, July 8, 2020. Transaction in Bitcoin for 0.50 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00056663 BTC. Transaction available online at https://www.blockchain.com/btc/tx/53a5687a3c0f4f277f43f303c88fb127e603781cdc31221fc8fa9bb350fc3cd7 Sebastian received 526911.24 ARS for the 0.50 BTC
 
 == Work in 2019 ==
 
