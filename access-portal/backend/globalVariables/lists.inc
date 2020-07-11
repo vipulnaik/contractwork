@@ -8,7 +8,7 @@ $monthList = array("2015-01","2015-02","2015-03","2015-04","2015-05","2015-06","
 
 $taskTypes = array('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry','Task listing','Content migration','Timelines page creation','Timelines page update','Worker onboarding and assistance','On-the-ground investigation','People watching');
 
-$taskVenues = array('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','PredictionBook','Facebook', 'Devec subwiki', 'Demography subwiki', 'Devec/Demography data portal','AI Watch','People repo','Wikipedia spotlight','Computing data project','Cause Prioritization Wiki','Org Watch','analytics.vipulnaik.com','None');
+$taskVenues = array('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','PredictionBook','Facebook', 'Devec subwiki', 'Demography subwiki', 'Devec/Demography data portal','AI Watch','People repo','Wikipedia spotlight','Computing data project','Cause Prioritization Wiki','Org Watch','analytics.vipulnaik.com','Wikiquote','AI safety wiki','None');
 
 $taskFormats = array('Timeline','Prose','Table','Code','Photos/videos + notes','Code and data','Communication with Vipul','Communication with worker','Email');
 

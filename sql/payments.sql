@@ -106,12 +106,12 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Direct deposit','Issa Rice',NULL,'2019-11-15','2019-11-15','2019-11-15','2019-11-15',50,50,0,50,'Payment from Centre for Effective Altruism (CEA) for an EA Forum comment prize'),
 
   /* Payment sent in 2020 to wrap up pending amounts due from 2019 tax year */
-  ('PayPal','Issa Rice',NULL,'2020-01-01','2020-01-01','2020-01-01','2020-01-01',1460.13,1460.13,0,1460.13,'We decided to try out PayPal to clear out the existing amount due, because the amount was large enough to be worth a transfer, but too small to be worth the overhead of a check. Fortunately, PayPal worked'),
+  ('PayPal','Issa Rice',NULL,'2020-01-01','2020-01-01','2020-01-01','2020-01-01',1460.13,1460.13,0,1460.13,'We decided to try out PayPal to clear out the existing amount due, because the amount was large enough to be worth a transfer, but too small to be worth the overhead of a check. Fortunately, PayPal worked.'),
 
   /* Payments for 2020 tax year */
-  ('PayPal','Issa Rice',NULL,'2020-02-06','2020-02-06','2020-02-06','2020-02-06',570.16,570.16,0,570.16,'Since the amount due was over $300, we decided to clear it via PayPal'),
-  ('PayPal','Issa Rice',NULL,'2020-05-01','2020-05-01','2020-05-01','2020-05-01',371.07,371.07,0,371.07,'Since the amount due was over $300, we decided to clear it via PayPal'),
-
+  ('PayPal','Issa Rice',NULL,'2020-02-06','2020-02-06','2020-02-06','2020-02-06',570.16,570.16,0,570.16,'Since the amount due was over $300, we decided to clear it via PayPal.'),
+  ('PayPal','Issa Rice',NULL,'2020-05-01','2020-05-01','2020-05-01','2020-05-01',371.07,371.07,0,371.07,'Since the amount due was over $300, we decided to clear it via PayPal.'),
+  ('PayPal','Issa Rice',NULL,'2020-07-10','2020-07-10','2020-07-10','2020-07-10',354.03,354.03,0,354.03,'Since the amount due was over $300, we decided to clear it via PayPal.'),
   /* Orpheus Lummis */
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160,NULL),
 

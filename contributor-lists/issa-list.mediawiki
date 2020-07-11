@@ -20,13 +20,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $1152.34
+Total money earned as income (taxable as income for 2020): $1295.25
 
-Payment made: $2401.36
+Payment made: $2755.39
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $211.12
+Net payment due: $0
 
 === Work on Donations list website (DLW) ===
 
@@ -50,15 +50,25 @@ Total so far: $5.41
 
 * Work on AI Watch in April: $5.41. Spent 34 minutes. Work done 2020-04-11 and 2020-04-19 at $9.50/hour. This comprises work on https://github.com/riceissa/aiwatch/issues/20 (2020-04-11), https://github.com/riceissa/aiwatch/issues/21 (2020-04-19), and https://github.com/riceissa/aiwatch/issues/22 (2020-04-19).
 
+=== Work on AI safety wiki ===
+
+Total so far: $32.38
+
+AI safety wiki work is currently hosted at the [https://wiki.issarice.com/wiki/Category:AI_safety AI safety category on Issawiki], with the goal to eventually move it to a canonical standalone AI safety wiki (either one created by the LessWrong team or a subwiki set up by Vipul). Wiki-wide revision history can be seen [https://wiki.issarice.com/wiki/Special:RecentChanges here]; there does not seem to be a link to view changs just to stuff in the AI safety category. Compensation for the work is $4.375/hour, capped at 10 hours per month.
+
+* Work on AI safety wiki in June: $32.38. Spent 7 hours 24 minutes. Work done 2020-06-01 to 2020-06-30.
+
 === Work on people watching ===
 
-Total so far: $63.66
+Total so far: $75.82
 
 People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms.
 
-* Work on people watching in April: $43.75. Spent 10 hours.  The work for this month was done from 2020-04-22 to 2020-04-27 and mostly focused on learning more about video game designer Jonathan Blow and collecting quotes by him. This would lead to the Wikiquote article https://en.wikiquote.org/wiki/Jonathan_Blow although the article itself would be published in May 2020.
+* Work on people watching in April: $43.75. Spent 10 hours. The work for this month was done from 2020-04-22 to 2020-04-27 and mostly focused on learning more about video game designer Jonathan Blow and collecting quotes by him. This would lead to the Wikiquote article https://en.wikiquote.org/wiki/Jonathan_Blow although the article itself would be published in May 2020.
 
 * Work on people watching in May: $19.91. Spent 4 hours 33 minutes. The work for this month was done from 2020-05-01 to 2020-05-29 and mostly focused on a post https://www.facebook.com/groups/1781724435404945/permalink/2638709466373100/ seeking a bounty for interesting thinkers. Work also included the publication of https://en.wikiquote.org/wiki/Jonathan_Blow (which was not directed or requested by Vipul Naik).
+
+* Work on people watching in June: $12.16. Spent 2 hours 47 minutes. The work for this month was done from 2020-06-04 to 2020-06-26.
 
 === Work on timelines wiki features ===
 
@@ -86,7 +96,7 @@ Total so far: $22.50
 
 === Stipends ===
 
-Total so far: $587.79
+Total so far: $686.16
 
 * January: $200.97. 22.33 hours at $9/hour
 
@@ -98,15 +108,19 @@ Total so far: $587.79
 
 * May: $154.17. 17.13 hours at $9/hour
 
+* June: $98.37. 10.93 hours at $9/hour
+
 === Payments made ===
 
-Total so far: $2401.36
+Total so far: $2755.39
 
 * $1460.13 via PayPal on January 1, 2020 (from Vipul Naik)
 
 * $570.16 via PayPal on February 6, 2020 (from Vipul Naik)
 
 * $371.07 via PayPal on May 1, 2020 (from Vipul Naik)
+
+* $354.03 via PayPal on July 10, 2020 (from Vipul Naik)
 
 == Work and other compensation in 2019 ==
 
