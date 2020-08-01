@@ -118,7 +118,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',830,'2020-03-01','2020-03-31','2020-03-31','The payment is at $4/hour for the first 200 hours and $30 for the additional 12 hours; 195 hours spent on Timelines wiki, 16 hours spent on Machinelearning subwiki, and 1 hour spent on wikiHow work',212),
   ('Sebastian Sanchez',806,'2020-04-01','2020-04-30','2020-04-30','The payment is at $4/hour for all hours, plus an additional $6/hour for 9 hours for which the output is not directly compensated for. Breakdown of time: 177 hours on Timelines wiki, 1 hour on Machinelearning subwiki, 1 hour on wikiHow work, and 9 hours on other projects',188),
   ('Sebastian Sanchez',808,'2020-05-01','2020-05-31','2020-05-31','The payment is at $4/hour for all hours, plus an additional $5/hour for 20 hours for which the output is not directly compensated for. Worked 177 hours, including 157 on Timelines wiki',177),
-  ('Sebastian Sanchez',735,'2020-06-01','2020-06-30','2020-06-30','The payment is at $4/hour for all hours, plus an additional $5/hour for 15 hours for which the output is not directly compensated for. Worked 165 hours, including 150 on Timelines wiki',165);
+  ('Sebastian Sanchez',735,'2020-06-01','2020-06-30','2020-06-30','The payment is at $4/hour for all hours, plus an additional $5/hour for 15 hours for which the output is not directly compensated for. Worked 165 hours, including 150 on Timelines wiki',165),
+  ('Sebastian Sanchez',740,'2020-07-01','2020-07-31','2020-07-31','The payment is at $4/hour for all hours, plus an additional $5/hour for 12 hours for which output is noot directly compensated for. Worked 170 hours, including 130 on Timelines wiki and 28 on Org Watch',170);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');
