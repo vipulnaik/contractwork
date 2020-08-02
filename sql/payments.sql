@@ -112,6 +112,8 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Issa Rice',NULL,'2020-02-06','2020-02-06','2020-02-06','2020-02-06',570.16,570.16,0,570.16,'Since the amount due was over $300, we decided to clear it via PayPal.'),
   ('PayPal','Issa Rice',NULL,'2020-05-01','2020-05-01','2020-05-01','2020-05-01',371.07,371.07,0,371.07,'Since the amount due was over $300, we decided to clear it via PayPal.'),
   ('PayPal','Issa Rice',NULL,'2020-07-10','2020-07-10','2020-07-10','2020-07-10',354.03,354.03,0,354.03,'Since the amount due was over $300, we decided to clear it via PayPal.'),
+  ('PayPal','Issa Rice',NULL,'2020-08-01','2020-08-01','2020-08-01','2020-08-01',306.63,306.63,0,306.03,'Since the amount due was over $300, we decided to clear it via PayPal.'),
+
   /* Orpheus Lummis */
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160,NULL),
 

@@ -20,7 +20,7 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $1295.25
+Total money earned as income (taxable as income for 2020): $1601.88
 
 Payment made: $2755.39
 
@@ -30,13 +30,15 @@ Net payment due: $0
 
 === Work on Donations list website (DLW) ===
 
-Total so far: $129.44
+Total so far: $141.60
 
 * January 8: $39.90. Explore the creation of graphical timeline for donors, donees, and donor-donee pairs based on intended_funding_timeframe_in_months (https://github.com/vipulnaik/donations/issues/125). Spent 4 hours 12 minutes at $9.50/hour. Work done on 2020-01-08. See https://github.com/vipulnaik/donations/issues/125#issuecomment-572384312 for a summary of the work done. This is part of a multi-month effort on the issue
 
 * January 20: $75. Move completely to a safe query structure on donations.vipulnaik.com (https://github.com/vipulnaik/donations/issues/127). Spent 3 hours 24 minutes. Work done on 2020-01-20. Payment determined as max{$75, $9.50/hour * 3.41 hours}
 
 * May: $14.54. Improve the way we deal with renamings for donors and donees (https://github.com/vipulnaik/donations/issues/128). Spent 1 hour 32 hours. Work done 2020-05-18 and 2020-05-19
+
+* July: $12.16. Work to fix a backend script. Spent 1 hour 17 minutes. Work done 2020-07-10 to 2020-07-13.
 
 === Work on contract work portal ===
 
@@ -50,13 +52,21 @@ Total so far: $5.41
 
 * Work on AI Watch in April: $5.41. Spent 34 minutes. Work done 2020-04-11 and 2020-04-19 at $9.50/hour. This comprises work on https://github.com/riceissa/aiwatch/issues/20 (2020-04-11), https://github.com/riceissa/aiwatch/issues/21 (2020-04-19), and https://github.com/riceissa/aiwatch/issues/22 (2020-04-19).
 
+=== Work on Org Watch (OW) ===
+
+Total so far: $128.54
+
+* Work on Org Watch in July: $128.54. Spent 13 hours 32 minutes. Work done 2020-07-04 to 2020-07-27 at $9.50/hour. This includes 90 minutes in a video call with Vipul and Sebastian, and further work helping Sebastian onboard as an Org Watch contributor.
+
 === Work on AI safety wiki ===
 
-Total so far: $32.38
+Total so far: $34.13
 
 AI safety wiki work is currently hosted at the [https://wiki.issarice.com/wiki/Category:AI_safety AI safety category on Issawiki], with the goal to eventually move it to a canonical standalone AI safety wiki (either one created by the LessWrong team or a subwiki set up by Vipul). Wiki-wide revision history can be seen [https://wiki.issarice.com/wiki/Special:RecentChanges here]; there does not seem to be a link to view changs just to stuff in the AI safety category. Compensation for the work is $4.375/hour, capped at 10 hours per month.
 
 * Work on AI safety wiki in June: $32.38. Spent 7 hours 24 minutes. Work done 2020-06-01 to 2020-06-30.
+
+* Work on AI safety wiki in July: $1.75. Spent 24 minutes. Work done 2020-07-06.
 
 === Work on people watching ===
 
@@ -78,9 +88,11 @@ Total so far: $125
 
 === Work on Linode migration (preliminary investigation) ===
 
-Total so far: $79.29
+Total so far: $81.29
 
 * January 19: $79.29. Plan to reduce my Linode cost, to be executed by end of 2021 (https://github.com/vipulnaik/working-drafts/issues/6). Spent 7 hours 49 minutes. Work done on 2020-01-18 and 2020-01-19. Payment determined based on a $10/hour rate ($78.20), and also including reimbursement of costs for a Linode machine run through the day ($1.09). Output of this iteration of work at https://gist.github.com/riceissa/49e331040a809e3dd14c046a07cd79cf
+
+* July 6: $2. Spent 12 minutes at $10/hour.
 
 === Work on coronavirus analysis ===
 
@@ -96,7 +108,7 @@ Total so far: $22.50
 
 === Stipends ===
 
-Total so far: $686.16
+Total so far: $848.34
 
 * January: $200.97. 22.33 hours at $9/hour
 
@@ -110,9 +122,11 @@ Total so far: $686.16
 
 * June: $98.37. 10.93 hours at $9/hour
 
+* July: $162.18. 18.02 hours at $9/hour
+
 === Payments made ===
 
-Total so far: $2755.39
+Total so far: $3062.02
 
 * $1460.13 via PayPal on January 1, 2020 (from Vipul Naik)
 
@@ -121,6 +135,8 @@ Total so far: $2755.39
 * $371.07 via PayPal on May 1, 2020 (from Vipul Naik)
 
 * $354.03 via PayPal on July 10, 2020 (from Vipul Naik)
+
+* $306.63 via PayPal on August 1, 2020 (from Vipul Naik)
 
 == Work and other compensation in 2019 ==
 
