@@ -20,13 +20,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $1601.88
+Total money earned as income (taxable as income for 2020): $1698.30
 
 Payment made: $2755.39
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $0
+Net payment due: $96.42
 
 === Work on Donations list website (DLW) ===
 
@@ -54,9 +54,11 @@ Total so far: $5.41
 
 === Work on Org Watch (OW) ===
 
-Total so far: $128.54
+Total so far: $175.28
 
 * Work on Org Watch in July: $128.54. Spent 13 hours 32 minutes. Work done 2020-07-04 to 2020-07-27 at $9.50/hour. This includes 90 minutes in a video call with Vipul and Sebastian, and further work helping Sebastian onboard as an Org Watch contributor.
+
+* Work on Org Watch in August: $46.74. Spent 4 hours 55 minutes. Work done 2020-08-02 to 2020-08-31 at $9.50/hour. This work was done to help Sebastian continue onboarding as an Org Watch contributor.
 
 === Work on AI safety wiki ===
 
@@ -108,7 +110,7 @@ Total so far: $22.50
 
 === Stipends ===
 
-Total so far: $848.34
+Total so far: $898.02
 
 * January: $200.97. 22.33 hours at $9/hour
 
@@ -123,6 +125,8 @@ Total so far: $848.34
 * June: $98.37. 10.93 hours at $9/hour
 
 * July: $162.18. 18.02 hours at $9/hour
+
+* August: $49.68. 5.52 hours at $9/hour
 
 === Payments made ===
 

@@ -76,7 +76,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',161.28,'2020-04-01','2020-04-30','2020-04-30','Rate of $9/hour effective December 2019',17.92,150),
   ('Issa Rice',154.17,'2020-05-01','2020-05-31','2020-05-31','Rate of $9/hour effective December 2019',17.13,150),
   ('Issa Rice',98.37,'2020-06-01','2020-06-30','2020-06-30','Rate of $9/hour effective December 2019',10.93,150),
-  ('Issa Rice',162.18,'2020-07-01','2020-07-31','2020-07-31','Rate of $9/hour effective December 2019',18.02,150);
+  ('Issa Rice',162.18,'2020-07-01','2020-07-31','2020-07-31','Rate of $9/hour effective December 2019',18.02,150),
+  ('Issa Rice',49.68,'2020-08-01','2020-08-31','2020-08-31','Rate of $9/hour effective December 2019',5.52,150);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),
@@ -114,13 +115,14 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',780,'2019-11-01','2019-11-30','2019-11-30','This includes some time spent outside Timelines wiki',185),
   ('Sebastian Sanchez',700,'2019-12-01','2019-12-01','2019-12-31','The listed amount of time (165 hours) is only on Timelines wiki. However, some time was spent on preparing for projects in 2020 as well, which is not counted in the 165 hours, but is reflected in an extra 40 USD added to the stipend',165),
   /* 2020 */
-  ('Sebastian Sanchez',720,'2020-01-01','2020-01-31','2020-01-31','The time and payment are only for time spent on Timelines wiki',180),
-  ('Sebastian Sanchez',712,'2020-02-01','2020-02-29','2020-02-29','The payment is at $4/hour for a total of 178 hours: 170 spent on Timelines wiki and 8 spent on initial exploration of the Machinelearning subwiki',178),
-  ('Sebastian Sanchez',830,'2020-03-01','2020-03-31','2020-03-31','The payment is at $4/hour for the first 200 hours and $30 for the additional 12 hours; 195 hours spent on Timelines wiki, 16 hours spent on Machinelearning subwiki, and 1 hour spent on wikiHow work',212),
-  ('Sebastian Sanchez',806,'2020-04-01','2020-04-30','2020-04-30','The payment is at $4/hour for all hours, plus an additional $6/hour for 9 hours for which the output is not directly compensated for. Breakdown of time: 177 hours on Timelines wiki, 1 hour on Machinelearning subwiki, 1 hour on wikiHow work, and 9 hours on other projects',188),
-  ('Sebastian Sanchez',808,'2020-05-01','2020-05-31','2020-05-31','The payment is at $4/hour for all hours, plus an additional $5/hour for 20 hours for which the output is not directly compensated for. Worked 177 hours, including 157 on Timelines wiki',177),
-  ('Sebastian Sanchez',735,'2020-06-01','2020-06-30','2020-06-30','The payment is at $4/hour for all hours, plus an additional $5/hour for 15 hours for which the output is not directly compensated for. Worked 165 hours, including 150 on Timelines wiki',165),
-  ('Sebastian Sanchez',740,'2020-07-01','2020-07-31','2020-07-31','The payment is at $4/hour for all hours, plus an additional $5/hour for 12 hours for which output is noot directly compensated for. Worked 170 hours, including 130 on Timelines wiki and 28 on Org Watch',170);
+  ('Sebastian Sanchez',720,'2020-01-01','2020-01-31','2020-01-31','The time and payment are only for time spent on Timelines wiki.',180),
+  ('Sebastian Sanchez',712,'2020-02-01','2020-02-29','2020-02-29','The payment is at $4/hour for a total of 178 hours: 170 spent on Timelines wiki and 8 spent on initial exploration of the Machinelearning subwiki.',178),
+  ('Sebastian Sanchez',830,'2020-03-01','2020-03-31','2020-03-31','The payment is at $4/hour for the first 200 hours and $30 for the additional 12 hours; 195 hours spent on Timelines wiki, 16 hours spent on Machinelearning subwiki, and 1 hour spent on wikiHow work.',212),
+  ('Sebastian Sanchez',806,'2020-04-01','2020-04-30','2020-04-30','The payment is at $4/hour for all hours, plus an additional $6/hour for 9 hours for which the output is not directly compensated for. Breakdown of time: 177 hours on Timelines wiki, 1 hour on Machinelearning subwiki, 1 hour on wikiHow work, and 9 hours on other projects.',188),
+  ('Sebastian Sanchez',808,'2020-05-01','2020-05-31','2020-05-31','The payment is at $4/hour for all hours, plus an additional $5/hour for 20 hours for which the output is not directly compensated for. Worked 177 hours, including 157 on Timelines wiki.',177),
+  ('Sebastian Sanchez',735,'2020-06-01','2020-06-30','2020-06-30','The payment is at $4/hour for all hours, plus an additional $5/hour for 15 hours for which the output is not directly compensated for. Worked 165 hours, including 150 on Timelines wiki.',165),
+  ('Sebastian Sanchez',740,'2020-07-01','2020-07-31','2020-07-31','The payment is at $4/hour for all hours, plus an additional $5/hour for 12 hours for which output is noot directly compensated for. Worked 170 hours, including 130 on Timelines wiki and 28 on Org Watch.',170),
+  ('Sebastian Sanchez',612,'2020-08-01','2020-08-31','2020-08-31','The payment is at $4/hour for all 153 hours eligible for stipend. Total time spent was as follows: 139 hours on Timelines wiki, 24 hours on Org Watch, and 9 hours on other activities. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend.',172);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes) values
   ('Alex K. Chen',0.02,'2015-04-01','2015-12-31','2015-12-31','Fudge factor correction');
