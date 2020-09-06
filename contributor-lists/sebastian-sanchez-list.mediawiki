@@ -76,6 +76,14 @@ Total so far: $260
 
 * August: $120. 24 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-08-01&until=2020-08-31 for more details. The first commit for the month was on 2020-08-02 and the last commit for the month was on 2020-08-30.
 
+=== Tentative pending payments ===
+
+Total so far: $475
+
+Pending payments for completed timelines (not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_tobacco_smoking_and_disease Timeline of tobacco smoking and disease]: $475. Completed September 5, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_tobacco_smoking_and_disease&oldid=44308 (2020-09-05 20:59 UTC, 117001 bytes, 8 sample questions, 4 and 9 rows in big pictures, 249 rows in full timeline)
+
 === Stipends ===
 
 Total so far: $5963
