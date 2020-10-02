@@ -78,7 +78,7 @@ Total so far: $260
 
 === Tentative pending payments ===
 
-Total so far: $475
+Total so far: $970
 
 Pending payments for completed timelines (accepted):
 
