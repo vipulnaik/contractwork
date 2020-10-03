@@ -944,7 +944,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Donations list website','Coding','N/A','N/A','2020-07-13',12.16,'Philanthropy','Code','Work to fix a backend script. Work done 2020-07-10 to 2020-07-13.',77),
   ('Issa Rice','None','Consulting','N/A','N/A','2020-07-06',2,'Server','N/A','Answers to some questions about work done by Issa back in January 2020',12),
   /* Tasks added for August 2020 */
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-08-31',46.74,'Organizational structure and dynamics','N/A','Work done 2020-08-02 to 2020-08-31 at $9.50/hour. This work was done to help Sebastian continue onboarding as an Org Watch contributor.',295);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-08-31',46.74,'Organizational structure and dynamics','N/A','Work done 2020-08-02 to 2020-08-31 at $9.50/hour. This work was done to help Sebastian continue onboarding as an Org Watch contributor.',295),
+  /* Tasks added for September 2020 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-09-12',38.48,'Organizational structure and dynamics','N/A','Work done 2020-09-01 to 2020-09-12 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.',243);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

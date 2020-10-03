@@ -12,7 +12,7 @@ Facebook: https://www.facebook.com/riceissa
 
 Website: http://issarice.com
 
-EA Forum user profile: http://effective-altruism.com/user/riceissa/
+EA Forum user profile: https://forum.effectivealtruism.org/users/riceissa
 
 Note: The arrangement with Issa is much more complicated because, in addition to creating content on Wikipedia, he does background research, helps with managing editors, etc. However, notably ''he is not paid for pageviews on Wikipedia pages he writes''.
 
@@ -20,13 +20,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $1698.30
+Total money earned as income (taxable as income for 2020): $1783.85
 
 Payment made: $2755.39
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $96.42
+Net payment due: $181.97
 
 === Work on Donations list website (DLW) ===
 
@@ -54,11 +54,13 @@ Total so far: $5.41
 
 === Work on Org Watch (OW) ===
 
-Total so far: $175.28
+Total so far: $213.76
 
 * Work on Org Watch in July: $128.54. Spent 13 hours 32 minutes. Work done 2020-07-04 to 2020-07-27 at $9.50/hour. This includes 90 minutes in a video call with Vipul and Sebastian, and further work helping Sebastian onboard as an Org Watch contributor.
 
 * Work on Org Watch in August: $46.74. Spent 4 hours 55 minutes. Work done 2020-08-02 to 2020-08-31 at $9.50/hour. This work was done to help Sebastian continue onboarding as an Org Watch contributor.
+
+* Work on Org Watch in September: $38.48. Spent 4 hours 3 minutes. Work done 2020-09-01 to 2020-09-12 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.
 
 === Work on AI safety wiki ===
 
@@ -110,7 +112,7 @@ Total so far: $22.50
 
 === Stipends ===
 
-Total so far: $898.02
+Total so far: $945.09
 
 * January: $200.97. 22.33 hours at $9/hour
 
@@ -127,6 +129,8 @@ Total so far: $898.02
 * July: $162.18. 18.02 hours at $9/hour
 
 * August: $49.68. 5.52 hours at $9/hour
+
+* September: $47.07. 5.23 hours at $9/hour
 
 === Payments made ===
 
