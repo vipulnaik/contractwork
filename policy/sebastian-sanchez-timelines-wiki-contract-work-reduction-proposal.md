@@ -68,8 +68,9 @@ The proposed transition phase is to reduce the number of hours of
 stipend-eligible work on Timelines Wiki by 20 hours per month each
 month, starting from the current level of about 200 hours. Explicitly
 [NOTE: The transition phase hours were adjusted on August 2, 2020,
-affecting months September onward; the information below is after
-adjustment]:
+affecting months September onward, and then again on October 4, 2020,
+affecting months December onward; the information below is after
+all adjustments]:
 
 * May 2020: 165 hours
 * June 2020: 150 hours
@@ -78,9 +79,14 @@ adjustment]:
 * September 2020: 120 hours
 * October 2020: 120 hours
 * November 2020: 120 hours
-* December 2020: 105 hours
-* January 2021: 90 hours
-* February 2021: 75 hours
+* December 2020: 120 hours
+* January 2021: 120 hours
+* February 2021: 120 hours
+* March 2021: 120 hours
+* April 2021: 120 hours
+* May 2021: 105 hours
+* June 2021: 90 hours
+* July 2021: 75 hours
 
 Overages can be accumulated even during the transition phase; the
 overage accumulated from a given month will be calculated against the
@@ -103,14 +109,14 @@ month. Increases may, however, be done later or even during the month.
 ### Potential long-term trajectory changes
 
 Vipul expects that the reduction to 75 hours will likely last from
-February 2021 till around May 2021, after which Vipul will make a
+July 2021 till around November 2021, after which Vipul will make a
 decision with Sebastian as to how to further modify the number of
 hours. There is a good chance that stipend for Timelines Wiki work
-will be further reduced to about 30 hours by late 2021. Most likely, such
-a reduction will be done in a phased manner, with the limit going down
-every month by at most 15 hours per month. It is, however, also
-possible that the hour limit will be increased after May 2021, or
-that there will be more months where the hour limit is lifted.
+will be further reduced to about 30 hours by early-to-mid-2022. Most
+likely, such a reduction will be done in a phased manner, with the
+limit going down every month by at most 15 hours per month. It is,
+however, also possible that the hour limit reduction will be deferred
+again, or the hour limt will be increased back.
 
 Factors that will affect which way we go include:
 
