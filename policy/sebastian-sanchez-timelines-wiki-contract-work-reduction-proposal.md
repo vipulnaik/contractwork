@@ -116,7 +116,7 @@ will be further reduced to about 30 hours by early-to-mid-2022. Most
 likely, such a reduction will be done in a phased manner, with the
 limit going down every month by at most 15 hours per month. It is,
 however, also possible that the hour limit reduction will be deferred
-again, or the hour limt will be increased back.
+again, or the hour limit will be increased back.
 
 Factors that will affect which way we go include:
 
