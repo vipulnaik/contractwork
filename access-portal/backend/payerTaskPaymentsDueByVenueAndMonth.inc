@@ -85,20 +85,22 @@ if ($printTables == true) {
   print "</tfoot>\n</table>\n";
 }
 
-$graphs = timeSeriesGraphs(
-  $monthList,
-  $taskVenues,
-  $totalTaskPaymentForMonth,
-  $paymentForTaskVenueAndMonth,
-  $generateGraphCmdBase,
-  $imagesPath,
-  "https://contractwork.vipulnaik.com/payer.php?payer=" . urlencode($payer),
-  "#payerTaskPaymentsDueByVenueAndMonth"
-);
+if (count(array_filter($totalTaskPaymentForMonth)) > 1) {
+  $graphs = timeSeriesGraphs(
+    $monthList,
+    $taskVenues,
+    $totalTaskPaymentForMonth,
+    $paymentForTaskVenueAndMonth,
+    $generateGraphCmdBase,
+    $imagesPath,
+    "https://contractwork.vipulnaik.com/payer.php?payer=" . urlencode($payer),
+    "#payerTaskPaymentsDueByVenueAndMonth"
+  );
 
-print "<p><strong>Graph of payer task payments due by venue and month (incremental, not cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of payer task payments due by venue and month (incremental, not cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of payer task payments due by venue and month (cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of payer task payments due by venue and month (cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+}
 ?>

@@ -10,7 +10,7 @@ foreach($taskVenues as $taskVenue) {
 }  
 
 foreach($yearList as $year) {
-  $totalPaymentForYear[$year] = 0;
+  $totalTaskPaymentForYear[$year] = 0;
 }
 
 $grandTotal = 0;
@@ -27,7 +27,7 @@ $taskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   $paymentForTaskVenueAndYear[$row['task_venue']][$row['year']] = $row['payment'];
-  $totalPaymentForYear[$row['year']] += $row['payment'];
+  $totalTaskPaymentForYear[$row['year']] += $row['payment'];
   $totalPaymentForTaskVenue[$row['task_venue']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
@@ -65,17 +65,17 @@ foreach($taskVenues as $taskVenue) {
 print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalTaskPaymentForYear[$year],2).'</strong></td>';
 }
 print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 print '</tr>';
 print "</tfoot>\n</table>\n";
 
-if (count(array_filter($totalPaymentForYear)) > 1) {
+if (count(array_filter($totalTaskPaymentForYear)) > 1) {
   $graphs = timeSeriesGraphs(
     $yearList,
     $taskVenues,
-    $totalPaymentForYear,
+    $totalTaskPaymentForYear,
     $paymentForTaskVenueAndYear,
     $generateGraphCmdBase,
     $imagesPath,

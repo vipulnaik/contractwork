@@ -11,7 +11,7 @@ foreach($taskTypes as $taskType) {
 }  
 
 foreach($yearList as $year) {
-  $totalPaymentForYear[$year] = 0;
+  $totalTaskPaymentForYear[$year] = 0;
 }
 
 $grandTotal = 0;
@@ -26,7 +26,7 @@ $taskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   $paymentForTaskTypeAndYear[$row['task_type']][$row['year']] = $row['payment'];
-  $totalPaymentForYear[$row['year']] += $row['payment'];
+  $totalTaskPaymentForYear[$row['year']] += $row['payment'];
   $totalPaymentForTaskType[$row['task_type']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
@@ -64,26 +64,28 @@ foreach($taskTypes as $taskType) {
 print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalTaskPaymentForYear[$year],2).'</strong></td>';
 }
 print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 print '</tr>';
 print "</tfoot>\n</table>\n";
 
-$graphs = timeSeriesGraphs(
-  $yearList,
-  $taskTypes,
-  $totalPaymentForYear,
-  $paymentForTaskTypeAndYear,
-  $generateGraphCmdBase,
-  $imagesPath,
-  "https://contractwork.vipulnaik.com/payer.php?payer=" . urlencode($payer),
-  "#payerTaskPaymentsDueByTypeAndYear"
-);
+if (count(array_filter($totalTaskPaymentForYear)) > 1) {
+  $graphs = timeSeriesGraphs(
+    $yearList,
+    $taskTypes,
+    $totalTaskPaymentForYear,
+    $paymentForTaskTypeAndYear,
+    $generateGraphCmdBase,
+    $imagesPath,
+    "https://contractwork.vipulnaik.com/payer.php?payer=" . urlencode($payer),
+    "#payerTaskPaymentsDueByTypeAndYear"
+  );
 
-print "<p><strong>Graph of payer task payments due by type and year (incremental, not cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of payer task payments due by type and year (incremental, not cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of payer task payments due by type and year (cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of payer task payments due by type and year (cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+}
 ?>
