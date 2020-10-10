@@ -71,20 +71,23 @@ print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>'
 print '</tr>';
 print "</tfoot>\n</table>\n";
 
-$graphs = timeSeriesGraphs(
-  $yearList,
-  $taskFormats,
-  $totalPaymentForYear,
-  $paymentForTaskFormatAndYear,
-  $generateGraphCmdBase,
-  $imagesPath,
-  "https://contractwork.vipulnaik.com/tasks.php?filterQuery=" . urlencode($filterQuery),
-  "#filteredTaskPaymentsDueByFormatAndYear"
-);
+if (count(array_filter($totalPaymentForYear)) > 1) {
+  $graphs = timeSeriesGraphs(
+    $yearList,
+    $taskFormats,
+    $totalPaymentForYear,
+    $paymentForTaskFormatAndYear,
+    $generateGraphCmdBase,
+    $imagesPath,
+    "https://contractwork.vipulnaik.com/tasks.php?filterQuery=" . urlencode($filterQuery),
+    "#filteredTaskPaymentsDueByFormatAndYear"
+  );
 
-print "<p><strong>Graph of filtered task payments due by format and year (incremental, not cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of filtered task payments due by format and year (incremental, not cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of filtered task payments due by format and year (cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of filtered task payments due by format and year (cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+}
+
 ?>
