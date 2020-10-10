@@ -18,7 +18,7 @@ foreach($topics as $topic) {
 }  
 
 foreach($yearList as $year) {
-  $totalPaymentForYear[$year] = 0;
+  $totalTaskPaymentForYear[$year] = 0;
 }
 
 $totalTaskPaymentAcrossYears = 0;
@@ -38,7 +38,7 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
       $totalPaymentForTopic[$topic] += $row['payment'];
     }
   }
-  $totalPaymentForYear[$row['year']] += $row['payment'];
+  $totalTaskPaymentForYear[$row['year']] += $row['payment'];
   $totalTaskPaymentAcrossYears += $row['payment'];
 }
 
@@ -78,7 +78,7 @@ print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 print '<td align="right"><strong>'.number_format($totalTaskPaymentAcrossYears,2).'</strong></td>';
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalTaskPaymentForYear[$year],2).'</strong></td>';
 }
 print '</tr>';
 print "</tfoot>\n</table>\n";
@@ -86,7 +86,7 @@ print "</tfoot>\n</table>\n";
 $graphs = timeSeriesGraphs(
   $yearList,
   $topics,
-  $totalPaymentForYear,
+  $totalTaskPaymentForYear,
   $paymentForTopicAndYear,
   $generateGraphCmdBase,
   $imagesPath,

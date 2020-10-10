@@ -10,7 +10,7 @@ foreach($taskFormats as $taskFormat) {
 }  
 
 foreach($yearList as $year) {
-  $totalPaymentForYear[$year] = 0;
+  $totalTaskPaymentForYear[$year] = 0;
 }
 
 $grandTotal = 0;
@@ -24,14 +24,14 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   if (!isset($paymentForTaskFormatAndYear[$row['format']])) {
     $paymentForTaskFormatAndYear[$row['format']] = array();
   }
-  if (!isset($totalPaymentForYear[$row['year']])) {
-    $totalPaymentForYear[$row['year']] = 0;
+  if (!isset($totalTaskPaymentForYear[$row['year']])) {
+    $totalTaskPaymentForYear[$row['year']] = 0;
   }
   if (!isset($totalPaymentForTaskFormat[$row['format']])) {
     $totalPaymentForTaskFormat[$row['format']] = 0;
   }
   $paymentForTaskFormatAndYear[$row['format']][$row['year']] = $row['payment'];
-  $totalPaymentForYear[$row['year']] += $row['payment'];
+  $totalTaskPaymentForYear[$row['year']] += $row['payment'];
   $totalPaymentForTaskFormat[$row['format']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
@@ -70,25 +70,27 @@ print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 foreach (array_reverse($yearList) as $year) {
-  print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
+  print '<td align="right"><strong>'.number_format($totalTaskPaymentForYear[$year],2).'</strong></td>';
 }
 print '</tr>';
 print "</tfoot>\n</table>\n";
 
-$graphs = timeSeriesGraphs(
-  $yearList,
-  $taskFormats,
-  $totalPaymentForYear,
-  $paymentForTaskFormatAndYear,
-  $generateGraphCmdBase,
-  $imagesPath,
-  "https://contractwork.vipulnaik.com/index.php",
-  "#taskPaymentsDueByFormatAndYear"
-);
+if (count(array_filter($totalTaskPaymentForYear)) > 1) {
+  $graphs = timeSeriesGraphs(
+    $yearList,
+    $taskFormats,
+    $totalTaskPaymentForYear,
+    $paymentForTaskFormatAndYear,
+    $generateGraphCmdBase,
+    $imagesPath,
+    "https://contractwork.vipulnaik.com/index.php",
+    "#taskPaymentsDueByFormatAndYear"
+  );
 
-print "<p><strong>Graph of task payments due by format and year (incremental, not cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of task payments due by format and year (incremental, not cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of task payments due by format and year (cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of task payments due by format and year (cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+}
 ?>

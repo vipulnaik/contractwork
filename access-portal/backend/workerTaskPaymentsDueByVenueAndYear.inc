@@ -10,7 +10,7 @@ foreach($taskVenues as $taskVenue) {
 }  
 
 foreach($yearList as $year) {
-  $totalPaymentForYear[$year] = 0;
+  $totalTaskPaymentForYear[$year] = 0;
 }
 
 $grandTotal = 0;
@@ -31,7 +31,7 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
     $totalPaymentForTaskVenue[$row['task_venue']] = 0;
   }
   $paymentForTaskVenueAndYear[$row['task_venue']][$row['year']] = $row['payment'];
-  $totalPaymentForYear[$row['year']] += $row['payment'];
+  $totalTaskPaymentForYear[$row['year']] += $row['payment'];
   $totalPaymentForTaskVenue[$row['task_venue']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
@@ -53,7 +53,7 @@ print "<thead>\n";
 print '<tr><th>Task venue</th>';
 print '<th>Total across years</th>';
 foreach (array_reverse($yearList) as $year) {
-  if ($totalPaymentForYear[$year] > 0) {
+  if ($totalTaskPaymentForYear[$year] > 0) {
     print "<th>Total in year $year</th>";
   }
 }
@@ -63,7 +63,7 @@ foreach($taskVenues as $taskVenue) {
     print "<tr><td><a href=\"venue.php?venue=".urlencode($taskVenue)."&matching=exact\">$taskVenue</a></td>";
     print '<td align="right"><strong>'.number_format($totalPaymentForTaskVenue[$taskVenue],2).'</strong></td>';
     foreach (array_reverse($yearList) as $year) {
-      if ($totalPaymentForYear[$year] > 0) {
+      if ($totalTaskPaymentForYear[$year] > 0) {
         print '<td align="right">'.number_format($paymentForTaskVenueAndYear[$taskVenue][$year],2).'</td>'; 
       }
     }
@@ -74,26 +74,28 @@ print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</td>";
 print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 foreach (array_reverse($yearList) as $year) {
-  if ($totalPaymentForYear[$year] > 0) {
-    print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
+  if ($totalTaskPaymentForYear[$year] > 0) {
+    print '<td align="right"><strong>'.number_format($totalTaskPaymentForYear[$year],2).'</strong></td>';
   }
 }
 print "</tr>\n</tfoot>\n</table>\n";
 
-$graphs = timeSeriesGraphs(
-  $yearList,
-  $taskVenues,
-  $totalPaymentForYear,
-  $paymentForTaskVenueAndYear,
-  $generateGraphCmdBase,
-  $imagesPath,
-  "https://contractwork.vipulnaik.com/worker.php?worker=" . urlencode($worker),
-  "#workerTaskPaymentsDueByVenueAndYear"
-);
+if (count(array_filter($totalTaskPaymentForYear)) > 1) {
+  $graphs = timeSeriesGraphs(
+    $yearList,
+    $taskVenues,
+    $totalTaskPaymentForYear,
+    $paymentForTaskVenueAndYear,
+    $generateGraphCmdBase,
+    $imagesPath,
+    "https://contractwork.vipulnaik.com/worker.php?worker=" . urlencode($worker),
+    "#workerTaskPaymentsDueByVenueAndYear"
+  );
 
-print "<p><strong>Graph of task payments due by venue and year (incremental, not cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of task payments due by venue and year (incremental, not cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of task payments due by venue and year (cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of task payments due by venue and year (cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+}
 ?>

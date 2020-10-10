@@ -11,7 +11,7 @@ foreach($taskTypes as $taskType) {
 }  
 
 foreach($yearList as $year) {
-  $totalPaymentForYear[$year] = 0;
+  $totalTaskPaymentForYear[$year] = 0;
 }
 
 $grandTotal = 0;
@@ -32,7 +32,7 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
     $totalPaymentForTaskType[$row['task_type']] = 0;
   }
   $paymentForTaskTypeAndYear[$row['task_type']][$row['year']] = $row['payment'];
-  $totalPaymentForYear[$row['year']] += $row['payment'];
+  $totalTaskPaymentForYear[$row['year']] += $row['payment'];
   $totalPaymentForTaskType[$row['task_type']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
@@ -54,7 +54,7 @@ print "<thead>\n";
 print '<tr><th>Task type</th>';
 print '<th>Total across years</th>';
 foreach (array_reverse($yearList) as $year) {
-  if ($totalPaymentForYear[$year] > 0) {
+  if ($totalTaskPaymentForYear[$year] > 0) {
     print "<th>Total in year $year</th>";
   }
 }
@@ -64,7 +64,7 @@ foreach($taskTypes as $taskType) {
     print "<tr><td>$taskType</td>";
     print '<td align="right"><strong>'.number_format($totalPaymentForTaskType[$taskType],2).'</strong></td>';
     foreach (array_reverse($yearList) as $year) {
-      if ($totalPaymentForYear[$year] > 0) {
+      if ($totalTaskPaymentForYear[$year] > 0) {
         print '<td align="right">'.number_format($paymentForTaskTypeAndYear[$taskType][$year],2).'</td>';
       }
     }
@@ -75,26 +75,28 @@ print "</tbody>\n<tfoot>\n";
 print "<tr><td><strong>Total</strong></td>";
 print '<td align="right"><strong>'.number_format($grandTotal,2).'</strong></td>';
 foreach (array_reverse($yearList) as $year) {
-  if ($totalPaymentForYear[$year] > 0) {
-    print '<td align="right"><strong>'.number_format($totalPaymentForYear[$year],2).'</strong></td>';
+  if ($totalTaskPaymentForYear[$year] > 0) {
+    print '<td align="right"><strong>'.number_format($totalTaskPaymentForYear[$year],2).'</strong></td>';
   }
 }
 print "</tr>\n</tfoot>\n</table>\n";
 
-$graphs = timeSeriesGraphs(
-  $yearList,
-  $taskTypes,
-  $totalPaymentForYear,
-  $paymentForTaskTypeAndYear,
-  $generateGraphCmdBase,
-  $imagesPath,
-  "https://contractwork.vipulnaik.com/worker.php?worker=" . urlencode($worker),
-  "#workerPaymentsDueByTypeAndYear"
-);
+if (count(array_filter($totalTaskPaymentForYear)) > 1) {
+  $graphs = timeSeriesGraphs(
+    $yearList,
+    $taskTypes,
+    $totalTaskPaymentForYear,
+    $paymentForTaskTypeAndYear,
+    $generateGraphCmdBase,
+    $imagesPath,
+    "https://contractwork.vipulnaik.com/worker.php?worker=" . urlencode($worker),
+    "#workerPaymentsDueByTypeAndYear"
+  );
 
-print "<p><strong>Graph of task payments due by type and year (incremental, not cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of task payments due by type and year (incremental, not cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of task payments due by type and year (cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of task payments due by type and year (cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+}
 ?>

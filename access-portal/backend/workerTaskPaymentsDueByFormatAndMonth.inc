@@ -79,20 +79,22 @@ foreach($taskFormats as $taskFormat) {
 }
 print "</tr>\n</tfoot>\n</table>\n";
 
-$graphs = timeSeriesGraphs(
-  $monthList,
-  $taskFormats,
-  $totalTaskPaymentForMonth,
-  $paymentForTaskFormatAndMonth,
-  $generateGraphCmdBase,
-  $imagesPath,
-  "https://contractwork.vipulnaik.com/worker.php?worker=" . urlencode($worker),
-  "#workerTaskPaymentsDueByFormatAndMonth"
-);
+if (count(array_filter($totalTaskPaymentForMonth)) > 1) {
+  $graphs = timeSeriesGraphs(
+    $monthList,
+    $taskFormats,
+    $totalTaskPaymentForMonth,
+    $paymentForTaskFormatAndMonth,
+    $generateGraphCmdBase,
+    $imagesPath,
+    "https://contractwork.vipulnaik.com/worker.php?worker=" . urlencode($worker),
+    "#workerTaskPaymentsDueByFormatAndMonth"
+  );
 
-print "<p><strong>Graph of worker task payments due by format and month (incremental, not cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of worker task payments due by format and month (incremental, not cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of worker task payments due by format and month (cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of worker task payments due by format and month (cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+}
 ?>

@@ -7,7 +7,7 @@ foreach ($paymentMethods as $paymentMethod) {
   $totalPaymentByMethod[$paymentMethod] = 0;
   foreach ($yearList as $year) {
     $payment[$paymentMethod][$year] = 0;
-    $totalPaymentByYear[$year] = 0;
+    $totalPaymentMadeByYear[$year] = 0;
   }
 }  
 
@@ -19,7 +19,7 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
   $payment[$row['payment_method']][$row['year']] = $row['payment'];
   $totalPaymentByMethod[$row['payment_method']] += $row['payment'];
-  $totalPaymentByYear[$row['year']] += $row['payment'];
+  $totalPaymentMadeByYear[$row['year']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
 
@@ -57,26 +57,28 @@ print "</tbody>\n<tfoot>\n";
 print "<tr>\n    <td><strong>Total across payment methods</strong></td>\n";
 print '    <td align="right"><strong>'.number_format($grandTotal,2)."</strong></td>\n";
 foreach (array_reverse($yearList) as $year) {
-  print '    <td align="right"><strong>'.number_format($totalPaymentByYear[$year],2)."</strong></td>\n";
+  print '    <td align="right"><strong>'.number_format($totalPaymentMadeByYear[$year],2)."</strong></td>\n";
 }
 print "</tr>\n";
 print "</tfoot>\n";
 print "</table>\n";
 
-$graphs = timeSeriesGraphs(
-  $yearList,
-  $paymentMethods,
-  $totalPaymentByYear,
-  $payment,
-  $generateGraphCmdBase,
-  $imagesPath,
-  "https://contractwork.vipulnaik.com/index.php",
-  "#paymentsMadeByMethodAndYear"
-);
+if (count(array_filter($totalPaymentMadeByYear)) > 1) {
+  $graphs = timeSeriesGraphs(
+    $yearList,
+    $paymentMethods,
+    $totalPaymentMadeByYear,
+    $payment,
+    $generateGraphCmdBase,
+    $imagesPath,
+    "https://contractwork.vipulnaik.com/index.php",
+    "#paymentsMadeByMethodAndYear"
+  );
 
-print "<p><strong>Graph of payments made by method and year (incremental, not cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of payments made by method and year (incremental, not cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-print "<p><strong>Graph of payments made by method and year (cumulative)</strong></p>";
-print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  print "<p><strong>Graph of payments made by method and year (cumulative)</strong></p>";
+  print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+}
 ?>

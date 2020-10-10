@@ -71,22 +71,23 @@ if ($printTables == true) {
     }
   }
   print "</tr>\n</tfoot>\n</table>\n";
-  $graphs = timeSeriesGraphs(
-    $yearList,
-    $paymentMethods,
-    $totalPaymentMadeByYear,
-    $payment,
-    $generateGraphCmdBase,
-    $imagesPath,
-    "https://contractwork.vipulnaik.com/worker.php?worker=" . urlencode($worker),
-    "#workerPaymentsMadeByMethodAndYear"
-  );
+  if (count(array_filter($totalPaymentMadeByYear)) > 1) {
+    $graphs = timeSeriesGraphs(
+      $yearList,
+      $paymentMethods,
+      $totalPaymentMadeByYear,
+      $payment,
+      $generateGraphCmdBase,
+      $imagesPath,
+      "https://contractwork.vipulnaik.com/worker.php?worker=" . urlencode($worker),
+      "#workerPaymentsMadeByMethodAndYear"
+    );
 
-  print "<p><strong>Graph of payments made by method and year (incremental, not cumulative)</strong></p>";
-  print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+    print "<p><strong>Graph of payments made by method and year (incremental, not cumulative)</strong></p>";
+    print '<img src="/images/'.$graphs[0].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
 
-  print "<p><strong>Graph of payments made by method and year (cumulative)</strong></p>";
-  print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+    print "<p><strong>Graph of payments made by method and year (cumulative)</strong></p>";
+    print '<img src="/images/'.$graphs[1].'-timeseries.png" alt="Graph of payments should have loaded here"></img>';
+  }
 }
-
 ?>
