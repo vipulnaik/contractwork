@@ -16,13 +16,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2020 ==
 
-Total money earned as income: $13594
+Total money earned as income: $14502
 
 Forward balance carried over from 2019: ($2878.30)
 
 Payment made: $16656.28
 
-Net payment due: ($5940.58)
+Net payment due: ($5032.58)
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
@@ -74,17 +74,19 @@ Total so far: $2827
 
 === Org Watch ===
 
-Total so far: $450
+Total so far: $670
 
 * July: $140. 28 hours at $5/hour. On 2020-07-04, Sebastian, Issa, and Vipul met to discuss Org Watch data entry, after which Issa helped Sebastian get set up. Since then, Sebastian has been making commits in the sebastian branch; see https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-07-01&until=2020-07-31 for a list of commits. The last commit for the month was on 2020-07-27.
 
 * August: $120. 24 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-08-01&until=2020-08-31 for more details. The first commit for the month was on 2020-08-02 and the last commit for the month was on 2020-08-30.
 
-* September: $190. 38 hours at $5/hour. See See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-09-01&until=2020-09-30 for more details. The first commit by Sebastian for the month was on 2020-09-02 and the last commit for the month was on 2020-09-21.
+* September: $190. 38 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-09-01&until=2020-09-30 for more details. The first commit by Sebastian for the month was on 2020-09-02 and the last commit for the month was on 2020-09-21.
+
+* October: $220. 44 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-10-01&until=2020-10-31 for more details. The first commit by Sebastian for the month was on 2020-10-03 and the last commit for the month was on 2020-10-31.
 
 === Stipends ===
 
-Total so far: $6663
+Total so far: $7351
 
 The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
@@ -105,6 +107,8 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines w
 * August: $612. The payment is at $4/hour for all 153 hours eligible for stipend. Total time spent was as follows: 139 hours on Timelines wiki, 24 hours on Org Watch, and 9 hours on other activities. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend.
 
 * September: $700. The payment is at $4/hour for all 160 hours eligible for stipend, plus 15 of 19 excess hours accumulated from last month. Total time spent was follows: 105 hours on Timelines wiki, 17 hours on Timelines wiki promotion, 38 hours on Org Watch, and 15 hours overage on Timelines wiki applied from the previous month. The reason only 15 hours rather than the full 19 hours of the past overage were applied is that with 15 hours, we already hit the cap of 120 hours on Timelines wiki for September.
+
+* October: $688. The payment is at $4/hour for all 172 hours eligible for stipend. Total time spent was as follows: 126 hours on Timelines wiki, 8 hours on Timelines wiki promotion, and 44 hours on Org Watch. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend. As of now, we have a total overage of 10 hours on Timelines wiki (4 hours carried over, and 6 more hours this month).
 
 === Payment schedule ===
 
