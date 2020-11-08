@@ -814,7 +814,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2019-03-20',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240), plus monthly updates and ongoing improvements to https://github.com/riceissa/timelines-wiki-main-page-table at $5/month (total $60)'),
   ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2019-11-11',46.51,'Cause prioritization','Domain renewal','Details: $15.17 - causeprioritization.com, $15.17 - causeprioritisation.com, $16.17 - causeprioritisation.org (.org domains cost an extra dollar). Issa shouldered the $16.17 cost of renewing the main domain causeprioritization.org himself'),
   ('Issa Rice','None','Coding','Backups','N/A','2019-12-31',105,'Wikipedia/Backup','Code and data','Payment for maintaining the process that does daily backups of Wikipedia content, at $2/week for 52 weeks, from 2019-01-01 to 2019-12-31, with an extra dollar because of the extra day beyond 52 weeks'),
-  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2019-12-31',240,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $180), main page updates at $5/month ($45), and $15 to cover the half month');
+  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2019-12-31',240,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $180), main page updates at $5/month ($45), and $15 to cover the half month'),
+  ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2020-10-29',45.97,'Cause prioritization','Domain renewal','Details: $14.99 - causeprioritization.com, $14.99 - causeprioritisation.com, $15.99 - causeprioritisation.org (.org domains cost an extra dollar). Issa shouldered the $15.99 cost of renewing the main domain causeprioritization.org himself');
 
 /* Issa Rice payments, with time clocked
 Other payments to Issa Rice */
@@ -947,7 +948,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for August 2020 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-08-31',46.74,'Organizational structure and dynamics','N/A','Work done 2020-08-02 to 2020-08-31 at $9.50/hour. This work was done to help Sebastian continue onboarding as an Org Watch contributor.',295),
   /* Tasks added for September 2020 */
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-09-12',38.48,'Organizational structure and dynamics','N/A','Work done 2020-09-01 to 2020-09-12 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.',243);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-09-12',38.48,'Organizational structure and dynamics','N/A','Work done 2020-09-01 to 2020-09-12 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.',243),
+  /* Tasks added for October 2020 */
+  ('Issa Rice','People repo','People watching','N/A','N/A','2020-10-18',4.07,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done from 2020-10-15 to 2020-10-18.',56),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-10-10',46.36,'Organizational structure and dynamics','N/A','Work done 2020-10-02 to 2020-10-10 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.',293);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
