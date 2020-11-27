@@ -76,7 +76,7 @@ Total so far: $2827
 
 Total so far: $750
 
-Pending payments for expansions (not yet accepted):
+Pending payments for expansions (accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Amazon Timeline of Amazon] (previously named timeline of Amazon): $750. Completed November 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Amazon&type=revision&diff=46865&oldid=21974 diff]. Increased from 41269 bytes and 63 rows to 326905 bytes and 418 rows; also, summaries by year (26 years), graphical data, sample questions, and updates to key developments part of big picture
 
