@@ -16,13 +16,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2020 ==
 
-Total money earned as income: $14502
+Total money earned as income: $15971
 
 Forward balance carried over from 2019: ($2878.30)
 
 Payment made: $19033.40
 
-Net payment due: ($7409.70)
+Net payment due: ($5940.70)
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
@@ -48,7 +48,7 @@ Total so far: $3654
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $2827
+Total so far: $3577
 
 * [https://timelines.issarice.com/wiki/Timeline_of_WeWork Timeline of WeWork]: $127. Completed January 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_WeWork&type=revision&diff=36314&oldid=18466 Diff]. Increased from 34620 bytes to 69379 bytes. In addition to adding about 37 new rows, the changes include edits to existing rows, a new sample questions section with 5 questions, big picture expansion, and a visual data section with 3 charts
 
@@ -72,17 +72,11 @@ Total so far: $2827
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Netflix Timeline of Netflix]: $495. Completed September 26, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Netflix&diff=45028&oldid=23937 diff] Increased from 31160 bytes and 65 rows in full timeline to 200954 bytes and 299 rows in full timeline; also, 4 graphs, 16 sample questions, big picture expanded to 4 rows, and summary by year from 1997 to 2020
 
-== Tentative pending payments ===
-
-Total so far: $750
-
-Pending payments for expansions (accepted):
-
 * [https://timelines.issarice.com/wiki/Timeline_of_Amazon Timeline of Amazon] (previously named timeline of Amazon): $750. Completed November 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Amazon&type=revision&diff=46865&oldid=21974 diff]. Increased from 41269 bytes and 63 rows to 326905 bytes and 418 rows; also, summaries by year (26 years), graphical data, sample questions, and updates to key developments part of big picture
 
 === Org Watch ===
 
-Total so far: $670
+Total so far: $825
 
 * July: $140. 28 hours at $5/hour. On 2020-07-04, Sebastian, Issa, and Vipul met to discuss Org Watch data entry, after which Issa helped Sebastian get set up. Since then, Sebastian has been making commits in the sebastian branch; see https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-07-01&until=2020-07-31 for a list of commits. The last commit for the month was on 2020-07-27.
 
@@ -92,9 +86,11 @@ Total so far: $670
 
 * October: $220. 44 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-10-01&until=2020-10-31 for more details. The first commit by Sebastian for the month was on 2020-10-03 and the last commit for the month was on 2020-10-31.
 
+* November: $155. 31 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-11-01&until=2020-11-30 for more details. The first commit by Sebastian for the month was on 2020-11-02 and the last commit for the month was on 2020-11-23.
+
 === Stipends ===
 
-Total so far: $7351
+Total so far: $7915
 
 The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
@@ -117,6 +113,8 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines w
 * September: $700. The payment is at $4/hour for all 160 hours eligible for stipend, plus 15 of 19 excess hours accumulated from last month. Total time spent was follows: 105 hours on Timelines wiki, 17 hours on Timelines wiki promotion, 38 hours on Org Watch, and 15 hours overage on Timelines wiki applied from the previous month. The reason only 15 hours rather than the full 19 hours of the past overage were applied is that with 15 hours, we already hit the cap of 120 hours on Timelines wiki for September.
 
 * October: $688. The payment is at $4/hour for all 172 hours eligible for stipend. Total time spent was as follows: 126 hours on Timelines wiki, 8 hours on Timelines wiki promotion, and 44 hours on Org Watch. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend. As of now, we have a total overage of 10 hours on Timelines wiki (4 hours carried over, and 6 more hours this month).
+
+* November: $564. The payment is at $4/hour for all 131 hours eligible for stipend, plus all 10 excess hours accumulated from earlier.  Total time spent was as follows: 98.5 hours on Timelines wiki, 1.5 hours on Timmelines wiki SEO research, and 31 hours on Org Watch.
 
 === Payment schedule ===
 
