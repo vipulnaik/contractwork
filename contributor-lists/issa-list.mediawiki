@@ -20,13 +20,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $1936.50
+Total money earned as income (taxable as income for 2020): $2022.16
 
 Payment made: $3396.64
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $0
+Net payment due: $85.66
 
 === Work on Donations list website (DLW) ===
 
@@ -54,7 +54,7 @@ Total so far: $5.41
 
 === Work on Org Watch (OW) ===
 
-Total so far: $260.12
+Total so far: $285.97
 
 * Work on Org Watch in July: $128.54. Spent 13 hours 32 minutes. Work done 2020-07-04 to 2020-07-27 at $9.50/hour. This includes 90 minutes in a video call with Vipul and Sebastian, and further work helping Sebastian onboard as an Org Watch contributor.
 
@@ -63,6 +63,8 @@ Total so far: $260.12
 * Work on Org Watch in September: $38.48. Spent 4 hours 3 minutes. Work done 2020-09-01 to 2020-09-12 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.
 
 * Work on Org Watch in October: $46.36. Spent 4 hours 53 minutes. Work done 2020-10-02 to 2020-10-10 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.
+
+* Work on Org Watch in November: $25.85. Spent 2 hours 43 minutes. Work done 2020-11-07 to 2020-11-27 at $9.50/hour. This includes 45 minutes in a video call with Vipul and Sebastian on 2020-11-07, and further work helping Sebastian with his Org Watch work.
 
 === Work on AI safety wiki ===
 
@@ -76,7 +78,7 @@ AI safety wiki work is currently hosted at the [https://wiki.issarice.com/wiki/C
 
 === Work on people watching ===
 
-Total so far: $79.89
+Total so far: 84.35
 
 People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms.
 
@@ -87,6 +89,8 @@ People watching work is capped at 10 hours per month, with a rate of $4.375/hour
 * Work on people watching in June: $12.16. Spent 2 hours 47 minutes. The work for this month was done from 2020-06-04 to 2020-06-26.
 
 * Work on people watching in October: $4.07. Spent 56 minutes. The work for this month was done from 2020-10-15 to 2020-10-18.
+
+* Work on people watching in November: $4.46. Spent 61 minutes. The work for this month was done on 2020-11-07.
 
 === Work on timelines wiki features ===
 
@@ -122,7 +126,7 @@ Total so far: $45.97
 
 === Stipends ===
 
-Total so far: $1001.34
+Total so far: $1056.69
 
 * January: $200.97. 22.33 hours at $9/hour
 
@@ -143,6 +147,8 @@ Total so far: $1001.34
 * September: $47.07. 5.23 hours at $9/hour
 
 * October: $56.25. 6.25 hours at $9/hour
+
+* November: $55.35. 6.15 hours at $9/hour
 
 === Payments made ===
 
