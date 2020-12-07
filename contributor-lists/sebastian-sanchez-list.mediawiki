@@ -74,6 +74,12 @@ Total so far: $3577
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Amazon Timeline of Amazon] (previously named timeline of Amazon): $750. Completed November 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Amazon&type=revision&diff=46865&oldid=21974 diff]. Increased from 41269 bytes and 63 rows to 326905 bytes and 418 rows; also, summaries by year (26 years), graphical data, sample questions, and updates to key developments part of big picture
 
+=== Tentative pending payments ===
+
+Total so far: $...
+
+* [https://timelines.issarice.com/wiki/Timeline_of_face_masks Timeline of face masks]: . 11 sample questions, 6 big picture rows, 8 mask types, 123 rows in big picture
+
 === Org Watch ===
 
 Total so far: $825

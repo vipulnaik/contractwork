@@ -79,9 +79,12 @@ all adjustments]:
 * September 2020: 120 hours
 * October 2020: 120 hours
 * November 2020: 120 hours
-* December 2020: 120 hours
-* January 2021: 120 hours
-* February 2021: 120 hours
+* December 2020: 150 hours (time increased to accommodate the addition
+  of a time-sensitive task)
+* January 2021: 150 hours (time increased to accommodate the addition
+  of a time-sensitive task)
+* February 2021: 150 hours (time increased to accommodate the addition
+  of a time-sensitive task)
 * March 2021: 120 hours
 * April 2021: 120 hours
 * May 2021: 105 hours
