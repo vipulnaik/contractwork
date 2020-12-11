@@ -78,7 +78,7 @@ Total so far: $3577
 
 Total so far: $325
 
-New timelines (payment not yet accepted):
+New timelines (tentative payment accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_face_masks Timeline of face masks]: $325. Completed December 9, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_face_masks&oldid=47256 (2020-12-09 18:27 UTC, 75864 bytes, 10 sample questions, 6 big picture rows, 8 mask types, 3 visual data charts, 124 rows in full timeline)
 
