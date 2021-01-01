@@ -16,17 +16,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2020 ==
 
-Total money earned as income: $15971
+Total money earned as income: $17432
 
 Forward balance carried over from 2019: ($2878.30)
 
 Payment made: $19810.16
 
-Net payment due: ($6717.46)
+Net payment due: ($5256.46)
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $3654
+Total so far: $3979
 
 * [https://timelines.issarice.com/wiki/Timeline_of_food_and_nutrition_in_China Timeline of food and nutrition in China]: $270. Completed January 1, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_food_and_nutrition_in_China&oldid=35663 (2020-01-01 13:23 UTC, 54035 bytes, 120 rows in full timeline, 6 rows in big picture, 4 sample questions)
 
@@ -46,9 +46,11 @@ Total so far: $3654
 
 * [https://timelines.issarice.com/wiki/Timeline_of_tobacco_smoking_and_disease Timeline of tobacco smoking and disease]: $475. Completed September 5, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_tobacco_smoking_and_disease&oldid=44308 (2020-09-05 20:59 UTC, 117001 bytes, 8 sample questions, 4 and 9 rows in big pictures, 249 rows in full timeline)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_face_masks Timeline of face masks]: $325. Completed December 9, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_face_masks&oldid=47256 (2020-12-09 18:27 UTC, 75864 bytes, 10 sample questions, 6 big picture rows, 8 mask types, 3 visual data charts, 124 rows in full timeline)
+
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $3577
+Total so far: $3652
 
 * [https://timelines.issarice.com/wiki/Timeline_of_WeWork Timeline of WeWork]: $127. Completed January 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_WeWork&type=revision&diff=36314&oldid=18466 Diff]. Increased from 34620 bytes to 69379 bytes. In addition to adding about 37 new rows, the changes include edits to existing rows, a new sample questions section with 5 questions, big picture expansion, and a visual data section with 3 charts
 
@@ -74,21 +76,11 @@ Total so far: $3577
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Amazon Timeline of Amazon] (previously named timeline of Amazon): $750. Completed November 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Amazon&type=revision&diff=46865&oldid=21974 diff]. Increased from 41269 bytes and 63 rows to 326905 bytes and 418 rows; also, summaries by year (26 years), graphical data, sample questions, and updates to key developments part of big picture
 
-=== Tentative pending payments ===
-
-Total so far: $400
-
-New timelines (tentative payment accepted):
-
-* [https://timelines.issarice.com/wiki/Timeline_of_face_masks Timeline of face masks]: $325. Completed December 9, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_face_masks&oldid=47256 (2020-12-09 18:27 UTC, 75864 bytes, 10 sample questions, 6 big picture rows, 8 mask types, 3 visual data charts, 124 rows in full timeline)
-
-Expansions (tentative payment accepted):
-
 * [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $75. Completed December 11, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=47328&oldid=44393 Diff]. Increased from 166047 bytes to 186427 bytes; also, 5 new sample questions, updated visual data charts, 1 new year in summary by year, 25 new rows in full timeline
 
 === Org Watch ===
 
-Total so far: $825
+Total so far: $1230
 
 * July: $140. 28 hours at $5/hour. On 2020-07-04, Sebastian, Issa, and Vipul met to discuss Org Watch data entry, after which Issa helped Sebastian get set up. Since then, Sebastian has been making commits in the sebastian branch; see https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-07-01&until=2020-07-31 for a list of commits. The last commit for the month was on 2020-07-27.
 
@@ -100,9 +92,11 @@ Total so far: $825
 
 * November: $155. 31 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-11-01&until=2020-11-30 for more details. The first commit by Sebastian for the month was on 2020-11-02 and the last commit for the month was on 2020-11-23.
 
+* December: $405. 81 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-12-01&until=2020-12-31 for more details. The first commmit by Sebastian for the month was on 2020-12-11 and the last commit for the month was on 2020-12-31.
+
 === Stipends ===
 
-Total so far: $7915
+Total so far: $8571
 
 The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
@@ -127,6 +121,8 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines w
 * October: $688. The payment is at $4/hour for all 172 hours eligible for stipend. Total time spent was as follows: 126 hours on Timelines wiki, 8 hours on Timelines wiki promotion, and 44 hours on Org Watch. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend. As of now, we have a total overage of 10 hours on Timelines wiki (4 hours carried over, and 6 more hours this month).
 
 * November: $564. The payment is at $4/hour for all 131 hours eligible for stipend, plus all 10 excess hours accumulated from earlier.  Total time spent was as follows: 98.5 hours on Timelines wiki, 1.5 hours on Timmelines wiki SEO research, and 31 hours on Org Watch.
+
+* December: $656. The payment is at $4/hour for all 164 hours eligible for stipend. Total time spent was as follows: 83 hours on Timelines Wiki and 81 hours on Org Watch.
 
 === Payment schedule ===
 
