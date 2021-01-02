@@ -14,6 +14,22 @@ Additional notes: Based in Argentina
 
 For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Sebastian+Sanchez
 
+== Work in 2021 ==
+
+Total money earned as income: $0
+
+Forward balance carried over from 2020: ($5256.46)
+
+Payment made: $649.12
+
+Net payment due: ($5905.58)
+
+=== Payment schedule ===
+
+Total so far: $649.12
+
+* $649.12 sent and received Saturday, January 2, 2021. Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00000754 BTC. Transaction available online at https://blockchain.info/tx/b02de5ccd5a2c951e9b1970d0c35611c6cce64f30a2d161f85c6621448a66810 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
 == Work in 2020 ==
 
 Total money earned as income: $17432
