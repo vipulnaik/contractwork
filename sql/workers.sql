@@ -25,7 +25,7 @@ create table workers(
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into workers(worker, country, wikipedia_username, timelines_wiki_username, facebook_username, email_id, preferred_payment_method, recruiter, contact_method, notes, worker_file) values
-  ('Amana Rice','United States',NULL,NULL,'omgitsmana',NULL,'PayPal','Issa Rice','outbound in-person','Amana Rice is the sister of Issa Rice, who recruited her based on that connection.','amana-list.mediawiki'),
+  ('Amana Rice','United States',NULL,NULL,'omgitsmana','omgitsmana@gmail.com','PayPal','Issa Rice','outbound in-person','Amana Rice is the sister of Issa Rice, who recruited her based on that connection.','amana-list.mediawiki'),
   ('Mati Roy','Canada','Mati_Roy','Mati_Roy','mati.roy.09','contact@matiroy.com','PayPal','Issa Rice','inbound email','Mati started working on the timeline of cryonics after it was initially proposed to Orpheus Lummis, who has completed another timeline for Timelines Wiki','mati-roy-list.mediawiki'),
   ('Orpheus Lummis','Canada','Orpheus_Lummis','Orpheus_Lummis','orpheus.lummis','o@orpheuslummis.com','Ethereum','Issa Rice','inbound email','Started work on topics of interest to the worker','orpheus-lummis-list.mediawiki'),
   ('Milo King','United States','MiloJBKing',NULL,'milo.king','milo.j.king@gmail.com','PayPal','Vipul Naik','outbound Facebook','Did a bit of Wikipedia work in March and then a lot of work on the Market subwiki in the summer of 2016','milo-list.mediawiki'),
