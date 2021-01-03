@@ -20,13 +20,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $2022.16
+Total money earned as income (taxable as income for 2020): $2772.07
 
 Payment made: $3396.64
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $490.66
+Net payment due: $835.57
 
 === Work on Donations list website (DLW) ===
 
@@ -54,7 +54,7 @@ Total so far: $5.41
 
 === Work on Org Watch (OW) ===
 
-Total so far: $285.97
+Total so far: $454.30
 
 * Work on Org Watch in July: $128.54. Spent 13 hours 32 minutes. Work done 2020-07-04 to 2020-07-27 at $9.50/hour. This includes 90 minutes in a video call with Vipul and Sebastian, and further work helping Sebastian onboard as an Org Watch contributor.
 
@@ -65,6 +65,14 @@ Total so far: $285.97
 * Work on Org Watch in October: $46.36. Spent 4 hours 53 minutes. Work done 2020-10-02 to 2020-10-10 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.
 
 * Work on Org Watch in November: $25.85. Spent 2 hours 43 minutes. Work done 2020-11-07 to 2020-11-27 at $9.50/hour. This includes 45 minutes in a video call with Vipul and Sebastian on 2020-11-07, and further work helping Sebastian with his Org Watch work.
+
+* Work on Org Watch in December (general): $4.09. Spent 26 minutes. Work done 2020-12-10 to 2020-12-15 at $9.50/hour.
+
+* Work on Org Watch in December (assisting Sebastian): $42.28. Spent 4 hours 27 minutes. Work done 2020-12-12 to 2020-12-29 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.
+
+* Work on Org Watch in December (assisting Amana): $91.96. Spent 9 hours 41 minutes. Work done 2020-12-13 to 2020-12-27 at $9.50/hour. This work was done to help Amana Rice, a new Org Watch contributor.
+
+* Coding work on Org Watch: $30. Spent 1 hour 14 minutes. Work done 2020-12-14 at a rate of max{$30, $9.50/hour * time spent} on https://github.com/riceissa/aiwatch/issues/52
 
 === Work on AI safety wiki ===
 
@@ -138,7 +146,7 @@ Total so far: $105
 
 === Stipends ===
 
-Total so far: $1056.69
+Total so far: $1233.27
 
 * January: $200.97. 22.33 hours at $9/hour
 
@@ -161,6 +169,8 @@ Total so far: $1056.69
 * October: $56.25. 6.25 hours at $9/hour
 
 * November: $55.35. 6.15 hours at $9/hour
+
+* December: $176.58. 19.62 hours at $9/hour
 
 === Payments made ===
 

@@ -964,7 +964,12 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-10-10',46.36,'Organizational structure and dynamics','N/A','Work done 2020-10-02 to 2020-10-10 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.',293),
   /* Tasks added for November 2020 */
   ('Issa Rice','People repo','People watching','N/A','N/A','2020-11-07',4.46,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2020-11-07.',61),
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-11-27',25.85,'Organizational structure and dynamics','N/A','Work done 2020-11-07 to 2020-11-27 at $9.50/hour. This includes 45 minutes in a video call with Vipul and Sebastian on 2020-11-07, and further work helping Sebastian with his Org Watch work.',163);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-11-27',25.85,'Organizational structure and dynamics','N/A','Work done 2020-11-07 to 2020-11-27 at $9.50/hour. This includes 45 minutes in a video call with Vipul and Sebastian on 2020-11-07, and further work helping Sebastian with his Org Watch work.',163),
+  /* Tasks added for December 2020 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-12-15',4.09,'Organizational structures and dynamics','N/A','Work done 2020-12-10 to 2020-12-15 at $9.50/hour.',26),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-12-29',42.28,'Organizational structures and dynamics','N/A','Work done 2020-12-12 to 2020-12-29 at $9.50/hour. This work was done to continue to help Sebastian with his Org Watch work.',267),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2020-12-27',91.96,'Organizational structures and dynamics','N/A','Work done 2020-12-13 to 2020-12-27 at $9.50/hour. This work was done to help Amana Rice, a new Org Watch contributor.',581),
+  ('Issa Rice','Org Watch','Coding','On an organization page, have a programmatically populated section for "similar organizations"','https://github.com/riceissa/aiwatch/issues/52','2020-12-14',30,'Organizational structures and dynamics','Code','Work done 2020-12-14 at a rate of max{$30, $9.50/hour * time spent} on https://github.com/riceissa/aiwatch/issues/52',74);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
