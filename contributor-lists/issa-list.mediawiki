@@ -26,7 +26,7 @@ Payment made: $3396.64
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $85.66
+Net payment due: $490.66
 
 === Work on Donations list website (DLW) ===
 
@@ -98,6 +98,12 @@ Total so far: $125
 
 * January 15: $125. Work done on 2020-01-15. Spent 2 hours 53 minutes. Payment determined as max{$125, $8.50/hour * 2.88 hours}. Issues worked on are https://github.com/riceissa/timelines-wiki-main-page-table/issues/6 https://github.com/riceissa/timelines-wiki-main-page-table/issues/7 https://github.com/riceissa/timelines-wiki-main-page-table/issues/8 https://github.com/riceissa/timelines-wiki-main-page-table/issues/9 https://github.com/riceissa/timelines-wiki-main-page-table/issues/10 https://github.com/riceissa/timelines-wiki-main-page-table/issues/11
 
+=== Work on timelines wiki maintenance ===
+
+Total so far: $300
+
+* $300: Year-round maintenance of Timelines Wiki: $20/month for hosting, and $5/month for main page updates
+
 === Work on Linode migration (preliminary investigation) ===
 
 Total so far: $81.29
@@ -123,6 +129,12 @@ Total so far: $22.50
 Total so far: $45.97
 
 * Reimbursement for renewing three auxiliary domains for Cause Prioritization Wiki: $46.51. Renewal purchased November 11, 2019. Details: $14.99 - causeprioritization.com, $14.99 - causeprioritisation.com, $15.99 - causeprioritisation.org (.org domains cost an extra dollar). Issa shouldered the $15.99 cost of renewing the main domain causeprioritization.org himself
+
+=== Other work ===
+
+Total so far: $105
+
+* Automatic Wikipedia backup download: $105. Payment for maintaining the process that does daily backups of Wikipedia content, at $2/week for 52 weeks, from 2020-01-01 to 2020-12-31, with an extra dollar because of the extra day beyond 52 weeks
 
 === Stipends ===
 
