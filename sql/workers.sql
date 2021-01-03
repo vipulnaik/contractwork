@@ -25,6 +25,7 @@ create table workers(
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into workers(worker, country, wikipedia_username, timelines_wiki_username, facebook_username, email_id, preferred_payment_method, recruiter, contact_method, notes, worker_file) values
+  ('Amana Rice','United States',NULL,NULL,'omgitsmana',NULL,'PayPal','Issa Rice','outbound in-person','Amana Rice is the sister of Issa Rice, who recruited her based on that connection.','amana-list.mediawiki'),
   ('Mati Roy','Canada','Mati_Roy','Mati_Roy','mati.roy.09','contact@matiroy.com','PayPal','Issa Rice','inbound email','Mati started working on the timeline of cryonics after it was initially proposed to Orpheus Lummis, who has completed another timeline for Timelines Wiki','mati-roy-list.mediawiki'),
   ('Orpheus Lummis','Canada','Orpheus_Lummis','Orpheus_Lummis','orpheus.lummis','o@orpheuslummis.com','Ethereum','Issa Rice','inbound email','Started work on topics of interest to the worker','orpheus-lummis-list.mediawiki'),
   ('Milo King','United States','MiloJBKing',NULL,'milo.king','milo.j.king@gmail.com','PayPal','Vipul Naik','outbound Facebook','Did a bit of Wikipedia work in March and then a lot of work on the Market subwiki in the summer of 2016','milo-list.mediawiki'),
@@ -62,12 +63,14 @@ update workers set github_username='riceissa' where worker = 'Issa Rice';
 update workers set github_username='aviglozman' where worker = 'Avi Glozman';
 update workers set github_username='ethanbas' where worker = 'Ethan Bashkansky';
 update workers set github_username='sebastiansanchez123' where worker = 'Sebastian Sanchez';
+update workers set github_username='omgitsmana' where worker = 'Amana Rice';
 
 # -- LinkedIn usernames
 update workers set linkedin_username='issarice' where worker='Issa Rice';
 update workers set linkedin_username='ethan-bashkansky-56166766' where worker='Ethan Bashkansky';
 update workers set linkedin_username='sebastián-sánchez-7b77968a' where worker='Sebastian Sanchez';
 update workers set linkedin_username='jesse-clifton-45652758' where worker='Jesse Clifton';
+update workers set linkedin_username='amanarice' where worker = 'Amana Rice';
 
 # -- Worker file insertions
 update workers set worker_file = 'milo-list.mediawiki' where worker = 'Milo King';
