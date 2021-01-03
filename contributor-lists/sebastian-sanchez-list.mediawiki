@@ -26,7 +26,7 @@ Payment made: $649.12
 
 Net payment due: ($5905.58)
 
-=== Payment schedule ===
+=== Payments made ===
 
 Total so far: $649.12
 
@@ -142,7 +142,7 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines w
 
 * December: $656. The payment is at $4/hour for all 164 hours eligible for stipend. Total time spent was as follows: 83 hours on Timelines Wiki and 81 hours on Org Watch.
 
-=== Payment schedule ===
+=== Payments made ===
 
 Total so far: $19810.16
 
@@ -346,7 +346,7 @@ From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours w
 
 * December: $700. Worked 165 hours on Timelines wiki, and a number of hours on preparatory work for other projects that will start in 2020.
 
-=== Payment schedule ===
+=== Payments made ===
 
 Total paid: $19459.57
 
@@ -602,7 +602,7 @@ Total so far: $5695
 
 * December: $120. Worked 30 hours, including time spent outside Timelines wiki. Most of the month was spent on sick leave
 
-=== Payment schedule ===
+=== Payments made ===
 
 Total paid: $20556.92
 
@@ -832,7 +832,7 @@ Total so far: $98
 
 * Second Crunchbase 1-month subscription: $49
 
-=== Payment schedule ===
+=== Payments made ===
 
 Total paid: $12383.54
 
@@ -1018,7 +1018,7 @@ Total: $30
 
 * $30 for payment to Daniel Alejandro Maidana
 
-=== Payment schedule ===
+=== Payments made ===
 
 Total payment amount received: $4604.37
 

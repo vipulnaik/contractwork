@@ -20,15 +20,33 @@ Note: The arrangement with Issa is much more complicated because, in addition to
 
 For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice
 
+== Work and other compensation in 2021 ==
+
+Total money earned as income (taxable as income for 2021): $0
+
+Payment made: $876.18
+
+Carryover payment due from 2020: $858.13
+
+Net payment due: ($18.05)
+
+=== Payments made ===
+
+Total so far: $876.18
+
+* $835.57 via PayPal on January 3, 2021
+
+* $40.61 via PayPal on January 3, 2021
+
 == Work and other compensation in 2020 ==
 
-Total money earned as income (taxable as income for 2020): $2772.07
+Total money earned as income (taxable as income for 2020): $2794.63
 
 Payment made: $3396.64
 
 Carryover payment due from 2019: $1460.14
 
-Net payment due: $835.57
+Net payment due: $858.13
 
 === Work on Donations list website (DLW) ===
 
@@ -173,6 +191,12 @@ Total so far: $1233.27
 * November: $55.35. 6.15 hours at $9/hour
 
 * December: $176.58. 19.62 hours at $9/hour
+
+=== Commissions ===
+
+Total so far: $22.56
+
+* Amana Rice: 15% of $150.40 = $22.56
 
 === Payments made ===
 
@@ -1167,7 +1191,7 @@ Total so far: $401.03
 
 * 100.50 for PayPal payment to Adrian 
 
-=== Payment schedule ===
+=== Payments made ===
 
 Total payment received for 2016: $5044 (+ $4000 pending)
 

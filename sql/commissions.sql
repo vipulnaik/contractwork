@@ -26,7 +26,8 @@ insert into commissions(earner,commission_receiver,commission,commission_validit
   ('Alex K. Chen','Issa Rice',0.10,'2015-04-01','2015-12-31','Guide'),
   ('Orpheus Lummis','Issa Rice',0.15,'2018-09-30','2020-12-31','Guide'),
   ('Mati Roy','Issa Rice',0.15,'2019-02-17','2019-02-17','Guide'),
- 
+  ('Amana Rice','Issa Rice',0.15,'2020-12-01','2020-12-31','Guide'),
+
   ('Amy Zhang','Ethan Bashkansky',0.15,'2016-06-26',NULL,'Recruiter'),
   ('Avi Glozman','Ethan Bashkansky',0.10,'2016-06-05',NULL,'Recruiter'),
   ('Christopher Kunin','Ethan Bashkansky',0.10,'2016-06-16',NULL,'Recruiter'),
