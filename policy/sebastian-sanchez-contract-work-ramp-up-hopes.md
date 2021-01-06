@@ -1,7 +1,7 @@
 # Sebastian Sanchez: contract work ramp-up hopes
 
 As described in
-[sebastiian-sanchez-timelines-wiki-contract-work-reduction-proposal.md](sebastian-sanchez-timelines-wiki-contract-work-reduction-proposal.md),
+[sebastian-sanchez-timelines-wiki-contract-work-reduction-proposal.md](sebastian-sanchez-timelines-wiki-contract-work-reduction-proposal.md),
 Sebastian's work on timelines is being reduced gradually, with a goal
 of bringing it down to 75 hours per month in November 2020. This page
 describes other planned activities that we hope to increase with the
