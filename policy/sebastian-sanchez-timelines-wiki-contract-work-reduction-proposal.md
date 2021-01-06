@@ -87,10 +87,35 @@ all adjustments]:
   of a time-sensitive task)
 * March 2021: 150 hours (time increased in anticipation of backlog due
   to focus on Org Watch in previous months)
-* April 2021: 120 hours
-* May 2021: 105 hours
-* June 2021: 90 hours
-* July 2021: 75 hours
+* April 2021: 150 hours (time increased due to increase in priority
+  work)
+* May 2021: 150 hours (time increased due to increase in priority
+  work)
+* June 2021: 150 hours (time increased due to increase in priority
+  work)
+* July 2021: 150 hours (time increased due to increase in priority
+  work)
+* August 2021: 150 hours (time increased due to increase in priority
+  work)
+* September 2021: 150 hours (time increased due to increase in priority
+  work)
+* October 2021: 150 hours (time increased due to increase in priority
+  work)
+* November 2021: 150 hours (time increased due to increase in priority
+  work)
+* December 2021: 150 hours (time increased due to increase in priority
+  work)
+* January 2022: 150 hours (time increased due to increase in priority
+  work)
+* February 2022: 150 hours (time increased due to increase in priority
+  work)
+* March 2022: 150 hours (time increased due to increase in priority
+  work)
+* April 2022: 135 hours
+* May 2022: 120 hours
+* June 2022: 105 hours
+* July 2022: 90 hours
+* August 2022: 75 hours
 
 Overages can be accumulated even during the transition phase; the
 overage accumulated from a given month will be calculated against the
@@ -111,16 +136,6 @@ and communicated to Sebastian by the 15th of the previous
 month. Increases may, however, be done later or even during the month.
 
 ### Potential long-term trajectory changes
-
-Vipul expects that the reduction to 75 hours will likely last from
-July 2021 till around November 2021, after which Vipul will make a
-decision with Sebastian as to how to further modify the number of
-hours. There is a good chance that stipend for Timelines Wiki work
-will be further reduced to about 30 hours by early-to-mid-2022. Most
-likely, such a reduction will be done in a phased manner, with the
-limit going down every month by at most 15 hours per month. It is,
-however, also possible that the hour limit reduction will be deferred
-again, or the hour limit will be increased back.
 
 Factors that will affect which way we go include:
 
