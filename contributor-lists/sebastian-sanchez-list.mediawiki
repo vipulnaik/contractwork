@@ -26,6 +26,14 @@ Payment made: $649.12
 
 Net payment due: ($5905.58)
 
+=== Tentative pending payments ===
+
+Total so far: $100
+
+Payment for expansions (not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngramm Viewer chart
+
 === Payments made ===
 
 Total so far: $649.12
