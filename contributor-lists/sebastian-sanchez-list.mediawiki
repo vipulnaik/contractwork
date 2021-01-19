@@ -22,9 +22,9 @@ Total money earned as income: $0
 
 Forward balance carried over from 2020: ($5256.46)
 
-Payment made: $649.12
+Payment made: $1202.62
 
-Net payment due: ($5905.58)
+Net payment due: ($6459.08)
 
 === Tentative pending payments ===
 
@@ -36,9 +36,11 @@ Payment for expansions (accepted):
 
 === Payments made ===
 
-Total so far: $649.12
+Total so far: $1202.62
 
 * $649.12 sent and received Saturday, January 2, 2021. Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00000754 BTC. Transaction available online at https://blockchain.info/tx/b02de5ccd5a2c951e9b1970d0c35611c6cce64f30a2d161f85c6621448a66810 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
+* $553.50 sent and received Tuesday, January 19, 2021. Transaction in Bitcoin for 0.015 BTC (and calculated in terms of USD value at time of transaction of $36,900.08 per BTC), with a very small transaction fee of 0.00003303 BTC. Transaction available online at https://www.blockchain.com/btc/tx/3323d8cc7be285672e269ab75dbf029fd3e411cecd23bee346c2d395cf650344 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 == Work in 2020 ==
 
