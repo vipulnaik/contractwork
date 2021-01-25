@@ -83,9 +83,9 @@ all adjustments]:
   of a time-sensitive task)
 * January 2021: 150 hours (time increased to accommodate the addition
   of a time-sensitive task)
-* February 2021: 150 hours (time increased to accommodate the addition
+* February 2021: 180 hours (time increased to accommodate the addition
   of a time-sensitive task)
-* March 2021: 150 hours (time increased in anticipation of backlog due
+* March 2021: 180 hours (time increased in anticipation of backlog due
   to focus on Org Watch in previous months)
 * April 2021: 150 hours (time increased due to increase in priority
   work)
