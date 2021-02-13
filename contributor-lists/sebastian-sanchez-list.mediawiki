@@ -36,7 +36,7 @@ Total so far: $100
 
 Total so far: $403
 
-Expansions (not yet accepted):
+Expansions (accepted):
 
 * Comprehensive visual data updates across multiple times: $403. 121 graphs across 41 timelines at about $3.33 / graph
 
