@@ -32,6 +32,14 @@ Total so far: $100
 
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngram Viewer chart
 
+=== Tentative pending payments ===
+
+Total so far: $403
+
+Expansions (not yet accepted):
+
+* Comprehensive visual data updates across multiple times: $403. 121 graphs across 41 timelines at about $3.33 / graph
+
 === Org Watch ===
 
 Total so far: $125
