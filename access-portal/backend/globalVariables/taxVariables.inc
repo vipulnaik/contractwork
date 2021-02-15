@@ -2,54 +2,73 @@
 
 $currentTaxYear = '2021';
 $mostRecentCompletedTaxYear = '2020';
-function setLineNumbers($year) {
-  if ($year == '2018') {
-    $s1scLineNumber = 12;
-    $s1TotalIncomeLineNumber = 22;
-    $s1sseLineNumber = 27;
-    $s1TotalDeductionLineNumber = 36;
-  } else if ($year >= '2019') {
-    $s1scLineNumber = 3;
-    $s1TotalIncomeLineNumber = 9;
-    $s1sseLineNummber = 14;
-    $s1TotalDeductionLineNumber = 22;
-  }
-  if ($year == '2018') {
-    $s1InMainFormLineNumber = '6 (inner blank)';
-    $totalIncomeLineNumber = 6;
-    $agiLineNumber = 7;
-    $standardOrItemizedDeductionLineNumber = 8;
-    $taxableIncomeLineNumber = 10;
-    $taxLineNumber = 11;
-    $setInMainFormLineNumber = 14;
-    $totalTaxLineNumber = 15;
-    $totalPaymentsLineNumber = 18;
-  } else if ($year == '2019') {
-    $s1InMainFormLineNumber = '7a';
-    $totalIncomeLineNumber = '7b';
-    $adjustmentsToIncomeLineNumber = '8a';
-    $agiLineNumber = '8b';
-    $standardOrItemizedDeductionLineNumber = 9;
-    $totalDeductionLineNumber = '11a';
-    $taxableIncomeLineNumber = '11b';
-    $taxLineNumber = '12a';
-    $setInMainFormLineNumber = 15;
-    $totalTaxLineNumber = 16;
-    $totalPaymentsLineNumber = 19;
-  } else if ($year >= '2020') {
-    $s1InMainFormLineNumber = 8;
-    $totalIncomeLineNumber = 9;
-    $adjustmentsToIncomeLineNumber = '10a and 10c';
-    $agiLineNumber = 11;
-    $standardOrItemizedDeductionLineNumber = 12;
-    $totalDeductionLineNumber = 14;
-    $taxableIncomeLineNumber = 15;
-    $taxLineNumber = 16;
-    $setInMainFormLineNumber = 23;
-    $totalTaxLineNumber = 24;
-    $totalPaymentsLineNumber = 33;
-  }
-}
+
+$s1scLineNumber['2018'] = 12;
+$s1TotalIncomeLineNumber['2018'] = 22;
+$s1sseLineNumber['2018'] = 27;
+$s1TotalDeductionLineNumber['2018'] = 36;
+
+$s1scLineNumber['2019'] = 3;
+$s1TotalIncomeLineNumber['2019'] = 9;
+$s1sseLineNumber['2019'] = 14;
+$s1TotalDeductionLineNumber['2019'] = 22;
+
+$s1scLineNumber['2020'] = 3;
+$s1TotalIncomeLineNumber['2020'] = 9;
+$s1sseLineNumber['2020'] = 14;
+$s1TotalDeductionLineNumber['2020'] = 22;
+
+$s1scLineNumber['2021'] = 3;
+$s1TotalIncomeLineNumber['2021'] = 9;
+$s1sseLineNumber['2021'] = 14;
+$s1TotalDeductionLineNumber['2021'] = 22;
+
+$s1InMainFormLineNumber['2018'] = '6 (inner blank)';
+$totalIncomeLineNumber['2018'] = 6;
+$agiLineNumber['2018'] = 7;
+$standardOrItemizedDeductionLineNumber['2018'] = 8;
+$taxableIncomeLineNumber['2018'] = 10;
+$taxLineNumber['2018'] = 11;
+$setInMainFormLineNumber['2018'] = 14;
+$totalTaxLineNumber['2018'] = 15;
+$totalPaymentsLineNumber['2018'] = 18;
+
+$s1InMainFormLineNumber['2019'] = '7a';
+$totalIncomeLineNumber['2019'] = '7b';
+$adjustmentsToIncomeLineNumber['2019'] = '8a';
+$agiLineNumber['2019'] = '8b';
+$standardOrItemizedDeductionLineNumber['2019'] = 9;
+$totalDeductionLineNumber['2019'] = '11a';
+$taxableIncomeLineNumber['2019'] = '11b';
+$taxLineNumber['2019'] = '12a';
+$setInMainFormLineNumber['2019'] = 15;
+$totalTaxLineNumber['2019'] = 16;
+$totalPaymentsLineNumber['2019'] = 19;
+
+$s1InMainFormLineNumber['2020'] = 8;
+$totalIncomeLineNumber['2020'] = 9;
+$adjustmentsToIncomeLineNumber['2020'] = '10a and 10c';
+$agiLineNumber['2020'] = 11;
+$standardOrItemizedDeductionLineNumber['2020'] = 12;
+$totalDeductionLineNumber['2020'] = 14;
+$taxableIncomeLineNumber['2020'] = 15;
+$taxLineNumber['2020'] = 16;
+$setInMainFormLineNumber['2020'] = 23;
+$totalTaxLineNumber['2020'] = 24;
+$totalPaymentsLineNumber['2020'] = 33;
+
+$s1InMainFormLineNumber['2021'] = 8;
+$totalIncomeLineNumber['2021'] = 9;
+$adjustmentsToIncomeLineNumber['2021'] = '10a and 10c';
+$agiLineNumber['2021'] = 11;
+$standardOrItemizedDeductionLineNumber['2021'] = 12;
+$totalDeductionLineNumber['2021'] = 14;
+$taxableIncomeLineNumber['2021'] = 15;
+$taxLineNumber['2021'] = 16;
+$setInMainFormLineNumber['2021'] = 23;
+$totalTaxLineNumber['2021'] = 24;
+$totalPaymentsLineNumber['2021'] = 33;
+
 
 $standardDeduction['2015'] = 6200;
 $standardDeduction['2016'] = 6300;
