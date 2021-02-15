@@ -1,6 +1,56 @@
 <?php
 
-$currentTaxYear = '2020';
+$currentTaxYear = '2021';
+$mostRecentCompletedTaxYear = '2020';
+function setLineNumbers() {
+  if ($year == '2018') {
+    $s1scLineNumber = 12;
+    $s1TotalIncomeLineNumber = 22;
+    $s1sseLineNumber = 27;
+    $s1TotalDeductionLineNumber = 36;
+  } else if ($year >= '2019') {
+    $s1scLineNumber = 3;
+    $s1TotalIncomeLineNumber = 9;
+    $s1sseLineNummber = 14;
+    $s1TotalDeductionLineNumber = 22;
+  }
+  if ($year == '2018') {
+    $s1InMainFormLineNumber = '6 (inner blank)';
+    $totalIncomeLineNumber = 6;
+    $agiLineNumber = 7;
+    $standardOrItemizedDeductionLineNumber = 8;
+    $taxableIncomeLineNumber = 10;
+    $taxLineNumber = 11;
+    $setInMainFormLineNumber = 14;
+    $totalTaxLineNumber = 15;
+    $totalPaymentsLineNumber = 18;
+  } else if ($year == '2019') {
+    $s1InMainFormLineNumber = '7a';
+    $totalIncomeLineNumber = '7b';
+    $adjustmentsToIncomeLineNumber = '8a';
+    $agiLineNumber = '8b';
+    $standardOrItemizedDeductionLineNumber = 9;
+    $totalDeductionLineNumber = '11a';
+    $taxableIncomeLineNumber = '11b';
+    $taxLineNumber = '12a';
+    $setInMainFormLineNumber = 15;
+    $totalTaxLineNumber = 16;
+    $totalPaymentsLineNumber = 19;
+  } else if ($year >= '2020') {
+    $s1InMainFormLineNumber = 8;
+    $totalIncomeLineNumber = 9;
+    $adjustmentsToIncomeLineNumber = '10a and 10c';
+    $agiLineNumber = 11;
+    $standardOrItemizedDeductionLineNumber = 12;
+    $totalDeductionLineNumber = 14;
+    $taxableIncomeLineNumber = 15;
+    $taxLineNumber = 16;
+    $setInMainFormLineNumber = 23;
+    $totalTaxLineNumber = 24;
+    $totalPaymentsLineNumber = 33;
+  }
+}
+
 $standardDeduction['2015'] = 6200;
 $standardDeduction['2016'] = 6300;
 $standardDeduction['2017'] = 6350;
