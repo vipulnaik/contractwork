@@ -42,6 +42,7 @@ for($i = 0;$i < $downwardTaxAdjustmentsResult -> num_rows;$i++) {
 }
 
 function hyperlinkedTaxForm($year, $slug, $anchorText) {
+  global $mostRecentCompletedTaxYear, $currentTaxYear;
   if ($year == $mostRecentCompletedTaxYear) {
     return '<a href="https://www.irs.gov/pub/irs-pdf/'.$slug.'.pdf">'.$anchorText.' (PDF)</a>';
   } else if ($year == $currentTaxYear) {
