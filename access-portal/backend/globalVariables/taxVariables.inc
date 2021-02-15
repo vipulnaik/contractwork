@@ -2,7 +2,7 @@
 
 $currentTaxYear = '2021';
 $mostRecentCompletedTaxYear = '2020';
-function setLineNumbers() {
+function setLineNumbers($year) {
   if ($year == '2018') {
     $s1scLineNumber = 12;
     $s1TotalIncomeLineNumber = 22;
