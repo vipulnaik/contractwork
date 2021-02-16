@@ -87,13 +87,13 @@ all adjustments]:
   of a time-sensitive task)
 * March 2021: 180 hours (time increased in anticipation of backlog due
   to focus on Org Watch in previous months)
-* April 2021: 150 hours (time increased due to increase in priority
+* April 2021: 180 hours (time increased due to increase in priority
   work)
-* May 2021: 150 hours (time increased due to increase in priority
+* May 2021: 180 hours (time increased due to increase in priority
   work)
-* June 2021: 150 hours (time increased due to increase in priority
+* June 2021: 180 hours (time increased due to increase in priority
   work)
-* July 2021: 150 hours (time increased due to increase in priority
+* July 2021: 180 hours (time increased due to increase in priority
   work)
 * August 2021: 150 hours (time increased due to increase in priority
   work)
