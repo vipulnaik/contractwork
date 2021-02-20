@@ -24,7 +24,7 @@ Forward balance carried over from 2020: ($5256.46)
 
 Payment made: $1202.62
 
-Net payment due: ($5674.08)
+Net payment due: ($6244.06)
 
 === Additions to existing pages (Timelines wiki) ===
 
@@ -56,11 +56,13 @@ The rule of thumb for stipend is: $4/hour
 
 === Payments made ===
 
-Total so far: $1202.62
+Total so far: $1774.41
 
-* $649.12 sent and received Saturday, January 2, 2021. Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00000754 BTC. Transaction available online at https://blockchain.info/tx/b02de5ccd5a2c951e9b1970d0c35611c6cce64f30a2d161f85c6621448a66810 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+* $649.12 sent and received Saturday, January 2, 2021. Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00000754 BTC. Transaction available online at https://blockchain.com/btc/tx/b02de5ccd5a2c951e9b1970d0c35611c6cce64f30a2d161f85c6621448a66810 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 * $553.50 sent and received Tuesday, January 19, 2021. Transaction in Bitcoin for 0.015 BTC (and calculated in terms of USD value at time of transaction of $36,900.08 per BTC), with a very small transaction fee of 0.00003303 BTC. Transaction available online at https://www.blockchain.com/btc/tx/3323d8cc7be285672e269ab75dbf029fd3e411cecd23bee346c2d395cf650344 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
+* $571.79 sent and received Saturday, February 20, 2021. Transaction in Bitcoin for 0.01 BTC (and calculated in terms of USD time of transition of $57,178.89 per BTC), with a very small transaction fee of 0.00003937 BTC ($2.25 USD). Transaction available online at https://www.blockchain.com/btc/tx/f84705592e5fe15a90fe17deb9feb9c6d651953480b5bfb004429a91fbc1628d (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 == Work in 2020 ==
 
@@ -68,9 +70,9 @@ Total money earned as income: $17432
 
 Forward balance carried over from 2019: ($2878.30)
 
-Payment made: $19810.16
+Payment made: $19808.35
 
-Net payment due: ($5256.46)
+Net payment due: ($5254.65)
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
@@ -174,7 +176,7 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines w
 
 === Payments made ===
 
-Total so far: $19810.16
+Total so far: $19808.35
 
 * $4950 sent Saturday, February 8, 2020, received Monday, February 10, 2020. Sent $4950 + $40 transaction fees via Western Union, receiver got 413424 ARS. The exchange rate used by Western Union matches the market exchange rate at the time (1 USD = 83.52 ARS).
 
@@ -184,7 +186,7 @@ Total so far: $19810.16
 
 * $4704.64 sent and received Wednesday, July 8, 2020. Transaction in Bitcoin for 0.50 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00056663 BTC. Transaction available online at https://www.blockchain.com/btc/tx/53a5687a3c0f4f277f43f303c88fb127e603781cdc31221fc8fa9bb350fc3cd7 Sebastian received 526911.24 ARS for the 0.50 BTC.
 
-* $5327.32 sent and received Wednesday, October 7, 2020. Transaction in Bitcoin for 0.50 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00003696 BTC. Transaction available online at https://www.blockchain.com/btc/tx/8a7e84f79eee973b379ee8bf61688f5249564427130999d255d83c37955fc02b Sebastian received 764353.88 ARS for the 0.50 BTC.
+* $5325.51 sent and received Wednesday, October 7, 2020. Transaction in Bitcoin for 0.50 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00003696 BTC. Transaction available online at https://www.blockchain.com/btc/tx/8a7e84f79eee973b379ee8bf61688f5249564427130999d255d83c37955fc02b Sebastian received 764353.88 ARS for the 0.50 BTC.
 
 * $2377.12 sent and received Thursday, November 5, 2020. Transaction in Bitcoin for 0.15 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00009758 BTC. Transaction available online at https://www.blockchain.com/btc/tx/69a3321d6d4b0517ab7ec971bc17dd4a7e16d0fce2ac530bdde5aed31b156542 Sebastian received 344105.07 ARS for the 0.15 BTC when he sold it the next day (Friday, November 6, 2020).
 
