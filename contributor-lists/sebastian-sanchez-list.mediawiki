@@ -18,43 +18,41 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $785
+Total money earned as income: $2176.50
 
 Forward balance carried over from 2020: ($5256.46)
 
-Payment made: $1744.41
+Payment made: $1774.41
 
-Net payment due: ($6244.06)
+Net payment due: ($4852.56)
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $100
+Total so far: $608
 
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngram Viewer chart
 
-=== Tentative pending payments ===
-
-Total so far: $508
-
-Expansions (accepted):
-
-* Comprehensive visual data updates across multiple times: $403. 121 graphs across 41 timelines at about $3.33 / graph
+* Comprehensive visual data updates across multiple times: $403. Completed February 6, 2021. 121 graphs across 41 timelines (A to C) at about $3.33 / graph
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $105. Completed February 28, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=50202&oldid=47376 Diff]. Increased from 186427 bytes to 204305 bytes, despite refactoring Bitcoin Core updates to a more compact presentation. The update included about 35 new rows in full timeline as well as visual data updates.
 
 === Org Watch ===
 
-Total so far: $125
+Total so far: $282.50
 
-* January: 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit for the month was on 2021-01-03 and the last commit for the month was on 2021-01-12.
+* January: $125. 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit for the month was on 2021-01-03 and the last commit for the month was on 2021-01-12.
+
+* February: $157.50. 31 hours 30 minutes at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-02-01&until-2021-02-28 for mmore details. The first commit for the month was on 2021-02-01 and the last commit for the month was on 2021-02-22.
 
 === Stipends ===
 
-Total so far: $560
+Total so far: $1286
 
 The rule of thumb for stipend is: $4/hour
 
 * January: $560. The payment is at $4/hour for all 140 hours eligible for stipend. Total time spent was as follows: 115 hours on Timelines Wiki and 25 hours on Org Watch.
+
+* February: $726. The payment is at $4/hour for all 181.5 hours eligible for stipend. Total time spent was as follows: 150 hours on Timelines Wiki and 31.5 hours on Org Watch.
 
 === Payments made ===
 
