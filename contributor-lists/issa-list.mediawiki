@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2021 ==
 
-Total money earned as income (taxable as income for 2021): $77.87
+Total money earned as income (taxable as income for 2021): $144.69
 
 Payment made: $876.18
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $59.82
+Net payment due: $126.64
 
 === Work on Donations list website (DLW) ===
 
@@ -44,17 +44,31 @@ Total so far: $14.25
 
 * January 5: $6.65. Spent 42 minutes at $9.50/hour assisting Sebastian. Work done 2021-01-05.
 
+=== Work on AI safety ===
+
+Total so far: $18.72
+
+* Review timeline of AI safety and share it on LessWrong at https://www.lesswrong.com/posts/SEfjw57Qw8mCzy36n/timeline-of-ai-safety: $18.72. 1 hour 58 minutes at $9.50/hour (within 3-hour time limit). Work done 2021-02-05 to 2021-02-07.
+
 === Work on cause prioritization ===
 
 Total so far: $9.75
 
 * [https://forum.effectivealtruism.org/posts/QZy5gJ6JaxGtH7FQq/why-cause-area-as-the-unit-of-analysis Why "cause area" as the unit of analysis?]: $9.75. Started and completed January 24, 2021. 1 hour 57 minutes at $5/hour (this is the agreed-upon rate for cause prioritization work that is agreed upon in advance). Much of the underlying work that led to this blog post had been done in April 2018.
 
+=== Other work ===
+
+Total so far: $9.22
+
+* Document review of private document: $9.22. 58 minutes at $9.50/hour. Work done 2021-02-05 and 2021-02-06.
+
 === Stipends ===
 
-Total so far: $52.92
+Total so far: $91.80
 
 * January: $52.92. 5.88 hours at $9/hour
+
+* February: $38.88. 4.32 hours at $9/hour
 
 === Payments made ===
 
