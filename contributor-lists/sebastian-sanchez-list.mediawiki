@@ -64,6 +64,14 @@ Total so far: $1774.41
 
 * $571.79 sent and received Saturday, February 20, 2021. Transaction in Bitcoin for 0.01 BTC (and calculated in terms of USD time of transition of $57,178.89 per BTC), with a very small transaction fee of 0.00003937 BTC ($2.25 USD). Transaction available online at https://www.blockchain.com/btc/tx/f84705592e5fe15a90fe17deb9feb9c6d651953480b5bfb004429a91fbc1628d (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
+=== Tentative pending payments ===
+
+Total so far: $300
+
+Payments for expansions (not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_bioethics Timeline of bioethics]: $300. Completed March 9, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_bioethics&type=revision&diff=50627&oldid=25753 Diff]. Increased from 30391 bytes to 105449 bytes. The update included many new rows and significant updates to column structure, a lot of visual data updates, sample questions, and other changes. The total number of rows in the full timeline increased from 60 to 141.
+
 == Work in 2020 ==
 
 Total money earned as income: $17432
