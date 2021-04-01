@@ -135,7 +135,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',656,'2020-12-01','2020-12-31','2020-12-31','The payment is at $4/hour for all 164 hours eligible for stipend. Total time spent was as follows: 83 hours on Timelines Wiki and 81 hours on Org Watch.',164),
   /* 2021 */
   ('Sebastian Sanchez',560,'2021-01-01','2021-01-31','2021-01-31','The payment is at $4/hour for all 140 hours eligible for stipend. Total time spent was as follows: 115 hours on Timelines Wiki and 25 hours on Org Watch.',140),
-  ('Sebastian Sanchez',726,'2021-02-01','2021-02-28','2021-02-28','The payment is at $4/hour for all 181.5 hours eligible for stipend. Total time spent was as follows: 150 hours on Timelines Wiki and 31.5 hours on Org Watch.',181.5);
+  ('Sebastian Sanchez',726,'2021-02-01','2021-02-28','2021-02-28','The payment is at $4/hour for all 181.5 hours eligible for stipend. Total time spent was as follows: 150 hours on Timelines Wiki and 31.5 hours on Org Watch.',181.5),
+  ('Sebastian Sanchez',808,'2021-03-01','2021-03-31','2021-03-31','The payment is at $4/hour for all 202 hours eligible for stipend. Total timme spent was as follows: 169 hours on Timelines Wiki and 33 hours on Org Watch.',202);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Amana Rice',120.32,'2020-12-01','2020-12-31','2020-12-31','30.08 hours at $4/hour',30.08);
