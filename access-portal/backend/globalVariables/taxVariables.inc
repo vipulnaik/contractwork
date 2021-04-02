@@ -69,6 +69,10 @@ $setInMainFormLineNumber['2021'] = 23;
 $totalTaxLineNumber['2021'] = 24;
 $totalPaymentsLineNumber['2021'] = 33;
 
+$setName['2018'] = 'Schedule SE - Self-Employment Tax Part B - Taxpayer';
+$setName['2019'] = 'Schedule SE - Self-Employment Tax Part B - Taxpayer';
+$setName['2020'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
+$setName['2021'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
 
 $standardDeduction['2015'] = 6200;
 $standardDeduction['2016'] = 6300;
