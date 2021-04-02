@@ -987,7 +987,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Effective Altruism Forum','Blog post or article','Why "cause area" as the unit of analysis?','https://forum.effectivealtruism.org/posts/QZy5gJ6JaxGtH7FQq/why-cause-area-as-the-unit-of-analysis','2021-01-24',9.75,'Cause prioritization','Prose','Started and completed January 24, 2021. 1 hour 57 minutes at $5/hour (this is the agreed-upon rate for cause prioritization work that is agreed upon in advance). Much of the underlying work that led to this blog post had been done in April 2018.',117),
   /* Tasks added for February 2021 */
   ('Issa Rice','LessWrong','Review','Timeline of AI safety','https://www.lesswrong.com/posts/SEfjw57Qw8mCzy36n/timeline-of-ai-safety','2021-02-07',18.72,'AI safety','Prose','Reviewed timeline of AI safety and shared it on LessWrong after Vipul incorporated review feedback. 1 hour 58 minutes at $9.50/hour (within 3-hour time limit). Work done 2021-02-05 to 2021-02-07.',118),
-  ('Issa Rice','None','Review','N/A','N/A','2021-02-06',9.22,'Personal stuff for Vipul','Private communication','Work done 2021-02-05 and 2021-02-06. The work involved review of a private document for Vipul at $9.50/hour.',58);
+  ('Issa Rice','None','Review','N/A','N/A','2021-02-06',9.22,'Personal stuff for Vipul','Private communication','Work done 2021-02-05 and 2021-02-06. The work involved review of a private document for Vipul at $9.50/hour.',58),
+  /* Tasks added for March 2021 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-03-26',5.99,'Organizational structures and dynamics','N/A','Spent 38 minutes at $9.50/hour assisting Sebastian. Work done 2021-03-09 to 2021-03-26.',38),
+  ('Issa Rice','People repo','People watching','N/A','N/A','2021-03-17',3.85,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2021-03-17.',53);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

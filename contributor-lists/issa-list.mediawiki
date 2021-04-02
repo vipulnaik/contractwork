@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2021 ==
 
-Total money earned as income (taxable as income for 2021): $144.69
+Total money earned as income (taxable as income for 2021): $185.85
 
 Payment made: $876.18
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $126.64
+Net payment due: $167.80
 
 === Work on Donations list website (DLW) ===
 
@@ -38,17 +38,27 @@ Total so far: $0.95
 
 === Work on Org Watch (OW) ===
 
-Total so far: $14.25
+Total so far: $20.24
 
 * January 4: $7.60. Spent 48 minutes at $9.50/hour. Work done 2021-01-04. Work on https://github.com/riceissa/aiwatch/issues/53 and https://github.com/riceissa/aiwatch/issues/56
 
 * January 5: $6.65. Spent 42 minutes at $9.50/hour assisting Sebastian. Work done 2021-01-05.
+
+* March: $5.99. Spent 38 minutes at $9.50/hour assisting Sebastian. Work done 2021-03-09 to 2021-03-26.
 
 === Work on AI safety ===
 
 Total so far: $18.72
 
 * Review timeline of AI safety and share it on LessWrong at https://www.lesswrong.com/posts/SEfjw57Qw8mCzy36n/timeline-of-ai-safety: $18.72. 1 hour 58 minutes at $9.50/hour (within 3-hour time limit). Work done 2021-02-05 to 2021-02-07.
+
+=== Work on people watching ===
+
+Total so far: $3.85
+
+People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms.
+
+* March 17: $4.85. Spent 53 minutes at $4.375/hour.
 
 === Work on cause prioritization ===
 
@@ -64,11 +74,13 @@ Total so far: $9.22
 
 === Stipends ===
 
-Total so far: $91.80
+Total so far: $123.12
 
 * January: $52.92. 5.88 hours at $9/hour
 
 * February: $38.88. 4.32 hours at $9/hour
+
+* March: $31.32. 3.48 hours at $9/hour
 
 === Payments made ===
 

@@ -83,7 +83,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',55.35,'2020-11-01','2020-11-30','2020-11-30','Rate of $9/hour effective December 2019',6.15,150),
   ('Issa Rice',176.58,'2020-12-01','2020-12-31','2020-12-31','Rate of $9/hour effective December 2019',19.62,150),
   ('Issa Rice',52.92,'2021-01-01','2021-01-31','2021-01-31','Rate of $9/hour effective December 2019',5.88,150),
-  ('Issa Rice',38.88,'2021-02-01','2021-02-28','2021-02-28','Rate of $9/hour effective December 2019',4.32,150);
+  ('Issa Rice',38.88,'2021-02-01','2021-02-28','2021-02-28','Rate of $9/hour effective December 2019',4.32,150),
+  ('Issa Rice',31.32,'2021-03-01','2021-03-31','2021-03-31','Rate of $9/hour effective December 2019',3.48,150);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),
