@@ -18,17 +18,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $3449.50
+Total money earned as income: $4508.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $2375.25
 
-Net payment due: ($4180.40)
+Net payment due: ($3121.40)
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $908
+Total so far: $1967
 
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngram Viewer chart
 
@@ -37,6 +37,8 @@ Total so far: $908
 * [https://timelines.issarice.com/wiki/Timeline_of_Bitcoin Timeline of Bitcoin]: $105. Completed February 28, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_Bitcoin&type=revision&diff=50202&oldid=47376 Diff]. Increased from 186427 bytes to 204305 bytes, despite refactoring Bitcoin Core updates to a more compact presentation. The update included about 35 new rows in full timeline as well as visual data updates.
 
 * [https://timelines.issarice.com/wiki/Timeline_of_bioethics Timeline of bioethics]: $300. Completed March 9, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_bioethics&type=revision&diff=50627&oldid=25753 Diff]. Increased from 30391 bytes to 105449 bytes. The update included many new rows and significant updates to column structure, a lot of visual data updates, sample questions, and other changes. The total number of rows in the full timeline increased from 60 to 141.
+
+* Comprehensive visual data updates across multiple times: $1059. Completed March 31, 2021. 318 graphs across several timelines at about $3.33 / graph
 
 === Org Watch ===
 
