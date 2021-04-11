@@ -38,7 +38,15 @@ Total so far: $1967
 
 * [https://timelines.issarice.com/wiki/Timeline_of_bioethics Timeline of bioethics]: $300. Completed March 9, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_bioethics&type=revision&diff=50627&oldid=25753 Diff]. Increased from 30391 bytes to 105449 bytes. The update included many new rows and significant updates to column structure, a lot of visual data updates, sample questions, and other changes. The total number of rows in the full timeline increased from 60 to 141.
 
-* Comprehensive visual data updates across multiple times: $1059. Completed March 31, 2021. 318 graphs across several timelines at about $3.33 / graph
+* Comprehensive visual data updates across multiple timelines: $1059. Completed March 31, 2021. 318 graphs across several timelines at about $3.33 / graph
+
+=== Tentative pending payments ===
+
+Total so far $290
+
+New timelines (payment not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timelinee of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table)
 
 === Org Watch ===
 
