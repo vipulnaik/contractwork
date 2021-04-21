@@ -42,11 +42,15 @@ Total so far: $1967
 
 === Tentative pending payments ===
 
-Total so far $290
+Total so far $430
 
 New timelines (payment accepted):
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timelinee of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table)
+* [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table)
+
+New timelines (payment not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_contact_tracing Timeline of contact tracing]: $140. Completed April 16, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing&oldid=52898 (2021-04-17 06:05 UTC, 42084 bytes, 8 sample questions, 5 rows in big picture, 3 visual data charts, 57 rows in full timeline)
 
 === Org Watch ===
 
