@@ -42,7 +42,7 @@ Total so far: $1967
 
 === Tentative pending payments ===
 
-Total so far $430
+Total so far: $430
 
 New timelines (payment accepted):
 
