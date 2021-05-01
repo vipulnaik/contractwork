@@ -70,7 +70,7 @@ The rule of thumb for stipend is: $4/hour
 
 * February: $726. The payment is at $4/hour for all 181.5 hours eligible for stipend. Total time spent was as follows: 150 hours on Timelines Wiki and 31.5 hours on Org Watch.
 
-* March: $808. The payment is at $4/hour for all 202 hours eligible for stipend. Total timme spent was as follows: 169 hours on Timelines Wiki and 33 hours on Org Watch.
+* March: $808. The payment is at $4/hour for all 202 hours eligible for stipend. Total time spent was as follows: 169 hours on Timelines Wiki and 33 hours on Org Watch.
 
 === Payments made ===
 
@@ -192,7 +192,7 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines w
 
 * October: $688. The payment is at $4/hour for all 172 hours eligible for stipend. Total time spent was as follows: 126 hours on Timelines wiki, 8 hours on Timelines wiki promotion, and 44 hours on Org Watch. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend. As of now, we have a total overage of 10 hours on Timelines wiki (4 hours carried over, and 6 more hours this month).
 
-* November: $564. The payment is at $4/hour for all 131 hours eligible for stipend, plus all 10 excess hours accumulated from earlier.  Total time spent was as follows: 98.5 hours on Timelines wiki, 1.5 hours on Timmelines wiki SEO research, and 31 hours on Org Watch.
+* November: $564. The payment is at $4/hour for all 131 hours eligible for stipend, plus all 10 excess hours accumulated from earlier.  Total time spent was as follows: 98.5 hours on Timelines wiki, 1.5 hours on Timelines wiki SEO research, and 31 hours on Org Watch.
 
 * December: $656. The payment is at $4/hour for all 164 hours eligible for stipend. Total time spent was as follows: 83 hours on Timelines Wiki and 81 hours on Org Watch.
 
@@ -212,9 +212,9 @@ Total so far: $19808.35
 
 * $2377.12 sent and received Thursday, November 5, 2020. Transaction in Bitcoin for 0.15 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00009758 BTC. Transaction available online at https://www.blockchain.com/btc/tx/69a3321d6d4b0517ab7ec971bc17dd4a7e16d0fce2ac530bdde5aed31b156542 Sebastian received 344105.07 ARS for the 0.15 BTC when he sold it the next day (Friday, November 6, 2020).
 
-* $69.64 sent and received Thursday, December 17, 2020. Transaction in Bitcoin for 0.003 BTC (and calculated in terms of USD value at timme of transaction), with a very small transaction fee of 0.00004023 BTC. Transaction available online at https://www.blockchain.com/btc/tx/b83a5d053dec8bd1540b5087d481b66d1c4107fb7c55adcda20ef0f2886b4970
+* $69.64 sent and received Thursday, December 17, 2020. Transaction in Bitcoin for 0.003 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00004023 BTC. Transaction available online at https://www.blockchain.com/btc/tx/b83a5d053dec8bd1540b5087d481b66d1c4107fb7c55adcda20ef0f2886b4970
 
-* $707.12 sent and received Thursday, December 17, 2020. Transaction in Bitcoin for 0.03 BTC (and calculated in terms of USD value at timme of transaction), with a very small transaction fee of 0.00004209 BTC. Transaction available online at https://www.blockchain.com/btc/tx/ba7235c0e3f236cb7fbe7fa2900530be3400c03c9c715a7210231cc739d870e3
+* $707.12 sent and received Thursday, December 17, 2020. Transaction in Bitcoin for 0.03 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00004209 BTC. Transaction available online at https://www.blockchain.com/btc/tx/ba7235c0e3f236cb7fbe7fa2900530be3400c03c9c715a7210231cc739d870e3
 
 == Work in 2019 ==
 
