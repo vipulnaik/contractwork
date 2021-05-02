@@ -18,13 +18,21 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $4508.50
+Total money earned as income: $5873.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $3008.86
 
-Net payment due: ($3755.01)
+Net payment due: ($2390.01)
+
+=== New timelines (Timelines wiki) ===
+
+Total so far: $430
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table
+
+* [https://timelines.issarice.com/wiki/Timeline_of_contact_tracing Timeline of contact tracing]: $140. Completed April 16, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing&oldid=52898 (2021-04-17 06:05 UTC, 42084 bytes, 8 sample questions, 5 rows in big picture, 3 visual data charts, 57 rows in full timeline)
 
 === Additions to existing pages (Timelines wiki) ===
 
@@ -40,29 +48,21 @@ Total so far: $1967
 
 * Comprehensive visual data updates across multiple timelines: $1059. Completed March 31, 2021. 318 graphs across several timelines at about $3.33 / graph
 
-=== Tentative pending payments ===
-
-Total so far: $430
-
-New timelines (payment accepted):
-
-* [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table
-
-* [https://timelines.issarice.com/wiki/Timeline_of_contact_tracing Timeline of contact tracing]: $140. Completed April 16, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing&oldid=52898 (2021-04-17 06:05 UTC, 42084 bytes, 8 sample questions, 5 rows in big picture, 3 visual data charts, 57 rows in full timeline)
-
 === Org Watch ===
 
-Total so far: $447.50
+Total so far: $622.50
 
 * January: $125. 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit for the month was on 2021-01-03 and the last commit for the month was on 2021-01-12.
 
 * February: $157.50. 31 hours 30 minutes at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-02-01&until-2021-02-28 for mmore details. The first commit for the month was on 2021-02-01 and the last commit for the month was on 2021-02-22.
 
-* March: $165. 33 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-03-01&until-2021-03-31 for more details. The first commit for the month was on 2021-03-06 and the last commit for the moonth was on 2021-03-26.
+* March: $165. 33 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-03-01&until-2021-03-31 for more details. The first commit for the month was on 2021-03-06 and the last commit for the month was on 2021-03-26.
+
+* April: $175. 35 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-04-01&until-2021-04-30 for more details. The first commit for the month was on 2021-04-08 and the last commit for the month was on 2021-04-30.
 
 === Stipends ===
 
-Total so far: $2094
+Total so far: $2854
 
 The rule of thumb for stipend is: $4/hour
 
@@ -71,6 +71,8 @@ The rule of thumb for stipend is: $4/hour
 * February: $726. The payment is at $4/hour for all 181.5 hours eligible for stipend. Total time spent was as follows: 150 hours on Timelines Wiki and 31.5 hours on Org Watch.
 
 * March: $808. The payment is at $4/hour for all 202 hours eligible for stipend. Total time spent was as follows: 169 hours on Timelines Wiki and 33 hours on Org Watch.
+
+* April: $760. The payment is at $4/hour for all 190 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines Wiki and 35 hours on Org Watch.
 
 === Payments made ===
 
