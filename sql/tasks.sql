@@ -329,7 +329,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Multiple pages','N/A','2021-03-31',1059,'Graphs','Graphs','318 graphs across several timelines at about $3.33 / graph'),
   /* Added 2021-05-01 (date of finalization) for work in April 2021 (page creations) */
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of Ethereum','https://timelines.issarice.com/wiki/Timeline_of_Ethereum','2021-04-10',290,'Cryptocurrency/Ethereum','Timeline','Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table'),
-  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of contact tracing','https://timelines.issarice.com/wiki/Timeline_of_contact_tracing','2021-04-16',140,'Health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing&oldid=52898 (2021-04-17 06:05 UTC, 42084 bytes, 8 sample questions, 5 rows in big picture, 3 visual data charts, 57 rows in full timeline)');
+  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of contact tracing','https://timelines.issarice.com/wiki/Timeline_of_contact_tracing','2021-04-16',140,'Health','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing&oldid=52898 (2021-04-17 06:05 UTC, 42084 bytes, 8 sample questions, 5 rows in big picture, 3 visual data charts, 57 rows in full timeline)'),
+  /* Added 2021-05-08 (date of finalization) for work in April 2021 (expansions) */
+  ('Sebastian Sanchez','Timelines wiki','Timelines page update','Multiple pages','N/A','2021-04-30',1169,'Graphs','Graphs','351 graphs across several timelines at about $3.33 / graph');
+
 
 /* Sebastian Sanchez work on other projects like Org Watch, DLW, subwiki */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
