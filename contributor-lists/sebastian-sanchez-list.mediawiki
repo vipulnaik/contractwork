@@ -22,9 +22,9 @@ Total money earned as income: $7042.50
 
 Forward balance carried over from 2020: ($5254.65)
 
-Payment made: $3008.86
+Payment made: $5661.01
 
-Net payment due: ($1221.01)
+Net payment due: ($3873.16)
 
 === New timelines (Timelines wiki) ===
 
@@ -78,7 +78,7 @@ The rule of thumb for stipend is: $4/hour
 
 === Payments made ===
 
-Total so far: $3008.86
+Total so far: $5661.01
 
 * $649.12 sent and received Saturday, January 2, 2021. Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00000754 BTC. Transaction available online at https://blockchain.com/btc/tx/b02de5ccd5a2c951e9b1970d0c35611c6cce64f30a2d161f85c6621448a66810 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
@@ -89,6 +89,8 @@ Total so far: $3008.86
 * $600.84 sent and received Saturday, March 13, 2021. Transaction in Bitcoin for 0.01 BTC (and calculated in terms of USD value at time of transaction of $60,083.88 per BTC) with a very small transaction fee oof 0.00003597 BTC ($2.16 UD). Transaction available online at https://www.blockchain.com/btc/tx/31e252b33120f723acbafe212d62255890aacc3473d779b5ba4a109d6d049744 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading). Sebastian received 84534.10 ARS for the Bitcoin.
 
 * $633.61 sent and received Tuesday, April 13, 2021. Transaction in Bitcoin for 0.01 BTC (and calculated in terms of USD value at time of transaction of $63,361.19 per BTC) with a very small transaction fee of 0.00002538 BTC ($2.06 USD). Transaction available online at https://www.blockchain.com/btc/tx/87c7110616792a032e9cd3a8f675a25c406147a4ae4dad05d84782d0f3fb08fb (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
+* $2652.15 sent and received Sunday, May 30, 2021. Transaction in Bitcoin for 0.075 BTC (and calculated in terms of USD value at time of transaction of $35,361.96 per BTC) with a very smmall transaction fee of 0.00002187 BTC ($0.77 USD). Transaction available online at https://www.blockchain.com/btc/tx/a152b939054723fcbe629d5ee10836d7c0b0e930767685d9bcb535d824420c35  (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 == Work in 2020 ==
 
