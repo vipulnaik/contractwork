@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $7722.50
+Total money earned as income: $7812.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $5661.01
 
-Net payment due: ($3193.16)
+Net payment due: ($3103.16)
 
 === New timelines (Timelines wiki) ===
 
@@ -36,7 +36,7 @@ Total so far: $430
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $3136
+Total so far: $3226
 
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngram Viewer chart
 
@@ -50,6 +50,8 @@ Total so far: $3136
 
 * Comprehensive visual data updates across multiple timelines: $1169. Completed April 30, 2021. 351 graphs across several timelines at about $3.33 / graph
 
+* [https://timelines.issarice.com/wiki/Timeline_of_influenza Timeline of influenza]: $90. Completed May 31, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_influenza&type=revision&diff=54711&oldid=42236 Diff]. Increased from 147284 bytes to 166822 bytes. The update includes updates to the numerical and visual data section (with a new subsection on Google Scholar and some updates to Gogle Trends), 25 new rows in the full timeline, and some column updates.
+
 === Org Watch ===
 
 Total so far: $622.50
@@ -61,10 +63,6 @@ Total so far: $622.50
 * March: $165. 33 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-03-01&until-2021-03-31 for more details. The first commit for the month was on 2021-03-06 and the last commit for the month was on 2021-03-26.
 
 * April: $175. 35 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-04-01&until-2021-04-30 for more details. The first commit for the month was on 2021-04-08 and the last commit for the month was on 2021-04-30.
-
-=== Tentative pending payments ===
-
-* [https://timelines.issarice.com/wiki/Timeline_of_influenza Timeline of influenza]: $90. Completed May 31, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_influenza&type=revision&diff=54711&oldid=42236 Diff]. Increased from 147284 bytes to 166822 bytes. The update includes updates to the numerical and visual data section (with a new subsection on Google Scholar and some updates to Gogle Trends), 25 new rows in the full timeline, and some column updates.
 
 === Stipends ===
 
