@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $7042.50
+Total money earned as income: $7722.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $5661.01
 
-Net payment due: ($3873.16)
+Net payment due: ($3193.16)
 
 === New timelines (Timelines wiki) ===
 
@@ -62,9 +62,13 @@ Total so far: $622.50
 
 * April: $175. 35 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-04-01&until-2021-04-30 for more details. The first commit for the month was on 2021-04-08 and the last commit for the month was on 2021-04-30.
 
+=== Tentative pending payments ===
+
+* [https://timelines.issarice.com/wiki/Timeline_of_influenza Timeline of influenza]: $90. Completed May 31, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_influenza&type=revision&diff=54711&oldid=42236 Diff]. Increased from 147284 bytes to 166822 bytes. The update includes updates to the numerical and visual data section (with a new subsection on Google Scholar and some updates to Gogle Trends), 25 new rows in the full timeline, and some column updates.
+
 === Stipends ===
 
-Total so far: $2854
+Total so far: $3534
 
 The rule of thumb for stipend is: $4/hour
 
@@ -75,6 +79,8 @@ The rule of thumb for stipend is: $4/hour
 * March: $808. The payment is at $4/hour for all 202 hours eligible for stipend. Total time spent was as follows: 169 hours on Timelines Wiki and 33 hours on Org Watch.
 
 * April: $760. The payment is at $4/hour for all 190 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines Wiki and 35 hours on Org Watch.
+
+* May: $680. The payment is at $4/hour for all 170 hours eligible for stipend. Total time spent was as follows: all 170 hours on Timelines Wiki.
 
 === Payments made ===
 
