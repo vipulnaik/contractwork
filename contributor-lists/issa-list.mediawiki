@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2021 ==
 
-Total money earned as income (taxable as income for 2021): $211.08
+Total money earned as income (taxable as income for 2021): $241.39
 
 Payment made: $876.18
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $193.03
+Net payment due: $223.34
 
 === Work on Donations list website (DLW) ===
 
@@ -38,7 +38,7 @@ Total so far: $0.95
 
 === Work on Org Watch (OW) ===
 
-Total so far: $20.72
+Total so far: $21.96
 
 * January 4: $7.60. Spent 48 minutes at $9.50/hour. Work done 2021-01-04. Work on https://github.com/riceissa/aiwatch/issues/53 and https://github.com/riceissa/aiwatch/issues/56
 
@@ -47,6 +47,8 @@ Total so far: $20.72
 * March: $5.99. Spent 38 minutes at $9.50/hour assisting Sebastian. Work done 2021-03-09 to 2021-03-26.
 
 * April: $0.48. Spent 3 minutes at $9.50/hour assisting Sebastian. Work done 2021-04-28.
+
+* May: $1.24. Spent 8 minutes at $9.50/hour assistingg Sebastian. Work done 2021-05-31.
 
 === Work on AI safety ===
 
@@ -78,7 +80,7 @@ Total so far: $9.22
 
 === Stipends ===
 
-Total so far: $144.72
+Total so far: $173.79
 
 * January: $52.92. 5.88 hours at $9/hour
 
@@ -87,6 +89,8 @@ Total so far: $144.72
 * March: $31.32. 3.48 hours at $9/hour
 
 * April: $21.60. 2.4 hours at $9/hour
+
+* May: $29.07. 3.23 hours at $9/hourxs
 
 === Payments made ===
 

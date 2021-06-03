@@ -1003,7 +1003,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','People repo','People watching','N/A','N/A','2021-03-17',3.85,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2021-03-17.',53),
   /* Tasks added for April 2021 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-04-28',0.48,'Organizational structures and dynamics','N/A','Spent 3 minutes at $9.50/hour assisting Sebastian. Work done 2021-04-28.',3),
-  ('Issa Rice','People repo','People watching','N/A','N/A','2021-04-23',3.15,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2021-04-23.',23);
+  ('Issa Rice','People repo','People watching','N/A','N/A','2021-04-23',3.15,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2021-04-23.',23),
+  /* Tasks added for May 2021 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-05-31',1.24,'Organizational structures and dynamics','N/A','Spent 8 minutes at $9.50/hour assisting Sebastian. Work done 2021-05-31.',8);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
