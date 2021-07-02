@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $8849.50
+Total money earned as income: $8909.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $5661.01
 
-Net payment due: ($2066.16)
+Net payment due: ($2006.16)
 
 === New timelines (Timelines wiki) ===
 
@@ -36,7 +36,7 @@ Total so far: $430
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $3545
+Total so far: $3605
 
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngram Viewer chart
 
@@ -52,7 +52,7 @@ Total so far: $3545
 
 * [https://timelines.issarice.com/wiki/Timeline_of_influenza Timeline of influenza]: $90. Completed May 31, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_influenza&type=revision&diff=54711&oldid=42236 Diff]. Increased from 147284 bytes to 166822 bytes. The update includes updates to the numerical and visual data section (with a new subsection on Google Scholar and some updates to Gogle Trends), 25 new rows in the full timeline, and some column updates.
 
-* Google Scholar data updates across multiple timelines: $296. Completed June 30, 2021. Google Scholar table and chart additions for 89 timelines at $3.33 / timeline
+* Google Scholar data updates across multiple timelines: $356. Completed June 30, 2021. Google Scholar table and chart additions for 89 timelines at $4 / timeline
 
 * Comprehensive visual data updates across multiple timelines: $23. Completed June 4, 2021. 7 graphs across 2 timelines at about $3.33 / graph
 

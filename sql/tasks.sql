@@ -335,7 +335,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Added 2021-06-01 (date of finalization) for work in May 2021 (expansions) */
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Timeline of influenza','https://timelines.issarice.com/wiki/Timeline_of_influenza','2021-05-31',90,'Global health/diseases','Timeline','See https://timelines.issarice.com/index.php?title=Timeline_of_influenza&type=revision&diff=54711&oldid=42236 for the diff. Increased from 147284 bytes to 166822 bytes. The update includes updates to the numerical and visual data section (with a new subsection on Google Scholar and some updates to Gogle Trends), 25 new rows in the full timeline, and some column updates.'),
   /* Added 2021-07-01 (date of finalization) for work in June 2021 (expansions) */
-  ('Sebastian Sanchez','Timelines wiki','Timelines page update','Multiple pages','N/A','2021-06-30',296,'Graphs','Graphs','Google Scholar table and chart additions for 89 timelines at about $3.33 / timelines'),
+  ('Sebastian Sanchez','Timelines wiki','Timelines page update','Multiple pages','N/A','2021-06-30',356,'Graphs','Graphs','Google Scholar table and chart additions for 89 timelines at about $4 / timeline'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page update','Multiple pages','N/A','2021-06-04',23,'Graphs','Graphs','7 graphs across 2 timelines at about $3.33 / timelines');
 
 /* Sebastian Sanchez work on other projects like Org Watch, DLW, subwiki */
