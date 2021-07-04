@@ -74,6 +74,8 @@ Total so far: $732.50
 
 Total so far: $340
 
+Accepted:
+
 * [https://timelines.issarice.com/wiki/Timeline_of_contact_tracing_in_the_COVID-19_pandemic Timeline of contact tracing in the COVID-19 pandemic]: $333. Completed July 2, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing_in_the_COVID-19_pandemic&oldid=55895 (2021-07-03 03:17 UTC, 102138 byes, 8 sample questions, 3 rows in big picture, 3 visual data charts, 142 rows in full timeline)
 
 === Stipends ===
