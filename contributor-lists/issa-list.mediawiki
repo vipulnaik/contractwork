@@ -22,23 +22,27 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2021 ==
 
-Total money earned as income (taxable as income for 2021): $241.39
+Total money earned as income (taxable as income for 2021): $349.61
 
 Payment made: $876.18
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $223.34
+Net payment due: $331.56
 
 === Work on Donations list website (DLW) ===
 
-Total so far: $0.95
+Total so far: $62.98
 
 * January 25: $0.95. Spent 6 minutes at $9.50/hour. Work done 2021-01-25. This was to help answer some questions over email.
 
-=== Work on Org Watch (OW) ===
+* June: $24.03. Spent 2 hours 32 minutes at $9.50/hour. Work on https://github.com/vipulnaik/donations/pull/135 for https://github.com/vipulnaik/donations/issues/134 (currency info display). Work done 2021-06-09 to 2021-06-16.
 
-Total so far: $21.96
+* Fixed-rate work: $38. Spent 3 hours for max($38, $9.50 * number of hours). Work on https://github.com/vipulnaik/donations/issues/125 and https://github.com/vipulnaik/donations/issues/129 started last year (2020-12-16 to 2020-12-18) and wrapped up 2021-06-04.
+
+=== Work On Org Watch (OW) ===
+
+Total so far: $32.60
 
 * January 4: $7.60. Spent 48 minutes at $9.50/hour. Work done 2021-01-04. Work on https://github.com/riceissa/aiwatch/issues/53 and https://github.com/riceissa/aiwatch/issues/56
 
@@ -48,7 +52,9 @@ Total so far: $21.96
 
 * April: $0.48. Spent 3 minutes at $9.50/hour assisting Sebastian. Work done 2021-04-28.
 
-* May: $1.24. Spent 8 minutes at $9.50/hour assistingg Sebastian. Work done 2021-05-31.
+* May: $1.24. Spent 8 minutes at $9.50/hour assisting Sebastian. Work done 2021-05-31.
+
+* June: $10.64. Spent 1 hour 7 minutes at $9.50/hour assisting Sebastian. Work done 2021-06-02 to 2021-06-11.
 
 === Work on AI safety ===
 
@@ -80,7 +86,7 @@ Total so far: $9.22
 
 === Stipends ===
 
-Total so far: $173.79
+Total so far: $209.34
 
 * January: $52.92. 5.88 hours at $9/hour
 
@@ -90,7 +96,9 @@ Total so far: $173.79
 
 * April: $21.60. 2.4 hours at $9/hour
 
-* May: $29.07. 3.23 hours at $9/hourxs
+* May: $29.07. 3.23 hours at $9/hour
+
+* June: $35.55. 3.95 hours at $9/hour
 
 === Payments made ===
 
