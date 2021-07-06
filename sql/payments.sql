@@ -129,6 +129,9 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Issa Rice',NULL,'2021-01-03','2021-01-03','2021-01-03','2021-01-03',835.57,835.57,0,835.57,NULL),
   ('PayPal','Issa Rice',NULL,'2021-01-03','2021-01-03','2021-01-03','2021-01-03',40.61,40.61,0,40.61,NULL),
 
+  /* Payments for 2021 tax year sent in 2021 */
+  ('PayPal','Issa Rice',NULL,'2021-07-06','2021-07-06','2021-07-06','2021-07-06',331.56,331.56,0,331.56,'Since the amount due was over $300, we decided to clear it via PayPal.'),
+
   /* Payment sent in 2021 for 2020 work by Amana Rice */
   ('PayPal','Amana Rice',NULL,'2021-01-03','2021-01-03','2021-01-03','2021-01-03',270.72,270.72,0,270.72,NULL),
   /* Orpheus Lummis */
