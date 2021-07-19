@@ -78,8 +78,6 @@ Accepted:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_contact_tracing_in_the_COVID-19_pandemic Timeline of contact tracing in the COVID-19 pandemic]: $340. Completed July 2, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing_in_the_COVID-19_pandemic&oldid=55895 (2021-07-03 03:17 UTC, 102138 bytes, 8 sample questions, 3 rows in big picture, 3 visual data charts, 142 rows in full timeline)
 
-Not yet accepted:
-
 * [https://timelines.issarice.com/wiki/Timeline_of_calorie_restriction Timeline of calorie restriction]: $270. Completed July 11, 2021. Commpleted version at https://timelines.issarice.com/index.php?title=Timeline_of_calorie_restriction&oldid=56176 (2021-07-11 18:45 UTC, 71566 bytes, 5 sample questions, 4 rows in big picture, 4 visual data charts + Google Scholar mentions table, 90 rows in full timeline)
 
 === Stipends ===
