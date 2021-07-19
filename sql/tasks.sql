@@ -1027,7 +1027,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 /* Issa Rice tasks paid for by Andy Matuschak */
 
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
-  ('Issa Rice','Personal website','Preliminary research','Leverage Points: Places to Intervene in a System','https://files.issarice.com/leverage-points/','2021-07-14',200,'Learning','Orbit Q&A','Andy Matuschak commissioned Issa Rice to take the article https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ by Donella Meadows and add Orbit cards. Orbit is a spaced repetition software at https://withorbit.com/ led by Andy Matuschak. This project was an effort to explore how Orbit could be used.','Andy Matuschak',600);
+  ('Issa Rice','Personal website','Preliminary research','Leverage Points: Places to Intervene in a System','https://files.issarice.com/leverage-points/','2021-07-14',200,'Learning','Orbit Q&A','Andy Matuschak commissioned Issa Rice to take the article https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ by Donella Meadows and add Orbit cards. Orbit is a spaced repetition software at https://withorbit.com/ led by Andy Matuschak. This project was an effort to allow Andy himself to experience a mnemonic text and think about design decisions for Orbit.','Andy Matuschak',600);
 
 /* Issa Rice tasks paid for by Peter Hurford */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
