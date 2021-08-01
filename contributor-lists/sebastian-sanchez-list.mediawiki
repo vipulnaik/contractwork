@@ -86,11 +86,9 @@ New timelines (accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_cognitive_biases Timeline of cognitive biases]: $400. Completed July 31, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cognitive_biases&oldid=56764 (2021-07-31 20:13 UTC, 133204 bytes, 5 sample questions, 3 rows in big picture, 4 visual data charts + Google Scholar mentions table, 133 rows in full timeline)
 
-New timelines (not yet accepted):
-
 * [https://timelines.issarice.com/wiki/Timeline_of_quantified_self Timeline of quantified self]: $270. Completed July 31, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_quantified_self&oldid=56801 (2021-08-01 02:24 UTC, 69794 bytes, 8 sample questions, 3 rows in big picture, 4 visual data charts + Google Scholar mentions table, 94 rows in full timeline)
 
-Expansions (not yet accepted):
+Expansions (accepted):
 
 * Miscellaneous graph updates: $22. Completed July 31, 2021. Graph fixes/remakes at $4 / graph for Google Scholar for three timelines (AlphaGo, Bitcoin, and digital preservation), and 3 graphs added to timeline of Chagas disease
 
