@@ -1020,7 +1020,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for June 2021 */
   ('Issa Rice','Donations list website','Coding','Show original currency info in notes column','https://github.com/vipulnaik/donations/pull/135','2021-06-16',24.03,'Philanthropy','Code','Spent 2 hours 32 minutes at $9.50/hour. Work on https://github.com/vipulnaik/donations/pull/135 for https://github.com/vipulnaik/donations/issues/134 (currency info display). Work done 2021-06-09 to 2021-06-16.',152),
   ('Issa Rice','Donations list website','Coding','Explore the creation of graphical timelines for donors; Rename "Open Philanthropy Project" -> "Open Philanthropy"','https://github.com/vipulnaik/donations/issues/125','2021-06-04',38,'Philanthropy','Code','Spent 3 hours for max($38, $9.50 * number of hours). Work on https://github.com/vipulnaik/donations/issues/125 and https://github.com/vipulnaik/donations/issues/129 started last year (2020-12-16 to 2020-12-18) and wrapped up 2021-06-04.',180),
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-06-11',10.64,'Organizational structures and dynamics','N/A','Spent 1 hour 7 minutes at $9.50/hour assisting Sebastian. Work done 2021-06-02 to 2021-06-11.',67);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-06-11',10.64,'Organizational structures and dynamics','N/A','Spent 1 hour 7 minutes at $9.50/hour assisting Sebastian. Work done 2021-06-02 to 2021-06-11.',67),
+  /* Tasks added for July 2021 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-07-20',1.14,'Organizational structures and dynamics','N/A','Spent 3 minutes at $9.50/hour assisting Sebastian. Work done 2021-07-18 to 2021-07-20.',3),
+  ('Issa Rice','analytics.vipulnaik.com','Coding','https://github.com/riceissa/analytics-table/issues/7','On top-pages.php, print the h-index for every month','2021-07-10',38,'Analytics','Code','Work done 2021-07-10. Payment at max($38, $9.50/hour * time spent).',47);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

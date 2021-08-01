@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2021 ==
 
-Total money earned as income (taxable as income for 2021): $349.61
+Total money earned as income (taxable as income for 2021): $604.95 (this includes $200 for Andy Matuschak)
 
-Payment made: $1207.74
+Payment made: $1407.74 (this includes $200 from Andy Matuschak)
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $0
+Net payment due: $55.34
 
 === Work on Donations list website (DLW) ===
 
@@ -42,7 +42,7 @@ Total so far: $62.98
 
 === Work On Org Watch (OW) ===
 
-Total so far: $32.60
+Total so far: $33.74
 
 * January 4: $7.60. Spent 48 minutes at $9.50/hour. Work done 2021-01-04. Work on https://github.com/riceissa/aiwatch/issues/53 and https://github.com/riceissa/aiwatch/issues/56
 
@@ -55,6 +55,8 @@ Total so far: $32.60
 * May: $1.24. Spent 8 minutes at $9.50/hour assisting Sebastian. Work done 2021-05-31.
 
 * June: $10.64. Spent 1 hour 7 minutes at $9.50/hour assisting Sebastian. Work done 2021-06-02 to 2021-06-11.
+
+* July: $1.14. Spent 3 minutes at $9.50/hour assisting Sebastian. Work done 2021-07-18 to 2021-07-20.
 
 === Work on AI safety ===
 
@@ -78,15 +80,27 @@ Total so far: $9.75
 
 * [https://forum.effectivealtruism.org/posts/QZy5gJ6JaxGtH7FQq/why-cause-area-as-the-unit-of-analysis Why "cause area" as the unit of analysis?]: $9.75. Started and completed January 24, 2021. 1 hour 57 minutes at $5/hour (this is the agreed-upon rate for cause prioritization work that is agreed upon in advance). Much of the underlying work that led to this blog post had been done in April 2018.
 
+=== Work on analytics.vipulnaik.com ===
+
+Total so far: $38
+
+* [https://github.com/riceissa/analytics-table/issues/7 On top-pages.php, print the h-index for every month]: $38. Work done 2021-07-10. Spent 47 minutes. Payment at max($38, $9.50/hour * time spent).
+
 === Other work ===
 
 Total so far: $9.22
 
 * Document review of private document: $9.22. 58 minutes at $9.50/hour. Work done 2021-02-05 and 2021-02-06.
 
+=== Work for Andy Matuschak ===
+
+Total so far: $200
+
+* [https://files.issarice.com/leverage-points/ Leverage Points: Places to Intervene in a System]: $200. Work completetd 2021-07-14. Andy Matuschak commissioned Issa Rice to take the article https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ by Donella Meadows and add Orbit cards. Orbit is a spaced repetition software at https://withorbit.com/ led by Andy Matuschak. This project was an effort to allow Andy himself to experience a mnemonic text and think about design decisions for Orbit.
+
 === Stipends ===
 
-Total so far: $209.34
+Total so far: $225.54
 
 * January: $52.92. 5.88 hours at $9/hour
 
@@ -99,6 +113,8 @@ Total so far: $209.34
 * May: $29.07. 3.23 hours at $9/hour
 
 * June: $35.55. 3.95 hours at $9/hour
+
+* July: $16.20. 1.8 hours att $9/hour
 
 === Payments made ===
 
