@@ -18,25 +18,33 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $8909.50
+Total money earned as income: $11101.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $8877.15
 
-Net payment due: ($5222.30)
+Net payment due: ($3030.30)
 
 === New timelines (Timelines wiki) ===
 
-Total so far: $430
+Total so far: $1710
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table
 
 * [https://timelines.issarice.com/wiki/Timeline_of_contact_tracing Timeline of contact tracing]: $140. Completed April 16, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing&oldid=52898 (2021-04-17 06:05 UTC, 42084 bytes, 8 sample questions, 5 rows in big picture, 3 visual data charts, 57 rows in full timeline)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_contact_tracing_in_the_COVID-19_pandemic Timeline of contact tracing in the COVID-19 pandemic]: $340. Completed July 2, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing_in_the_COVID-19_pandemic&oldid=55895 (2021-07-03 03:17 UTC, 102138 bytes, 8 sample questions, 3 rows in big picture, 3 visual data charts, 142 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_calorie_restriction Timeline of calorie restriction]: $270. Completed July 11, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_calorie_restriction&oldid=56176 (2021-07-11 18:45 UTC, 71566 bytes, 5 sample questions, 4 rows in big picture, 4 visual data charts + Google Scholar mentions table, 90 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_cognitive_biases Timeline of cognitive biases]: $400. Completed July 31, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cognitive_biases&oldid=56764 (2021-07-31 20:13 UTC, 133204 bytes, 5 sample questions, 3 rows in big picture, 4 visual data charts + Google Scholar mentions table, 133 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_quantified_self Timeline of quantified self]: $270. Completed July 31, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_quantified_self&oldid=56801 (2021-08-01 02:24 UTC, 69794 bytes, 8 sample questions, 3 rows in big picture, 4 visual data charts + Google Scholar mentions table, 94 rows in full timeline)
+
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $3605
+Total so far: $3627
 
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngram Viewer chart
 
@@ -56,9 +64,11 @@ Total so far: $3605
 
 * Comprehensive visual data updates across multiple timelines: $23. Completed June 4, 2021. 7 graphs across 2 timelines at about $3.33 / graph
 
+* Miscellaneous graph updates: $22. Completed July 31, 2021. Graph fixes/remakes at $4 / graph for Google Scholar for three timelines (AlphaGo, Bitcoin, and digital preservation), and 3 graphs added to timeline of Chagas disease
+
 === Org Watch ===
 
-Total so far: $902.50
+Total so far: $882.50
 
 * January: $125. 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit for the month was on 2021-01-03 and the last commit for the month was on 2021-01-12.
 
@@ -68,29 +78,9 @@ Total so far: $902.50
 
 * April: $175. 35 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-04-01&until-2021-04-30 for more details. The first commit for the month was on 2021-04-08 and the last commit for the month was on 2021-04-30.
 
-* June: $110. 22 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-07-01&until-2021-07-31 for more details. The first commit for the month was on 2021-07-19 and the last commit for the month was on 2021-07-31.
+* June: $110. 22 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-06-01&until-2021-06-30 for more details. The first commit for the month was on 2021-06-02 and the last commit for the month was on 2021-06-30.
 
-Not yet entered in SQL:
-
-* July: $150. 30 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-06-01&until-2021-06-30 for more details. The first commit for the month was on 2021-06-02 and the last commit for the month was on 2021-06-30.
-
-=== Tentative pending payments ===
-
-Total so far: $1302
-
-New timelines (accepted):
-
-* [https://timelines.issarice.com/wiki/Timeline_of_contact_tracing_in_the_COVID-19_pandemic Timeline of contact tracing in the COVID-19 pandemic]: $340. Completed July 2, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing_in_the_COVID-19_pandemic&oldid=55895 (2021-07-03 03:17 UTC, 102138 bytes, 8 sample questions, 3 rows in big picture, 3 visual data charts, 142 rows in full timeline)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_calorie_restriction Timeline of calorie restriction]: $270. Completed July 11, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_calorie_restriction&oldid=56176 (2021-07-11 18:45 UTC, 71566 bytes, 5 sample questions, 4 rows in big picture, 4 visual data charts + Google Scholar mentions table, 90 rows in full timeline)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_cognitive_biases Timeline of cognitive biases]: $400. Completed July 31, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cognitive_biases&oldid=56764 (2021-07-31 20:13 UTC, 133204 bytes, 5 sample questions, 3 rows in big picture, 4 visual data charts + Google Scholar mentions table, 133 rows in full timeline)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_quantified_self Timeline of quantified self]: $270. Completed July 31, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_quantified_self&oldid=56801 (2021-08-01 02:24 UTC, 69794 bytes, 8 sample questions, 3 rows in big picture, 4 visual data charts + Google Scholar mentions table, 94 rows in full timeline)
-
-Expansions (accepted):
-
-* Miscellaneous graph updates: $22. Completed July 31, 2021. Graph fixes/remakes at $4 / graph for Google Scholar for three timelines (AlphaGo, Bitcoin, and digital preservation), and 3 graphs added to timeline of Chagas disease
+* July: $150. 30 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-07-01&until-2021-07-31 for more details. The first commit for the month was on 2021-07-19 and the last commit for the month was on 2021-07-31.
 
 === Stipends ===
 
@@ -109,8 +99,6 @@ The rule of thumb for stipend is: $4/hour
 * May: $680. The payment is at $4/hour for all 170 hours eligible for stipend. Total time spent was as follows: all 170 hours on Timelines Wiki.
 
 * June: $608. The payment is at $4/hour for all 152 hours eligible for stipend. Total time spent was as follows: 130 hours on Timelines Wiki and 22 hours on Org Watch.
-
-Not yet entered in SQL:
 
 * July: $740. The payment is at $4/hour for all 185 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines Wiki and 30 hours on Org Watch.
 
