@@ -30,7 +30,7 @@ Net payment due: ($6107.35)
 
 Total so far: $1710
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table
+* [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_contact_tracing Timeline of contact tracing]: $140. Completed April 16, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contact_tracing&oldid=52898 (2021-04-17 06:05 UTC, 42084 bytes, 8 sample questions, 5 rows in big picture, 3 visual data charts, 57 rows in full timeline)
 
@@ -82,6 +82,11 @@ Total so far: $882.50
 
 * July: $150. 30 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-07-01&until-2021-07-31 for more details. The first commit for the month was on 2021-07-19 and the last commit for the month was on 2021-07-31.
 
+=== Tentative pending payments ===
+
+Total so far: $390
+
+* [https://timelines.issarice.com/wiki/Timeline_of_weight_loss Timeline of weight loss]: $390. Completed August 27, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_weight_loss&oldid=57638 (2021-08-27 23:30 UTC, 89750 bytes, 8 sample questions, 4 rows in big picture, 4 visual data charts, 139 rows in full timeline, a Google Scholar mentions table)
 === Stipends ===
 
 Total so far: $4882
