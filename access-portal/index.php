@@ -14,7 +14,7 @@ include_once("backend/globalVariables/lists.inc");
 print "<body>\n";
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
 print '<h3>Contract work for Vipul Naik</h3>';
-include_once('preamble.inc');
+include('preamble.inc');
 print '<h4>Table of contents</h4>';
 print '<ul>';
 print '<li><a href="#paymentsDueByTypeAndYear">Payments due by type and year</a></li>';
@@ -35,6 +35,7 @@ print '<li><a href="#taskPaymentsDueByVenueAndMonth">Task payments due by venue 
 print '<li><a href="#taskPaymentsDueByFormatAndMonth">Task payments due by format and month</a></li>';
 print '<li><a href="#taskPaymentsDueByWorkerAndMonth">Task payments due by worker and month</a></li>';
 print '<li><a href="#paymentsDueAndMadeByMonth">Payments due and made by month</a></li>';
+print '<li><a href="#additionalNotes">Additional notes</a></li>';
 print '</ul>';
 
 include ("backend/paymentsDueByTypeAndYear.inc");
@@ -55,6 +56,7 @@ include ("backend/taskPaymentsDueByVenueAndMonth.inc");
 include ("backend/taskPaymentsDueByFormatAndMonth.inc");
 include ("backend/taskPaymentsDueByWorkerAndMonth.inc");
 include ("backend/paymentsDueAndMadeByMonth.inc");
+include ("additionalNotes.inc");
 
 include_once('anchorjs.inc');
 print '</body>';
