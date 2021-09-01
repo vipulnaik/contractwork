@@ -1027,7 +1027,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-06-11',10.64,'Organizational structures and dynamics','N/A','Spent 1 hour 7 minutes at $9.50/hour including 35 minutes assisting Sebastian. Work done 2021-06-02 to 2021-06-11.',67),
   /* Tasks added for July 2021 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-07-20',1.14,'Organizational structures and dynamics','N/A','Spent 3 minutes at $9.50/hour assisting Sebastian. Work done 2021-07-18 to 2021-07-20.',3),
-  ('Issa Rice','analytics.vipulnaik.com','Coding','On top-pages.php, print the h-index for every month','https://github.com/riceissa/analytics-table/issues/7','2021-07-10',38,'Analytics','Code','Work done 2021-07-10. Payment at max($38, $9.50/hour * time spent).',47);
+  ('Issa Rice','analytics.vipulnaik.com','Coding','On top-pages.php, print the h-index for every month','https://github.com/riceissa/analytics-table/issues/7','2021-07-10',38,'Analytics','Code','Work done 2021-07-10. Payment at max($38, $9.50/hour * time spent).',47),
+  /* Tasks added for August 2021 */
+  ('Issa Rice','AI Watch','Consulting','N/A','N/A','2021-08-30',25.18,'AI safety','N/A','Spent 2 hours 39 minutes. Work done 2021-08-27 to 2021-08-30. This comprises work talking to a potential new contributor to AI Watch.',159);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

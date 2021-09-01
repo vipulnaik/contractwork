@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2021 ==
 
-Total money earned as income (taxable as income for 2021): $604.95 (this includes $200 for Andy Matuschak)
+Total money earned as income (taxable as income for 2021): $658.48 (this includes $200 for Andy Matuschak)
 
 Payment made: $1407.74 (this includes $200 from Andy Matuschak)
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $55.34
+Net payment due: $108.87
 
 === Work on Donations list website (DLW) ===
 
@@ -63,6 +63,12 @@ Total so far: $33.74
 Total so far: $18.72
 
 * Review timeline of AI safety and share it on LessWrong at https://www.lesswrong.com/posts/SEfjw57Qw8mCzy36n/timeline-of-ai-safety: $18.72. 1 hour 58 minutes at $9.50/hour (within 3-hour time limit). Work done 2021-02-05 to 2021-02-07.
+
+=== Work on AI Watch ===
+
+Total so far: $25.18
+
+* Work on AI Watch in August: $25.18. Spent 2 hours 39 minutes. Work done 2021-08-27 to 2021-08-30. This comprises work talking to a potential new contributor to AI Watch.
 
 === Work on people watching ===
 
@@ -100,7 +106,7 @@ Total so far: $200
 
 === Stipends ===
 
-Total so far: $225.54
+Total so far: $253.89
 
 * January: $52.92. 5.88 hours at $9/hour
 
@@ -114,7 +120,9 @@ Total so far: $225.54
 
 * June: $35.55. 3.95 hours at $9/hour
 
-* July: $16.20. 1.8 hours att $9/hour
+* July: $16.20. 1.8 hours at $9/hour
+
+* August: $28.35. 3.15 hours at $9/hour
 
 === Payments made ===
 
