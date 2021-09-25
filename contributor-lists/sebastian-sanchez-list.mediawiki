@@ -90,11 +90,15 @@ Total so far: $932.50
 
 === Tentative pending payments ===
 
-Total so far: $320
+Total so far: $670
 
 New timelines (pending payment suggestion accepted):
 
 * [https://timelines.issarice.com/wiki/Timeline_of_biohacking Timeline of biohacking]: $320. Completed September 12, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_biohacking&oldid=58107 (2021-09-12 19:19 UTC, 80400 bytes, 7 sample questions, 5 rows in big picture, 4 visual data charts + Google Scholar mentions table, 121 rows in full timeline)
+
+New timelines (pending payment suggestion not yet accepted):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_vitamin_D Timeline of vitamin D]: $350. Completed September 25, 2021. Completed veersion at https://timelines.issarice.com/index.php?title=Timeline_of_vitamin_D&oldid=58642 (2021-09-25 19:21 UTC, 75996 bytes, 6 sample questions, 3 rows in big picture, 3 numerical data tables, 5 visual data charts, 129 rows in full timeline)
 === Stipends ===
 
 Total so far: $5490
