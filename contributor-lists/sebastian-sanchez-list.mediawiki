@@ -18,17 +18,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $12439.50
+Total money earned as income: $13817.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $11954.20
 
-Net payment due: ($4769.35)
+Net payment due: ($3391.35)
 
 === New timelines (Timelines wiki) ===
 
-Total so far: $2390
+Total so far: $3060
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table)
 
@@ -45,6 +45,10 @@ Total so far: $2390
 * [https://timelines.issarice.com/wiki/Timeline_of_weight_loss Timeline of weight loss]: $390. Completed August 27, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_weight_loss&oldid=57638 (2021-08-27 23:30 UTC, 89750 bytes, 8 sample questions, 4 rows in big picture, 4 visual data charts, 139 rows in full timeline, a Google Scholar mentions table)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_life_extension Timeline of life extension]: $290. Completed August 27, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_life_extension&oldid=57627 (2021-08-27 22:38 UTC, 82815 bytes, 5 sample questions, 3 rows in big picture, 4 visual data charts, 95 rows in full timeline, a Google Scholar mentions table)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_biohacking Timeline of biohacking]: $320. Completed September 12, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_biohacking&oldid=58107 (2021-09-12 19:19 UTC, 80400 bytes, 7 sample questions, 5 rows in big picture, 4 visual data charts + Google Scholar mentions table, 121 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_vitamin_D Timeline of vitamin D]: $350. Completed September 25, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_vitamin_D&oldid=58642 (2021-09-25 19:21 UTC, 75996 bytes, 6 sample questions, 3 rows in big picture, 3 numerical data tables, 5 visual data charts, 129 rows in full timeline)
 
 === Additions to existing pages (Timelines wiki) ===
 
@@ -72,7 +76,7 @@ Total so far: $3627
 
 === Org Watch ===
 
-Total so far: $932.50
+Total so far: $992.50
 
 * January: $125. 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit for the month was on 2021-01-03 and the last commit for the month was on 2021-01-12.
 
@@ -88,18 +92,11 @@ Total so far: $932.50
 
 * August: $50. 10 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-08-01&until-2021-08-31 for more details. The first commit for the month was on 2021-08-02 and the last commit for the month was on 2021-08-30.
 
-=== Tentative pending payments ===
+* September: $60. 12 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-09-01&until-2021-09-30 for more details. The first commit for the month was on 2021-09-06 and the last commit for th month was on 2021-09-30.
 
-Total so far: $670
-
-New timelines (pending payment suggestion accepted):
-
-* [https://timelines.issarice.com/wiki/Timeline_of_biohacking Timeline of biohacking]: $320. Completed September 12, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_biohacking&oldid=58107 (2021-09-12 19:19 UTC, 80400 bytes, 7 sample questions, 5 rows in big picture, 4 visual data charts + Google Scholar mentions table, 121 rows in full timeline)
-
-* [https://timelines.issarice.com/wiki/Timeline_of_vitamin_D Timeline of vitamin D]: $350. Completed September 25, 2021. Completed veersion at https://timelines.issarice.com/index.php?title=Timeline_of_vitamin_D&oldid=58642 (2021-09-25 19:21 UTC, 75996 bytes, 6 sample questions, 3 rows in big picture, 3 numerical data tables, 5 visual data charts, 129 rows in full timeline)
 === Stipends ===
 
-Total so far: $5490
+Total so far: $6138
 
 The rule of thumb for stipend is: $4/hour
 
@@ -117,7 +114,9 @@ The rule of thumb for stipend is: $4/hour
 
 * July: $740. The payment is at $4/hour for all 185 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines Wiki and 30 hours on Org Watch.
 
-* August: $608. The payment is at $4/hour for all 152 hours eligible for stipend. Total time spent ws as follows: 142 hours on Timelines Wiki and and 10 hours on Org Watch.
+* August: $608. The payment is at $4/hour for all 152 hours eligible for stipend. Total time spent was as follows: 142 hours on Timelines Wiki and and 10 hours on Org Watch.
+
+* August: $648. The payment is at $4/hour for 162 hours eligible for stipend out of a total of 167 hours worked. Total time spent was as follows: 155 hours on Timelines Wiki (of which stipend-eligible hours were capped at 150) and and 12 hours on Org Watch.
 
 === Payments made ===
 
