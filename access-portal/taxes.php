@@ -9,6 +9,8 @@ if (!empty($_REQUEST['worker'])) {
 }
 print "<title>$worker tax details: Contract work for Vipul Naik</title>";
 include_once('analytics.inc');
+print '<script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js"></script>';
+print '<script>window.addEventListener("load", () => {quicklink.listen();});</script>';
 print '</head>';
 print '<body>';
 print "<h3>$worker tax details: Contract work for Vipul Naik</h3>";

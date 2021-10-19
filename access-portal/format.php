@@ -9,6 +9,8 @@ include_once('strip-commas.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
 print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
 print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
+print '<script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js"></script>';
+print '<script>window.addEventListener("load", () => {quicklink.listen();});</script>';
 $format = '';
 if (!empty($_REQUEST['format'])) {
   $format = $_REQUEST['format'];
