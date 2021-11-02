@@ -18,17 +18,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $13817.50
+Total money earned as income: $14897.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $14507.09
 
-Net payment due: ($5944.24)
+Net payment due: ($4864.24)
 
 === New timelines (Timelines wiki) ===
 
-Total so far: $3060
+Total so far: $3420
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table)
 
@@ -50,9 +50,11 @@ Total so far: $3060
 
 * [https://timelines.issarice.com/wiki/Timeline_of_vitamin_D Timeline of vitamin D]: $350. Completed September 25, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_vitamin_D&oldid=58642 (2021-09-25 19:21 UTC, 75996 bytes, 6 sample questions, 3 rows in big picture, 3 numerical data tables, 5 visual data charts, 129 rows in full timeline)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_medical_ethics Timeline of medical ethics]: $360. Completed October 24, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_ethics&oldid=59751 (2021-10-24 21:24 UTC, 92429 bytes, 6 sample questions, 5 rows in big pucture, 1 numerical data table, 4 visual data charts, 134 rows in full timeline)
+
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $3627
+Total so far: $3667
 
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngram Viewer chart
 
@@ -73,6 +75,8 @@ Total so far: $3627
 * Comprehensive visual data updates across multiple timelines: $23. Completed June 4, 2021. 7 graphs across 2 timelines at about $3.33 / graph
 
 * Miscellaneous graph updates: $22. Completed July 31, 2021. Graph fixes/remakes at $4 / graph for Google Scholar for three timelines (AlphaGo, Bitcoin, and digital preservation), and 3 graphs added to timeline of Chagas disease
+
+* Comprehensive visual data updates across multiple timelines: $40. Completed October 31, 2021. 12 charts across 4 timelines at $3.33 / timeline: decision theory, Ebola virus disease, e-commerce, and economic statistics
 
 === Org Watch ===
 
@@ -96,7 +100,7 @@ Total so far: $992.50
 
 === Stipends ===
 
-Total so far: $6138
+Total so far: $6818
 
 The rule of thumb for stipend is: $4/hour
 
@@ -117,6 +121,8 @@ The rule of thumb for stipend is: $4/hour
 * August: $608. The payment is at $4/hour for all 152 hours eligible for stipend. Total time spent was as follows: 142 hours on Timelines Wiki and and 10 hours on Org Watch.
 
 * September: $648. The payment is at $4/hour for 162 hours eligible for stipend out of a total of 167 hours worked. Total time spent was as follows: 155 hours on Timelines Wiki (of which stipend-eligible hours were capped at 150) and and 12 hours on Org Watch.
+
+* October: $680. The payment is at $4/hour for 170 hours eligible for stipend out of a total of 178 hours worked. Total time spent was as follows: 158 hours on Timelines Wiki (of which stipend-eligible hours were capped at 150) and 20 hours on Org Watch.
 
 === Payments made ===
 
