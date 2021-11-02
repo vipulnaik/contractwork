@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2021 ==
 
-Total money earned as income (taxable as income for 2021): $764.29 (this includes $200 for Andy Matuschak)
+Total money earned as income (taxable as income for 2021): $840.80 (this includes $200 for Andy Matuschak)
 
 Payment made: $1407.74 (this includes $200 from Andy Matuschak)
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $214.68
+Net payment due: $291.19
 
 === Work on Donations list website (DLW) ===
 
@@ -42,7 +42,7 @@ Total so far: $62.98
 
 === Work On Org Watch (OW) ===
 
-Total so far: $35.93
+Total so far: $36.69
 
 * January 4: $7.60. Spent 48 minutes at $9.50/hour. Work done 2021-01-04. Work on https://github.com/riceissa/aiwatch/issues/53 and https://github.com/riceissa/aiwatch/issues/56
 
@@ -60,6 +60,8 @@ Total so far: $35.93
 
 * September: $2.19. Spent 14 minutes at $9.50/hour assisting Sebastian. Work done 2021-09-12.
 
+* October: $0.76. Spent 5 minutes at $9.50/hour assisting Sebastian. Work done 2021-10-03.
+
 === Work on AI safety ===
 
 Total so far: $18.72
@@ -68,11 +70,13 @@ Total so far: $18.72
 
 === Work on AI Watch ===
 
-Total so far: $75.25
+Total so far: $107.08
 
 * Work on AI Watch in August: $25.18. Spent 2 hours 39 minutes. Work done 2021-08-27 to 2021-08-30. This comprises work talking to a potential new contributor to AI Watch.
 
-* Work onn AI Watch in September: $50.07. Spent 5 hours 16 minutes. Work done 2021-09-02 to 2021-09-30. This comprises work talking to a potential new contributor to AI Watch.
+* Work on AI Watch in September: $50.07. Spent 5 hours 16 minutes. Work done 2021-09-02 to 2021-09-30. This comprises work talking to a potential new contributor to AI Watch.
+
+* Work on AI Watch in October: $31.83. Spent 3 hours 21 minutes. Work done 2021-10-02 to 2021-10-26. This comprises work talking to a potential new contributor to AI Watch.
 
 === Work on people watching ===
 
@@ -110,7 +114,7 @@ Total so far: $200
 
 === Stipends ===
 
-Total so far: $307.44
+Total so far: $351.36
 
 * January: $52.92. 5.88 hours at $9/hour
 
@@ -129,6 +133,8 @@ Total so far: $307.44
 * August: $28.35. 3.15 hours at $9/hour
 
 * September: $53.55. 5.95 hours at $9/hour
+
+* October: $43.92. 4.88 hours at $9/hour
 
 === Payments made ===
 
