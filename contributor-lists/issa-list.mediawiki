@@ -24,11 +24,11 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 Total money earned as income (taxable as income for 2021): $840.80 (this includes $200 for Andy Matuschak)
 
-Payment made: $1407.74 (this includes $200 from Andy Matuschak)
+Payment made: $1698.93 (this includes $200 from Andy Matuschak)
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $291.19
+Net payment due: $20
 
 === Work on Donations list website (DLW) ===
 
@@ -138,13 +138,15 @@ Total so far: $351.36
 
 === Payments made ===
 
-Total so far: $1207.74
+Total so far: $1498.93
 
 * $835.57 via PayPal on January 3, 2021
 
 * $40.61 via PayPal on January 3, 2021
 
 * $331.56 via PayPal on July 6, 2021
+
+* $291.19 via PayPal on November 1, 2021
 
 == Work and other compensation in 2020 ==
 
