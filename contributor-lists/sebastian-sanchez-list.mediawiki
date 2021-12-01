@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $15237.50
+Total money earned as income: $16099.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $16535.84
 
-Net payment due: ($6552.99)
+Net payment due: ($5690.99)
 
 === New timelines (Timelines wiki) ===
 
@@ -82,27 +82,31 @@ Total so far: $4007
 
 === Org Watch ===
 
-Total so far: $992.50
+Total so far: $1182.50
 
 * January: $125. 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit for the month was on 2021-01-03 and the last commit for the month was on 2021-01-12.
 
-* February: $157.50. 31 hours 30 minutes at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-02-01&until-2021-02-28 for mmore details. The first commit for the month was on 2021-02-01 and the last commit for the month was on 2021-02-22.
+* February: $157.50. 31 hours 30 minutes at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-02-01&until=2021-02-28 for mmore details. The first commit for the month was on 2021-02-01 and the last commit for the month was on 2021-02-22.
 
-* March: $165. 33 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-03-01&until-2021-03-31 for more details. The first commit for the month was on 2021-03-06 and the last commit for the month was on 2021-03-26.
+* March: $165. 33 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-03-01&until=2021-03-31 for more details. The first commit for the month was on 2021-03-06 and the last commit for the month was on 2021-03-26.
 
-* April: $175. 35 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-04-01&until-2021-04-30 for more details. The first commit for the month was on 2021-04-08 and the last commit for the month was on 2021-04-30.
+* April: $175. 35 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-04-01&until=2021-04-30 for more details. The first commit for the month was on 2021-04-08 and the last commit for the month was on 2021-04-30.
 
-* June: $110. 22 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-06-01&until-2021-06-30 for more details. The first commit for the month was on 2021-06-02 and the last commit for the month was on 2021-06-30.
+* June: $110. 22 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-06-01&until=2021-06-30 for more details. The first commit for the month was on 2021-06-02 and the last commit for the month was on 2021-06-30.
 
-* July: $150. 30 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-07-01&until-2021-07-31 for more details. The first commit for the month was on 2021-07-19 and the last commit for the month was on 2021-07-31.
+* July: $150. 30 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-07-01&until=2021-07-31 for more details. The first commit for the month was on 2021-07-19 and the last commit for the month was on 2021-07-31.
 
-* August: $50. 10 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-08-01&until-2021-08-31 for more details. The first commit for the month was on 2021-08-02 and the last commit for the month was on 2021-08-30.
+* August: $50. 10 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-08-01&until=2021-08-31 for more details. The first commit for the month was on 2021-08-02 and the last commit for the month was on 2021-08-30.
 
-* September: $60. 12 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-09-01&until-2021-09-30 for more details. The first commit for the month was on 2021-09-06 and the last commit for th month was on 2021-09-30.
+* September: $60. 12 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-09-01&until=2021-09-30 for more details. The first commit for the month was on 2021-09-06 and the last commit for the month was on 2021-09-30.
+
+* October: $100. 20 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-10-01&until=2021-10-31 for more details. The first commit for the month was on 2021-10-03 and the last commit for the month was on 2021-10-25.
+
+* November: $90. 18 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-11-01&until=2021-11-30 for more details. The first commit for the month was on 2021-11-17 and the last commit for the month waas on 2021-11-29.
 
 === Stipends ===
 
-Total so far: $6818
+Total so far: $7490
 
 The rule of thumb for stipend is: $4/hour
 
@@ -125,6 +129,8 @@ The rule of thumb for stipend is: $4/hour
 * September: $648. The payment is at $4/hour for 162 hours eligible for stipend out of a total of 167 hours worked. Total time spent was as follows: 155 hours on Timelines Wiki (of which stipend-eligible hours were capped at 150) and and 12 hours on Org Watch.
 
 * October: $680. The payment is at $4/hour for 170 hours eligible for stipend out of a total of 178 hours worked. Total time spent was as follows: 158 hours on Timelines Wiki (of which stipend-eligible hours were capped at 150) and 20 hours on Org Watch.
+
+* November: $672. The payment is at $4/hour for 168 hours eligible for stipend out of a total of 178 hours worked. Total time spent was as follows: 160 hours on Timelines Wiki (of which stipend-eligible hours were capped at 150) and 18 hours on Org Watch.
 
 === Payments made ===
 
