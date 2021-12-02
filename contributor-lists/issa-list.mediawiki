@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2021 ==
 
-Total money earned as income (taxable as income for 2021): $840.80 (this includes $200 for Andy Matuschak)
+Total money earned as income (taxable as income for 2021): $948.64 (this includes $200 for Andy Matuschak)
 
 Payment made: $1698.93 (this includes $200 from Andy Matuschak)
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $20
+Net payment due: $107.84
 
 === Work on Donations list website (DLW) ===
 
@@ -70,13 +70,15 @@ Total so far: $18.72
 
 === Work on AI Watch ===
 
-Total so far: $107.08
+Total so far: $111.55
 
 * Work on AI Watch in August: $25.18. Spent 2 hours 39 minutes. Work done 2021-08-27 to 2021-08-30. This comprises work talking to a potential new contributor to AI Watch.
 
 * Work on AI Watch in September: $50.07. Spent 5 hours 16 minutes. Work done 2021-09-02 to 2021-09-30. This comprises work talking to a potential new contributor to AI Watch.
 
 * Work on AI Watch in October: $31.83. Spent 3 hours 21 minutes. Work done 2021-10-02 to 2021-10-26. This comprises work talking to a potential new contributor to AI Watch.
+
+* Work on AI Watch in November: $4.47. Spent 28 minutes. Work done 2021-11-08. This comprises work talking to a potential new contributor to AI Watch.
 
 === Work on people watching ===
 
@@ -102,9 +104,11 @@ Total so far: $38
 
 === Other work ===
 
-Total so far: $9.22
+Total so far: $30.60
 
 * Document review of private document: $9.22. 58 minutes at $9.50/hour. Work done 2021-02-05 and 2021-02-06.
+
+* Discussion of various topics including Timelines Wiki, Org Watch, and subwiki with Sebastian and Vipul. $21.38. 2 hours 15 minutes at $9.50/hour. Work done 2021-11-02.
 
 === Work for Andy Matuschak ===
 
@@ -114,7 +118,7 @@ Total so far: $200
 
 === Stipends ===
 
-Total so far: $351.36
+Total so far: $384.84
 
 * January: $52.92. 5.88 hours at $9/hour
 
@@ -135,6 +139,8 @@ Total so far: $351.36
 * September: $53.55. 5.95 hours at $9/hour
 
 * October: $43.92. 4.88 hours at $9/hour
+
+* November: $33.48. 3.72 hours at $9/hour
 
 === Payments made ===
 
