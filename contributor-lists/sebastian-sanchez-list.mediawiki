@@ -50,7 +50,7 @@ Total so far: $3420
 
 * [https://timelines.issarice.com/wiki/Timeline_of_vitamin_D Timeline of vitamin D]: $350. Completed September 25, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_vitamin_D&oldid=58642 (2021-09-25 19:21 UTC, 75996 bytes, 6 sample questions, 3 rows in big picture, 3 numerical data tables, 5 visual data charts, 129 rows in full timeline)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_medical_ethics Timeline of medical ethics]: $360. Completed October 24, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_ethics&oldid=59751 (2021-10-24 21:24 UTC, 92429 bytes, 6 sample questions, 5 rows in big pucture, 1 numerical data table, 4 visual data charts, 134 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_medical_ethics Timeline of medical ethics]: $360. Completed October 24, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_ethics&oldid=59751 (2021-10-24 21:24 UTC, 92429 bytes, 6 sample questions, 5 rows in big picture, 1 numerical data table, 4 visual data charts, 134 rows in full timeline)
 
 === Additions to existing pages (Timelines wiki) ===
 
@@ -79,6 +79,28 @@ Total so far: $4007
 * Comprehensive visual data updates across multiple timelines: $40. Completed October 31, 2021. 12 charts across 4 timelines at $3.33 / timeline: decision theory, Ebola virus disease, e-commerce, and economic statistics
 
 * Google Scholar data updates across multiple timelines: $340. Completed June 30, 2021. Google Scholar table and chart additions for 85 timelines at $4 / timeline
+
+=== Tentative pending payments ===
+
+Total so far: $1544
+
+New timelines:
+
+* [https://timelines.issarice.com/wiki/Timeline_of_nutritional_supplements Timeline of nutritional supplements]: $320. Completed December 22, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nutritional_supplements&oldid=61521 (2021-10-23 03:17 UTC, 82848 bytes, 5 sample questions, 4 rows in big picture, 4 visual data charts + Google Scholar mentions table, 123 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_proteins Timeline of proteins]: $300. Completed December 22, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_proteins&oldid=61514 (2021-10-23 02:47 UTC, 94096 bytes, 5 sample questions, 3 rows in big picture, 6 data tables and 4 visual data charts, 108 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_fats Timeline of fats]: $600. Completed December 31, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_fats&oldid=61771 (2021-12-31 20:51 UTC, 182867 bytes, 7 sample questions, 5 rows in big picture, Google Scholar table and chart, 4 visual data charts + Google Scholar mentions table, 326 rows in full timeline)
+
+Expansions:
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $4. Completed October 2, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&type=revision&diff=58934&oldid=52439 diff]. Increased from 79292 bytes to 80765 bytes (Google Scholar updates paid for separately)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Animal_Charity_Evaluators Timeline of Animal Charity Evaluators]: $10. Completed December 13, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_Animal_Charity_Evaluators&type=revision&diff=61102&oldid=35161 diff]. Two new rows added to full timeline (Google Scholar and charts updates paid for separately)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $10. Completed October 28, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=59911&oldid=47767 diff]. Increased from 198254 bytes to 202347 bytes (some of these increases were already covered in chart expansion payments)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_senescence_research Timeline of senescence research]: $300. Completed December 23, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_senescence_research&type=revision&diff=61563&oldid=19553 diff]. Increased from 26962 bytes to 126650 bytes, including addition of sample questions, updates to the big picture, visual and numerical data, and several rows in the full timeline
 
 === Org Watch ===
 
