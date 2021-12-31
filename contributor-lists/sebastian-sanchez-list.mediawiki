@@ -82,7 +82,7 @@ Total so far: $4007
 
 === Tentative pending payments ===
 
-Total so far: $1544
+Total so far: $1762
 
 New timelines:
 
@@ -101,6 +101,8 @@ Expansions:
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $10. Completed October 28, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=59911&oldid=47767 diff]. Increased from 198254 bytes to 202347 bytes (some of these increases were already covered in chart expansion payments)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_senescence_research Timeline of senescence research]: $300. Completed December 23, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_senescence_research&type=revision&diff=61563&oldid=19553 diff]. Increased from 26962 bytes to 126650 bytes, including addition of sample questions, updates to the big picture, visual and numerical data, and several rows in the full timeline
+
+* Google Scholar data updates across multiple timelines: $208. Completed December 31, 2021. Google Scholar table and chart additions for 52 timelines at $4 / timeline
 
 === Org Watch ===
 
