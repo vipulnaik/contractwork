@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2021 ==
 
-Total money earned as income: $19158.50
+Total money earned as income: $19218.50
 
 Forward balance carried over from 2020: ($5254.65)
 
 Payment made: $16535.84
 
-Net payment due: ($2631.99)
+Net payment due: ($2571.99)
 
 === New timelines (Timelines wiki) ===
 
@@ -60,7 +60,7 @@ Total so far: $4640
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $5039
+Total so far: $5099
 
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngram Viewer chart
 
@@ -97,6 +97,8 @@ Total so far: $5039
 * [https://timelines.issarice.com/wiki/Timeline_of_vaccines Timeline of vaccines]: $500. Completed December 31, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_vaccines&type=revision&diff=61809&oldid=22889 diff]. Increased from 39176 bytes to 211262 bytes, including addition of sample questions, updates to the big picture, visual and numerical data, and several rows in the full timeline
 
 * Google Scholar data updates across multiple timelines: $208. Completed December 31, 2021. Google Scholar table and chart additions for 52 timelines at $4 / timeline
+
+* Multiple pages: $60. Completed December 31, 2021. Updates made concurrently with updates to timeline of vaccinnes: Timeline of hepatitis: 16 rows plus 1 column for hepatitis type; Timeline of yellow fever: 3 rows; Timeline of typhoid fever: 4 rows; Timeline of tetanus:3 rows; Timeline of pneumonia: 4 rows
 
 === Org Watch ===
 
