@@ -82,7 +82,7 @@ Total so far: $4007
 
 === Tentative pending payments ===
 
-Total so far: $1762
+Total so far: $2262
 
 New timelines:
 
@@ -102,11 +102,13 @@ Expansions:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_senescence_research Timeline of senescence research]: $300. Completed December 23, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_senescence_research&type=revision&diff=61563&oldid=19553 diff]. Increased from 26962 bytes to 126650 bytes, including addition of sample questions, updates to the big picture, visual and numerical data, and several rows in the full timeline
 
+* [https://timelines.issarice.com/wiki/Timeline_of_vaccines Timeline of vaccines]: $500. Completed December 31, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_vaccines&type=revision&diff=61809&oldid=22889 diff]. Increased from 39176 bytes to 211262 bytes, including addition of sample questions, updates to the big picture, visual and numerical data, and several rows in the full timeline
+
 * Google Scholar data updates across multiple timelines: $208. Completed December 31, 2021. Google Scholar table and chart additions for 52 timelines at $4 / timeline
 
 === Org Watch ===
 
-Total so far: $1182.50
+Total so far: $1297.50
 
 * January: $125. 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit for the month was on 2021-01-03 and the last commit for the month was on 2021-01-12.
 
@@ -128,9 +130,11 @@ Total so far: $1182.50
 
 * November: $90. 18 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-11-01&until=2021-11-30 for more details. The first commit for the month was on 2021-11-17 and the last commit for the month waas on 2021-11-29.
 
+* December: $115. 23 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-12-01&until=2021-12-31 for more details. The first commit for the month was on 2021-12-15 and the last commit for the month was on 2021-12-31.
+
 === Stipends ===
 
-Total so far: $7490
+Total so far: $8214
 
 The rule of thumb for stipend is: $4/hour
 
@@ -155,6 +159,8 @@ The rule of thumb for stipend is: $4/hour
 * October: $680. The payment is at $4/hour for 170 hours eligible for stipend out of a total of 178 hours worked. Total time spent was as follows: 158 hours on Timelines Wiki (of which stipend-eligible hours were capped at 150) and 20 hours on Org Watch.
 
 * November: $672. The payment is at $4/hour for 168 hours eligible for stipend out of a total of 178 hours worked. Total time spent was as follows: 160 hours on Timelines Wiki (of which stipend-eligible hours were capped at 150) and 18 hours on Org Watch.
+
+* December: $724. The payment is at $4/hour for 173 hours eligible for stipend out of a total of 181 hours worked. Total time spent was as follows: 158 hours on Timelines Wiki (of which stipend-eligible hours were capped at 150) and 23 hours on Org Watch.
 
 === Payments made ===
 
