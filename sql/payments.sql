@@ -137,8 +137,13 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Issa Rice',NULL,'2021-07-06','2021-07-06','2021-07-06','2021-07-06',331.56,331.56,0,331.56,'Since the amount due was over $300, we decided to clear it via PayPal.'),
   ('PayPal','Issa Rice',NULL,'2021-07-14','2021-07-14','2021-07-14','2021-07-14',200,200,0,200,'Payment from Andy Matuschak for a spaced repetition project'),
   ('PayPal','Issa Rice',NULL,'2021-11-01','2021-11-01','2021-11-01','2021-11-01',291.19,291.19,0,291.19,'Since the amount due was almost $300, we decided to clear it via PayPal.'),
+
+  /* Payment sent in 2022 to wrap up pending amount due from 2021 tax year */
+  ('PayPal','Issa Rice',NULL,'2022-01-05','2022-01-05','2022-01-05','2022-01-05',510.76,510.76,0,510.76,'Since the amount due was over $300, we decided to clear it via PayPal.'),
+
   /* Payment sent in 2021 for 2020 work by Amana Rice */
   ('PayPal','Amana Rice',NULL,'2021-01-03','2021-01-03','2021-01-03','2021-01-03',270.72,270.72,0,270.72,NULL),
+
   /* Orpheus Lummis */
   ('Ethereum','Orpheus Lummis',NULL,'2018-10-06','2018-10-06','2018-10-06','2018-10-06',160,160.01,0.01,160,NULL),
 
