@@ -22,17 +22,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2021 ==
 
-Total money earned as income (taxable as income for 2021): $948.64 (this includes $200 for Andy Matuschak)
+Total money earned as income (taxable as income for 2021): $1351.56 (this includes $200 for Andy Matuschak)
 
 Payment made: $1698.93 (this includes $200 from Andy Matuschak)
 
 Carryover payment due from 2020: $858.13
 
-Net payment due: $107.84
+Net payment due: $510.76
 
 === Work on Donations list website (DLW) ===
 
-Total so far: $62.98
+Total so far: $69.82
 
 * January 25: $0.95. Spent 6 minutes at $9.50/hour. Work done 2021-01-25. This was to help answer some questions over email.
 
@@ -40,9 +40,11 @@ Total so far: $62.98
 
 * Fixed-rate work: $38. Spent 3 hours for max($38, $9.50 * number of hours). Work on https://github.com/vipulnaik/donations/issues/125 and https://github.com/vipulnaik/donations/issues/129 started last year (2020-12-16 to 2020-12-18) and wrapped up 2021-06-04.
 
+* December: $6.84. Spent 43 minutes at $9.50/hour. Work done 2021-12-24. Work at https://github.com/vipulnaik/donations/pull/139 for https://github.com/vipulnaik/donations/issues/138
+
 === Work On Org Watch (OW) ===
 
-Total so far: $36.69
+Total so far: $55.97o
 
 * January 4: $7.60. Spent 48 minutes at $9.50/hour. Work done 2021-01-04. Work on https://github.com/riceissa/aiwatch/issues/53 and https://github.com/riceissa/aiwatch/issues/56
 
@@ -54,13 +56,17 @@ Total so far: $36.69
 
 * May: $1.24. Spent 8 minutes at $9.50/hour. Work done 2021-05-31.
 
-* June: $10.64. Spent 1 hour 7 minutes at $9.50/hour including 35 minutes assisting Sebastian. Work done 2021-06-02 to 2021-06-11.
+* June: $10.64. Spent 1 hour 7 minutes at $9.50/hour including 35 minutes assisting Sebastiaon. Work done 2021-06-02 to 2021-06-11.
 
 * July: $1.14. Spent 3 minutes at $9.50/hour assisting Sebastian. Work done 2021-07-18 to 2021-07-20.
 
 * September: $2.19. Spent 14 minutes at $9.50/hour assisting Sebastian. Work done 2021-09-12.
 
 * October: $0.76. Spent 5 minutes at $9.50/hour assisting Sebastian. Work done 2021-10-03.
+
+* December 19 to December 29: $19.28. Spent 2 hours 2 minutes at $9.50/hour. Work done 2021-12-19 to 2021-12-29. Most of the work was for https://github.com/riceissa/aiwatch/issues/99 for initial work on dark mode for AI Watch and Org Watch.
+
+* December 15 to December 29: $4.47. Spent 28 minutes at $9.50/hour assisting Sebastian. Work done 2021-12-15 to 2021-12-29.
 
 === Work on AI safety ===
 
@@ -70,25 +76,29 @@ Total so far: $18.72
 
 === Work on AI Watch ===
 
-Total so far: $111.55
+Total so far: $118.01
 
-* Work on AI Watch in August: $25.18. Spent 2 hours 39 minutes. Work done 2021-08-27 to 2021-08-30. This comprises work talking to a potential new contributor to AI Watch.
+* August: $25.18. Spent 2 hours 39 minutes. Work done 2021-08-27 to 2021-08-30. This comprises work talking to a potential new contributor to AI Watch.
 
-* Work on AI Watch in September: $50.07. Spent 5 hours 16 minutes. Work done 2021-09-02 to 2021-09-30. This comprises work talking to a potential new contributor to AI Watch.
+* September: $50.07. Spent 5 hours 16 minutes. Work done 2021-09-02 to 2021-09-30. This comprises work talking to a potential new contributor to AI Watch.
 
-* Work on AI Watch in October: $31.83. Spent 3 hours 21 minutes. Work done 2021-10-02 to 2021-10-26. This comprises work talking to a potential new contributor to AI Watch.
+* October: $31.83. Spent 3 hours 21 minutes. Work done 2021-10-02 to 2021-10-26. This comprises work talking to a potential new contributor to AI Watch.
 
-* Work on AI Watch in November: $4.47. Spent 28 minutes. Work done 2021-11-08. This comprises work talking to a potential new contributor to AI Watch.
+* November: $4.47. Spent 28 minutes. Work done 2021-11-08. This comprises work talking to a potential new contributor to AI Watch.
+
+* December: $6.46. Spent 41 minutes. Work done 2021-12-28. This comprises work talking to a potential new contributor to AI Watch.
 
 === Work on people watching ===
 
-Total so far: $7
+Total so far: $8.97
 
 People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms.
 
 * March 17: $3.85. Spent 53 minutes at $4.375/hour.
 
 * April 23: $3.15. Spent 43 minutes at $4.375/hour.
+
+* December 28: $1.97. Spent 27 minutes at $4.375/hour.
 
 === Work on cause prioritization ===
 
@@ -118,7 +128,7 @@ Total so far: $200
 
 === Stipends ===
 
-Total so far: $384.84
+Total so far: $448.74
 
 * January: $52.92. 5.88 hours at $9/hour
 
@@ -141,6 +151,8 @@ Total so far: $384.84
 * October: $43.92. 4.88 hours at $9/hour
 
 * November: $33.48. 3.72 hours at $9/hour
+
+* December: $63.90. 7.10 hours at $9/hour
 
 === Payments made ===
 

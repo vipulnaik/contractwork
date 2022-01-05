@@ -890,7 +890,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','None','Coding','Backups','N/A','2020-12-31',105,'Wikipedia/Backup','Code and data','Payment for maintaining the process that does daily backups of Wikipedia content, at $2/week for 52 weeks, from 2020-01-01 to 2020-12-31, with an extra dollar because of the extra day beyond 52 weeks'),
   ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2020-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).'),
   /* 2021 tasks */
-  ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2021-11-03',48.51,'Cause prioritization','Domain renewal','Details: $15.99 - causeprioritization.com, $15.99 - causeprioritisation.com, $15.99 - causeprioritisation.org, plus taxes. Issa shouldered the $15.99 cost of renewing the main domain causeprioritization.org himself.');
+  ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2021-11-03',48.51,'Cause prioritization','Domain renewal','Details: $15.99 - causeprioritization.com, $15.99 - causeprioritisation.com, $15.99 - causeprioritisation.org, plus taxes. Issa shouldered the $15.99 cost of renewing the main domain causeprioritization.org himself.'),
+  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2021-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).');
 
 /* Issa Rice payments, with time clocked
 Other payments to Issa Rice */
@@ -1048,7 +1049,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','People repo','People watching','N/A','N/A','2021-03-17',3.85,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2021-03-17.',53),
   /* Tasks added for April 2021 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-04-28',0.48,'Organizational structures and dynamics','N/A','Spent 3 minutes at $9.50/hour assisting Sebastian. Work done 2021-04-28.',3),
-  ('Issa Rice','People repo','People watching','N/A','N/A','2021-04-23',3.15,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2021-04-23.',23),
+  ('Issa Rice','People repo','People watching','N/A','N/A','2021-04-23',3.15,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2021-04-23.',43),
   /* Tasks added for May 2021 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-05-31',1.24,'Organizational structures and dynamics','N/A','Spent 8 minutes at $9.50/hour. Work done 2021-05-31.',8),
   /* Tasks added for June 2021 */
@@ -1068,7 +1069,13 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-10-03',0.76,'Organizational structures and dynamics','N/A','Spent 5 minutes at $9.50/hour assisting Sebastian. Work done 2021-10-03.',5),
   /* Tasks added for November 2021 */
   ('Issa Rice','None','Consulting','N/A','N/A','2021-11-02',21.38,'None','N/A','Discussion of various topics including Timelines Wiki, Org Watch, and subwiki with Sebastian and Vipul. 2 hours 15 minutes at $9.50/hour. Work done 2021-11-02.',135),
-  ('Issa Rice','AI Watch','Consulting','N/A','N/A','2021-11-08',4.47,'AI safety','N/A','Work done 2021-11-08. This comprises work talking to a potential new contributor to AI Watch.',28);
+  ('Issa Rice','AI Watch','Consulting','N/A','N/A','2021-11-08',4.47,'AI safety','N/A','Work done 2021-11-08. This comprises work talking to a potential new contributor to AI Watch.',28),
+  /* Tasks added for December 2021 */
+  ('Issa Rice','Donations list website','Coding','Separate out reset and read by table in Makefile','https://github.com/vipulnaik/donations/issues/138','2021-12-24',6.84,'Philanthropy','Code','Work done 2021-12-24. Work at https://github.com/vipulnaik/donations/pull/139 for https://github.com/vipulnaik/donations/issues/138',43),
+  ('Issa Rice','AI Watch','Consulting','N/A','N/A','2021-12-28',6.46,'AI safety','N/A','Work done 2021-12-28. This comprises work talking to a potential new contributor to AI Watch.',41),
+  ('Issa Rice','People repo','People watching','N/A','N/A','2021-12-28',1.97,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2021-12-28.',27),
+  ('Issa Rice','Org Watch','Coding','Implement optional dark mode on AIW / OW','https://github.com/riceissa/aiwatch/issues/99','2021-12-29',19.28,'Organizational structures and dynamics','Code','Work done 2021-12-19 to 2021-12-29. Most of the work was for https://github.com/riceissa/aiwatch/issues/99 for initial work on dark mode for AI Watch and Org Watch.',122),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-12-29',4.47,'Organizational structures and dynamics','N/A','Spent 28 minutes at $9.50/hour assisting Sebastian. Work done 2021-12-15 to 2021-12-29.',28);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
