@@ -16,6 +16,22 @@ Additional notes: Based in Argentina
 
 For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Sebastian+Sanchez
 
+== Work in 2022 ==
+
+Total money earned as income: $0
+
+Forward balance carried over from 2021: ($2571.99)
+
+Payment made: $1069.33
+
+Net payment due: ($3641.32)
+
+=== Payments made ===
+
+Total so far: $1069.33
+
+* $1069.33 sent and received Tuesday, January 11, 2022. Transaction in Bitcoin Cash for 2.90383 BCH (and calculated in terms of USD value at time of transaction of $368.25 per BCH) with a very small transaction fee of 0.00000226 BCH (less than 0.01 USD). Transaction available online at https://btc.com/bch/transaction/77d820114df0bb00bdb6772e133594c2da74347622533021c43cb642737d9e62 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
 == Work in 2021 ==
 
 Total money earned as income: $19218.50
