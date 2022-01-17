@@ -115,11 +115,13 @@ all adjustments]:
   work)
 * May 2022: 150 hours (time increased due to increase in priority
   work)
-* June 2022: 135 hours
-* July 2022: 120 hours
-* August 2022: 105 hours
-* September 2022: 90 hours
-* October 2022: 75 hours
+* June 2022: 150 hours (time increased due to increase in priority
+  work)
+* July 2022: 135 hours
+* August 2022: 120 hours
+* September 2022: 105 hours
+* October 2022: 90 hours
+* November 2022: 75 hours
 
 Overages can be accumulated even during the transition phase; the
 overage accumulated from a given month will be calculated against the
