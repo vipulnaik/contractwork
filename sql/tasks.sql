@@ -1078,7 +1078,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','AI Watch','Consulting','N/A','N/A','2021-12-28',6.46,'AI safety','N/A','Work done 2021-12-28. This comprises work talking to a potential new contributor to AI Watch.',41),
   ('Issa Rice','People repo','People watching','N/A','N/A','2021-12-28',1.97,'People','Prose','People watching work is capped at 10 hours per month, with a rate of $4.375/hour. The specifics of the work are chosen by Issa Rice, and are not directed or reviewed by Vipul Naik except in very broad terms. The work for this month was done on 2021-12-28.',27),
   ('Issa Rice','Org Watch','Coding','Implement optional dark mode on AIW / OW','https://github.com/riceissa/aiwatch/issues/99','2021-12-29',19.28,'Organizational structures and dynamics','Code','Work done 2021-12-19 to 2021-12-29. Most of the work was for https://github.com/riceissa/aiwatch/issues/99 for initial work on dark mode for AI Watch and Org Watch.',122),
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-12-29',4.47,'Organizational structures and dynamics','N/A','Spent 28 minutes at $9.50/hour assisting Sebastian. Work done 2021-12-15 to 2021-12-29.',28);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-12-29',4.47,'Organizational structures and dynamics','N/A','Spent 28 minutes at $9.50/hour assisting Sebastian. Work done 2021-12-15 to 2021-12-29.',28),
+  /* Tasks added for January 2022 */
+  ('Issa Rice','AI Watch','Consulting','N/A','N/A','2022-01-04',6.65,'AI safety','N/A','Work done 2022-01-04. This comprises work talking to a potential new contributor to AI Watch.',42),
+  ('Issa Rice','Org Watch','Coding','Limit display on the AI Watch and Org Watch homepages to top 300 + ties with the 300th','https://github.com/riceissa/aiwatch/issues/98','2022-01-30',12.07,'Organizational structures and dynamics','Code','Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98',76);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

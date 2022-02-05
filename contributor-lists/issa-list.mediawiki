@@ -22,13 +22,31 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2022 ==
 
-Total money earned as income (taxable as income for 2022): $0
+Total money earned as income (taxable as income for 2022): $41.67
 
 Payment made: $510.76
 
 Carryover payment due from 2021: $510.76
 
-Net payment due: $0
+Net payment due: $41.67
+
+=== Work on AI Watch ===
+
+Total so far: $6.65
+
+* January: $6.65. Spent 42 minutes at $9.50/hour. Work done 2022-01-04. This comprises work talking to a potential new contributor to AI Watch.
+
+=== Work on Org Watch ===
+
+Total so far: $12.07
+
+* January: $12.07. Spent 1 hour 16 minutes at $9.50/hour. Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98
+
+=== Stipends ===
+
+Total so far: $22.95
+
+* January: $22.95. 2.55 hours at $9/hour
 
 === Payments made ===
 
