@@ -22,9 +22,9 @@ Total money earned as income: $1083
 
 Forward balance carried over from 2021: ($2571.99)
 
-Payment made: $1069.33
+Payment made: $5244.34
 
-Net payment due: ($2558.32)
+Net payment due: ($6733.33)
 
 === New timelines (Timelines wiki) ===
 
@@ -48,9 +48,11 @@ The rule of thumb for stipend is: $4/hour
 
 === Payments made ===
 
-Total so far: $1069.33
+Total so far: $5244.34
 
 * $1069.33 sent and received Tuesday, January 11, 2022. Transaction in Bitcoin Cash for 2.90383 BCH (and calculated in terms of USD value at time of transaction of $368.25 per BCH) with a very small transaction fee of 0.00000226 BCH (less than 0.01 USD). Transaction available online at https://btc.com/bch/transaction/77d820114df0bb00bdb6772e133594c2da74347622533021c43cb642737d9e62 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
+* $4175.01 sent and received Saturday, February 5, 2022. Transaction in Bitcoin for 0.1 BTC (and calculated in terms of USD value at time of transaction of $4175.01 per BTC) with a very small transaction fee of 0.00000387 BTC ($0.16 USD). Transaction available online at https://www.blockchain.com/btc/tx/0fcc8f38ccebbef6ef5cace5bc736a86e786f3e3f34904e187b1c64605993f9d (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 == Work in 2021 ==
 
