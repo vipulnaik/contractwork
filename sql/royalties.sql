@@ -7,7 +7,8 @@ create table royalties(
   royalty_rate float(5,3),
   royalty_start_date date NOT NULL,
   royalty_end_date date NOT NULL,
-  notes varchar(2000)
+  notes varchar(2000),
+  constraint royalty_payee_is_worker FOREIGN KEY (payee) REFERENCES workers (worker)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into royalties(payee, payment, royalty_basis, royalty_scope, royalty_rate, royalty_start_date, royalty_end_date, notes) values

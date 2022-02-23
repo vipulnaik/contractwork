@@ -12,7 +12,8 @@ create table payments(
   overhead float(7,2) not null,
   received_payment float(7,2) not null,
   private tinyint(1) default 0,
-  notes varchar(2000)
+  notes varchar(2000),
+  constraint payee_is_worker FOREIGN KEY (payee) REFERENCES workers (worker)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into payments(payment_method, payee, intermediary, sent_date, payment_notice_receipt_date, cashout_request_date, receipt_date, payment, sent_payment, overhead, received_payment,notes) values

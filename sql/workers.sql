@@ -1,6 +1,6 @@
 create table workers(
   worker_id int(11) not null auto_increment primary key,
-  worker varchar(40) not null,
+  worker varchar(40) unique not null,
   country varchar(20) not null,
   wikipedia_username varchar(40),
   timelines_wiki_username varchar(40),

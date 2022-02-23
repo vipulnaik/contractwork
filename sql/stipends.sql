@@ -7,7 +7,8 @@ create table stipends(
   stipend_award_date date,
   notes varchar(2000),
   hours_logged float(13,2) DEFAULT NULL,
-  total_work_hours int(11) DEFAULT NULL
+  total_work_hours int(11) DEFAULT NULL,
+  constraint stipend_payee_is_worker FOREIGN KEY (payee) REFERENCES workers (worker)
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, total_work_hours) values
