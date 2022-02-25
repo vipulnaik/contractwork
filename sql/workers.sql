@@ -22,7 +22,7 @@ create table workers(
   worker_file varchar(100),
   worker_own_file varchar(100),
   unique key worker(`worker`)
-) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into workers(worker, country, wikipedia_username, timelines_wiki_username, facebook_username, email_id, preferred_payment_method, recruiter, contact_method, notes, worker_file) values
   ('Amana Rice','United States',NULL,NULL,'omgitsmana','omgitsmana@gmail.com','PayPal','Issa Rice','outbound in-person','Amana Rice is the sister of Issa Rice, who recruited her based on that connection.','amana-list.mediawiki'),

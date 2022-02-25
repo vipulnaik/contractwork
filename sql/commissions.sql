@@ -7,9 +7,9 @@ create table commissions(
   commission_validity_start date,
   commission_validity_end date,
   notes varchar(2000)
-  constraint earner_is_worker FOREIGN KEY (earner) REFERENCES workers (worker),
-  constraint commission_receiver_is_worker FOREIGN KEY (commission_receiver) REFERENCES workers (worker)
-) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+  constraint earner_is_worker foreign key (earner) references workers (worker),
+  constraint commission_receiver_is_worker foreign key (commission_receiver) references workers (worker)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into commissions(earner,commission_receiver,commission,commission_validity_start,commission_validity_end,commission_reason) values 
   ('Adrian Ulloa','Issa Rice',0.10,'2016-08-16',NULL,'Guide'),

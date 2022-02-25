@@ -3,19 +3,19 @@ create table tasks(
   worker varchar(40),
   task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','PredictionBook','Facebook', 'Devec subwiki', 'Demography subwiki', 'Devec/Demography data portal','AI Watch','People repo','Wikipedia spotlight','Computing data project','Cause Prioritization Wiki','Org Watch','Learning subwiki','analytics.vipulnaik.com','Wikiquote','AI safety wiki','None') default 'Timelines wiki',
   task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry','Task listing','Content migration','Timelines page creation','Timelines page update','Worker onboarding and assistance','On-the-ground investigation','People watching','Career planning','Domain renewal'),
-  task_receptacle varchar(200) NOT NULL,
-  task_receptacle_url varchar(200) NOT NULL,
-  completion_date date NOT NULL,
-  payment float(7,2) NOT NULL,
-  topic varchar(100) NOT NULL,
-  format varchar(100) NOT NULL,
-  notes varchar(2000) DEFAULT NULL,
+  task_receptacle varchar(200) not null,
+  task_receptacle_url varchar(200) not null,
+  completion_date date not null,
+  payment float(7,2) not null,
+  topic varchar(100) not null,
+  format varchar(100) not null,
+  notes varchar(2000) default null,
   private boolean DEFAULT false,
   language enum('en','es','ru','de','ja','fr','zh','it','pl','pt','nl','id','tr','ar','cs','sv','fa','ko','fi','uk','hu','th','bg','vi','he','av','no','az','ro','da','el','ca','sr','hr','simple','sk','kk','lt','bs','et','hi','sl','sh','af','ms','ka','tl','lv','hy','ta','sq','eu','bi','zh-yue','eo','mk','bn','gl','ml','ur','an','be','nn','te','ak','la','arz','mr','is','mn','war','ceb','cy','oc','kn','bug','br','uz','sco','ast','lb','ky','als','zh-min-nan','si','ga','jv','sw','fy','tt','io','ckb','pa','bar','ne','ba','scn','as','am','pnb','ku','wuu','nds','yi','ia','my','bm','qu','gu','su','yo','tg','lmo','mg','fo','ilo','vo','so','li','bh','cv','pms','ps','or','gd','new','ht','ce','vec','sa','diq','hsb','sah','frr','zh-classical','nah','nds-nl','bat-smg','os','ang','hak','hif','km','wa','gv','pam','mzn','gan','nap','lad','gn','bpy','vls','fiu-vro','tk','dsb','rue','mhr','map-bms','eml','szl','se','ext','stq','cdo','bo','min','sc','co','mt','bcl','sd','ksh','frp','vep','csb','nrm','lo','ug','lij','mai','kw','pap','fur','bxr','ace','dv','ie','kv','mi','crh','cbk-zam','ay','zea','rm','ln','krc','mwl','pdc','mrj','lez','udm','rw','pcd','kab','myv','arc','jbo','xal','nov','roa-tara','sn','bjn','ig','kaa','kl','nv','nso','pag','wo','tpi','roa-rup','chr','haw','na','tet','gom','za','kbd','ab','pi','cu','zu','iu','kg','ts','koi','mdf','pih','ch','om','sm','ki','lbe','ha','pnt','tyv','rmy','srn','tw','xh','chy','ss','ltg','ee','ty','got','ny','glk','dz','ik','tum','st','to','fj','ff','sg','tn','ti','lg','ks','rn','mo','ve','cr','kr','ng','aa','cho','mus','hz','mh','kj','ho','ii') COLLATE utf8_unicode_ci DEFAULT 'en',
   payer enum('Vipul Naik','Peter Hurford','Alex Flint','Berkeley Existential Risk Initiative','Centre for Effective Altruism','Andy Matuschak') default 'Vipul Naik',
-  minutes_spent int(11) DEFAULT NULL,
-  constraint worker FOREIGN KEY (worker) REFERENCES workers (worker)
-) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+  minutes_spent int(11) default null,
+  constraint worker foreign key (worker) references workers (worker)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 /* Milo King's Wikipedia page updates */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values

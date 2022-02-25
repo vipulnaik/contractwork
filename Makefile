@@ -1,3 +1,42 @@
+MYSQL_ARGS=
+DATABASE=contractwork
+
+.PHONY: init
+init:
+	mkdir -p access-portal/images
+	mysql $(MYSQL_ARGS) -e "create database $(DATABASE);"
+
+.PHONY: reset
+reset:
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists workers;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists tasks;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists payments;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists commissions;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists royalties;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists stipends;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists payer_payments;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists tax_adjustments;"
+
+.PHONY: read
+read: read_public read_private
+
+.PHONY: read_public
+read_public:
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/workers.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/tasks.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/payments.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/commissions.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/royalties.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/stipends.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/payer_payments.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/tax_adjustments.sql
+
+.PHONY: read_private
+read_private:
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/private/workers.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/private/tasks.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/private/payments.sql
+
 .PHONY: fetch_table_sorting
 fetch_table_sorting:
 	curl -Lo access-portal/jquery-3.1.1.min.js \

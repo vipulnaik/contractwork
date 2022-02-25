@@ -20,6 +20,44 @@ cp access-portal/backend/globalVariables/{dummyPasswordFile.inc,passwordFile.inc
 vi access-portal/backend/globalVariables/passwordFile.inc # change to add database login info
 ```
 
+The database name is present both in dummyPasswordFile.inc and in the
+Makefile, so if you want a name other than `contractwork`, you should
+edit the name in both places.
+
+You can create the `contractwork` database either directly in MySQL or
+by running this from the root folder of this repository, after
+updating MYSQL_ARGS in the Makefile (such as `-u<username>
+-p<password>`):
+
+```bash
+make init
+```
+
+Instead of editing the Makefile, you can also pass in the arguments to each make:
+
+```bash
+make MYSQL_ARGS=<args> init
+```
+
+### Loading and refreshing data
+
+Once you already have the `contractwork` SQL database set up, you can
+update the MYSQL_ARGS in the Makefile (such as `-u<username>
+-p<password>`) and you can then load the public portion of the data using:
+
+```bash
+make reset && make read_public
+```
+
+Instead of editing the Makefile, you can also pass in the arguments to each make:
+
+```bash
+make MYSQL_ARGS=<args> reset && make MYSQL_ARGS=<args> read_public
+```
+
+If you have access to the private folders (that are *not* part of this
+repository) you may replace `read_public` with `read`.
+
 ### Table sorting
 
 To get files for table sorting, run:

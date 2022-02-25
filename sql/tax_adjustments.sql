@@ -3,8 +3,9 @@ create table tax_adjustments(
   worker varchar(40),
   completion_year varchar(4) not null,
   payment_finalization_year varchar(4) not null,
-  adjustment float(7,2) not null
- ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+  adjustment float(7,2) not null,
+  constraint adjustment_is_for_worker foreign key (worker) references workers (worker)
+ ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into tax_adjustments(worker, completion_year, payment_finalization_year, adjustment) values
   ('Issa Rice','2016','2017',480);

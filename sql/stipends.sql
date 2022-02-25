@@ -6,10 +6,10 @@ create table stipends(
   stipend_end_date date NOT NULL,
   stipend_award_date date,
   notes varchar(2000),
-  hours_logged float(13,2) DEFAULT NULL,
-  total_work_hours int(11) DEFAULT NULL,
-  constraint stipend_payee_is_worker FOREIGN KEY (payee) REFERENCES workers (worker)
-) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+  hours_logged float(13,2) default null,
+  total_work_hours int(11) default null,
+  constraint stipend_payee_is_worker foreign key (payee) references workers (worker)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, total_work_hours) values
   ('Issa Rice',700,'2016-02-01','2016-02-28','2016-12-28','Paid after long deferral as end-of-year award. Constitutes 100% of stipend for that month', NULL, NULL),

@@ -5,11 +5,11 @@ create table royalties(
   royalty_basis enum('Wikipedia pageviews','Quora views','Cause Prioritization Wiki pageviews','Payout patience') not null,
   royalty_scope varchar(40) not null,
   royalty_rate float(5,3),
-  royalty_start_date date NOT NULL,
-  royalty_end_date date NOT NULL,
+  royalty_start_date date not null,
+  royalty_end_date date not null,
   notes varchar(2000),
-  constraint royalty_payee_is_worker FOREIGN KEY (payee) REFERENCES workers (worker)
-) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+  constraint royalty_payee_is_worker foreign key (payee) references workers (worker)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into royalties(payee, payment, royalty_basis, royalty_scope, royalty_rate, royalty_start_date, royalty_end_date, notes) values
   ('Issa Rice',98,'Cause Prioritization Wiki pageviews','All pageviews to date',0.01,'2015-01-01','2015-07-31','Rates for pageviews. Adjustment made for post-spam-filtering pageview counts'),
