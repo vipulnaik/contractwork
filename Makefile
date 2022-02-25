@@ -8,7 +8,6 @@ init:
 
 .PHONY: reset
 reset:
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists workers;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists tasks;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists payments;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists commissions;"
@@ -16,6 +15,7 @@ reset:
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists stipends;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists payer_payments;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists tax_adjustments;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists workers;"
 
 .PHONY: read
 read: read_public read_private
