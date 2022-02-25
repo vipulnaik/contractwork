@@ -6,7 +6,7 @@ create table commissions(
   commission_reason enum('Recruiter','Guide') not null,
   commission_validity_start date,
   commission_validity_end date,
-  notes varchar(2000)
+  notes varchar(2000),
   constraint earner_is_worker foreign key (earner) references workers (worker),
   constraint commission_receiver_is_worker foreign key (commission_receiver) references workers (worker)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
