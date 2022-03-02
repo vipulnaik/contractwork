@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2022 ==
 
-Total money earned as income: $1083
+Total money earned as income: $1719
 
 Forward balance carried over from 2021: ($2571.99)
 
 Payment made: $5244.34
 
-Net payment due: ($6733.33)
+Net payment due: ($6097.33)
 
 === New timelines (Timelines wiki) ===
 
@@ -40,11 +40,13 @@ Total so far: $135
 
 === Stipends ===
 
-Total so far: $708
+Total so far: $1344
 
 The rule of thumb for stipend is: $4/hour
 
 * January: $708. The payment is at $4/hour for all 177 hours worked. Total time spent was as follows: 150 hours on Timelines Wiki and 27 hours on Org Watch.
+
+* February: $636. The payment is at $4/hour for 159 hours eligible for stipend. Total time spent was as follows: 165 hours on Timelines Wiki (including 5 hours exempt on timeline of GiveDirectly that are exempt from monthly cap, and 150 hours per the monthly cap), and 4 hours on Org Watch.
 
 === Payments made ===
 
