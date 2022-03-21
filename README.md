@@ -11,7 +11,7 @@ If you are a new contributor or contract worker who works on Wikipedia content c
 ## Setting up
 
 This section is for people who want to set up a local mirror of the
-contract work portal (e.g. for development purposes) or want to load
+contract work portal (e.g., for development purposes) or want to load
 up the data into a local database to run their own queries.
 
 Note that the `passwordFile.inc` file in
