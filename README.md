@@ -13,7 +13,10 @@ If you are a new contributor or contract worker who works on Wikipedia content c
 This section is for people who want to set up a local mirror of the contract
 work portal (e.g. for development purposes).
 
-Note that the `passwordFile.inc` file in `access-portal/backend/globalVariables` is excluded from the Git repository, but you can modify a corresponding dummy password file at [`dummyPasswordFile.inc`](https://github.com/vipulnaik/contractwork/blob/master/access-portal/backend/globalVariables/dummyPasswordFile.inc):
+Note that the `passwordFile.inc` file in
+`access-portal/backend/globalVariables` is excluded from the Git
+repository, but you can modify a corresponding dummy password file at
+[`dummyPasswordFile.inc`](https://github.com/vipulnaik/contractwork/blob/master/access-portal/backend/globalVariables/dummyPasswordFile.inc):
 
 ```bash
 cp access-portal/backend/globalVariables/{dummyPasswordFile.inc,passwordFile.inc}
