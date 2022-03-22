@@ -37,7 +37,8 @@ updating MYSQL_ARGS in the Makefile (such as `-u<username>
 make init
 ```
 
-Instead of editing the Makefile, you can also pass in the arguments to each make:
+Instead of editing the Makefile, you can also pass in the arguments to
+each make:
 
 ```bash
 make MYSQL_ARGS=<args> init
