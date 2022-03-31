@@ -1,7 +1,7 @@
 <?php
 
-$currentTaxYear = '2021';
-$mostRecentCompletedTaxYear = '2020';
+$currentTaxYear = '2022';
+$mostRecentCompletedTaxYear = '2021';
 
 $s1scLineNumber['2018'] = 12;
 $s1TotalIncomeLineNumber['2018'] = 22;
