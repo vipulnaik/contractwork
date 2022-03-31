@@ -119,9 +119,9 @@ foreach(array_reverse($yearList) as $year) {
         print "<p>Return to Form 1040, Schedule 1. For line ".$s1sseLineNumber[$year].", enter the same value as on line 13 of Form 1040, Schedule SE, which in turn is half of the value on line 12, and should work out to $".number_format(0.5*$selfEmploymentTax,2).". The same value will likely go into line ".$s1TotalDeductionLineNumber[$year].", assuming none of the rest of the adjustments apply to you.</p>";
         print "<p>Now return to Form 1040.</p>";
 	if ($year >= "2019") {
-          print "<p>On line ".$adjustmentsToIncomeLineNumber[$year]." enter the value that you just filled in in Schedule 1, line ".$s1TotalDeductionLineNumber[$year].", i.e., ".number_format(0.5*$selfEmploymentTax,2).".</p>";
+          print "<p>On line(s) ".$adjustmentsToIncomeLineNumber[$year]." enter the value that you just filled in in Schedule 1, line ".$s1TotalDeductionLineNumber[$year].", i.e., ".number_format(0.5*$selfEmploymentTax,2).".</p>";
         }
-        print "<p>On line ".$agiLineNumber[$year].", enter the value of line $totalIncomeLineNumber[$year], which is $".number_format($incomeForTaxPurposes, 2).", minus the total deduction from Schedulee 1, line ".$s1TotalDeductionLineNumber[$year].", which is $".number_format(0.5*$selfEmploymentTax,2).". The difference should work out to $".number_format($incomeForTaxPurposes - 0.5 * $selfEmploymentTax, 2).", or approximately (100 - 0.5 * 14.13)% of your income.</p>";
+        print "<p>On line ".$agiLineNumber[$year].", enter the value of line $totalIncomeLineNumber[$year], which is $".number_format($incomeForTaxPurposes, 2).", minus the total deduction from Schedule 1, line ".$s1TotalDeductionLineNumber[$year].", which is $".number_format(0.5*$selfEmploymentTax,2).". The difference should work out to $".number_format($incomeForTaxPurposes - 0.5 * $selfEmploymentTax, 2).", or approximately (100 - 0.5 * 14.13)% of your income.</p>";
       }
       if ($incomeForTaxPurposes < $standardDeduction[$year]/(1 - 0.5 * 0.1413)) {
         if ($year <= '2017') {
@@ -150,7 +150,7 @@ foreach(array_reverse($yearList) as $year) {
         if ($year == "2018") {
           print '<p>Now go to '.hyperlinkedTaxForm('2018', 'f1040s4', 'Form 1040, Schedule 4').'. Fill in line 57; this should match line 12 of Schedule SE, which is $'.number_format($selfEmploymentTax, 2).'. Enter the same amount on line 64.</p>';
         } else {
-          print 'Now go to '.hyperlinkedTaxForm($year, 'f1040s2', 'Form 1040, Schedule 2').'. Fill in line 4; this should match line 12 of Schedule SE, which is $'.number_format($selfEmploymentTax, 2).'. Enter the same amount on line 10.</p>';
+          print 'Now go to '.hyperlinkedTaxForm($year, 'f1040s2', 'Form 1040, Schedule 2').'. Fill in line 4; this should match line 12 of Schedule SE, which is $'.number_format($selfEmploymentTax, 2).'. Enter the same amount on the line for the total, i.e., line '.$s2TotalLineNumber[$year].'.</p>';
         }
         print "<p>Now return to Form 1040. On line ".$setInMainFormLineNumber[$year].", enter the same value, namely $".number_format($selfEmploymentTax, 2).". On line ".$totalTaxLineNumber[$year].", enter the totals of lines ".$setInMainFormLineNumber[$year]." and ".$taxLineNumber[$year].", which should work out to $".number_format($totalTaxAssumingNoExemption, 2).". This is the total amount of tax you owe.</p>";
         if ($year == "2018") {

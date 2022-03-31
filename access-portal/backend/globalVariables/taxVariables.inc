@@ -19,9 +19,14 @@ $s1sseLineNumber['2020'] = 14;
 $s1TotalDeductionLineNumber['2020'] = 22;
 
 $s1scLineNumber['2021'] = 3;
-$s1TotalIncomeLineNumber['2021'] = 9;
-$s1sseLineNumber['2021'] = 14;
-$s1TotalDeductionLineNumber['2021'] = 22;
+$s1TotalIncomeLineNumber['2021'] = 10;
+$s1sseLineNumber['2021'] = 15;
+$s1TotalDeductionLineNumber['2021'] = 26;
+
+$s1scLineNumber['2022'] = 3;
+$s1TotalIncomeLineNumber['2022'] = 10;
+$s1sseLineNumber['2022'] = 15;
+$s1TotalDeductionLineNumber['2022'] = 26;
 
 $s1InMainFormLineNumber['2018'] = '6 (inner blank)';
 $totalIncomeLineNumber['2018'] = 6;
@@ -59,7 +64,7 @@ $totalPaymentsLineNumber['2020'] = 33;
 
 $s1InMainFormLineNumber['2021'] = 8;
 $totalIncomeLineNumber['2021'] = 9;
-$adjustmentsToIncomeLineNumber['2021'] = '10a and 10c';
+$adjustmentsToIncomeLineNumber['2021'] = '10';
 $agiLineNumber['2021'] = 11;
 $standardOrItemizedDeductionLineNumber['2021'] = 12;
 $totalDeductionLineNumber['2021'] = 14;
@@ -69,10 +74,28 @@ $setInMainFormLineNumber['2021'] = 23;
 $totalTaxLineNumber['2021'] = 24;
 $totalPaymentsLineNumber['2021'] = 33;
 
+$s1InMainFormLineNumber['2022'] = 8;
+$totalIncomeLineNumber['2022'] = 9;
+$adjustmentsToIncomeLineNumber['2022'] = '10';
+$agiLineNumber['2022'] = 11;
+$standardOrItemizedDeductionLineNumber['2022'] = 12;
+$totalDeductionLineNumber['2022'] = 14;
+$taxableIncomeLineNumber['2022'] = 15;
+$taxLineNumber['2022'] = 16;
+$setInMainFormLineNumber['2022'] = 23;
+$totalTaxLineNumber['2022'] = 24;
+$totalPaymentsLineNumber['2022'] = 33;
+
 $setName['2018'] = 'Schedule SE - Self-Employment Tax Part B - Taxpayer';
 $setName['2019'] = 'Schedule SE - Self-Employment Tax Part B - Taxpayer';
 $setName['2020'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
 $setName['2021'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
+
+$s2TotalLineNumber['2018'] = 10;
+$s2TotalLineNumber['2019'] = 10;
+$s2TotalLineNumber['2020'] = 10;
+$s2TotalLineNumber['2021'] = 21;
+$s2TotalLineNumber['2022'] = 21;
 
 $standardDeduction['2015'] = 6200;
 $standardDeduction['2016'] = 6300;
