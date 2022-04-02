@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2022 ==
 
-Total money earned as income: $1719
+Total money earned as income: $2644
 
 Forward balance carried over from 2021: ($2571.99)
 
 Payment made: $5244.34
 
-Net payment due: ($6097.33)
+Net payment due: ($5172.33)
 
 === New timelines (Timelines wiki) ===
 
@@ -34,19 +34,23 @@ Total so far: $240
 
 === Org Watch ===
 
-Total so far: $135
+Total so far: $360
 
 * January: $135. 27 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-01-01&until=2022-01-31 for more details. The first commit for the month was on 2022-01-03 and the last commit for the month was on 2022-01-31.
 
+* March: $225. 25 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-03-01&until=2022-03-31 for more details. The first commit for the month was on 2022-03-11 and the last commit for the month was on 2022-03-27.
+
 === Stipends ===
 
-Total so far: $1344
+Total so far: $2044
 
 The rule of thumb for stipend is: $4/hour
 
 * January: $708. The payment is at $4/hour for all 177 hours worked. Total time spent was as follows: 150 hours on Timelines Wiki and 27 hours on Org Watch.
 
 * February: $636. The payment is at $4/hour for 159 hours eligible for stipend. Total time spent was as follows: 165 hours on Timelines Wiki (including 5 hours exempt on timeline of GiveDirectly that are exempt from monthly cap, and 150 hours per the monthly cap), and 4 hours on Org Watch.
+
+* March: $700. The payment is at $4/hour for 175 hours eligible for stipend. Total time spent was as follows: 161 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.
 
 === Payments made ===
 
