@@ -52,6 +52,8 @@ function hyperlinkedTaxForm($year, $slug, $anchorText) {
 
 print '<p>For more information on taxes, learn about <a href="https://en.wikipedia.org/wiki/Form_1040">Form 1040</a> and <a href="https://en.wikipedia.org/wiki/Form_1099-MISC">Form 1099-MISC</a>.</p>'."\n";
 
+print 'Pass the parameter <code>incomeForTaxPurposes</code> in the URL to change the income used below to an arbitrary amount (<a href="/taxes.php?worker=Issa+Rice&amp;incomeForTaxPurposes=10000.05">example</a>); this will use the same amount for all years.';
+
 print '<p><a href="/worker.php?worker='.urlencode($worker).'">Back to worker page</a>'."\n";
 
 print "<ul>\n";
@@ -72,6 +74,10 @@ foreach(array_reverse($yearList) as $year) {
     $income = $totalPaymentAwarded[$year];
     $incomeForTaxPurposes = $income + $upwardTaxAdjustmentForYear[$year] - $downwardTaxAdjustmentForYear[$year];
     $receivedIncome = $totalPaymentMadeByYear[$year] - $reimbursementDueInYear[$year];
+    if ($_REQUEST['incomeForTaxPurposes'] ?? '') {
+      $incomeForTaxPurposes = floatval($_REQUEST['incomeForTaxPurposes']);
+      $receivedIncome = $incomeForTaxPurposes;
+    }
     $selfEmploymentTax = 0.1413 * $incomeForTaxPurposes;
     if (0.9235 * $incomeForTaxPurposes < $selfEmploymentFilingThreshold[$year]) {
       $selfEmploymentTax = 0;
