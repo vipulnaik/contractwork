@@ -1083,7 +1083,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2021-12-29',4.47,'Organizational structures and dynamics','N/A','Spent 28 minutes at $9.50/hour assisting Sebastian. Work done 2021-12-15 to 2021-12-29.',28),
   /* Tasks added for January 2022 */
   ('Issa Rice','AI Watch','Consulting','N/A','N/A','2022-01-04',6.65,'AI safety','N/A','Work done 2022-01-04. This comprises work talking to a potential new contributor to AI Watch.',42),
-  ('Issa Rice','Org Watch','Coding','Limit display on the AI Watch and Org Watch homepages to top 300 + ties with the 300th','https://github.com/riceissa/aiwatch/issues/98','2022-01-30',12.07,'Organizational structures and dynamics','Code','Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98',76);
+  ('Issa Rice','Org Watch','Coding','Limit display on the AI Watch and Org Watch homepages to top 300 + ties with the 300th','https://github.com/riceissa/aiwatch/issues/98','2022-01-30',12.07,'Organizational structures and dynamics','Code','Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98',76),
+  /* Tasks added for March 2022 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2022-03-15',1.62,'Organizational structures and dynamics','Data','Spent 10 minutes at $9.50/hour assisting Sebastian. Work done 2022-03-15.',10),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2022-03-27',3.61,'Organizational structures and dynamics','Data','Spent 23 minutes at $9.50/hour on some data fixes (including file renames). Work done 2022-03-11 to 2022-03-27.',23);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2022 ==
 
-Total money earned as income (taxable as income for 2022): $46.44
+Total money earned as income (taxable as income for 2022): $89.92
 
 Payment made: $510.76
 
 Carryover payment due from 2021: $510.76
 
-Net payment due: $46.44
+Net payment due: $89.92
 
 === Work on AI Watch ===
 
@@ -38,17 +38,23 @@ Total so far: $6.65
 
 === Work on Org Watch ===
 
-Total so far: $12.07
+Total so far: $17.30
 
-* January: $12.07. Spent 1 hour 16 minutes at $9.50/hour. Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98
+* Work on Org Watch in January: $12.07. Spent 1 hour 16 minutes at $9.50/hour. Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98
+
+* Work on Org Watch in March (assisting Sebastian): $1.62. Spent 10 minutes at $9.50/hour assisting Sebastian. Work done 2022-03-15.
+
+* Work on Org Watch in March (general): $3.61. Spent 23 minutes at $9.50/hour on some data fixes (including file renames). Work done 2022-03-11 to 2022-03-27.
 
 === Stipends ===
 
-Total so far: $27.72
+Total so far: $65.97
 
 * January: $22.95. 2.55 hours at $9/hour
 
 * February: $4.77. 0.53 hours at $9/hour
+
+* March: $38.25. 4.25 hours at $9/hour
 
 === Payments made ===
 
@@ -92,7 +98,7 @@ Total so far: $55.97
 
 * May: $1.24. Spent 8 minutes at $9.50/hour. Work done 2021-05-31.
 
-* June: $10.64. Spent 1 hour 7 minutes at $9.50/hour including 35 minutes assisting Sebastiaon. Work done 2021-06-02 to 2021-06-11.
+* June: $10.64. Spent 1 hour 7 minutes at $9.50/hour including 35 minutes assisting Sebastian. Work done 2021-06-02 to 2021-06-11.
 
 * July: $1.14. Spent 3 minutes at $9.50/hour assisting Sebastian. Work done 2021-07-18 to 2021-07-20.
 
