@@ -32,6 +32,14 @@ Total so far: $240
 
 * [https://timelines.issarice.com/wiki/Timeline_of_cryptocurrency_and_philanthropy Timeline of cryptocurrency and philanthropy]: $240. Completed January 30, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cryptocurrency_and_philanthropy&oldid=62507 (2022-01-31 04:07 UTC, 107992 bytes, 6 sample questions, 5 rows in big picture, 1 visual data chart with corresponding data table, 110 rows in full timeline)
 
+== Tentative pending payments ===
+
+Total so far: $1010
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Moderna Timeline of Moderna]: $530. Completed April 27, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Moderna&oldid=65089 (2022-04-27 19:08 UTC, 155437 bytes, 6 sample questions, 5 rows in big picture, 3 visual data charts, 166 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_BioNTech Timeline of BioNTech]: $480. Completed April 30, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_BioNTech&oldid=65169 (2022-05-01 05:29 UTC, 152094 bytes, 7 sample questions, 3 rows in big picture, 12 rows in summary by year, 143 rows in full timeline)
+
 === Org Watch ===
 
 Total so far: $360
