@@ -18,25 +18,19 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2022 ==
 
-Total money earned as income: $2644
+Total money earned as income: $4566
 
 Forward balance carried over from 2021: ($2571.99)
 
 Payment made: $5244.34
 
-Net payment due: ($5172.33)
+Net payment due: ($3250.33)
 
 === New timelines (Timelines wiki) ===
 
-Total so far: $240
+Total so far: $1250
 
 * [https://timelines.issarice.com/wiki/Timeline_of_cryptocurrency_and_philanthropy Timeline of cryptocurrency and philanthropy]: $240. Completed January 30, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cryptocurrency_and_philanthropy&oldid=62507 (2022-01-31 04:07 UTC, 107992 bytes, 6 sample questions, 5 rows in big picture, 1 visual data chart with corresponding data table, 110 rows in full timeline)
-
-== Tentative pending payments ===
-
-Total so far: $1010
-
-Not yet accepted:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Moderna Timeline of Moderna]: $530. Completed April 27, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Moderna&oldid=65089 (2022-04-27 19:08 UTC, 155437 bytes, 6 sample questions, 5 rows in big picture, 3 visual data charts, 166 rows in full timeline)
 
@@ -44,15 +38,17 @@ Not yet accepted:
 
 === Org Watch ===
 
-Total so far: $360
+Total so far: $576
 
 * January: $135. 27 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-01-01&until=2022-01-31 for more details. The first commit for the month was on 2022-01-03 and the last commit for the month was on 2022-01-31.
 
 * March: $225. 25 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-03-01&until=2022-03-31 for more details. The first commit for the month was on 2022-03-11 and the last commit for the month was on 2022-03-27.
 
+* April: $216. 24 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-04-01&until=2022-04-30 for more details. The first commit for the month was on 2022-04-02 and the last commit for the month was on 2022-04-30.
+
 === Stipends ===
 
-Total so far: $2044
+Total so far: $2740
 
 The rule of thumb for stipend is: $4/hour
 
@@ -61,6 +57,8 @@ The rule of thumb for stipend is: $4/hour
 * February: $636. The payment is at $4/hour for 159 hours eligible for stipend. Total time spent was as follows: 165 hours on Timelines Wiki (including 5 hours exempt on timeline of GiveDirectly that are exempt from monthly cap, and 150 hours per the monthly cap), and 4 hours on Org Watch.
 
 * March: $700. The payment is at $4/hour for 175 hours eligible for stipend. Total time spent was as follows: 161 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.
+
+* March: $696. The payment is at $4/hour for 174 hours eligible for stipend. Total time spent was as follows: 159 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 24 hours on Org Watch.
 
 === Payments made ===
 
