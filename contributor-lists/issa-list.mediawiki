@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2022 ==
 
-Total money earned as income (taxable as income for 2022): $89.92
+Total money earned as income (taxable as income for 2022): $164.40
 
 Payment made: $510.76
 
 Carryover payment due from 2021: $510.76
 
-Net payment due: $89.92
+Net payment due: $164.40
 
 === Work on AI Watch ===
 
@@ -38,7 +38,7 @@ Total so far: $6.65
 
 === Work on Org Watch ===
 
-Total so far: $17.30
+Total so far: $26.80
 
 * Work on Org Watch in January: $12.07. Spent 1 hour 16 minutes at $9.50/hour. Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98
 
@@ -46,15 +46,33 @@ Total so far: $17.30
 
 * Work on Org Watch in March (general): $3.61. Spent 23 minutes at $9.50/hour on some data fixes (including file renames). Work done 2022-03-11 to 2022-03-27.
 
+* Work on Org Watch in April (assisting Sebastian): $1.71. Spent 11 minutes at $9.50/hour assisting Sebastian. Work done 2022-04-04 to 2022-04-30.
+
+* Work on Org Watch in April (general): $7.79. This includes work on tweaking the dark mode previously implemented, as well as other minor fixes. Work done 2022-04-10 to 2022-04-27.
+
+=== Work on Donations list website (DLW) ===
+
+Total so far: $18.81
+
+* [https://github.com/vipulnaik/donations/pull/140 Add theme changer]: $18.81. Work done 2022-04-10 at https://github.com/vipulnaik/donations/pull/140 extending dark mode, previously developed for AI Watch / Org Watch, to the donations list website.
+
+=== Work on contract work for Vipul Naik ===
+
+Total so far: $2.97
+
+* [https://github.com/vipulnaik/contractwork/pull/25 Implement arbitrary income feature]: $2.97. Work done 2022-04-02 at https://github.com/vipulnaik/contractwork/pull/25 to implement additional functionality for the tax guidance page; this functionality was mainly for Issa''s own use but Vipul promised to cover the time cost.
+
 === Stipends ===
 
-Total so far: $65.97
+Total so far: $109.17
 
 * January: $22.95. 2.55 hours at $9/hour
 
 * February: $4.77. 0.53 hours at $9/hour
 
 * March: $38.25. 4.25 hours at $9/hour
+
+* April: $43.20. 4.80 hours at $9/hour
 
 === Payments made ===
 

@@ -1090,7 +1090,12 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Coding','Limit display on the AI Watch and Org Watch homepages to top 300 + ties with the 300th','https://github.com/riceissa/aiwatch/issues/98','2022-01-30',12.07,'Organizational structures and dynamics','Code','Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98',76),
   /* Tasks added for March 2022 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2022-03-15',1.62,'Organizational structures and dynamics','Data','Spent 10 minutes at $9.50/hour assisting Sebastian. Work done 2022-03-15.',10),
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2022-03-27',3.61,'Organizational structures and dynamics','Data','Spent 23 minutes at $9.50/hour on some data fixes (including file renames). Work done 2022-03-11 to 2022-03-27.',23);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2022-03-27',3.61,'Organizational structures and dynamics','Data','Spent 23 minutes at $9.50/hour on some data fixes (including file renames). Work done 2022-03-11 to 2022-03-27.',23),
+  /* Tasks added for April 2022 */
+  ('Issa Rice','Contract work for Vipul Naik','Coding','Implement arbitrary income feature','https://github.com/vipulnaik/contractwork/pull/25','2022-04-02',2.97,'Taxes','Code','Work done 2022-04-02 at https://github.com/vipulnaik/contractwork/pull/25 to implement additional functionality for the tax guidance page; this functionality was mainly for Issa''s own use but Vipul promised to cover the time cost.',21),
+  ('Issa Rice','Donations list website','Coding','Add theme changer','https://github.com/vipulnaik/donations/pull/140','2022-04-10',18.81,'Philanthropy','Code','Work done 2022-04-10 at https://github.com/vipulnaik/donations/pull/140 extending dark mode, previously developed for AI Watch / Org Watch, to the donations list website.',119),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2022-04-30',1.71,'Organizational structures and dynamics','Data','Spent 11 minutes at $9.50/hour assisting Sebastian. Work done 2022-04-04 to 2022-04-30.',11),
+  ('Issa Rice','Org Watch','Coding','N/A','N/A','2022-04-27',7.79,'Organizational structures and dynamics','Code','This includes work on tweaking the dark mode previously implemented, as well as other minor fixes. Work done 2022-04-10 to 2022-04-27.',49);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
