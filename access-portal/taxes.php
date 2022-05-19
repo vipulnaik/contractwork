@@ -1,5 +1,6 @@
 <?php
 include_once('doctype.inc');
+print '<script src="change-theme.js"></script>';
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 include_once("backend/globalVariables/taxVariables.inc");
@@ -8,10 +9,13 @@ if (!empty($_REQUEST['worker'])) {
   $worker = $_REQUEST['worker'];
 }
 print "<title>$worker tax details: Contract work for Vipul Naik</title>";
+print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
+include_once('style.inc');
 include_once('analytics.inc');
 print '</head>';
 print '<body>';
 print "<h3>$worker tax details: Contract work for Vipul Naik</h3>";
+print '<p><span id="changeThemeMenu" style="display: none;">Change <a href="javascript:;" onclick="change_theme_color()">color</a></span>   &thinsp;<!-- blank space to prevent cumulative layout shift --></p>';
 $workerSelectQuery = "select * from workers where worker=? and private = false;";
 $stmt = $mysqli->prepare($workerSelectQuery);
 $stmt->bind_param("s", $worker);

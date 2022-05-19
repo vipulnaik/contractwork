@@ -1,5 +1,6 @@
 <?php
 include_once('doctype.inc');
+print '<script src="change-theme.js"></script>';
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
 include_once("backend/stringFunctions.inc");
@@ -7,6 +8,7 @@ include_once('backend/graphing.inc');
 include_once('analytics.inc');
 include_once('strip-commas.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
+include_once('style.inc');
 print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
 print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
 $format = '';
@@ -32,7 +34,7 @@ if ($format != '') {
   print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
   print "<h3>Contract work (all tasks) for Vipul Naik</h3>";
 }
-
+print '<p><span id="changeThemeMenu" style="display: none;">Change <a href="javascript:;" onclick="change_theme_color()">color</a></span>   &thinsp;<!-- blank space to prevent cumulative layout shift --></p>';
 $taskSelectQuery = "select * from tasks where $formatRegexMatcher and private = false;";
 $stmt = $mysqli->prepare($taskSelectQuery);
 if ($formatRegexMatcherParams) {
