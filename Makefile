@@ -4,7 +4,7 @@ DATABASE=contractwork
 .PHONY: init
 init:
 	mkdir -p access-portal/images
-	mysql $(MYSQL_ARGS) -e "create database $(DATABASE);"
+	mysql $(MYSQL_ARGS) -e "create database if not exists $(DATABASE);"
 
 .PHONY: reset
 reset:
