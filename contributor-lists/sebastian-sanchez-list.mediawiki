@@ -36,6 +36,12 @@ Total so far: $1250
 
 * [https://timelines.issarice.com/wiki/Timeline_of_BioNTech Timeline of BioNTech]: $480. Completed April 30, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_BioNTech&oldid=65169 (2022-05-01 05:29 UTC, 152094 bytes, 7 sample questions, 3 rows in big picture, 12 rows in summary by year, 143 rows in full timeline)
 
+=== Tentative pending payments ===
+
+Total so far: $450
+
+* [https://timelines.issarice.com/wiki/Timeline_of_contract_research_organizations Timeline of contract research organizations]: $450. Completed May 31, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contract_research_organizations&oldid=66103 (2022-06-01 04:45 UTC, 135678 bytes, 5 sample questions, 3 rows in big picture, 4 visual data charts, 209 rows in full timeline)
+
 === Org Watch ===
 
 Total so far: $576
