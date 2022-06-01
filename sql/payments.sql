@@ -202,7 +202,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Sergey Yegorov',NULL,'2016-10-17','2016-10-17','2016-10-17','2016-10-17',175,175.88,0.88,175,NULL),
 
   /* Thomas Foster */
-  ('PayPal','Thomas Foster',NULL,'2016-06-16','2016-06-16','2016-06-16','2016-06-16',80,79.99,0.79,79,NULL),
+  ('PayPal','Thomas Foster',NULL,'2016-06-16','2016-06-16','2016-06-16','2016-06-16',80,79.99,0.79,79.20,NULL),
   ('PayPal','Thomas Foster',NULL,'2017-02-07','2017-02-07','2017-02-07','2017-02-07',50,50.51,0.51,50,NULL),
 
   /* Linchuan Zhang */
