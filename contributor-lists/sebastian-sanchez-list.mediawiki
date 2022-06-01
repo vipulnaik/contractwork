@@ -18,17 +18,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2022 ==
 
-Total money earned as income: $4566
+Total money earned as income: $6051
 
 Forward balance carried over from 2021: ($2571.99)
 
 Payment made: $5244.34
 
-Net payment due: ($3250.33)
+Net payment due: ($1765.33)
 
 === New timelines (Timelines wiki) ===
 
-Total so far: $1250
+Total so far: $1700
 
 * [https://timelines.issarice.com/wiki/Timeline_of_cryptocurrency_and_philanthropy Timeline of cryptocurrency and philanthropy]: $240. Completed January 30, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cryptocurrency_and_philanthropy&oldid=62507 (2022-01-31 04:07 UTC, 107992 bytes, 6 sample questions, 5 rows in big picture, 1 visual data chart with corresponding data table, 110 rows in full timeline)
 
@@ -36,27 +36,31 @@ Total so far: $1250
 
 * [https://timelines.issarice.com/wiki/Timeline_of_BioNTech Timeline of BioNTech]: $480. Completed April 30, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_BioNTech&oldid=65169 (2022-05-01 05:29 UTC, 152094 bytes, 7 sample questions, 3 rows in big picture, 12 rows in summary by year, 143 rows in full timeline)
 
-=== Tentative pending payments ===
-
-Total so far: $540
-
 * [https://timelines.issarice.com/wiki/Timeline_of_contract_research_organizations Timeline of contract research organizations]: $450. Completed May 31, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contract_research_organizations&oldid=66103 (2022-06-01 04:45 UTC, 135678 bytes, 5 sample questions, 3 rows in big picture, 4 visual data charts, 209 rows in full timeline)
+
+=== Additions to existing pages ===
+
+Total so far: $90
 
 * [https://timelines.issarice.com/wiki/Timeline_of_GiveDirectly Timeline of GiveDirectly]: $90. Completed May 31, 2022. [https://timelines.issarice.com/index.php?title=Timeline_of_GiveDirectly&type=revision&diff=66051&oldid=29554 Diff]. Increased from 34568 bytes to 59816 bytes. 19 new rows in full timeline, new country column, new sample questions, updates to summary by year and charts
 
 === Org Watch ===
 
-Total so far: $576
+Total so far: $821
 
 * January: $135. 27 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-01-01&until=2022-01-31 for more details. The first commit for the month was on 2022-01-03 and the last commit for the month was on 2022-01-31.
+
+* February: $20. 4 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-02-01&until=2022-02-28 for more details. The first commit for the month was on 2022-02-01 and the last commit for the month was on 2022-02-09.
 
 * March: $225. 25 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-03-01&until=2022-03-31 for more details. The first commit for the month was on 2022-03-11 and the last commit for the month was on 2022-03-27.
 
 * April: $216. 24 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-04-01&until=2022-04-30 for more details. The first commit for the month was on 2022-04-02 and the last commit for the month was on 2022-04-30.
 
+* May: $225. 25 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-05-01&until=2022-05-31 for more details. The first commit for the month was on 2022-05-01 and the last commit for the month was on 2022-05-20.
+
 === Stipends ===
 
-Total so far: $2740
+Total so far: $3440
 
 The rule of thumb for stipend is: $4/hour
 
@@ -66,7 +70,9 @@ The rule of thumb for stipend is: $4/hour
 
 * March: $700. The payment is at $4/hour for 175 hours eligible for stipend. Total time spent was as follows: 161 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.
 
-* March: $696. The payment is at $4/hour for 174 hours eligible for stipend. Total time spent was as follows: 159 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 24 hours on Org Watch.
+* April: $696. The payment is at $4/hour for 174 hours eligible for stipend. Total time spent was as follows: 159 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 24 hours on Org Watch.
+
+* May: $700. The payment is at $4/hour for 175 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.
 
 === Payments made ===
 
