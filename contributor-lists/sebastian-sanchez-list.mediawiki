@@ -38,9 +38,11 @@ Total so far: $1250
 
 === Tentative pending payments ===
 
-Total so far: $450
+Total so far: $540
 
 * [https://timelines.issarice.com/wiki/Timeline_of_contract_research_organizations Timeline of contract research organizations]: $450. Completed May 31, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_contract_research_organizations&oldid=66103 (2022-06-01 04:45 UTC, 135678 bytes, 5 sample questions, 3 rows in big picture, 4 visual data charts, 209 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_GiveDirectly Timeline of GiveDirectly]: $90. Completed May 31, 2022. [https://timelines.issarice.com/index.php?title=Timeline_of_GiveDirectly&type=revision&diff=66051&oldid=29554 Diff]. Increased from 34568 bytes to 59816 bytes. 19 new rows in full timeline, new country column, new sample questions, updates to summary by year and charts
 
 === Org Watch ===
 
