@@ -1,5 +1,7 @@
 # Summary
 
+This document was last substantively updated on June 9, 2022.
+
 ## Current contract work structure for Sebastian Sanchez (payments from Vipul)
 
 ### Timelines wiki
