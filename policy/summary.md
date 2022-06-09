@@ -74,5 +74,26 @@ information about this.
 Relevant information will likely be made public before any actual work
 covered by such outside support is paid for.
 
+## Current contract work structure for Issa Rice (payments from Vipul)
 
+These rates are all on top of the monthly stipend of $9/hour up to 150
+hours per month.
 
+|Project|Current rate ($/hr)|Level of direction|Notes|
+|---------|-----|-----------------|------------------|
+|Donations List Website|9.5|Tasks assigned by Vipul|8.5 until 2019-02-08.|
+|Devec portal|9.75|Tasks assigned by Vipul||
+|Devec data porting to SQL|9.75|Tasks assigned by Vipul||
+|Devec SQL query work|9.75|Tasks assigned by Vipul||
+|Devec reading|3|Tasks assigned by Vipul (kinda; the reading material and pages edited aren't chosen by Vipul)||
+|Computing Data Project (CDP)|7.5|Tasks assigned by Vipul|Previously the rate was $9.75/hour until the end of July 2018.|
+|AI safety (temporal matching with CDP)|7.5 after current round|No explicit direction, but limited to time matched with CDP||
+|AI safety wiki|4.375|No explicit direction, limited to 10 hours per month||
+|Org Watch|9.5|"\< 5 hours per month of needed data updates, and maybe up to 5 hours per month on average for (org additions, code improvements)"; "For code bugfixes, you can basically just pick and work on those at your discretion/leisures"|7.5 until 2019-02-08.|
+|Cause Prioritization Wiki|4.375 if no plan; 5 with plan|No explicit direction||
+|People Watching|4.375|No explicit direction, limited to 10 hours per month||
+|Wikipedia Views|8.5|Tasks assigned by Vipul||
+|AI Watch|9.5|"I think at least at current margins, with the volume of work so low, it's just easier to have everything at OW rates"; "and actually create enough volume of work to justify switching costs and overcome inertia"||
+|Contract Work portal|8.5|Tasks assigned by Vipul||
+|wikiHow|7.5|titles chosen by Vipul|"specified cap per article (so we renegotiate if after 75% of the cap you think we won't be able to be done within the cap)". Report time as separate task for new articles, but in generic wikiHow task for minor improvements to existing articles.|
+|Learning Subwiki|6.25|"Weekly checkins and regular discussions"|Continued work subject to weekly checkins, which are a two-way responsibility.|
