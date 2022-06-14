@@ -60,7 +60,7 @@ Total so far: $25.65
 
 * [https://github.com/vipulnaik/donations/pull/140 Add theme changer]: $18.81. Spent 1 hour 59 minutes at $9.50/hour. Work done 2022-04-10 at https://github.com/vipulnaik/donations/pull/140 extending dark mode, previously developed for AI Watch / Org Watch, to the donations list website.
 
-* $6.84. Spent 43 minutes at $9.50/hour. Work done 2022-05-12. Work replying to an inbound query somewhat related to DLW.
+* May: $6.84. Spent 43 minutes at $9.50/hour. Work done 2022-05-12. Work replying to an inbound query somewhat related to DLW.
 
 === Work on contract work for Vipul Naik ===
 
