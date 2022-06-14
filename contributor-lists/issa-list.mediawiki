@@ -24,11 +24,11 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 Total money earned as income (taxable as income for 2022): $468.69
 
-Payment made: $510.76
+Payment made: $979.45
 
 Carryover payment due from 2021: $510.76
 
-Net payment due: $468.69
+Net payment due: $0
 
 === Work on AI Watch ===
 
@@ -90,9 +90,11 @@ Total so far: $156.24
 
 === Payments made ===
 
-Total so far: $510.76
+Total so far: $979.45
 
 * $510.76 via PayPal on January 5
+
+* $468.69 via PayPal on June 14
 
 == Work and other compensation in 2021 ==
 
