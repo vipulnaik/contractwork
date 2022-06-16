@@ -21,7 +21,7 @@ print '<body>';
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
 print "<h3>Contract work sponsored by $payer and managed through Vipul Naik</h3>";
 print '<p><span id="changeThemeMenu" style="display: none;">Change <a href="javascript:;" onclick="change_theme_color()">color</a></span>   &thinsp;<!-- blank space to prevent cumulative layout shift --></p>';
-$payerSelectQuery = "select payer from tasks where payer=?;";
+$payerSelectQuery = "select * from payers where payer=?;";
 $stmt = $mysqli->prepare($payerSelectQuery);
 $stmt->bind_param("s", $payer);
 $stmt->execute();
@@ -29,8 +29,11 @@ $payerSelectResult = $stmt->get_result();
 if ($payerSelectResult -> num_rows == 0) {
   print '<p>Sorry, we did not find a payer with this name in our public list of payers. Go back to the <a href="/">home page</a> for a full list of payers.</p>';
 } else {
+  $row = $payerSelectResult -> fetch_assoc();
+  $payerNotes = $row['notes'];
   print '<h4>Table of contents</h4>';
   print '<ul>';
+  print '<li><a href="#payerInfo">Payer information</a></li>';
   if ($payer != "Vipul Naik") {
     print '<li><a href="#payerPaymentsMadeByMethodAndYear">Payer payments made by method and year</a></li>';
   }
@@ -53,6 +56,8 @@ if ($payerSelectResult -> num_rows == 0) {
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;
+  print '<h4 id="payerInfo">Payer information for '.$payer.'</h4>';
+  print '<p>'.$payerNotes.'</p>';
   if ($payer != "Vipul Naik") {
     include("backend/payerPaymentsMadeByMethodAndYear.inc");
   }

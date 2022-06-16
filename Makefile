@@ -16,12 +16,14 @@ reset:
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists payer_payments;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists tax_adjustments;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists workers;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists payers;"
 
 .PHONY: read
 read: read_public read_private
 
 .PHONY: read_public
 read_public:
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/payers.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/workers.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/tasks.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/payments.sql
