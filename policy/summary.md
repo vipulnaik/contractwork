@@ -87,6 +87,7 @@ hours per month.
 |Devec SQL query work|9.75|Tasks assigned by Vipul||
 |Devec reading|3|Tasks assigned by Vipul (kinda; the reading material and pages edited aren't chosen by Vipul)||
 |Computing Data Project (CDP)|7.5|Tasks assigned by Vipul|Previously the rate was $9.75/hour until the end of July 2018.|
+|AI safety timeline outlines on timelines wiki|9.5|Tasks assigned by Vipul|Deal done 2022-06-20.||
 |AI safety (temporal matching with CDP)|7.5 after current round|No explicit direction, but limited to time matched with CDP||
 |AI safety wiki|4.375|No explicit direction, limited to 10 hours per month||
 |Org Watch|9.5|"\< 5 hours per month of needed data updates, and maybe up to 5 hours per month on average for (org additions, code improvements)"; "For code bugfixes, you can basically just pick and work on those at your discretion/leisures"|7.5 until 2019-02-08.|
