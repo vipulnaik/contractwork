@@ -2,13 +2,15 @@ create table stipends(
   stipend_id int(11) not null auto_increment primary key,
   payee varchar(40),
   payment float(7,2) not null,
-  stipend_start_date date NOT NULL,
-  stipend_end_date date NOT NULL,
+  stipend_start_date date not null,
+  stipend_end_date date not null,
   stipend_award_date date,
   notes varchar(2000),
   hours_logged float(13,2) default null,
   total_work_hours int(11) default null,
-  constraint stipend_payee_is_worker foreign key (payee) references workers (worker)
+  payer varchar(40) default 'Vipul Naik',
+  constraint stipend_payee_is_worker foreign key (payee) references workers (worker),
+  constraint stipend_payer_is_payer foreign key (payer) references payers (payer)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, total_work_hours) values
