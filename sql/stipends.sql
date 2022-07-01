@@ -169,7 +169,11 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',636,'2022-02-01','2022-02-28','2022-02-28','The payment is at $4/hour for 159 hours eligible for stipend. Total time spent was as follows: 165 hours on Timelines Wiki (including 5 hours exempt on timeline of GiveDirectly that are exempt from monthly cap, and 150 hours per the monthly cap), and 4 hours on Org Watch.',169),
   ('Sebastian Sanchez',700,'2022-03-01','2022-03-31','2022-03-31','The payment is at $4/hour for 175 hours eligible for stipend. Total time spent was as follows: 161 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.',186),
   ('Sebastian Sanchez',696,'2022-04-01','2022-04-30','2022-04-30','The payment is at $4/hour for 174 hours eligible for stipend. Total time spent was as follows: 159 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 24 hours on Org Watch.',183),
-  ('Sebastian Sanchez',700,'2022-05-01','2022-05-31','2022-05-31','The payment is at $4/hour for 175 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.',180);
+  ('Sebastian Sanchez',700,'2022-05-01','2022-05-31','2022-05-31','The payment is at $4/hour for 175 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines Wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.',180),
+  ('Sebastian Sanchez',696,'2022-06-01','2022-06-30','2022-06-30','The payment is at $4/hour for 174 hours eligible for stipend, compared to 146 hours worked. Total time spent was as follows: 122 hours on Timelines Wiki and 24 hours on Org Watch. Since the time on Timelines Wiki was less than the cap of 150 hours by 28 hours, 28 of the past accumulated excess of 66 hours were applied.',146);
+
+insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, payer) values
+  ('Sebastian Sanchez',120,'2022-06-01','2022-06-30','2022-06-30','The payment is at $4/hour for all 30 hours worked on Timelines Wiki.',30,'Future Fund Regranting Program');
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Amana Rice',120.32,'2020-12-01','2020-12-31','2020-12-31','30.08 hours at $4/hour',30.08);
