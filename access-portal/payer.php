@@ -34,6 +34,7 @@ if ($payerSelectResult -> num_rows == 0) {
   print '<h4>Table of contents</h4>';
   print '<ul>';
   print '<li><a href="#payerInfo">Payer information</a></li>';
+  print '<li><a href="#payerPaymentsDueByTypeAndYear">Payer payments due by type and year</a></li>';
   if ($payer != "Vipul Naik") {
     print '<li><a href="#payerPaymentsMadeByMethodAndYear">Payer payments made by method and year</a></li>';
   }
@@ -57,6 +58,7 @@ if ($payerSelectResult -> num_rows == 0) {
   $printTables = true;
   print '<h4 id="payerInfo">Payer information for '.$payer.'</h4>';
   print '<p>'.$payerNotes.'</p>';
+  include("backend/payerPaymentsDueByTypeAndYear.inc");
   if ($payer != "Vipul Naik") {
     include("backend/payerPaymentsMadeByMethodAndYear.inc");
   }
