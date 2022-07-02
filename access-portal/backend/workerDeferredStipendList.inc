@@ -14,6 +14,7 @@ print "<thead>\n";
 print '<tr>';
 print '<th>Stipend period</th>';
 print '<th>Payment</th>';
+print '<th>Payer</th>';
 print '<th>Hours logged</th>';
 print '<th>Total work hours</th>';
 print '<th>Effective hourly pay using hours logged</th>';
@@ -30,6 +31,7 @@ for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
   } else {
     print '–'.$row['stipend_end_date'].'</td>';
   }
+  print '<td><a href="/payer.php?payer='.urlencode($row['payer']).'">'.$row['payer'].'</a></td>';
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
   if (isset($row['hours_logged']) && $row['hours_logged'] != '') {
     print '<td align="right">'.$row['hours_logged'].'</td>';
