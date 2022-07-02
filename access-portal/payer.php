@@ -43,12 +43,11 @@ if ($payerSelectResult -> num_rows == 0) {
   print '<li><a href="#payerTaskPaymentsDueByFormatAndYear">Payer task payments due by format and year</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByWorkerAndType">Payer task payments due by worker and type</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByTypeAndMonth">Payer task payments due by type and month</a></li>';
-  if ($payer != "Vipul Naik") {
-    print '<li><a href="#payerPaymentsDueAndMadeByMonth">Payer payments due and made by month</a></li>';
-  }
+  print '<li><a href="#payerPaymentsDueByTypeAndMonth">Payer payments due by type and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByTopicAndMonth">Payer task payments due by topic and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByVenueAndMonth">Payer task payments due by venue and month</a></li>';
   print '<li><a href="#payerTaskPaymentsDueByFormatAndMonth">Payer task payments due by format and month</a></li>';
+  print '<li><a href="#payerPaymentsDueAndMadeByMonth">Payer payments due and made by month</a></li>';
   print '<li><a href="#payerTaskList">Payer task list</a></li>';
   if ($payer != "Vipul Naik") {
     print '<li><a href="#payerPaymentList">Payer payment list</a></li>';
@@ -67,12 +66,11 @@ if ($payerSelectResult -> num_rows == 0) {
   include("backend/payerTaskPaymentsDueByFormatAndYear.inc");
   include("backend/payerTaskPaymentsDueByWorkerAndType.inc");
   include("backend/payerTaskPaymentsDueByTypeAndMonth.inc");
-  if ($payer != "Vipul Naik") {
-    include("backend/payerPaymentsDueAndMadeByMonth.inc");
-  }
+  include("backend/payerPaymentsDueByTypeAndMonth.inc");
   include("backend/payerTaskPaymentsDueByTopicAndMonth.inc");
   include("backend/payerTaskPaymentsDueByVenueAndMonth.inc");
   include("backend/payerTaskPaymentsDueByFormatAndMonth.inc");
+  include("backend/payerPaymentsDueAndMadeByMonth.inc");
   include("backend/payerTaskList.inc");
   if ($payer != "Vipul Naik") {
     include("backend/payerPaymentList.inc");

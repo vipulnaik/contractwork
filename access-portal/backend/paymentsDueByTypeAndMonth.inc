@@ -34,7 +34,10 @@ for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
 
 # Get commission on task payments
 $commissionOnTaskSelectQuery = "select year(completion_date) as year, month(completion_date) as month, coalesce(sum(payment), 0) as payment from (select completion_date, (commission * payment) as payment from commissions left join tasks on commissions.earner = tasks.worker where (commission_validity_start is null or tasks.completion_date >= commission_validity_start) and (commission_validity_end is null or tasks.completion_date <= commission_validity_end)) t1 group by year(completion_date), month(completion_date);";
-$commissionOnTaskSelectResult = $mysqli -> query($commissionOnTaskSelectQuery);
+# Note: we're using statement execution rather than query because it seems to give more precision and will be consistent with other pages (for this particular query, sub-cent precision is relevant)
+$stmt = $mysqli->prepare($commissionOnTaskSelectQuery);
+$stmt->execute();
+$commissionOnTaskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $commissionOnTaskSelectResult -> num_rows; $i++) {
   $row = $commissionOnTaskSelectResult -> fetch_assoc();
   $commissionOnTaskPayment[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
@@ -71,7 +74,10 @@ for ($i = 0; $i < $royaltySelectResult -> num_rows; $i++) {
 
 # Get commission on royalty payments
 $commissionOnRoyaltySelectQuery = "select year(royalty_end_date) as year, month(royalty_end_date) as month, coalesce(sum(payment), 0) as payment from (select royalty_end_date, (commission * payment) as payment from commissions left join royalties on commissions.earner = royalties.payee where (commission_validity_start is null or royalties.royalty_start_date >= commission_validity_start) and (commission_validity_end is null or royalties.royalty_end_date <= commission_validity_end)) t1 group by year(royalty_end_date), month(royalty_end_date);";
-$commissionOnRoyaltySelectResult = $mysqli -> query($commissionOnRoyaltySelectQuery);
+# Note: we're using statement execution rather than query because it seems to give more precision and will be consistent with other pages (for this particular query, sub-cent precision is relevant)
+$stmt = $mysqli->prepare($commissionOnRoyaltySelectQuery);
+$stmt->execute();
+$commissionOnRoyaltySelectResult = $stmt->get_result();
 for ($i = 0; $i < $commissionOnRoyaltySelectResult -> num_rows; $i++) {
   $row = $commissionOnRoyaltySelectResult -> fetch_assoc();
   $commissionOnRoyaltyPayment[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $row['payment'];
@@ -81,7 +87,7 @@ for ($i = 0; $i < $commissionOnRoyaltySelectResult -> num_rows; $i++) {
 foreach($monthList as $month) {
   $totalPaymentAwarded[$month] = 0;
   $totalPayment[$month] = 0;
-  $totalPaymentAwarded[$month] = $taskPayment[$month] + $commissionOnTaskPayment[$month]  + $stipendPaymentAwardedInSameMonth[$month] + $stipendPaymentAwardedFromEarlierMonth[$month] + $royaltyPayment[$month] + $commissionOnRoyaltyPayment[$month];
+  $totalPaymentAwarded[$month] = $taskPayment[$month] + $commissionOnTaskPayment[$month] + $stipendPaymentAwardedInSameMonth[$month] + $stipendPaymentAwardedFromEarlierMonth[$month] + $royaltyPayment[$month] + $commissionOnRoyaltyPayment[$month];
   $totalPaymentAwardedAcrossMonths += $totalPaymentAwarded[$month];
   $totalPayment[$month] = $totalPaymentAwarded[$month] + $stipendPaymentAwardedInLaterMonth[$month] - $stipendPaymentAwardedFromEarlierMonth[$month] + $unawardedStipendPayment[$month];
   $totalPaymentAcrossMonths += $totalPayment[$month];
