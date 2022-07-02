@@ -1,6 +1,6 @@
 <?php
 
-$payers = array("Vipul Naik","Peter Hurford","Berkeley Existential Risk Initiative","Alex Flint","Centre for Effective Altruism","Andy Matuschak");
+$payers = array("Vipul Naik","Peter Hurford","Berkeley Existential Risk Initiative","Alex Flint","Centre for Effective Altruism","Andy Matuschak","Future Fund Regranting Program");
 
 $yearList = array("2015","2016","2017","2018","2019","2020","2021","2022");
 

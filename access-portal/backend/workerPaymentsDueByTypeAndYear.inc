@@ -5,26 +5,38 @@ if ($printTables == true) {
 
 # Initialize values to zero
 foreach ($yearList as $year) {
+  $commissionOnTaskPayment[$year] = 0;
+  $royaltyPayment[$year] = 0;
+  $commissionOnRoyaltyPayment[$year] = 0;
+  $taskPayment[$year] = array();
+  $stipendPaymentAwardedInSameYear[$year] = array();
+  $stipendPaymentAwardedFromEarlierYear[$year] = array();
+  $stipendPaymentAwardedInLaterYear[$year] = array();
+  $unawardedStipendPayment[$year] = array();
   foreach ($payers as $payer) {
     $taskPayment[$year][$payer] = 0;
-    $totalTaskPayment[$payer] = 0;
+    $stipendPaymentAwardedInSameYear[$year][$payer] = 0;
+    $stipendPaymentAwardedFromEarlierYear[$year][$payer] = 0;
+    $stipendPaymentAwardedInLaterYear[$year][$payer] = 0;
+    $unawardedStipendPayment[$year][$payer] = 0;
   }
-  $commissionOnTaskPayment[$year] = 0;
-  $totalCommissionOnTaskPayment = 0;
-  $stipendPaymentAwardedInSameYear[$year] = 0;
-  $totalStipendPaymentAwardedInSameYear = 0;
-  $stipendPaymentAwardedFromEarlierYear[$year] = 0;
-  $stipendPaymentAwardedInLaterYear[$year] = 0;
-  $totalStipendPaymentStraddlingYears = 0;
-  $unawardedStipendPayment[$year] = 0;
-  $totalUnawardedStipendPayment = 0;
-  $royaltyPayment[$year] = 0;
-  $totalRoyaltyPayment = 0;
-  $commissionOnRoyaltyPayment[$year] = 0;
-  $totalCommissionOnRoyaltyPayment = 0;
-  $totalPaymentAwardedAcrossYears = 0;
-  $totalPaymentAcrossYears = 0;
-}  
+}
+
+$totalCommissionOnTaskPayment = 0;
+$totalRoyaltyPayment = 0;
+$totalCommissionOnRoyaltyPayment = 0;
+$totalPaymentAwardedAcrossYears = 0;
+$totalPaymentAcrossYears = 0;
+$totalTaskPayment = array();
+$totalStipendPaymentAwardedInSameYear = array();
+$totalStipendPaymentStraddlingYears = array();
+$totalUnawardedStipendPayment = array();
+foreach ($payers as $payer) {
+  $totalTaskPayment[$payer] = 0;
+  $totalStipendPaymentAwardedInSameYear[$payer] = 0;
+  $totalStipendPaymentStraddlingYears[$payer] = 0;
+  $totalUnawardedStipendPayment[$payer] = 0;
+}
 
 # Get task payments
 
@@ -53,7 +65,7 @@ for ($i = 0; $i < $commissionOnTaskSelectResult -> num_rows; $i++) {
 
 # Get stipend payments
 
-$stipendSelectQuery = "select year(stipend_award_date) as awardYear, year(stipend_end_date) as year, (stipend_award_date is not null) as awarded, coalesce(sum(payment), 0) as payment from stipends where payee=? group by year(stipend_award_date), year(stipend_end_date), (stipend_award_date is not null);";
+$stipendSelectQuery = "select payer, year(stipend_award_date) as awardYear, year(stipend_end_date) as year, (stipend_award_date is not null) as awarded, coalesce(sum(payment), 0) as payment from stipends where payee=? group by payer, year(stipend_award_date), year(stipend_end_date), (stipend_award_date is not null);";
 $stmt = $mysqli->prepare($stipendSelectQuery);
 $stmt->bind_param("s", $worker);
 $stmt->execute();
@@ -61,15 +73,15 @@ $stipendSelectResult = $stmt->get_result();
 for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
   $row = $stipendSelectResult -> fetch_assoc();
   if ($row['awarded'] == 1 and $row['awardYear'] == $row['year']) {
-    $stipendPaymentAwardedInSameYear[$row['year']] += $row['payment'];
-    $totalStipendPaymentAwardedInSameYear += $row['payment'];
+    $stipendPaymentAwardedInSameYear[$row['year']][$row['payer']] += $row['payment'];
+    $totalStipendPaymentAwardedInSameYear[$row['payer']] += $row['payment'];
   } else if ($row['awarded'] == 1) {
-    $stipendPaymentAwardedInLaterYear[$row['year']] += $row['payment'];
-    $stipendPaymentAwardedFromEarlierYear[$row['awardYear']] += $row['payment'];
-    $totalStipendPaymentStraddlingYears += $row['payment'];
+    $stipendPaymentAwardedInLaterYear[$row['year']][$row['payer']] += $row['payment'];
+    $stipendPaymentAwardedFromEarlierYear[$row['awardYear']][$row['payer']] += $row['payment'];
+    $totalStipendPaymentStraddlingYears[$row['payer']] += $row['payment'];
   } else {
-    $unawardedStipendPayment[$row['year']] += $row['payment'];
-    $totalUnawardedStipendPayment += $row['payment'];
+    $unawardedStipendPayment[$row['year']][$row['payer']] += $row['payment'];
+    $totalUnawardedStipendPayment[$row['payer']] += $row['payment'];
   }
 }
 
@@ -101,12 +113,20 @@ foreach($yearList as $year) {
   $totalPaymentAwarded[$year] = 0;
   $totalPayment[$year] = 0;
   $taskPaymentAcrossPayers[$year] = 0;
+  $stipendPaymentAwardedInSameYearAcrossPayers[$year] = 0;
+  $stipendPaymentAwardedFromEarlierYearAcrossPayers[$year] = 0;
+  $stipendPaymentAwardedInLaterYearAcrossPayers[$year] = 0;
+  $unawardedStipendPaymentAcrossPayers[$year] = 0;
   foreach ($payers as $payer) {
     $taskPaymentAcrossPayers[$year] += $taskPayment[$year][$payer];
+    $stipendPaymentAwardedInSameYearAcrossPayers[$year] += $stipendPaymentAwardedInSameYear[$year][$payer];
+    $stipendPaymentAwardedFromEarlierYearAcrossPayers[$year] += $stipendPaymentAwardedFromEarlierYear[$year][$payer];
+    $stipendPaymentAwardedInLaterYearAcrossPayers[$year] += $stipendPaymentAwardedInLaterYear[$year][$payer];
+    $unawardedStipendPaymentAcrossPayers[$year] += $unawardedStipendPayment[$year][$payer];
   }
-  $totalPaymentAwarded[$year] = $taskPaymentAcrossPayers[$year] + $commissionOnTaskPayment[$year]  + $stipendPaymentAwardedInSameYear[$year] + $stipendPaymentAwardedFromEarlierYear[$year] + $royaltyPayment[$year] + $commissionOnRoyaltyPayment[$year];
+  $totalPaymentAwarded[$year] = $taskPaymentAcrossPayers[$year] + $commissionOnTaskPayment[$year] + $stipendPaymentAwardedInSameYearAcrossPayers[$year] + $stipendPaymentAwardedFromEarlierYearAcrossPayers[$year] + $royaltyPayment[$year] + $commissionOnRoyaltyPayment[$year];
   $totalPaymentAwardedAcrossYears += $totalPaymentAwarded[$year];
-  $totalPayment[$year] = $totalPaymentAwarded[$year] + $stipendPaymentAwardedInLaterYear[$year] - $stipendPaymentAwardedFromEarlierYear[$year] + $unawardedStipendPayment[$year];
+  $totalPayment[$year] = $totalPaymentAwarded[$year] + $stipendPaymentAwardedInLaterYearAcrossPayers[$year] - $stipendPaymentAwardedFromEarlierYearAcrossPayers[$year] + $unawardedStipendPaymentAcrossPayers[$year];
   $totalPaymentAcrossYears += $totalPayment[$year];
 }
 
@@ -143,23 +163,27 @@ if ($printTables == true) {
     }
   }
   print '</tr>';
-  print '<tr><td>Stipends (awarded same year)</td>';
-  print '<td align="right"><strong>'.number_format($totalStipendPaymentAwardedInSameYear,2).'</strong></td>';
-  foreach (array_reverse($yearList) as $year) {
-    if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
-      print '<td align="right">'.number_format($stipendPaymentAwardedInSameYear[$year],2).'</td>';
-    }
-  }
-  print '</tr>';
-  if ($totalStipendPaymentStraddlingYears > 0) {
-    print '<tr><td>Stipends (awarded from earlier year)</td>';
-    print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingYears,2).'</strong></td>';
-    foreach (array_reverse($yearList) as $year) {
-      if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
-        print '<td align="right">'.number_format($stipendPaymentAwardedFromEarlierYear[$year],2).'</td>';
+  foreach ($payers as $payer) {
+    if ($totalStipendPaymentAwardedInSameYear[$payer] > 0) {
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (awarded same year)</td>';
+      print '<td align="right"><strong>'.number_format($totalStipendPaymentAwardedInSameYear[$payer],2).'</strong></td>';
+      foreach (array_reverse($yearList) as $year) {
+        if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
+          print '<td align="right">'.number_format($stipendPaymentAwardedInSameYear[$year][$payer],2).'</td>';
+        }
       }
+      print '</tr>';
     }
-    print '</tr>';
+    if ($totalStipendPaymentStraddlingYears[$payer] > 0) {
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (awarded from earlier year)</td>';
+      print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingYears[$payer],2).'</strong></td>';
+      foreach (array_reverse($yearList) as $year) {
+        if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
+          print '<td align="right">'.number_format($stipendPaymentAwardedFromEarlierYear[$year][$payer],2).'</td>';
+        }
+      }
+      print '</tr>';
+    }
   }
   print '<tr><td>Royalties</td>';
   print '<td align="right"><strong>'.number_format($totalRoyaltyPayment,2).'</strong></td>';
@@ -185,33 +209,35 @@ if ($printTables == true) {
     }
   }
   print '</tr>';
-  print '<tr><td>Stipends (unawarded)</td>';
-  print '<td align="right"><strong>'.number_format($totalUnawardedStipendPayment,2).'</strong></td>';
-  foreach (array_reverse($yearList) as $year) {
-    if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
-      print '<td align="right">'.number_format($unawardedStipendPayment[$year],2).'</td>';
-    }
-  }
-  print '</tr>';
-  if ($totalStipendPaymentStraddlingYears > 0) {
-    print '<tr><td>Stipends (deferred to later year)</td>';
-    print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingYears,2).'</strong></td>';
-    foreach (array_reverse($yearList) as $year) {
-      if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
-        print '<td align="right">'.number_format($stipendPaymentAwardedInLaterYear[$year],2).'</td>';
+  foreach ($payers as $payer) {
+    if ($totalUnawardedStipendPayment[$payer] > 0) {
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (unawarded)</td>';
+      print '<td align="right"><strong>'.number_format($totalUnawardedStipendPayment,2).'</strong></td>';
+      foreach (array_reverse($yearList) as $year) {
+        if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
+          print '<td align="right">'.number_format($unawardedStipendPayment[$year],2).'</td>';
+        }
       }
+      print '</tr>';
     }
-    print '</tr>';
-  }
-  if ($totalStipendPaymentStraddlingYears > 0) {
-    print '<tr><td>Stipends (awarded from earlier year; subtract)</td>';
-    print '<td align="right"><strong>'.number_format(-$totalStipendPaymentStraddlingYears,2).'</strong></td>';
-    foreach (array_reverse($yearList) as $year) {
-      if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
-        print '<td align="right">'.number_format(-$stipendPaymentAwardedFromEarlierYear[$year],2).'</td>';
+    if ($totalStipendPaymentStraddlingYears[$payer] > 0) {
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (deferred to later year)</td>';
+      print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingYears[$payer],2).'</strong></td>';
+      foreach (array_reverse($yearList) as $year) {
+        if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
+          print '<td align="right">'.number_format($stipendPaymentAwardedInLaterYear[$year][$payer],2).'</td>';
+        }
       }
+      print '</tr>';
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (awarded from earlier year; subtract)</td>';
+      print '<td align="right"><strong>'.number_format(-$totalStipendPaymentStraddlingYears[$payer],2).'</strong></td>';
+      foreach (array_reverse($yearList) as $year) {
+        if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
+          print '<td align="right">'.number_format(-$stipendPaymentAwardedFromEarlierYear[$year][$payer],2).'</td>';
+        }
+      }
+      print '</tr>';
     }
-    print '</tr>';
   }
   print "</tbody>\n<tfoot>\n";
   print '<tr><td><strong>Total payment</strong></td>';
@@ -221,7 +247,7 @@ if ($printTables == true) {
       print '<td align="right"><strong>'.number_format($totalPayment[$year],2).'</strong></td>';
     }
   }
-  print '</tr>';  
+  print '</tr>';
   print "</tfoot>\n</table>\n";
 }
 ?>
