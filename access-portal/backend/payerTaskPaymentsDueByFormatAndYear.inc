@@ -24,6 +24,15 @@ $stmt->execute();
 $taskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
+  if (!isset($paymentForTaskFormatAndYear[$row['format']])) {
+    $paymentForTaskFormatAndYear[$row['format']] = array();
+  }
+  if (!isset($totalTaskPaymentForYear[$row['year']])) {
+    $totalTaskPaymentForYear[$row['year']] = 0;
+  }
+  if (!isset($totalPaymentForTaskFormat[$row['format']])) {
+    $totalPaymentForTaskFormat[$row['format']] = 0;
+  }
   $paymentForTaskFormatAndYear[$row['format']][$row['year']] = $row['payment'];
   $totalTaskPaymentForYear[$row['year']] += $row['payment'];
   $totalPaymentForTaskFormat[$row['format']] += $row['payment'];

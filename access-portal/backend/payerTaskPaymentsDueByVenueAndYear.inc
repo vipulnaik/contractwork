@@ -24,6 +24,12 @@ $stmt->execute();
 $taskSelectResult = $stmt->get_result();
 for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
+  if (!isset($paymentForTaskVenueAndYear[$row['task_venue']])) {
+    $paymentForTaskVenueAndYear[$row['task_venue']] = array();
+  }
+  if (!isset($totalPaymentForTaskVenue[$row['task_venue']])) {
+    $totalPaymentForTaskVenue[$row['task_venue']] = 0;
+  }
   $paymentForTaskVenueAndYear[$row['task_venue']][$row['year']] = $row['payment'];
   $totalTaskPaymentForYear[$row['year']] += $row['payment'];
   $totalPaymentForTaskVenue[$row['task_venue']] += $row['payment'];
