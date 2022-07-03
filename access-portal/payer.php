@@ -53,6 +53,15 @@ if ($payerSelectResult -> num_rows == 0) {
   if ($payer != "Vipul Naik") {
     print '<li><a href="#payerPaymentList">Payer payment list</a></li>';
   }
+
+  if (showTocLine($mysqli, $payer, "select * from stipends where payer = ? and stipend_award_date is not null limit 1")) {
+    print '<li><a href="#payerAwardedStipendList">Full list of awarded stipends in reverse chronological order</a></li>';
+  }
+
+  if (showTocLine($mysqli, $payer, "select * from stipends where payer = ? and stipend_award_date is null limit 1")) {
+    print '<li><a href="#payerDeferredStipendList">Full list of deferred stipends in reverse chronological order</a></li>';
+  }
+
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;
@@ -76,6 +85,12 @@ if ($payerSelectResult -> num_rows == 0) {
   include("backend/payerTaskList.inc");
   if ($payer != "Vipul Naik") {
     include("backend/payerPaymentList.inc");
+  }
+  if ($totalStipendPaymentAwardedInSameMonth + $totalStipendPaymentStraddlingMonths > 0) {
+    include("backend/payerAwardedStipendList.inc");
+  }
+  if ($totalUnawardedStipendPayment > 0) {
+    include("backend/payerDeferredStipendList.inc");
   }
 }
 include_once('anchorjs.inc');

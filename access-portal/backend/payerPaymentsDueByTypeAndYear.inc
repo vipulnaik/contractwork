@@ -101,7 +101,7 @@ foreach($yearList as $year) {
 
 # Print table
 print "\n";
-print '<table id="myTablePaymentsDueByTypeAndYear" class="tablesorter">'."\n";
+print '<table id="myTablePayerPaymentsDueByTypeAndYear" class="tablesorter">'."\n";
 print "<thead>\n<tr>\n	<th>Type of payment due</th>\n";
 print "	<th>Total across years</th>\n";
 foreach (array_reverse($yearList) as $year) {

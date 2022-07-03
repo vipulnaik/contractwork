@@ -21,4 +21,17 @@ function cleanNotes($notes) {
   return $augmentedNotes;
 }
 
+function showTocLine($mysqli, $value, $query) {
+  if ($stmt = $mysqli->prepare($query)) {
+    $stmt->bind_param("s", $value);
+    $stmt->execute();
+    // Get result to allow the next query to happen, but we only need the
+    // number of rows so don't bother assigning to a variable
+    $stmt->get_result();
+    if ($mysqli->affected_rows > 0) {
+      return true;
+    }
+  }
+  return false;
+}
 ?>

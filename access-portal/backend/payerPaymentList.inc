@@ -5,7 +5,7 @@ $stmt = $mysqli->prepare($payerPaymentSelectQuery);
 $stmt->bind_param("s", $payer);
 $stmt->execute();
 $payerPaymentSelectResult = $stmt->get_result();
-print '<h4>Full list of sent payments in reverse chronological order ('.($payerPaymentSelectResult -> num_rows).' payments)</h4>';
+print '<h4 id="payerPaymentList">Full list of sent payments in reverse chronological order ('.($payerPaymentSelectResult -> num_rows).' payments)</h4>';
 print "\n";
 print '<table id="myTablePayerPaymentList" class="tablesorter">'."\n";
 print "<thead>\n";
