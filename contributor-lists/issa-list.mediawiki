@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2022 ==
 
-Total money earned as income (taxable as income for 2022): $468.69
+Total money earned as income (taxable as income for 2022): $611.23
 
 Payment made: $979.45
 
 Carryover payment due from 2021: $510.76
 
-Net payment due: $0
+Net payment due: $142.54
 
 === Work on AI Watch ===
 
@@ -38,7 +38,7 @@ Total so far: $6.65
 
 === Work on Org Watch ===
 
-Total so far: $67.18
+Total so far: $122.77
 
 * Work on Org Watch in January: $12.07. Spent 1 hour 16 minutes at $9.50/hour. Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98
 
@@ -54,13 +54,21 @@ Total so far: $67.18
 
 * Work on Org Watch in May (general): $33.73. Spent 213 minutes at $9.50/hour. This includes coordination with a potential funder for Org Watch. Work done 2022-05-15 to 2022-05-30.
 
+* Work on Org Watch in June (assisting Sebastian): $16.63. Spent 105 minutes at $9.50/hour assisting Sebastian. Work done 2022-06-02 to 2022-06-30.
+
+* Work on Org Watch in June (meetings with Vipul and Sebastian): $35.44. Spent 224 minutes at $9.50/hour across two meetings with Vipul and Sebastian working on processes for improved quality of Org Watch data. Work done 2022-06-03 and 2022-06-04.
+
+* Work on Org Watch in June (general): $3.52. Spent 22 minutes at $9.50/hour. Work done 2022-06-18.
+
 === Work on Donations list website (DLW) ===
 
-Total so far: $25.65
+Total so far: $36.39
 
 * [https://github.com/vipulnaik/donations/pull/140 Add theme changer]: $18.81. Spent 1 hour 59 minutes at $9.50/hour. Work done 2022-04-10 at https://github.com/vipulnaik/donations/pull/140 extending dark mode, previously developed for AI Watch / Org Watch, to the donations list website.
 
 * May: $6.84. Spent 43 minutes at $9.50/hour. Work done 2022-05-12. Work replying to an inbound query somewhat related to DLW.
+
+* June: $10.74. Spent 68 minutes at $9.50/hour. Work done 2022-06-16.
 
 === Work on contract work for Vipul Naik ===
 
@@ -70,13 +78,14 @@ Total so far: $2.97
 
 === Work on Timelines wiki ===
 
-Total so far: $210
+Total so far: $212.41
 
 * [https://timelines.issarice.com/wiki/Timeline_of_effective_altruism Timeline of effective altruism]: $210. Completed 2022-06-09. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_effective_altruism&oldid=66184 (2022-06-09 08:29 UTC, 75 rows in full timeline, 49,978 bytes). Issa had worked on this timeline back in 2019, and then lost interest in it for a while. There is now a tentative plan for Sebastian to take over the timeline, so Issa decided to officially stop his work on the timeline and collect payment. The payment is $60 + $7.50/hour for 20 hours worked on the timeline (compared to a cap of 32 hours per the original agreement)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute Timeline of Machine Intelligence Research Institute]: $2.41. Spent 33 minutes. [https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&type=revision&diff=66418&oldid=60864 Diff]. These were updates to old history of the organization, based on new information received. The payment is $4.375/hour (same as the rate for AI safety subwiki work).
 === Stipends ===
 
-Total so far: $156.24
+Total so far: $230.04
 
 * January: $22.95. 2.55 hours at $9/hour
 
@@ -87,6 +96,8 @@ Total so far: $156.24
 * April: $43.20. 4.80 hours at $9/hour
 
 * May: $47.07. 5.23 hours at $9/hour
+
+* June: $73.80. 8.20 hours at $9/hour
 
 === Payments made ===
 
