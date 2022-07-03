@@ -57,7 +57,7 @@ if ($payerSelectResult -> num_rows == 0) {
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;
   print '<h4 id="payerInfo">Payer information for '.$payer.'</h4>';
-  print '<p>'.$payerNotes.'</p>';
+  print '<p>'.cleanNotes($payerNotes).'</p>';
   include("backend/payerPaymentsDueByTypeAndYear.inc");
   if ($payer != "Vipul Naik") {
     include("backend/payerPaymentsMadeByMethodAndYear.inc");
