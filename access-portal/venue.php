@@ -3,7 +3,7 @@ include_once('doctype.inc');
 print '<script src="change-theme.js"></script>';
 include_once("backend/globalVariables/passwordFile.inc");
 include_once("backend/globalVariables/lists.inc");
-include_once("backend/stringFunctions.inc");
+include_once("backend/functions.inc");
 include_once('backend/graphing.inc');
 include_once('analytics.inc');
 include_once('strip-commas.inc');

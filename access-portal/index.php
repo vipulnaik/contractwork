@@ -4,7 +4,7 @@ print '<script src="change-theme.js"></script>';
 print '<title>Contract work for Vipul Naik</title>';
 include_once('analytics.inc');
 include_once('strip-commas.inc');
-include_once('backend/stringFunctions.inc');
+include_once('backend/functions.inc');
 include_once('backend/graphing.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
 include_once('style.inc');
