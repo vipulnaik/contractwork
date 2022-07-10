@@ -82,7 +82,6 @@ if ($payer == "Vipul Naik") {
   # Get commission on royalty payments
   $commissionOnRoyaltySelectQuery = "select year(royalty_end_date) as year, coalesce(sum(payment), 0) as payment from (select royalty_end_date, (commission * payment) as payment from commissions left join royalties on commissions.earner = royalties.payee where (commission_validity_start is null or royalties.royalty_start_date >= commission_validity_start) and (commission_validity_end is null or royalties.royalty_end_date <= commission_validity_end)) t1 group by year(royalty_end_date);";
   $stmt = $mysqli->prepare($commissionOnRoyaltySelectQuery);
-  $stmt->bind_param("s", $payer);
   $stmt->execute();
   $commissionOnRoyaltySelectResult = $stmt->get_result();
   for ($i = 0; $i < $commissionOnRoyaltySelectResult -> num_rows; $i++) {
