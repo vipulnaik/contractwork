@@ -1,7 +1,7 @@
 <?php
 print '<h4 id="payerTaskPaymentsDueByWorkerAndType">Payer task payments due by worker and type</h4>';
 
-$workerSelectQuery = "select distinct worker from workers where private = false;";
+$workerSelectQuery = "select distinct worker from (select case when private = true then 'Private' else worker end as worker from workers where worker != 'Linchuan Zhang') wt1;";
 $workerSelectResult = $mysqli -> query($workerSelectQuery);
 
 $workers = array();
@@ -30,13 +30,19 @@ $totalTaskPayment = 0;
 
 # Get task payments
 
-$taskSelectQuery = "select task_type, worker, coalesce(sum(payment), 0) as payment from tasks where payer = ? group by task_type, worker;";
+$taskSelectQuery = "select task_type, case when private = true then 'Private' else worker end as worker, coalesce(sum(payment), 0) as payment from tasks where payer = ? group by task_type, worker, private;";
 $stmt = $mysqli->prepare($taskSelectQuery);
 $stmt->bind_param("s", $payer);
 $stmt->execute();
 $taskSelectResult = $stmt->get_result();
 for ($i=0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
+  if (!isset($paymentForTaskTypeAndWorker[$row['task_type']])) {
+    $paymentForWorkerAndMonth[$row['task_type']] = array();
+  }
+  if (!isset($totalPaymentForTaskType[$row['task_type']])) {
+    $totalPaymentForTaskType[$row['task_type']] = 0;
+  }
   $paymentForTaskTypeAndWorker[$row['task_type']][$row['worker']] = $row['payment'];
   $totalTaskPaymentForWorker[$row['worker']] += $row['payment'];
   $totalPaymentForTaskType[$row['task_type']] += $row['payment'];
