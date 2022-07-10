@@ -31,6 +31,9 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $cumulativePaymentMadeTillMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $cumulativePaymentMadeSoFar;
 }
 
+$mostRecentlySeenCumulativePaymentDue = 0;
+$mostRecentlySeenCumulativeReimbursementDue = 0;
+
 $reimbursementSelectQuery = "select year(receipt_date) as year, month(receipt_date) as month, coalesce(sum(sent_payment), 0) as payment from payments where intermediary=? and receipt_date is not null group by year(receipt_date), month(receipt_date) order by year(receipt_date), month(receipt_date);";
 $stmt = $mysqli->prepare($reimbursementSelectQuery);
 $stmt->bind_param("s", $worker);
@@ -43,8 +46,6 @@ for ($i=0; $i < $reimbursementSelectResult -> num_rows; $i++) {
   $cumulativeReimbursementDueTillMonth[$row['year'] . '-' . sprintf('%02d',$row['month'])] = $cumulativeReimbursementDueSoFar;
 }
 
-$mostRecentlySeenCumulativePaymentDue = 0;
-$mostRecentlySeenCumulativeReimbursementDue = 0;
 foreach($monthList as $month) {
   if ($cumulativePaymentMadeTillMonth[$month] > 0) {
     $mostRecentlySeenCumulativePaymentDue = $cumulativePaymentMadeTillMonth[$month];

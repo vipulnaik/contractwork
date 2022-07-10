@@ -27,6 +27,9 @@ for ($i = 0; $i < $taskSelectResult -> num_rows; $i++) {
   $row = $taskSelectResult -> fetch_assoc();
   $paymentForTaskTypeAndYear[$row['task_type']][$row['year']] = $row['payment'];
   $totalTaskPaymentForYear[$row['year']] += $row['payment'];
+  if (!isset($totalPaymentForTaskType[$row['task_type']])) {
+    $totalPaymentForTaskType[$row['task_type']] = 0;
+  }
   $totalPaymentForTaskType[$row['task_type']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
