@@ -62,7 +62,7 @@ print '<tr><th>Month</th>';
 print "<th>Total across topics</th>";
 foreach ($topics as $topic) {
   if ($totalPaymentForTopic[$topic] > 0) {
-    print "<th>$topic</th>";
+    print '<th><a href="/topic.php?topic='.urlencode($topic).'">'.$topic.'</th>';
   }
 }
 print '</tr>';

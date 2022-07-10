@@ -52,30 +52,30 @@ print "\n";
 print '<table id="myTableTopicTaskPaymentsDueByTypeAndYear" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Task type</th>';
+print '<th>Total across years</th>';
 foreach (array_reverse($yearList) as $year) {
   print "<th>Total in year $year</th>";
 }
-print '<th>Total across years</th></tr>';
-print "</thead>\n<tbody>\n";
+print "</tr></thead>\n<tbody>\n";
 
 foreach($taskTypes as $taskType) {
   if ($totalPaymentForTaskType[$taskType] > 0) {
     print "<tr>\n";
     print "    <td>$taskType</td>\n";
+    print '    <td align="right"><strong>'.number_format($totalPaymentForTaskType[$taskType],2)."</strong></td>\n";
     foreach (array_reverse($yearList) as $year) {
       print '    <td align="right">'.number_format($paymentForTaskTypeAndYear[$taskType][$year],2)."</td>\n";
     }
-    print '    <td align="right">'.number_format($totalPaymentForTaskType[$taskType],2)."</td>\n";
     print "</tr>\n";
   }
 }
 
 print "</tbody>\n<tfoot>\n";
 print "<tr>\n    <td><strong>Total</td>\n";
+print '    <td align="right"><strong>'.number_format($totalTaskPaymentAcrossYears,2)."</strong></td>\n";
 foreach (array_reverse($yearList) as $year) {
   print '    <td align="right"><strong>'.number_format($totalPaymentForYear[$year],2)."</strong></td>\n";
 }
-print '    <td align="right"><strong>'.number_format($totalTaskPaymentAcrossYears,2)."</strong></td>\n";
 print "</tr>\n";
 print "</tfoot>\n</table>\n";
 ?>
