@@ -50,7 +50,7 @@ Total so far: $310
 
 Total so far: $900
 
-Not yet accepted:
+Accepted:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_biotechnology_companies Timeline of biotechnology companies]: $600. Completed July 7, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_biotechnology_companies&oldid=67010 (2022-07-08 05:06 UTC, 232695 bytes, 11 sample questions, 6 rows in big picture, 4 visual data charts and 1 data table, 350 rows in full timeline)
 
