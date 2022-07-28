@@ -46,6 +46,16 @@ Total so far: $310
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Tesla,_Inc. Timeline of Tesla, Inc.]: $220. Completed June 28, 2022. [https://timelines.issarice.com/index.php?title=Timeline_of_Tesla%2C_Inc.&type=revision&diff=66710&oldid=11847 Diff]. Increased from 14847 bytes to 83855 bytes. 92 new rows in full timeline, introduction of sample questions, more numerical and visual data, updated big picture, column for images in full timeline
 
+=== Tentative pending payments ===
+
+Total so far: $900
+
+Not yet accepted:
+
+* [https://timelines.issarice.com/wiki/Timeline_of_biotechnology_companies Timeline of biotechnology companies]: $600. Completed July 7, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_biotechnology_companies&oldid=67010 (2022-07-08 05:06 UTC, 232695 bytes, 11 sample questions, 6 rows in big picture, 4 visual data charts and 1 data table, 350 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_quantification_of_life Timeline of quantification of life]: $300. Completed July 26, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_quantification_of_life&oldid=67544 (2022-07-27 01:50 UTC, 94160 bytes, 6 sample questions, 3 rows in big picture, 3 data tables, 134 rows in full timeline)
+
 === Org Watch ===
 
 Total so far: $1037
