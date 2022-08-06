@@ -1,10 +1,10 @@
 create table payer_payments(
   payment_id int(11) not null auto_increment primary key,
-  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo','Ethereum','Bitcoin','Direct deposit via Gusto', 'Direct deposit') not null,
+  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo','Ethereum','Bitcoin','Direct deposit via Gusto','Direct deposit','FTX') not null,
   payer varchar(40) not null,
   intermediary varchar(40) default null,
-  sent_date date NOT NULL,
-  payment_notice_receipt_date date NOT NULL,
+  sent_date date not null,
+  payment_notice_receipt_date date not null,
   cashout_request_date date,
   receipt_date date,
   payment float(7,2) not null,
@@ -27,9 +27,6 @@ insert into payer_payments(payment_method, payer, sent_date, payment_notice_rece
   /* Centre for Effective Altruism */
   ('Direct deposit','Centre for Effective Altruism','2019-11-15','2019-11-15','2019-11-15','2019-11-15',50,50,0,50),
   /* Andy Matuschak */
-  ('PayPal','Andy Matuschak','2021-07-14','2021-07-14','2021-07-14','2021-07-14',200,200,0,200);
-
-
-
-
-
+  ('PayPal','Andy Matuschak','2021-07-14','2021-07-14','2021-07-14','2021-07-14',200,200,0,200),
+  /* Future Fund Regranting Program */
+  ('FTX','Future Fund Regranting Program','2022-08-06','2022-08-06','2022-08-06','2022-08-06',8000,8000,0,8000);

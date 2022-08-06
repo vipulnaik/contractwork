@@ -1,10 +1,10 @@
 create table payments(
   payment_id int(11) not null auto_increment primary key,
-  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo', 'Ethereum', 'Bitcoin', 'Bitcoin Cash', 'Direct deposit via Gusto', 'Direct deposit') not null,
+  payment_method enum('Cash','Check','PayPal','Wire transfer','Western Union','Debit card via Facebook','Venmo', 'Ethereum', 'Bitcoin', 'Bitcoin Cash', 'Direct deposit via Gusto', 'Direct deposit', 'FTX') not null,
   payee varchar(40) not null,
   intermediary varchar(40) default null,
   sent_date date NOT NULL,
-  payment_notice_receipt_date date NOT NULL,
+  payment_notice_receipt_date date not null,
   cashout_request_date date,
   receipt_date date,
   payment float(7,2) not null,
@@ -69,6 +69,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Bitcoin Cash','Sebastian Sanchez',NULL,'2022-01-11','2022-01-11','2022-01-11','2022-01-11',1069.33,1069.33,0,1069.33,'Transaction in Bitcoin Cash for 2.90383 BCH (and calculated in terms of USD value at time of transaction of $368.25 per BCH) with a very small transaction fee of 0.00000226 BCH (less than 0.01 USD). Transaction available online at https://btc.com/bch/transaction/77d820114df0bb00bdb6772e133594c2da74347622533021c43cb642737d9e62 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).'),
   ('Bitcoin','Sebastian Sanchez',NULL,'2022-02-05','2022-02-05','2022-02-05','2022-02-05',4175.01,4175.17,0.16,4175.01,'Transaction in Bitcoin for 0.1 BTC (and calculated in terms of USD value at time of transaction of $41,750.08 per BTC) with a very small transaction fee of 0.00000387 BTC ($0.16 USD). Transaction available online at https://www.blockchain.com/btc/tx/0fcc8f38ccebbef6ef5cace5bc736a86e786f3e3f34904e187b1c64605993f9d (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).'),
   ('Bitcoin','Sebastian Sanchez',NULL,'2022-06-01','2022-06-01','2022-06-01','2022-06-01',3056.59,3056.75,0.16,3056.59,'Transaction in Bitcoin for 0.1 BTC (and calculated in terms of USD value at time of transaction of $30,565.91 per BTC) with a very small transaction fee of 0.00000519 BTC ($0.16 USD). Transaction available online at https://www.blockchain.com/btc/tx/22ab000176c53bdb11bde7826de0ff31abe93f37696f6d7b5f10ff3f04223eac (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).'),
+  ('FTX','Sebastian Sanchez',NULL,'2022-08-06','2022-08-06','2022-08-06','2022-08-06',8000,8000,0,8000,'Transaction in USD Coin using FTX, providing upfront the entire amount of the Future Fund Regranting Program grant for Timelines Wiki work by Sebastian Sanchez.'),
 
   /* Ethan Bashkansky payments */
   ('Cash','Ethan Bashkansky','Issa Rice','2016-02-17','2016-02-17','2016-02-17','2016-02-17',115,115,0,115,NULL),

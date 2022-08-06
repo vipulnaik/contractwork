@@ -22,9 +22,9 @@ Total money earned as income: $9415 (breakdown: $8859 for Vipul Naik, $556 for F
 
 Forward balance carried over from 2021: ($2571.99) (all for Vipul Naik)
 
-Payment made: $8300.93 (all for Vipul Naik)
+Payment made: $16300.93 ($8300.93 from Vipul Naik, $8000 from Future Fund Regranting Program)
 
-Net payment due: ($1457.92) (breakdown: ($2013.92) for Vipul Naik, $556 for Future Fund Regranting Program)
+Net payment due: ($9457.92) (breakdown: ($2013.92) for Vipul Naik, ($7444) for Future Fund Regranting Program)
 
 === New timelines (Timelines wiki) ===
 
@@ -109,6 +109,12 @@ Total so far: $8300.93
 * $4175.01 sent and received Saturday, February 5, 2022. Transaction in Bitcoin for 0.1 BTC (and calculated in terms of USD value at time of transaction of $41,750.08 per BTC) with a very small transaction fee of 0.00000387 BTC ($0.16 USD). Transaction available online at https://www.blockchain.com/btc/tx/0fcc8f38ccebbef6ef5cace5bc736a86e786f3e3f34904e187b1c64605993f9d (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 * $3056.59 sent and received Wednesday, June 1, 2022. Transaction in Bitcoin for 0.1 BTC (and calculated in terms of USD value at time of transaction of $30,565.91 per BTC) with a very small transaction fee of 0.00000519 BTC ($0.16 USD). Transaction available online at https://www.blockchain.com/btc/tx/22ab000176c53bdb11bde7826de0ff31abe93f37696f6d7b5f10ff3f04223eac (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
+=== Payments made by Future Fund Regranting Program ===
+
+Total so far: $8000
+
+* $8000 sent and received Saturday, August 6, 2022. Transaction in USD Coin using FTX, providing upfront the entire amount of the Future Fund Regranting Program grant for Timelines Wiki work by Sebastian Sanchez.
 
 == Work in 2021 ==
 
