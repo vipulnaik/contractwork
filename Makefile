@@ -8,15 +8,15 @@ init:
 
 .PHONY: reset
 reset:
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists tasks;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists payments;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists commissions;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists royalties;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists stipends;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists payer_payments;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists tax_adjustments;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists workers;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists payers;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists tasks;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists payments;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists commissions;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists royalties;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists stipends;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists payer_payments;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists tax_adjustments;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists workers;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists payers;"
 
 .PHONY: read
 read: read_public read_private
