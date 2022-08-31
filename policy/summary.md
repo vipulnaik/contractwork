@@ -98,3 +98,4 @@ hours per month.
 |Contract Work portal|8.5|Tasks assigned by Vipul||
 |wikiHow|7.5|titles chosen by Vipul|"specified cap per article (so we renegotiate if after 75% of the cap you think we won't be able to be done within the cap)". Report time as separate task for new articles, but in generic wikiHow task for minor improvements to existing articles.|
 |Learning Subwiki|6.25|"Weekly checkins and regular discussions"|Continued work subject to weekly checkins, which are a two-way responsibility.|
+|Timelines wiki (review of Sebastian's timelines + general work on timelines best practices development)|9.50|Tasks assigned by Vipul|
