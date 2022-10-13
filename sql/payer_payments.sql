@@ -29,4 +29,5 @@ insert into payer_payments(payment_method, payer, sent_date, payment_notice_rece
   /* Andy Matuschak */
   ('PayPal','Andy Matuschak','2021-07-14','2021-07-14','2021-07-14','2021-07-14',200,200,0,200),
   /* Future Fund Regranting Program */
-  ('FTX','Future Fund Regranting Program','2022-08-06','2022-08-06','2022-08-06','2022-08-06',8000,8000,0,8000);
+  ('FTX','Future Fund Regranting Program','2022-08-06','2022-08-06','2022-08-06','2022-08-06',8000,8000,0,8000),
+  ('FTX','Future Fund Regranting Program','2022-10-10','2022-10-10','2022-10-10','2022-10-10',17000,17000,0,17000);

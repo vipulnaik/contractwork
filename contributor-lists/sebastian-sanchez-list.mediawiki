@@ -22,9 +22,9 @@ Total money earned as income: $11556.50 (breakdown: $9868.50 for Vipul Naik, $16
 
 Forward balance carried over from 2021: ($2571.99) (all for Vipul Naik)
 
-Payment made: $16300.93 ($8300.93 from Vipul Naik, $8000 from Future Fund Regranting Program)
+Payment made: $33300.93 ($8300.93 from Vipul Naik, $25000 from Future Fund Regranting Program)
 
-Net payment due: ($7316.42) (breakdown: ($1004.42) for Vipul Naik, ($6312) for Future Fund Regranting Program)
+Net payment due: ($24316.42) (breakdown: ($1004.42) for Vipul Naik, ($23312) for Future Fund Regranting Program)
 
 === New timelines (Timelines wiki) ===
 
@@ -124,9 +124,11 @@ Total so far: $8300.93
 
 === Payments made by Future Fund Regranting Program ===
 
-Total so far: $8000
+Total so far: $25000
 
 * $8000 sent and received Saturday, August 6, 2022. Transaction in USD Coin using FTX, providing upfront the entire amount of the Future Fund Regranting Program grant for Timelines Wiki work by Sebastian Sanchez.
+
+* $17000 sent and received Monday, October 10, 2022. Transaction in USD using FTX, providing upfront the entire amount of the second Future Fund Regranting Program grant for Timelines Wiki work by Sebastian Sanchez.
 
 == Work in 2021 ==
 
