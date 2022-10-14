@@ -90,6 +90,7 @@ $setName['2018'] = 'Schedule SE - Self-Employment Tax Part B - Taxpayer';
 $setName['2019'] = 'Schedule SE - Self-Employment Tax Part B - Taxpayer';
 $setName['2020'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
 $setName['2021'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
+$setName['2022'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
 
 $s2TotalLineNumber['2018'] = 10;
 $s2TotalLineNumber['2019'] = 10;
