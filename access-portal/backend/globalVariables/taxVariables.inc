@@ -105,6 +105,7 @@ $standardDeduction['2018'] = 12000;
 $standardDeduction['2019'] = 12200;
 $standardDeduction['2020'] = 12400;
 $standardDeduction['2021'] = 12550;
+$standardDeduction['2022'] = 12950;
 $basicExemption['2015'] = 3950;
 $basicExemption['2016'] = 4050;
 $basicExemption['2017'] = 4050;
@@ -112,6 +113,7 @@ $basicExemption['2018'] = 0;
 $basicExemption['2019'] = 0;
 $basicExemption['2020'] = 0;
 $basicExemption['2021'] = 0;
+$basicExemption['2022'] = 0;
 $selfEmploymentFilingThreshold['2015'] = 400;
 $selfEmploymentFilingThreshold['2016'] = 400;
 $selfEmploymentFilingThreshold['2017'] = 400;
@@ -119,6 +121,7 @@ $selfEmploymentFilingThreshold['2018'] = 400;
 $selfEmploymentFilingThreshold['2019'] = 400;
 $selfEmploymentFilingThreshold['2020'] = 400;
 $selfEmploymentFilingThreshold['2021'] = 400;
+$selfEmploymentFilingThreshold['2022'] = 400;
 $minimumPayableBalance = 1;
 $minimumCollectionBalance = 5;
 
@@ -172,6 +175,13 @@ function computeTax($taxableIncome, $year) {
   $bracket24Top['2021'] = 164925;
   $bracket32Top['2021'] = 209425;
   $bracket35Top['2021'] = 523600;
+
+  $bracket10Top['2022'] = 10275;
+  $bracket12Top['2022'] = 41775;
+  $bracket22Top['2022'] = 89075;
+  $bracket24Top['2022'] = 170050;
+  $bracket32Top['2022'] = 215950;
+  $bracket35Top['2022'] = 539900;
 
   if ($taxableIncome < 0) {
     return 0;
