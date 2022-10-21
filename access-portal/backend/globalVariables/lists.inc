@@ -10,7 +10,7 @@ $taskTypes = array("Wikipedia page creation","Wikipedia page update","Wikipedia 
 
 $taskVenues = array("Wikipedia","Wikipedia Views","Effective Altruism Forum","LessWrong","Personal website","Wikimedia meta","wikiHow","Quora","Market subwiki","Donations list website", "Contract work for Vipul Naik","Timelines wiki","PredictionBook","Facebook", "Devec subwiki", "Demography subwiki", "Devec/Demography data portal","AI Watch","People repo","Wikipedia spotlight","Computing data project","Cause Prioritization Wiki","Org Watch","analytics.vipulnaik.com","Wikiquote","AI safety wiki","None");
 
-$taskFormats = array("Timeline","Prose","Table","Code","Photos/videos + notes","Code and data","Communication with Vipul","Communication with worker","Email");
+$taskFormats = array("Prose","Prose with tables","Translation","Timeline","Table","Graphs","Data","Photos/videos + notes","Outreach","Prose/Opinion","Email","Prose/How-to","Communication with Vipul","No record","Spreadsheet","Code","N/A","Survey","Prose, tables, and charts","Prose/Autobiography","Prose/transcript","Prose with diagram","Code and data","Graphs and code","Prose with tables and charts and code","Structured data","Private communication + code","Communication with worker","Predictions","Domain renewal","Notes","Code and comments","Documentation","Private communication","Orbit Q&A");
 
 $topics = array("Health","Global health","Country healthcare","Animal welfare","Technology","Philanthropy","People","Wikipedia","United States taxation","United States migration","United States politics","Political philosophy","Digital preservation","Artificial intelligence","Poverty","Government","GiveWell");
 
