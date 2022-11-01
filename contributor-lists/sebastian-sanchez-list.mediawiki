@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2022 ==
 
-Total money earned as income: $11556.50 (breakdown: $9868.50 for Vipul Naik, $1688 for Future Fund Regranting Program)
+Total money earned as income: $12513.50 (breakdown: $10381.50 for Vipul Naik, $2132 for Future Fund Regranting Program)
 
 Forward balance carried over from 2021: ($2571.99) (all for Vipul Naik)
 
 Payment made: $33300.93 ($8300.93 from Vipul Naik, $25000 from Future Fund Regranting Program)
 
-Net payment due: ($24316.42) (breakdown: ($1004.42) for Vipul Naik, ($23312) for Future Fund Regranting Program)
+Net payment due: ($23359.42) (breakdown: ($491.42) for Vipul Naik, ($22868) for Future Fund Regranting Program)
 
 === New timelines (Timelines wiki) ===
 
@@ -52,7 +52,7 @@ Total so far: $310
 
 === Org Watch ===
 
-Total so far: $2040.50
+Total so far: $2337.50
 
 Starting March 2022, the first 25 hours per month of work on Org Watch are paid at $9/hour; later hours are paid at $5/hour. Starting July 2022, the first 40 hours per month of work on Org Watch are paid at $9/hour; later hours are paid at $5/hour.
 
@@ -74,9 +74,11 @@ Starting March 2022, the first 25 hours per month of work on Org Watch are paid 
 
 * September: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-09-01&until=2022-09-30 for more details. The first commit for the month was on 2022-09-04 and the last commit for the month was on 2022-09-29.
 
+* October: $297. 33 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-10-01&until=2022-10-31 for more details. The first commit for the month was on 2022-10-01 and the last commit for the month was on 2022-10-31.
+
 === Stipends for Vipul Naik ===
 
-Total so far: $4918
+Total so far: $5134
 
 The rule of thumb for stipend is: $4/hour
 
@@ -98,9 +100,11 @@ The rule of thumb for stipend is: $4/hour
 
 * September: $152. The payment is at $4/hour for 38 hours worked, all hours being eligible for stipend. All time was spent on Org Watch.
 
+* October: $216. The payment is at $4/hour for 54 hours worked, all hours being eligible for stipend. Total time spent was as follows: 21 hours on Timelines Wiki and 33 hours on Org Watch.
+
 === Stipends for Future Fund Regranting Program ===
 
-Total so far: $1688
+Total so far: $2132
 
 The rule of thumb for stipend is: $4/hour
 
@@ -111,6 +115,8 @@ The rule of thumb for stipend is: $4/hour
 * August: $584. The payment is at $4/hour for all 146 hours worked on Timelines Wiki.
 
 * September: $548. The payment is at $4/hour for all 137 hours worked on Timelines Wiki.
+
+* October: $444. The payment is at $4/hour for all 111 hours worked on Timelines Wiki.
 
 === Payments made by Vipul Naik ===
 
