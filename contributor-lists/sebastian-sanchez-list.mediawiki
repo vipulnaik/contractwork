@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 == Work in 2022 ==
 
-Total money earned as income: $12513.50 (breakdown: $10381.50 for Vipul Naik, $2132 for Future Fund Regranting Program)
+Total money earned as income: $13713.50 (breakdown: $10381.50 for Vipul Naik, $3332 for Future Fund Regranting Program)
 
 Forward balance carried over from 2021: ($2571.99) (all for Vipul Naik)
 
 Payment made: $35352.34 ($10352.34 from Vipul Naik, $25000 from Future Fund Regranting Program)
 
-Net payment due: ($25410.83) (breakdown: ($2542.83) for Vipul Naik, ($22868) for Future Fund Regranting Program)
+Net payment due: ($24210.83) (breakdown: ($2542.83) for Vipul Naik, ($21668) for Future Fund Regranting Program)
 
 === New timelines (Timelines wiki) for Vipul Naik ===
 
@@ -50,11 +50,9 @@ Total so far: $310
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Tesla,_Inc. Timeline of Tesla, Inc.]: $220. Completed June 28, 2022. [https://timelines.issarice.com/index.php?title=Timeline_of_Tesla%2C_Inc.&type=revision&diff=66710&oldid=11847 Diff]. Increased from 14847 bytes to 83855 bytes. 92 new rows in full timeline, introduction of sample questions, more numerical and visual data, updated big picture, column for images in full timeline
 
-=== Tentative pending payments for Future Fund Regranting Program ===
+=== New timelines (Timelines wiki) for Future Fund Regranting Program ===
 
 Total so far: $1200
-
-New timelines:
 
 * [https://timelines.issarice.com/wiki/Timeline_of_existential_risk Timeline of existential risk]: $1200. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $600 that Vipul Naik would pay for the timeline. Completed November 1, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_existential_risk&oldid=70686 (2022-11-02 01:43 UTC, 221803 bytes, 11 sample questions, 3 rows in big picture, 4 visual data charts and 1 data table, 287 rows in full timeline)
 

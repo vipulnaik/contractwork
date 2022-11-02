@@ -42,7 +42,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, `language`) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page translation', 'Dolor en los animales', 'https://es.wikipedia.org/wiki/Dolor_en_los_animales','2016-04-21',100,'Animal welfare','Translation', 'Source: Pain in animals (English Wikipedia)','es');
 
-/* Sebastian Sanchez's Wikipedia and Timelines wiki page creation and page update work */
+/* Sebastian Sanchez's Wikipedia and Timelines wiki page creation and page update work for Vipul Naik */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of cholera', 'https://en.wikipedia.org/wiki/Timeline_of_cholera','2016-04-23',100,'Global health/diseases','Timeline', NULL),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page creation', 'Timeline of malaria', 'https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-04-27',200,'Global health/diseases/malaria','Timeline', NULL),
@@ -384,6 +384,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Added 2022-08-01 (date of finalization) for work completed in July 2022 (page creation) */
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of biotechnology companies','https://timelines.issarice.com/wiki/Timeline_of_biotechnology_companies','2022-07-07',600,'Biomedical research','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_biotechnology_companies&oldid=67010 (2022-07-08 05:06 UTC, 232695 bytes, 11 sample questions, 6 rows in big picture, 4 visual data charts and 1 data table, 350 rows in full timeline)'),
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of quantification of life','https://timelines.issarice.com/wiki/Timeline_of_quantification_of_life','2022-07-26',300,'Economics','Timeline','Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_quantification_of_life&oldid=67544 (2022-07-27 01:50 UTC, 94160 bytes, 6 sample questions, 3 rows in big picture, 3 data tables, 134 rows in full timeline)');
+
+/* Sebastian Sanchez's work on timelines wiki for Future Fund */
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
+  ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of existential risk','https://timelines.issarice.com/wiki/Timeline_of_existential_risk','2022-11-01',1200,'Global catastrophic risks','Timeline','This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $600 that Vipul Naik would pay for the timeline. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_existential_risk&oldid=70686 (2022-11-02 01:43 UTC, 221803 bytes, 11 sample questions, 3 rows in big picture, 4 visual data charts and 1 data table, 287 rows in full timeline)','Future Fund Regranting Program');
 
 /* Sebastian Sanchez work on other projects like Org Watch, DLW, subwiki */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
