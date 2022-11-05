@@ -921,7 +921,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2020-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).'),
   /* 2021 tasks */
   ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2021-11-03',48.51,'Cause prioritization','Domain renewal','Details: $15.99 - causeprioritization.com, $15.99 - causeprioritisation.com, $15.99 - causeprioritisation.org, plus taxes. Issa shouldered the $15.99 cost of renewing the main domain causeprioritization.org himself.'),
-  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2021-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).');
+  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2021-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).'),
+  /* 2022 tasks */
+  ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2022-10-30',50.51,'Cause prioritization','Domain renewal','Details: $17.17 - causeprioritization.com, $17.17 - causeprioritisation.com, $16.17 - causeprioritisation.org. Issa shouldered the cost of renewing the main domain causeprioritization.org himself.');
 
 /* Issa Rice payments, with time clocked
 Other payments to Issa Rice */
@@ -1141,7 +1143,11 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for September 2022 */
   ('Issa Rice','Timelines wiki','Consulting','N/A','N/A','2022-09-17',36.58,'Timelines','N/A','Spent 3 hours 51 minutes at $9.50/hour. This was a meeting with Vipul and Sebastian that reviewed the situation with timelines, with much of it focused on recent work and planned future work by Sebastian on timelines for the Future Fund Regranting Program. Work done 2022-09-17.',231),
   ('Issa Rice','Timelines wiki','Consulting','Timeline of existential risk','https://timelines.issarice.com/wiki/Timeline_of_existential_risk','2022-09-05',8.74,'Global catastrophic risks','Prose','Review of the timeline. Spent 55 minutes at $9.50/hour. Work done 2022-09-05.',55),
-  ('Issa Rice','Timelines wiki','Consulting','N/A','N/A','2022-09-06',8.55,'Timelines','Prose','Review of various timelines wiki meta pages. Spent 54 minutes at $9.50/hour. Work done 2022-09-06.',54);
+  ('Issa Rice','Timelines wiki','Consulting','N/A','N/A','2022-09-06',8.55,'Timelines','Prose','Review of various timelines wiki meta pages. Spent 54 minutes at $9.50/hour. Work done 2022-09-06.',54),
+  /* Tasks added for October 2022 */
+  ('Issa Rice','AI Watch','Consulting','N/A','N/A','2022-10-23',3.14,'AI safety','N/A','Spent 20 minutes at $9.50/hour. Work done 2022-10-23. This comprises work dealing with an inbound email.',20),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2022-10-15',1.43,'Organizational structures and dynamics','N/A','Spent 9 minutes at $9.50/hour assisting Sebastian. Work done 2022-10-15.',9),
+  ('Issa Rice','Timelines wiki','Consulting','N/A','N/A','2022-10-22',19,'Timelines','N/A','Spent 2 hours at $9.50/hour. This was a meeting with Vipul and Sebastian that reviewed the situation with timelines, with much of it focused on recent work and planned future work by Sebastian on timelines for the Future Fund Regranting Program. Work done 2022-10-22.',120);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
