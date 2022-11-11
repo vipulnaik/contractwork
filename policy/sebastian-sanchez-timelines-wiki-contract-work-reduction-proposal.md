@@ -131,6 +131,16 @@ accumulate an overage of (165 - 150) = 15 hours. If in July he works
 120 or fewer hours, he can use those 15 hours and still stay within
 the July limit of 135 hours.
 
+### Temporary return to 150 hours per month while Future Fund Regranting Program situation is resolved
+
+With the collapse of FTX in November 2022, and uncertainty about
+whether we should continue to use money from the Future Fund
+Regranting Program, we're temporarily returning to a cap 150 hours per
+month for work on Timelines Wiki for Vipul Naik. This temporary return
+starts November 2022 and will continue until March 2023, or once the
+Future Fund Regranting Program situation is resolved, whichever is
+earlier.
+
 ## Continued monitoring and tweaks
 
 ### Month-to-month monitoring
