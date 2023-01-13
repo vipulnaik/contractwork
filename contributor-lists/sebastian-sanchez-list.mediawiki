@@ -22,15 +22,21 @@ Total money earned as income: $0
 
 Forward balance caried over from 2022: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for Future Fund Regranting Program)
 
-Payment made: $0
+Payment made: $3772.88
 
-Net payment due: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for Future Fund Regranting Program)
+Net payment due: ($18578.71) (breakdown: ($4574.71) for Vipul Naik, ($14004) for Future Fund Regranting Program)
 
 ===Tentative pending payments for Future Fund Regranting Program===
 
 Total so far: $800
 
 * (accepted) [https://timelines.issarice.com/wiki/Timeline_of_transhumanism Timeline of transhumanism]: $800. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $400 that Vipul Naik would pay for the timeline. Completed January 10, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_transhumanism&oldid=72485 (2023-01-10 21:03 UTC, 154834 bytes, 8 sample questions + additional bullet point, 6 rows in big picture, 4 visual data charts and 1 data table, 206 rows in full timeline)
+
+===Payments made by Vipul Naik===
+
+Total so far: $3772.88
+
+* $3772.88 sent and received Thursday, January 12, 2023. Transaction in Bitcoin for 0.2 BTC (and calculated in terms of USD value at time of transaction of $18,864.38 per BTC) with a very small transaction fee of 0.00001981 BTC ($0.37 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/09cbe1824c07e330b4d298d0e07f566b58dac4a4cc6a86a638b753f21bf9a63e (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 == Work in 2022 ==
 
