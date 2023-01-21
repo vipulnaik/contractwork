@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2022 ==
 
-Total money earned as income (taxable as income for 2022): $1008.41
+Total money earned as income (taxable as income for 2022): $1324.81
 
 Payment made: $1382.30
 
 Carryover payment due from 2021: $510.76
 
-Net payment due: $136.87
+Net payment due: $453.27
 
 === Work on AI Watch ===
 
@@ -40,7 +40,7 @@ Total so far: $9.79
 
 === Work on Org Watch ===
 
-Total so far: $172.56
+Total so far: $177.98
 
 * Work on Org Watch in January: $12.07. Spent 1 hour 16 minutes at $9.50/hour. Work done 2022-01-30. Work on https://github.com/riceissa/aiwatch/issues/98
 
@@ -73,6 +73,8 @@ Total so far: $172.56
 * Work on Org Watch in August (meetings with Vipul and Sebastian): $11.59. Spent 73 minutes at $9.50/hour on part of a meeting with Vipul and Sebastian that was devoted to Org Watch processes and figuring out a priority list of organizations. The rest of the meeting was about Timelines Wiki. Work done 2022-08-20.
 
 * Work on Org Watch in October (assisting Sebastian): $1.43. Spent 9 minutes at $9.50/hour assisting Sebastian. Work done 2022-10-15.
+
+* Work on Org Watch in December (general): $5.42. Spent 34 minutes at $9.50/hour. Work done 2022-12-24 and involving some updates to Future of Life Institute data; see https://github.com/riceissa/aiwatch/commits?since=2022-12-24&until=2022-12-24 for details.
 
 === Work on Donations list website (DLW) ===
 
@@ -112,6 +114,12 @@ Total so far: $317.63
 
 * Work on Timelines Wiki in October (meeting with Vipul and Sebastian): $19. Spent 2 hours at $9.50/hour. This was a meeting with Vipul and Sebastian that reviewed the situation with timelines, with much of it focused on recent work and planned future work by Sebastian on timelines for the Future Fund Regranting Program. Work done 2022-10-22.
 
+=== Work on timelines wiki maintenance ===
+
+Total so far: $300
+
+* $300: Year-round maintenance of Timelines Wiki: $20/month for hosting, and $5/month for main page updates
+
 === Work on Cause Prioritization Wiki ===
 
 Total so far: $50.51
@@ -126,7 +134,7 @@ Total so far: $1.14
 
 === Stipends ===
 
-Total so far: $417.42
+Total so far: $428.40
 
 * January: $22.95. 2.55 hours at $9/hour
 
@@ -149,6 +157,8 @@ Total so far: $417.42
 * October: $55.17. 6.13 hours at $9/hour
 
 * November: $6.48. 0.72 hours at $9/hour
+
+* December: $10.98. 1.22 hours at $9/hour
 
 === Payments made ===
 

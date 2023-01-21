@@ -927,7 +927,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2021-11-03',48.51,'Cause prioritization','Domain renewal','Details: $15.99 - causeprioritization.com, $15.99 - causeprioritisation.com, $15.99 - causeprioritisation.org, plus taxes. Issa shouldered the $15.99 cost of renewing the main domain causeprioritization.org himself.'),
   ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2021-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).'),
   /* 2022 tasks */
-  ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2022-10-30',50.51,'Cause prioritization','Domain renewal','Details: $17.17 - causeprioritization.com, $17.17 - causeprioritisation.com, $16.17 - causeprioritisation.org. Issa shouldered the cost of renewing the main domain causeprioritization.org himself.');
+  ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2022-10-30',50.51,'Cause prioritization','Domain renewal','Details: $17.17 - causeprioritization.com, $17.17 - causeprioritisation.com, $16.17 - causeprioritisation.org. Issa shouldered the cost of renewing the main domain causeprioritization.org himself.'),
+  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2022-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).');
 
 /* Issa Rice payments, with time clocked
 Other payments to Issa Rice */
@@ -1153,7 +1154,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2022-10-15',1.43,'Organizational structures and dynamics','N/A','Spent 9 minutes at $9.50/hour assisting Sebastian. Work done 2022-10-15.',9),
   ('Issa Rice','Timelines wiki','Consulting','N/A','N/A','2022-10-22',19,'Timelines','N/A','Spent 2 hours at $9.50/hour. This was a meeting with Vipul and Sebastian that reviewed the situation with timelines, with much of it focused on recent work and planned future work by Sebastian on timelines for the Future Fund Regranting Program. Work done 2022-10-22.',120),
   /* Tasks added for November 2022 */
-  ('Issa Rice','None','Consulting','N/A','N/A','2022-11-18',1.14,'Wikipedia','Private communication','Spent 7 minutes at $9.50/hour helping Vipul figure out some stuff related to the setup of wikidossier (hosted at https://wikidossier.vipulnaik.com/ currently). Work done 2022-11-18.',7);
+  ('Issa Rice','None','Consulting','N/A','N/A','2022-11-18',1.14,'Wikipedia','Private communication','Spent 7 minutes at $9.50/hour helping Vipul figure out some stuff related to the setup of wikidossier (hosted at https://wikidossier.vipulnaik.com/ currently). Work done 2022-11-18.',7),
+  /* Tasks added for December 2022 */
+  ('Issa Rice','Org Watch','Data entry','N/A','N/A','2022-12-24',5.42,'Organizational structures and dynamics','N/A','Spent 34 minutes at $9.50/hour. Work done 2022-12-24 and involving some updates to Future of Life Institute data; see https://github.com/riceissa/aiwatch/commits?since=2022-12-24&until=2022-12-24 for details.',34);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
