@@ -28,9 +28,11 @@ Net payment due: ($18578.71) (breakdown: ($4574.71) for Vipul Naik, ($14004) for
 
 ===Tentative pending payments for Vipul Naik===
 
-Total so far: $370
+Total so far: $750
 
 * (accepted) [https://timelines.issarice.com/wiki/Timeline_of_Coinbase Timeline of Coinbase]: $370. Completed January 12, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Coinbase&oldid=72540 (2023-01-13 02:45 UTC, 143696 bytes, 10 sample questions + additional bullet point, 3 and 4 rows in big picture tables, 3 visual data charts and 1 data table, 171 rows in full timeline)
+
+* (not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_medical_testing Timeline of medical testing]: $380. Completed January 21, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_testing&oldid=72724 (2023-01-22 04:46 UTC, 147122 bytes, 6 sample questons, 6 rows in big picture, 3 visual data charts and 1 data table, 164 rows in full timeline)
 
 ===Tentative pending payments for Future Fund Regranting Program===
 
