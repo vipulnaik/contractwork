@@ -18,27 +18,49 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2023==
 
-Total money earned as income: $0
+Total money earned as income: $2411 (breakdown: $1363 for Vipul Naik, $1048 for Future Fund Regranting Program)
 
 Forward balance caried over from 2022: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for Future Fund Regranting Program)
 
 Payment made: $3772.88
 
-Net payment due: ($18578.71) (breakdown: ($4574.71) for Vipul Naik, ($14004) for Future Fund Regranting Program)
+Net payment due: ($16167.71) (breakdown: ($3211.71) for Vipul Naik, ($12956) for Future Fund Regranting Program)
 
-===Tentative pending payments for Vipul Naik===
+===New timelines (Timelines wiki) for Vipul Naik==
 
 Total so far: $750
 
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_Coinbase Timeline of Coinbase]: $370. Completed January 12, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Coinbase&oldid=72540 (2023-01-13 02:45 UTC, 143696 bytes, 10 sample questions + additional bullet point, 3 and 4 rows in big picture tables, 3 visual data charts and 1 data table, 171 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_Coinbase Timeline of Coinbase]: $370. Completed January 12, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Coinbase&oldid=72540 (2023-01-13 02:45 UTC, 143696 bytes, 10 sample questions + additional bullet point, 3 and 4 rows in big picture tables, 3 visual data charts and 1 data table, 171 rows in full timeline)
 
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_medical_testing Timeline of medical testing]: $380. Completed January 21, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_testing&oldid=72724 (2023-01-22 04:46 UTC, 147122 bytes, 6 sample questons, 6 rows in big picture, 3 visual data charts and 1 data table, 164 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_medical_testing Timeline of medical testing]: $380. Completed January 21, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_testing&oldid=72724 (2023-01-22 04:46 UTC, 147122 bytes, 6 sample questons, 6 rows in big picture, 3 visual data charts and 1 data table, 164 rows in full timeline)
 
-===Tentative pending payments for Future Fund Regranting Program===
+===New timelines (Timelines wiki) for Future Fund Regranting Program===
 
 Total so far: $800
 
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_transhumanism Timeline of transhumanism]: $800. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $400 that Vipul Naik would pay for the timeline. Completed January 10, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_transhumanism&oldid=72485 (2023-01-10 21:03 UTC, 154834 bytes, 8 sample questions + additional bullet point, 6 rows in big picture, 4 visual data charts and 1 data table, 206 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_transhumanism Timeline of transhumanism]: $800. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $400 that Vipul Naik would pay for the timeline. Completed January 10, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_transhumanism&oldid=72485 (2023-01-10 21:03 UTC, 154834 bytes, 8 sample questions + additional bullet point, 6 rows in big picture, 4 visual data charts and 1 data table, 206 rows in full timeline)
+
+=== Org Watch ===
+
+Total so far: $333
+
+* January: $333. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-01-01&until=2023-01-31 for more details. The first commit for the month was on 2023-01-01 and the last commit for the month was on 2023-01-31.
+
+===Stipends for Vipul Naik===
+
+Total so far: $280
+
+The rule of thumb for stipend is: $5/hour
+
+* January: $280. The payment is at $5/hour for all 56 hours worked. Total time spent was as follows: 19 hours on Timelines Wiki and 37 hours on Org Watch.
+
+===Stipends for Future Fund Regranting Program===
+
+Total so far: $248
+
+The rule of thumb for stipend is: $4/hour
+
+* January: $248. The payment is at $4/hour for all 62 hours worked on Timelines Wiki.
 
 ===Payments made by Vipul Naik===
 
