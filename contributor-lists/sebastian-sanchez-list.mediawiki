@@ -40,6 +40,22 @@ Total so far: $800
 
 * [https://timelines.issarice.com/wiki/Timeline_of_transhumanism Timeline of transhumanism]: $800. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $400 that Vipul Naik would pay for the timeline. Completed January 10, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_transhumanism&oldid=72485 (2023-01-10 21:03 UTC, 154834 bytes, 8 sample questions + additional bullet point, 6 rows in big picture, 4 visual data charts and 1 data table, 206 rows in full timeline)
 
+=== Tentative pending payments for Vipul Naik ===
+
+Total so far: $450
+
+Expansions:
+
+* (not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_web_search_engines Timeline of web search engines]: $450. Completed February 23, 2023. [https://timelines.issarice.com/index.php?title=Timeline_of_web_search_engines&type=revision&diff=73438&oldid=41172 Diff]. Increased from 33160 bytes (41 rows in full timeline, no big picture, sample questions or numerical or visual data) to 192638 bytes (5 + 1 sample questions, 5 rows in big picture, 4 visual data charts and 1 data table, 288 rows in full timeline)
+
+=== Tentative pending payments for Future Fund Regranting Program ===
+
+Total so far: $900
+
+New timelines:
+
+* (not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_encyclopedias Timeline of encyclopedias]: $900. This applies a multiplier of 1.5 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $600 that Vipul Naik would pay for the timeline. Completed February 24, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_encyclopedias&oldid=73441 (2023-02-24 17:01 UTC, 242220 bytes, 2 sample questions, 5 rows in big picture, 3 visual data charts, 276 rows in full timeline)
+
 === Org Watch ===
 
 Total so far: $333
