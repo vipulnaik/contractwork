@@ -1165,7 +1165,12 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for November 2022 */
   ('Issa Rice','None','Consulting','N/A','N/A','2022-11-18',1.14,'Wikipedia','Private communication','Spent 7 minutes at $9.50/hour helping Vipul figure out some stuff related to the setup of wikidossier (hosted at https://wikidossier.vipulnaik.com/ currently). Work done 2022-11-18.',7),
   /* Tasks added for December 2022 */
-  ('Issa Rice','Org Watch','Data entry','N/A','N/A','2022-12-24',5.42,'Organizational structures and dynamics','N/A','Spent 34 minutes at $9.50/hour. Work done 2022-12-24 and involving some updates to Future of Life Institute data; see https://github.com/riceissa/aiwatch/commits?since=2022-12-24&until=2022-12-24 for details.',34);
+  ('Issa Rice','Org Watch','Data entry','N/A','N/A','2022-12-24',5.42,'Organizational structures and dynamics','N/A','Spent 34 minutes at $9.50/hour. Work done 2022-12-24 and involving some updates to Future of Life Institute data; see https://github.com/riceissa/aiwatch/commits?since=2022-12-24&until=2022-12-24 for details.',34),
+  /* Tasks added for January 2023 */
+  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2023-01-02',22,'Timeline content','Code','Work on improving the efficiency of the daily backup process. Work done 2023-01-02.',120),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-01-30',4.02,'Organizational structures and dynamics','N/A','Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.',21),
+  /* Tasks added for February 2023 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-02-24',3.11,'Organizational structures and dynamics','N/A','Spent 16 minutes at $11.50/hour. Work done 2023-02-24.',16);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
