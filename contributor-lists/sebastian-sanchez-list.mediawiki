@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2023==
 
-Total money earned as income: $5201 (breakdown: $2957 for Vipul Naik, $2244 for Future Fund Regranting Program)
+Total money earned as income: $5215 (breakdown: $2967 for Vipul Naik, $2248 for Future Fund Regranting Program)
 
 Forward balance caried over from 2022: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for Future Fund Regranting Program)
 
 Payment made: $3772.88 (all for Vipul Naik)
 
-Net payment due: ($13377.71) (breakdown: ($1617.71) for Vipul Naik, ($11760) for Future Fund Regranting Program)
+Net payment due: ($13363.71) (breakdown: ($1607.71) for Vipul Naik, ($11756) for Future Fund Regranting Program)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -60,7 +60,7 @@ Total so far: $702
 
 ===Stipends for Vipul Naik===
 
-Total so far: $1055
+Total so far: $1065
 
 The rule of thumb for stipend is: $5/hour
 
@@ -70,9 +70,11 @@ The rule of thumb for stipend is: $5/hour
 
 * March: $405. The payment is at $5/hour for all 81 hours worked. Total time spent was as follows: 66 hours on Timelines Wiki and 15 hours on Org Watch.
 
+* April: $10. The payment is at $5/hour for all 2 hours worked. All reported time for Vipul Naik was spent on Timelines Wiki.
+
 ===Stipends for Future Fund Regranting Program===
 
-Total so far: $544
+Total so far: $548
 
 The rule of thumb for stipend is: $4/hour
 
@@ -81,6 +83,8 @@ The rule of thumb for stipend is: $4/hour
 * February: $212. The payment is at $4/hour for all 53 hours worked on Timelines Wiki.
 
 * March: $84. The payment is at $4/hour for all 21 hours worked on Timelines Wiki.
+
+* April: $4. The payment is at $4/hour for 1 hour worked on Timelines Wiki.
 
 ===Payments made by Vipul Naik===
 
