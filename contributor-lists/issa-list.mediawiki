@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2023 ==
 
-Total money earned as income (taxable as income for 2023): $75.66
+Total money earned as income (taxable as income for 2023): $109.53
 
 Payment made: $453.27
 
 Carryover payment due from 2022: $453.27
 
-Net payment due: $75.66
+Net payment due: $109.53
 
 === Work on timelines wiki maintenance ===
 
@@ -38,19 +38,23 @@ Total so far: $22
 
 === Work on Org Watch ===
 
-Total so far: $7.13
+Total so far: $22.08
 
 * Work on Org Watch in January (assisting Sebastian): $4.02. Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.
 
 * Work on Org Watch in February: $3.11. Spent 16 minutes at $11.50/hour. Work done 2023-02-24.
 
+* Work on Org Watch in March: $14.95. Spent 78 minutes at $11.50/hour. Work done 2023-03-04 and 2023-03-05.
+
 === Stipends ===
 
-Total so far: $46.53
+Total so far: $65.45
 
 * January: $37.40. 3.40 hours at $11/hour
 
 * February: $9.13. 0.83 hours at $11/hour
+
+* March: $18.92. 1.72 hours at $11/hour
 
 === Payments made ===
 

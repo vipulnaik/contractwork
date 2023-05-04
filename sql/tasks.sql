@@ -1171,7 +1171,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2023-01-02',22,'Timeline content','Code','Work on improving the efficiency of the daily backup process. Work done 2023-01-02.',120),
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-01-30',4.02,'Organizational structures and dynamics','N/A','Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.',21),
   /* Tasks added for February 2023 */
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-02-24',3.11,'Organizational structures and dynamics','N/A','Spent 16 minutes at $11.50/hour. Work done 2023-02-24.',16);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-02-24',3.11,'Organizational structures and dynamics','N/A','Spent 16 minutes at $11.50/hour. Work done 2023-02-24.',16),
+  /* Tasks added for March 2023 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-03-05',14.95,'Organizational structures and dynamics','N/A','Spent 78 minutes at $11.50/hour. Work done 2023-03-04 and 2023-03-05.',78);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
