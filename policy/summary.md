@@ -20,10 +20,10 @@ This document was last substantively updated on May 13, 2023.
   can be recorded as overage. Sebastian can accumulate up to 225 hours
   of overage. Overage can be used in later months when Sebastian works
   less than 75 hours. For instance, if Sebastian has an overage of 30
-  hours from past months and works 65 hours in a month, he can use 75
-  - 65 = 10 hours of overage in the month and get paid for a full 75
-  hours that month. His overage for future months is reduced to 30 -
-  10 = 20 hours.
+  hours from past months and works 65 hours in a month, he can use the
+  remaining 75 - 65 = 10 hours of overage in the month and get paid
+  for a full 75 hours that month. His overage for future months is
+  reduced to 30 - 10 = 20 hours.
 
 * Within that hourly cap, there is some [priority
   work](https://timelines.issarice.com/wiki/User:Sebastian#Priority_work_from_Vipul)
