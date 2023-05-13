@@ -1,5 +1,8 @@
 # Sebastian Sanchez: Timelines Wiki contract work reduction proposal
 
+NOTE: This document is of mostly historical interest; see
+[summary.md](summary.md) for the latest policy.
+
 This proposal was prepared by Vipul Naik on April 5, 2020 and accepted
 by Sebastian Sanchez on the same day. The proposal remains active and
 current as of the most recent edit on this file.

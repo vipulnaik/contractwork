@@ -1,6 +1,6 @@
 # Summary
 
-This document was last substantively updated on January 17, 2023.
+This document was last substantively updated on May 13, 2023.
 
 ## Current contract work structure for Sebastian Sanchez (payments from Vipul)
 
@@ -14,10 +14,16 @@ This document was last substantively updated on January 17, 2023.
 
 * The current cap on hours per month eligible for stipend is 75 hours;
   for more on the history of the hourly cap, see
-  [here](https://github.com/vipulnaik/contractwork/blob/master/policy/sebastian-sanchez-timelines-wiki-contract-work-reduction-proposal.md). There
-  is some scope for additional hours in one month to be used up to
-  cover fewer hours in later months, as described in more detail in
-  that document.
+  [here](https://github.com/vipulnaik/contractwork/blob/master/policy/sebastian-sanchez-timelines-wiki-contract-work-reduction-proposal.md).
+
+* If Sebastian works extra hours beyond the 75 hours, the extra time
+  can be recorded as overage. Sebastian can accumulate up to 225 hours
+  of overage. Overage can be used in later months when Sebastian works
+  less than 75 hours. For instance, if Sebastian has an overage of 30
+  hours from past months and works 65 hours in a month, he can use 75
+  - 65 = 10 hours of overage in the month and get paid for a full 75
+  hours that month. His overage for future months is reduced to 30 -
+  10 = 20 hours.
 
 * Within that hourly cap, there is some [priority
   work](https://timelines.issarice.com/wiki/User:Sebastian#Priority_work_from_Vipul)
@@ -26,6 +32,23 @@ This document was last substantively updated on January 17, 2023.
   various lists of suggestions. More information is available on
   Sebastian's [user
   page](https://timelines.issarice.com/wiki/User:Sebastian).
+
+* Until September 2023, Sebastian can spend up to 50 hours per month
+  on AI-related timelines that is exempt from the 75-hour
+  limit. Sebastian can also use part of the 75-hour limit toward
+  AI-related timelines. For instance, Sebastian could work 60 hours on
+  AI-related timelines and 65 hours on other timelines; 50 of the 60
+  hours on AI-related timelines will be considered exempt, and the
+  remaining 10 hours on AI-related timelines plus the other 65 hours
+  will together use up the 75 hours.
+
+  We'll re-evaluate by the end of September 2023 whether to continue
+  the 50 exempt hours for AI-related timelines to future months.
+
+* Vipul and Sebastian may mutually decide to waive or increase the
+  hours limit in a particular month. Possible reasons: there is a lot
+  of time-sensitive work to be completed that month, or Sebastian
+  worked less in a previous month (a reverse overage).
 
 * All of Sebastian's work (including ongoing work that is not yet
   completed) can be found
@@ -52,10 +75,17 @@ This document was last substantively updated on January 17, 2023.
   a human-readable summary is
   [here](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki).
 
+* NOTE: Time spent learning SQL as an investment to help become better
+  with the SQL parts of Org Watch should *not* be counted as Org Watch
+  time, but should be counted as stipend-eligible time. So this time
+  will be eligible only for the $5/hour stipend, but not for the Org
+  Watch pay of $9/hour or $5/hour, and the hours will not count toward
+  the 40-hour limit for the $9/hour Org Watch rate.
+
 ### Subject wikis (subwiki)
 
 We have been in discussions around possibly starting paid work on
-subwiki, but as of January 17, 2023, there is no ongoing agreement to
+subwiki, but as of May 13, 2023, there is no ongoing agreement to
 support such work.
 
 ## Other support for the work of Sebastian Sanchez
@@ -72,10 +102,22 @@ for a list of in-progress and future work. This pays a $4/hour stipend
 and additionally pays for specific timelines at specified multiples of
 what Vipul would pay.
 
+There is no hourly cap; however, in general Sebastian is expected to
+spend up to 75 hours per month on these timelines as he spends the
+rest of his time doing work for Vipul Naik.
+
+As of May 13, 2023, the priority of work is as follows:
+
+* Aim to finish all timelines that were 75%+ complete as of May 13,
+  2023, picking them one by one.
+
+* After that, focus first on AI-related timelines within Future Fund
+  work.
+
 ### Org Watch
 
 We have been in discussions around potential outside support for a subset of
-work on Org Watch, but as of January 17, 2023, there is no public
+work on Org Watch, but as of May 13, 2023, there is no public
 information about this.
 
 Relevant information will likely be made public before any actual work
