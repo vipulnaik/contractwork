@@ -58,7 +58,7 @@ Total so far: $56.59
 
 Total so far: $11.50
 
-* Experimenting with ChatGPT: $11.50. Spent 29 minutes on 2023-04-08 at $11.50/hour with a minimum of $11.50 (equivalent to 1 hour) and a maximum of $34.50 (equivalent to 3 hours). This was to rerun Vipul's prompts of https://www.lesswrong.com/posts/w7c2iKjsDrNqoymxQ/to-err-is-neural-select-logs-with-chatgpt on ChatGPT 4. See https://gist.github.com/riceissa/378f230875210b7214a8e2c54f111bc9 and https://gist.github.com/riceissa/ea7c8abc038eff2e1a6e0379691e67ca for the session logs.
+* Experimenting with ChatGPT: $11.50. Spent 29 minutes on 2023-04-08 at $11.50/hour with a minimum of $11.50 (equivalent to 1 hour) and a maximum of $34.50 (equivalent to 3 hours). The task was the rerunning of Vipul's prompts of https://www.lesswrong.com/posts/w7c2iKjsDrNqoymxQ/to-err-is-neural-select-logs-with-chatgpt on ChatGPT 4. See https://gist.github.com/riceissa/378f230875210b7214a8e2c54f111bc9 and https://gist.github.com/riceissa/ea7c8abc038eff2e1a6e0379691e67ca for the session logs.
 
 === Stipends ===
 
