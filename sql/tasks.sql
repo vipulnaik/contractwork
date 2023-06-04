@@ -1169,12 +1169,19 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for December 2022 */
   ('Issa Rice','Org Watch','Data entry','N/A','N/A','2022-12-24',5.42,'Organizational structures and dynamics','N/A','Spent 34 minutes at $9.50/hour. Work done 2022-12-24 and involving some updates to Future of Life Institute data; see https://github.com/riceissa/aiwatch/commits?since=2022-12-24&until=2022-12-24 for details.',34),
   /* Tasks added for January 2023 */
-  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2023-01-02',22,'Timeline content','Code','Work on improving the efficiency of the daily backup process. Work done 2023-01-02.',120),
+  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2023-01-02',23,'Timeline content','Code','Work on improving the efficiency of the daily backup process. Work done 2023-01-02.',120),
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-01-30',4.02,'Organizational structures and dynamics','N/A','Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.',21),
   /* Tasks added for February 2023 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-02-24',3.11,'Organizational structures and dynamics','N/A','Spent 16 minutes at $11.50/hour. Work done 2023-02-24.',16),
   /* Tasks added for March 2023 */
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-03-05',14.95,'Organizational structures and dynamics','N/A','Spent 78 minutes at $11.50/hour. Work done 2023-03-04 and 2023-03-05.',78);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-03-05',14.95,'Organizational structures and dynamics','N/A','Spent 78 minutes at $11.50/hour. Work done 2023-03-04 and 2023-03-05.',78),
+  /* Tasks added for April 2023 */
+  ('Issa Rice','None','Preliminary research','ChatGPT 4 testing of prompts from "To err is neural"','https://gist.github.com/riceissa/378f230875210b7214a8e2c54f111bc9','2023-04-08',11.50,'Artificial intelligence/Machine learning','Prose','Spent 29 minutes on 2023-04-08 at $11.50/hour with a minimum of $11.50 (equivalent to 1 hour) and a maximum of $34.50 (equivalent to 3 hours). This was to rerun Vipul''s prompts of https://www.lesswrong.com/posts/w7c2iKjsDrNqoymxQ/to-err-is-neural-select-logs-with-chatgpt on ChatGPT 4. See https://gist.github.com/riceissa/378f230875210b7214a8e2c54f111bc9 and https://gist.github.com/riceissa/ea7c8abc038eff2e1a6e0379691e67ca for the session logs.',29),
+  /* Tasks added for May 2023 */
+  ('Issa Rice','Org Watch','Coding','N/A','N/A','2023-05-21',7.71,'Organizational structures and dynamics','Code','Spent 40 minutes at $11.50/hour. Work done 2023-05-13 and 2023-05-21. This includes additions to README.md and a fix to a page title. See https://github.com/riceissa/aiwatch/commits?since=2023-05-13&until=2023-05-21&author=riceissa for the commits.',40),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-05-16',10.12,'Organizational structures and dynamics','N/A','Spent 53 minutes at $11.50/hour. Work done 2023-05-15 and 2023-05-16 assisting Sebastian.',53),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-05-13',16.68,'Organizational structures and dynamics','N/A','Spent 87 minutes at $11.50/hour in the Org Watch portion of the meeting with Vipul and Sebastian on 2023-05-13.',87),
+  ('Issa Rice','Timelines wiki','Consulting','N/A','N/A','2023-05-13',5.18,'Organizational structures and dynamics','N/A','Spent 27 minutes at $11.50/hour in the Timelines Wiki portion of the meeting with Vipul and Sebastian on 2023-05-13.',27);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

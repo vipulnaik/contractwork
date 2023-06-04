@@ -22,23 +22,25 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2023 ==
 
-Total money earned as income (taxable as income for 2023): $109.53
+Total money earned as income (taxable as income for 2023): $269.52
 
 Payment made: $453.27
 
 Carryover payment due from 2022: $453.27
 
-Net payment due: $109.53
+Net payment due: $269.52
 
-=== Work on timelines wiki maintenance ===
+=== Work on timelines wiki ===
 
-Total so far: $22
+Total so far: $28.18
 
-* Work on improving efficiency of the daily backup process: $22. 2 hours at $11/hour. Work done 2023-01-02.
+* Work on improving efficiency of the daily backup process: $23. 2 hours at $11.50/hour. Work done 2023-01-02.
+
+* Meeting with Vipul and Sebastian in May: $5.18. Spent 27 minutes at $11.50/hour in the Timelines Wiki portion of the meeting with Vipul and Sebastian on 2023-05-13.
 
 === Work on Org Watch ===
 
-Total so far: $22.08
+Total so far: $56.59
 
 * Work on Org Watch in January (assisting Sebastian): $4.02. Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.
 
@@ -46,15 +48,31 @@ Total so far: $22.08
 
 * Work on Org Watch in March: $14.95. Spent 78 minutes at $11.50/hour. Work done 2023-03-04 and 2023-03-05.
 
+* Work on Org Watch in May (general): $7.71. Spent 40 minutes at $11.50/hour. Work done 2023-05-13 and 2023-05-21. This includes additions to README.md and a fix to a page title. See https://github.com/riceissa/aiwatch/commits?since=2023-05-13&until=2023-05-21&author=riceissa for the commits.
+
+* Work on Org Watch in May (assisting Sebastian): $10.12. Spent 53 minutes at $11.50/hour. Work done 2023-05-15 and 2023-05-16 assisting Sebastian.
+
+* Work on Org Watch in May (meeting with Vipul and Sebastian): $16.68. Spent 87 minutes at $11.50/hour in the Org Watch portion of the meeting with Vipul and Sebastian on 2023-05-13.
+
+===Other work===
+
+Total so far: $11.50
+
+* Experimenting with ChatGPT: $11.50. Spent 29 minutes on 2023-04-08 at $11.50/hour with a minimum of $11.50 (equivalent to 1 hour) and a maximum of $34.50 (equivalent to 3 hours). This was to rerun Vipul's prompts of https://www.lesswrong.com/posts/w7c2iKjsDrNqoymxQ/to-err-is-neural-select-logs-with-chatgpt on ChatGPT 4. See https://gist.github.com/riceissa/378f230875210b7214a8e2c54f111bc9 and https://gist.github.com/riceissa/ea7c8abc038eff2e1a6e0379691e67ca for the session logs.
+
 === Stipends ===
 
-Total so far: $65.45
+Total so far: $173.25
 
 * January: $37.40. 3.40 hours at $11/hour
 
 * February: $9.13. 0.83 hours at $11/hour
 
 * March: $18.92. 1.72 hours at $11/hour
+
+* April: $10.45. 0.95 hours at $11/hour
+
+* May: $97.35. 8.85 hours at $11/hour
 
 === Payments made ===
 
