@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2023==
 
-Total money earned as income: $5215 (breakdown: $2967 for Vipul Naik, $2248 for Future Fund Regranting Program)
+Total money earned as income: $5971 (breakdown: $3675 for Vipul Naik, $2296 for Future Fund Regranting Program)
 
 Forward balance caried over from 2022: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for Future Fund Regranting Program)
 
 Payment made: $3772.88 (all for Vipul Naik)
 
-Net payment due: ($13363.71) (breakdown: ($1607.71) for Vipul Naik, ($11756) for Future Fund Regranting Program)
+Net payment due: ($12607.71) (breakdown: ($899.71) for Vipul Naik, ($11708) for Future Fund Regranting Program)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -50,7 +50,7 @@ Total so far: $1700
 
 === Org Watch ===
 
-Total so far: $702
+Total so far: $900
 
 * January: $333. 37 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-01-01&until=2023-01-31 for more details. The first commit for the month was on 2023-01-01 and the last commit for the month was on 2023-01-31.
 
@@ -58,9 +58,11 @@ Total so far: $702
 
 * March: $135. 15 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-03-01&until=2023-03-31 for more details. The first commit for the month was on 2023-03-05 and the last commit for the month was on 2023-03-31.
 
+* May: $198. 22 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-05-01&until=2023-05-31 for more details. The first commit for the month was on 2023-05-10 and the last commit for the month was on 2023-05-23.
+
 ===Stipends for Vipul Naik===
 
-Total so far: $1065
+Total so far: $1575
 
 The rule of thumb for stipend is: $5/hour
 
@@ -72,9 +74,11 @@ The rule of thumb for stipend is: $5/hour
 
 * April: $10. The payment is at $5/hour for all 2 hours worked. All reported time for Vipul Naik was spent on Timelines Wiki.
 
+* May: $510. The payment is at $5/hour for all 102 hours worked. Total time spent was as follows: 51 hours on Timelines Wiki, 22 hours on Org Watch, and 29 hours on tech learning.
+
 ===Stipends for Future Fund Regranting Program===
 
-Total so far: $548
+Total so far: $596
 
 The rule of thumb for stipend is: $4/hour
 
@@ -85,6 +89,8 @@ The rule of thumb for stipend is: $4/hour
 * March: $84. The payment is at $4/hour for all 21 hours worked on Timelines Wiki.
 
 * April: $4. The payment is at $4/hour for 1 hour worked on Timelines Wiki.
+
+* May: $48. The payment is at $4/hour for 12 hours worked on Timelines Wiki.
 
 ===Payments made by Vipul Naik===
 
