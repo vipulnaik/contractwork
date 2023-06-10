@@ -1,5 +1,7 @@
 <?php
 
+# NOTE: Data for tax year 2023 is not yet verified as the forms are not yet released
+
 $currentTaxYear = '2022';
 $mostRecentCompletedTaxYear = '2021';
 
@@ -27,6 +29,11 @@ $s1scLineNumber['2022'] = 3;
 $s1TotalIncomeLineNumber['2022'] = 10;
 $s1sseLineNumber['2022'] = 15;
 $s1TotalDeductionLineNumber['2022'] = 26;
+
+$s1scLineNumber['2023'] = 3;
+$s1TotalIncomeLineNumber['2023'] = 10;
+$s1sseLineNumber['2023'] = 15;
+$s1TotalDeductionLineNumber['2023'] = 26;
 
 $s1InMainFormLineNumber['2018'] = '6 (inner blank)';
 $totalIncomeLineNumber['2018'] = 6;
@@ -86,17 +93,32 @@ $setInMainFormLineNumber['2022'] = 23;
 $totalTaxLineNumber['2022'] = 24;
 $totalPaymentsLineNumber['2022'] = 33;
 
+$s1InMainFormLineNumber['2023'] = 8;
+$totalIncomeLineNumber['2023'] = 9;
+$adjustmentsToIncomeLineNumber['2023'] = '10';
+$agiLineNumber['2023'] = 11;
+$standardOrItemizedDeductionLineNumber['2023'] = 12;
+$totalDeductionLineNumber['2023'] = 14;
+$taxableIncomeLineNumber['2023'] = 15;
+$taxLineNumber['2023'] = 16;
+$setInMainFormLineNumber['2023'] = 23;
+$totalTaxLineNumber['2023'] = 24;
+$totalPaymentsLineNumber['2023'] = 33;
+
+
 $setName['2018'] = 'Schedule SE - Self-Employment Tax Part B - Taxpayer';
 $setName['2019'] = 'Schedule SE - Self-Employment Tax Part B - Taxpayer';
 $setName['2020'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
 $setName['2021'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
 $setName['2022'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
+$setName['2023'] = 'Schedule SE - Self-Employment Tax - Taxpayer';
 
 $s2TotalLineNumber['2018'] = 10;
 $s2TotalLineNumber['2019'] = 10;
 $s2TotalLineNumber['2020'] = 10;
 $s2TotalLineNumber['2021'] = 21;
 $s2TotalLineNumber['2022'] = 21;
+$s2TotalLineNumber['2023'] = 21;
 
 $standardDeduction['2015'] = 6200;
 $standardDeduction['2016'] = 6300;
@@ -106,6 +128,7 @@ $standardDeduction['2019'] = 12200;
 $standardDeduction['2020'] = 12400;
 $standardDeduction['2021'] = 12550;
 $standardDeduction['2022'] = 12950;
+$standardDeduction['2023'] = 13850;
 $basicExemption['2015'] = 3950;
 $basicExemption['2016'] = 4050;
 $basicExemption['2017'] = 4050;
@@ -114,6 +137,7 @@ $basicExemption['2019'] = 0;
 $basicExemption['2020'] = 0;
 $basicExemption['2021'] = 0;
 $basicExemption['2022'] = 0;
+$basicExemption['2023'] = 0;
 $selfEmploymentFilingThreshold['2015'] = 400;
 $selfEmploymentFilingThreshold['2016'] = 400;
 $selfEmploymentFilingThreshold['2017'] = 400;
@@ -122,6 +146,7 @@ $selfEmploymentFilingThreshold['2019'] = 400;
 $selfEmploymentFilingThreshold['2020'] = 400;
 $selfEmploymentFilingThreshold['2021'] = 400;
 $selfEmploymentFilingThreshold['2022'] = 400;
+$selfEmploymentFilingThreshold['2023'] = 400;
 $minimumPayableBalance = 1;
 $minimumCollectionBalance = 5;
 
@@ -182,6 +207,13 @@ function computeTax($taxableIncome, $year) {
   $bracket24Top['2022'] = 170050;
   $bracket32Top['2022'] = 215950;
   $bracket35Top['2022'] = 539900;
+
+  $bracket10Top['2023'] = 11000;
+  $bracket12Top['2023'] = 44725;
+  $bracket22Top['2023'] = 95375;
+  $bracket24Top['2023'] = 182100;
+  $bracket32Top['2023'] = 231250;
+  $bracket35Top['2023'] = 578125;
 
   if ($taxableIncome < 0) {
     return 0;
