@@ -22,9 +22,9 @@ Total money earned as income: $7209 (breakdown: $4877 for Vipul Naik, $2332 for 
 
 Forward balance caried over from 2022: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for Future Fund Regranting Program)
 
-Payment made: $3772.88 (all for Vipul Naik)
+Payment made: $9893.32 (all for Vipul Naik)
 
-Net payment due: ($11369.71) (breakdown: $302.29 for Vipul Naik, ($11672) for Future Fund Regranting Program)
+Net payment due: ($17490.15) (breakdown: ($5818.15) for Vipul Naik, ($11672) for Future Fund Regranting Program)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -100,9 +100,11 @@ The rule of thumb for stipend is: $4/hour
 
 ===Payments made by Vipul Naik===
 
-Total so far: $3772.88
+Total so far: $9893.32
 
 * $3772.88 sent and received Thursday, January 12, 2023. Transaction in Bitcoin for 0.2 BTC (and calculated in terms of USD value at time of transaction of $18,864.38 per BTC) with a very small transaction fee of 0.00001981 BTC ($0.37 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/09cbe1824c07e330b4d298d0e07f566b58dac4a4cc6a86a638b753f21bf9a63e (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
+* $6120.44 sent and received Saturday, July 1, 2023. Transaction in Bitcoin for 0.2 BTC (and calculated in terms of USD value at time of transaction of $30,602.21 per BTC) with a very small transaction fee of 0.000031 BTC ($0.95 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/3c9499ff212cb6b8cfc59f9f6f264e357a39073f1410062c5dbed5dd230428ae (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 == Work in 2022 ==
 
