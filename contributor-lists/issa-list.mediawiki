@@ -22,25 +22,27 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2023 ==
 
-Total money earned as income (taxable as income for 2023): $269.52
+Total money earned as income (taxable as income for 2023): $536.67
 
 Payment made: $453.27
 
 Carryover payment due from 2022: $453.27
 
-Net payment due: $269.52
+Net payment due: $536.67
 
 === Work on timelines wiki ===
 
-Total so far: $28.18
+Total so far: $48.65
 
 * Work on improving efficiency of the daily backup process: $23. 2 hours at $11.50/hour. Work done 2023-01-02.
 
 * Meeting with Vipul and Sebastian in May: $5.18. Spent 27 minutes at $11.50/hour in the Timelines Wiki portion of the meeting with Vipul and Sebastian on 2023-05-13.
 
+* Server script update as suggested by Vipul: $20.47. Spent 107 minutes at $11.50/hour with a 1-hour minimum and 2-hour maximum. Work done 2023-06-02.
+
 === Work on Org Watch ===
 
-Total so far: $56.59
+Total so far: $97.07
 
 * Work on Org Watch in January (assisting Sebastian): $4.02. Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.
 
@@ -54,15 +56,27 @@ Total so far: $56.59
 
 * Work on Org Watch in May (meeting with Vipul and Sebastian): $16.68. Spent 87 minutes at $11.50/hour in the Org Watch portion of the meeting with Vipul and Sebastian on 2023-05-13.
 
+* Work on Org Watch in June (general): $39.33. Spent 205 minutes at $11.50/hour. Work done 2023-06-20 to 2023-06-27. This includes the addition of a check and work on an archival script. See https://github.com/riceissa/aiwatch/commits?since=2023-06-20&until=2023-06-27&author=riceissa for the commits.
+
+* Work on Org Watch in June (assisting Sebastian): $1.15. Spent 6 minutes at $11.50/hour. Work done 2023-06-09.
+
+=== Work on AI Watch ===
+
+Total so far: $3.11
+
+* Work on AI Watch in June: $3.11. Spent 16 minutes at $11.50/hour. Work done 2023-06-21 and 2023-06-28. This includes collaboration with Vipul on not showing non-AI stuff in AI Watch. See https://github.com/riceissa/aiwatch/commits?since=2023-06-28&until=2023-06-28&author=riceissa for the commits.
+
 ===Other work===
 
-Total so far: $11.50
+Total so far: $122.52
 
 * Experimenting with ChatGPT: $11.50. Spent 29 minutes on 2023-04-08 at $11.50/hour with a minimum of $11.50 (equivalent to 1 hour) and a maximum of $34.50 (equivalent to 3 hours). The task was the rerunning of Vipul's prompts of https://www.lesswrong.com/posts/w7c2iKjsDrNqoymxQ/to-err-is-neural-select-logs-with-chatgpt on ChatGPT 4. See https://gist.github.com/riceissa/378f230875210b7214a8e2c54f111bc9 and https://gist.github.com/riceissa/ea7c8abc038eff2e1a6e0379691e67ca for the session logs.
 
+* Analytics project switch to GA 4: $111.02. Spent 449 minutes at $11.50/hour with a 5-hour minimum, plus $25. Work done 2023-05-21 to 2023-05-22 and 2023-06-21 to 2023-06-25. See https://github.com/riceissa/analytics-table/commits?since=2023-05-21&until=2023-06-25&author=riceissa for the commits.
+
 === Stipends ===
 
-Total so far: $173.25
+Total so far: $265.32
 
 * January: $37.40. 3.40 hours at $11/hour
 
@@ -73,6 +87,8 @@ Total so far: $173.25
 * April: $10.45. 0.95 hours at $11/hour
 
 * May: $97.35. 8.85 hours at $11/hour
+
+* June: $92.07. 8.37 hours at $11/hour
 
 === Payments made ===
 
