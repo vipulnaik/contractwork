@@ -24,11 +24,11 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 Total money earned as income (taxable as income for 2023): $536.67
 
-Payment made: $453.27
+Payment made: $989.94
 
 Carryover payment due from 2022: $453.27
 
-Net payment due: $536.67
+Net payment due: $0
 
 === Work on timelines wiki ===
 
@@ -92,9 +92,11 @@ Total so far: $265.32
 
 === Payments made ===
 
-Total so far: $453.27
+Total so far: $989.94
 
 * $453.27 via PayPal on January 21
+
+* $536.67 via PayPal on July 17
 
 == Work and other compensation in 2022 ==
 

@@ -158,6 +158,9 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   /* Payment sent in 2023 to wrap up pending amount due from 2022 tax year */
   ('PayPal','Issa Rice',NULL,'2023-01-21','2023-01-21','2023-01-21','2023-01-21',453.27,453.27,0,453.27,'Since the amount due was over $300, we decided to clear it via PayPal.'),
 
+  /* Payments for 2023 tax year sent in 2023 */
+  ('PayPal','Issa Rice',NULL,'2023-07-17','2023-07-17','2023-07-17','2023-07-17',536.67,536.67,0,536.67,'Since the amount due was over $300, we decided to clear it via PayPal.'),
+
   /* Payment sent in 2021 for 2020 work by Amana Rice */
   ('PayPal','Amana Rice',NULL,'2021-01-03','2021-01-03','2021-01-03','2021-01-03',270.72,270.72,0,270.72,NULL),
 
