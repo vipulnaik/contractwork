@@ -2,7 +2,7 @@ create table commissions(
   commission_id int(11) not null auto_increment primary key,
   earner varchar(40) not null,
   commission_receiver varchar(40) not null,
-  commission float(2,2) not null,
+  commission decimal(2,2) not null,
   commission_reason enum('Recruiter','Guide') not null,
   commission_validity_start date,
   commission_validity_end date,

@@ -7,10 +7,10 @@ create table payer_payments(
   payment_notice_receipt_date date not null,
   cashout_request_date date,
   receipt_date date,
-  payment float(7,2) not null,
-  sent_payment float(7,2) not null,
-  overhead float(7,2) not null,
-  received_payment float(7,2) not null,
+  payment decimal(7,2) not null,
+  sent_payment decimal(7,2) not null,
+  overhead decimal(7,2) not null,
+  received_payment decimal(7,2) not null,
   constraint payment_payer_is_payer foreign key (payer) references payers (payer)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 

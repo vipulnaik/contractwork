@@ -1,10 +1,10 @@
 create table royalties(
   royalty_id int(11) not null auto_increment primary key,
   payee varchar(40),
-  payment float(7,2) not null,
+  payment decimal(7,2) not null,
   royalty_basis enum('Wikipedia pageviews','Quora views','Cause Prioritization Wiki pageviews','Payout patience') not null,
   royalty_scope varchar(40) not null,
-  royalty_rate float(5,3),
+  royalty_rate decimal(5,3),
   royalty_start_date date not null,
   royalty_end_date date not null,
   notes varchar(2000),
