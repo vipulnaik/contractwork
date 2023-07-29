@@ -34,7 +34,7 @@ Net payment due: $0
 
 Total so far: $48.65
 
-* Work on improving efficiency of the daily backup process: $23. 2 hours at $11.50/hour. Work done 2023-01-02.
+* Work on improving efficiency of the daily backup process: $23. Spent 95 minutes at $11.50/hour with a 2-hour minimum. Work done 2023-01-02.
 
 * Meeting with Vipul and Sebastian in May: $5.18. Spent 27 minutes at $11.50/hour in the Timelines Wiki portion of the meeting with Vipul and Sebastian on 2023-05-13.
 

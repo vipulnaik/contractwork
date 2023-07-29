@@ -1170,7 +1170,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for December 2022 */
   ('Issa Rice','Org Watch','Data entry','N/A','N/A','2022-12-24',5.42,'Organizational structures and dynamics','N/A','Spent 34 minutes at $9.50/hour. Work done 2022-12-24 and involving some updates to Future of Life Institute data; see https://github.com/riceissa/aiwatch/commits?since=2022-12-24&until=2022-12-24 for details.',34),
   /* Tasks added for January 2023 */
-  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2023-01-02',23,'Timeline content','Code','Work on improving the efficiency of the daily backup process. Work done 2023-01-02.',120),
+  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2023-01-02',23,'Timeline content','Code','Work on improving the efficiency of the daily backup process. Spent 95 minutes at $11.50/hour with a 2-hour minimum. Work done 2023-01-02.',95),
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-01-30',4.02,'Organizational structures and dynamics','N/A','Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.',21),
   /* Tasks added for February 2023 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-02-24',3.11,'Organizational structures and dynamics','N/A','Spent 16 minutes at $11.50/hour. Work done 2023-02-24.',16),
