@@ -1192,7 +1192,12 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-06-09',1.15,'Organizational structures and dynamics','N/A','Spent 6 minutes at $11.50/hour. Work done 2023-06-09.',6),
   ('Issa Rice','AI Watch','Coding','Filter out non-AI stuff from AI Watch','https://aiwatch.issarice.com/','2023-06-28',3.11,'AI safety','Code','Spent 16 minutes at $11.50/hour. Work done 2023-06-21 and 2023-06-28. This includes collaboration with Vipul on not showing non-AI stuff in AI Watch. See https://github.com/riceissa/aiwatch/commits?since=2023-06-28&until=2023-06-28&author=riceissa for the commits.',16),
   ('Issa Rice','analytics.vipulnaik.com','Coding','Switch analytics projects to GA 4','N/A','2023-06-25',111.02,'Analytics','Code','Spent 449 minutes at $11.50/hour with a 5-hour minimum, plus $25. Work done 2023-05-21 to 2023-05-22 and 2023-06-21 to 2023-06-25. See https://github.com/riceissa/analytics-table/commits?since=2023-05-21&until=2023-06-25&author=riceissa for the commits.',449),
-  ('Issa Rice','Timelines wiki','Coding','Server script updates','https://timelines.issarice.com/','2023-06-02',20.47,'Timeline content','Code','Spent 107 minutes at $11.50/hour with a 1-hour minimum and 2-hour maximum. Work done 2023-06-02.',107);
+  ('Issa Rice','Timelines wiki','Coding','Server script updates','https://timelines.issarice.com/','2023-06-02',20.47,'Timeline content','Code','Spent 107 minutes at $11.50/hour with a 1-hour minimum and 2-hour maximum. Work done 2023-06-02.',107),
+  /* Tasks added for July 2023 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-07-17',0.35,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour. Work done 2023-07-17.',2),
+  /* Tasks added for August 2023 */
+  ('Issa Rice','AI Watch','Coding','AI Watch','https://aiwatch.issarice.com/','2023-08-02',3.80,'AI safety','Code','Spent 20 minutes at $11.50/hour. Work done 2023-08-02. See https://github.com/riceissa/aiwatch/commit/f5e5b50245fb91c5fdaf594e0c0696b874021c1f for the change.',20),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-08-05',1.15,'Organizational structures and dynamics','N/A','Spent 6 minutes at $11.50/hour assisting Sebastian. Work done 2023-08-05.',6);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

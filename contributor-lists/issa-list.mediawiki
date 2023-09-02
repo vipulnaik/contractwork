@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2023 ==
 
-Total money earned as income (taxable as income for 2023): $536.67
+Total money earned as income (taxable as income for 2023): $554.17
 
 Payment made: $989.94
 
 Carryover payment due from 2022: $453.27
 
-Net payment due: $0
+Net payment due: $17.50
 
 === Work on timelines wiki ===
 
@@ -42,7 +42,7 @@ Total so far: $48.65
 
 === Work on Org Watch ===
 
-Total so far: $97.07
+Total so far: $98.57
 
 * Work on Org Watch in January (assisting Sebastian): $4.02. Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.
 
@@ -60,11 +60,17 @@ Total so far: $97.07
 
 * Work on Org Watch in June (assisting Sebastian): $1.15. Spent 6 minutes at $11.50/hour. Work done 2023-06-09.
 
+* Work on Org Watch in July: $0.35. Spent 2 minutes at $11.50/hour. Work done 2023-07-17.
+
+* Work on Org Watch in August (assisting Sebastian): $1.15. Spent 6 minutes at $11.50/hour. Work done 2023-08-05.
+
 === Work on AI Watch ===
 
-Total so far: $3.11
+Total so far: $6.91
 
 * Work on AI Watch in June: $3.11. Spent 16 minutes at $11.50/hour. Work done 2023-06-21 and 2023-06-28. This includes collaboration with Vipul on not showing non-AI stuff in AI Watch. See https://github.com/riceissa/aiwatch/commits?since=2023-06-28&until=2023-06-28&author=riceissa for the commits.
+
+* Work on AI Watch in August: $3.80. Spent 20 minutes at $11.50/hour. Work done 2023-08-02. See https://github.com/riceissa/aiwatch/commit/f5e5b50245fb91c5fdaf594e0c0696b874021c1f for the change.
 
 ===Other work===
 
@@ -76,7 +82,7 @@ Total so far: $122.52
 
 === Stipends ===
 
-Total so far: $265.32
+Total so far: $277.52
 
 * January: $37.40. 3.40 hours at $11/hour
 
@@ -89,6 +95,10 @@ Total so far: $265.32
 * May: $97.35. 8.85 hours at $11/hour
 
 * June: $92.07. 8.37 hours at $11/hour
+
+* July: $7.48. 0.68 hours at $11/hour
+
+* August: $4.72. 0.43 hours at $11/hour
 
 === Payments made ===
 
