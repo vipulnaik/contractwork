@@ -82,6 +82,10 @@ This document was last substantively updated on May 13, 2023.
   Watch pay of $9/hour or $5/hour, and the hours will not count toward
   the 40-hour limit for the $9/hour Org Watch rate.
 
+* Temporary increase from September to December 2023: Instead of the
+  first 40 hours, the first 50 hours each month at a rate of $9/hour;
+  after that, each hour is paid at $5/hour.
+
 ### Subject wikis (subwiki)
 
 We have been in discussions around possibly starting paid work on
