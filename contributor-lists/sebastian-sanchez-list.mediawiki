@@ -52,6 +52,12 @@ Total so far: $1700
 
 * [https://timelines.issarice.com/wiki/Timeline_of_encyclopedias Timeline of encyclopedias]: $900. This applies a multiplier of 1.5 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $600 that Vipul Naik would pay for the timeline. Completed February 24, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_encyclopedias&oldid=73441 (2023-02-24 17:01 UTC, 242220 bytes, 2 sample questions, 5 rows in big picture, 3 visual data charts, 276 rows in full timeline)
 
+===Tentative pending payments===
+
+Total so far: $430
+
+* [https://timelines.issarice.com/wiki/Timeline_of_large_language_models Timeline of large language models]: $430. Completed October 22, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_large_language_models&oldid=76533 (2023-10-23 03:36 UTC, 185980 bytes, 6 sample questions, 2 visual data charts, 3 rows in big picture, 132 rows in full timeline)
+
 === Org Watch ===
 
 Total so far: $2205
