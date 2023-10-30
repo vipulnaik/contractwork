@@ -1,6 +1,6 @@
 # Summary
 
-This document was last substantively updated on May 13, 2023.
+This document was last substantively updated on October 29, 2023.
 
 ## Current contract work structure for Sebastian Sanchez (payments from Vipul)
 
@@ -89,7 +89,7 @@ This document was last substantively updated on May 13, 2023.
 ### Subject wikis (subwiki)
 
 We have been in discussions around possibly starting paid work on
-subwiki, but as of May 13, 2023, there is no ongoing agreement to
+subwiki, but as of October 29, 2023, there is no ongoing agreement to
 support such work.
 
 ## Other support for the work of Sebastian Sanchez
