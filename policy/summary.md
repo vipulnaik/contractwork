@@ -110,7 +110,7 @@ There is no hourly cap; however, in general Sebastian is expected to
 spend up to 75 hours per month on these timelines as he spends the
 rest of his time doing work for Vipul Naik.
 
-As of May 13, 2023, the priority of work is as follows:
+As of October 29, 2023, the priority of work is as follows:
 
 * Aim to finish all timelines that were 75%+ complete as of May 13,
   2023, picking them one by one.
@@ -121,7 +121,7 @@ As of May 13, 2023, the priority of work is as follows:
 ### Org Watch
 
 We have been in discussions around potential outside support for a subset of
-work on Org Watch, but as of May 13, 2023, there is no public
+work on Org Watch, but as of October 29, 2023, there is no public
 information about this.
 
 Relevant information will likely be made public before any actual work
