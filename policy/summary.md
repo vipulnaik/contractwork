@@ -33,7 +33,7 @@ This document was last substantively updated on May 13, 2023.
   Sebastian's [user
   page](https://timelines.issarice.com/wiki/User:Sebastian).
 
-* Until September 2023, Sebastian can spend up to 50 hours per month
+* Until December 2023, Sebastian can spend up to 50 hours per month
   on AI-related timelines that is exempt from the 75-hour
   limit. Sebastian can also use part of the 75-hour limit toward
   AI-related timelines. For instance, Sebastian could work 60 hours on
@@ -42,7 +42,7 @@ This document was last substantively updated on May 13, 2023.
   remaining 10 hours on AI-related timelines plus the other 65 hours
   will together use up the 75 hours.
 
-  We'll re-evaluate by the end of September 2023 whether to continue
+  We'll re-evaluate by the end of December 2023 whether to continue
   the 50 exempt hours for AI-related timelines to future months.
 
 * Vipul and Sebastian may mutually decide to waive or increase the
