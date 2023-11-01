@@ -18,23 +18,25 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2023==
 
-Total money earned as income: $10906 (breakdown: $8170 for Vipul Naik, $2736 for Future Fund Regranting Program)
+Total money earned as income: $12317 (breakdown: $9365 for Vipul Naik, $2952 for Future Fund Regranting Program)
 
 Forward balance caried over from 2022: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for Future Fund Regranting Program)
 
 Payment made: $9893.32 (all for Vipul Naik)
 
-Net payment due: ($13793.15) (breakdown: ($2525.15) for Vipul Naik, ($11268) for Future Fund Regranting Program)
+Net payment due: ($12382.15) (breakdown: ($1330.15) for Vipul Naik, ($11052) for Future Fund Regranting Program)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
-Total so far: $1080
+Total so far: $1510
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Coinbase Timeline of Coinbase]: $370. Completed January 12, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Coinbase&oldid=72540 (2023-01-13 02:45 UTC, 143696 bytes, 10 sample questions + additional bullet point, 3 and 4 rows in big picture tables, 3 visual data charts and 1 data table, 171 rows in full timeline)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_medical_testing Timeline of medical testing]: $380. Completed January 21, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_medical_testing&oldid=72724 (2023-01-22 04:46 UTC, 147122 bytes, 6 sample questons, 6 rows in big picture, 3 visual data charts and 1 data table, 164 rows in full timeline)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_ChatGPT Timeline of ChatGPT]: $330. Completed September 22, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_ChatGPT&type=revision&diff=76066&oldid=75816 (2023-09-22 21:45 UTC, 124953 bytes, 10 sample questions, 9 rows in big picture, 2 visual data charts, 111 rows in full timeline)
+
+* [https://timelines.issarice.com/wiki/Timeline_of_large_language_models Timeline of large language models]: $430. Completed October 22, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_large_language_models&oldid=76533 (2023-10-23 03:36 UTC, 185980 bytes, 6 sample questions, 2 visual data charts, 3 rows in big picture, 132 rows in full timeline)
 
 ===Expansions (Timelines wiki) for Vipul Naik===
 
@@ -52,15 +54,9 @@ Total so far: $1700
 
 * [https://timelines.issarice.com/wiki/Timeline_of_encyclopedias Timeline of encyclopedias]: $900. This applies a multiplier of 1.5 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $600 that Vipul Naik would pay for the timeline. Completed February 24, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_encyclopedias&oldid=73441 (2023-02-24 17:01 UTC, 242220 bytes, 2 sample questions, 5 rows in big picture, 3 visual data charts, 276 rows in full timeline)
 
-===Tentative pending payments===
-
-Total so far: $430
-
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_large_language_models Timeline of large language models]: $430. Completed October 22, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_large_language_models&oldid=76533 (2023-10-23 03:36 UTC, 185980 bytes, 6 sample questions, 2 visual data charts, 3 rows in big picture, 132 rows in full timeline)
-
 === Org Watch ===
 
-Total so far: $2205
+Total so far: $2520
 
 * January: $333. 37 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-01-01&until=2023-01-31 for more details. The first commit for the month was on 2023-01-01 and the last commit for the month was on 2023-01-31.
 
@@ -76,11 +72,13 @@ Total so far: $2205
 
 * August: $324. 36 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-08-01&until=2023-08-31 for more details. The first commit for the month was on 2023-08-02 and the last commit for the month was on 2023-08-30.
 
-* September: $378. 42 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-09-01&until=2023-09-30 for more details. The first commit for the month was on 2023-09-02 and the last comit for the month was on 2023-09-30.
+* September: $378. 42 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-09-01&until=2023-09-30 for more details. The first commit for the month was on 2023-09-02 and the last commit for the month was on 2023-09-30.
+
+* October: $315. 35 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-10-01&until=2023-10-31 for more details. The first commit for the month was on 2023-10-01 and the last commit for the month was on 2023-10-31.
 
 ===Stipends for Vipul Naik===
 
-Total so far: $4035
+Total so far: $4485
 
 The rule of thumb for stipend is: $5/hour
 
@@ -102,9 +100,11 @@ The rule of thumb for stipend is: $5/hour
 
 * September: $500. The payment is at $5/hour for all 100 hours worked. Total time spent was as follows: 56 hours on Timelines Wiki (of which 44 hours was on AI-related timelines: timeline of ChatGPT, timeline of artificial intelligence, timeline of Bing Chat, timeline of Google Bard; the remaining hours were spent on: timeline of Hindi on the web, timeline of mRNA research), 42 hours on Org Watch, and 2 hours on tech learning.
 
+* October: $450. The payment is at $5/hour for all 90 hours worked. Total time spent was as follows: 45 hours on Timelines Wiki (of which 40 hours was on AI-related timelines), 35 hours on Org Watch, and 10 hours on tech learning.
+
 ===Stipends for Future Fund Regranting Program===
 
-Total so far: $1036
+Total so far: $1252
 
 The rule of thumb for stipend is: $4/hour
 
@@ -124,7 +124,9 @@ The rule of thumb for stipend is: $4/hour
 
 * August: $244. The payment is at $4/hour for 61 hours worked on Timelines Wiki.
 
-* September: $136. The payment is at $4/hour for 34 hours worked on Timelines Wiki. Thos includes work on timeline of nuclear risk and timeline of utilitarianism.
+* September: $136. The payment is at $4/hour for 34 hours worked on Timelines Wiki. This includes work on timeline of nuclear risk and timeline of utilitarianism.
+
+* October: $216. The payment is at $4/hour for 54 hours worked on Timelines Wiki.
 
 ===Payments made by Vipul Naik===
 
