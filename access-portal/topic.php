@@ -48,12 +48,13 @@ if ($taskSelectResult -> num_rows == 0) {
   print '<h4>Table of contents</h4>';
   print '<ul>';
   print '<li><a href="#topicTaskPaymentsDueByTypeAndYear">Topic task payments due by type and year</a></li>';
-  print '<li><a href="#topicImpact">Topic impact: Wikipedia</a></li>';
+  # print '<li><a href="#topicImpact">Topic impact: Wikipedia</a></li>';
   print '<li><a href="#topicTaskPaymentsDueByTypeAndMonth">Topic task payments due by type and month</a></li>';
   print '<li><a href="#topicTaskList">Topic task list</a></li>';
   print '</ul>';
   include("backend/topicTaskPaymentsDueByTypeAndYear.inc");
-  include("backend/topicImpact.inc");
+  # Disabling the line below as its dependency on Wikipedia Views creates further complications
+  # include("backend/topicImpact.inc");
   include("backend/topicTaskPaymentsDueByTypeAndMonth.inc");
   include("backend/topicTaskList.inc");
 }

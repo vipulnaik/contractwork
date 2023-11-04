@@ -1,5 +1,9 @@
 <?php
 
+# This file is currently disabled from use in the contractwork repo
+# (via the commenting out of its inclusion in topic.php)
+# due to complications created by its dependence on wikipediaviews
+
 print '<h4 id="formatImpact">Format impact: Wikipedia</h4>';
 
 $paidViewsQuery = "select sum(viewcount) as totalViews from wikipediaviews.viewcountsbymonth where (pagename,language) in (select distinct task_receptacle,language from tasks where $formatRegexMatcher and task_type in ('Wikipedia page creation','Wikipedia page translation')) and drilldown in ('desktop','mobile-web','mobile-app');";
