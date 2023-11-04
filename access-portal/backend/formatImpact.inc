@@ -1,7 +1,7 @@
 <?php
 
 # This file is currently disabled from use in the contractwork repo
-# (via the commenting out of its inclusion in topic.php)
+# (via the commenting out of its inclusion in format.php)
 # due to complications created by its dependence on wikipediaviews
 
 print '<h4 id="formatImpact">Format impact: Wikipedia</h4>';
