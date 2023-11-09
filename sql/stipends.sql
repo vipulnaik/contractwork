@@ -116,7 +116,9 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',97.35,'2023-05-01','2023-05-31','2023-05-31','Rate of $11/hour effective January 2023',8.85,120),
   ('Issa Rice',92.07,'2023-06-01','2023-06-30','2023-06-30','Rate of $11/hour effective January 2023',8.37,120),
   ('Issa Rice',7.48,'2023-07-01','2023-07-31','2023-07-31','Rate of $11/hour effective January 2023',0.68,120),
-  ('issa Rice',4.72,'2023-08-01','2023-08-31','2023-08-31','Rate of $11/hour effective January 2023',0.43,120);
+  ('Issa Rice',4.72,'2023-08-01','2023-08-31','2023-08-31','Rate of $11/hour effective January 2023',0.43,120),
+  ('Issa Rice',66.88,'2023-09-01','2023-09-30','2023-09-30','Rate of $11/hour effective January 2023. Most of the additional hours beyond the ones covered by explicitly-paid-for were spent on Timelines Wiki, on tasks that will be incorporated into the end-of-year Timelines Wiki payment.',6.08,120),
+  ('Issa Rice',24.75,'2023-10-01','2023-10-31','2023-10-31','Rate of $11/hour effective January 2023',2.25,120);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),

@@ -1203,7 +1203,16 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-07-17',0.35,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour. Work done 2023-07-17.',2),
   /* Tasks added for August 2023 */
   ('Issa Rice','AI Watch','Coding','AI Watch','https://aiwatch.issarice.com/','2023-08-02',3.80,'AI safety','Code','Spent 20 minutes at $11.50/hour. Work done 2023-08-02. See https://github.com/riceissa/aiwatch/commit/f5e5b50245fb91c5fdaf594e0c0696b874021c1f for the change.',20),
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-08-05',1.15,'Organizational structures and dynamics','N/A','Spent 6 minutes at $11.50/hour assisting Sebastian. Work done 2023-08-05.',6);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-08-05',1.15,'Organizational structures and dynamics','N/A','Spent 6 minutes at $11.50/hour assisting Sebastian. Work done 2023-08-05.',6),
+  /* Tasks added for September 2023 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-09-07',0.23,'Organizational structures and dynamics','N/A','Spent 1 minute at $11.50/hour. Work done 2023-09-07.',1),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-09-25',3.80,'Organizational structures and dynamics','N/A','Spent 20 minutes at $11.50/hour assisting Sebastian. Work done 2023-09-06 to 2023-09-25.',20),
+  /* Tasks added for October 2023 */
+  ('Issa Rice','Timelines wiki','Coding','Backup failure investigation','https://timelines.issarice.com/','2023-09-03',9.78,'Timeline content','N/A','Spent 51 minutes at $11.50/hour. Work done 2023-09-03.',51),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-10-25',0.81,'Organizational structures and dynamics','N/A','Spent 4 minutes at $11.50/hour. Work done 2023-10-25.',4),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-10-31',0.58,'Organizational structures and dynamics','N/A','Spent 3 minutes at $11.50/hour assisting Sebastian. Work done 2023-10-23 to 2023-10-31.',3),
+  ('Issa Rice','Timelines wiki','Consulting','N/A','N/A','2023-10-25',10.54,'Timeline content','N/A','Spent 55 minutes at $11.50/hour. Meeting with Vipul and Sebastian on 2023-10-25. This is the Timelines Wiki portion of the meeting.',55),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-10-25',11.31,'Organizational structures and dynamics','N/A','Spent 59 minutes at $11.50/hour. Meeting with Vipul and Sebastian on 2023-10-25. This is the Org Watch portion of the meeting, and also includes tech tips to Sebastian.',59);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
