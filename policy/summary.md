@@ -156,6 +156,8 @@ coordinated. The amount should be enough to support at least two
 months and not more than six months of contract work at current
 rates. As of 2023, the payment method is Bitcoin.
 
+## Future Fund Regranting Program work by Sebastian Sanchez
+
 ### Update process for payments due
 
 Vipul enters payments due for Future Fund Regranting Program along
