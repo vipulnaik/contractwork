@@ -112,7 +112,7 @@ are some more details about the various pieces of the update:
 
   * Return with feedback (moving the timeline to the [Returned with
     feedback section of the user
-    page]((https://timelines.issarice.com/wiki/User:Sebastian#Returned_with_feedback)
+    page](https://timelines.issarice.com/wiki/User:Sebastian#Returned_with_feedback)
     with either inlined feedback or a link to feedback on the talk
     page of the submitted timeline.
 
