@@ -158,6 +158,30 @@ rates. As of 2023, the payment method is Bitcoin.
 
 ## Future Fund Regranting Program work by Sebastian Sanchez
 
+### Timelines wiki
+
+The Future Fund Regranting Program is funding some timelines by
+Sebastian. You can see
+https://contractwork.vipulnaik.com/payer.php?payer=Future+Fund+Regranting+Program
+for more detail on the work funded by Future Fund Regranting Program,
+and
+https://timelines.issarice.com/wiki/User:Sebastian#Priority_work_from_Future_Fund_Regranting_Program_.28list_from_Pablo_Stafforini.29
+for a list of in-progress and future work. This pays a $4/hour stipend
+and additionally pays for specific timelines at specified multiples of
+what Vipul would pay.
+
+There is no hourly cap; however, in general Sebastian is expected to
+spend up to 75 hours per month on these timelines as he spends the
+rest of his time doing work for Vipul Naik.
+
+As of October 29, 2023, the priority of work is as follows:
+
+* Aim to finish all timelines that were 75%+ complete as of May 13,
+  2023, picking them one by one.
+
+* After that, focus first on AI-related timelines within Future Fund
+  work.
+
 ### Update process for payments due
 
 Vipul enters payments due for Future Fund Regranting Program along
@@ -189,30 +213,6 @@ further payments being made. Once the previously made payments are
 used up, work funded by these payments will stop.
 
 ## Other support for the work of Sebastian Sanchez
-
-### Timelines wiki
-
-The Future Fund Regranting Program is funding some timelines by
-Sebastian. You can see
-https://contractwork.vipulnaik.com/payer.php?payer=Future+Fund+Regranting+Program
-for more detail on the work funded by Future Fund Regranting Program,
-and
-https://timelines.issarice.com/wiki/User:Sebastian#Priority_work_from_Future_Fund_Regranting_Program_.28list_from_Pablo_Stafforini.29
-for a list of in-progress and future work. This pays a $4/hour stipend
-and additionally pays for specific timelines at specified multiples of
-what Vipul would pay.
-
-There is no hourly cap; however, in general Sebastian is expected to
-spend up to 75 hours per month on these timelines as he spends the
-rest of his time doing work for Vipul Naik.
-
-As of October 29, 2023, the priority of work is as follows:
-
-* Aim to finish all timelines that were 75%+ complete as of May 13,
-  2023, picking them one by one.
-
-* After that, focus first on AI-related timelines within Future Fund
-  work.
 
 ### Org Watch
 
