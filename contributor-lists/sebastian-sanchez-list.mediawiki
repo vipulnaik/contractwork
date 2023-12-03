@@ -22,9 +22,9 @@ Total money earned as income: $14021 (breakdown: $10025 for Vipul Naik, $3996 fo
 
 Forward balance caried over from 2022: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for Future Fund Regranting Program)
 
-Payment made: $9893.32 (all for Vipul Naik)
+Payment made: $15032.76 (all for Vipul Naik)
 
-Net payment due: ($10678.15) (breakdown: ($670.15) for Vipul Naik, ($10008) for Future Fund Regranting Program)
+Net payment due: ($15817.59) (breakdown: ($5809.59) for Vipul Naik, ($10008) for Future Fund Regranting Program)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -138,11 +138,13 @@ The rule of thumb for stipend is: $4/hour
 
 ===Payments made by Vipul Naik===
 
-Total so far: $9893.32
+Total so far: $15032.76
 
 * $3772.88 sent and received Thursday, January 12, 2023. Transaction in Bitcoin for 0.2 BTC (and calculated in terms of USD value at time of transaction of $18,864.38 per BTC) with a very small transaction fee of 0.00001981 BTC ($0.37 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/09cbe1824c07e330b4d298d0e07f566b58dac4a4cc6a86a638b753f21bf9a63e (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 * $6120.44 sent and received Saturday, July 1, 2023. Transaction in Bitcoin for 0.2 BTC (and calculated in terms of USD value at time of transaction of $30,602.21 per BTC) with a very small transaction fee of 0.000031 BTC ($0.95 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/3c9499ff212cb6b8cfc59f9f6f264e357a39073f1410062c5dbed5dd230428ae (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
+* $5139.44 sent and received Sunday, December 3, 2023. Transaction in Bitcoin for 0.13 BTC (and calculated in terms USD value at time of transaction of $39,534.17 per BTC) with a transaction fee of 0.00013402 BTC ($5.30 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/0ad8a9e2be586b8c1b55d642fcb9bf004fab2189fed960ea4f5c7f0c3e3a08a2 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading; the transaction of interest is at number 8 in the list).
 
 == Work in 2022 ==
 
