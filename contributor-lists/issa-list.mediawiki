@@ -22,17 +22,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2023 ==
 
-Total money earned as income (taxable as income for 2023): $682.85
+Total money earned as income (taxable as income for 2023): $730.49
 
 Payment made: $989.94
 
 Carryover payment due from 2022: $453.27
 
-Net payment due: $146.18
+Net payment due: $193.82
 
 === Work on timelines wiki ===
 
-Total so far: $68.97
+Total so far: $80.12
 
 * Work on improving efficiency of the daily backup process: $23. Spent 95 minutes at $11.50/hour with a 2-hour minimum. Work done 2023-01-02.
 
@@ -44,9 +44,11 @@ Total so far: $68.97
 
 * Meeting with Vipul and Sebastian in October: $10.54. Spent 55 minutes at $11.50/hour. Meeting with Vipul and Sebastian on 2023-10-25. This is the Timelines wiki portion of the meeting.
 
+* Review of timeline of immunology via screenshare: $11.15. Spent 58 minutes at $11.50/hour. Work done 2023-11-10.
+
 === Work on Org Watch ===
 
-Total so far: $115.30
+Total so far: $117.14
 
 * Work on Org Watch in January (assisting Sebastian): $4.02. Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.
 
@@ -78,6 +80,10 @@ Total so far: $115.30
 
 * Work on Org Watch in October (meeting with Vipul and Sebastian): $11.31. Spent 59 minutes at $11.50/hour. Meeting with Vipul and Sebastian on 2023-10-25. This is the Org Watch portion of the meeting, and also includes tech tips to Sebastian.
 
+* Work on Org Watch in November (general): $1.50. Spent 8 minutes at $11.50/hour. Work done 2023-11-20.
+
+* Work on Org Watch in November (assisting Sebastian): $0.34. Spent 2 minutes at $11.50/hour. Work done 2023-11-20.
+
 === Work on AI Watch ===
 
 Total so far: $6.91
@@ -96,7 +102,7 @@ Total so far: $122.52
 
 === Stipends ===
 
-Total so far: $369.15
+Total so far: $403.80
 
 * January: $37.40. 3.40 hours at $11/hour
 
@@ -117,6 +123,8 @@ Total so far: $369.15
 * September: $66.88. 6.08 hours at $11/hour. Most of the additional hours beyond the ones covered by explicitly-paid-for were spent on Timelines wiki, on tasks that will be incorporated into the end-of-year Timelines wiki payment.
 
 * October: $24.75. 2.25 hours at $11/hour
+
+* November: $34.65. 3.15 hours at $11/hour
 
 === Payments made ===
 

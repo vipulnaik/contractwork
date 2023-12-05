@@ -1215,7 +1215,11 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-10-25',0.81,'Organizational structures and dynamics','N/A','Spent 4 minutes at $11.50/hour. Work done 2023-10-25.',4),
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-10-31',0.58,'Organizational structures and dynamics','N/A','Spent 3 minutes at $11.50/hour assisting Sebastian. Work done 2023-10-23 to 2023-10-31.',3),
   ('Issa Rice','Timelines wiki','Consulting','N/A','N/A','2023-10-25',10.54,'Timeline content','N/A','Spent 55 minutes at $11.50/hour. Meeting with Vipul and Sebastian on 2023-10-25. This is the Timelines wiki portion of the meeting.',55),
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-10-25',11.31,'Organizational structures and dynamics','N/A','Spent 59 minutes at $11.50/hour. Meeting with Vipul and Sebastian on 2023-10-25. This is the Org Watch portion of the meeting, and also includes tech tips to Sebastian.',59);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-10-25',11.31,'Organizational structures and dynamics','N/A','Spent 59 minutes at $11.50/hour. Meeting with Vipul and Sebastian on 2023-10-25. This is the Org Watch portion of the meeting, and also includes tech tips to Sebastian.',59),
+  /* Tasks added for November 2023 */
+  ('Issa Rice','Timelines wiki','Review','Review of timeline of immunology via screenshare','N/A','2023-11-10',11.15,'Timeline content','Private communication','Spent 58 minutes at $11.50/hour. Work done 2023-11-10.',58),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-11-20',1.50,'Organizational structures and dynamics','N/A','Spent 8 minutes at $11.50/hour. Work done 2023-11-20.',8),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-11-20',0.34,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour. Work done 2023-11-20.',2);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
