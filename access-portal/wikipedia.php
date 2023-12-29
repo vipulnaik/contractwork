@@ -7,7 +7,7 @@ include_once("backend/functions.inc");
 include_once('analytics.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
 include_once('style.inc');
-print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
+print '<script type="text/javascript" src="./jquery-3.7.1.min.js"></script>'."\n";
 print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
 print "<title>Wikipedia work summary</title></head><body>";
 $pageSelectQuery = "select distinct task_receptacle from tasks where task_type REGEXP 'Wikipedia' and task_type != 'Attempted Wikipedia work' order by task_receptacle;";
