@@ -205,7 +205,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',510,'2023-08-01','2023-08-31','2023-08-31','The payment is at $5/hour for all 102 hours worked. Total time spent was as follows: 61 hours on Timelines wiki (of which 60 hours was on AI-related timelines), 36 hours on Org Watch, and 5 hours on tech learning.',102),
   ('Sebastian Sanchez',500,'2023-09-01','2023-09-30','2023-09-30','The payment is at $5/hour for all 100 hours worked. Total time spent was as follows: 56 hours on Timelines wiki (of which 44 hours was on AI-related timelines: timeline of ChatGPT, timeline of artificial intelligence, timeline of Bing Chat, timeline of Google Bard; the remaining hours were spent on: timeline of Hindi on the web, timeline of mRNA research), 42 hours on Org Watch, and 2 hours on tech learning.',100),
   ('Sebastian Sanchez',450,'2023-10-01','2023-10-31','2023-10-31','The payment is at $5/hour for all 90 hours worked. Total time spent was as follows: 45 hours on Timelines wiki (of which 40 hours was on AI-related timelines), 35 hours on Org Watch, and 10 hours on tech learning.',90),
-  ('Sebastian Sanchez',300,'2023-11-01','2023-11-30','2023-11-30','The payment is at $5/hour for all 60 hours worked. Total time spent was as follows: 20 hours on Timelines wiki (of which 4 hours was on AI-related timelines) and 40 hours on Org Watch.',60);
+  ('Sebastian Sanchez',300,'2023-11-01','2023-11-30','2023-11-30','The payment is at $5/hour for all 60 hours worked. Total time spent was as follows: 20 hours on Timelines wiki (of which 4 hours was on AI-related timelines) and 40 hours on Org Watch.',60),
+  ('Sebastian Sanchez',430,'2023-12-01','2023-12-31','2023-12-31','The payment is at $5/hour for all 86 hours worked. Total time spent was as follows: 54 hours on Timelines wiki (of which 31 hours was on AI-related timelines), 31 hours on Org Watch, and 1 hour on tech learning (focused on git).',86);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, payer) values
   ('Sebastian Sanchez',120,'2022-06-01','2022-06-30','2022-06-30','The payment is at $4/hour for all 30 hours worked on Timelines wiki.',30,'Future Fund Regranting Program'),
@@ -225,7 +226,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',244,'2023-08-01','2023-08-31','2023-08-31','The payment is at $4/hour for 61 hours worked on Timelines wiki.',61,'Future Fund Regranting Program'),
   ('Sebastian Sanchez',136,'2023-09-01','2023-09-30','2023-09-30','The payment is at $4/hour for 34 hours worked on Timelines wiki. This includes work on timeline of nuclear risk and timeline of utilitarianism.',34,'Future Fund Regranting Program'),
   ('Sebastian Sanchez',216,'2023-10-01','2023-10-31','2023-10-31','The payment is at $4/hour for 54 hours worked on Timelines wiki.',54,'Future Fund Regranting Program'),
-  ('Sebastian Sanchez',304,'2023-11-01','2023-11-30','2023-11-30','The payment is at $4/hour for 76 hours worked on Timelines wiki. This includes work on timeline of utilitarianism and timeline of nuclear risk.',76,'Future Fund Regranting Program');
+  ('Sebastian Sanchez',304,'2023-11-01','2023-11-30','2023-11-30','The payment is at $4/hour for 76 hours worked on Timelines wiki. This includes work on timeline of utilitarianism and timeline of nuclear risk.',76,'Future Fund Regranting Program'),
+  ('Sebastian Sanchez',112,'2023-12-01','2023-12-31','2023-12-31','The payment is at $4/hour for 28 hours worked on Timelines wiki. This includes work on timeline of nuclear risk, timeline of biorisk, and timeline of consciousness research.',28,'Future Fund Regranting Program');
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Amana Rice',120.32,'2020-12-01','2020-12-31','2020-12-31','30.08 hours at $4/hour',30.08);

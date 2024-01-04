@@ -18,17 +18,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2023==
 
-Total money earned as income: $14021 (breakdown: $10025 for Vipul Naik, $3996 for Future Fund Regranting Program)
+Total money earned as income: $16527 (breakdown: $10919 for Vipul Naik, $5608 for Future Fund Regranting Program)
 
 Forward balance caried over from 2022: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for Future Fund Regranting Program)
 
 Payment made: $15032.76 (all for Vipul Naik)
 
-Net payment due: ($15817.59) (breakdown: ($5809.59) for Vipul Naik, ($10008) for Future Fund Regranting Program)
+Net payment due: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for Future Fund Regranting Program)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
-Total so far: $1510
+Total so far: $1680
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Coinbase Timeline of Coinbase]: $370. Completed January 12, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Coinbase&oldid=72540 (2023-01-13 02:45 UTC, 143696 bytes, 10 sample questions + additional bullet point, 3 and 4 rows in big picture tables, 3 visual data charts and 1 data table, 171 rows in full timeline)
 
@@ -38,17 +38,21 @@ Total so far: $1510
 
 * [https://timelines.issarice.com/wiki/Timeline_of_large_language_models Timeline of large language models]: $430. Completed October 22, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_large_language_models&oldid=76533 (2023-10-23 03:36 UTC, 185980 bytes, 6 sample questions, 2 visual data charts, 3 rows in big picture, 132 rows in full timeline)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_Google_Bard Timeline of Google Bard]: $170. Completed December 26, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Google_Bard&oldid=77866 (2023-12-27 02:25 UTC, 60199 bytes, 5 sample questions, 3 rows in big picture, 11 rows in summary by month, 2 visual data charts, 46 rows in full timeline)
+
 ===Expansions (Timelines wiki) for Vipul Naik===
 
-Total so far: $850
+Total so far: $865
 
 * [https://timelines.issarice.com/wiki/Timeline_of_web_search_engines Timeline of web search engines]: $450. Completed February 23, 2023. [https://timelines.issarice.com/index.php?title=Timeline_of_web_search_engines&type=revision&diff=73438&oldid=41172 Diff]. Increased from 33160 bytes (41 rows in full timeline, no big picture, sample questions or numerical or visual data) to 192638 bytes (5 + 1 sample questions, 5 rows in big picture, 4 visual data charts and 1 data table, 288 rows in full timeline)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $400. Completed August 31, 2023. [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&type=revision&diff=75789&oldid=40907 Diff]. Increased from 78868 bytes (9 sample questions, 3 rows in big picture, 2 visual data charts, 103 rows in full timeline) to 190404 bytes (11 sample questions, 4 rows in big picture, 8 rows in summary by year, 3 visual data charts and 1 data table, 161 rows in full timeline)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $15. Completed December 1, 2023. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=77437&oldid=59911 Diff]. Increased from 202347 bytes (233 rows) to 208318 bytes (242 rows), with 9 rows added to big picture
+
 ===New timelines (Timelines wiki) for Future Fund Regranting Program===
 
-Total so far: $2440
+Total so far: $3940
 
 * [https://timelines.issarice.com/wiki/Timeline_of_transhumanism Timeline of transhumanism]: $800. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $400 that Vipul Naik would pay for the timeline. Completed January 10, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_transhumanism&oldid=72485 (2023-01-10 21:03 UTC, 154834 bytes, 8 sample questions + additional bullet point, 6 rows in big picture, 4 visual data charts and 1 data table, 206 rows in full timeline)
 
@@ -56,21 +60,11 @@ Total so far: $2440
 
 * [https://timelines.issarice.com/wiki/Timeline_of_utilitarianism Timeline of utilitarianism]: $740. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $370 that Vipul Naik would pay for the timeline. Completed November 1, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_utilitarianism&oldid=76723 (2023-11-01 18:15 UTC, 139162 bytes, 9 sample questions, 5 rows in big picture, 3 visual data charts, 126 rows in full timeline)
 
-===Tentative pending payments===
-
-Total for Vipul Naik: $185
-
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_Google_Bard Timeline of Google Bard]: $170. Completed December 26, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Google_Bard&oldid=77866 (2023-12-27 02:25 UTC, 60199 bytes, 5 sample questions, 3 rows in big picture, 11 rows in summary by month, 2 visual data charts, 46 rows in full timeline)
-
-* (not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $15. Completed December 1, 2023. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=77437&oldid=59911 Diff]. Increased from 202347 bytes (233 rows) to 208318 bytes (242 rows), with 9 rows added to big picture
-
-Total for Future Fund Regranting Program: $1500
-
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_nuclear_risk Timeline of nuclear risk]: $1500. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $750 that Vipul Naik would pay for the timeline. Completed December 30, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nuclear_risk&oldid=77929 (2023-12-30 15:04 UTC, 275873 bytes, 15 sample questions (+ 1 wrap-up), 8 rows in big picture, 11 top historic events, 9 first nuclear tests, 2 visual data charts, 263 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_nuclear_risk Timeline of nuclear risk]: $1500. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $750 that Vipul Naik would pay for the timeline. Completed December 30, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nuclear_risk&oldid=77929 (2023-12-30 15:04 UTC, 275873 bytes, 15 sample questions (+ 1 wrap-up), 8 rows in big picture, 11 top historic events, 9 first nuclear tests, 2 visual data charts, 263 rows in full timeline)
 
 === Org Watch ===
 
-Total so far: $2880
+Total so far: $3159
 
 * January: $333. 37 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-01-01&until=2023-01-31 for more details. The first commit for the month was on 2023-01-01 and the last commit for the month was on 2023-01-31.
 
@@ -90,11 +84,13 @@ Total so far: $2880
 
 * October: $315. 35 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-10-01&until=2023-10-31 for more details. The first commit for the month was on 2023-10-01 and the last commit for the month was on 2023-10-31.
 
-* November: $360: 40 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-11-01&until=2023-11-30 for more details. The first commit for the month was on 2023-11-02 and the last commit for the month was on 2023-11-30.
+* November: $360. 40 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-11-01&until=2023-11-30 for more details. The first commit for the month was on 2023-11-02 and the last commit for the month was on 2023-11-30.
+
+* December: $279. 31 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-12-01&until=2023-12-31 for more details. The first commit for the month was on 2023-12-05 and the last commit for the month was on 2023-12-30.
 
 ===Stipends for Vipul Naik===
 
-Total so far: $4785
+Total so far: $5215
 
 The rule of thumb for stipend is: $5/hour
 
@@ -120,9 +116,11 @@ The rule of thumb for stipend is: $5/hour
 
 * November: $300. The payment is at $5/hour for all 60 hours worked. Total time spent was as follows: 20 hours on Timelines wiki (of which 4 hours was on AI-related timelines) and 40 hours on Org Watch.
 
+* December: $430. The payment is at $5/hour for all 86 hours worked. Total time spent was as follows: 54 hours on Timelines wiki (of which 31 hours was on AI-related timelines), 31 hours on Org Watch, and 1 hour on tech learning (focused on git).
+
 ===Stipends for Future Fund Regranting Program===
 
-Total so far: $1556
+Total so far: $1668
 
 The rule of thumb for stipend is: $4/hour
 
@@ -147,6 +145,8 @@ The rule of thumb for stipend is: $4/hour
 * October: $216. The payment is at $4/hour for 54 hours worked on Timelines wiki.
 
 * November: $304. The payment is at $4/hour for 76 hours worked on Timelines wiki. This includes work on timeline of utilitarianism and timeline of nuclear risk.
+
+* December: $112. The payment is at $4/hour for 28 hours worked on Timelines wiki. This includes work on timeline of nuclear risk, timeline of biorisk, and timeline of consciousness research.
 
 ===Payments made by Vipul Naik===
 
