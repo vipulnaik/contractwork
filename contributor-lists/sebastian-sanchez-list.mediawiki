@@ -58,9 +58,11 @@ Total so far: $2440
 
 ===Tentative pending payments===
 
-Total for Vipul Naik: $170
+Total for Vipul Naik: $185
 
 * (accepted) [https://timelines.issarice.com/wiki/Timeline_of_Google_Bard Timeline of Google Bard]: $170. Completed December 26, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Google_Bard&oldid=77866 (2023-12-27 02:25 UTC, 60199 bytes, 5 sample questions, 3 rows in big picture, 11 rows in summary by month, 2 visual data charts, 46 rows in full timeline)
+
+* (not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $15. Completed December 1, 2023. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=77437&oldid=59911 Diff]. Increased from 202347 bytes (233 rows) to 208318 bytes (242 rows), with 9 rows added to big picture
 
 Total for Future Fund Regranting Program: $1500
 
