@@ -960,7 +960,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2021-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).'),
   /* 2022 tasks */
   ('Issa Rice','Cause Prioritization Wiki','Domain renewal','Cause Prioritization Wiki','https://causeprioritization.org/','2022-10-30',50.51,'Cause prioritization','Domain renewal','Details: $17.17 - causeprioritization.com, $17.17 - causeprioritisation.com, $16.17 - causeprioritisation.org. Issa shouldered the cost of renewing the main domain causeprioritization.org himself.'),
-  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2022-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).');
+  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2022-12-31',300,'Timeline content','Code','This includes hosting and maintenance costs of $20/month (total $240) and main page updates at $5/month ($60).'),
+  /* 2023 tasks */
+  ('Issa Rice','Timelines wiki','Coding','Timelines wiki hosting and maintenance and feature enhancement','https://timelines.issarice.com/','2023-12-31',420,'Timeline content','Code','The total payment of $420 breaks down as follows: $220 on hosting cost (excluding actual spending on hosting, that has been reimbursed separately) (this is up from $180 last year, with the increase mostly reflecting inflation adjustment) and $200 for a combination of: the periodic updates to the main page table, as well as custom improvement work including work on the switch to GA 4 and the update to the main page table logic to pull from GA 4 (this is up from $60 last year, due to both inflation adjustment and the additional GA 4 work that had no equivalent last year).');
 
 /* Issa Rice payments, with time clocked
 Other payments to Issa Rice */
@@ -1226,7 +1228,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for November 2023 */
   ('Issa Rice','Timelines wiki','Review','Review of timeline of immunology via screenshare','N/A','2023-11-10',11.15,'Timeline content','Private communication','Spent 58 minutes at $11.50/hour. Work done 2023-11-10.',58),
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-11-20',1.50,'Organizational structures and dynamics','N/A','Spent 8 minutes at $11.50/hour. Work done 2023-11-20.',8),
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-11-20',0.34,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour. Work done 2023-11-20.',2);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-11-20',0.34,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour. Work done 2023-11-20.',2),
+  /* Tasks added for December 2023 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-12-15',25.07,'Organizational structures and dynamics','N/A','Spent 131 minutes at $11.50/hour. Work done 2023-12-14 and 2023-12-15.',131);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

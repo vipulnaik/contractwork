@@ -22,17 +22,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2023 ==
 
-Total money earned as income (taxable as income for 2023): $730.49
+Total money earned as income (taxable as income for 2023): $1203.83
 
 Payment made: $1183.76
 
 Carryover payment due from 2022: $453.27
 
-Net payment due: $0
+Net payment due: $473.34
 
 === Work on timelines wiki ===
 
-Total so far: $80.12
+Total so far: $500.12
 
 * Work on improving efficiency of the daily backup process: $23. Spent 95 minutes at $11.50/hour with a 2-hour minimum. Work done 2023-01-02.
 
@@ -46,9 +46,11 @@ Total so far: $80.12
 
 * Review of timeline of immunology via screenshare: $11.15. Spent 58 minutes at $11.50/hour. Work done 2023-11-10.
 
+* Year-round work on timelines wiki maintenance and improvement: $420. The total payment of $420 breaks down as follows: $220 on hosting cost (excluding actual spending on hosting, that has been reimbursed separately) (this is up from $180 last year, with the increase mostly reflecting inflation adjustment) and $200 for a combination of: the periodic updates to the main page table, as well as custom improvement work including work on the switch to GA 4 and the update to the main page table logic to pull from GA 4 (this is up from $60 last year, due to both inflation adjustment and the additional GA 4 work that had no equivalent last year).
+
 === Work on Org Watch ===
 
-Total so far: $117.14
+Total so far: $142.21
 
 * Work on Org Watch in January (assisting Sebastian): $4.02. Spent 21 minutes at $11.50/hour assisting Sebastian. Work done 2023-01-02 and 2023-01-30.
 
@@ -84,6 +86,8 @@ Total so far: $117.14
 
 * Work on Org Watch in November (assisting Sebastian): $0.34. Spent 2 minutes at $11.50/hour. Work done 2023-11-20.
 
+* Work on Org Watch in December (general): $25.07. Spent 131 minutes at $11.50/hour. Work done 2023-12-14 and 2023-12-15.
+
 === Work on AI Watch ===
 
 Total so far: $6.91
@@ -102,7 +106,7 @@ Total so far: $122.52
 
 === Stipends ===
 
-Total so far: $403.80
+Total so far: $432.07
 
 * January: $37.40. 3.40 hours at $11/hour
 
@@ -125,6 +129,8 @@ Total so far: $403.80
 * October: $24.75. 2.25 hours at $11/hour
 
 * November: $34.65. 3.15 hours at $11/hour
+
+* December: $28.27. 2.57 hours at $11/hour
 
 === Payments made ===
 
