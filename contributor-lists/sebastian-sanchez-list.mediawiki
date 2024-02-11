@@ -18,19 +18,41 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2024==
 
-Total money earned as income: $0
+Total money earned as income: $1223 ($1143 for Vipul Naik, $80 for Future Fund Regranting Program)
 
 Forward balance carried over from 2023: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for Future Fund Regranting Program)
 
 Payment made: $0
 
-Net payment due: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for Future Fund Regranting Program)
+Net payment due: ($12088.59) (breakdown: ($3772.59) for Vipul Naik, ($8316) for Future Fund Regranting Program)
 
-===Tentative pending payments===
+===New timelines (Timelines wiki) for Vipul Naik===
 
 Total so far: $390
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Hindi_on_the_web Timeline of Hindi on the web]: $390. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Hindi_on_the_web&oldid=78320 (2024-01-31 05:37 UTC, 131914 bytes, 6 same questions, 4 rows in big picture, 4 data tables, 178 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_Hindi_on_the_web Timeline of Hindi on the web]: $390. Completed January 31, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Hindi_on_the_web&oldid=78320 (2024-01-31 05:37 UTC, 131914 bytes, 6 same questions, 4 rows in big picture, 4 data tables, 178 rows in full timeline)
+
+===Org Watch===
+
+Total so far: $288
+
+* January: $288. 32 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-01-01&until=2024-01-31 for more details. The first commit for the month was on 2024-01-01 and the last commit for the month was on 2024-01-31.
+
+===Stipends for Vipul Naik===
+
+Total so far: $465
+
+The rule of thumb for stipend is: $5/hour
+
+* January: $465. The payment is at $5/hour for all 93 hours worked. Total time spent was as follows: 60 hours on Timelines wiki, 32 hours on Org Watch, and 1 hour on tech learning (git self-study).
+
+===Stipends for Future Fund Regranting Program===
+
+Total so far: $80
+
+The rule of thumb for stipend is: $4/hour
+
+* January: $80. The payment is at $4/hour for 20 hours worked on Timelines wiki.
 
 ==Work in 2023==
 
