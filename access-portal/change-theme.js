@@ -15,7 +15,7 @@ function change_theme_read_cookie(name) {
 function change_theme_color() {
   if (document.body.classList.contains("dark")) {
     document.body.classList.remove("dark");
-    document.cookie = 'colorCookie=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; SameSite=None; Secure';
+    document.cookie = 'colorCookie=light; max-age=31536000; path=/; SameSite=None; Secure';
   } else {
     document.body.classList.add("dark");
     document.cookie = 'colorCookie=dark; max-age=31536000; path=/; SameSite=None; Secure';
