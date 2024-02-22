@@ -22,8 +22,11 @@ function change_theme_color() {
   }
 }
 
-function set_theme_from_cookies() {
-  if (change_theme_read_cookie("colorCookie")) {
+function set_theme_from_cookies_or_browser_preference() {
+  let colorCookie = change_theme_read_cookie("colorCookie");
+  if (colorCookie === "dark") {
     document.body.classList.add("dark");
+  } else if (colorCookie === null && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    change_theme_color();
   }
 }
