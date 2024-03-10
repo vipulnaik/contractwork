@@ -92,17 +92,17 @@ Total so far: $142.21
 
 * Work on Org Watch in May (general): $7.71. Spent 40 minutes at $11.50/hour. Work done 2023-05-13 and 2023-05-21. This includes additions to README.md and a fix to a page title. See https://github.com/riceissa/aiwatch/commits?since=2023-05-13&until=2023-05-21&author=riceissa for the commits.
 
-* Work on Org Watch in May (assisting Sebastian): $10.12. Spent 53 minutes at $11.50/hour. Work done 2023-05-15 and 2023-05-16 assisting Sebastian.
+* Work on Org Watch in May (assisting Sebastian): $10.12. Spent 53 minutes at $11.50/hour assisting Sebastian. Work done 2023-05-15 and 2023-05-16.
 
 * Work on Org Watch in May (meeting with Vipul and Sebastian): $16.68. Spent 87 minutes at $11.50/hour in the Org Watch portion of the meeting with Vipul and Sebastian on 2023-05-13.
 
 * Work on Org Watch in June (general): $39.33. Spent 205 minutes at $11.50/hour. Work done 2023-06-20 to 2023-06-27. This includes the addition of a check and work on an archival script. See https://github.com/riceissa/aiwatch/commits?since=2023-06-20&until=2023-06-27&author=riceissa for the commits.
 
-* Work on Org Watch in June (assisting Sebastian): $1.15. Spent 6 minutes at $11.50/hour. Work done 2023-06-09.
+* Work on Org Watch in June (assisting Sebastian): $1.15. Spent 6 minutes at $11.50/hour assisting Sebastian. Work done 2023-06-09.
 
 * Work on Org Watch in July: $0.35. Spent 2 minutes at $11.50/hour. Work done 2023-07-17.
 
-* Work on Org Watch in August (assisting Sebastian): $1.15. Spent 6 minutes at $11.50/hour. Work done 2023-08-05.
+* Work on Org Watch in August (assisting Sebastian): $1.15. Spent 6 minutes at $11.50/hour assisting Sebastian. Work done 2023-08-05.
 
 * Work on Org Watch in September (general): $0.23. Spent 1 minute at $11.50/hour. Work done 2023-09-07.
 
