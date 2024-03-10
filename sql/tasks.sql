@@ -1234,11 +1234,13 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for November 2023 */
   ('Issa Rice','Timelines wiki','Review','Review of timeline of immunology via screenshare','N/A','2023-11-10',11.15,'Timeline content','Private communication','Spent 58 minutes at $11.50/hour. Work done 2023-11-10.',58),
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-11-20',1.50,'Organizational structures and dynamics','N/A','Spent 8 minutes at $11.50/hour. Work done 2023-11-20.',8),
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-11-20',0.34,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour. Work done 2023-11-20.',2),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-11-20',0.34,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour assisting Sebastian. Work done 2023-11-20.',2),
   /* Tasks added for December 2023 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2023-12-15',25.07,'Organizational structures and dynamics','N/A','Spent 131 minutes at $11.50/hour. Work done 2023-12-14 and 2023-12-15.',131),
   /* Tasks added for January 2024 */
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2024-01-01',0.34,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour. Work done 2024-01-01.',2);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2024-01-01',0.34,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour assisting Sebastian. Work done 2024-01-01.',2),
+  /* Tasks added for February 2024 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2024-02-08',0.81,'Organizational structures and dynamics','N/A','Spent 4 minutes at $11.50/hour. Work done 2024-02-08.',4);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
