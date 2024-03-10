@@ -12,7 +12,7 @@ $taskVenues = array("Wikipedia","Wikipedia Views","Effective Altruism Forum","Le
 
 $taskFormats = array("Prose","Prose with tables","Translation","Timeline","Table","Graphs","Data","Photos/videos + notes","Outreach","Prose/Opinion","Email","Prose/How-to","Communication with Vipul","No record","Spreadsheet","Code","N/A","Survey","Prose, tables, and charts","Prose/Autobiography","Prose/transcript","Prose with diagram","Code and data","Graphs and code","Prose with tables and charts and code","Structured data","Private communication + code","Communication with worker","Predictions","Domain renewal","Notes","Code and comments","Documentation","Private communication","Orbit Q&A");
 
-$topics = array("Health","Global health","Country healthcare","Animal welfare","Technology","Philanthropy","People","Wikipedia","United States taxation","United States migration","United States politics","Political philosophy","Digital preservation","Artificial intelligence","Poverty","Government","GiveWell");
+$topics = array("Health","Global health","Country healthcare","Animal welfare","Technology","Philanthropy","People","Wikipedia","United States taxation","United States migration","United States politics","Political philosophy","Digital preservation","Artificial intelligence","Poverty","Government","GiveWell","Cryptocurrency");
 
 $paymentMethods = array("Cash","Check","PayPal","Wire transfer","Western Union","Debit card via Facebook","Venmo","Ethereum","Bitcoin","Bitcoin Cash","Direct deposit via Gusto","Direct deposit","FTX");
 
