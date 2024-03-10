@@ -18,41 +18,49 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2024==
 
-Total money earned as income: $1223 ($1143 for Vipul Naik, $80 for Future Fund Regranting Program)
+Total money earned as income: $2427 ($2183 for Vipul Naik, $244 for Future Fund Regranting Program)
 
 Forward balance carried over from 2023: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for Future Fund Regranting Program)
 
 Payment made: $0
 
-Net payment due: ($12088.59) (breakdown: ($3772.59) for Vipul Naik, ($8316) for Future Fund Regranting Program)
+Net payment due: ($10884.59) (breakdown: ($2732.59) for Vipul Naik, ($8152) for Future Fund Regranting Program)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
-Total so far: $390
+Total so far: $690
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Hindi_on_the_web Timeline of Hindi on the web]: $390. Completed January 31, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Hindi_on_the_web&oldid=78320 (2024-01-31 05:37 UTC, 131914 bytes, 6 same questions, 4 rows in big picture, 4 data tables, 178 rows in full timeline)
 
+* [https://timelines.issarice.com/wiki/Timeline_of_FTX Timeline of FTX]: $300. Completed February 29, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_FTX&oldid=78784 (2024-03-01 04:19 UTC, 95165 bytes, 9 sample questions (+ 1 wrap-up), 4 rows in big picture, 3 rows for key statistics, 4 rows for investors, 5 visual data charts, 98 rows in full timeline)
+
 ===Org Watch===
 
-Total so far: $288
+Total so far: $658
 
 * January: $288. 32 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-01-01&until=2024-01-31 for more details. The first commit for the month was on 2024-01-01 and the last commit for the month was on 2024-01-31.
 
+* February: $370. 42 hours, with the first 40 hours at $9/hour and the next 2 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-02-01&until=2024-02-29 for more details. The first commit for the month was on 2024-02-01 and the last commit for the month was on 2024-02-29.
+
 ===Stipends for Vipul Naik===
 
-Total so far: $465
+Total so far: $835
 
 The rule of thumb for stipend is: $5/hour
 
 * January: $465. The payment is at $5/hour for all 93 hours worked. Total time spent was as follows: 60 hours on Timelines wiki, 32 hours on Org Watch, and 1 hour on tech learning (git self-study).
 
+* February: $370. The payment is at $5/hour for all 74 hours worked. Total time spent was as follows: 32 hours on Timelines wiki and 42 hours on Org Watch.
+
 ===Stipends for Future Fund Regranting Program===
 
-Total so far: $80
+Total so far: $244
 
 The rule of thumb for stipend is: $4/hour
 
 * January: $80. The payment is at $4/hour for 20 hours worked on Timelines wiki.
+
+* February: $164. The payment is at $4/hour for 41 hours worked on Timelines wiki.
 
 ==Work in 2023==
 
@@ -99,12 +107,6 @@ Total so far: $3940
 * [https://timelines.issarice.com/wiki/Timeline_of_utilitarianism Timeline of utilitarianism]: $740. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $370 that Vipul Naik would pay for the timeline. Completed November 1, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_utilitarianism&oldid=76723 (2023-11-01 18:15 UTC, 139162 bytes, 9 sample questions, 5 rows in big picture, 3 visual data charts, 126 rows in full timeline)
 
 * [https://timelines.issarice.com/wiki/Timeline_of_nuclear_risk Timeline of nuclear risk]: $1500. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $750 that Vipul Naik would pay for the timeline. Completed December 30, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nuclear_risk&oldid=77929 (2023-12-30 15:04 UTC, 275873 bytes, 15 sample questions (+ 1 wrap-up), 8 rows in big picture, 11 top historic events, 9 first nuclear tests, 2 visual data charts, 263 rows in full timeline)
-
-=== Tentative pending payments ===
-
-Total so far: $300
-
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_FTX Timeline of FTX]: $300. Completed February 29, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_FTX&oldid=78784 (2024-03-01 04:19 UTC, 95165 bytes, 9 sample questions (+ 1 wrap-up), 4 rows in big picture, 3 rows for key statistics, 4 rows for investors, 5 visual data charts, 98 rows in full timeline)
 
 === Org Watch ===
 
