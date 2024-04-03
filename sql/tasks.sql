@@ -1241,7 +1241,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for January 2024 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2024-01-01',0.34,'Organizational structures and dynamics','N/A','Spent 2 minutes at $11.50/hour assisting Sebastian. Work done 2024-01-01.',2),
   /* Tasks added for February 2024 */
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2024-02-08',0.81,'Organizational structures and dynamics','N/A','Spent 4 minutes at $11.50/hour. Work done 2024-02-08.',4);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2024-02-08',0.81,'Organizational structures and dynamics','N/A','Spent 4 minutes at $11.50/hour. Work done 2024-02-08.',4),
+  /* Tasks added for March 2024 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2024-03-20',8.86,'Organizational structures and dynamics','N/A','Spent 46 minutes at $11.50/hour assisting Sebastian. Work done 2024-03-13 to 2024-03-20.',46);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
