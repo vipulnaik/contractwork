@@ -122,7 +122,12 @@ foreach(array_reverse($yearList) as $year) {
       if ($year >= '2018') {
         print " If using Free File Fillable Forms, select ".$setName[$year].".";
       }
-      print " Fill Page 2, Part I (leave Page 1 and Page 2, Part II blank). Your contract work income will go in lines 2 and 3. Follow the instructions carefully. The end result on line 12 should be about 14.13% of your contract work income, which should work out to $".number_format($selfEmploymentTax,2)." (there are some edge cases where it's less, but these probably don't apply to you). The value on line 13 should be half of the value on line 12, which should work out to $".number_format(0.5*$selfEmploymentTax,2).".</p>";
+      if ($year <= '2019') {
+        print " Fill Page 2, Part I (leave Page 1 and Page 2, Part II blank).";
+      } else {
+        print " Fill Part I (leave Part II blank).";
+      }
+      print " Your contract work income will go in lines 2 and 3. Follow the instructions carefully. The end result on line 12 should be about 14.13% of your contract work income, which should work out to $".number_format($selfEmploymentTax,2)." (there are some edge cases where it's less, but these probably don't apply to you). The value on line 13 should be half of the value on line 12, which should work out to $".number_format(0.5*$selfEmploymentTax,2).".</p>";
       if ($year <= '2017') {
         print "<p>Return to Form 1040. For line 27, enter the same value as on line 13 of Form 1040, Schedule SE, which in turn is half of the value on line 12, and should work out to $".number_format(0.5*$selfEmploymentTax,2).". The same value will likely go into line 36, assuming none of the rest of the adjustments apply to you.</p>";
       } else if ($year >= '2018') {
