@@ -237,7 +237,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',112,'2023-12-01','2023-12-31','2023-12-31','The payment is at $4/hour for 28 hours worked on Timelines wiki. This includes work on timeline of nuclear risk, timeline of biorisk, and timeline of consciousness research.',28,'Future Fund Regranting Program'),
   ('Sebastian Sanchez',80,'2024-01-01','2024-01-31','2024-01-31','The payment is at $4/hour for 20 hours worked on Timelines wiki.',20,'Future Fund Regranting Program'),
   ('Sebastian Sanchez',164,'2024-02-01','2024-02-29','2024-02-29','The payment is at $4/hour for 41 hours worked on Timelines wiki.',41,'Future Fund Regranting Program'),
-  ('Sebastian Sanchez',96,'2024-03-01','2024-03-31','2024-03-31','The payment is at $4/hour for 24 hours worked on Timelines wiki.',24,'Future Fund Regranting Program');
+  ('Sebastian Sanchez',96,'2024-03-01','2024-03-31','2024-03-31','The payment is at $4/hour for 24 hours worked on Timelines wiki.',24,'Future Fund Regranting Program'),
+  ('Sebastian Sanchez',92,'2024-04-01','2024-04-22','2024-04-22','The payment is at $4/hour for 23 hours worked on Timelines wiki.',23,'Future Fund Regranting Program');
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Amana Rice',120.32,'2020-12-01','2020-12-31','2020-12-31','30.08 hours at $4/hour',30.08);
