@@ -44,6 +44,12 @@ Total so far: $991
 
 * March: $333. 37 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-03-01&until=2024-03-31 for more details. The first commit for the month was on 2024-03-02 and the last commit for the month was on 2024-03-27.
 
+===Tentative pending payments===
+
+Total so far: $120
+
+* (not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_FTX_trial Timeline of FTX trial]: $120. Completed April 5, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_FTX_trial&oldid=79389 (2024-04-05 13:09 UTC, 51043 bytes, 3 sample questions, 3 rows in big picture, 2 visual data charts, 35 rows in full timeline)
+
 ===Stipends for Vipul Naik===
 
 Total so far: $1230
