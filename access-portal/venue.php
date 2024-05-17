@@ -41,8 +41,15 @@ if ($venue != '') {
   print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
   print "<h3>Contract work (all tasks) for Vipul Naik</h3>";
 }
-print '<p><span id="changeThemeMenu" style="display: none;">Change <a href="javascript:;" onclick="change_theme_color()">color</a></span>   &thinsp;<!-- blank space to prevent cumulative layout shift --></p>';
+?>
 
+<p><span id="changeThemeMenu" style="display: none;">Set color scheme to:
+         <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
+         <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
+         <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
+</span>&thinsp;<!-- blank space to prevent cumulative layout shift --></p>
+
+<?php
 $taskSelectQuery = "select * from tasks where $venueRegexMatcher and private = false;";
 $stmt = $mysqli->prepare($taskSelectQuery);
 if ($venueRegexMatcherParams) {
@@ -72,5 +79,6 @@ if ($taskSelectResult -> num_rows == 0) {
   include("backend/venueTaskList.inc");
 }
 include_once('anchorjs.inc');
+print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '</body>';
 ?>

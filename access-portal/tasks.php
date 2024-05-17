@@ -54,7 +54,15 @@ print '</head>';
 print '<body>';
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
 print "<h3>$titleExtras contract work for Vipul Naik</h3>";
-print '<p><span id="changeThemeMenu" style="display: none;">Change <a href="javascript:;" onclick="change_theme_color()">color</a></span>   &thinsp;<!-- blank space to prevent cumulative layout shift --></p>';
+?>
+
+<p><span id="changeThemeMenu" style="display: none;">Set color scheme to:
+         <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
+         <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
+         <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
+</span>&thinsp;<!-- blank space to prevent cumulative layout shift --></p>
+
+<?php
 print '<h4>Table of contents</h4>';
 print '<ul>';
 print '<li><a href="#filteredTaskPaymentsDueByTypeAndYear">Filtered task payments due by type and year</a></li>';
@@ -68,5 +76,6 @@ include("backend/filteredTaskPaymentsDueByVenueAndYear.inc");
 include("backend/filteredTaskPaymentsDueByFormatAndYear.inc");
 include("backend/filteredTaskList.inc");
 include_once('anchorjs.inc');
+print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '</body>';
 ?>

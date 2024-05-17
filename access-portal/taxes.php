@@ -15,7 +15,15 @@ include_once('analytics.inc');
 print '</head>';
 print '<body>';
 print "<h3>$worker tax details: Contract work for Vipul Naik</h3>";
-print '<p><span id="changeThemeMenu" style="display: none;">Change <a href="javascript:;" onclick="change_theme_color()">color</a></span>   &thinsp;<!-- blank space to prevent cumulative layout shift --></p>';
+?>
+
+<p><span id="changeThemeMenu" style="display: none;">Set color scheme to:
+         <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
+         <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
+         <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
+</span>&thinsp;<!-- blank space to prevent cumulative layout shift --></p>
+
+<?php
 $workerSelectQuery = "select * from workers where worker=? and private = false;";
 $stmt = $mysqli->prepare($workerSelectQuery);
 $stmt->bind_param("s", $worker);
@@ -37,5 +45,6 @@ if ($workerSelectResult -> num_rows == 0) {
   }
 }
 include_once('anchorjs.inc');
+print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '</body>';
 ?>

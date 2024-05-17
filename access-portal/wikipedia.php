@@ -10,6 +10,15 @@ include_once('style.inc');
 print '<script type="text/javascript" src="./jquery-3.7.1.min.js"></script>'."\n";
 print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
 print "<title>Wikipedia work summary</title></head><body>";
+?>
+
+<p><span id="changeThemeMenu" style="display: none;">Set color scheme to:
+         <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
+         <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
+         <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
+</span>&thinsp;<!-- blank space to prevent cumulative layout shift --></p>
+
+<?php
 $pageSelectQuery = "select distinct task_receptacle from tasks where task_type REGEXP 'Wikipedia' and task_type != 'Attempted Wikipedia work' order by task_receptacle;";
 $pageSelectResult = $mysqli -> query($pageSelectQuery);
 
@@ -65,6 +74,7 @@ for($i = 0; $i < $pageSelectResult -> num_rows; $i++) {
   print " || No || ";
 }
 print "\n|}";
+print '<script>change_theme.set_theme_from_local_storage();</script>';
 print "</body></html>";
 
 ?>
