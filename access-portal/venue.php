@@ -48,6 +48,7 @@ if ($venue != '') {
          <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
          <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
 </span>&thinsp;<!-- blank space to prevent cumulative layout shift --></p>
+<script>change_theme.set_theme_from_local_storage();</script>
 
 <?php
 $taskSelectQuery = "select * from tasks where $venueRegexMatcher and private = false;";
@@ -79,6 +80,5 @@ if ($taskSelectResult -> num_rows == 0) {
   include("backend/venueTaskList.inc");
 }
 include_once('anchorjs.inc');
-print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '</body>';
 ?>

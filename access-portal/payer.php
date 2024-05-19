@@ -27,6 +27,7 @@ print "<h3>Contract work sponsored by $payer and managed through Vipul Naik</h3>
          <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
          <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
 </span>&thinsp;<!-- blank space to prevent cumulative layout shift --></p>
+<script>change_theme.set_theme_from_local_storage();</script>
 
 <?php
 $payerSelectQuery = "select * from payers where payer=?;";
@@ -102,6 +103,5 @@ if ($payerSelectResult -> num_rows == 0) {
   }
 }
 include_once('anchorjs.inc');
-print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '</body>';
 ?>
