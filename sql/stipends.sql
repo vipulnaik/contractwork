@@ -215,7 +215,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',465,'2024-01-01','2024-01-31','2024-01-31','The payment is at $5/hour for all 93 hours worked. Total time spent was as follows: 60 hours on Timelines wiki, 32 hours on Org Watch, and 1 hour on tech learning (git self-study).',93),
   ('Sebastian Sanchez',370,'2024-02-01','2024-02-29','2024-02-29','The payment is at $5/hour for all 74 hours worked. Total time spent was as follows: 32 hours on Timelines wiki and 42 hours on Org Watch.',74),
   ('Sebastian Sanchez',395,'2024-03-01','2024-03-31','2024-03-31','The payment is at $5/hour for all 79 hours worked. Total time spent was as follows: 42 hours on Timelines wiki and 37 hours on Org Watch.',79),
-  ('Sebastian Sanchez',240,'2024-04-01','2024-04-30','2024-04-30','The payment is at $5/hour for all 48 hours worked. Total time spent was as follows: 19 hours on Timelines wiki and 29 hours on Org Watch.',48);
+  ('Sebastian Sanchez',240,'2024-04-01','2024-04-30','2024-04-30','The payment is at $5/hour for all 48 hours worked. Total time spent was as follows: 19 hours on Timelines wiki and 29 hours on Org Watch.',48),
+  ('Sebastian Sanchez',365,'2024-05-01','2024-05-31','2024-05-31','The payment is at $5/hour for all 73 hours worked. Total time spent was as follows: 52 hours on Timelines Wiki and 21 hours on Org Watch.',73);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, payer) values
   ('Sebastian Sanchez',120,'2022-06-01','2022-06-30','2022-06-30','The payment is at $4/hour for all 30 hours worked on Timelines wiki.',30,'Future Fund Regranting Program'),
