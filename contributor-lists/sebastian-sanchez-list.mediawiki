@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2024==
 
-Total money earned as income: $4518 ($4086 for Vipul Naik, $432 for Future Fund Regranting Program)
+Total money earned as income: $5375 ($4943 for Vipul Naik, $432 for Future Fund Regranting Program)
 
 Forward balance carried over from 2023: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for Future Fund Regranting Program)
 
 Payment made: $5588.86 (all from Vipul Naik)
 
-Net payment due: ($14382.45) (breakdown: ($6418.45) for Vipul Naik, ($7964) for Future Fund Regranting Program)
+Net payment due: ($13525.45) (breakdown: ($5561.45) for Vipul Naik, ($7964) for Future Fund Regranting Program)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -38,7 +38,7 @@ Total so far: $810
 
 ===Org Watch===
 
-Total so far: $1441
+Total so far: $1783
 
 * January: $288. 32 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-01-01&until=2024-01-31 for more details. The first commit for the month was on 2024-01-01 and the last commit for the month was on 2024-01-31.
 
@@ -50,9 +50,11 @@ Total so far: $1441
 
 * May: $189. 21 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-05-01&until=2024-05-31 for more details. The first commit for the month was on 2024-05-02 and the last commit for the month was on 2024-05-31.
 
+* June: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-06-01&until=2024-06-30 for more details. The first commit for the month was on 2024-06-03 and the last commit for the month was on 2024-06-30.
+
 ===Stipends for Vipul Naik===
 
-Total so far: $1835
+Total so far: $2350
 
 The rule of thumb for stipend is: $5/hour
 
@@ -64,7 +66,9 @@ The rule of thumb for stipend is: $5/hour
 
 * April: $240. The payment is at $5/hour for all 48 hours worked. Total time spent was as follows: 19 hours on Timelines wiki and 29 hours on Org Watch.
 
-* May: $365. The payment is at $5/hour for all 73 hours worked. Total time spent was as follows: 52 hours on Timelines Wiki and 21 hours on Org Watch.
+* May: $365. The payment is at $5/hour for all 73 hours worked. Total time spent was as follows: 52 hours on Timelines wiki and 21 hours on Org Watch.
+
+* June: $515. The payment is at $5/hour for all 103 hours worked. Total time spent was as follows: 65 hours on Timelines wiki and 38 hours on Org Watch.
 
 ===Stipends for Future Fund Regranting Program===
 
