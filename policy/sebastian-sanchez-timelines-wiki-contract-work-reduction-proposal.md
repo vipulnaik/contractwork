@@ -12,7 +12,8 @@ current as of the most recent edit on this file.
 ### Impact on Timelines Wiki work
 
 In steady state, stipend-eligible work on Timelines Wiki will be
-capped to 75 hours per month at $4/hour, with the following caveats:
+capped to 75 hours per month at $5/hour (increased from $4/hour in
+January 2023 to account for inflation)), with the following caveats:
 
 * Sebastian is free to work a larger number of hours and get paid for
   tasks, just without the stipend. There will be no discrimination in
@@ -58,7 +59,8 @@ timelines that are lower-priority from Vipul's perspective.
 Other kinds of work will be subject to the usual stipend rates, and no
 explicit cap on hours for the time being, with the following caveats:
 
-* The default stipend rate for all other kinds of work is $4/hour up
+* The default stipend rate for all other kinds of work is $5/hour
+  (increased from $4/hour in January 2023 to account for inflation) up
   to (200 hours - number of stipend hours on Timelines Wiki). After
   that, the rate may reduce somewhat.
 
