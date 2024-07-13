@@ -22,17 +22,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2024 ==
 
-Total money earned as income (taxable as income for 2024): $97.11
+Total money earned as income (taxable as income for 2024): $103.01
 
 Payment made: $473.34
 
 Carryover payment due from 2023: $473.34
 
-Net payment due: $97.11
+Net payment due: $103.01
 
 === Org Watch ===
 
-Total so far: $42.22
+Total so far: $43.72
 
 * Work on Org Watch in January (assisting Sebastian): $0.34. Spent 2 minutes at $11.50/hour assisting Sebastian. Work done 2024-01-01.
 
@@ -48,9 +48,11 @@ Total so far: $42.22
 
 * Work on Org Watch in May (general): $1.38. Spent 7 minutes at $11.50/hour. Work done 2024-05-10 to 2024-05-20.
 
+* Work on Org Watch in June (assisting Sebastian): $1.50. Spent 8 minutes at $11.50/hour assisting Sebastian. Work done 2024-06-15 to 2024-06-19.
+
 === Stipends ===
 
-Total so far: $54.89
+Total so far: $59.29
 
 * January: $2.97. 0.27 hours at $11/hour
 
@@ -61,6 +63,8 @@ Total so far: $54.89
 * April: $30.80. 2.8 hours at $11/hour
 
 * May: $6.60. 0.6 hours at $11/hour
+
+* June: $4.40. 0.4 hours at $11/hour
 
 === Payments made ===
 
