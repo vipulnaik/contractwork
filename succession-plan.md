@@ -105,7 +105,7 @@ successors on GitHub.
 The contractwork repository includes important payment information
 regarding the contract work done, and there is value in preserving
 this information. It is up to Vipul Naik's digital successor whether
-to manage thhe recording of further updates, including the execution
+to manage the recording of further updates, including the execution
 of the exit options or continuation options, within this repository
 (by transfering ownership and then pushing commits) or through other
 means.
