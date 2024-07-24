@@ -5,6 +5,7 @@ print '<h4 id="paymentsMadeByMethodAndYear">Payments made by method and year</h4
 $grandTotal = 0;
 foreach ($paymentMethods as $paymentMethod) {
   $totalPaymentByMethod[$paymentMethod] = 0;
+  $totalAbsolutePaymentMadeByMethod[$paymentMethod] = 0;
   foreach ($yearList as $year) {
     $payment[$paymentMethod][$year] = 0;
     $totalPaymentMadeByYear[$year] = 0;
@@ -19,6 +20,7 @@ for ($i=0; $i < $paymentSelectResult -> num_rows; $i++) {
   $row = $paymentSelectResult -> fetch_assoc();
   $payment[$row['payment_method']][$row['year']] = $row['payment'];
   $totalPaymentByMethod[$row['payment_method']] += $row['payment'];
+  $totalAbsolutePaymentMadeByMethod[$row['payment_method']] += abs($row['payment']);
   $totalPaymentMadeByYear[$row['year']] += $row['payment'];
   $grandTotal += $row['payment'];
 }
@@ -44,7 +46,7 @@ foreach (array_reverse($yearList) as $year) {
 }
 print "</tr>\n</thead>\n<tbody>\n";
 foreach ($paymentMethods as $paymentMethod) {
-  if ($totalPaymentByMethod[$paymentMethod] != 0) {
+  if ($totalAbsolutePaymentByMethod[$paymentMethod] > 0) {
     print "<tr>\n    <td>$paymentMethod</td>\n";
     print '    <td align="right"><strong>'.number_format($totalPaymentByMethod[$paymentMethod],2)."</strong></td>\n";
     foreach (array_reverse($yearList) as $year) {
