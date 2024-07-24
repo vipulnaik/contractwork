@@ -22,9 +22,9 @@ Total money earned as income: $5375 ($4943 for Vipul Naik, $432 for Future Fund 
 
 Forward balance carried over from 2023: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for Future Fund Regranting Program)
 
-Payment made: $5588.86 (all from Vipul Naik)
+Payment made: $5588.86 ($13552.86 from Vipul Naik, -$7964 from Future Fund Regranting Program)
 
-Net payment due: ($13525.45) (breakdown: ($5561.45) for Vipul Naik, ($7964) for Future Fund Regranting Program)
+Net payment due: ($13525.45) (all for Vipul Naik)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -86,9 +86,17 @@ The rule of thumb for stipend is: $4/hour
 
 ===Payments made by Vipul Naik===
 
-Total so far: $5588.86
+Total so far: $13552.86
 
 * $5588.86 sent and received Sunday, April 7, 2024. Transaction in Bitcoin for 0.08 BTC (and calculated in terms of USD value at time of transaction of $69,860.76 per BTC) with a very small transaction fee of 0.00002103 BTC ($1.47 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/0a43126d4c5e4ad82dfd4d70ef568c0e029d5a94eca25451e9c9c3ec3873fb36 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
+* $7964 sent and received Tuesday, July 9, 2024. This was actually not a payment to Sebastian; it was a return of funds to the FTX debtors via wire transfer, but it was made by Vipul Naik in lieu of Sebastian, so effectively it transferred the left-over balance of $7964 from the Future Fund Regranting Program to Vipul Naik.
+
+===Payments made by Future Fund Regranting Program===
+
+Total so far: -$7964
+
+* -$7964 sent and received Tuesday, July 9, 2024. This is the return of funds to the FTX debtors (see above).
 
 ==Work in 2023==
 

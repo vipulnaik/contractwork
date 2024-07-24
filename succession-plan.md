@@ -49,9 +49,7 @@ ones with income in the preceding calendar year) are Issa Rice
 ([worker
 file](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki))
 and Sebastian Sanchez ([worker
-file](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki)). Sebastian
-Sanchez is also earning out his Future Fund Regranting Program money;
-that money is *not* part of this exit option.
+file](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki)).
 
 ### Continuation option
 
@@ -74,24 +72,6 @@ By default, the administration of funds from other payers will revert
 to the payer whose funds are being administered. If funds have already
 been transferred to Vipul Naik as an intermediary, Vipul Naik's estate
 will refund the payer.
-
-As of 2023-11-04, the only other payer for whom work is going on is
-the Future Fund Regranting Program. The original granting entity (the
-FTX Future Fund) no longer exists, and the money has already been paid
-out to the worker (Sebastian Sanchez); the only thing left is for him
-to earn out the money.
-
-In this case, since the grant was recommended by Pablo Stafforini,
-administration of the grant should be inherited by Pablo
-Stafforini. Specifically, this means that Pablo Stafforini will review
-work funded by the grant and make payment decisions.
-
-If Vipul Naik's digital successor is interested, willing, and able, to
-continue updating the contractwork repository to reflect Pablo
-Stafforini's payment decisions, the contractwork repository can be
-used for this purpose. Otherwise, Pablo Stafforini should use the
-latest state captured from the contractwork repository and keep track
-of the remaining payments using his own choice of system.
 
 ## Repository
 

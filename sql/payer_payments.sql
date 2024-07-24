@@ -31,4 +31,5 @@ insert into payer_payments(payment_method, payer, sent_date, payment_notice_rece
   /* Future Fund Regranting Program */
   ('FTX','Future Fund Regranting Program','2022-08-06','2022-08-06','2022-08-06','2022-08-06',8000,8000,0,8000),
   ('FTX','Future Fund Regranting Program','2022-10-10','2022-10-10','2022-10-10','2022-10-10',17000,17000,0,17000),
-  ('FTX','Future Fund Regranting Program','2022-11-11','2022-11-11','2022-11-11','2022-11-11',-7500,-7500,0,-7500);
+  ('FTX','Future Fund Regranting Program','2022-11-11','2022-11-11','2022-11-11','2022-11-11',-7500,-7500,0,-7500),
+  ('Wire transfer','Future Fund Regranting Program','2024-07-09','2024-07-09','2024-07-09','2024-07-09',-7964,-7964,0,-7964);

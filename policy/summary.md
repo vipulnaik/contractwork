@@ -134,9 +134,7 @@ are some more details about the various pieces of the update:
   reports hours spent broken down by: Org Watch, Timelines wiki (with
   a breakdown for AI-related timelines for the period where these
   timelines have a special hours exemption), and tech
-  learning. Separately, Sebastian also reports hours spent on
-  timelines for the Future Fund Regranting Program, which is the
-  subject of the next section. All this information is incporporated
+  learning. All this information is incporporated
   by Vipul as part of his monthly update for the calculation of
   stipend money as well as additional Org Watch hourly payment.
 
@@ -156,61 +154,24 @@ coordinated. The amount should be enough to support at least two
 months and not more than six months of contract work at current
 rates. As of 2023, the payment method is Bitcoin.
 
-## Future Fund Regranting Program work by Sebastian Sanchez
+## (Ended) Future Fund Regranting Program work by Sebastian Sanchez
 
-### Timelines wiki
+The Future Fund Regranting Program funded some work by Sebastian
+Sanchez. With FTX declaring bankruptcy in November 2022, the payments
+from this stopped. Sebastian continued work on timelines supported by
+these funds until 2024-04-22 (April 22, 2024), when we received a
+notice from the FTX debtors asking for the return of
+funds. Ultimately, we agreed to return all the unspent funds. The
+return of funds was executed on 2024-07-09 (July 9, 2024). As Vipul
+paid out the return of funds in lieu of Sebastian, the balance of
+$7,964 transfers from the Future Fund Regranting Program to Vipul.
 
-The Future Fund Regranting Program is funding some timelines by
-Sebastian. You can see
-https://contractwork.vipulnaik.com/payer.php?payer=Future+Fund+Regranting+Program
-for more detail on the work funded by Future Fund Regranting Program,
-and
-https://timelines.issarice.com/wiki/User:Sebastian#Priority_work_from_Future_Fund_Regranting_Program_.28list_from_Pablo_Stafforini.29
-for a list of in-progress and future work. This pays a $4/hour stipend
-and additionally pays for specific timelines at specified multiples of
-what Vipul would pay.
-
-There is no hourly cap; however, in general Sebastian is expected to
-spend up to 75 hours per month on these timelines as he spends the
-rest of his time doing work for Vipul Naik.
-
-As of October 29, 2023, the priority of work is as follows:
-
-* Aim to finish all timelines that were 75%+ complete as of May 13,
-  2023, picking them one by one.
-
-* After that, focus first on AI-related timelines within Future Fund
-  work.
-
-### Update process for payments due
-
-Vipul enters payments due for Future Fund Regranting Program along
-with entering payments due for him. The process for individual
-timelines is very similar to the process for indiividual timelines for
-Vipul, except that there is a "multiplier" in payment determination
-and also, in some cases, Vipul may consult with Pablo Stafforini
-before making the payment.
-
-Future Fund Regranting Program payments due information is available
-at the same links
-[here](https://contractwork.vipulnaik.com/worker.php?worker=Sebastian+Sanchez)
-and
-[here](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki). However,
-there's also a dedicated page
-[here](https://contractwork.vipulnaik.com/payer.php?payer=Future+Fund+Regranting+Program)
-for just the Future Fund Regranting Program data.
-
-Vipul generally sends an email to Pablo Stafforini with a summary
-after doing the monthly update. The summary includes the updates since
-the last summary sent. Vipul may skip sending summaries in months
-where there hasn't been significant work on Future Fund Regranting
-Program timelines.
-
-### There are no further payments
-
-The Future Fund Regranting Program no longer exists, so there are no
-further payments being made. Once the previously made payments are
-used up, work funded by these payments will stop.
+Any further work on timelines originally for the Future Fund
+Regranting Program will now be funded by Vipul Naik and without the
+funding multipliers used for the Future Fund Regranting Program. This
+includes payment for completed timelines where the work was started
+before 2024-04-22, even though the stipend portion of the payment for
+these has been covered by the Future Fund Regranting Program funds.
 
 ## Other support for the work of Sebastian Sanchez
 
