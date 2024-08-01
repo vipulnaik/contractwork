@@ -219,7 +219,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',395,'2024-03-01','2024-03-31','2024-03-31','The payment is at $5/hour for all 79 hours worked. Total time spent was as follows: 42 hours on Timelines wiki and 37 hours on Org Watch.',79),
   ('Sebastian Sanchez',240,'2024-04-01','2024-04-30','2024-04-30','The payment is at $5/hour for all 48 hours worked. Total time spent was as follows: 19 hours on Timelines wiki and 29 hours on Org Watch.',48),
   ('Sebastian Sanchez',365,'2024-05-01','2024-05-31','2024-05-31','The payment is at $5/hour for all 73 hours worked. Total time spent was as follows: 52 hours on Timelines wiki and 21 hours on Org Watch.',73),
-  ('Sebastian Sanchez',515,'2024-06-01','2024-06-30','2024-06-30','The payment is at $5/hour for all 103 hours worked. Total time spent was as follows: 65 hours on Timelines wiki and 38 hours on Org Watch.',103);
+  ('Sebastian Sanchez',515,'2024-06-01','2024-06-30','2024-06-30','The payment is at $5/hour for all 103 hours worked. Total time spent was as follows: 65 hours on Timelines wiki and 38 hours on Org Watch.',103),
+  ('Sebastian Sanchez',550,'2024-07-01','2024-07-31','2024-07-31','The payment is at $5/hour for 110 hours eligible for stipend, out of 137 total hours worked. Total time spent was as follows: 102 hours on Timelines wiki (of which 75 hours is eligible for stipend and 27 hours counts as overage) and 35 hours on Org Watch.',137);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, payer) values
   ('Sebastian Sanchez',120,'2022-06-01','2022-06-30','2022-06-30','The payment is at $4/hour for all 30 hours worked on Timelines wiki.',30,'Future Fund Regranting Program'),
@@ -245,6 +246,7 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',164,'2024-02-01','2024-02-29','2024-02-29','The payment is at $4/hour for 41 hours worked on Timelines wiki.',41,'Future Fund Regranting Program'),
   ('Sebastian Sanchez',96,'2024-03-01','2024-03-31','2024-03-31','The payment is at $4/hour for 24 hours worked on Timelines wiki.',24,'Future Fund Regranting Program'),
   ('Sebastian Sanchez',92,'2024-04-01','2024-04-22','2024-04-22','The payment is at $4/hour for 23 hours worked on Timelines wiki.',23,'Future Fund Regranting Program');
+  /* No more entries here as the Future Fund Regranting Program payouts were stopped and funds returned to FTX debtors */
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Amana Rice',120.32,'2020-12-01','2020-12-31','2020-12-31','30.08 hours at $4/hour',30.08);

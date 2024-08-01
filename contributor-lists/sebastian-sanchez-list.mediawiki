@@ -18,17 +18,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2024==
 
-Total money earned as income: $5375 ($4943 for Vipul Naik, $432 for Future Fund Regranting Program)
+Total money earned as income: $6915 ($6483 for Vipul Naik, $432 for Future Fund Regranting Program (the Future Fund Regranting Program money earned is not subject to further change))
 
 Forward balance carried over from 2023: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for Future Fund Regranting Program)
 
 Payment made: $5588.86 ($13552.86 from Vipul Naik, -$7964 from Future Fund Regranting Program)
 
-Net payment due: ($13525.45) (all for Vipul Naik)
+Net payment due: ($11985.45) (all for Vipul Naik)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
-Total so far: $810
+Total so far: $1485
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Hindi_on_the_web Timeline of Hindi on the web]: $390. Completed January 31, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Hindi_on_the_web&oldid=78320 (2024-01-31 05:37 UTC, 131914 bytes, 6 sample questions, 4 rows in big picture, 4 data tables, 178 rows in full timeline)
 
@@ -36,17 +36,13 @@ Total so far: $810
 
 * [https://timelines.issarice.com/wiki/Timeline_of_FTX_trial Timeline of FTX trial]: $120. Completed April 5, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_FTX_trial&oldid=79389 (2024-04-05 13:09 UTC, 51043 bytes, 3 sample questions, 3 rows in big picture, 2 visual data charts, 35 rows in full timeline)
 
-===Tentative pending payments===
+* [https://timelines.issarice.com/wiki/Timeline_of_Microsoft_Copilot Timeline of Microsoft Copilot]: $300. Completed July 28, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Microsoft_Copilot&oldid=80791 (2024-07-29 01:15 UTC, 111954 bytes, 6 sample questions (+ 1 wrap-up), 3 rows in big picture, 17 rows in summary by month, 3 visual data charts, 87 rows in full timeline)
 
-Total so far: $675
-
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_Microsoft_Copilot Timeline of Microsoft Copilot]: $300. Completed July 28, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Microsoft_Copilot&oldid=80791 (2024-07-29 01:15 UTC, 111954 bytes, 6 sample questions (+ 1 wrap-up), 3 rows in big picture, 17 rows in summary by month, 3 visual data charts, 87 rows in full timeline)
-
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_Delhi_Metro Timeline of Delhi Metro]: $375. Completed July 28, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Delhi_Metro&oldid=80828 (2024-07-29 06:15 UTC, 159787 bytes, 6 sample questions (+1 wrap-up), 5 rows in big picture, 4 visual data charts and 2 data tables, 91 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_Delhi_Metro Timeline of Delhi Metro]: $375. Completed July 28, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Delhi_Metro&oldid=80828 (2024-07-29 06:15 UTC, 159787 bytes, 6 sample questions (+1 wrap-up), 5 rows in big picture, 4 visual data charts and 2 data tables, 91 rows in full timeline)
 
 ===Org Watch===
 
-Total so far: $1783
+Total so far: $2098
 
 * January: $288. 32 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-01-01&until=2024-01-31 for more details. The first commit for the month was on 2024-01-01 and the last commit for the month was on 2024-01-31.
 
@@ -60,9 +56,11 @@ Total so far: $1783
 
 * June: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-06-01&until=2024-06-30 for more details. The first commit for the month was on 2024-06-03 and the last commit for the month was on 2024-06-30.
 
+* July $315. 35 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-07-01&until=2024-07-31 for moet details. The first commit for the month was on 2024-07-02 and the last commit for the month was on 2024-07-28.
+
 ===Stipends for Vipul Naik===
 
-Total so far: $2350
+Total so far: $2900
 
 The rule of thumb for stipend is: $5/hour
 
@@ -77,6 +75,8 @@ The rule of thumb for stipend is: $5/hour
 * May: $365. The payment is at $5/hour for all 73 hours worked. Total time spent was as follows: 52 hours on Timelines wiki and 21 hours on Org Watch.
 
 * June: $515. The payment is at $5/hour for all 103 hours worked. Total time spent was as follows: 65 hours on Timelines wiki and 38 hours on Org Watch.
+
+* July: $550. The payment is at $5/hour for 110 hours eligible for stipend, out of 137 total hours worked. Total time spent was as follows: 102 hours on Timelines wiki (of which 75 hours is eligible for stipend and 27 hours counts as overage) and 35 hours on Org Watch.
 
 ===Stipends for Future Fund Regranting Program===
 
