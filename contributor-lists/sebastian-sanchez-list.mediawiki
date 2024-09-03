@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2024==
 
-Total money earned as income: $6915 ($6483 for Vipul Naik, $432 for Future Fund Regranting Program (the Future Fund Regranting Program money earned is not subject to further change))
+Total money earned as income: $7970 ($7538 for Vipul Naik, $432 for Future Fund Regranting Program (the Future Fund Regranting Program money earned is not subject to further change))
 
 Forward balance carried over from 2023: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for Future Fund Regranting Program)
 
 Payment made: $5588.86 ($13552.86 from Vipul Naik, -$7964 from Future Fund Regranting Program)
 
-Net payment due: ($11985.45) (all for Vipul Naik)
+Net payment due: ($10930.45) (all for Vipul Naik)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -42,7 +42,7 @@ Total so far: $1485
 
 ===Org Watch===
 
-Total so far: $2098
+Total so far: $2523
 
 * January: $288. 32 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-01-01&until=2024-01-31 for more details. The first commit for the month was on 2024-01-01 and the last commit for the month was on 2024-01-31.
 
@@ -56,11 +56,15 @@ Total so far: $2098
 
 * June: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-06-01&until=2024-06-30 for more details. The first commit for the month was on 2024-06-03 and the last commit for the month was on 2024-06-30.
 
-* July $315. 35 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-07-01&until=2024-07-31 for moet details. The first commit for the month was on 2024-07-02 and the last commit for the month was on 2024-07-28.
+* July: $315. 35 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-07-01&until=2024-07-31 for moet details. The first commit for the month was on 2024-07-02 and the last commit for the month was on 2024-07-28.
+
+* August: $380. 44 hours, with the first 40 hours at $9/hour and the next 4 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-08-01&until=2024-08-31 for more details. The first commit for the month was on 2024-08-02 and the last commit for the month was on 2024-08-31.
+
+* August (assisting Gabriel): $45. 5 hours at $9/hour assisting Gabriel.
 
 ===Stipends for Vipul Naik===
 
-Total so far: $2900
+Total so far: $3530
 
 The rule of thumb for stipend is: $5/hour
 
@@ -77,6 +81,8 @@ The rule of thumb for stipend is: $5/hour
 * June: $515. The payment is at $5/hour for all 103 hours worked. Total time spent was as follows: 65 hours on Timelines wiki and 38 hours on Org Watch.
 
 * July: $550. The payment is at $5/hour for 110 hours eligible for stipend, out of 137 total hours worked. Total time spent was as follows: 102 hours on Timelines wiki (of which 75 hours is eligible for stipend and 27 hours counts as overage) and 35 hours on Org Watch.
+
+* August: $630. The payment is at $5/hour for 126 hours eligible for stipend, out of 158 total hours worked. Total time spent was as follows: 107 hours on Timelines wiki (of which 75 hours is eligible for stipend and 32 hours counts as overage), 49 hours on Org Watch, and 2 hours on tech learning (SQL study).
 
 ===Stipends for Future Fund Regranting Program===
 
