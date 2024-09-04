@@ -48,7 +48,8 @@ insert into workers(worker, active, country, wikipedia_username, timelines_wiki_
   ('Amy Zhang',false,'United States','Amy.zhang425',NULL,'amy.zhang.5855594','bluemoonamy@live.com','PayPal','Ethan Bashkansky','outbound Facebook','Did some work in June 2016 on timeline of global health. Discontinued work due to other obligations','amy-list.mediawiki'),
   ('Daniel Alejandro Maidana',false,'Argentina','DanielMB',NULL,'danielalejandro.maidana.50','unknown','PayPal','Sebastian Sanchez','inbound Facebook','Started working in August but delays on both sides so first payment in December','daniel-list.mediawiki'),
   ('Linchuan Zhang',false,'United States','N/A',NULL,'linchuan.zhang','unknown','PayPal','Vipul Naik','inbound Facebook','Not a worker, but helped recruit some workers','linchuan-list.mediawiki'),
-  ('Joey Malandra',false,'United States','Joeykai',NULL,'joey.malandra.73','joseph.malandra@gmail.com','PayPal','Ethan Bashkansky','outbound Facebook','Introduced to Ethan through a mutual friend Ethan met at the Envision Conference. Had 58K edits at the time.','joey-list.mediawiki');
+  ('Joey Malandra',false,'United States','Joeykai',NULL,'joey.malandra.73','joseph.malandra@gmail.com','PayPal','Ethan Bashkansky','outbound Facebook','Introduced to Ethan through a mutual friend Ethan met at the Envision Conference. Had 58K edits at the time.','joey-list.mediawiki'),
+  ('Gabriel Bobis',true,'Argentina',NULL,NULL,'gabobis','gabrielbobis.arg@gmail.com','Bitcoin','Sebastian Sanchez','inbound Facebook','Sebastian brough this contract worker to Vipul''s attention. As of September 2024, communication is being handled through Sebsastian.','gabriel-list.mediawiki');
 
 -- website lists
 update workers set website='https://issarice.com' where worker = 'Issa Rice';

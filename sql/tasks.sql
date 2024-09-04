@@ -474,6 +474,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* special row for time spent assisting Gabriel */
   ('Sebastian Sanchez','Org Watch','Consulting','N/A','N/A','2024-08-31',45,'Organizational structures and dynamics','N/A','5 hours at $9/hour assisting Gabriel.',300);
 
+/* Gabriel Bobis Org Watch work */
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
+  ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2024-08-31',189,'Organizational structures and dynamics','Data','21 hours at $9/hour. This includes work on two new organizations: Our World in Data and the Global Priorities Institute. The work was committed to GitHub by Sebastian; see commits https://github.com/riceissa/aiwatch/commit/9342e1dd11fbcf33c252d33e56a2373be8429ee1 https://github.com/riceissa/aiwatch/commit/3252ee38c452d3f99889eee711609dc47404701b https://github.com/riceissa/aiwatch/commit/9b5996bad038870d082054478ce10a60649b22ed',1260);
+
 /* Sebastian Sanchez tasks paid for by Peter Hurford */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
   ('Sebastian Sanchez','Timelines wiki','Timelines page creation','Timeline of diphtheria','https://timelines.issarice.com/wiki/Timeline_of_diphtheria','2017-05-26',200,'Global health/diseases','Timeline','Pay for version as of https://timelines.issarice.com/index.php?title=Timeline_of_diphtheria&oldid=14055 (2017-05-26 16:56 UTC)','Peter Hurford'),
@@ -762,7 +766,6 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 /* Sebastian Sanchez's other work (note: this should probably be
    merged with the previous insert for Sebastian) */
-
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Cancer timelines','N/A','2016-08-28',5,'Global health/diseases','Timeline','Adding IARC to existing timelines'),
   ('Sebastian Sanchez','Wikipedia','Wikipedia page update','Timeline of malaria','https://en.wikipedia.org/wiki/Timeline_of_malaria','2016-12-06',185,'Global health/diseases/malaria','Timeline','Significant expansion of early history of malaria, also some recent events. And four graphs'),

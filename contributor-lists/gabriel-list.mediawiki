@@ -1,0 +1,29 @@
+Full name: Gabriel Bobis
+
+Recruiter: Sebastian Sanchez
+
+Facebook: https://www.facebook.com/gabobis
+
+Email: gabrielbobis.arg@gmail.com
+
+Additional notes: Based in Argentina; Sebastian handles the communication
+
+==Work in 2024==
+
+Total money earned as income: $189 (all for Vipul Naik)
+
+Payment made: $189 (all from Vipul Naik)
+
+Net payment due: $0
+
+===Org Watch===
+
+Total so far: $189
+
+* August: $189. 21 hours at $9/hour. This includes work on two new organizations: Our World in Data and the Global Priorities Institute. The work was committed to GitHub by Sebastian; see commits https://github.com/riceissa/aiwatch/commit/9342e1dd11fbcf33c252d33e56a2373be8429ee1 https://github.com/riceissa/aiwatch/commit/3252ee38c452d3f99889eee711609dc47404701b https://github.com/riceissa/aiwatch/commit/9b5996bad038870d082054478ce10a60649b22ed
+
+===Payments made===
+
+Total so far: $189
+
+* $189 sent and received Tuesday, September 3, 2024. Transaction in Bitcoin for .00327401 BTC (and calculated in terms of USD value at time of transaction of $57,727.05 per BTC) with a small transaction fee of 0.00000868 BTC ($0.50 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/0936b263f33ab63fec53fd06c1384c15071e4c2c5ef8c8edeadfff44b66ab71b (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
