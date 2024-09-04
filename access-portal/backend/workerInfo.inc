@@ -8,6 +8,9 @@ $row = $workerSelectResult -> fetch_assoc();
 
 print '<h4 id="workerInfo">Basic worker information</h4>';
 print "\n";
+if (!$row['active']) {
+  print "<p><strong>This worker is not currently active. All dues with the worker have been settled. The worker has no claims to Vipul Naik's estate in the event of Vipul Naik's death. The information on this page is provided only for historical reference.</strong></p>";
+}
 print '<table id="myTableWorkerInfo" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Item</th><th>Value</th></tr>';

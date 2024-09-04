@@ -40,6 +40,7 @@ if ($payerSelectResult -> num_rows == 0) {
 } else {
   $row = $payerSelectResult -> fetch_assoc();
   $payerNotes = $row['notes'];
+  $payerActive = $row['active'];
   print '<h4>Table of contents</h4>';
   print '<ul>';
   print '<li><a href="#payerInfo">Payer information</a></li>';
@@ -75,6 +76,9 @@ if ($payerSelectResult -> num_rows == 0) {
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;
   print '<h4 id="payerInfo">Payer information for '.$payer.'</h4>';
+  if (!$payerActive) {
+    print "<p><strong>This payer is not currently active. All dues with the payer have been settled. The payer has no amount due to Vipul Naik and no claims on Vipul Naik's estate in the event of Vipul Naik's death. The information on this page is provided only for historical reference.</strong></p>";
+  }
   print '<p>'.cleanNotes($payerNotes).'</p>';
   include("backend/payerPaymentsDueByTypeAndYear.inc");
   if ($payer != "Vipul Naik") {
