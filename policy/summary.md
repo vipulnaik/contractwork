@@ -300,5 +300,18 @@ Timelines wiki, and the other two are likely going to be working on
 adding organization documents to AI Watch.
 
 All of these individuals are currently planned for a limited-time
-engagement of 2-3 months. More on the contract work structure for
-these workers will be revealed after consultation with the workers.
+engagement of 2-3 months.
+
+Partial information on these workers is below. More will be added
+after consultation with the workers.
+
+### Olivia Mora
+
+Olivia Mora is being paid at $14/hour (with no separate task payment
+or stipend) up to 50 hours per month, till the end of November
+2024. Her initial work is on the [timeline of AI
+policy](https://timelines.issarice.com/wiki/Timeline_of_AI_policy).
+
+Balances for Olivia are cleared at the begininng of each month for the
+work done the previous month, along with data entry for the previous
+month. Therefore, in most cases there should be no pending balance.
