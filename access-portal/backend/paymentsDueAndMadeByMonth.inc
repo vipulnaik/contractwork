@@ -72,7 +72,7 @@ print "</tr>\n";
 print "</thead>\n<tbody>\n";
 $starting = true;
 foreach (array_reverse($monthList) as $month) {
-  if ($paymentMadeInMonth[$month] > 0 or $totalPaymentAwarded[$month] > 0) {
+  if ($paymentMadeInMonth[$month] != 0 or $totalPaymentAwarded[$month] != 0 or $reimbursementDueInMonth[$month] != 0) {
     print "<tr>";
     $opener = "";
     $closer = "";
