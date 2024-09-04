@@ -246,4 +246,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Joey Malandra',NULL,'2017-03-18','2017-03-18','2017-03-18','2017-03-18',73,73,0,73,NULL),
 
   /* Daniel Alejandro Maidana */
-  ('Cash','Daniel Alejandro Maidana','Sebastian Sanchez','2016-12-31','2016-12-31','2016-12-31','2016-12-31',30,30,0,30,'Sebastian Sanchez paid Daniel Alejandro Maidana in pesos at the exchange rate of that date');
+  ('Cash','Daniel Alejandro Maidana','Sebastian Sanchez','2016-12-31','2016-12-31','2016-12-31','2016-12-31',30,30,0,30,'Sebastian Sanchez paid Daniel Alejandro Maidana in pesos at the exchange rate of that date'),
+
+  /* Olivia Mora */
+  ('PayPal','Olivia Mora',NULL,'2024-09-04','2024-09-04','2024-09-04','2024-09-04',112,112,0,112,'Clearing out payments due for August 2024');

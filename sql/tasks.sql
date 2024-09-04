@@ -1302,3 +1302,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 /* Amana Rice tasks */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
   ('Amana Rice','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2020-12-31',150.40,'Organizational structures and dynamics','Data','30 hours 5 minutes at $5/hour; this includes time spent onboarding.',1805);
+
+/* Olivia Mora tasks */
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
+  ('Olivia Mora','Timelines wiki','Preliminary research','Timeline of AI policy','https://timelines.issarice.com/wiki/Timeline_of_AI_policy','2024-08-31',112,'AI safety','Notes','In August, Olivia spent time on preliminary research in preparation for work on a timeline of AI policy. The actual creation of the timeline at https://timelines.issarice.com/wiki/Timeline_of_AI_policy started in September 2024.',480);
