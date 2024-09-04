@@ -11,23 +11,27 @@ This is currently a draft document.
 
 ### Simple exit option
 
-This simple exit option is offered to all workers. The goal of this
-exit option is to simplify administration for Vipul Naik's estate and
-to give the contract work time and a financial buffer to find
-alternative sources of income.
+This simple exit option is offered to all workers (with the caveat
+that no severance pay is offered for limited-time engagements). The
+goal of this exit option is to simplify administration for Vipul
+Naik's estate and to give the contract work time and a financial
+buffer to find alternative sources of income.
 
 The key features of the exit option:
 
 * Vipul Naik's estate has the following due to the contract worker:
   whatever Vipul Naik originally had due to the worker (as recorded in
   the worker file in
-  [contributor-lists](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/))
+  [contributor-lists](https://github.com/vipulnaik/contractwork/tree/master/contributor-lists/))
   plus the amount the worker had earned as income for Vipul Naik in
   the calendar year preceding Vipul Naik's death (see "Total money
   earned as income", just the "for Vipul Naik" part, in the worker
   file's section for the year preceding Vipul Naik's death). The
   latter component is effectively a form of "severance pay" of about a
-  year's worth of contract work.
+  year's worth of contract work. However, contract workers who are not
+  currently working for Vipul Naik are not eligible for the additional
+  severance pay, even if they had nonzero pay in the previous calendar
+  year.
 
   If the
   amount Vipul Naik had due to the worker is negative, i.e., Vipul
@@ -50,6 +54,16 @@ ones with income in the preceding calendar year) are Issa Rice
 file](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki))
 and Sebastian Sanchez ([worker
 file](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki)).
+
+NOTE: In late August / early September 2024, a number of new contract
+workers were added, four of them temporarily and one for the long
+term. The contractwork repo is still in the process of being updated
+with information about these workers. Note that since all of these
+workers started work in 2024, they would not be eligible for any
+additional payments in the event of Vipul Naik's death within
+2024. Moreover, with the exception of Gabriel Bobis, all of them are
+on limited-term engagements and will therefore not be eligible for
+additional severance pay after the end of their work.
 
 ### Continuation option
 

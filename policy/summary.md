@@ -62,8 +62,12 @@ This document was last substantively updated on October 29, 2023.
 
 ### Org Watch
 
-* For Org Watch, the first 40 hours each month are paid at a rate of
+* For Org Watch, the first 25 hours each month are paid at a rate of
   $9/hour; after that, each hour is paid at $5/hour.
+
+  NOTE: The limit for the $9/hour stipend was reduced from 40 hours to
+  25 hours starting September 2024, in recognition of another regular
+  contributor to Org Watch who was recruited through Sebastian.
 
 * In addition, all Org Watch work is eligible for the $5/hour stipend.
 
@@ -270,3 +274,31 @@ Allowed lags:
   (for balances under $300 or for cases where the balance includes
   data that has not yet been officially entered into the contractwork
   repo) to the time it gets cleared.
+
+## Current contract work structure for Gabriel Bobis (payments from Vipul)
+
+Gabriel is a contract worker recruited by Sebastian Sanchez. He only
+works on Org Watch. Sebastian helps coordinate his work.
+
+### Org Watch
+
+* The first 25 hours each month by Gabriel are paid at
+  $9/hour. Additional hours are paid at $5/hour.
+
+* There is no stipend payment for the time being, so the direct Org
+  Watch pay is the only pay.
+
+* As of September 2024, the focus of Gabriel's work is to add data for
+  new organizations. The expected amount of work (new orgs to be
+  added) is unlikely to be a lot more than 25 hours per month.
+
+## Current contract work structure for others
+
+Four other individuals reached out to Issa Rice with interest in
+contributing to AI Watch. Two of them have been redirected to
+Timelines wiki, and the other two are likely going to be working on
+adding organization documents to AI Watch.
+
+All of these individuals are currently planned for a limited-time
+engagement of 2-3 months. More on the contract work structure for
+these workers will be revealed after consultation with the workers.
