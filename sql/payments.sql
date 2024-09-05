@@ -249,4 +249,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Cash','Daniel Alejandro Maidana','Sebastian Sanchez','2016-12-31','2016-12-31','2016-12-31','2016-12-31',30,30,0,30,'Sebastian Sanchez paid Daniel Alejandro Maidana in pesos at the exchange rate of that date'),
 
   /* Olivia Mora */
-  ('PayPal','Olivia Mora',NULL,'2024-09-04','2024-09-04','2024-09-04','2024-09-04',112,112,0,112,'Clearing out payments due for August 2024');
+  ('PayPal','Olivia Mora',NULL,'2024-09-04','2024-09-04','2024-09-04','2024-09-04',112,112,0,112,'Clearing out payments due for August 2024'),
+
+  /* Reagan Sang */
+  ('PayPal','Reagan Sang',NULL,'2024-09-04','2024-09-04','2024-09-04','2024-09-10',98,98,4.67,93.33,'Clearing out payments due for August 2024; the funds were put on hold until 2024-09-10.');

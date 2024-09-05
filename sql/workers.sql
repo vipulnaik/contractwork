@@ -50,7 +50,8 @@ insert into workers(worker, active, country, wikipedia_username, timelines_wiki_
   ('Linchuan Zhang',false,'United States','N/A',NULL,'linchuan.zhang','unknown','PayPal','Vipul Naik','inbound Facebook','Not a worker, but helped recruit some workers','linchuan-list.mediawiki'),
   ('Joey Malandra',false,'United States','Joeykai',NULL,'joey.malandra.73','joseph.malandra@gmail.com','PayPal','Ethan Bashkansky','outbound Facebook','Introduced to Ethan through a mutual friend Ethan met at the Envision Conference. Had 58K edits at the time.','joey-list.mediawiki'),
   ('Gabriel Bobis',true,'Argentina',NULL,NULL,'gabobis','gabrielbobis.arg@gmail.com','Bitcoin','Sebastian Sanchez','inbound Facebook','Sebastian brough this contract worker to Vipul''s attention. As of September 2024, communication is being handled through Sebsastian.','gabriel-list.mediawiki'),
-  ('Olivia Mora',true,'United States',NULL,'Olivia',NULL,'oliviagmora1@gmail.com','PayPal','Issa Rice','inbound email','Olivia initially connected to Issa for AI Watch and Issa redirected Olivia to Vipul. After some discussion, Olivia and Vipul decided that timelines would be more suitable for Olivia to work on.','olivia-list.mediawiki');
+  ('Olivia Mora',true,'United States',NULL,'Olivia',NULL,'oliviagmora1@gmail.com','PayPal','Issa Rice','inbound email','Olivia initially connected to Issa for AI Watch and Issa redirected Olivia to Vipul. After some discussion, Olivia and Vipul decided that timelines would be more suitable for Olivia to work on.','olivia-list.mediawiki'),
+  ('Reagan Sang',true,'Kenya',NULL,NULL,NULL,'reagankibetsang@gmail.com','PayPal','Issa Rice','inbound email','Reagan initially connected to Issa for AI Watch and Issa redirected Reagan to Vipul.','reagan-list.mediawiki');
 
 -- website lists
 update workers set website='https://issarice.com' where worker = 'Issa Rice';
@@ -67,6 +68,7 @@ update workers set github_username='aviglozman' where worker = 'Avi Glozman';
 update workers set github_username='ethanbas' where worker = 'Ethan Bashkansky';
 update workers set github_username='sebastiansanchez123' where worker = 'Sebastian Sanchez';
 update workers set github_username='omgitsmana' where worker = 'Amana Rice';
+update workers set github_username='ReaganKibet' where worker = 'Reagan Sang';
 
 -- LinkedIn usernames
 update workers set linkedin_username='issarice' where worker='Issa Rice';
@@ -74,3 +76,4 @@ update workers set linkedin_username='ethan-bashkansky-56166766' where worker='E
 update workers set linkedin_username='sebastián-sánchez-7b77968a' where worker='Sebastian Sanchez';
 update workers set linkedin_username='jesse-clifton-45652758' where worker='Jesse Clifton';
 update workers set linkedin_username='amanarice' where worker = 'Amana Rice';
+update workers set linkedin_username='reagan-langat' where worker = 'Reagan Sang';

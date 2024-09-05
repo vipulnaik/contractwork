@@ -1305,4 +1305,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 /* Olivia Mora tasks */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
-  ('Olivia Mora','Timelines wiki','Preliminary research','Timeline of AI policy','https://timelines.issarice.com/wiki/Timeline_of_AI_policy','2024-08-31',112,'AI safety','Notes','In August, Olivia spent time on preliminary research in preparation for work on a timeline of AI policy. The actual creation of the timeline at https://timelines.issarice.com/wiki/Timeline_of_AI_policy started in September 2024.',480);
+  ('Olivia Mora','Timelines wiki','Preliminary research','Timeline of AI policy','https://timelines.issarice.com/wiki/Timeline_of_AI_policy','2024-08-31',112,'AI safety','Notes','In August, Olivia spent time on preliminary research in preparation for work on a timeline of AI policy. The actual creation of the timeline at https://timelines.issarice.com/wiki/Timeline_of_AI_policy started in September 2024. 8 hours at $14/hour.',480);
+
+/* Reagan Sang tasks */
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
+  ('Reagan Sang','AI Watch','Preliminary research','N/A','N/A','2024-08-31',98,'AI safety','Notes','Preliminary research and setup work for AI Watch, including reading the timeline of AI safety and working on local AI Watch setup. 7 hours at $14/hour.',420);
