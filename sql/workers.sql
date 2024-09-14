@@ -51,7 +51,8 @@ insert into workers(worker, active, country, wikipedia_username, timelines_wiki_
   ('Joey Malandra',false,'United States','Joeykai',NULL,'joey.malandra.73','joseph.malandra@gmail.com','PayPal','Ethan Bashkansky','outbound Facebook','Introduced to Ethan through a mutual friend Ethan met at the Envision Conference. Had 58K edits at the time.','joey-list.mediawiki'),
   ('Gabriel Bobis',true,'Argentina',NULL,NULL,'gabobis','gabrielbobis.arg@gmail.com','Bitcoin','Sebastian Sanchez','inbound Facebook','Sebastian brough this contract worker to Vipul''s attention. As of September 2024, communication is being handled through Sebsastian.','gabriel-list.mediawiki'),
   ('Olivia Mora',true,'United States',NULL,'Olivia',NULL,'oliviagmora1@gmail.com','PayPal','Issa Rice','inbound email','Olivia initially connected to Issa for AI Watch and Issa redirected Olivia to Vipul. After some discussion, Olivia and Vipul decided that timelines would be more suitable for Olivia to work on.','olivia-list.mediawiki'),
-  ('Reagan Sang',true,'Kenya',NULL,NULL,NULL,'reagankibetsang@gmail.com','PayPal','Issa Rice','inbound email','Reagan initially connected to Issa for AI Watch and Issa redirected Reagan to Vipul.','reagan-list.mediawiki');
+  ('Reagan Sang',true,'Kenya',NULL,NULL,NULL,'reagankibetsang@gmail.com','PayPal','Issa Rice','inbound email','Reagan initially connected to Issa for AI Watch and Issa redirected Reagan to Vipul.','reagan-list.mediawiki'),
+  ('Hithheshwar',true,'United Kingdom',NULL,'Hith',NULL,'hithheshwar1@gmail.com','Wire transfer','Issa Rice','inbound email','Hithheshwar (Hith) initially connected with AI Watch and Issa redirected Hith to Vipul. After some discussion, Hith and Vipul deicded that timelines would be more suitable for HIth to work on.','hith-list.mediawiki');
 
 -- website lists
 update workers set website='https://issarice.com' where worker = 'Issa Rice';
@@ -77,3 +78,4 @@ update workers set linkedin_username='sebastián-sánchez-7b77968a' where worker
 update workers set linkedin_username='jesse-clifton-45652758' where worker='Jesse Clifton';
 update workers set linkedin_username='amanarice' where worker = 'Amana Rice';
 update workers set linkedin_username='reagan-langat' where worker = 'Reagan Sang';
+update workers set linkedin_username='hithheshwar-r-7abb1b216' where worker = 'Hithheshwar';

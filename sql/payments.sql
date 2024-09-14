@@ -252,4 +252,7 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Olivia Mora',NULL,'2024-09-04','2024-09-04','2024-09-04','2024-09-04',112,112,0,112,'Clearing out payments due for August 2024'),
 
   /* Reagan Sang */
-  ('PayPal','Reagan Sang',NULL,'2024-09-04','2024-09-04','2024-09-04','2024-09-06',98,98,4.67,93.33,'Clearing out payments due for August 2024; the funds were released a day later on 2024-09-06 in the recipient''s timezone (the notice on the sender''s end said the funds would be released by 2024-09-10).');
+  ('PayPal','Reagan Sang',NULL,'2024-09-04','2024-09-04','2024-09-04','2024-09-06',98,98,4.67,93.33,'Clearing out payments due for August 2024; the funds were released on 2024-09-06 in the recipient''s timezone (the notice on the sender''s end said the funds would be released by 2024-09-10).'),
+
+  /* Hithheshwar (Hith) */
+  ('Wire transfer','Hithheshwar',NULL,'2024-09-05','2024-09-05','2024-09-05','2024-09-05',56,56,15,41,'Clearing out payments due for August 2024');
