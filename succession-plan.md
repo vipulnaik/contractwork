@@ -55,15 +55,13 @@ file](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/is
 and Sebastian Sanchez ([worker
 file](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/sebastian-sanchez-list.mediawiki)).
 
-NOTE: In late August / early September 2024, a number of new contract
-workers were added, four of them temporarily and one for the long
-term. The contractwork repo is still in the process of being updated
-with information about these workers. Note that since all of these
-workers started work in 2024, they would not be eligible for any
-additional payments in the event of Vipul Naik's death within
-2024. Moreover, with the exception of Gabriel Bobis, all of them are
-on limited-term engagements and will therefore not be eligible for
-additional severance pay after the end of their work.
+NOTE: In late August 2024, a number of new contract workers were
+added, four of them temporarily and one for the long term. Note that
+since all of these workers started work in 2024, they would not be
+eligible for any additional payments in the event of Vipul Naik's
+death within 2024. Moreover, with the exception of Gabriel Bobis, all
+of them are on limited-term engagements and will therefore not be
+eligible for additional severance pay after the end of their work.
 
 ### Continuation option
 
