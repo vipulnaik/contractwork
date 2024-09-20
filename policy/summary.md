@@ -312,7 +312,7 @@ or stipend) up to 50 hours per month, till the end of November
 2024. Her initial work is on the [timeline of AI
 policy](https://timelines.issarice.com/wiki/Timeline_of_AI_policy).
 
-Balances for Olivia are cleared at the begininng of each month for the
+Balances for Olivia are cleared at the beginning of each month for the
 work done the previous month, along with data entry for the previous
 month. Therefore, in most cases there should be no pending balance.
 
@@ -321,7 +321,7 @@ month. Therefore, in most cases there should be no pending balance.
 Reagan Sang is being paid at $14/hour (with no separate task payment
 or stipend) up to 50 hours per month, till the end of November 2024.
 
-Balances for Reagan are cleared at the begininng of each month for the
+Balances for Reagan are cleared at the beginning of each month for the
 work done the previous month, along with data entry for the previous
 month. Therefore, in most cases there should be no pending balance.
 
@@ -338,3 +338,14 @@ Institute](https://timelines.issarice.com/wiki/Timeline_of_Future_of_Humanity_In
 Although the August 2024 balance for Hith has been cleared out, future
 balances are expected to be cleared out at the end of the contract
 work period.
+
+### Tajudeen Riliwan
+
+Tajudeen Riliwan is being paid at $14/hour (with no separate task
+payment or stipend) up to 50 hours per month, till the end of November
+2024.
+
+Balances for Riliwan are cleared at the beginning of each month for
+the work done the previous month, along with data entry for the
+previous month. Therefore, in most cases there should be no pending
+balance.

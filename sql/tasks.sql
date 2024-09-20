@@ -1314,3 +1314,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 /* Hithheshwar (Hith) tasks */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
   ('Hithheshwar','Timelines wiki','Preliminary research','Timeline of Machine Intelligence Research Institute','https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute','2024-08-31',56,'AI safety','N/A','In August, Hith spent time on preliminary research in preparation for work on expanding the timeline of Machine Intelligence Research Institute. Edits to the timeline itself would begin in September 2024.',240);
+
+/* Tajudeen Riliwan tasks */
+insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
+  ('Tajudeen Riliwan','AI Watch','Preliminary research','N/A','N/A','2024-08-31',70,'AI safety','Notes','Preliminary research and setup work for AI Watch, including reading the timeline of AI safety and working on local AI Watch setup. 5 hours at $14/hour.',300);

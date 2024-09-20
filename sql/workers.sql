@@ -52,7 +52,8 @@ insert into workers(worker, active, country, wikipedia_username, timelines_wiki_
   ('Gabriel Bobis',true,'Argentina',NULL,NULL,'gabobis','gabrielbobis.arg@gmail.com','Bitcoin','Sebastian Sanchez','inbound Facebook','Sebastian brough this contract worker to Vipul''s attention. As of September 2024, communication is being handled through Sebsastian.','gabriel-list.mediawiki'),
   ('Olivia Mora',true,'United States',NULL,'Olivia',NULL,'oliviagmora1@gmail.com','PayPal','Issa Rice','inbound email','Olivia initially connected to Issa for AI Watch and Issa redirected Olivia to Vipul. After some discussion, Olivia and Vipul decided that timelines would be more suitable for Olivia to work on.','olivia-list.mediawiki'),
   ('Reagan Sang',true,'Kenya',NULL,NULL,NULL,'reagankibetsang@gmail.com','PayPal','Issa Rice','inbound email','Reagan initially connected to Issa for AI Watch and Issa redirected Reagan to Vipul.','reagan-list.mediawiki'),
-  ('Hithheshwar',true,'United Kingdom',NULL,'Hith',NULL,'hithheshwar1@gmail.com','Wire transfer','Issa Rice','inbound email','Hithheshwar (Hith) initially connected with AI Watch and Issa redirected Hith to Vipul. After some discussion, Hith and Vipul deicded that timelines would be more suitable for HIth to work on.','hith-list.mediawiki');
+  ('Hithheshwar',true,'United Kingdom',NULL,'Hith',NULL,'hithheshwar1@gmail.com','Wire transfer','Issa Rice','inbound email','Hithheshwar (Hith) initially connected with AI Watch and Issa redirected Hith to Vipul. After some discussion, Hith and Vipul deicded that timelines would be more suitable for Hith to work on.','hith-list.mediawiki'),
+  ('Tajudeen Riliwan',true,'Nigeria',NULL,NULL,NULL,'dekunle4dreal1@gmail.com','Wire transfer','Issa Rice','inbound email','Riliwan initially connected to Issa for AI Watch and Issa redirected Riliwan to Vipul.','riliwan-list.mediawiki');
 
 -- website lists
 update workers set website='https://issarice.com' where worker = 'Issa Rice';
@@ -62,6 +63,7 @@ update workers set website='http://orpheuslummis.com/' where worker = 'Orpheus L
 update workers set lesswrong_username='riceissa' where worker = 'Issa Rice';
 update workers set eaf_username='riceissa' where worker = 'Issa Rice';
 update workers set eaf_username='JesseClifton' where worker = 'Jesse Clifton';
+update workers set eaf_username='tjriliwan' where worker = 'Tajudeen Riliwan';
 
 -- GitHub username lists
 update workers set github_username='riceissa' where worker = 'Issa Rice';
@@ -70,6 +72,7 @@ update workers set github_username='ethanbas' where worker = 'Ethan Bashkansky';
 update workers set github_username='sebastiansanchez123' where worker = 'Sebastian Sanchez';
 update workers set github_username='omgitsmana' where worker = 'Amana Rice';
 update workers set github_username='ReaganKibet' where worker = 'Reagan Sang';
+update workers set github_username='b3arded-t3ch' where worker = 'Tajudeen Riliwan';
 
 -- LinkedIn usernames
 update workers set linkedin_username='issarice' where worker='Issa Rice';
@@ -79,3 +82,4 @@ update workers set linkedin_username='jesse-clifton-45652758' where worker='Jess
 update workers set linkedin_username='amanarice' where worker = 'Amana Rice';
 update workers set linkedin_username='reagan-langat' where worker = 'Reagan Sang';
 update workers set linkedin_username='hithheshwar-r-7abb1b216' where worker = 'Hithheshwar';
+update workers set linkedin_username='riliwan-tajudeen-3a7867187' where worker = 'Tajudeen Riliwan';
