@@ -258,4 +258,5 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Wire transfer','Hithheshwar',NULL,'2024-09-05','2024-09-05','2024-09-05','2024-09-05',56,56,15,41,'Clearing out payments due for August 2024'),
 
   /* Tajudeen Riliwan */
-  ('Wire transfer','Tajudeen Riliwan',NULL,'2024-09-15','2024-09-17','2024-09-17','2024-09-17',70,70,0,70,'Clearing out payments due for August 2024');
+  ('Wire transfer','Tajudeen Riliwan',NULL,'2024-09-15','2024-09-17','2024-09-17','2024-09-17',70,70,0,70,'Clearing out payments due for August 2024'),
+  ('Wire transfer','Tajudeen Riliwan',NULL,'2024-10-02','2024-10-07','2024-10-07','2024-10-07',704,704,0,704,'Clearing out payments due for September 2024');
