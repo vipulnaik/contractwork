@@ -14,17 +14,23 @@ Country: United Kingdom
 
 ==Work in 2024==
 
-Total money earned as income: $56
+Total money earned as income: $756
 
 Payment made: $56 (all from Vipul Naik)
 
-Net payment dye: $0
+Net payment due: $700
 
 ===Timelines wiki===
 
-Total so far: $56
+Total so far: $756
 
-* August 2024: $56. In August, Hith spent time on preliminary research in preparation for work on expanding the timeline of Machine Intelligence Research Institute. Edits to the timeline itself would begin in September 2024.
+* [https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute Timeline of Machine Intelligence Research Institute] (August 2024): $56. In August, Hith spent time on preliminary research in preparation for work on expanding the timeline of Machine Intelligence Research Institute. Edits to the timeline itself would begin in September 2024. Work done 2024-08-28 and 2024-08-29.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute Timeline of Machine Intelligence Research Institute] (September 2024): $252. This was a first pass of expansion, largely focused on adding rows for events beyond the period covered so far. [https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&type=revision&diff=81867&oldid=79133 Diff]. Work done 2024-09-01 to 2024-09-09.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Future_of_Humanity_Institute Timeline of Future of Humanity Institute]: $266. This was a first pass of expansion, largely focused on adding rows for events beyond the period covered so far. [https://timelines.issarice.com/index.php?title=Timeline_of_Future_of_Humanity_Institute&type=revision&diff=82214&oldid=75169 Diff]. Work done 2024-09-11 to 2024-09-22.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Center_for_Human-Compatible_AI Timeline of Center for Human-Compatible AI]: $182. This was a partial expansion, to be continued in future months. [https://timelines.issarice.com/index.php?title=Timeline_of_Center_for_Human-Compatible_AI&type=revision&diff=82276&oldid=74846 Diff]. Work done 2024-09-25 to 2024-09-30.
 
 ===Payments made===
 
