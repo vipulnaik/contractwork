@@ -10,17 +10,19 @@ Additional notes: Based in Argentina; Sebastian handles the communication
 
 ==Work in 2024==
 
-Total money earned as income: $189 (all for Vipul Naik)
+Total money earned as income: $464 (all for Vipul Naik)
 
 Payment made: $189 (all from Vipul Naik)
 
-Net payment due: $0
+Net payment due: $275 (all from Vipul Naik)
 
 ===Org Watch===
 
-Total so far: $189
+Total so far: $464
 
 * August: $189. 21 hours at $9/hour. This includes work on two new organizations: Our World in Data and the Global Priorities Institute. The work was committed to GitHub by Sebastian; see commits https://github.com/riceissa/aiwatch/commit/9342e1dd11fbcf33c252d33e56a2373be8429ee1 https://github.com/riceissa/aiwatch/commit/3252ee38c452d3f99889eee711609dc47404701b https://github.com/riceissa/aiwatch/commit/9b5996bad038870d082054478ce10a60649b22ed
+
+* September: $275. 35 hours, with the first 25 hours at $9/hour and the next 10 hours at $5/hour. The work was committed to GitHub by Sebastian; see the commits under https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-09-01&until=2024-09-30 whose commit message says "Gabriel Bobis work upload".
 
 ===Payments made===
 
