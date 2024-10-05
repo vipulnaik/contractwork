@@ -12,9 +12,9 @@ Additional notes: Based in Argentina; Sebastian handles the communication
 
 Total money earned as income: $464 (all for Vipul Naik)
 
-Payment made: $189 (all from Vipul Naik)
+Payment made: $989 (all from Vipul Naik)
 
-Net payment due: $275 (all from Vipul Naik)
+Net payment due: ($525) (all from Vipul Naik)
 
 ===Org Watch===
 
@@ -26,6 +26,8 @@ Total so far: $464
 
 ===Payments made===
 
-Total so far: $189
+Total so far: $989
 
-* $189 sent and received Tuesday, September 3, 2024. Transaction in Bitcoin for .00327401 BTC (and calculated in terms of USD value at time of transaction of $57,727.05 per BTC) with a small transaction fee of 0.00000868 BTC ($0.50 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/0936b263f33ab63fec53fd06c1384c15071e4c2c5ef8c8edeadfff44b66ab71b (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+* $189 sent and received Tuesday, September 3, 2024. Transaction in Bitcoin for 0.00327401 BTC (and calculated in terms of USD value at time of transaction of $57,727.05 per BTC) with a small transaction fee of 0.00000868 BTC ($0.50 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/0936b263f33ab63fec53fd06c1384c15071e4c2c5ef8c8edeadfff44b66ab71b (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
+
+* $800 sent and received Saturday, October 5, 2024. Transaction in Bitcoin for 0.01290838 BTC (and calculated in terms of USD value at time of transaction of $61,975.15 per BTC) with a small transaction fee of about 0.000015490 BTC ($0.96 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/c0b90347cd22eb2e260ab28291a864710730f29bd242c806d1996939c0d00742 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading; the transaction of interest is at number 23).
