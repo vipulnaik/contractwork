@@ -1309,7 +1309,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 
 /* Olivia Mora tasks */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
-  ('Olivia Mora','Timelines wiki','Preliminary research','Timeline of AI policy','https://timelines.issarice.com/wiki/Timeline_of_AI_policy','2024-08-31',112,'AI safety','Notes','In August, Olivia spent time on preliminary research in preparation for work on a timeline of AI policy. The actual creation of the timeline at https://timelines.issarice.com/wiki/Timeline_of_AI_policy started in September 2024. 8 hours at $14/hour.',480);
+  ('Olivia Mora','Timelines wiki','Preliminary research','Timeline of AI policy','https://timelines.issarice.com/wiki/Timeline_of_AI_policy','2024-08-31',112,'AI safety','Notes','In August, Olivia spent time on preliminary research in preparation for work on a timeline of AI policy. The actual creation of the timeline at https://timelines.issarice.com/wiki/Timeline_of_AI_policy started in September 2024. 8 hours at $14/hour.',480),
+  ('Olivia Mora','Timelines wiki','Timelines page creation','Timeline of AI policy','https://timelines.issarice.com/wiki/Timeline_of_AI_policy','2024-09-27',504,'AI safety','Timeline','In September, Olivia did a first pass of work on the timeline, to be continued in future months. Work done 2024-09-03 to 2024-09-27. Partially completed version at https://timelines.issarice.com/index.php?title=Timeline_of_AI_policy&oldid=82237 (40547 bytes). 36 hours at $14/hour.',2160);
 
 /* Reagan Sang tasks */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
