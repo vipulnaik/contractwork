@@ -14,7 +14,7 @@ create table payments(
   private tinyint(1) default 0,
   notes varchar(2000),
   constraint payee_is_worker foreign key (payee) references workers (worker)
-) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 insert into payments(payment_method, payee, intermediary, sent_date, payment_notice_receipt_date, cashout_request_date, receipt_date, payment, sent_payment, overhead, received_payment,notes) values
   /* Sebastian Sanchez payments */

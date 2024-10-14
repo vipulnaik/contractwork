@@ -5,7 +5,7 @@ create table tax_adjustments(
   payment_finalization_year varchar(4) not null,
   adjustment decimal(7,2) not null,
   constraint adjustment_is_for_worker foreign key (worker) references workers (worker)
- ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+ ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 insert into tax_adjustments(worker, completion_year, payment_finalization_year, adjustment) values
   ('Issa Rice','2016','2017',480);

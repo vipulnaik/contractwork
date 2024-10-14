@@ -2,7 +2,7 @@ create table payers(
   payer varchar(40) primary key not null,
   active boolean,
   notes varchar(2000)
-) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 insert into payers(payer, active, notes) values
   ('Vipul Naik',true,'Vipul Naik originally started the contract work website; it''s designed primarily for contract work for Vipul Naik.'),

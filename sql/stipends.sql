@@ -11,7 +11,7 @@ create table stipends(
   payer varchar(40) default 'Vipul Naik',
   constraint stipend_payee_is_worker foreign key (payee) references workers (worker),
   constraint stipend_payer_is_payer foreign key (payer) references payers (payer)
-) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, total_work_hours) values
   ('Issa Rice',700,'2016-02-01','2016-02-28','2016-12-28','Paid after long deferral as end-of-year award. Constitutes 100% of stipend for that month',NULL,NULL),
