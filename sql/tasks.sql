@@ -1316,7 +1316,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
 /* Reagan Sang tasks */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
   ('Reagan Sang','AI Watch','Preliminary research','N/A','N/A','2024-08-31',98,'AI safety','Notes','Preliminary research and setup work for AI Watch, including reading the timeline of AI safety and working on local AI Watch setup. 7 hours at $14/hour.',420),
-  ('Reagan Sang','AI Watch','Data entry','AI Watch','https://aiwatch.issarice.com/','2024-09-30',462,'AI safety','Data','Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks.',1980);
+  ('Reagan Sang','AI Watch','Data entry','AI Watch','https://aiwatch.issarice.com/','2024-09-30',462,'AI safety','Data','Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks.',1980),
+  ('Reagan Sang','AI Watch','Data entry','AI Watch','https://aiwatch.issarice.com/','2024-10-31',700,'AI safety','Data','Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks.',3000);
 
 /* Hithheshwar (Hith) tasks */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
