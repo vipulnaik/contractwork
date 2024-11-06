@@ -16,9 +16,9 @@ Country: Nigeria
 
 Total money earned as income: $1129.60 (all for Vipul Naik)
 
-Payment: $774 (all from Vipul Naik)
+Payment: $1129.60 (all from Vipul Naik)
 
-Net payment due: $355.60
+Net payment due: $0
 
 ===AI Watch===
 
@@ -32,8 +32,10 @@ Total so far: $1129.60
 
 ===Payments made==
 
-Total so far: $774
+Total so far: $1129.60
 
 * $70 sent via wire transfer on September 15, received on September 17.
 
 * $704 sent via wire transfer on October 2, received on October 4.
+
+* $355.60 sent via wire transfer on November 3, received on November 6.
