@@ -22,13 +22,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2024 ==
 
-Total money earned as income (taxable as income for 2024): $120.84
+Total money earned as income (taxable as income for 2024): $121.94
 
 Payment made: $473.34
 
 Carryover payment due from 2023: $473.34
 
-Net payment due: $120.84
+Net payment due: $121.94
 
 === Org Watch ===
 
@@ -58,7 +58,7 @@ Total so far: $48.90
 
 === Stipends ===
 
-Total so far: $71.94
+Total so far: $73.04
 
 * January: $2.97. 0.27 hours at $11/hour
 
@@ -77,6 +77,10 @@ Total so far: $71.94
 * August: $4.18. 0.38 hours at $11/hour
 
 * September: $3.30. 0.3 hours at $11/hour
+
+* October: $1.10. 0.1 hours at $11/hour; the only work done was running the work report for the previous month (September 2024).
+
+* November: no work was logged!
 
 === Payments made ===
 
