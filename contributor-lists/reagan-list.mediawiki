@@ -14,15 +14,15 @@ Country: Kenya
 
 ==Work in 2024==
 
-Total money earned as income: $1260 (all for Vipul Naik)
+Total money earned as income: $2058 (all for Vipul Naik)
 
-Payment: $1260 (all from Vipul Naik)
+Payment: $2058 (all from Vipul Naik)
 
 Net payment due: $0
 
 ===AI Watch===
 
-Total so far: $1260
+Total so far: $2058
 
 * August 2024: $98. Preliminary research and setup work for AI Watch, including reading the timeline of AI safety and working on local AI Watch setup: $98. 7 hours at $14/hour.
 
@@ -30,12 +30,16 @@ Total so far: $1260
 
 * October 2024: $700. Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks. 50 hours at $14/hour.
 
+* November 2024: $798. Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks. 57 hours at $14/hour.
+
 ===Payments made===
 
-Total so far: $1260
+Total so far: $2058
 
 * $98 sent via PayPal on Wednesday, September 4, 2024; the funds were released a day later on 2024-09-06 in the recipient's timezone (the notice on the sender's end said the funds would be released by 2024-09-10). The actual amount sent was $93.33, with $4.67 in PayPal fees.
 
 * $462 sent via PayPal on Friday, October 4, 2024. The actual amount was $457.01, with $4.99 in PayPal fees.
 
 * $700 sent via PayPal on Tuesday, October 29, 2024. The actual amount was $695.01, with $4.99 in PayPal fees.
+
+* $798 sent via PayPal on Sunday, December 1, 2024. The actual amount was $793.01, with $4.99 in PayPal fees.
