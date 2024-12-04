@@ -10,15 +10,15 @@ Country: United States
 
 ==Work in 2024==
 
-Total money earned as income: $1092 (all for Vipul Naik)
+Total money earned as income: $1502.20 (all for Vipul Naik)
 
-Payment made: $1092 (all from Vipul Naik)
+Payment made: $1502.20 (all from Vipul Naik)
 
 Net payment due: $0
 
 ===Timelines wiki===
 
-Total so far: $1092
+Total so far: $1502.20
 
 * [https://timelines.issarice.com/wiki/Timeline_of_AI_policy Timeline of AI policy] (August 2024): $112. In August, Olivia spent time on preliminary research in preparation for work on a timeline of AI policy. The actual creation of the timeline at https://timelines.issarice.com/wiki/Timeline_of_AI_policy started in September 2024. 8 hours at $14/hour.
 
@@ -26,12 +26,16 @@ Total so far: $1092
 
 * [https://timelines.issarice.com/wiki/Timeline_of_AI_policy Timeline of AI policy] (October 2024): $476. In October, Olivia continued working on the timeline of AI policy. Work done 2024-10-09 to 2024-10-30. [https://timelines.issarice.com/index.php?title=Timeline_of_AI_policy&type=revision&diff=82681&oldid=82237 Diff]. 34 hours at $14/hour.
 
+* [https://timelines.issarice.com/wiki/Timeline_of_AI_ethics_violations Timeline of AI ethics violations] (November 2024): $410.20. In November, Olivia began work on a timeline of AI ethics violations. Most of her time was spent on this timeline, though some of the recorded time was spent on minor updates to the timeline of AI policy. Work done 2024-11-01 to 2024-11-26. Partially completed verrsion at https://timelines.issarice.com/index.php?title=Timeline_of_AI_ethics_violations&oldid=82905 (57131 bytes). 29 hours 18 minutes at $14/hour.
+
 ===Payments made===
 
-Total so far: $1092
+Total so far: $1502.20
 
 * $112 sent and received via PayPal on Wednesday, September 4, 2024
 
 * $504 sent and received via PayPal on Monday, October 7, 2024
 
 * $476 sent and received via PayPal on Thursday, October 31, 2024
+
+* $410.20 sent and received via PayPal on Wednesday, December 4, 2024
