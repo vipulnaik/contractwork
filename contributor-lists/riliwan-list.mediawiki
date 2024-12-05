@@ -14,15 +14,15 @@ Country: Nigeria
 
 ==Work in 2024==
 
-Total money earned as income: $1129.60 (all for Vipul Naik)
+Total money earned as income: $1445.53 (all for Vipul Naik)
 
-Payment: $1129.60 (all from Vipul Naik)
+Payment: $1445.53 (all from Vipul Naik)
 
 Net payment due: $0
 
 ===AI Watch===
 
-Total so far: $1129.60
+Total so far: $1445.53
 
 * August 2024: $70. Preliminary research and setup work for AI Watch, including reading the timeline of AI safety and working on local AI Watch setup. 5 hours at $14/hour.
 
@@ -30,12 +30,16 @@ Total so far: $1129.60
 
 * October 2024: $355.60. Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks. Work done 2024-10-01 to 2024-10-31. 25 hours 24 minutes at $14/hour.
 
+* November 2024: $315.93. Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks. Work done 2024-11-11 to 2024-11-30. 22 hours 34 minutes at $14/hour.
+
 ===Payments made==
 
-Total so far: $1129.60
+Total so far: $1445.53
 
 * $70 sent via wire transfer on September 15, received on September 17.
 
 * $704 sent via wire transfer on October 2, received on October 4.
 
 * $355.60 sent via wire transfer on November 3, received on November 6.
+
+* $315.93 sent via wire transfer on December 4.
