@@ -10,15 +10,15 @@ Additional notes: Based in Argentina; Sebastian handles the communication
 
 ==Work in 2024==
 
-Total money earned as income: $789 (all for Vipul Naik)
+Total money earned as income: $1164 (all for Vipul Naik)
 
-Payment made: $989 (all from Vipul Naik)
+Payment made: $3013.26 (all from Vipul Naik)
 
-Net payment due: ($200) (all from Vipul Naik)
+Net payment due: ($1849.26) (all from Vipul Naik)
 
 ===Org Watch===
 
-Total so far: $789
+Total so far: $1164
 
 * August: $189. 21 hours at $9/hour. This includes work on two new organizations: Our World in Data and the Global Priorities Institute. The work was committed to GitHub by Sebastian; see commits https://github.com/riceissa/aiwatch/commit/9342e1dd11fbcf33c252d33e56a2373be8429ee1 https://github.com/riceissa/aiwatch/commit/3252ee38c452d3f99889eee711609dc47404701b https://github.com/riceissa/aiwatch/commit/9b5996bad038870d082054478ce10a60649b22ed
 
@@ -26,10 +26,14 @@ Total so far: $789
 
 * October: $325. 45 hours, with the first 25 hours at $9/hour and the next 20 hours at $5/hour. The work was committed to GitHub by Sebastian; see the commits under https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-10-01&until=2024-10-31 pertaining to the following organizations: FAR.AI, Responsible AI Institute, Charity Entrepreneurship, Centre for the Governance of AI, Reducetarian Foundation, Animal Advocacy Careers, and All Tech Is Human.
 
+* November: $375. 55 hours, with the first 25 hours at $9/hour and the next 30 hours at $5/hour. The work was submitted by Gabriel in the form of SQL files and was not immediately uploaded to GitHub as Sebastian was on vacation. Organizations include: Institute for Ethics in Artificial Intelligence, All Tech is Human, Responsible AI Network - Africa, The Institute for Ethical AI & Machine Learning, and Partnership on AI.
+
 ===Payments made===
 
-Total so far: $989
+Total so far: $3013.26
 
 * $189 sent and received Tuesday, September 3, 2024. Transaction in Bitcoin for 0.00327401 BTC (and calculated in terms of USD value at time of transaction of $57,727.05 per BTC) with a small transaction fee of 0.00000868 BTC ($0.50 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/0936b263f33ab63fec53fd06c1384c15071e4c2c5ef8c8edeadfff44b66ab71b (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
 * $800 sent and received Saturday, October 5, 2024. Transaction in Bitcoin for 0.01290838 BTC (and calculated in terms of USD value at time of transaction of $61,975.15 per BTC) with a small transaction fee of about 0.000015490 BTC ($0.96 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/c0b90347cd22eb2e260ab28291a864710730f29bd242c806d1996939c0d00742 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading; the transaction of interest is at number 23).
+
+* $2024.26 sent and received Thursday, December 5, 2024. Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction of $101,212.91 per BTC) with a small transaction fee of 0.00001553 BTC ($1.57 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/ff98877d298983cac4f0950152f1132128cd782d665cb47e28ddc92aef8b8980 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading; the transaction of interest is at number 26).
