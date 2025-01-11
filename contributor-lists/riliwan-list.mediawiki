@@ -12,17 +12,17 @@ EA Forum: https://forum.effectivealtruism.org/users/tjriliwan
 
 Country: Nigeria
 
-==Work in 2024==
+==Work and payments in 2024==
 
 Total money earned as income: $1445.53 (all for Vipul Naik)
 
 Payment: $1445.53 (all from Vipul Naik)
 
-Net payment due: $0
+Net payment due: $301.23
 
 ===AI Watch===
 
-Total so far: $1445.53
+Total so far: $1746.76
 
 * August 2024: $70. Preliminary research and setup work for AI Watch, including reading the timeline of AI safety and working on local AI Watch setup. 5 hours at $14/hour.
 
@@ -31,6 +31,8 @@ Total so far: $1445.53
 * October 2024: $355.60. Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks. Work done 2024-10-01 to 2024-10-31. 25 hours 24 minutes at $14/hour.
 
 * November 2024: $315.93. Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks. Work done 2024-11-11 to 2024-11-30. 22 hours 34 minutes at $14/hour.
+
+* December 2024: $301.23. Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks. Work done 2024-12-03 to 2024-12-30. 21 hours 31 minutes at $14/hour.
 
 ===Payments made==
 
