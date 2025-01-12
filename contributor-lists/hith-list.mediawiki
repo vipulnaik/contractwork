@@ -14,15 +14,15 @@ Country: United Kingdom
 
 ==Work in 2024==
 
-Total money earned as income: $1820
+Total money earned as income: $2282
 
 Payment made: $56 (all from Vipul Naik)
 
-Net payment due: $1764
+Net payment due: $2226
 
 ===Timelines wiki===
 
-Total so far: $1820
+Total so far: $2282
 
 August 2024 ($56):
 
@@ -57,6 +57,18 @@ November 2024 ($364):
 * [https://timelines.issarice.com/wiki/Timeline_of_Future_of_Life_Institute Timeline of Future of Life Institute] (November 2024; new timeline): $168. In November, Hith did a first pass of work on the timeline, to be continued in future months. Work done 2024-11-13 to 2024-11-17. Partially completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Future_of_Life_Institute&oldid=82837 (25613 bytes). 12 hours at $14/hour.
 
 * Miscellaneous work on edits and graphs (November 2024): $70. Work done 2024-11-24 to 2024-11-27. 5 hours at $14/hour.
+
+December 2024 ($462):
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute Timeline of Machine Intelligence Research Institute] (December 2024): $98. The work this month primarily addressed the feedback provided by Vipul on 2024-12-08 on the [https://timelines.issarice.com/wiki/Talk:Timeline_of_Machine_Intelligence_Research_Institute talk page]. Work done 2024-12-09 to 2024-12-20. [https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&type=revision&diff=83169&oldid=82916 Diff]. 7 hours at $14/hour.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Future_of_Humanity_Institute Timeline of Future of Humanity Institute] (December 2024): $98. The work this month primarily addressed the feedback provided by Vipul on 2024-12-08 on the [https://timelines.issarice.com/wiki/Talk:Timeline_of_Future_of_Humanity_Institute talk page]. Work done 2024-12-12 to 2024-12-31. [https://timelines.issarice.com/index.php?title=Timeline_of_Future_of_Humanity_Institute&type=revision&diff=83401&oldid=82797 Diff]. 7 hours at $14/hour.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Center_for_Human-Compatible_AI Timeline of Center for Human-Compatible AI] (December 2024): $98. The work this month primarily addressed feedback communicated by Vipul privately via email. Work done 2024-12-16 to 2024-12-31. [https://timelines.issarice.com/index.php?title=Timeline_of_Center_for_Human-Compatible_AI&type=revision&diff=83398&oldid=82910 Diff]. 7 hours at $14/hour.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Center_for_Security_and_Emerging_Technology Timeline of Center for Security and Emerging Technology] (December 2024): $112. The work this month wrapped up this first iteration on the timeline and addressed feedback communicated by Vipul privately over email. Work done 2024-12-29 to 2024-12-30. [https://timelines.issarice.com/index.php?title=Timeline_of_Center_for_Security_and_Emerging_Technology&type=revision&diff=83304&oldid=83280 Diff]. 8 hours at $14/hour.
+
+* [https://timelines.issarice.com/wiki/Timeline_of_Future_of_Life_Institute Timeline of Future of Life Institute] (December 2024): $56. The work this month wrapped up this first iteration on the timeline and addressed feedback communicated by Vipul privately over email. Work done 2024-12-30. [https://timelines.issarice.com/index.php?title=Timeline_of_Future_of_Life_Institute&type=revision&diff=83310&oldid=82976 Diff]. 4 hours at $14/hour.
 
 ===Payments made===
 
