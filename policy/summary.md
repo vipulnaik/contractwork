@@ -295,26 +295,12 @@ works on Org Watch. Sebastian helps coordinate his work.
 ## Current contract work structure for others
 
 Four other individuals reached out to Issa Rice with interest in
-contributing to AI Watch. Two of them have been redirected to
-Timelines wiki, and the other two are likely going to be working on
-adding organization documents to AI Watch.
-
-All of these individuals are currently planned for a limited-time
-engagement of 2-3 months.
-
-Partial information on these workers is below. More will be added
-after consultation with the workers.
-
-### Olivia Mora
-
-Olivia Mora is being paid at $14/hour (with no separate task payment
-or stipend) up to 50 hours per month, till the end of November
-2024. Her initial work is on the [timeline of AI
-policy](https://timelines.issarice.com/wiki/Timeline_of_AI_policy).
-
-Balances for Olivia are cleared at the beginning of each month for the
-work done the previous month, along with data entry for the previous
-month. Therefore, in most cases there should be no pending balance.
+contributing to AI Watch around mid-2024. All of them agreed to work
+for a limited time, with two of them focused on Timelines wiki and two
+focused on AI Watch. The two who were focused on Timelines wiki
+(Olivia and Hith) have already completed their terms and all dues with
+them have been settled. The other two workers are still in active
+status so their information is included below.
 
 ### Reagan Sang
 
@@ -324,20 +310,6 @@ or stipend) up to 50 hours per month, till the end of November 2024.
 Balances for Reagan are cleared at the beginning of each month for the
 work done the previous month, along with data entry for the previous
 month. Therefore, in most cases there should be no pending balance.
-
-### Hithheshwar (Hith)
-
-Hithheshwar (Hith) is being paid at $14/hour (with no separate task
-payment or stipend) up to 50 hours per month, till the end of November
-2024. His initial work is on the [timeline of Machine Intelligence
-Research
-Institute](https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute)
-and [timeline of Future of Humanity
-Institute](https://timelines.issarice.com/wiki/Timeline_of_Future_of_Humanity_Institute).
-
-Although the August 2024 balance for Hith has been cleared out, future
-balances are expected to be cleared out at the end of the contract
-work period.
 
 ### Tajudeen Riliwan
 
