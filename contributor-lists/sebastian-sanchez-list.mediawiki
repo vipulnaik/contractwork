@@ -58,10 +58,11 @@ Total so far: $400
 
 ===Tentative pending payments===
 
-Total so far: $95
+Total so far: $295
 
 * (expansion, proposal not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_ChatGPT Timeline of ChatGPT]: $95. Completed December 19, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_ChatGPT&type=revision&diff=83157&oldid=76066 Diff]. Increased from 124953 bytes and 111 rows in full timeline to 156123 bytes and 146 rows in full timeline; the big picture was restructured, inclusion criteria were added, and in addition to incremental expansion covering new events, rows were added to the full timeline for the pre-launch period (2018 to 2022).
 
+* (expansion, proposal not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $200. Completed December 28, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&type=revision&diff=83278&oldid=75789 Diff]. Increased from 190404 bytes and 161 rows in full timeline to 257220 bytes and 234 rows in full timeline; in addition to incremental expansion of the big picture and full timeline, a number of rows were added to the early parts of the full timeline, many of them covering from the historical OpenAI emails released as court documents for ''Musk v. Altman''.
 ===Org Watch===
 
 Total so far: $3206
