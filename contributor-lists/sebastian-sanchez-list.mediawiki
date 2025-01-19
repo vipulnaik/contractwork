@@ -18,6 +18,8 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2025==
 
+Forward balance carried over from 2024: ($6873.45) (all for Vipul Naik)
+
 ===Tentative pending payments===
 
 Total so far: $350
@@ -26,13 +28,13 @@ Total so far: $350
 
 ==Work in 2024==
 
-Total money earned as income: $11083 ($10651 for Vipul Naik, $432 for Future Fund Regranting Program (the Future Fund Regranting Program money earned is not subject to further change))
+Total money earned as income: $12027 ($11595 for Vipul Naik, $432 for Future Fund Regranting Program (the Future Fund Regranting Program money earned is not subject to further change))
 
 Forward balance carried over from 2023: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for Future Fund Regranting Program)
 
 Payment made: $5588.86 ($13552.86 from Vipul Naik, -$7964 from Future Fund Regranting Program)
 
-Net payment due: ($7817.45) (all for Vipul Naik)
+Net payment due: ($6873.45) (all for Vipul Naik)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -52,23 +54,19 @@ Total so far: $2015
 
 ===Expansions (Timelines wiki) for Vipul Naik===
 
-Total so far: $400
+Total so far: $790
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Our_World_in_Data Timeline of Our World in Data]: $400. Completed October 14, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_Our_World_in_Data&type=revision&diff=82465&oldid=30829 Diff]. Increased from 25931 bytes and 54 rows in full timeline to 150417 bytes and 153 rows in full timeline, with newly added sections for big picture (4 rows), ecosystem background (3 rows), summary by year (13 rows), sample questions (6 questions + 1 wrap-up) and visual data (3 charts)
 
-===Tentative pending payments===
+* [https://timelines.issarice.com/wiki/Timeline_of_ChatGPT Timeline of ChatGPT]: $95. Completed December 19, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_ChatGPT&type=revision&diff=83157&oldid=76066 Diff]. Increased from 124953 bytes and 111 rows in full timeline to 156123 bytes and 146 rows in full timeline; the big picture was restructured, inclusion criteria were added, and in addition to incremental expansion covering new events, rows were added to the full timeline for the pre-launch period (2018 to 2022).
 
-Total so far: $390
+* [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $200. Completed December 28, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&type=revision&diff=83278&oldid=75789 Diff]. Increased from 190404 bytes and 161 rows in full timeline to 257220 bytes and 234 rows in full timeline; in addition to incremental expansion of the big picture and full timeline, a number of rows were added to the early parts of the full timeline, many of them covering from the historical OpenAI emails released as court documents for ''Musk v. Altman''.
 
-* (expansion, proposal accepted) [https://timelines.issarice.com/wiki/Timeline_of_ChatGPT Timeline of ChatGPT]: $95. Completed December 19, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_ChatGPT&type=revision&diff=83157&oldid=76066 Diff]. Increased from 124953 bytes and 111 rows in full timeline to 156123 bytes and 146 rows in full timeline; the big picture was restructured, inclusion criteria were added, and in addition to incremental expansion covering new events, rows were added to the full timeline for the pre-launch period (2018 to 2022).
-
-* (expansion, proposal accepted) [https://timelines.issarice.com/wiki/Timeline_of_OpenAI Timeline of OpenAI]: $200. Completed December 28, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_OpenAI&type=revision&diff=83278&oldid=75789 Diff]. Increased from 190404 bytes and 161 rows in full timeline to 257220 bytes and 234 rows in full timeline; in addition to incremental expansion of the big picture and full timeline, a number of rows were added to the early parts of the full timeline, many of them covering from the historical OpenAI emails released as court documents for ''Musk v. Altman''.
-
-* (expansion, proposal accepted) [https://timelines.issarice.com/wiki/Timeline_of_Google_Gemini Timeline of Google Gemini]: $95. Completed December 31, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_Google_Gemini&type=revision&diff=83406&oldid=77866 Diff]. Increased from 60199 bytes, 3 rows in big picture, 11 rows in summary by month, and 46 rows in full timeline to 95349 bytes, 4 rows in big picture, 23 rows in summary by month, and 73 rows in full timeline. In addition, the expansion also added inclusion criteria. Note that the first iteration of this timeline was titled "Timeline of Google Bard"; the timeline was renamed along with the renaming of the product by Google.
+* [https://timelines.issarice.com/wiki/Timeline_of_Google_Gemini Timeline of Google Gemini]: $95. Completed December 31, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_Google_Gemini&type=revision&diff=83406&oldid=77866 Diff]. Increased from 60199 bytes, 3 rows in big picture, 11 rows in summary by month, and 46 rows in full timeline to 95349 bytes, 4 rows in big picture, 23 rows in summary by month, and 73 rows in full timeline. In addition, the expansion also added inclusion criteria. Note that the first iteration of this timeline was titled "Timeline of Google Bard"; the timeline was renamed along with the renaming of the product by Google.
 
 ===Org Watch===
 
-Total so far: $3206
+Total so far: $3395
 
 * January: $288. 32 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-01-01&until=2024-01-31 for more details. The first commit for the month was on 2024-01-01 and the last commit for the month was on 2024-01-31.
 
@@ -94,9 +92,11 @@ Total so far: $3206
 
 * November: $63. 7 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-11-01&until=2024-11-30 for more details. The first commit for the month was on 2024-11-01 and the last commit for the month was on 2024-11-06.
 
+* December: $189. 21 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-12-01&until=2024-12-31 for more details. The first commit for the month was on 2024-12-14 and the last commit for the month was on 2024-12-31.
+
 ===Stipends for Vipul Naik===
 
-Total so far: $5030
+Total so far: $5395
 
 The rule of thumb for stipend is: $5/hour
 
@@ -121,6 +121,8 @@ The rule of thumb for stipend is: $5/hour
 * October: $590. The payment is at $5/hour for 104 hours worked and 14 hours of overage from previous months (totaling 118 hours). Total time spent was as follows: 61 hours on Timelines wiki (out of 75 hours eligible) and 43 hours on Org Watch. A total of 75 - 61 = 14 hours of overage were applied to the month, out of an accumulated overage of 69 hours. An overage of 69 - 14 = 55 hours still remains.
 
 * November: $330. The payment is at $5/hour for 11 hours worked and 55 hours of overage from previous months (totaling 66 hours). Total time spent was as follows: 4 hours on Timelines wiki (out of 75 hours eligible) and 7 hours on Org Watch. There was a total of 55 hours of overage on Timelines wiki from previous months, all of which were applied to this month since 55 + 4 = 59 is still less than the 75 hours per month that can be used on Timelines wiki.
+
+* December: $365. The payment is at $5/hour for 73 hours worked. Total time spent was as follows: 52 hours on Timelines wiki (out of 75 hours eligible) and 21 hours on Org Watch.
 
 ===Stipends for Future Fund Regranting Program===
 
@@ -172,7 +174,7 @@ Total so far: $1680
 
 * [https://timelines.issarice.com/wiki/Timeline_of_large_language_models Timeline of large language models]: $430. Completed October 22, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_large_language_models&oldid=76533 (2023-10-23 03:36 UTC, 185980 bytes, 6 sample questions, 2 visual data charts, 3 rows in big picture, 132 rows in full timeline)
 
-* [https://timelines.issarice.com/wiki/Timeline_of_Google_Bard Timeline of Google Bard]: $170. Completed December 26, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Google_Bard&oldid=77866 (2023-12-27 02:25 UTC, 60199 bytes, 5 sample questions, 3 rows in big picture, 11 rows in summary by month, 2 visual data charts, 46 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_Google_Gemini Timeline of Google Gemini]: $170. Completed December 26, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Google_Gemini&oldid=77866 (2023-12-27 02:25 UTC, 60199 bytes, 5 sample questions, 3 rows in big picture, 11 rows in summary by month, 2 visual data charts, 46 rows in full timeline). Note that for this first iteration, the timeline was named "Timeline of Google Bard"; it would later be renamed "Timeline of Google Gemini" along with the renaming of the product by Google.
 
 ===Expansions (Timelines wiki) for Vipul Naik===
 
@@ -244,7 +246,7 @@ The rule of thumb for stipend is: $5/hour
 
 * August: $510. The payment is at $5/hour for all 102 hours worked. Total time spent was as follows: 61 hours on Timelines wiki (of which 60 hours was on AI-related timelines), 36 hours on Org Watch, and 5 hours on tech learning.
 
-* September: $500. The payment is at $5/hour for all 100 hours worked. Total time spent was as follows: 56 hours on Timelines wiki (of which 44 hours was on AI-related timelines: timeline of ChatGPT, timeline of artificial intelligence, timeline of Bing Chat, timeline of Google Bard; the remaining hours were spent on: timeline of Hindi on the web, timeline of mRNA research), 42 hours on Org Watch, and 2 hours on tech learning.
+* September: $500. The payment is at $5/hour for all 100 hours worked. Total time spent was as follows: 56 hours on Timelines wiki (of which 44 hours was on AI-related timelines: timeline of ChatGPT, timeline of artificial intelligence, timeline of Bing Chat, timeline of Google Gemini; the remaining hours were spent on: timeline of Hindi on the web, timeline of mRNA research), 42 hours on Org Watch, and 2 hours on tech learning.
 
 * October: $450. The payment is at $5/hour for all 90 hours worked. Total time spent was as follows: 45 hours on Timelines wiki (of which 40 hours was on AI-related timelines), 35 hours on Org Watch, and 10 hours on tech learning.
 
