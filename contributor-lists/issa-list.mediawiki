@@ -22,13 +22,19 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2024 ==
 
-Total money earned as income (taxable as income for 2024): $121.94
+Total money earned as income (taxable as income for 2024): $396.94
 
 Payment made: $473.34
 
 Carryover payment due from 2023: $473.34
 
-Net payment due: $121.94
+Net payment due: $396.94
+
+=== Timelines wiki ===
+
+Total so far: $275
+
+* Year-round work on timelines wiki maintenance and improvement: $275. The total payment of $275 breaks down as follows: $225 on hosting cost (excluding actual spending on hosting, that is being reimbursed separately) (this is up from $220 last year, with the increase mostly reflecting inflation adjustment) and $50 for main page table updates (this is less than in previous years, primarily because of fewer updates -- just 5 in the year).
 
 === Org Watch ===
 
