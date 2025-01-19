@@ -26,7 +26,7 @@ Net payment due: $0
 
 ===Payments made===
 
-* $2226 sent via wire transfer on Monday, January 13, 2025. With a $15 wire transfer fee on the recipient's side, the recipient only received $2211.
+* $2226 sent via wire transfer on Monday, January 13, 2025, received January 15, 2025. With a $15 wire transfer fee on the recipient's side, the recipient only received $2211.
 
 ==Work in 2024==
 
