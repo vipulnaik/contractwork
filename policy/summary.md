@@ -302,20 +302,11 @@ focused on AI Watch. The two who were focused on Timelines wiki
 them have been settled. The other two workers are still in active
 status so their information is included below.
 
-### Reagan Sang
-
-Reagan Sang is being paid at $14/hour (with no separate task payment
-or stipend) up to 50 hours per month, till the end of November 2024.
-
-Balances for Reagan are cleared at the beginning of each month for the
-work done the previous month, along with data entry for the previous
-month. Therefore, in most cases there should be no pending balance.
-
 ### Tajudeen Riliwan
 
 Tajudeen Riliwan is being paid at $14/hour (with no separate task
-payment or stipend) up to 50 hours per month, till the end of November
-2024.
+payment or stipend). He is working about 15 hours per month for the
+first few months of 2025.
 
 Balances for Riliwan are cleared at the beginning of each month for
 the work done the previous month, along with data entry for the
