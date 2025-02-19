@@ -18,15 +18,33 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2025==
 
+Total money earned as income: $1505 (all for Vipul Naik)
+
 Forward balance carried over from 2024: ($6873.45) (all for Vipul Naik)
 
-===Tentative pending payments===
+Payment made: $0
+
+Net payment due: ($5368.45)
+
+===New timelines (Timelines wiki) for Vipul Naik===
 
 Total so far: $670
 
-* (new timeline, proposal accepted) [https://timelines.issarice.com/wiki/Timeline_of_mRNA_research Timeline of mRNA research]: $350. Completed January 9, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_mRNA_research&oldid=83561 (2025-01-09 18:32 UTC, 110483 bytes, 9 sample questions, 4 rows in big picture, 4 visual data charts (2 of them having accompanying tables), 105 rows in full timeline)
+* [https://timelines.issarice.com/wiki/Timeline_of_mRNA_research Timeline of mRNA research]: $350. Completed January 9, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_mRNA_research&oldid=83561 (2025-01-09 18:32 UTC, 110483 bytes, 9 sample questions, 4 rows in big picture, 4 visual data charts (2 of them having accompanying tables), 105 rows in full timeline)
 
-* (new timeline, proposal accepted) [https://timelines.issarice.com/wiki/Timeline_of_Substack Timeline of Substack]: $320. Completed January 20, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Substack&oldid=83703 (2025-01-21 05:34 UTC, 94726 bytes, 8 sample questions + 1 roundup, 3 rows in big picture, 8 rows in summary by year, 84 rows in full timeline, 6 visual data charts, 4 of which have associated data tables
+* [https://timelines.issarice.com/wiki/Timeline_of_Substack Timeline of Substack]: $320. Completed January 20, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Substack&oldid=83703 (2025-01-21 05:34 UTC, 94726 bytes, 8 sample questions + 1 roundup, 3 rows in big picture, 8 rows in summary by year, 84 rows in full timeline, 6 visual data charts, 4 of which have associated data tables)
+
+===Org Watch===
+
+Total so far: $280
+
+* January: $280. 36 hours, with the first 25 hours at $9/hour and the next 11 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-01-01&until=2025-01-31 for more details. The first commit of the month was on 2025-01-03 and the last commit of the month was on 2025-01-31.
+
+===Stipends for Vipul Naik===
+
+Total so far: $555
+
+* January: $555. The payment is at $5/hour for 111 hours eligible for stipend, out of 114 total hours worked. Total time spent was as follows: 78 hours on Timelines wiki (of which 75 hours is eligible for stipend and 3 hours counts as overage) and 36 hours on Org Watch.
 
 ==Work in 2024==
 
