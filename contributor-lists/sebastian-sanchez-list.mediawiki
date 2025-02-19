@@ -40,7 +40,7 @@ Net payment due: ($6873.45) (all for Vipul Naik)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
-Total so far: $2015
+Total: $2015
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Hindi_on_the_web Timeline of Hindi on the web]: $390. Completed January 31, 2024. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Hindi_on_the_web&oldid=78320 (2024-01-31 05:37 UTC, 131914 bytes, 6 sample questions, 4 rows in big picture, 4 data tables, 178 rows in full timeline)
 
@@ -56,7 +56,7 @@ Total so far: $2015
 
 ===Expansions (Timelines wiki) for Vipul Naik===
 
-Total so far: $790
+Total: $790
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Our_World_in_Data Timeline of Our World in Data]: $400. Completed October 14, 2024. [https://timelines.issarice.com/index.php?title=Timeline_of_Our_World_in_Data&type=revision&diff=82465&oldid=30829 Diff]. Increased from 25931 bytes and 54 rows in full timeline to 150417 bytes and 153 rows in full timeline, with newly added sections for big picture (4 rows), ecosystem background (3 rows), summary by year (13 rows), sample questions (6 questions + 1 wrap-up) and visual data (3 charts)
 
@@ -68,7 +68,7 @@ Total so far: $790
 
 ===Org Watch===
 
-Total so far: $3395
+Total: $3395
 
 * January: $288. 32 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-01-01&until=2024-01-31 for more details. The first commit for the month was on 2024-01-01 and the last commit for the month was on 2024-01-31.
 
@@ -98,7 +98,7 @@ Total so far: $3395
 
 ===Stipends for Vipul Naik===
 
-Total so far: $5395
+Total: $5395
 
 The rule of thumb for stipend is: $5/hour
 
@@ -128,7 +128,7 @@ The rule of thumb for stipend is: $5/hour
 
 ===Stipends for Future Fund Regranting Program===
 
-Total so far: $432
+Total: $432
 
 The rule of thumb for stipend is: $4/hour
 
@@ -142,7 +142,7 @@ The rule of thumb for stipend is: $4/hour
 
 ===Payments made by Vipul Naik===
 
-Total so far: $13552.86
+Total: $13552.86
 
 * $5588.86 sent and received Sunday, April 7, 2024. Transaction in Bitcoin for 0.08 BTC (and calculated in terms of USD value at time of transaction of $69,860.76 per BTC) with a very small transaction fee of 0.00002103 BTC ($1.47 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/0a43126d4c5e4ad82dfd4d70ef568c0e029d5a94eca25451e9c9c3ec3873fb36 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
@@ -150,7 +150,7 @@ Total so far: $13552.86
 
 ===Payments made by Future Fund Regranting Program===
 
-Total so far: -$7964
+Total: -$7964
 
 * -$7964 sent and received Tuesday, July 9, 2024. This is the return of funds to the FTX debtors (see above).
 
@@ -166,7 +166,7 @@ Net payment due: ($13311.59) (breakdown: ($4915.59) for Vipul Naik, ($8396) for 
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
-Total so far: $1680
+Total: $1680
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Coinbase Timeline of Coinbase]: $370. Completed January 12, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Coinbase&oldid=72540 (2023-01-13 02:45 UTC, 143696 bytes, 10 sample questions + additional bullet point, 3 and 4 rows in big picture tables, 3 visual data charts and 1 data table, 171 rows in full timeline)
 
@@ -180,7 +180,7 @@ Total so far: $1680
 
 ===Expansions (Timelines wiki) for Vipul Naik===
 
-Total so far: $865
+Total: $865
 
 * [https://timelines.issarice.com/wiki/Timeline_of_web_search_engines Timeline of web search engines]: $450. Completed February 23, 2023. [https://timelines.issarice.com/index.php?title=Timeline_of_web_search_engines&type=revision&diff=73438&oldid=41172 Diff]. Increased from 33160 bytes (41 rows in full timeline, no big picture, sample questions or numerical or visual data) to 192638 bytes (5 + 1 sample questions, 5 rows in big picture, 4 visual data charts and 1 data table, 288 rows in full timeline)
 
@@ -190,7 +190,7 @@ Total so far: $865
 
 ===New timelines (Timelines wiki) for Future Fund Regranting Program===
 
-Total so far: $3940
+Total: $3940
 
 * [https://timelines.issarice.com/wiki/Timeline_of_transhumanism Timeline of transhumanism]: $800. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $400 that Vipul Naik would pay for the timeline. Completed January 10, 2023. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_transhumanism&oldid=72485 (2023-01-10 21:03 UTC, 154834 bytes, 8 sample questions + additional bullet point, 6 rows in big picture, 4 visual data charts and 1 data table, 206 rows in full timeline)
 
@@ -202,7 +202,7 @@ Total so far: $3940
 
 === Org Watch ===
 
-Total so far: $3159
+Total: $3159
 
 * January: $333. 37 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-01-01&until=2023-01-31 for more details. The first commit for the month was on 2023-01-01 and the last commit for the month was on 2023-01-31.
 
@@ -228,7 +228,7 @@ Total so far: $3159
 
 ===Stipends for Vipul Naik===
 
-Total so far: $5215
+Total: $5215
 
 The rule of thumb for stipend is: $5/hour
 
@@ -258,7 +258,7 @@ The rule of thumb for stipend is: $5/hour
 
 ===Stipends for Future Fund Regranting Program===
 
-Total so far: $1668
+Total: $1668
 
 The rule of thumb for stipend is: $4/hour
 
@@ -288,7 +288,7 @@ The rule of thumb for stipend is: $4/hour
 
 ===Payments made by Vipul Naik===
 
-Total so far: $15032.76
+Total: $15032.76
 
 * $3772.88 sent and received Thursday, January 12, 2023. Transaction in Bitcoin for 0.2 BTC (and calculated in terms of USD value at time of transaction of $18,864.38 per BTC) with a very small transaction fee of 0.00001981 BTC ($0.37 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/09cbe1824c07e330b4d298d0e07f566b58dac4a4cc6a86a638b753f21bf9a63e (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
@@ -308,7 +308,7 @@ Net payment due: ($14805.83) (breakdown: ($801.83) for Vipul Naik, ($14004) for 
 
 === New timelines (Timelines wiki) for Vipul Naik ===
 
-Total so far: $3310
+Total: $3310
 
 * [https://timelines.issarice.com/wiki/Timeline_of_cryptocurrency_and_philanthropy Timeline of cryptocurrency and philanthropy]: $240. Completed January 30, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_cryptocurrency_and_philanthropy&oldid=62507 (2022-01-31 04:07 UTC, 107992 bytes, 6 sample questions, 5 rows in big picture, 1 visual data chart with corresponding data table, 110 rows in full timeline)
 
@@ -326,7 +326,7 @@ Total so far: $3310
 
 === Additions to existing pages for Vipul Naik ===
 
-Total so far: $310
+Total: $310
 
 * [https://timelines.issarice.com/wiki/Timeline_of_GiveDirectly Timeline of GiveDirectly]: $90. Completed May 31, 2022. [https://timelines.issarice.com/index.php?title=Timeline_of_GiveDirectly&type=revision&diff=66051&oldid=29554 Diff]. Increased from 34568 bytes to 59816 bytes. 19 new rows in full timeline, new country column, new sample questions, updates to summary by year and charts
 
@@ -334,13 +334,13 @@ Total so far: $310
 
 === New timelines (Timelines wiki) for Future Fund Regranting Program ===
 
-Total so far: $1200
+Total: $1200
 
 * [https://timelines.issarice.com/wiki/Timeline_of_existential_risk Timeline of existential risk]: $1200. This applies a multiplier of 2 (as part of the Future Fund Regranting Program agreement for this specific timeline) to the amount of $600 that Vipul Naik would pay for the timeline. Completed November 1, 2022. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_existential_risk&oldid=70686 (2022-11-02 01:43 UTC, 221803 bytes, 11 sample questions, 3 rows in big picture, 4 visual data charts and 1 data table, 287 rows in full timeline)
 
 === Org Watch ===
 
-Total so far: $2472.50
+Total: $2472.50
 
 Starting March 2022, the first 25 hours per month of work on Org Watch are paid at $9/hour; later hours are paid at $5/hour. Starting July 2022, the first 40 hours per month of work on Org Watch are paid at $9/hour; later hours are paid at $5/hour.
 
@@ -370,7 +370,7 @@ Starting March 2022, the first 25 hours per month of work on Org Watch are paid 
 
 === Stipends for Vipul Naik ===
 
-Total so far: $6030
+Total: $6030
 
 The rule of thumb for stipend is: $4/hour
 
@@ -400,7 +400,7 @@ The rule of thumb for stipend is: $4/hour
 
 === Stipends for Future Fund Regranting Program ===
 
-Total so far: $2296
+Total: $2296
 
 The rule of thumb for stipend is: $4/hour
 
@@ -420,7 +420,7 @@ The rule of thumb for stipend is: $4/hour
 
 === Payments made by Vipul Naik ===
 
-Total so far: $10352.34
+Total: $10352.34
 
 * $1069.33 sent and received Tuesday, January 11, 2022. Transaction in Bitcoin Cash for 2.90383 BCH (and calculated in terms of USD value at time of transaction of $368.25 per BCH) with a very small transaction fee of 0.00000226 BCH (less than 0.01 USD). Transaction available online at https://btc.com/bch/transaction/77d820114df0bb00bdb6772e133594c2da74347622533021c43cb642737d9e62 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
@@ -432,7 +432,7 @@ Total so far: $10352.34
 
 === Payments made by Future Fund Regranting Program ===
 
-Total so far: $17500
+Total: $17500
 
 * $8000 sent and received Saturday, August 6, 2022. Transaction in USD Coin using FTX, providing upfront the entire amount of the Future Fund Regranting Program grant for Timelines wiki work by Sebastian Sanchez.
 
@@ -452,7 +452,7 @@ Net payment due: ($2571.99)
 
 === New timelines (Timelines wiki) ===
 
-Total so far: $4640
+Total: $4640
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Ethereum Timeline of Ethereum]: $290. Completed April 10, 2021. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Ethereum&oldid=52439 (2021-04-11 06:34 UTC, 79292 bytes, 12 sample questions, 8 rows in big picture, 7 visual data charts, 107 rows in full timeline, a Google Scholar mentions table)
 
@@ -484,7 +484,7 @@ Total so far: $4640
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $5099
+Total: $5099
 
 * [https://timelines.issarice.com/wiki/Timeline_of_SpaceX Timeline of SpaceX]: $100. Completed January 8, 2021. [https://timelines.issarice.com/index.php?title=Timeline_of_SpaceX&type=revision&diff=47767&oldid=42482 Diff]. Increased from 163,942 bytes to 198,254 bytes. 33 new rows in full timeline (plus edits to existing rows), 2 new sample questions, chart updates, and Google Ngram Viewer chart
 
@@ -526,7 +526,7 @@ Total so far: $5099
 
 === Org Watch ===
 
-Total so far: $1297.50
+Total: $1297.50
 
 * January: $125. 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit for the month was on 2021-01-03 and the last commit for the month was on 2021-01-12.
 
@@ -552,7 +552,7 @@ Total so far: $1297.50
 
 === Stipends ===
 
-Total so far: $8182
+Total: $8182
 
 The rule of thumb for stipend is: $4/hour
 
@@ -582,7 +582,7 @@ The rule of thumb for stipend is: $4/hour
 
 === Payments made ===
 
-Total so far: $16535.84
+Total: $16535.84
 
 * $649.12 sent and received Saturday, January 2, 2021. Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction), with a very small transaction fee of 0.00000754 BTC. Transaction available online at https://blockchain.com/btc/tx/b02de5ccd5a2c951e9b1970d0c35611c6cce64f30a2d161f85c6621448a66810 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading).
 
@@ -616,7 +616,7 @@ Net payment due: ($5254.65)
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $3979
+Total: $3979
 
 * [https://timelines.issarice.com/wiki/Timeline_of_food_and_nutrition_in_China Timeline of food and nutrition in China]: $270. Completed January 1, 2020. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_food_and_nutrition_in_China&oldid=35663 (2020-01-01 13:23 UTC, 54035 bytes, 120 rows in full timeline, 6 rows in big picture, 4 sample questions)
 
@@ -640,7 +640,7 @@ Total so far: $3979
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $3652
+Total: $3652
 
 * [https://timelines.issarice.com/wiki/Timeline_of_WeWork Timeline of WeWork]: $127. Completed January 27, 2020. [https://timelines.issarice.com/index.php?title=Timeline_of_WeWork&type=revision&diff=36314&oldid=18466 Diff]. Increased from 34620 bytes to 69379 bytes. In addition to adding about 37 new rows, the changes include edits to existing rows, a new sample questions section with 5 questions, big picture expansion, and a visual data section with 3 charts
 
@@ -670,7 +670,7 @@ Total so far: $3652
 
 === Org Watch ===
 
-Total so far: $1230
+Total: $1230
 
 * July: $140. 28 hours at $5/hour. On 2020-07-04, Sebastian, Issa, and Vipul met to discuss Org Watch data entry, after which Issa helped Sebastian get set up. Since then, Sebastian has been making commits in the sebastian branch; see https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-07-01&until=2020-07-31 for a list of commits. The last commit for the month was on 2020-07-27.
 
@@ -686,7 +686,7 @@ Total so far: $1230
 
 === Stipends ===
 
-Total so far: $8571
+Total: $8571
 
 The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
@@ -716,7 +716,7 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines w
 
 === Payments made ===
 
-Total so far: $19808.35
+Total: $19808.35
 
 * $4950 sent Saturday, February 8, 2020, received Monday, February 10, 2020. Sent $4950 + $40 transaction fees via Western Union, receiver got 413424 ARS. The exchange rate used by Western Union matches the market exchange rate at the time (1 USD = 83.52 ARS).
 
@@ -746,7 +746,7 @@ Net payment due: ($2878.30)
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $10284
+Total: $10284
 
 * [https://timelines.issarice.com/wiki/Timeline_of_nuclear_medicine Timeline of nuclear medicine]: $200. Completed January 5, 2019. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_nuclear_medicine&oldid=27354 (2019-01-06 00:37 UTC, 43697 bytes, 83 rows)
 
@@ -850,7 +850,7 @@ Total so far: $10284
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $1510
+Total: $1510
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Lyft Timeline of Lyft]: $75. Completed April 15, 2019. [https://timelines.issarice.com/index.php?title=Timeline_of_Lyft&type=revision&diff=29209&oldid=11803 Diff]. Increased from 22,621 bytes to 41,499 bytes.
 
@@ -890,7 +890,7 @@ Total so far: $1510
 
 === Stipends ===
 
-Total so far: $8040
+Total: $8040
 
 From April 2019 onward, the rule of thumb for stipend is: $4/hour if all hours were spent on Timelines wiki, and more if some hours were spent outside (depending on the mix of work). Cap of $800/month, above which additional pay will be evaluated on a case-by-case basis.
 
@@ -950,7 +950,7 @@ Net payment due: ($3252.83)
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $12446
+Total: $12446
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Nokia Timeline of Nokia]: $280. Completed March 7, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Nokia&oldid=20708 (2018-03-08 06:00 UTC, 75540 bytes, 102 rows)
 
@@ -1104,13 +1104,13 @@ Total so far: $12446
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
-Total so far: $250
+Total: $250
 
 * [https://timelines.issarice.com/wiki/Timeline_of_Zika_virus Timeline of Zika virus]: $250. Completed July 22, 2018. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_Zika_virus&oldid=24155 (2018-07-22 22:04 UTC, 26011 bytes, 57 rows)
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $485
+Total: $485
 
 * [https://timelines.issarice.com/wiki/Timeline_of_salesforce.com Timeline of salesforce.com]: $12. Completed January 3, 2018. [https://timelines.issarice.com/index.php?title=Timeline_of_salesforce.com&type=revision&diff=19549&oldid=18711 Diff]. Increased from 63,311 bytes to 66,475 bytes.
 
@@ -1148,7 +1148,7 @@ Total so far: $485
 
 === Stipends ===
 
-Total so far: $5695
+Total: $5695
 
 * January: $150 (worked 30% of the month)
 
@@ -1206,7 +1206,7 @@ Net payment due: ($1571.91)
 
 === Completed pages (Wikipedia) ===
 
-Total so far: $1065
+Total: $1065
 
 * Timeline of measles: $125. Completed January 9, 2017.
 
@@ -1226,7 +1226,7 @@ Total so far: $1065
 
 === Completed pages paid for by Vipul (Timelines wiki) ===
 
-Total so far: $35466
+Total: $35466
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_National_Institutes_of_Health Timeline of the National Institutes of Health]: $250. Completed April 3, 2017. Includes 29 graphs (1 cumulative, 28 for the individual institutes).
 
@@ -1300,7 +1300,7 @@ Total so far: $35466
 
 === Completed pages paid for by Peter (Timelines wiki) ===
 
-Total so far: $900
+Total: $900
 
 * [https://timelines.issarice.com/wiki/Timeline_of_diphtheria Timeline of diphtheria]: $200. Completed May 26, 2017. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_diphtheria&oldid=14055
 
@@ -1312,7 +1312,7 @@ Total so far: $900
 
 === Additions to existing pages (Wikipedia) ===
 
-Total so far: $190
+Total: $190
 
 * Graph for timeline of leukemia: $5. Completed January 1, 2017.
 
@@ -1326,7 +1326,7 @@ Total so far: $190
 
 === Additions to existing pages (Timelines wiki) ===
 
-Total so far: $533
+Total: $533
 
 * More rows added to timeline of typhoid fever: $25. Completed April 5, 2017.
 
@@ -1372,13 +1372,13 @@ Total so far: $533
 
 === Other work for Peter ===
 
-Total so far: $570
+Total: $570
 
 * Visits to animal farms in Zambia: $570. Completed October 5, 2017, including publication of reports. Breakdown: $360 for reimbursements, $180 for labor ($15/hour, 12 hours), and $30 for uploading content. See https://www.facebook.com/seba.sanchez.3998/posts/10156691896339377 for the summary post. See https://www.facebook.com/media/set/?set=a.10156676891004377.1073741837.634404376&type=3 (visit 1, slaughterhouse/abattoir in Livingstone), https://www.facebook.com/media/set/?set=a.10156677566689377.1073741838.634404376&type=3 (visit 2, modern chicken and cattle farm in Southern Zambia), and https://www.facebook.com/media/set/?set=a.10156685699114377.1073741839.634404376&type=3 (visit 3, Siyakasipa Village where animals are reared by a village)
 
 === Stipends ===
 
-Total so far: $2500
+Total: $2500
 
 * May: $100
 
@@ -1398,7 +1398,7 @@ Total so far: $2500
 
 === Subscription reimbursement ===
 
-Total so far: $98
+Total: $98
 
 * Crunchbase 1-month subscription: $49
 
