@@ -22,13 +22,19 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2025 ==
 
-Total money earned as income (taxable as income for 2025): $0
+Total money earned as income (taxable as income for 2025): $12.10
 
 Payment made: $396.94
 
 Carryover payment due from 2024: $396.94
 
-Net payment due: $0
+Net payment due: $12.10
+
+=== Stipends ===
+
+Total so far: $12.10
+
+* January: $12.10. 1.10 hours at $11/hour. All the work done was on Timelines wiki, including main page table update and a robots.txt update.
 
 === Payments made ===
 
