@@ -217,6 +217,7 @@ to December 2022, with a cap of 150 hours per month).
 |wikiHow|9|titles chosen by Vipul|"specified cap per article (so we renegotiate if after 75% of the cap you think we won't be able to be done within the cap)". Report time as separate task for new articles, but in generic wikiHow task for minor improvements to existing articles.|7.5 until 20% inflation adjustment effective 2023-01-01.|
 |Learning Subwiki|7.5|"Weekly checkins and regular discussions"|Continued work subject to weekly checkins, which are a two-way responsibility. 6.25 until 20% inflation adjustment effective 2023-01-01.|
 |Timelines wiki (review of Sebastian's timelines + general work on timelines best practices development)|11.5|Tasks assigned by Vipul|9.5 until inflation adjustment effective 2023-01-01.|
+|Processing Vipul's food preparations and openings data|12|Limited blocks of time per discussion with Vipul (initial block is 3 hours)|N/A|
 
 ### Update process for payments due
 
