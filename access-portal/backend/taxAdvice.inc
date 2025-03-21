@@ -97,9 +97,9 @@ foreach(array_reverse($yearList) as $year) {
     if (0.9235 * $contractWorkIncome < $selfEmploymentFilingThreshold[$year]) {
       $selfEmploymentTax = 0;
     }
-    $taxableIncomeAssumingNoExemption = max(0, $contractWorkIncome - 0.5 * $selfEmploymentTax - $standardDeduction[$year]);
+    $taxableIncomeAssumingNoExemption = max(0, $contractWorkIncome - 0.5 * $selfEmploymentTax + $interestIncome + $totalOrdinaryDividend + $qualifiedDividend - $standardDeduction[$year]);
     $incomeTaxAssumingNoExemption = computeTax($taxableIncomeAssumingNoExemption, $year);
-    $taxableIncomeAssumingExemption = max(0, $contractWorkIncome - 0.5 * $selfEmploymentTax - $standardDeduction[$year] - $basicExemption[$year]);
+    $taxableIncomeAssumingExemption = max(0, $contractWorkIncome - 0.5 * $selfEmploymentTax + $interestIncome + $totalOrdinaryDividend + $qualifiedDividend - $standardDeduction[$year] - $basicExemption[$year]);
     $incomeTaxAssumingExemption = computeTax($taxableIncomeAssumingExemption, $year);
     $totalTaxAssumingNoExemption = $selfEmploymentTax + $incomeTaxAssumingNoExemption;
     $totalTaxAssumingExemption = $selfEmploymentTax + $incomeTaxAssumingExemption;
