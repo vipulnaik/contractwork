@@ -97,9 +97,9 @@ foreach(array_reverse($yearList) as $year) {
     if (0.9235 * $contractWorkIncome < $selfEmploymentFilingThreshold[$year]) {
       $selfEmploymentTax = 0;
     }
-    $taxableIncomeAssumingNoExemption = max(0, $contractWorkIncome - 0.5 * $selfEmploymentTax + $interestIncome + $totalOrdinaryDividend + $qualifiedDividend - $standardDeduction[$year]);
+    $taxableIncomeAssumingNoExemption = max(0, $contractWorkIncome - 0.5 * $selfEmploymentTax + $interestIncome + $totalOrdinaryDividend - $standardDeduction[$year]);
     $incomeTaxAssumingNoExemption = computeTax($taxableIncomeAssumingNoExemption, $year);
-    $taxableIncomeAssumingExemption = max(0, $contractWorkIncome - 0.5 * $selfEmploymentTax + $interestIncome + $totalOrdinaryDividend + $qualifiedDividend - $standardDeduction[$year] - $basicExemption[$year]);
+    $taxableIncomeAssumingExemption = max(0, $contractWorkIncome - 0.5 * $selfEmploymentTax + $interestIncome + $totalOrdinaryDividend - $standardDeduction[$year] - $basicExemption[$year]);
     $incomeTaxAssumingExemption = computeTax($taxableIncomeAssumingExemption, $year);
     $totalTaxAssumingNoExemption = $selfEmploymentTax + $incomeTaxAssumingNoExemption;
     $totalTaxAssumingExemption = $selfEmploymentTax + $incomeTaxAssumingExemption;
@@ -116,7 +116,7 @@ foreach(array_reverse($yearList) as $year) {
     print "</ul>\n";
     print "<p>More details of your tax situation and how to fill your tax forms are below.</p>\n";
     if ($contractWorkIncome == 0) {
-      print "<p>You had no income for tax purposes for the year $year from contract work for Vipul Naik. If you had no other income in the year, you do not need to file a tax return.</p>";
+      print "<p>You had no income for tax purposes for the year $year from contract work for Vipul Naik. If you had no other income in the year, you do not need to file a tax return. However, we provide instructions below just in case you want to file taxes.</p>";
     } else if (0.9235 * $contractWorkIncome < $selfEmploymentFilingThreshold[$year]) {
       print "<p>You had self-employment income for the year $year. However, assuming that all your self-employment income was through contract work for Vipul Naik, you do not pass the threshold for filing and paying taxes. Specifically, 92.35% of your income was less than the threshold of $$selfEmploymentFilingThreshold[$year].".' For more information, see <a href="https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center">Self-Employed Individuals Tax Center</a> and '.hyperlinkedTaxForm($year, 'f1040sse', 'Form 1040, Schedule SE').' (Page 2, line 4c). You are also below the minimum threshold for paying income tax. However, we provide instructions below just in case you want to file taxes.</p>'."\n";
     } else {
