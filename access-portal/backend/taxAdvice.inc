@@ -152,7 +152,7 @@ foreach(array_reverse($yearList) as $year) {
     } else if ($year >= '2018') {
       print "<p>Return to Form 1040, Schedule 1. For line ".$s1sseLineNumber[$year].", enter the same value as on line 13 of Form 1040, Schedule SE, which in turn is half of the value on line 12, and should work out to $".number_format(0.5*$selfEmploymentTax,2).". The same value will likely go into line ".$s1TotalDeductionLineNumber[$year].", assuming none of the rest of the adjustments apply to you.</p>";
       print "<p>Now return to Form 1040.</p>";
-  if ($year >= "2019") {
+      if ($year >= "2019") {
         print "<p>On line(s) ".$adjustmentsToIncomeLineNumber[$year]." enter the value that you just filled in in Schedule 1, line ".$s1TotalDeductionLineNumber[$year].", i.e., ".number_format(0.5*$selfEmploymentTax,2).".</p>";
       }
       print "<p>On line ".$agiLineNumber[$year].", enter the value of line $totalIncomeLineNumber[$year], which is $".number_format($contractWorkIncome, 2).", minus the total deduction from Schedule 1, line ".$s1TotalDeductionLineNumber[$year].", which is $".number_format(0.5*$selfEmploymentTax,2).". The difference should work out to $".number_format($contractWorkIncome - 0.5 * $selfEmploymentTax, 2).", or approximately (100 - 0.5 * 14.13)% of your income.</p>";
