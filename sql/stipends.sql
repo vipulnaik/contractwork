@@ -132,7 +132,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',3.30,'2024-09-01','2024-09-30','2024-09-30','Rate of $11/hour effective January 2023',0.3,120),
   ('Issa Rice',1.10,'2024-10-01','2024-10-31','2024-10-31','Rate of $11/hour effective January 2023; the only work done was running the work report for the previous month (September 2024).',0.1,120),
   /* no work was logged for November 2024 and December 2024 */
-  ('Issa Rice',12.10,'2025-01-01','2025-01-31','2025-01-31','Rate of $11/hour effective January 2023; all the work done was on Timelines wiki, including main page table update and a robots.txt update.',1.1,120);
+  ('Issa Rice',12.10,'2025-01-01','2025-01-31','2025-01-31','Rate of $11/hour effective January 2023; all the work done was on Timelines wiki, including main page table update and a robots.txt update.',1.1,120),
+  ('Issa Rice',15.95,'2025-02-01','2025-02-28','2025-02-28','Rate of $11/hour effective January 2023; this included work on Timelines wiki and Org Watch.',1.45,120);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),

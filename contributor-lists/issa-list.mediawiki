@@ -22,19 +22,27 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2025 ==
 
-Total money earned as income (taxable as income for 2025): $12.10
+Total money earned as income (taxable as income for 2025): $36.91
 
 Payment made: $396.94
 
 Carryover payment due from 2024: $396.94
 
-Net payment due: $12.10
+Net payment due: $36.91
+
+=== Org Watch ===
+
+Total so far: $8.86
+
+* Work on Org Watch in February (general): $8.86. Spent 46 minutes at $11.50/hour. Work done 2025-02-08 to 2025-02-21.
 
 === Stipends ===
 
-Total so far: $12.10
+Total so far: $28.05
 
 * January: $12.10. 1.10 hours at $11/hour. All the work done was on Timelines wiki, including main page table update and a robots.txt update.
+
+* February: $15.95. 1.45 hours at $11/hour. This included work on Timelines wiki and Org Watch.
 
 === Payments made ===
 
