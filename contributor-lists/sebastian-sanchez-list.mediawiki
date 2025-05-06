@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2025==
 
-Total money earned as income: $2235 (all for Vipul Naik)
+Total money earned as income: $2970 (all for Vipul Naik)
 
 Forward balance carried over from 2024: ($6873.45) (all for Vipul Naik)
 
 Payment made: $0
 
-Net payment due: ($4638.45)
+Net payment due: ($3903.45)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -36,19 +36,23 @@ Total so far: $670
 
 ===Org Watch===
 
-Total so far: $510
+Total so far: $765
 
 * January: $280. 36 hours, with the first 25 hours at $9/hour and the next 11 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-01-01&until=2025-01-31 for more details. The first commit of the month was on 2025-01-03 and the last commit of the month was on 2025-01-31.
 
 * February: $230. 26 hours, with the first 25 hours at $9/hour and the next 1 hour at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-02-01&until=2025-02-28 for more details. The first commit for the month was on 2025-02-04 and the last commit for the month was on 2025-02-28.
 
+* March: $255. 31 hours, with the first 25 hours at $9/hour and the next 6 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-03-01&until=2025-03-31 for more details. The first commit was the month was on 2025-03-01 and the last commit for the month was on 2025-03-31.
+
 ===Stipends for Vipul Naik===
 
-Total so far: $1055
+Total so far: $1535
 
 * January: $555. The payment is at $5/hour for 111 hours eligible for stipend, out of 114 total hours worked. Total time spent was as follows: 78 hours on Timelines wiki (of which 75 hours is eligible for stipend and 3 hours counts as overage) and 36 hours on Org Watch.
 
 * February: $500. The payment is at $5/hour for 97 hours eligible for stipend, plus 3 hours of overage from January. Total time spent was as follows: 71 hours on Timelines wiki and 26 hours on Org Watch. Even with the 3 hours of overage from January, total time on Timelines wiki (71 + 3 = 74 hours) would still be within the threshold of 75 hours, so the entire overage was applied.
+
+* March: $480. The payment is at $5/hour for all 96 hours worked. Total time spent was as follows: 65 hours on Timelines wiki and 31 hours on Org Watch.
 
 ==Work in 2024==
 
