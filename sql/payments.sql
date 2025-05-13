@@ -278,4 +278,5 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('Wire transfer','Tajudeen Riliwan',NULL,'2025-01-12','2025-01-14','2025-01-14','2025-01-14',301.23,301.23,0,301.23,'Clearing out payments due for December 2024'),
   ('Wire transfer','Tajudeen Riliwan',NULL,'2025-02-09','2025-02-11','2025-02-11','2025-02-11',211.87,211.87,0,211.87,'Clearing out payments due for January 2025'),
   ('Wire transfer','Tajudeen Riliwan',NULL,'2025-03-10','2025-03-12','2025-03-12','2025-03-12',212.57,212.57,0,212.57,'Clearing out payments due for February 2025'),
-  ('Wire transfer','Tajudeen Riliwan',NULL,'2025-04-20','2025-04-20','2025-04-20','2025-04-20',233.10,233.10,0,233.10,'Clearing out payments due for March 2025');
+  ('Wire transfer','Tajudeen Riliwan',NULL,'2025-04-20','2025-04-22','2025-04-22','2025-04-22',233.10,233.10,0,233.10,'Clearing out payments due for March 2025'),
+  ('Wire transfer','Tajudeen Riliwan',NULL,'2025-05-13','2025-05-13','2025-05-13','2025-05-13',210.70,210.70,0,210.70,'Clearing out payments due for April 2025');
