@@ -12,11 +12,11 @@ Additional notes: Based in Argentina; Sebastian handles the communication
 
 Total money earned as income: $1380.83
 
-Payment made: $0
+Payment made: $2064.95
 
 Carryover payment due from 2024: ($1451.76)
 
-Net payment due: ($70.93)
+Net payment due: ($2135.88)
 
 ===Org Watch===
 
@@ -29,6 +29,12 @@ Total so far: $1380.83
 * March: $305. 41 hours, with the first 25 hours at $9/hour, and the next 16 hours at $5/hour.
 
 * April: $377.50. 55.5 hours, with the first 25 hours at $9/hour, and the next 30.5 hours at $5/hour.
+
+===Payments made===
+
+Total so far: $2064.95
+
+* $2064.95 sent and received May 14, 2025. Transaction in Bitcoin for 0.02 BTC (and calculated in terms of USD value at time of transaction of $103,247.46 per BTC) with a small transaction fee of 0.00000485 BTC ($0.50 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/04ac25e2bd722a74b5f776e4aff1c6cffdf8e1f82cfb7773ca9ee0eb08860b9a (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously, so its details are a bit misleading; the transaction of interest is at number 11).
 
 ==Work in 2024==
 
