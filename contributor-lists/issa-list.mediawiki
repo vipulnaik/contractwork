@@ -22,27 +22,53 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2025 ==
 
-Total money earned as income (taxable as income for 2025): $36.91
+Total money earned as income (taxable as income for 2025): $418.59
 
 Payment made: $396.94
 
 Carryover payment due from 2024: $396.94
 
-Net payment due: $36.91
+Net payment due: $418.59
 
 === Org Watch ===
 
-Total so far: $8.86
+Total so far: $9.44
 
 * Work on Org Watch in February (general): $8.86. Spent 46 minutes at $11.50/hour. Work done 2025-02-08 to 2025-02-21.
 
+* Work on Org Watch in March (assisting Sebastian): $0.58. Spent 3 minutes at $11.50/hour assisting Sebastian. Work done 2025-03-14.
+
+=== Nutrition work for Vipul ===
+
+This work does not fit in the broad theme of "for the good of the world" but is more narrowly for Vipul. However, the output is public so in theory it can benefit others interested.
+
+Total so far: $81.60
+
+* Initial script: $60. Spent 5 hours at $12/hour. Work done 2025-03-01 to 2025-03-02 with a time limit of 5 hours. https://github.com/vipulnaik/diet-exercise-health/pull/8 includes this and another change.
+
+* Add weight and volume data to food types: $21.60. Spent 1 hour 48 minutes at $12/hour. Work done 2025-03-02 with a time limit of 2 hours. https://github.com/vipulnaik/diet-exercise-health/pull/8 includes this and another change.
+
+=== Slack self-message logs processing for Vipul ===
+
+This work does not fit in the broad theme of "for the good of the world" but is more narrowly for Vipul. It is also private at this point so others cannot benefit from it.
+
+Total so far: $115.80
+
+* Processing Vipul's Slack self-message logs: $65.04. Spent 5 hours 25 minutes at $12/hour. Work done 2025-03-05 to 2025-03-06 with a time limit of 6 hours.
+
+* Graphing sleep in Vipul's Slack self-message logs: $36. Spent 3 hours at $12/hour. Work done 2025-03-06 with a time limit of 3 hours.
+
+* Documentation and miscellaneous wrap-up of Vipul's Slack self-message logs: $14.76. Spent 1 hour 14 minutes at $12/hour. Work done 2025-03-07 to 2025-03-08 with a time limit of 2 hours.
+
 === Stipends ===
 
-Total so far: $28.05
+Total so far: $211.75
 
 * January: $12.10. 1.10 hours at $11/hour. All the work done was on Timelines wiki, including main page table update and a robots.txt update.
 
 * February: $15.95. 1.45 hours at $11/hour. This included work on Timelines wiki and Org Watch.
+
+* March: $183.70. 16.7 hours at $11/hour. This included work on Org Watch as well as several custom tasks for Vipul.
 
 === Payments made ===
 
