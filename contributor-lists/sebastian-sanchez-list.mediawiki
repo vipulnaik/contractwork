@@ -40,6 +40,14 @@ Total so far: $1690
 
 * [https://timelines.issarice.com/wiki/Timeline_of_DeepSeek Timeline of DeepSeek]: $100. Completed April 11, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_DeepSeek&oldid=84824 (2025-04-12 02:26 UTC, 43280 bytes, 4 sample questions + 1 roundup, 4 rows in big picture, 38 rows in full timeline, 2 visual data charts)
 
+===Tentative pending payments===
+
+Total so far: $660
+
+* (not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_wikis Timeline of wikis]: $360. Completed May 15, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_wikis&oldid=85377 (2025-05-15 13:32 UTC, 138355 bytes, 5 sample questions + 1 roundup, 5 rows in big picture, 142 rows in full timeline, 3 visual data charts and 1 data table)
+
+* (not yet accepted) [https://timelines.issarice.com/wiki/Timeline_of_the_rationalist_movement Timeline of the rationalist movement]: $300. Completed May 15, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_rationalist_movement&oldid=85406 (2025-05-16 04:34 UTC, 125384 bytes, 7 sample questions + 1 roundup, 3 rows in big picture, 8 rows in summary by century, 77 rows in full timeline, 3 visual data charts)
+
 ===Org Watch===
 
 Total so far: $1085
