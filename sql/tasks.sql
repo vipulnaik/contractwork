@@ -1311,7 +1311,9 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','None','Data entry','Add weight and volume data to food types','https://github.com/vipulnaik/diet-exercise-health/pull/8','2025-03-02',21.60,'Vipul nutrition data processing','Data','Spent 1 hour 48 minutes at $12/hour. Work done 2025-03-02 with a time limit of 2 hours. https://github.com/vipulnaik/diet-exercise-health/pull/8 includes this and another change.',108),
   ('Issa Rice','None','Coding','Processing Vipul''s Slack self-message logs','N/A','2025-03-06',65.04,'Vipul Slack self-message logs processing','Code and data','Spent 5 hours 25 minutes at $12/hour. Work done 2025-03-05 to 2025-03-06 with a time limit of 6 hours.',325),
   ('Issa Rice','None','Coding','Graphing sleep in Vipul''s Slack self-message logs','N/A','2025-03-06',36,'Vipul Slack self-message logs processing','Code and data','Spent 3 hours at $12/hour. Work done 2025-03-06 with a time limit of 3 hours.',180),
-  ('Issa Rice','None','Coding','Documentation and miscellaneous wrap-up of Vipul''s Slack self-message logs','N/A','2025-03-08',14.76,'Vipul Slack self-message logs processing','Documentation','Spent 1 hour 14 minutes at $12/hour. Work done 2025-03-07 to 2025-03-08 with a time limit of 2 hours.',74);
+  ('Issa Rice','None','Coding','Documentation and miscellaneous wrap-up of Vipul''s Slack self-message logs','N/A','2025-03-08',14.76,'Vipul Slack self-message logs processing','Documentation','Spent 1 hour 14 minutes at $12/hour. Work done 2025-03-07 to 2025-03-08 with a time limit of 2 hours.',74),
+  /* Tasks added for April 2025 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-04-29',0.23,'Organizational structures and dynamics','N/A','Spent 1 minute at $11.50/hour assisting Sebastian. Work done 2025-04-29.',1);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

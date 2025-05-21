@@ -22,21 +22,23 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2025 ==
 
-Total money earned as income (taxable as income for 2025): $418.59
+Total money earned as income (taxable as income for 2025): $444.45
 
 Payment made: $396.94
 
 Carryover payment due from 2024: $396.94
 
-Net payment due: $418.59
+Net payment due: $444.45
 
 === Org Watch ===
 
-Total so far: $9.44
+Total so far: $9.67
 
 * Work on Org Watch in February (general): $8.86. Spent 46 minutes at $11.50/hour. Work done 2025-02-08 to 2025-02-21.
 
 * Work on Org Watch in March (assisting Sebastian): $0.58. Spent 3 minutes at $11.50/hour assisting Sebastian. Work done 2025-03-14.
+
+* Work on Org Watch in April (assisting Sebastian): $0.23. Spent 1 minute at $11.50/hour assisting Sebastian. Work done 2025-04-29.
 
 === Nutrition work for Vipul ===
 
@@ -62,13 +64,15 @@ Total so far: $115.80
 
 === Stipends ===
 
-Total so far: $211.75
+Total so far: $237.38
 
 * January: $12.10. 1.10 hours at $11/hour. All the work done was on Timelines wiki, including main page table update and a robots.txt update.
 
 * February: $15.95. 1.45 hours at $11/hour. This included work on Timelines wiki and Org Watch.
 
 * March: $183.70. 16.7 hours at $11/hour. This included work on Org Watch as well as several custom tasks for Vipul.
+
+* April: $25.63. 2.33 hours at $11/hour. This included work on Org Watch and on Timelines wiki (server stuff and main page table update).
 
 === Payments made ===
 
