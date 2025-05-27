@@ -1,15 +1,18 @@
 # Summary
 
-This document was last substantively updated on October 29, 2023.
+Changes are in DRAFT pending review.
+
+This document was last substantively updated on May 27, 2025.
 
 ## Current contract work structure for Sebastian Sanchez (payments from Vipul)
 
 ### Timelines wiki
 
 * Current payment for timelines wiki includes a stipend component
-  (hourly pay of $5/hour as of January 2023; increased from $4/hour until
-  December 2022) and a component payment per timeline, that is decided
-  after the fact loosely based on some
+  (hourly pay of $5.25/hour starting June 2025; hourly pay of $5/hour
+  from January 2023 to May 2025; hourly pay of $4/hour before that)
+  and a component payment per timeline, that is decided after the fact
+  loosely based on some
   [guidelines](https://github.com/vipulnaik/contractwork/blob/master/policy/new-timelines-and-updates.mediawiki).
 
 * The current cap on hours per month eligible for stipend is 75 hours;
@@ -33,18 +36,6 @@ This document was last substantively updated on October 29, 2023.
   Sebastian's [user
   page](https://timelines.issarice.com/wiki/User:Sebastian).
 
-* Until December 2023, Sebastian can spend up to 50 hours per month
-  on AI-related timelines that is exempt from the 75-hour
-  limit. Sebastian can also use part of the 75-hour limit toward
-  AI-related timelines. For instance, Sebastian could work 60 hours on
-  AI-related timelines and 65 hours on other timelines; 50 of the 60
-  hours on AI-related timelines will be considered exempt, and the
-  remaining 10 hours on AI-related timelines plus the other 65 hours
-  will together use up the 75 hours.
-
-  We'll re-evaluate by the end of December 2023 whether to continue
-  the 50 exempt hours for AI-related timelines to future months.
-
 * Vipul and Sebastian may mutually decide to waive or increase the
   hours limit in a particular month. Possible reasons: there is a lot
   of time-sensitive work to be completed that month, or Sebastian
@@ -63,13 +54,10 @@ This document was last substantively updated on October 29, 2023.
 ### Org Watch
 
 * For Org Watch, the first 25 hours each month are paid at a rate of
-  $9/hour; after that, each hour is paid at $5/hour.
+  $9.50/hour; after that, each hour is paid at $5.25/hour.
 
-  NOTE: The limit for the $9/hour stipend was reduced from 40 hours to
-  25 hours starting September 2024, in recognition of another regular
-  contributor to Org Watch who was recruited through Sebastian.
-
-* In addition, all Org Watch work is eligible for the $5/hour stipend.
+* In addition, all Org Watch work is eligible for the $5.25/hour
+  stipend.
 
 * You can access all of Sebastian's commits on Org Watch
   [here](https://github.com/riceissa/aiwatch/commits/sebastian).
@@ -82,18 +70,14 @@ This document was last substantively updated on October 29, 2023.
 * NOTE: Time spent learning SQL as an investment to help become better
   with the SQL parts of Org Watch should *not* be counted as Org Watch
   time, but should be counted as stipend-eligible time. So this time
-  will be eligible only for the $5/hour stipend, but not for the Org
-  Watch pay of $9/hour or $5/hour, and the hours will not count toward
-  the 40-hour limit for the $9/hour Org Watch rate.
-
-* Temporary increase from September to December 2023: Instead of the
-  first 40 hours, the first 50 hours each month at a rate of $9/hour;
-  after that, each hour is paid at $5/hour.
+  will be eligible only for the $5.25/hour stipend, but not for the
+  Org Watch pay of $9.50/hour or $5.25/hour, and the hours will not
+  count toward the 25-hour limit for the $9.50/hour Org Watch rate.
 
 ### Subject wikis (subwiki)
 
 We have been in discussions around possibly starting paid work on
-subwiki, but as of October 29, 2023, there is no ongoing agreement to
+subwiki, but as of May 27, 2025, there is no ongoing agreement to
 support such work.
 
 ### Update process for payments due
@@ -181,9 +165,9 @@ these has been covered by the Future Fund Regranting Program funds.
 
 ### Org Watch
 
-We have been in discussions around potential outside support for a subset of
-work on Org Watch, but as of October 29, 2023, there is no public
-information about this.
+We have been in discussions around potential outside support for a
+subset of work on Org Watch, but as of May 27, 2025, there is no
+public information about this.
 
 Relevant information will likely be made public before any actual work
 covered by such outside support is paid for.
@@ -192,33 +176,48 @@ covered by such outside support is paid for.
 
 ### Rates
 
-These rates are all on top of the monthly stipend of $11/hour up to
-120 hours per month (increased starting January 2023 with a 20%
-inflation adjustment; the original rate was $9/hour from December 2019
-to December 2022, with a cap of 150 hours per month).
+These rates are all on top of the monthly stipend of $11.50/hour up to
+50 hours per month starting June 2025 (the rate until May 2025 was
+$11/hour for up to 120 hours).
+
+If Issa works extra hours beyond the 50 hours in a given month, the
+overage can be accumulated up to a total of 150 hours. So in a future
+month where Issa works less than 50 hours, the remainder of the 50
+hours can use up hours from the overage. This process works similarly
+to the overage process from Sebastian, just using 50 hours and 150
+hours instead of 75 hours and 225 hours. See the example for
+Sebastian's overages earlier in the document for reference.
+
+The rates for all projects already present in the table below prior to
+June 2025 were increased by approximately 5% starting June 2025. The
+formula used was as follows: when the starting rate was less tha
+7.5/hour, the increase was 0.25/hour. When the starting rate was above
+7.5/hour, the increase was 0.5/hour. Since all rates are between
+3.5/hour and 15/hour, this worked out. To avoid cluttering the notes,
+the increase in June 2025 is not mentioned in the notes.
 
 |Project|Current rate ($/hr)|Level of direction|Notes|
 |---------|-----|-----------------|------------------|
-|Donations List Website|11.5|Tasks assigned by Vipul|8.5 until 2019-02-08; then 9.5 until 20% inflation adjustment effective 2023-01-01.|
-|Devec portal|12|Tasks assigned by Vipul|9.75 until 20% inflation adjustment effective 2023-01-01.|
-|Devec data porting to SQL|12|Tasks assigned by Vipul|9.75 until 20% inflation adjustment effective 2023-01-01.|
-|Devec SQL query work|12|Tasks assigned by Vipul|9.75 until 20% inflation adjustment effective 2023-01-01.|
-|Devec reading|3.50|Tasks assigned by Vipul (kinda; the reading material and pages edited aren't chosen by Vipul)|3 until 20% inflation adjustment effective 2023-01-01.|
-|Computing Data Project (CDP)|9|Tasks assigned by Vipul|Previously the rate was $9.75/hour until the end of July 2018. $7.5/hour since then until 20% inflation adjustment effective 2023-01-01.|
-|AI safety timeline outlines on timelines wiki|11.5|Tasks assigned by Vipul|Deal done 2022-06-20.|9.5 until 20% inflation adjustment effective 2023-01-01.|
-|AI safety (temporal matching with CDP)| 9 after current round|No explicit direction, but limited to time matched with CDP|7.5 until 20% inflation adjustment effective 2023-01-01.|
-|AI safety wiki|5.25|No explicit direction, limited to 10 hours per month|4.375 until 20% inflation adjustment effective 2023-01-01.|
-|Org Watch|11.5|"\< 5 hours per month of needed data updates, and maybe up to 5 hours per month on average for (org additions, code improvements)"; "For code bugfixes, you can basically just pick and work on those at your discretion/leisures"|7.5 until 2019-02-08, then 9.5 until 20% inflation adjustment effective 2023-01-01.|
-|Cause Prioritization Wiki|5.25 if no plan; 6 with plan|No explicit direction|4.375 and 5 respectively until 20% inflation adjustment effective 2023-01-01.|
-|People Watching|5.25|No explicit direction, limited to 10 hours per month|4.375 until 20% inflation adjustment effective 2023-01-01.|
-|Wikipedia Views|10|Tasks assigned by Vipul|8.5 until 20% inflation adjustment effective 2023-01-01.|
-|AI Watch|11.5|"I think at least at current margins, with the volume of work so low, it's just easier to have everything at OW rates"; "and actually create enough volume of work to justify switching costs and overcome inertia"|9.5 until 20% inflation adjustment effective 2023-01-01.|
-|Contract Work portal|10|Tasks assigned by Vipul|8.5 until 20% inflation adjustment effective 2023-01-01.|
-|wikiHow|9|titles chosen by Vipul|"specified cap per article (so we renegotiate if after 75% of the cap you think we won't be able to be done within the cap)". Report time as separate task for new articles, but in generic wikiHow task for minor improvements to existing articles.|7.5 until 20% inflation adjustment effective 2023-01-01.|
-|Learning Subwiki|7.5|"Weekly checkins and regular discussions"|Continued work subject to weekly checkins, which are a two-way responsibility. 6.25 until 20% inflation adjustment effective 2023-01-01.|
-|Timelines wiki (review of Sebastian's timelines + general work on timelines best practices development)|11.5|Tasks assigned by Vipul|9.5 until inflation adjustment effective 2023-01-01.|
-|Processing Vipul's food preparations and openings data|12|Limited blocks of time per discussion with Vipul (initial block is 3 hours)|N/A|
-|Processing Vipul's Slack self-message logs|12|Limited blocks of time per discussion with Vipul (initial block is 2 hours)|N/A|
+|Donations List Website|12|Tasks assigned by Vipul|8.5 until 2019-02-08; then 9.5 until 20% inflation adjustment effective 2023-01-01.|
+|Devec portal|12.5|Tasks assigned by Vipul|9.75 until 20% inflation adjustment effective 2023-01-01.|
+|Devec data porting to SQL|12.5|Tasks assigned by Vipul|9.75 until 20% inflation adjustment effective 2023-01-01.|
+|Devec SQL query work|12.5|Tasks assigned by Vipul|9.75 until 20% inflation adjustment effective 2023-01-01.|
+|Devec reading|3.75|Tasks assigned by Vipul (kinda; the reading material and pages edited aren't chosen by Vipul)|3 until 20% inflation adjustment effective 2023-01-01.|
+|Computing Data Project (CDP)|9.5|Tasks assigned by Vipul|Previously the rate was $9.75/hour until the end of July 2018. $7.5/hour since then until 20% inflation adjustment effective 2023-01-01.|
+|AI safety timeline outlines on timelines wiki|12|Tasks assigned by Vipul|Deal done 2022-06-20.|9.5 until 20% inflation adjustment effective 2023-01-01.|
+|AI safety (temporal matching with CDP)|9.5|No explicit direction, but limited to time matched with CDP|7.5 until 20% inflation adjustment effective 2023-01-01.|
+|AI safety wiki|5.5|No explicit direction, limited to 10 hours per month|4.375 until 20% inflation adjustment effective 2023-01-01.|
+|Org Watch|12|"\< 5 hours per month of needed data updates, and maybe up to 5 hours per month on average for (org additions, code improvements)"; "For code bugfixes, you can basically just pick and work on those at your discretion/leisures"|7.5 until 2019-02-08, then 9.5 until 20% inflation adjustment effective 2023-01-01.|
+|Cause Prioritization Wiki|5.5 if no plan; 6.25 with plan|No explicit direction|4.375 and 5 respectively until 20% inflation adjustment effective 2023-01-01.|
+|People Watching|5.5|No explicit direction, limited to 10 hours per month|4.375 until 20% inflation adjustment effective 2023-01-01.|
+|Wikipedia Views|10.5|Tasks assigned by Vipul|8.5 until 20% inflation adjustment effective 2023-01-01.|
+|AI Watch|12|"I think at least at current margins, with the volume of work so low, it's just easier to have everything at OW rates"; "and actually create enough volume of work to justify switching costs and overcome inertia"|9.5 until 20% inflation adjustment effective 2023-01-01.|
+|Contract Work portal|10.5|Tasks assigned by Vipul|8.5 until 20% inflation adjustment effective 2023-01-01.|
+|wikiHow|9.5|titles chosen by Vipul|"specified cap per article (so we renegotiate if after 75% of the cap you think we won't be able to be done within the cap)". Report time as separate task for new articles, but in generic wikiHow task for minor improvements to existing articles.|7.5 until 20% inflation adjustment effective 2023-01-01.|
+|Learning Subwiki|8|"Weekly checkins and regular discussions"|Continued work subject to weekly checkins, which are a two-way responsibility. 6.25 until 20% inflation adjustment effective 2023-01-01.|
+|Timelines wiki (review of Sebastian's timelines + general work on timelines best practices development)|12|Tasks assigned by Vipul|9.5 until inflation adjustment effective 2023-01-01.|
+|Processing Vipul's food preparations and openings data|12.5|Limited blocks of time per discussion with Vipul (initial block is 3 hours)|N/A|
+|Processing Vipul's Slack self-message logs|12.5|Limited blocks of time per discussion with Vipul (initial block is 2 hours)|N/A|
 
 ### Update process for payments due
 
@@ -246,7 +245,7 @@ Allowed lags:
   a month was small, Issa bunches it up with later months to save on
   switching costs.
 
-* Lag of up to 15 days from when Issa submits information to when
+* Lag of up to 30 days from when Issa submits information to when
   Vipul enters it in the contractwork repo.
 
 ### Process and criteria for making payments
@@ -285,7 +284,7 @@ works on Org Watch. Sebastian helps coordinate his work.
 ### Org Watch
 
 * The first 25 hours each month by Gabriel are paid at
-  $9/hour. Additional hours are paid at $5/hour.
+  $9.50/hour. Additional hours are paid at $5.25/hour.
 
 * There is no stipend payment for the time being, so the direct Org
   Watch pay is the only pay.
