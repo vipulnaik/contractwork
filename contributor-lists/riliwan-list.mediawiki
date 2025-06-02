@@ -14,9 +14,9 @@ Country: Nigeria
 
 ==Work and payments in 2025==
 
-Total money earned as income: $868.24
+Total money earned as income: $1083.14
 
-Payment: $1169.47
+Payment: $1384.37
 
 Carryover payment due from 2024: $301.23
 
@@ -24,7 +24,7 @@ Net payment due: $0
 
 ===AI Watch===
 
-Total so far: $868.24
+Total so far: $1083.14
 
 * January 2025: $211.87. Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks. Work done 2025-01-27 to 2025-01-30. 15 hours 8 minutes at $14/hour.
 
@@ -34,9 +34,11 @@ Total so far: $868.24
 
 * April 2025: $210.70. Data entry (organization documents) for AI Watch, including additional time spent on correspondence and other auxiliary tasks. Work done 2025-04-25 to 2025-04-30. 15 hours 3 minutes at $14/hour.
 
+* May 2025: $214.90. Data entry (organization documents) For AI Watch, including additional time spent on correspondence and other auxiliary tasks. Work done 2025-05-24 to 2025-05-31. 15 hours 21 minutes at $14/hour.
+
 ===Payments made===
 
-Total so far: $1169.47
+Total so far: $1384.37
 
 * $301.23 sent via wire transfer on January 12, received January 14.
 
@@ -47,6 +49,8 @@ Total so far: $1169.47
 * $233.10 sent via wire transfer on April 20, received April 22.
 
 * $210.70 sent via wire transfer on May 13, received May 14.
+
+* $214.90 sent via wire transfer on June 2.
 
 ==Work and payments in 2024==
 
