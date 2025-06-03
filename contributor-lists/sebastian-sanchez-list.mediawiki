@@ -22,9 +22,9 @@ Total money earned as income: $6290 (all for Vipul Naik)
 
 Forward balance carried over from 2024: ($6873.45) (all for Vipul Naik)
 
-Payment made: $0
+Payment made: $4216.45
 
-Net payment due: ($583.45)
+Net payment due: ($4799.90)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -71,6 +71,12 @@ Total so far: $2595
 * April: $570. The payment is at $5/hour for all 114 hours worked. Total time spent was as follows: 70 hours on Timelines wiki and 44 hours on Org Watch.
 
 * May: $490. The payment is at $5/hour for all 98 hours worked. Total time spent was as follows: 66 hours on Timelines wiki and 32 hours on Org Watch.
+
+===Payments made by Vipul Naik===
+
+Total so far: $4216.45
+
+* $4216.45 sent and received Monday, June 2, 2025 (in Pacific Time; Vipul was in India so it was Tuesday June 3 in his timezone). Transaction in Bitcoin for 0.04 BTC (and calculated in terms of USD value at time of transaction of $105411.30 per BTC) with a very small transaction fee of 0.00000169 BTC ($0.18 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/37062b6e2120164d4b2062b75d9b72f191ac76716da336807d76e57aa5c2d7aa (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously; the transaction of interest is number 31 on the list).
 
 ==Work in 2024==
 
