@@ -19,7 +19,7 @@ reset:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists payers;"
 
 .PHONY: read
-read: read_public read_private
+read: read_public read_private verify
 
 .PHONY: read_public
 read_public:
@@ -38,6 +38,10 @@ read_private:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/private/workers.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/private/tasks.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/private/payments.sql
+
+.PHONY: verify
+verify:
+	python3 python/payments_verification_queries.py
 
 .PHONY: fetch_table_sorting
 fetch_table_sorting:

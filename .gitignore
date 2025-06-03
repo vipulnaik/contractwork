@@ -10,3 +10,5 @@ access-portal/jquery.tablesorter.js
 access-portal/anchor.min.js
 access-portal/style.css
 access-portal/images/
+python/connection.py
+__pycache__
