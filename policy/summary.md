@@ -1,8 +1,9 @@
 # Summary
 
-Changes are in DRAFT pending review.
-
-This document was last substantively updated on May 27, 2025.
+This document was last substantively updated on June 9, 2025 with
+changes drafted on May 27, 2025 in [PR
+#29](https://github.com/vipulnaik/contractwork/pull/29) reviewed
+(informally) by Sebastian and Issa.
 
 ## Current contract work structure for Sebastian Sanchez (payments from Vipul)
 
