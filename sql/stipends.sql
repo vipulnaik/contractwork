@@ -135,7 +135,9 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',12.10,'2025-01-01','2025-01-31','2025-01-31','Rate of $11/hour effective January 2023; all the work done was on Timelines wiki, including main page table update and a robots.txt update.',1.1,120),
   ('Issa Rice',15.95,'2025-02-01','2025-02-28','2025-02-28','Rate of $11/hour effective January 2023; this included work on Timelines wiki and Org Watch.',1.45,120),
   ('Issa Rice',183.70,'2025-03-01','2025-03-31','2025-03-31','Rate of $11/hour effective January 2023; this included work on Org Watch as well as several custom tasks for Vipul.',16.7,120),
-  ('Issa Rice',25.63,'2025-04-01','2025-04-30','2025-04-30','Rate of $11/hour effective January 2023; this included work on Org Watch and on Timelines wiki (server stuff and main page table update).',2.33,120);
+  ('Issa Rice',25.63,'2025-04-01','2025-04-30','2025-04-30','Rate of $11/hour effective January 2023; this included work on Org Watch and on Timelines wiki (server stuff and main page table update).',2.33,120),
+  ('Issa Rice',27.83,'2025-05-01','2025-05-31','2025-05-31','Rate of $11/hour effective January 2023; this included work on Org Watch, Donations list website, Vipul''s Slack self-chat logs, and Timelines wiki (main page table update).',2.53,120);
+  /* Stipend rate changes starting June 2025 going up to $11.50/hour with a limit of 50 hours */
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),

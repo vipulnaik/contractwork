@@ -22,23 +22,31 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2025 ==
 
-Total money earned as income (taxable as income for 2025): $444.45
+Total money earned as income (taxable as income for 2025): $497.22
 
 Payment made: $841.39
 
 Carryover payment due from 2024: $396.94
 
-Net payment due: $0
+Net payment due: $52.77
 
 === Org Watch ===
 
-Total so far: $9.67
+Total so far: $10.25
 
 * Work on Org Watch in February (general): $8.86. Spent 46 minutes at $11.50/hour. Work done 2025-02-08 to 2025-02-21.
 
 * Work on Org Watch in March (assisting Sebastian): $0.58. Spent 3 minutes at $11.50/hour assisting Sebastian. Work done 2025-03-14.
 
 * Work on Org Watch in April (assisting Sebastian): $0.23. Spent 1 minute at $11.50/hour assisting Sebastian. Work done 2025-04-29.
+
+* Work on Org Watch in May (assisting Sebastian): $0.58. Spent 3 minutes at $11.50/hour assisting Sebastian. Work done 2025-05-20 to 2025-05-31.
+
+=== Donations list website (DLW) ===
+
+Total so far: $10.92
+
+* [https://github.com/vipulnaik/donations/pull/148 Add htmlspecialchars to a bunch of print statements]: $10.92. This work involved fixing XSS vulnerabilities on the site. Spent 57 minutes at $11.50/hour. Work done 2025-05-09 to 2025-05-10 with a time limit of 2 hours.
 
 === Nutrition work for Vipul ===
 
@@ -54,7 +62,7 @@ Total so far: $81.60
 
 This work does not fit in the broad theme of "for the good of the world" but is more narrowly for Vipul. It is also private at this point so others cannot benefit from it.
 
-Total so far: $115.80
+Total so far: $129.24
 
 * Processing Vipul's Slack self-message logs: $65.04. Spent 5 hours 25 minutes at $12/hour. Work done 2025-03-05 to 2025-03-06 with a time limit of 6 hours.
 
@@ -62,9 +70,11 @@ Total so far: $115.80
 
 * Documentation and miscellaneous wrap-up of Vipul's Slack self-message logs: $14.76. Spent 1 hour 14 minutes at $12/hour. Work done 2025-03-07 to 2025-03-08 with a time limit of 2 hours.
 
+* Debugging new_claude_sleep.py and adding more validations based on findings: $13.44. Spent 1 hour 7 minutes at $12/hour. Work done 2025-05-06 with a time limit of 2 hours.
+
 === Stipends ===
 
-Total so far: $237.38
+Total so far: $265.21
 
 * January: $12.10. 1.10 hours at $11/hour. All the work done was on Timelines wiki, including main page table update and a robots.txt update.
 
@@ -73,6 +83,8 @@ Total so far: $237.38
 * March: $183.70. 16.7 hours at $11/hour. This included work on Org Watch as well as several custom tasks for Vipul.
 
 * April: $25.63. 2.33 hours at $11/hour. This included work on Org Watch and on Timelines wiki (server stuff and main page table update).
+
+* May: $27.83. 2.53 hours at $11/hour. This included work on Org Watch, Donations list website, Vipul's Slack self-chat logs, and Timelines wiki (main page table update).
 
 === Payments made ===
 
