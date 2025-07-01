@@ -58,17 +58,17 @@ Total so far: $81.60
 
 * Add weight and volume data to food types: $21.60. Spent 1 hour 48 minutes at $12/hour. Work done 2025-03-02 with a time limit of 2 hours. https://github.com/vipulnaik/diet-exercise-health/pull/8 includes this and another change.
 
-=== Slack self-message logs processing for Vipul ===
+=== Slack self-chat logs processing for Vipul ===
 
 This work does not fit in the broad theme of "for the good of the world" but is more narrowly for Vipul. It is also private at this point so others cannot benefit from it.
 
 Total so far: $129.24
 
-* Processing Vipul's Slack self-message logs: $65.04. Spent 5 hours 25 minutes at $12/hour. Work done 2025-03-05 to 2025-03-06 with a time limit of 6 hours.
+* Processing Vipul's Slack self-chat logs: $65.04. Spent 5 hours 25 minutes at $12/hour. Work done 2025-03-05 to 2025-03-06 with a time limit of 6 hours.
 
-* Graphing sleep in Vipul's Slack self-message logs: $36. Spent 3 hours at $12/hour. Work done 2025-03-06 with a time limit of 3 hours.
+* Graphing sleep in Vipul's Slack self-chat logs: $36. Spent 3 hours at $12/hour. Work done 2025-03-06 with a time limit of 3 hours.
 
-* Documentation and miscellaneous wrap-up of Vipul's Slack self-message logs: $14.76. Spent 1 hour 14 minutes at $12/hour. Work done 2025-03-07 to 2025-03-08 with a time limit of 2 hours.
+* Documentation and miscellaneous wrap-up of Vipul's Slack self-chat logs: $14.76. Spent 1 hour 14 minutes at $12/hour. Work done 2025-03-07 to 2025-03-08 with a time limit of 2 hours.
 
 * Debugging new_claude_sleep.py and adding more validations based on findings: $13.44. Spent 1 hour 7 minutes at $12/hour. Work done 2025-05-06 with a time limit of 2 hours.
 
