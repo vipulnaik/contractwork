@@ -499,7 +499,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Sebastian Sanchez','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-03-31',255,'Organizational structures and dynamics','Data','31 hours, with the first 25 hours at $9/hour and the next 6 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-03-01&until=2025-03-31 for more details. The first commit was the month was on 2025-03-01 and the last commit for the month was on 2025-03-31.',1860),
   ('Sebastian Sanchez','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-04-30',320,'Organizational structures and dynamics','Data','44 hours, with the first 25 hours at $9/hour and the next 19 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-04-01&until=2025-04-30 for more details. The first commit for the month was on 2025-04-01 and the last commit for the month was on 2025-04-30.',2640),
   ('Sebastian Sanchez','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-05-31',260,'Organizational structures and dynamics','Data','32 hours, with the first 25 hours at $9/hour and the next 7 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-05-01&until=2025-05-31 for more details. The first commit for the month was on 2025-05-02 and the last commit for the month was on 2025-05-31.',1920);
-  /* The rate changes starting June 2025 to $9.50/hour */
+  /* New rates effective June 2025: $9.50/hour for first 25 hours, $5.25/hour after that */
+
 
 /* Gabriel Bobis Org Watch work */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, minutes_spent) values
@@ -513,6 +514,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-03-31',305,'Organizational structures and dynamics','Data','41 hours, with the first 25 hours at $9/hour, and the next 16 hours at $5/hour.',2460),
   ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-04-30',377.50,'Organizational structures and dynamics','Data','55.5 hours, with the first 25 hours at $9/hour, and the next 30.5 hours at $5/hour.',3330),
   ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-05-31',315,'Organizational structures and dynamics','Data','43 hours, with the first 25 hours at $9/hour, and the next 18 hours at $5/hour.',2580),
+  /* New rates effective June 2025: $9.50/hour for first 25 hours, $5.25/hour after that */
   ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-06-30',326.75,'Organizational structures and dynamics','Data','42 hours, with the first 25 hours at $9.50/hour, and the next 17 hours at $5.25/hour.',2520);
 
 /* Sebastian Sanchez tasks paid for by Peter Hurford */
