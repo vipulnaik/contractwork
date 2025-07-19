@@ -22,17 +22,19 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2025 ==
 
-Total money earned as income (taxable as income for 2025): $497.22
+Total money earned as income (taxable as income for 2025): $511.03
 
 Payment made: $841.39
 
 Carryover payment due from 2024: $396.94
 
-Net payment due: $52.77
+Net payment due: $66.58
 
 === Org Watch ===
 
-Total so far: $10.25
+Total so far: $10.49
+
+NOTE: The rate is $11.50/hour till May and $12/hour starting June.
 
 * Work on Org Watch in February (general): $8.86. Spent 46 minutes at $11.50/hour. Work done 2025-02-08 to 2025-02-21.
 
@@ -41,6 +43,8 @@ Total so far: $10.25
 * Work on Org Watch in April (assisting Sebastian): $0.23. Spent 1 minute at $11.50/hour assisting Sebastian. Work done 2025-04-29.
 
 * Work on Org Watch in May (assisting Sebastian): $0.58. Spent 3 minutes at $11.50/hour assisting Sebastian. Work done 2025-05-20 to 2025-05-31.
+
+* Work on Org Watch in June (assisting Sebastian): $0.24. Spent 1 minute at $12/hour assisting Sebastian. Work done 2025-06-25.
 
 === Donations list website (DLW) ===
 
@@ -74,7 +78,9 @@ Total so far: $129.24
 
 === Stipends ===
 
-Total so far: $265.21
+Total so far: $278.78
+
+NOTE: The rate is $11/hour till May and $11.50/hour starting June.
 
 * January: $12.10. 1.10 hours at $11/hour. All the work done was on Timelines wiki, including main page table update and a robots.txt update.
 
@@ -85,6 +91,8 @@ Total so far: $265.21
 * April: $25.63. 2.33 hours at $11/hour. This included work on Org Watch and on Timelines wiki (server stuff and main page table update).
 
 * May: $27.83. 2.53 hours at $11/hour. This included work on Org Watch, Donations list website, Vipul's Slack self-chat logs, and Timelines wiki (main page table update).
+
+* June: $13.57. 1.18 hours at $11.50/hour. This included work on Org Watch and Timelines wiki (main page table update).
 
 === Payments made ===
 

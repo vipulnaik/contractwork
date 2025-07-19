@@ -1323,8 +1323,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for May 2025 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-05-31',0.58,'Organizational structures and dynamics','N/A','Spent 3 minutes at $11.50/hour assisting Sebastian. Work done 2025-05-20 to 2025-05-31.',3),
   ('Issa Rice','Donations list website','Coding','Add htmlspecialchars to a bunch of print statements','https://github.com/vipulnaik/donations/pull/148','2025-05-10',10.92,'Philanthropy','Code','This work involved fixing XSS vulnerabilities on the site. Spent 57 minutes at $11.50/hour. Work done 2025-05-09 to 2025-05-10 with a time limit of 2 hours.',57),
-  ('Issa Rice','None','Coding','Debugging new_claude_sleep.py and adding more validations based on findings','N/A','2025-05-06',13.44,'Vipul Slack self-chat logs processing','Code','Spent 1 hour 7 minutes at $12/hour. Work done 2025-05-06 with a time limit of 2 hours.',67);
+  ('Issa Rice','None','Coding','Debugging new_claude_sleep.py and adding more validations based on findings','N/A','2025-05-06',13.44,'Vipul Slack self-chat logs processing','Code','Spent 1 hour 7 minutes at $12/hour. Work done 2025-05-06 with a time limit of 2 hours.',67),
   /* New rates apply starting June 2025 */
+  /* Tasks added for June 2025 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-06-25',0.24,'Organizational structures and dynamics','N/A','Spent 1 minute at $12/hour assisting Sebastian. Work done 2025-06-25.',1);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
