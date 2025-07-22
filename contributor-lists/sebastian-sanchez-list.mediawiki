@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2025==
 
-Total money earned as income: $6290 (all for Vipul Naik)
+Total money earned as income: $6979 (all for Vipul Naik)
 
 Forward balance carried over from 2024: ($6873.45) (all for Vipul Naik)
 
 Payment made: $4216.45
 
-Net payment due: ($4799.90)
+Net payment due: ($4110.90)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -46,7 +46,9 @@ Total so far: $2350
 
 ===Org Watch===
 
-Total so far: $1345
+Total so far: $1582.50
+
+NOTE: Until May 2025, the rate was $9/hour for the first 25 hours in a month and $5/hour for additional hours. Starting June 2025, the rate was $9.50/hour for the first 25 hours in a month and $5.25/hour for additional hours.
 
 * January: $280. 36 hours, with the first 25 hours at $9/hour and the next 11 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-01-01&until=2025-01-31 for more details. The first commit of the month was on 2025-01-03 and the last commit of the month was on 2025-01-31.
 
@@ -58,9 +60,13 @@ Total so far: $1345
 
 * May: $260. 32 hours, with the first 25 hours at $9/hour and the next 7 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-05-01&until=2025-05-31 for more details. The first commit for the month was on 2025-05-02 and the last commit for the month was on 2025-05-31.
 
+* June: $237.50. 25 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-06-01&until=2025-06-30 for more details. The first commit for the month was on 2025-06-06 and the last commit for the month was on 2025-06-30.
+
 ===Stipends for Vipul Naik===
 
-Total so far: $2595
+Total so far: $3046.50
+
+NOTE: The payment rate was $5/hour till May 2025 and increased to $5.25/hour starting June 2025.
 
 * January: $555. The payment is at $5/hour for 111 hours eligible for stipend, out of 114 total hours worked. Total time spent was as follows: 78 hours on Timelines wiki (of which 75 hours is eligible for stipend and 3 hours counts as overage) and 36 hours on Org Watch.
 
@@ -71,6 +77,8 @@ Total so far: $2595
 * April: $570. The payment is at $5/hour for all 114 hours worked. Total time spent was as follows: 70 hours on Timelines wiki and 44 hours on Org Watch.
 
 * May: $490. The payment is at $5/hour for all 98 hours worked. Total time spent was as follows: 66 hours on Timelines wiki and 32 hours on Org Watch.
+
+* June: $451.50. The payment is at $5.25/hour for all 86 hours worked. Total time spent was as follows: 61 hours on Timelines wiki and 25 hours on Org Watch.
 
 ===Payments made by Vipul Naik===
 
