@@ -24,10 +24,10 @@ print "</thead>\n<tbody>\n";
 for($i = 0; $i < $payerTaskSelectResult -> num_rows; $i++) {
   $row = $payerTaskSelectResult -> fetch_assoc();
   print '<tr>';
-  print '<td><a href="/venue.php?venue='.urlencode($row['task_venue']).'&matching=exact">'.$row['task_venue'].'</a></td>';
-  print '<td>'.$row['task_type'].'</td>';
+  print '<td><a href="/venue.php?venue='.urlencode($row['task_venue']).'&matching=exact">'.htmlspecialchars($row['task_venue']).'</a></td>';
+  print '<td>'.htmlspecialchars($row['task_type']).'</td>';
   if (substr($row['task_receptacle_url'],0,4) == "http" and strpos($row['task_receptacle_url'],',http') == false) {
-    print '<td><a href="'.$row['task_receptacle_url'].'">'.$row['task_receptacle'].'</a>';
+    print '<td><a href="'.$row['task_receptacle_url'].'">'.htmlspecialchars($row['task_receptacle']).'</a>';
     if ($row['task_type'] == "Wikipedia page creation" or $row['task_type'] == "Wikipedia page update") {
       print ' (<a href="http://wikipediaviews.org/displayviewsformultiplemonths.php?page='.urlencode($row['task_receptacle']).'&language=en&drilldown=all&allmonths=allmonths">Wikipedia Views</a>)';
     }

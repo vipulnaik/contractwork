@@ -8,13 +8,13 @@ $worker = 'Issa Rice';
 if (!empty($_REQUEST['worker'])) {
   $worker = $_REQUEST['worker'];
 }
-print "<title>$worker tax details: Contract work for Vipul Naik</title>";
+print "<title>" . htmlspecialchars($worker) . " tax details: Contract work for Vipul Naik</title>";
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
 include_once('style.inc');
 include_once('analytics.inc');
 print '</head>';
 print '<body>';
-print "<h3>$worker tax details: Contract work for Vipul Naik</h3>";
+print "<h3>" . htmlspecialchars($worker) . " tax details: Contract work for Vipul Naik</h3>";
 ?>
 
 <p><span id="changeThemeMenu" style="display: none;">Set color scheme to:

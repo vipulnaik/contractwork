@@ -21,11 +21,11 @@ if ($format != '') {
   $formatRegexMatcher = '`format` REGEXP ?';
   $formatRegexMatcherParamStr .= "s";
   $formatRegexMatcherParams[] = $format;
-  print "<title>$format format work details: Contract work for Vipul Naik</title>";
+  print "<title>" . htmlspecialchars($format) . " format work details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';
   print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
-  print "<h3>Contract work related to format $format for Vipul Naik</h3>";
+  print "<h3>Contract work related to format " . htmlspecialchars($format) . " for Vipul Naik</h3>";
 } else {
   $formatRegexMatcher = '1 = 1';
   print "<title>All task details: Contract work for Vipul Naik</title>";

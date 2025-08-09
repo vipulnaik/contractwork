@@ -33,7 +33,7 @@ for ($i = 0; $i < $stipendSelectResult -> num_rows; $i++) {
     print '–'.$row['stipend_end_date'].'</td>';
   }
   print '<td>'.$row['stipend_award_date'].'</td>';
-  print '<td><a href="/worker.php?worker='.urlencode($row['payee']).'">'.$row['payee'].'</a></td>';
+  print '<td><a href="/worker.php?worker='.urlencode($row['payee']).'">'.htmlspecialchars($row['payee']).'</a></td>';
   print '<td align="right">'.number_format($row['payment'],2).'</td>';
   if (isset($row['hours_logged']) && $row['hours_logged'] != '') {
     print '<td align="right">'.$row['hours_logged'].'</td>';

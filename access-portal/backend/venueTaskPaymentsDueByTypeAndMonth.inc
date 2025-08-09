@@ -1,6 +1,6 @@
 <?php
 if ($venue != '') {
-  print '<h4 id="venueTaskPaymentsDueByTypeAndMonth">Task payments due for tasks related to venue '.$venue.' by type and month</h4>';
+  print '<h4 id="venueTaskPaymentsDueByTypeAndMonth">Task payments due for tasks related to venue '.htmlspecialchars($venue).' by type and month</h4>';
 } else {
   print '<h4 id="venueTaskPaymentsDueByTypeAndMonth">Task payments due for all tasks (regardless of venue) by type and month</h4>';
 }

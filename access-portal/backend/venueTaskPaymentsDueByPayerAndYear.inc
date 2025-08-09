@@ -1,5 +1,5 @@
 <?php
-print "<h4 id=\"venueTaskPaymentsDueByPayerAndYear\">Task payments due for tasks related to venue $venue by payer and year</h4>";
+print "<h4 id=\"venueTaskPaymentsDueByPayerAndYear\">Task payments due for tasks related to venue " . htmlspecialchars($venue) . " by payer and year</h4>";
 
 $payerList = array();
 $payerSelectQuery = "select distinct payer from tasks where $venueRegexMatcher;";
@@ -69,7 +69,7 @@ foreach (array_reverse($yearList) as $year) {
 print "</tr></thead>\n<tbody>\n";
 foreach($payerList as $payer) {
   if (isset($totalPaymentForPayerUsingYear[$payer]) && $totalPaymentForPayerUsingYear[$payer] > 0) {
-    print "<tr><td><a href=\"https://contractwork.vipulnaik.com/payer.php?payer=".urlencode($payer)."\">$payer</a></td>";
+    print "<tr><td><a href=\"https://contractwork.vipulnaik.com/payer.php?payer=".urlencode($payer)."\">" . htmlspecialchars($payer) . "</a></td>";
     print '<td align="right"><strong>'.number_format($totalPaymentForPayerUsingYear[$payer],2).'</strong></td>';
     foreach (array_reverse($yearList) as $year) {
       if ($totalPaymentForYear[$year] > 0) {

@@ -1,5 +1,5 @@
 <?php
-print "<h4 id=\"venueTaskPaymentsDueByPayerAndMonth\">Task payments due for tasks related to venue $venue by payer and month</h4>";
+print "<h4 id=\"venueTaskPaymentsDueByPayerAndMonth\">Task payments due for tasks related to venue " . htmlspecialchars($venue) . " by payer and month</h4>";
 
 $payerList = array();
 $payerSelectQuery = "select distinct payer from tasks where $venueRegexMatcher;";
@@ -82,7 +82,7 @@ print '<tr><th>Month</th>';
 print "<th>Total across task payers</th>";
 foreach ($payerList as $payer) {
   if (isset($totalPaymentForPayerUsingMonth[$payer]) && $totalPaymentForPayerUsingMonth[$payer] > 0) {
-    print "<th><a href=\"https://contractwork.vipulnaik.com/payer.php?payer=".urlencode($payer)."\">$payer</a></th>";
+    print "<th><a href=\"https://contractwork.vipulnaik.com/payer.php?payer=".urlencode($payer)."\">" . htmlspecialchars($payer) . "</a></th>";
   }
 }
 print '</tr>';

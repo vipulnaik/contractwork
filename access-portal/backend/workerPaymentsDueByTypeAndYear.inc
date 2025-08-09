@@ -145,7 +145,7 @@ if ($printTables == true) {
   print "</tr>\n</thead>\n<tbody>\n";
   foreach($payers as $payer) {
     if ($totalTaskPayment[$payer] > 0) {
-      print "<tr>\n	<td>Tasks for <a href=\"/payer.php?payer=".urlencode($payer)."\">$payer</td>\n";
+      print "<tr>\n	<td>Tasks for <a href=\"/payer.php?payer=".urlencode($payer)."\">" . htmlspecialchars($payer) . "</td>\n";
       print '<td align="right"><strong>'.number_format($totalTaskPayment[$payer],2).'</strong></td>';
       foreach (array_reverse($yearList) as $year) {
         if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
@@ -165,7 +165,7 @@ if ($printTables == true) {
   print '</tr>';
   foreach ($payers as $payer) {
     if ($totalStipendPaymentAwardedInSameYear[$payer] > 0) {
-      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (awarded same year)</td>';
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.htmlspecialchars($payer).'</a> (awarded same year)</td>';
       print '<td align="right"><strong>'.number_format($totalStipendPaymentAwardedInSameYear[$payer],2).'</strong></td>';
       foreach (array_reverse($yearList) as $year) {
         if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
@@ -175,7 +175,7 @@ if ($printTables == true) {
       print '</tr>';
     }
     if ($totalStipendPaymentStraddlingYears[$payer] > 0) {
-      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (awarded from earlier year)</td>';
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.htmlspecialchars($payer).'</a> (awarded from earlier year)</td>';
       print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingYears[$payer],2).'</strong></td>';
       foreach (array_reverse($yearList) as $year) {
         if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
@@ -211,7 +211,7 @@ if ($printTables == true) {
   print '</tr>';
   foreach ($payers as $payer) {
     if ($totalUnawardedStipendPayment[$payer] > 0) {
-      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (unawarded)</td>';
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.htmlspecialchars($payer).'</a> (unawarded)</td>';
       print '<td align="right"><strong>'.number_format($totalUnawardedStipendPayment,2).'</strong></td>';
       foreach (array_reverse($yearList) as $year) {
         if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
@@ -221,7 +221,7 @@ if ($printTables == true) {
       print '</tr>';
     }
     if ($totalStipendPaymentStraddlingYears[$payer] > 0) {
-      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (deferred to later year)</td>';
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.htmlspecialchars($payer).'</a> (deferred to later year)</td>';
       print '<td align="right"><strong>'.number_format($totalStipendPaymentStraddlingYears[$payer],2).'</strong></td>';
       foreach (array_reverse($yearList) as $year) {
         if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {
@@ -229,7 +229,7 @@ if ($printTables == true) {
         }
       }
       print '</tr>';
-      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.$payer.'</a> (awarded from earlier year; subtract)</td>';
+      print '<tr><td>Stipends from <a href="/payer.php?payer='.urlencode($payer).'">'.htmlspecialchars($payer).'</a> (awarded from earlier year; subtract)</td>';
       print '<td align="right"><strong>'.number_format(-$totalStipendPaymentStraddlingYears[$payer],2).'</strong></td>';
       foreach (array_reverse($yearList) as $year) {
         if ($totalPayment[$year] != 0 or $totalPaymentAwarded[$year] != 0) {

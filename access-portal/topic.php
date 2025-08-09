@@ -20,11 +20,11 @@ if ($topic != '') {
   $topicRegexMatcher = '`topic` REGEXP ?';
   $topicRegexMatcherParamStr .= "s";
   $topicRegexMatcherParams[] = $topic;
-  print "<title>$topic topic work details: Contract work for Vipul Naik</title>";
+  print "<title>" . htmlspecialchars($topic) . " topic work details: Contract work for Vipul Naik</title>";
   print '</head>';
   print '<body>';
   print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
-  print "<h3>Contract work related to topic $topic for Vipul Naik</h3>";
+  print "<h3>Contract work related to topic " . htmlspecialchars($topic) . " for Vipul Naik</h3>";
 } else {
   $topicRegexMatcher = '1 = 1';
   print "<title>All task details: Contract work for Vipul Naik</title>";

@@ -2,7 +2,7 @@
 if ($format == "") {
   print '<h4 id="formatTaskPaymentsDueByTypeAndYear">Task payments due for all tasks (regardless of format) by type and year</h4>';
 } else {
-  print '<h4 id="formatTaskPaymentsDueByTypeAndYear">Task payments due for tasks related to format '.$format.' by type and year</h4>';
+  print '<h4 id="formatTaskPaymentsDueByTypeAndYear">Task payments due for tasks related to format '.htmlspecialchars($format).' by type and year</h4>';
 }
 
 # Initialize values to zero
