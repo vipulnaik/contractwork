@@ -1,6 +1,6 @@
 <?php
 if ($topic != '') {
-  print '<h4 id="topicTaskPaymentsDueByTypeAndMonth">Task payments due for tasks related to topic '.$topic.' by type and month</h4>';
+  print '<h4 id="topicTaskPaymentsDueByTypeAndMonth">Task payments due for tasks related to topic ' . htmlspecialchars($topic) . ' by type and month</h4>';
 } else {
   print '<h4 id="topicTaskPaymentsDueByTypeAndMonth">Task payments due for all tasks (regardless of topic) by type and month</h4>';
 }

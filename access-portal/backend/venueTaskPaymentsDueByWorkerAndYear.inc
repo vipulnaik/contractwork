@@ -1,5 +1,5 @@
 <?php
-print "<h4 id=\"venueTaskPaymentsDueByWorkerAndYear\">Task payments due for tasks related to venue $venue by worker and year</h4>";
+print "<h4 id=\"venueTaskPaymentsDueByWorkerAndYear\">Task payments due for tasks related to venue " . htmlspecialchars($venue) . " by worker and year</h4>";
 
 $workerList = array();
 $workerSelectQuery = "select distinct worker from workers where private = false;";
@@ -74,7 +74,7 @@ foreach (array_reverse($yearList) as $year) {
 print "</tr></thead>\n<tbody>\n";
 foreach($workerList as $worker) {
   if (isset($totalPaymentForWorkerUsingYear[$worker]) && $totalPaymentForWorkerUsingYear[$worker] > 0) {
-    print "<tr><td><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">$worker</a></td>";
+    print "<tr><td><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">" . htmlspecialchars($worker) . "</a></td>";
     print '<td align="right"><strong>'.number_format($totalPaymentForWorkerUsingYear[$worker],2).'</strong></td>';
     foreach (array_reverse($yearList) as $year) {
       if ($totalPaymentForYear[$year] > 0) {

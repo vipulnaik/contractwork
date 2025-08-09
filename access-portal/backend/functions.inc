@@ -4,7 +4,7 @@ function printWorker($worker) {
   if ($worker == "Private") {
     print '<tr><td>Private</td>';
   } else {
-    print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.$worker.'</a></td>';
+    print '<tr><td><a href="/worker.php?worker='.urlencode($worker).'">'.htmlspecialchars($worker).'</a></td>';
   }
 }
 

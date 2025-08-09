@@ -1,6 +1,6 @@
 <?php
 if ($format != '') {
-  print '<h4 id="formatTaskPaymentsDueByTypeAndMonth">Task payments due for tasks related to format '.$format.' by type and month</h4>';
+  print '<h4 id="formatTaskPaymentsDueByTypeAndMonth">Task payments due for tasks related to format '.htmlspecialchars($format).' by type and month</h4>';
 } else {
   print '<h4 id="formatTaskPaymentsDueByTypeAndMonth">Task payments due for all tasks (regardless of format) by type and month</h4>';
 }

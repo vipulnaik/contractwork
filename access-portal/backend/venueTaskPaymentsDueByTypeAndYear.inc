@@ -2,7 +2,7 @@
 if ($venue == "") {
   print '<h4 id="venueTaskPaymentsDueByTypeAndYear">Task payments due for all tasks (regardless of venue) by type and year</h4>';
 } else {
-  print '<h4 id="venueTaskPaymentsDueByTypeAndYear">Task payments due for tasks related to venue '.$venue.' by type and year</h4>';
+  print '<h4 id="venueTaskPaymentsDueByTypeAndYear">Task payments due for tasks related to venue '.htmlspecialchars($venue).' by type and year</h4>';
 }
 
 # Initialize values to zero

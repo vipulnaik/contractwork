@@ -45,7 +45,7 @@ if ($receptacle != "" && $receptacle_url != "") {
 
 include_once('analytics.inc');
 include_once('strip-commas.inc');
-print "<title>$titleExtras contract work for Vipul Naik</title>\n";
+print "<title>" . htmlspecialchars($titleExtras) . " contract work for Vipul Naik</title>\n";
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
 include_once('style.inc');
 print '<script type="text/javascript" src="./jquery-3.7.1.min.js"></script>'."\n";
@@ -53,7 +53,7 @@ print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."
 print '</head>';
 print '<body>';
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
-print "<h3>$titleExtras contract work for Vipul Naik</h3>";
+print "<h3>" . htmlspecialchars($titleExtras) . " contract work for Vipul Naik</h3>";
 ?>
 
 <p><span id="changeThemeMenu" style="display: none;">Set color scheme to:

@@ -10,7 +10,7 @@ $worker = 'Issa Rice';
 if (!empty($_REQUEST['worker'])) {
   $worker = $_REQUEST['worker'];
 }
-print "<title>$worker work details: Contract work for Vipul Naik</title>";
+print "<title>" . htmlspecialchars($worker) . " work details: Contract work for Vipul Naik</title>";
 include_once('analytics.inc');
 include_once('strip-commas.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
@@ -20,7 +20,7 @@ print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."
 print '</head>';
 print '<body>';
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
-print "<h3>Contract work by $worker for Vipul Naik</h3>";
+print "<h3>Contract work by " . htmlspecialchars($worker) . " for Vipul Naik</h3>";
 ?>
 
 <p><span id="changeThemeMenu" style="display: none;">Set color scheme to:

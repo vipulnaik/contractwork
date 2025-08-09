@@ -1,5 +1,5 @@
 <?php
-print "<h4 id=\"venueTaskPaymentsDueByWorkerAndMonth\">Task payments due for tasks related to venue $venue by worker and month</h4>";
+print "<h4 id=\"venueTaskPaymentsDueByWorkerAndMonth\">Task payments due for tasks related to venue " . htmlspecialchars($venue) . " by worker and month</h4>";
 
 $workerList = array();
 $workerSelectQuery = "select distinct worker from workers where private = false;";
@@ -77,7 +77,7 @@ print '<tr><th>Month</th>';
 print "<th>Total across task workers</th>";
 foreach ($workerList as $worker) {
   if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
-    print "<th><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">$worker</a></th>";
+    print "<th><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">" . htmlspecialchars($worker) . "</a></th>";
   }
 }
 print '</tr>';

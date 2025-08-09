@@ -9,7 +9,7 @@ $payer = 'Vipul Naik';
 if (!empty($_REQUEST['payer'])) {
   $payer = $_REQUEST['payer'];
 }
-print "<title>$payer sponsored task details: Contract work for Vipul Naik</title>";
+print "<title>" . htmlspecialchars($payer) . " sponsored task details: Contract work for Vipul Naik</title>";
 include_once('analytics.inc');
 include_once('strip-commas.inc');
 print '<link href="style.css" rel="stylesheet" type="text/css" />'."\n";
@@ -19,7 +19,7 @@ print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."
 print '</head>';
 print '<body>';
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
-print "<h3>Contract work sponsored by $payer and managed through Vipul Naik</h3>";
+print "<h3>Contract work sponsored by " . htmlspecialchars($payer) . " and managed through Vipul Naik</h3>";
 ?>
 
 <p><span id="changeThemeMenu" style="display: none;">Set color scheme to:
@@ -75,7 +75,7 @@ if ($payerSelectResult -> num_rows == 0) {
   print '</ul>';
   print "<p>All payment amounts are listed in current United States dollars (USD).</p>";
   $printTables = true;
-  print '<h4 id="payerInfo">Payer information for '.$payer.'</h4>';
+  print '<h4 id="payerInfo">Payer information for '.htmlspecialchars($payer).'</h4>';
   if (!$payerActive) {
     print "<p><strong>This payer is not currently active. All dues with the payer have been settled. The payer has no amount due to Vipul Naik and no claims on Vipul Naik's estate in the event of Vipul Naik's death. The information on this page is provided only for historical reference.</strong></p>";
   }

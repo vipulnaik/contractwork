@@ -74,7 +74,7 @@ print '<tr><th>Month</th>';
 print "<th>Total across task workers</th>";
 foreach ($workerList as $worker) {
   if (isset($totalPaymentForWorkerUsingMonth[$worker]) && $totalPaymentForWorkerUsingMonth[$worker] > 0) {
-    print "<th><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">$worker</a></th>";
+    print "<th><a href=\"https://contractwork.vipulnaik.com/worker.php?worker=".urlencode($worker)."\">" . htmlspecialchars($worker) . "</a></th>";
   }
 }
 print '</tr>';
