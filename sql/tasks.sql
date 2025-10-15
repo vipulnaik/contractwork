@@ -515,7 +515,10 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-04-30',377.50,'Organizational structures and dynamics','Data','55.5 hours, with the first 25 hours at $9/hour, and the next 30.5 hours at $5/hour.',3330),
   ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-05-31',315,'Organizational structures and dynamics','Data','43 hours, with the first 25 hours at $9/hour, and the next 18 hours at $5/hour.',2580),
   /* New rates effective June 2025: $9.50/hour for first 25 hours, $5.25/hour after that */
-  ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-06-30',326.75,'Organizational structures and dynamics','Data','42 hours, with the first 25 hours at $9.50/hour, and the next 17 hours at $5.25/hour.',2520);
+  ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-06-30',326.75,'Organizational structures and dynamics','Data','42 hours, with the first 25 hours at $9.50/hour, and the next 17 hours at $5.25/hour.',2520),
+  ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-07-31',321.50,'Organizational structures and dynamics','Data','41 hours, with the first 25 hours at $9.50/hour, and the next 16 hours at $5.25/hour.',2460),
+  ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-08-31',316.25,'Organizational structures and dynamics','Data','40 hours, with the first 25 hours at $9.50/hour, and the next 15 hours at $5.25/hour.',2400),
+  ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-09-30',142.50,'Organizational structures and dynamics','Data','15 hours at $9.50/hour.',900);
 
 /* Sebastian Sanchez tasks paid for by Peter Hurford */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
