@@ -243,7 +243,10 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',480,'2025-03-01','2025-03-31','2025-03-31','The payment is at $5/hour for all 96 hours worked. Total time spent was as follows: 65 hours on Timelines wiki and 31 hours on Org Watch.',96),
   ('Sebastian Sanchez',570,'2025-04-01','2025-04-30','2025-04-30','The payment is at $5/hour for all 114 hours worked. Total time spent was as follows: 70 hours on Timelines wiki and 44 hours on Org Watch.',114),
   ('Sebastian Sanchez',490,'2025-05-01','2025-05-31','2025-05-31','The payment is at $5/hour for all 98 hours worked. Total time spent was as follows: 66 hours on Timelines wiki and 32 hours on Org Watch.',98),
-  ('Sebastian Sanchez',451.50,'2025-06-01','2025-06-30','2025-06-30','The payment is at $5.25/hour for all 86 hours worked. Total time spent was as follows: 61 hours on Timelines wiki and 25 hours on Org Watch.',86);
+  ('Sebastian Sanchez',451.50,'2025-06-01','2025-06-30','2025-06-30','The payment is at $5.25/hour for all 86 hours worked. Total time spent was as follows: 61 hours on Timelines wiki and 25 hours on Org Watch.',86),
+  ('Sebastian Sanchez',341.25,'2025-07-01','2025-07-31','2025-07-31','The payment is at $5.25/hour for all 65 hours worked. Total time spent was as follows: 35 hours on Timelines wiki and 30 hours on Org Watch.',65),
+  ('Sebastian Sanchez',99.75,'2025-08-01','2025-08-31','2025-08-31','The payment is at $5.25/hour for all 19 hours worked. Total time spent was as follows: 17 hours on Timelines wiki and 2 hours on Org Watch.',19),
+  ('Sebastian Sanchez',498.75,'2025-09-01','2025-09-30','2025-09-30','The payment is at $5.25/hour for all 95 hours worked for Vipul Naik. Total time spent was as follows: 62 hours on Timelines wiki and 33 hours on Org Watch.',95);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, payer) values
   ('Sebastian Sanchez',120,'2022-06-01','2022-06-30','2022-06-30','The payment is at $4/hour for all 30 hours worked on Timelines wiki.',30,'Future Fund Regranting Program'),
