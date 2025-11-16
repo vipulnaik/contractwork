@@ -24,11 +24,11 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 Total money earned as income (taxable as income for 2025): $753.94
 
-Payment made: $841.39
+Payment made: $1150.88
 
 Carryover payment due from 2024: $396.94
 
-Net payment due: $309.49
+Net payment due: $0
 
 === Org Watch ===
 
@@ -124,11 +124,13 @@ NOTE: The rate is $11/hour till May and $11.50/hour starting June.
 
 === Payments made ===
 
-Total so far: $841.39
+Total so far: $1150.88
 
 * $396.94 via PayPal on January 19
 
 * $444.45 via PayPal on May 22
+
+* $309.49 via PayPal on November 15
 
 == Work and other compensation in 2024 ==
 
