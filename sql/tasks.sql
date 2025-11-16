@@ -1335,7 +1335,17 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','None','Coding','Debugging new_claude_sleep.py and adding more validations based on findings','N/A','2025-05-06',13.44,'Vipul Slack self-chat logs processing','Code','Spent 1 hour 7 minutes at $12/hour. Work done 2025-05-06 with a time limit of 2 hours.',67),
   /* New rates apply starting June 2025 */
   /* Tasks added for June 2025 */
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-06-25',0.24,'Organizational structures and dynamics','N/A','Spent 1 minute at $12/hour assisting Sebastian. Work done 2025-06-25.',1);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-06-25',0.24,'Organizational structures and dynamics','N/A','Spent 1 minute at $12/hour assisting Sebastian. Work done 2025-06-25.',1),
+  /* Tasks added for July 2025 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-07-22',0.60,'Organizational structures and dynamics','N/A','Spent 3 minutes at $12/hour assisting Sebastian. Work done 2025-07-22.',3),
+  ('Issa Rice','None','Consulting','Debugging of Wikidossier requests issue','N/A','2025-07-16',8.16,'Wikipedia','Private communication','Spent 41 minutes at $12/hour. Work done 2025-07-16 with a time limit of 2 hours.',41),
+  /* Tasks added for August 2025 */
+  ('Issa Rice','Donations list website','Coding','Fix html escaping -- missed parts (followup to previous htmlspecialchars fix)','https://github.com/vipulnaik/donations/pull/149','2025-08-09',7.20,'Philanthropy','Code','This included a followup XSS vulnerability fix missed in previous work on the issue, along with testing to find other vulnerabilities. Spent 36 minutes at $12/hour. Work done 2025-08-09.',36),
+  ('Issa Rice','Contract work for Vipul Naik','Coding','Escape variables before printing','https://github.com/vipulnaik/contractwork/pull/30','2025-08-09',19.11,'Safe query','Code','This work involved fixing XSS vulnerabilities on the site, similar to the equivalent work done on the donations list website in https://github.com/vipulnaik/donations/pull/148 a few months prior. Spent 1 hour 49 minutes at $10.50/hour. Work done 2025-08-09 with a time limit of 2 hours.',109),
+  /* Tasks added for September 2025 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-09-28',0.84,'Organizational structures and dynamics','N/A','Spent 4 minutes at $12/hour assisting Sebastian. Work done 2025-09-05 to 2025-09-28.',4),
+  /* Tasks added for October 2025 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-10-15',0.24,'Organizational structures and dynamics','N/A','Spent 1 minute at $12/hour assisting Sebastian. Work done 2025-10-15.',1);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values

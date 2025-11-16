@@ -138,7 +138,11 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',25.63,'2025-04-01','2025-04-30','2025-04-30','Rate of $11/hour effective January 2023; this included work on Org Watch and on Timelines wiki (server stuff and main page table update).',2.33,120),
   ('Issa Rice',27.83,'2025-05-01','2025-05-31','2025-05-31','Rate of $11/hour effective January 2023; this included work on Org Watch, Donations list website, Vipul''s Slack self-chat logs, and Timelines wiki (main page table update).',2.53,120),
   /* Stipend rate changes starting June 2025 going up to $11.50/hour with a limit of 50 hours */
-  ('Issa Rice',13.57,'2025-06-01','2025-06-30','2025-06-30','Rate of $11.50/hour effective June 2025; this included work on Org Watch and Timelines wiki (main page table update).',1.18,50);
+  ('Issa Rice',13.57,'2025-06-01','2025-06-30','2025-06-30','Rate of $11.50/hour effective June 2025; this included work on Org Watch and Timelines wiki (main page table update).',1.18,50),
+  ('Issa Rice',10.12,'2025-07-01','2025-07-31','2025-07-31','Rate of $11.50/hour effective June 2025; this included work on Org Watch, contract work meta, and Wikidossier debugging.',0.88,50),
+  ('Issa Rice',171.92,'2025-08-01','2025-08-31','2025-08-31','Rate of $11.50/hour effective June 2025; this included work on the donations list website, contract work portal, and Timelines wiki (a bunch of server and devops work).',14.95,50),
+  ('Issa Rice',24.49,'2025-09-01','2025-09-30','2025-09-30','Rate of $11.50/hour effective June 2025; this included work on Org Watch, contract work meta, and Timelines wiki (main page table update and fixes to the update script).',2.13,50),
+  ('Issa Rice',0.23,'2025-10-01','2025-10-31','2025-10-31','Rate of $11.50/hour effective June 2025; all the work done was on Org Watch.',0.02,50);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',NULL,NULL),

@@ -22,17 +22,17 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 == Work and other compensation in 2025 ==
 
-Total money earned as income (taxable as income for 2025): $511.03
+Total money earned as income (taxable as income for 2025): $753.94
 
 Payment made: $841.39
 
 Carryover payment due from 2024: $396.94
 
-Net payment due: $66.58
+Net payment due: $309.49
 
 === Org Watch ===
 
-Total so far: $10.49
+Total so far: $12.17
 
 NOTE: The rate is $11.50/hour till May and $12/hour starting June.
 
@@ -46,11 +46,31 @@ NOTE: The rate is $11.50/hour till May and $12/hour starting June.
 
 * Work on Org Watch in June (assisting Sebastian): $0.24. Spent 1 minute at $12/hour assisting Sebastian. Work done 2025-06-25.
 
+* Work on Org Watch in July (assisting Sebastian): $0.60. Spent 3 minutes at $12/hour assisting Sebastian. Work done 2025-07-22.
+
+* Work on Org Watch in September (assisting Sebastian): $0.84. Spent 4 minutes at $12/hour assisting Sebastian. Work done 2025-09-05 to 2025-09-28.
+
+* Work on Org Watch in October (assisting Sebastian): $0.24. Spent 1 minute at $12/hour assisting Sebastian. Work done 2025-10-15.
+
 === Donations list website (DLW) ===
 
-Total so far: $10.92
+Total so far: $18.12
 
 * [https://github.com/vipulnaik/donations/pull/148 Add htmlspecialchars to a bunch of print statements]: $10.92. This work involved fixing XSS vulnerabilities on the site. Spent 57 minutes at $11.50/hour. Work done 2025-05-09 to 2025-05-10 with a time limit of 2 hours.
+
+* [https://github.com/vipulnaik/donations/pull/149 Fix html escaping -- missed parts (followup to previous htmlspecialchars fix)]: $7.20. This included a followup XSS vulnerability fix missed in previous work on the issue, along with testing to find other vulnerabilities. Spent 36 minutes at $12/hour. Work done 2025-08-09.
+
+=== Contract work portal ===
+
+Total so far: $19.11
+
+* [https://github.com/vipulnaik/contractwork/pull/30 Escape variables before printing]: $19.11. This work involved fixing XSS vulnerabilities on the site, similar to the equivalent work done on the donations list website in https://github.com/vipulnaik/donations/pull/148 a few months prior. Spent 1 hour 49 minutes at $10.50/hour. Work done 2025-08-09 with a time limit of 2 hours.
+
+=== Wikidossier ===
+
+Total so far: $8.16
+
+* Debugging of Wikidossier requests issue: $8.16. Spent 41 minutes at $12/hour. Work done 2025-07-16 with a time limit of 2 hours.
 
 === Nutrition work for Vipul ===
 
@@ -78,7 +98,7 @@ Total so far: $129.24
 
 === Stipends ===
 
-Total so far: $278.78
+Total so far: $485.54
 
 NOTE: The rate is $11/hour till May and $11.50/hour starting June.
 
@@ -93,6 +113,14 @@ NOTE: The rate is $11/hour till May and $11.50/hour starting June.
 * May: $27.83. 2.53 hours at $11/hour. This included work on Org Watch, Donations list website, Vipul's Slack self-chat logs, and Timelines wiki (main page table update).
 
 * June: $13.57. 1.18 hours at $11.50/hour. This included work on Org Watch and Timelines wiki (main page table update).
+
+* July: $10.12. 0.88 hours at $11.50/hour. This included work on Org Watch, contract work meta, and Wikidossier debugging.
+
+* August: $171.92. 14.95 hours at $11.50/hour. This included work on the donations list website, contract work portal, and Timelines wiki (a bunch of server and devops work).
+
+* September: $24.49. 2.13 hours at $11.50/hour. This included work on Org Watch, contract work meta, and Timelines wiki (main page table update and fixes to the update script).
+
+* October: $0.23. 0.02 hours at $11.50/hour. All the work done was on Org Watch.
 
 === Payments made ===
 
