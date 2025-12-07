@@ -22,9 +22,9 @@ Total money earned as income: $8481 (all for Vipul Naik)
 
 Forward balance carried over from 2024: ($6873.45) (all for Vipul Naik)
 
-Payment made: $4216.45
+Payment made: $8548.53
 
-Net payment due: ($2608.90)
+Net payment due: ($6940.98)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -94,9 +94,11 @@ NOTE: The payment rate was $5/hour till May 2025 and increased to $5.25/hour sta
 
 ===Payments made by Vipul Naik===
 
-Total so far: $4216.45
+Total so far: $8548.53
 
 * $4216.45 sent and received Monday, June 2, 2025 (in Pacific Time; Vipul was in India so it was Tuesday June 3 in his timezone). Transaction in Bitcoin for 0.04 BTC (and calculated in terms of USD value at time of transaction of $105411.30 per BTC) with a very small transaction fee of 0.00000169 BTC ($0.18 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/37062b6e2120164d4b2062b75d9b72f191ac76716da336807d76e57aa5c2d7aa (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously; the transaction of interest is number 31 on the list).
+
+* $4332.08 sent and received Monday, December 1, 2025. Transaction in Bitcoin for 0.05 BTC (and calculated in terms of USD value at time of transaction of $86641.61 per BTC) with a very small transaction fee of 0.00000588 BTC ($0.51 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/d4e3239f5188c272dfe8c59f653e6774a6127f8907b7f85bfb477ced330979fb (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously; the transaction of interest is number 8 on the list).
 
 ==Work in 2024==
 
