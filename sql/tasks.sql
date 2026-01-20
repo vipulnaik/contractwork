@@ -521,7 +521,8 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-06-30',326.75,'Organizational structures and dynamics','Data','42 hours, with the first 25 hours at $9.50/hour, and the next 17 hours at $5.25/hour.',2520),
   ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-07-31',321.50,'Organizational structures and dynamics','Data','41 hours, with the first 25 hours at $9.50/hour, and the next 16 hours at $5.25/hour.',2460),
   ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-08-31',316.25,'Organizational structures and dynamics','Data','40 hours, with the first 25 hours at $9.50/hour, and the next 15 hours at $5.25/hour.',2400),
-  ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-09-30',142.50,'Organizational structures and dynamics','Data','15 hours at $9.50/hour.',900);
+  ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-09-30',142.50,'Organizational structures and dynamics','Data','15 hours at $9.50/hour.',900),
+  ('Gabriel Bobis','Org Watch','Data entry','Org Watch','https://orgwatch.issarice.com/','2025-10-31',123.50,'Organizational structures and dynamics','Data','13 hours at $9.50/hour.',780);
 
 /* Sebastian Sanchez tasks paid for by Peter Hurford */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer) values
