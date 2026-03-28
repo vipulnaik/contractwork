@@ -52,9 +52,11 @@ function hyperlinkedTaxForm($year, $slug, $anchorText) {
 
 print '<p>For more information on taxes, learn about <a href="https://en.wikipedia.org/wiki/Form_1040">Form 1040</a> and <a href="https://en.wikipedia.org/wiki/Form_1099-MISC">Form 1099-MISC</a>.</p>'."\n";
 
-print 'Pass the parameter <code>contractWorkIncome</code> in the URL to change the income used below to an arbitrary amount (<a href="/taxes.php?worker=Issa+Rice&amp;contractWorkIncome=10000.05">example</a>); this will use the same amount for all years. You can also pass the parameters <code>interestIncome</code>, <code>totalOrdinaryDividend</code>, and <code>qualifiedDividend</code> to set those values (they all default to 0.00 if you don’t enter them). Click <a href="/taxes.php?worker=Issa+Rice&amp;contractWorkIncome=10000.05&amp;interestIncome=100&amp;totalOrdinaryDividend=100&amp;qualifiedDividend=100">here</a> for a link to this page with all the parameters filled out.';
+print '<p>Pass the parameter <code>contractWorkIncome</code> in the URL to change the income used below to an arbitrary amount (<a href="/taxes.php?worker=Issa+Rice&amp;contractWorkIncome=10000.05">example</a>); this will use the same amount for all years. You can also pass the parameters <code>interestIncome</code>, <code>totalOrdinaryDividend</code>, and <code>qualifiedDividend</code> to set those values (they all default to 0.00 if you don’t enter them). Click <a href="/taxes.php?worker=Issa+Rice&amp;contractWorkIncome=10000.05&amp;interestIncome=100&amp;totalOrdinaryDividend=100&amp;qualifiedDividend=100">here</a> for a link to this page with all the parameters filled out.</p>';
 
-print '<p><a href="/worker.php?worker='.urlencode($worker).'">Back to worker page</a>'."\n";
+print '<p>You may want to double-check tax calculations against an online tax calculator such as <a href="https://turbotax.intuit.com/tax-tools/calculators/taxcaster/">TurboTax</a>.</p>';
+
+print '<p><a href="/worker.php?worker='.urlencode($worker).'">Back to worker page</a>'."</p>\n";
 
 print "<ul>\n";
 foreach(array_reverse($yearList) as $year) {
@@ -205,6 +207,6 @@ foreach(array_reverse($yearList) as $year) {
       print "<p>Now follow the instructions to fill in the rest of the form. Depending on which of lines ".$totalTaxLineNumber[$year]." and line ".$totalPaymentsLineNumber[$year]." is bigger, you are either owed a refund or need to make a payment. If you are owed a refund, you can either ask for it right away or have it apply to next year's taxes. If you owe money, there is a possibility that you may also need to pay an estimated tax penalty, but if you aren't sure how to calculate this penalty, you can leave it blank and let the IRS reach out to you if they need you to pay a penalty.</p>";
     }
     print "<p>If you are using a tax compliance software instead of filling the forms yourself, then check if it gives you an option to add in income for self-employment or contract work. Some softwares may not allow you to enter the numbers directly. To get around this problem, you may need to enter it in as if it is a Form 1099-MISC, even though you will not receive a Form 1099-MISC. That is because Vipul Naik is paying you personally rather than in the course of a trade or business, but tax compliance softwares may not have personal payments as a prominent enough use case to cover.</p>";
-    }
+  }
 }
 ?>
