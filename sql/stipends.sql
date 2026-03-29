@@ -142,7 +142,10 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',10.12,'2025-07-01','2025-07-31','2025-07-31','Rate of $11.50/hour effective June 2025; this included work on Org Watch, contract work meta, and Wikidossier debugging.',0.88,50),
   ('Issa Rice',171.92,'2025-08-01','2025-08-31','2025-08-31','Rate of $11.50/hour effective June 2025; this included work on the donations list website, contract work portal, and Timelines wiki (a bunch of server and devops work).',14.95,50),
   ('Issa Rice',24.49,'2025-09-01','2025-09-30','2025-09-30','Rate of $11.50/hour effective June 2025; this included work on Org Watch, contract work meta, and Timelines wiki (main page table update and fixes to the update script).',2.13,50),
-  ('Issa Rice',0.23,'2025-10-01','2025-10-31','2025-10-31','Rate of $11.50/hour effective June 2025; all the work done was on Org Watch.',0.02,50);
+  ('Issa Rice',0.23,'2025-10-01','2025-10-31','2025-10-31','Rate of $11.50/hour effective June 2025; all the work done was on Org Watch.',0.02,50),
+  ('Issa Rice',82,'2025-11-01','2025-11-30','2025-11-30','Rate of $11.50/hour effective June 2025; this included work on Vipul''s Slack self-chat logs, Org Watch, contract work meta, and Timelines wiki (main page table update).',7.13,50),
+  ('Issa Rice',3.80,'2025-12-01','2025-12-31','2025-12-31','Rate of $11.50/hour effective June 2025; this included work on Org Watch and Timelines wiki (main page table update and fixes to the update script).',0.33,50),
+  ('Issa Rice',19.55,'2026-01-01','2026-01-31','2026-01-31','Rate of $11.50/hour effective June 2025; this included generic work on Timelines wiki and contract work meta.',1.7,50);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',null,null),

@@ -1346,7 +1346,12 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   /* Tasks added for September 2025 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-09-28',0.84,'Organizational structures and dynamics','N/A','Spent 4 minutes at $12/hour assisting Sebastian. Work done 2025-09-05 to 2025-09-28.',4),
   /* Tasks added for October 2025 */
-  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-10-15',0.24,'Organizational structures and dynamics','N/A','Spent 1 minute at $12/hour assisting Sebastian. Work done 2025-10-15.',1);
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-10-15',0.24,'Organizational structures and dynamics','N/A','Spent 1 minute at $12/hour assisting Sebastian. Work done 2025-10-15.',1),
+  /* Tasks added for November 2025 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-11-01',0.36,'Organizational structures and dynamics','N/A','Spent 2 minutes at $12/hour assisting Sebastian. Work done 2025-11-01.',2),
+  ('Issa Rice','None','Coding','Implementation of a general sequences framework to extract useful insights from Slack self-chat logs','N/A','2025-11-23',80,'Vipul Slack self-chat logs processing','Code','Spent 6 hours 24 minutes at $12.50/hour. Work done 2025-11-22 and 2025-11-23 with a time limit of 8 hours.',384),
+  /* Tasks added for December 2025 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2025-12-31',0.36,'Organizational structures and dynamics','N/A','Spent 2 minutes at $12/hour assisting Sebastian. Work done 2025-12-31.',2);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
