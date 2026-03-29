@@ -26,9 +26,9 @@ Total money earned as income (taxable as income for 2026): $19.55
 
 Payment made: $0
 
-Carryover payment due from 2025: $166.52
+Carryover payment due from 2025: $716.52
 
-Net payment due: $186.07
+Net payment due: $736.07
 
 === Stipends ===
 
@@ -42,13 +42,13 @@ NOTE: The rate is $11.50/hour.
 
 == Work and other compensation in 2025 ==
 
-Total money earned as income (taxable as income for 2025): $920.46
+Total money earned as income (taxable as income for 2025): $1470.46
 
 Payment made: $1150.88
 
 Carryover payment due from 2024: $396.94
 
-Net payment due: $166.52
+Net payment due: $716.52
 
 === Org Watch ===
 
@@ -121,6 +121,12 @@ Total so far: $209.24
 * Debugging new_claude_sleep.py and adding more validations based on findings: $13.44. Spent 1 hour 7 minutes at $12/hour. Work done 2025-05-06 with a time limit of 2 hours.
 
 * Implementation of a general sequences framework to extract useful insights from Slack self-chat logs: $80. Spent 6 hours 24 minutes at $12.50/hour. Work done 2025-11-22 and 2025-11-23 with a time limit of 8 hours.
+
+=== Timelines wiki ===
+
+Total so far: $550
+
+* Year-round work on Timelines wiki hosting and maintenance and feature enhancement: $550. The total payment of $550 breaks down as follows: $250 on hosting (excluding the actual hosting cost which is reimbursed separately) and $300 on a combination of main page table updates through the year, improvements to the main page table update script, and upgrades to MediaWiki and various softwares it depends on.
 
 === Stipends ===
 
