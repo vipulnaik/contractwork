@@ -183,6 +183,9 @@ insert into payments(payment_method, payee, intermediary, sent_date, payment_not
   ('PayPal','Issa Rice',null,'2025-05-22','2025-05-22','2025-05-22','2025-05-22',444.45,444.45,0,444.45,'This covers the money earned by Issa between January 2025 and April 2025. Since the amount due was over $300, we decided to clear it via PayPal.'),
   ('PayPal','Issa Rice',null,'2025-11-15','2025-11-15','2025-11-15','2025-11-15',309.49,309.49,0,309.49,'This covers the money earned by Issa between May 2025 and October 2025. Since the amount due was over $300, we decided to clear it via PayPal.'),
 
+  /* Payment for work done across 2025 and 2026, sent in 2026 */
+  ('PayPal','Issa Rice',null,'2026-04-12','2026-04-12','2026-04-12','2026-04-12',736.07,736.07,0,736.07,'This covers the money earned over the period of November 2025 to February 2026, including a nonzero contribution from January 2026. Since the amount due was over $300, we decided to clear it via PayPal. The reason for not clearing it earlier was a data entry backlog on my (Vipul''s) part.'),
+
   /* Payment sent in 2021 for 2020 work by Amana Rice */
   ('PayPal','Amana Rice',null,'2021-01-03','2021-01-03','2021-01-03','2021-01-03',270.72,270.72,0,270.72,null),
 

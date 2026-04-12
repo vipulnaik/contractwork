@@ -24,11 +24,11 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Issa
 
 Total money earned as income (taxable as income for 2026): $19.55
 
-Payment made: $0
+Payment made: $736.07
 
 Carryover payment due from 2025: $716.52
 
-Net payment due: $736.07
+Net payment due: $0
 
 === Stipends ===
 
@@ -39,6 +39,12 @@ NOTE: The rate is $11.50/hour.
 * January: $19.55. 1.7 hours at $11.50/hour. This included generic work on Timelines wiki and contract work meta.
 
 * February: no work was logged!
+
+=== Payments made ===
+
+Total so far: $736.07
+
+* $736.07 via PayPal on April 12
 
 == Work and other compensation in 2025 ==
 
