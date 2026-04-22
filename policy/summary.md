@@ -172,6 +172,20 @@ spend the majority of his time working on contract work for Vipul
 Naik. Starting September 2025, these funds are being spent slowly to
 work on the AI-related timelines.
 
+Here are a few key points describing the revised structure being
+followed for the revival starting September 2025:
+
+* The stipend is now $5.25/hour, matching the new stipend rate for
+  Vipul Naik. The original stipend was $4/hour.
+
+* The funding covers work on AI-related timelines, including those of
+  the form `"Timeline of AI in <domain>`". Previously, a more diverse
+  mix of timelines was supported.
+
+* The multiplier being used for payments is 1.5 across all these
+  timelines. Previously, different multipliers were used for different
+  timelines.
+
 ## Other support for the work of Sebastian Sanchez
 
 ### Org Watch
