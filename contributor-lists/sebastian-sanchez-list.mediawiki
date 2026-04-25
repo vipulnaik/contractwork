@@ -18,17 +18,19 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2025==
 
-Total money earned as income: $8507.25 ($8481 for Vipul Naik, $26.25 for Future Fund Regranting Program)
+Data entered till November 2025; December 2025 is pending.
+
+Total money earned as income: $10516.25 ($10411.25 for Vipul Naik, $105 for Future Fund Regranting Program)
 
 Forward balance carried over from 2024: ($6873.45) (all for Vipul Naik)
 
 Payment made: $16048.53 ($8548.53 from Vipul Naik, $7500 from Future Fund Regranting Program)
 
-Net payment due: ($14414.73)
+Net payment due: ($12405.73) (($5010.73) for Vipul Naik, ($7395) for Future Fund Regranting Program)
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
-Total so far: $2350
+Total so far: $2770
 
 * [https://timelines.issarice.com/wiki/Timeline_of_mRNA_research Timeline of mRNA research]: $350. Completed January 9, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_mRNA_research&oldid=83561 (2025-01-09 18:32 UTC, 110483 bytes, 9 sample questions, 4 rows in big picture, 4 visual data charts (2 of them having accompanying tables), 105 rows in full timeline)
 
@@ -44,15 +46,11 @@ Total so far: $2350
 
 * [https://timelines.issarice.com/wiki/Timeline_of_the_rationalist_movement Timeline of the rationalist movement]: $300. Completed May 15, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_the_rationalist_movement&oldid=85406 (2025-05-16 04:34 UTC, 125384 bytes, 7 sample questions + 1 roundup, 3 rows in big picture, 8 rows in summary by century, 77 rows in full timeline, 3 visual data charts)
 
-===Tentative pending payments===
-
-Total so far: $420
-
-* (accepted) [https://timelines.issarice.com/wiki/Timeline_of_model_organisms Timeline of model organisms]: $420. Completed November 26, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_model_organisms&oldid=88176 (2025-11-26 10:23 UTC, 142588 bytes, 7 sample questions, 4 rows in big picture, 10 rows in overview of principal model organisms, 77 rows in full timeline, 3 visual data charts)
+* [https://timelines.issarice.com/wiki/Timeline_of_model_organisms Timeline of model organisms]: $420. Completed November 26, 2025. Completed version at https://timelines.issarice.com/index.php?title=Timeline_of_model_organisms&oldid=88176 (2025-11-26 10:23 UTC, 142588 bytes, 7 sample questions, 4 rows in big picture, 10 rows in overview of principal model organisms, 77 rows in full timeline, 3 visual data charts)
 
 ===Org Watch===
 
-Total so far: $2144.75
+Total so far: $2610.25
 
 NOTE: Until May 2025, the rate was $9/hour for the first 25 hours in a month and $5/hour for additional hours. Starting June 2025, the rate was $9.50/hour for the first 25 hours in a month and $5.25/hour for additional hours.
 
@@ -72,11 +70,15 @@ NOTE: Until May 2025, the rate was $9/hour for the first 25 hours in a month and
 
 * August: $19. 2 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-08-01&until=2025-08-31 for more details. The first commit for the month was on 2025-08-04 and the last commit for the month was on 2025-08-15.
 
-* September: $279.50. 33 hours, with the first 25 hours at $9.50/hour and the next 8 hours at $5.25/hour. See http://github.com/riceissa/aiwatch/commits/sebastian?since=2025-09-01&until=2025-09-30 for more details. The first commit for the month was on 2025-09-04 and the last commit for the month was on 2025-09-27.
+* September: $279.50. 33 hours, with the first 25 hours at $9.50/hour and the next 8 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-09-01&until=2025-09-30 for more details. The first commit for the month was on 2025-09-04 and the last commit for the month was on 2025-09-27.
+
+* October: $237.50. 25 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-10-01&until=2025-10-31 for more details. The first commit for the month was on 2025-10-08 and the last commit for the month was on 2025-10-31.
+
+* November: $228. 24 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-11-01&until=2025-11-30 for more details. The first commit for the month was on 2025-11-17 and the last commit for the month was on 2025-11-29.
 
 ===Stipends for Vipul Naik===
 
-Total so far: $3986.25
+Total so far: $5031
 
 NOTE: The payment rate was $5/hour till May 2025 and increased to $5.25/hour starting June 2025.
 
@@ -98,13 +100,21 @@ NOTE: The payment rate was $5/hour till May 2025 and increased to $5.25/hour sta
 
 * September: $498.75. The payment is at $5.25/hour for all 95 hours worked for Vipul Naik. Total time spent was as follows: 62 hours on Timelines wiki and 33 hours on Org Watch.
 
+* October: $525. The payment is at $5.25/hour for 100 hours out of 119 hours worked for Vipul Naik. Total time spent was as follows: 94 hours on Timelines wiki (of which 75 hours is eligible for stipend and 19 hours counts as overage) and 25 hours on Org Watch.
+
+* November: $519.75. The payment is at $5.25/hour for 99 hours, including 89 hours worked for Vipul Naik and 10 hours of overage from October. Total time spent was as follows: 65 hours on Timelines wiki and 24 hours on Org Watch. The overage from October was 19 hours, so with 10 hours being used, the residual overage is 9 hours.
+
 ===Stipends for Future Fund Regranting Program===
 
 NOTE: The payment rate is $5.25/hour. While the previous stipend was $4/hour, at revival we are planning to use a stipend rate that is competitive with the stipend rate offered by Vipul.
 
-Total so far: $26.25
+Total so far: $105
 
 * September: $26.25. The payment is at $5.25/hour for 5 hours worked on Timelines wiki.
+
+* October: No time.
+
+* November: $78.75. The payment is at $5.25/hour for 15 hours worked on Timelines wiki.
 
 ===Payments made by Vipul Naik===
 
