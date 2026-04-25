@@ -29,6 +29,12 @@ changes drafted on May 27, 2025 in [PR
   for a full 75 hours that month. His overage for future months is
   reduced to 30 - 10 = 20 hours.
 
+  NOTE: In case of a rate increase over time (as happens every few
+  years for inflation and cost-of-living adjustment), overages from
+  previous months are to be paid out at the rate of the original month
+  they were accrued in, rather than the month the overage is applied
+  to.
+
 * Within that hourly cap, there is some [priority
   work](https://timelines.issarice.com/wiki/User:Sebastian#Priority_work_from_Vipul)
   with target dates of completion, and beyond that Sebastian has
@@ -212,6 +218,11 @@ hours can use up hours from the overage. This process works similarly
 to the overage process from Sebastian, just using 50 hours and 150
 hours instead of 75 hours and 225 hours. See the example for
 Sebastian's overages earlier in the document for reference.
+
+NOTE: In case of a rate increase over time (as happens every few years
+for inflation and cost-of-living adjustment), overages from previous
+months are to be paid out at the rate of the original month they were
+accrued in, rather than the month the overage is applied to.
 
 The rates for all projects already present in the table below prior to
 June 2025 were increased by approximately 5% starting June 2025. The
