@@ -143,7 +143,7 @@ coordinated. The amount should be enough to support at least two
 months and not more than six months of contract work at current
 rates. As of 2023, the payment method is Bitcoin.
 
-## (Ended) Future Fund Regranting Program work by Sebastian Sanchez
+## Future Fund Regranting Program work by Sebastian Sanchez
 
 The Future Fund Regranting Program funded some work by Sebastian
 Sanchez. With FTX declaring bankruptcy in November 2022, the payments
@@ -161,6 +161,30 @@ funding multipliers used for the Future Fund Regranting Program. This
 includes payment for completed timelines where the work was started
 before 2024-04-22, even though the stipend portion of the payment for
 these has been covered by the Future Fund Regranting Program funds.
+
+In 2025, Sebastian received $7,500 in funds that had been lost in the
+FTX portal at the timee of FTX collapse, as part of the FTX settlement
+process. The process was fully closed out at this time, so there was
+no further risk of FTX clawbacks. After some discussion, we decided to
+use this money to fund AI-related timelines (including those of the
+form `"Timeline of AI in <domain>`") while Sebastian would continue to
+spend the majority of his time working on contract work for Vipul
+Naik. Starting September 2025, these funds are being spent slowly to
+work on the AI-related timelines.
+
+Here are a few key points describing the revised structure being
+followed for the revival starting September 2025:
+
+* The stipend is now $5.25/hour, matching the new stipend rate for
+  Vipul Naik. The original stipend was $4/hour.
+
+* The funding covers work on AI-related timelines, including those of
+  the form `"Timeline of AI in <domain>`". Previously, a more diverse
+  mix of timelines was supported.
+
+* The multiplier being used for payments is 1.5 across all these
+  timelines. Previously, different multipliers were used for different
+  timelines.
 
 ## Other support for the work of Sebastian Sanchez
 

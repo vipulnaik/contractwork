@@ -278,8 +278,9 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',80,'2024-01-01','2024-01-31','2024-01-31','The payment is at $4/hour for 20 hours worked on Timelines wiki.',20,'Future Fund Regranting Program'),
   ('Sebastian Sanchez',164,'2024-02-01','2024-02-29','2024-02-29','The payment is at $4/hour for 41 hours worked on Timelines wiki.',41,'Future Fund Regranting Program'),
   ('Sebastian Sanchez',96,'2024-03-01','2024-03-31','2024-03-31','The payment is at $4/hour for 24 hours worked on Timelines wiki.',24,'Future Fund Regranting Program'),
-  ('Sebastian Sanchez',92,'2024-04-01','2024-04-22','2024-04-22','The payment is at $4/hour for 23 hours worked on Timelines wiki.',23,'Future Fund Regranting Program');
-  /* No more entries here as the Future Fund Regranting Program payouts were stopped and funds returned to FTX debtors */
+  ('Sebastian Sanchez',92,'2024-04-01','2024-04-22','2024-04-22','The payment is at $4/hour for 23 hours worked on Timelines wiki.',23,'Future Fund Regranting Program'),
+  /* Gap in Future Fund Regranting Program entries during clawback, with resumption after $7500 was refunded */
+  ('Sebastian Sanchez',26.25,'2025-09-01','2025-09-30','2025-09-30','The payment is at $5.25/hour for 5 hours worked on Timelines wiki.',5,'Future Fund Regranting Program');
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Amana Rice',120.32,'2020-12-01','2020-12-31','2020-12-31','30.08 hours at $4/hour',30.08);
