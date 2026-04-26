@@ -18,15 +18,15 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2025==
 
-Data entered till November 2025; December 2025 is pending.
-
-Total money earned as income: $10516.25 ($10411.25 for Vipul Naik, $105 for Future Fund Regranting Program)
+Total money earned as income: $11352.25 ($11236.75 for Vipul Naik, $115.50 for Future Fund Regranting Program)
 
 Forward balance carried over from 2024: ($6873.45) (all for Vipul Naik)
 
 Payment made: $16048.53 ($8548.53 from Vipul Naik, $7500 from Future Fund Regranting Program)
 
-Net payment due: ($12405.73) (($5010.73) for Vipul Naik, ($7395) for Future Fund Regranting Program)
+Net payment due: ($11569.73) (($4185.23) for Vipul Naik, ($7384.50) for Future Fund Regranting Program)
+
+Timelines wiki hours overage carried forward: 7 hours
 
 ===New timelines (Timelines wiki) for Vipul Naik===
 
@@ -50,7 +50,7 @@ Total so far: $2770
 
 ===Org Watch===
 
-Total so far: $2610.25
+Total so far: $2879.25
 
 NOTE: Until May 2025, the rate was $9/hour for the first 25 hours in a month and $5/hour for additional hours. Starting June 2025, the rate was $9.50/hour for the first 25 hours in a month and $5.25/hour for additional hours.
 
@@ -76,9 +76,11 @@ NOTE: Until May 2025, the rate was $9/hour for the first 25 hours in a month and
 
 * November: $228. 24 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-11-01&until=2025-11-30 for more details. The first commit for the month was on 2025-11-17 and the last commit for the month was on 2025-11-29.
 
+* December: $269. 31 hours, with the first 25 hours at $9.50/hour and the next 6 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-12-01&until=2025-12-31 for more details. The first commit for the month was on 2025-12-01 and the last commit for the month was on 2025-12-31.
+
 ===Stipends for Vipul Naik===
 
-Total so far: $5031
+Total so far: $5587.50
 
 NOTE: The payment rate was $5/hour till May 2025 and increased to $5.25/hour starting June 2025.
 
@@ -102,19 +104,23 @@ NOTE: The payment rate was $5/hour till May 2025 and increased to $5.25/hour sta
 
 * October: $525. The payment is at $5.25/hour for 100 hours out of 119 hours worked for Vipul Naik. Total time spent was as follows: 94 hours on Timelines wiki (of which 75 hours is eligible for stipend and 19 hours counts as overage) and 25 hours on Org Watch.
 
-* November: $519.75. The payment is at $5.25/hour for 99 hours, including 89 hours worked for Vipul Naik and 10 hours of overage from October. Total time spent was as follows: 65 hours on Timelines wiki and 24 hours on Org Watch. The overage from October was 19 hours, so with 10 hours being used, the residual overage is 9 hours.
+* November: $519.75. The payment is at $5.25/hour for 99 hours, including 89 hours worked for Vipul Naik and 10 hours of overage from October. Total time spent was as follows: 65 hours on Timelines wiki and 24 hours on Org Watch. The overage from October was 19 hours, and only 75 - 65 = 10 hours could be used this month, so the residual overage is 19 - 10 = 9 hours.
+
+* December: $556.50. The payment is at $5.25/hour for 106 hours, including 104 hours worked for Vipul Naik and 2 hours of overage carried over through November (originally created in October). Total time spent was as follows: 73 hours on Timelines wiki and 31 hours on Org Watch. The residual overage carried through from November was 9 hours, and only 75 - 73 = 2 hours could be used this month, so the residual overage is 9 - 2 = 7 hours.
 
 ===Stipends for Future Fund Regranting Program===
 
 NOTE: The payment rate is $5.25/hour. While the previous stipend was $4/hour, at revival we are planning to use a stipend rate that is competitive with the stipend rate offered by Vipul.
 
-Total so far: $105
+Total so far: $115.50
 
 * September: $26.25. The payment is at $5.25/hour for 5 hours worked on Timelines wiki.
 
 * October: No time.
 
 * November: $78.75. The payment is at $5.25/hour for 15 hours worked on Timelines wiki.
+
+* December: $10.50. The payment is at $5.25/hour for 2 hours worked on Timelines wiki.
 
 ===Payments made by Vipul Naik===
 
