@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2026==
 
-Total money earned as income: $657.25 (all for Vipul Naik)
+Total money earned as income: $657.25 ($631 for Vipul Naik, $26.25 for Future Fund Regranting Program)
 
 Forward balance carried over from 2025: ($11569.73) (($4185.23) for Vipul Naik, ($7384.50) for Future Fund Regranting Program)
 
 Payment made: $0
 
-Net payment due: ($10912.48) (($3527.98) for Vipul Naik, ($7384.50) for Future Fund Regranting Program)
+Net payment due: ($10912.48) (($3554.23) for Vipul Naik, ($7358.25) for Future Fund Regranting Program)
 
 Timelines wiki hours overage from 2025: 7 hours
 
@@ -40,11 +40,19 @@ The rate is $9.50/hour for the first 25 hours in a month and $5.25/hour for addi
 
 ===Stipends for Vipul Naik===
 
-Total so far: $467.25
+Total so far: $441
 
 The payment rate is $5.25/hour.
 
-* January: $467.25. The payment is at $5.25/hour for 89 hours, including 82 hours worked and 7 hours of overage from previous months. Total time spent was as follows: 62 hours on Timelines wiki and 20 hours on Org Watch. Since the overage of 7 hours was less than the residual budget for timelines of 75 - 62 = 13 hours, all of the overage was applied.
+* January: $441. The payment is at $5.25/hour for 84 hours, including 77 hours worked and 7 hours of overage from previous months. Total time spent was as follows: 57 hours on Timelines wiki and 20 hours on Org Watch. Since the overage of 7 hours was less than the residual budget for timelines of 75 - 57 = 18 hours, all of the overage was applied.
+
+===Stipends for Future Fund Regranting Program===
+
+Total so far: $26.25
+
+The payment rate is $5.25/hour.
+
+* January: $26.25. The payment is at $5.25/hour for 5 hours worked on Timelines wiki.
 
 ==Work in 2025==
 

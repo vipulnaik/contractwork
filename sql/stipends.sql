@@ -257,7 +257,7 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',525,'2025-10-01','2025-10-31','2025-10-31','The payment is at $5.25/hour for 100 hours out of 119 hours worked for Vipul Naik. Total time spent was as follows: 94 hours on Timelines wiki (of which 75 hours is eligible for stipend and 19 hours counts as overage) and 25 hours on Org Watch.',119),
   ('Sebastian Sanchez',519.75,'2025-11-01','2025-11-30','2025-11-30','The payment is at $5.25/hour for 99 hours, including 89 hours worked for Vipul Naik and 10 hours of overage from October. Total time spent was as follows: 65 hours on Timelines wiki and 24 hours on Org Watch. The overage from October was 19 hours, and only 75 - 65 = 10 hours could be used this month, so the residual overage is 19 - 10 = 9 hours.',89),
   ('Sebastian Sanchez',556.50,'2025-12-01','2025-12-31','2025-12-31','The payment is at $5.25/hour for 106 hours, including 104 hours worked for Vipul Naik and 2 hours of overage carried over through November (originally created in October). Total time spent was as follows: 73 hours on Timelines wiki and 31 hours on Org Watch. The residual overage carried through from November was 9 hours, and only 75 - 73 = 2 hours could be used this month, so the residual overage is 9 - 2 = 7 hours.',104),
-  ('Sebastian Sanchez',467.25,'2026-01-01','2026-01-31','2026-01-31','The payment is at $5.25/hour for 89 hours, including 82 hours worked and 7 hours of overage from previous months. Total time spent was as follows: 62 hours on Timelines wiki and 20 hours on Org Watch. Since the overage of 7 hours was less than the residual budget for timelines of 75 - 62 = 13 hours, all of the overage was applied.',82);
+  ('Sebastian Sanchez',441,'2026-01-01','2026-01-31','2026-01-31','The payment is at $5.25/hour for 84 hours, including 77 hours worked and 7 hours of overage from previous months. Total time spent was as follows: 57 hours on Timelines wiki and 20 hours on Org Watch. Since the overage of 7 hours was less than the residual budget for timelines of 75 - 57 = 18 hours, all of the overage was applied.',77);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, payer) values
   ('Sebastian Sanchez',120,'2022-06-01','2022-06-30','2022-06-30','The payment is at $4/hour for all 30 hours worked on Timelines wiki.',30,'Future Fund Regranting Program'),
@@ -286,7 +286,8 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   /* Gap in Future Fund Regranting Program entries during clawback, with resumption after $7500 was refunded */
   ('Sebastian Sanchez',26.25,'2025-09-01','2025-09-30','2025-09-30','The payment is at $5.25/hour for 5 hours worked on Timelines wiki.',5,'Future Fund Regranting Program'),
   ('Sebastian Sanchez',78.75,'2025-11-01','2025-11-30','2025-11-30','The payment is at $5.25/hour for 15 hours worked on Timelines wiki.',15,'Future Fund Regranting Program'),
-  ('Sebastian Sanchez',10.50,'2025-12-01','2025-12-31','2025-12-31','The payment is at $5.25/hour for 2 hours worked on Timelines wiki.',2,'Future Fund Regranting Program');
+  ('Sebastian Sanchez',10.50,'2025-12-01','2025-12-31','2025-12-31','The payment is at $5.25/hour for 2 hours worked on Timelines wiki.',2,'Future Fund Regranting Program'),
+  ('Sebastian Sanchez',26.25,'2026-01-01','2026-01-31','2026-01-31','The payment is at $5.25/hour for 5 hours worked on Timelines wiki.',5,'Future Fund Regranting Program');
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Amana Rice',120.32,'2020-12-01','2020-12-31','2020-12-31','30.08 hours at $4/hour',30.08);
