@@ -18,13 +18,13 @@ For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Seba
 
 ==Work in 2026==
 
-Total money earned as income: $657.25 ($631 for Vipul Naik, $26.25 for Future Fund Regranting Program)
+Total money earned as income: $1440.75 ($1367.25 for Vipul Naik, $73.50 for Future Fund Regranting Program)
 
 Forward balance carried over from 2025: ($11569.73) (($4185.23) for Vipul Naik, ($7384.50) for Future Fund Regranting Program)
 
 Payment made: $0
 
-Net payment due: ($10912.48) (($3554.23) for Vipul Naik, ($7358.25) for Future Fund Regranting Program)
+Net payment due: ($10128.98) (($2817.98) for Vipul Naik, ($7311) for Future Fund Regranting Program)
 
 Timelines wiki hours overage from 2025: 7 hours
 
@@ -32,27 +32,33 @@ Timelines wiki hours overage remaining: 0 hours
 
 ===Org Watch===
 
-Total so far: $190
+Total so far: $453.75
 
 The rate is $9.50/hour for the first 25 hours in a month and $5.25/hour for additional hours.
 
 * January: $190. 20 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-01-01&until=2026-01-31 for more details. The first commit for the month was on 2026-01-21 and the last commit for the month was on 2026-01-31.
 
+* February: $263.75. 30 hours, with the first 25 hours at $9.50/hour and the next 5 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-02-01&until=2026-02-28 for more details. The first commit for the month was on 2026-02-04 and the last commit for the month was on 2026-02-24.
+
 ===Stipends for Vipul Naik===
 
-Total so far: $441
+Total so far: $913.50
 
 The payment rate is $5.25/hour.
 
 * January: $441. The payment is at $5.25/hour for 84 hours, including 77 hours worked and 7 hours of overage from previous months. Total time spent was as follows: 57 hours on Timelines wiki and 20 hours on Org Watch. Since the overage of 7 hours was less than the residual budget for timelines of 75 - 57 = 18 hours, all of the overage was applied.
 
+* February: $472.50. The payment is at $5.25/hour for 90 hours worked. Total time spent was as follows: 60 hours on Timelines wiki and 30 hours on Org Watch.
+
 ===Stipends for Future Fund Regranting Program===
 
-Total so far: $26.25
+Total so far: $73.50
 
 The payment rate is $5.25/hour.
 
 * January: $26.25. The payment is at $5.25/hour for 5 hours worked on Timelines wiki.
+
+* February: $47.25. The payment is at $5.25/hour for 9 hours worked on Timelines wiki.
 
 ==Work in 2025==
 
