@@ -38,7 +38,7 @@ The rate is $9.50/hour for the first 25 hours in a month and $5.25/hour for addi
 
 * January: $190. 20 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-01-01&until=2026-01-31 for more details. The first commit for the month was on 2026-01-21 and the last commit for the month was on 2026-01-31.
 
-* February: $263.75. 30 hours, with the first 25 hours at $9.50/hour and the next 5 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-02-01&until=2026-02-28 for more details. The first commit for the month was on 2026-02-04 and the last commit for the month was on 2026-02-24.
+* February: $263.75. 30 hours, with the first 25 hours at $9.50/hour and the next 5 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-02-01&until=2026-02-28 for more details. The first commit for the month was on 2026-02-04 and the last commit for the month was on 2026-02-27.
 
 ===Stipends for Vipul Naik===
 
