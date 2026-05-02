@@ -16,6 +16,36 @@ Additional notes: Based in Argentina
 
 For in-depth stats see https://contractwork.vipulnaik.com/worker.php?worker=Sebastian+Sanchez
 
+==Work in 2026==
+
+Total money earned as income: $657.25 (all for Vipul Naik)
+
+Forward balance carried over from 2025: ($11569.73) (($4185.23) for Vipul Naik, ($7384.50) for Future Fund Regranting Program)
+
+Payment made: $0
+
+Net payment due: ($10912.48) (($3527.98) for Vipul Naik, ($7384.50) for Future Fund Regranting Program)
+
+Timelines wiki hours overage from 2025: 7 hours
+
+Timelines wiki hours overage remaining: 0 hours
+
+===Org Watch===
+
+Total so far: $190
+
+The rate is $9.50/hour for the first 25 hours in a month and $5.25/hour for additional hours.
+
+* January: $190. 20 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-01-01&until=2026-01-31 for more details. The first commit for the month was on 2026-01-21 and the last commit for the month was on 2026-01-31.
+
+===Stipends for Vipul Naik===
+
+Total so far: $467.25
+
+The payment rate is $5.25/hour.
+
+* January: $467.25. The payment is at $5.25/hour for 89 hours, including 82 hours worked and 7 hours overage from previous months. Total time spent was as follows: 62 hours on Timelines wiki and 20 hours on Org Watch. Since the overage of 7 hours was less than the residual budget for timelines of 75 - 62 = 13 hours, all of the overage was applied.
+
 ==Work in 2025==
 
 Total money earned as income: $11352.25 ($11236.75 for Vipul Naik, $115.50 for Future Fund Regranting Program)
