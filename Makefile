@@ -42,6 +42,7 @@ read_private:
 .PHONY: verify
 verify:
 	python3 python/payments_verification_queries.py
+	python3 python/tasks_verification_queries.py
 
 .PHONY: fetch_table_sorting
 fetch_table_sorting:

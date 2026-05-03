@@ -102,7 +102,7 @@ Total so far: $2879.25
 
 NOTE: Until May 2025, the rate was $9/hour for the first 25 hours in a month and $5/hour for additional hours. Starting June 2025, the rate was $9.50/hour for the first 25 hours in a month and $5.25/hour for additional hours.
 
-* January: $280. 36 hours, with the first 25 hours at $9/hour and the next 11 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-01-01&until=2025-01-31 for more details. The first commit of the month was on 2025-01-03 and the last commit of the month was on 2025-01-31.
+* January: $280. 36 hours, with the first 25 hours at $9/hour and the next 11 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-01-01&until=2025-01-31 for more details. The first commit for the month was on 2025-01-03 and the last commit for the month was on 2025-01-31.
 
 * February: $230. 26 hours, with the first 25 hours at $9/hour and the next 1 hour at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-02-01&until=2025-02-28 for more details. The first commit for the month was on 2025-02-04 and the last commit for the month was on 2025-02-28.
 
