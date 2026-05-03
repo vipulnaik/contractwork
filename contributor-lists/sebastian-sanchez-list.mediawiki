@@ -22,9 +22,9 @@ Total money earned as income: $3064.25 ($2975 for Vipul Naik, $89.25 for Future 
 
 Forward balance carried over from 2025: ($11569.73) (($4185.23) for Vipul Naik, ($7384.50) for Future Fund Regranting Program)
 
-Payment made: $0
+Payment made: $3936.24
 
-Net payment due: ($8505.48) (($1210.23) for Vipul Naik, ($7295.25) for Future Fund Regranting Program)
+Net payment due: ($12441.72) (($5146.47) for Vipul Naik, ($7295.25) for Future Fund Regranting Program)
 
 Timelines wiki hours overage from 2025: 7 hours
 
@@ -71,6 +71,12 @@ The payment rate is $5.25/hour.
 * March: No work!
 
 * April: $15.75. The payment is at $5.25/hour for 3 hours worked on Timelines wiki.
+
+===Payments made by Vipul Naik===
+
+Total so far: $3936.24
+
+* $3936.24 sent and received Sunday, May 3, 2026. Transaction in Bitcoin for 0.05 BTC (and calculated in terms of USD value at time of transaction of $78724.86 per BTC) with a very small transaction fee of 0.00000441 BTC ($0.35 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/1ba27c103b9b6b50ef22fcda66797d4e36b8d4eacf4deadfb5e26d1309fa1eb2 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously; the transaction of interest is number 24 on the list).
 
 ==Work in 2025==
 
