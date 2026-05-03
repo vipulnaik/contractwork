@@ -36,11 +36,11 @@ Total so far: $785.75
 
 The rate is $9.50/hour for the first 25 hours in a month and $5.25/hour for additional hours.
 
-* January: $190. 20 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-01-01&until=2026-01-31 for more details. The first commit for the month was on 2026-01-21 and the last commit for the month was on 2026-01-31.
+* January: $190. 20 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-01-01&until=2026-01-31 for more details. The first commit of the month was on 2026-01-21 and the last commit of the month was on 2026-01-31.
 
-* February: $263.75. 30 hours, with the first 25 hours at $9.50/hour and the next 5 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-02-01&until=2026-02-28 for more details. The first commit for the month was on 2026-02-04 and the last commit for the month was on 2026-02-27.
+* February: $263.75. 30 hours, with the first 25 hours at $9.50/hour and the next 5 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-02-01&until=2026-02-28 for more details. The first commit of the month was on 2026-02-04 and the last commit of the month was on 2026-02-27.
 
-* March: $332. 43 hours, with the first 25 hours at $9.50/hour and the next 18 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-03-01&until=2026-03-31 for more details. The first commit for the month was on 2026-03-03 and the last commit for the month was on 2026-03-28.
+* March: $332. 43 hours, with the first 25 hours at $9.50/hour and the next 18 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2026-03-01&until=2026-03-31 for more details. The first commit of the month was on 2026-03-03 and the last commit of the month was on 2026-03-28.
 
 ===Stipends for Vipul Naik===
 
@@ -48,11 +48,11 @@ Total so far: $1485.75
 
 The payment rate is $5.25/hour.
 
-* January: $441. The payment is at $5.25/hour for 84 hours, including 77 hours worked and 7 hours of overage from previous months. Total time spent was as follows: 57 hours on Timelines wiki and 20 hours on Org Watch. Since the overage of 7 hours was less than the residual budget for timelines of 75 - 57 = 18 hours, all of the overage was applied.
+* January: $441. The payment is at $5.25/hour for 84 hours, including 77 hours worked and 7 hours of overage from previous months. The distribution of time spent was as follows: 57 hours on Timelines wiki and 20 hours on Org Watch. Since the overage of 7 hours was less than the residual budget for timelines of 75 - 57 = 18 hours, all of the overage was applied.
 
-* February: $472.50. The payment is at $5.25/hour for 90 hours worked. Total time spent was as follows: 60 hours on Timelines wiki and 30 hours on Org Watch.
+* February: $472.50. The payment is at $5.25/hour for 90 hours worked. The distribution of time spent was as follows: 60 hours on Timelines wiki and 30 hours on Org Watch.
 
-* March: $572.25. The payment is at $5.25/hour for 109 hours worked. Total time spent was as follows: 66 hours on Timelines wiki and 43 hours on Org Watch.
+* March: $572.25. The payment is at $5.25/hour for 109 hours worked. The distribution of time spent was as follows: 66 hours on Timelines wiki and 43 hours on Org Watch.
 
 ===Stipends for Future Fund Regranting Program===
 
@@ -102,29 +102,29 @@ Total so far: $2879.25
 
 NOTE: Until May 2025, the rate was $9/hour for the first 25 hours in a month and $5/hour for additional hours. Starting June 2025, the rate was $9.50/hour for the first 25 hours in a month and $5.25/hour for additional hours.
 
-* January: $280. 36 hours, with the first 25 hours at $9/hour and the next 11 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-01-01&until=2025-01-31 for more details. The first commit for the month was on 2025-01-03 and the last commit for the month was on 2025-01-31.
+* January: $280. 36 hours, with the first 25 hours at $9/hour and the next 11 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-01-01&until=2025-01-31 for more details. The first commit of the month was on 2025-01-03 and the last commit of the month was on 2025-01-31.
 
-* February: $230. 26 hours, with the first 25 hours at $9/hour and the next 1 hour at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-02-01&until=2025-02-28 for more details. The first commit for the month was on 2025-02-04 and the last commit for the month was on 2025-02-28.
+* February: $230. 26 hours, with the first 25 hours at $9/hour and the next 1 hour at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-02-01&until=2025-02-28 for more details. The first commit of the month was on 2025-02-04 and the last commit of the month was on 2025-02-28.
 
-* March: $255. 31 hours, with the first 25 hours at $9/hour and the next 6 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-03-01&until=2025-03-31 for more details. The first commit was the month was on 2025-03-01 and the last commit for the month was on 2025-03-31.
+* March: $255. 31 hours, with the first 25 hours at $9/hour and the next 6 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-03-01&until=2025-03-31 for more details. The first commit was the month was on 2025-03-01 and the last commit of the month was on 2025-03-31.
 
-* April: $320. 44 hours, with the first 25 hours at $9/hour and the next 19 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-04-01&until=2025-04-30 for more details. The first commit for the month was on 2025-04-01 and the last commit for the month was on 2025-04-30.
+* April: $320. 44 hours, with the first 25 hours at $9/hour and the next 19 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-04-01&until=2025-04-30 for more details. The first commit of the month was on 2025-04-01 and the last commit of the month was on 2025-04-30.
 
-* May: $260. 32 hours, with the first 25 hours at $9/hour and the next 7 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-05-01&until=2025-05-31 for more details. The first commit for the month was on 2025-05-02 and the last commit for the month was on 2025-05-31.
+* May: $260. 32 hours, with the first 25 hours at $9/hour and the next 7 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-05-01&until=2025-05-31 for more details. The first commit of the month was on 2025-05-02 and the last commit of the month was on 2025-05-31.
 
-* June: $237.50. 25 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-06-01&until=2025-06-30 for more details. The first commit for the month was on 2025-06-06 and the last commit for the month was on 2025-06-30.
+* June: $237.50. 25 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-06-01&until=2025-06-30 for more details. The first commit of the month was on 2025-06-06 and the last commit of the month was on 2025-06-30.
 
-* July: $263.75. 30 hours, with the first 25 hours at $9.50/hour and the next 5 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-07-01&until=2025-07-31 for more details. The first commit for the month was on 2025-07-03 and the last commit for the month was on 2025-07-24.
+* July: $263.75. 30 hours, with the first 25 hours at $9.50/hour and the next 5 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-07-01&until=2025-07-31 for more details. The first commit of the month was on 2025-07-03 and the last commit of the month was on 2025-07-24.
 
-* August: $19. 2 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-08-01&until=2025-08-31 for more details. The first commit for the month was on 2025-08-04 and the last commit for the month was on 2025-08-15.
+* August: $19. 2 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-08-01&until=2025-08-31 for more details. The first commit of the month was on 2025-08-04 and the last commit of the month was on 2025-08-15.
 
-* September: $279.50. 33 hours, with the first 25 hours at $9.50/hour and the next 8 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-09-01&until=2025-09-30 for more details. The first commit for the month was on 2025-09-04 and the last commit for the month was on 2025-09-27.
+* September: $279.50. 33 hours, with the first 25 hours at $9.50/hour and the next 8 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-09-01&until=2025-09-30 for more details. The first commit of the month was on 2025-09-04 and the last commit of the month was on 2025-09-27.
 
-* October: $237.50. 25 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-10-01&until=2025-10-31 for more details. The first commit for the month was on 2025-10-08 and the last commit for the month was on 2025-10-31.
+* October: $237.50. 25 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-10-01&until=2025-10-31 for more details. The first commit of the month was on 2025-10-08 and the last commit of the month was on 2025-10-31.
 
-* November: $228. 24 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-11-01&until=2025-11-30 for more details. The first commit for the month was on 2025-11-17 and the last commit for the month was on 2025-11-29.
+* November: $228. 24 hours at $9.50/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-11-01&until=2025-11-30 for more details. The first commit of the month was on 2025-11-17 and the last commit of the month was on 2025-11-29.
 
-* December: $269. 31 hours, with the first 25 hours at $9.50/hour and the next 6 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-12-01&until=2025-12-31 for more details. The first commit for the month was on 2025-12-01 and the last commit for the month was on 2025-12-31.
+* December: $269. 31 hours, with the first 25 hours at $9.50/hour and the next 6 hours at $5.25/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2025-12-01&until=2025-12-31 for more details. The first commit of the month was on 2025-12-01 and the last commit of the month was on 2025-12-31.
 
 ===Stipends for Vipul Naik===
 
@@ -132,29 +132,29 @@ Total so far: $5587.50
 
 NOTE: The payment rate was $5/hour till May 2025 and increased to $5.25/hour starting June 2025.
 
-* January: $555. The payment is at $5/hour for 111 hours eligible for stipend, out of 114 total hours worked. Total time spent was as follows: 78 hours on Timelines wiki (of which 75 hours is eligible for stipend and 3 hours counts as overage) and 36 hours on Org Watch.
+* January: $555. The payment is at $5/hour for 111 hours eligible for stipend, out of 114 total hours worked. The distribution of time spent was as follows: 78 hours on Timelines wiki (of which 75 hours is eligible for stipend and 3 hours counts as overage) and 36 hours on Org Watch.
 
-* February: $500. The payment is at $5/hour for 97 hours eligible for stipend, plus 3 hours of overage from January. Total time spent was as follows: 71 hours on Timelines wiki and 26 hours on Org Watch. Even with the 3 hours of overage from January, total time on Timelines wiki (71 + 3 = 74 hours) would still be within the threshold of 75 hours, so the entire overage was applied.
+* February: $500. The payment is at $5/hour for 97 hours eligible for stipend, plus 3 hours of overage from January. The distribution of time spent was as follows: 71 hours on Timelines wiki and 26 hours on Org Watch. Even with the 3 hours of overage from January, total time on Timelines wiki (71 + 3 = 74 hours) would still be within the threshold of 75 hours, so the entire overage was applied.
 
-* March: $480. The payment is at $5/hour for all 96 hours worked. Total time spent was as follows: 65 hours on Timelines wiki and 31 hours on Org Watch.
+* March: $480. The payment is at $5/hour for all 96 hours worked. The distribution of time spent was as follows: 65 hours on Timelines wiki and 31 hours on Org Watch.
 
-* April: $570. The payment is at $5/hour for all 114 hours worked. Total time spent was as follows: 70 hours on Timelines wiki and 44 hours on Org Watch.
+* April: $570. The payment is at $5/hour for all 114 hours worked. The distribution of time spent was as follows: 70 hours on Timelines wiki and 44 hours on Org Watch.
 
-* May: $490. The payment is at $5/hour for all 98 hours worked. Total time spent was as follows: 66 hours on Timelines wiki and 32 hours on Org Watch.
+* May: $490. The payment is at $5/hour for all 98 hours worked. The distribution of time spent was as follows: 66 hours on Timelines wiki and 32 hours on Org Watch.
 
-* June: $451.50. The payment is at $5.25/hour for all 86 hours worked. Total time spent was as follows: 61 hours on Timelines wiki and 25 hours on Org Watch.
+* June: $451.50. The payment is at $5.25/hour for all 86 hours worked. The distribution of time spent was as follows: 61 hours on Timelines wiki and 25 hours on Org Watch.
 
-* July: $341.25. The payment is at $5.25/hour for all 65 hours worked. Total time spent was as follows: 35 hours on Timelines wiki and 30 hours on Org Watch.
+* July: $341.25. The payment is at $5.25/hour for all 65 hours worked. The distribution of time spent was as follows: 35 hours on Timelines wiki and 30 hours on Org Watch.
 
-* August: $99.75. The payment is at $5.25/hour for all 19 hours worked. Total time spent was as follows: 17 hours on Timelines wiki and 2 hours on Org Watch.
+* August: $99.75. The payment is at $5.25/hour for all 19 hours worked. The distribution of time spent was as follows: 17 hours on Timelines wiki and 2 hours on Org Watch.
 
-* September: $498.75. The payment is at $5.25/hour for all 95 hours worked for Vipul Naik. Total time spent was as follows: 62 hours on Timelines wiki and 33 hours on Org Watch.
+* September: $498.75. The payment is at $5.25/hour for all 95 hours worked for Vipul Naik. The distribution of time spent was as follows: 62 hours on Timelines wiki and 33 hours on Org Watch.
 
-* October: $525. The payment is at $5.25/hour for 100 hours out of 119 hours worked for Vipul Naik. Total time spent was as follows: 94 hours on Timelines wiki (of which 75 hours is eligible for stipend and 19 hours counts as overage) and 25 hours on Org Watch.
+* October: $525. The payment is at $5.25/hour for 100 hours out of 119 hours worked for Vipul Naik. The distribution of time spent was as follows: 94 hours on Timelines wiki (of which 75 hours is eligible for stipend and 19 hours counts as overage) and 25 hours on Org Watch.
 
-* November: $519.75. The payment is at $5.25/hour for 99 hours, including 89 hours worked for Vipul Naik and 10 hours of overage from October. Total time spent was as follows: 65 hours on Timelines wiki and 24 hours on Org Watch. The overage from October was 19 hours, and only 75 - 65 = 10 hours could be used this month, so the residual overage is 19 - 10 = 9 hours.
+* November: $519.75. The payment is at $5.25/hour for 99 hours, including 89 hours worked for Vipul Naik and 10 hours of overage from October. The distribution of time spent was as follows: 65 hours on Timelines wiki and 24 hours on Org Watch. The overage from October was 19 hours, and only 75 - 65 = 10 hours could be used this month, so the residual overage is 19 - 10 = 9 hours.
 
-* December: $556.50. The payment is at $5.25/hour for 106 hours, including 104 hours worked for Vipul Naik and 2 hours of overage carried over through November (originally created in October). Total time spent was as follows: 73 hours on Timelines wiki and 31 hours on Org Watch. The residual overage carried through from November was 9 hours, and only 75 - 73 = 2 hours could be used this month, so the residual overage is 9 - 2 = 7 hours.
+* December: $556.50. The payment is at $5.25/hour for 106 hours, including 104 hours worked for Vipul Naik and 2 hours of overage carried over through November (originally created in October). The distribution of time spent was as follows: 73 hours on Timelines wiki and 31 hours on Org Watch. The residual overage carried through from November was 9 hours, and only 75 - 73 = 2 hours could be used this month, so the residual overage is 9 - 2 = 7 hours.
 
 ===Stipends for Future Fund Regranting Program===
 
@@ -226,31 +226,31 @@ Total: $790
 
 Total: $3395
 
-* January: $288. 32 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-01-01&until=2024-01-31 for more details. The first commit for the month was on 2024-01-01 and the last commit for the month was on 2024-01-31.
+* January: $288. 32 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-01-01&until=2024-01-31 for more details. The first commit of the month was on 2024-01-01 and the last commit of the month was on 2024-01-31.
 
-* February: $370. 42 hours, with the first 40 hours at $9/hour and the next 2 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-02-01&until=2024-02-29 for more details. The first commit for the month was on 2024-02-01 and the last commit for the month was on 2024-02-29.
+* February: $370. 42 hours, with the first 40 hours at $9/hour and the next 2 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-02-01&until=2024-02-29 for more details. The first commit of the month was on 2024-02-01 and the last commit of the month was on 2024-02-29.
 
-* March: $333. 37 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-03-01&until=2024-03-31 for more details. The first commit for the month was on 2024-03-02 and the last commit for the month was on 2024-03-27.
+* March: $333. 37 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-03-01&until=2024-03-31 for more details. The first commit of the month was on 2024-03-02 and the last commit of the month was on 2024-03-27.
 
-* April: $261. 29 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-04-01&until=2024-04-30 for more details. The first commit for the month was on 2024-04-02 and the last commit for the month was on 2024-04-29.
+* April: $261. 29 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-04-01&until=2024-04-30 for more details. The first commit of the month was on 2024-04-02 and the last commit of the month was on 2024-04-29.
 
-* May: $189. 21 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-05-01&until=2024-05-31 for more details. The first commit for the month was on 2024-05-02 and the last commit for the month was on 2024-05-31.
+* May: $189. 21 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-05-01&until=2024-05-31 for more details. The first commit of the month was on 2024-05-02 and the last commit of the month was on 2024-05-31.
 
-* June: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-06-01&until=2024-06-30 for more details. The first commit for the month was on 2024-06-03 and the last commit for the month was on 2024-06-30.
+* June: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-06-01&until=2024-06-30 for more details. The first commit of the month was on 2024-06-03 and the last commit of the month was on 2024-06-30.
 
-* July: $315. 35 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-07-01&until=2024-07-31 for moet details. The first commit for the month was on 2024-07-02 and the last commit for the month was on 2024-07-28.
+* July: $315. 35 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-07-01&until=2024-07-31 for moet details. The first commit of the month was on 2024-07-02 and the last commit of the month was on 2024-07-28.
 
-* August: $380. 44 hours, with the first 40 hours at $9/hour and the next 4 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-08-01&until=2024-08-31 for more details. The first commit for the month was on 2024-08-02 and the last commit for the month was on 2024-08-31.
+* August: $380. 44 hours, with the first 40 hours at $9/hour and the next 4 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-08-01&until=2024-08-31 for more details. The first commit of the month was on 2024-08-02 and the last commit of the month was on 2024-08-31.
 
 * August (assisting Gabriel): $45. 5 hours at $9/hour assisting Gabriel.
 
-* September: $305. 41 hours, with the first 25 hours at $9/hour and the next 16 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-09-01&until=2024-09-30 for more details. The first commit for the month was on 2024-09-01 and the last commit for the month was on 2024-09-30.
+* September: $305. 41 hours, with the first 25 hours at $9/hour and the next 16 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-09-01&until=2024-09-30 for more details. The first commit of the month was on 2024-09-01 and the last commit of the month was on 2024-09-30.
 
-* October: $315. 43 hours, with the first 25 hours at $9/hour and the next 18 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-10-01&until=2024-10-31 for more details. The first commit for the month was on 2024-10-03 and the last commit for the month was on 2024-10-31.
+* October: $315. 43 hours, with the first 25 hours at $9/hour and the next 18 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-10-01&until=2024-10-31 for more details. The first commit of the month was on 2024-10-03 and the last commit of the month was on 2024-10-31.
 
-* November: $63. 7 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-11-01&until=2024-11-30 for more details. The first commit for the month was on 2024-11-01 and the last commit for the month was on 2024-11-06.
+* November: $63. 7 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-11-01&until=2024-11-30 for more details. The first commit of the month was on 2024-11-01 and the last commit of the month was on 2024-11-06.
 
-* December: $189. 21 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-12-01&until=2024-12-31 for more details. The first commit for the month was on 2024-12-14 and the last commit for the month was on 2024-12-31.
+* December: $189. 21 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2024-12-01&until=2024-12-31 for more details. The first commit of the month was on 2024-12-14 and the last commit of the month was on 2024-12-31.
 
 ===Stipends for Vipul Naik===
 
@@ -258,29 +258,29 @@ Total: $5395
 
 The rule of thumb for stipend is: $5/hour
 
-* January: $465. The payment is at $5/hour for all 93 hours worked. Total time spent was as follows: 60 hours on Timelines wiki, 32 hours on Org Watch, and 1 hour on tech learning (git self-study).
+* January: $465. The payment is at $5/hour for all 93 hours worked. The distribution of time spent was as follows: 60 hours on Timelines wiki, 32 hours on Org Watch, and 1 hour on tech learning (git self-study).
 
-* February: $370. The payment is at $5/hour for all 74 hours worked. Total time spent was as follows: 32 hours on Timelines wiki and 42 hours on Org Watch.
+* February: $370. The payment is at $5/hour for all 74 hours worked. The distribution of time spent was as follows: 32 hours on Timelines wiki and 42 hours on Org Watch.
 
-* March: $395. The payment is at $5/hour for all 79 hours worked. Total time spent was as follows: 42 hours on Timelines wiki and 37 hours on Org Watch.
+* March: $395. The payment is at $5/hour for all 79 hours worked. The distribution of time spent was as follows: 42 hours on Timelines wiki and 37 hours on Org Watch.
 
-* April: $240. The payment is at $5/hour for all 48 hours worked. Total time spent was as follows: 19 hours on Timelines wiki and 29 hours on Org Watch.
+* April: $240. The payment is at $5/hour for all 48 hours worked. The distribution of time spent was as follows: 19 hours on Timelines wiki and 29 hours on Org Watch.
 
-* May: $365. The payment is at $5/hour for all 73 hours worked. Total time spent was as follows: 52 hours on Timelines wiki and 21 hours on Org Watch.
+* May: $365. The payment is at $5/hour for all 73 hours worked. The distribution of time spent was as follows: 52 hours on Timelines wiki and 21 hours on Org Watch.
 
-* June: $515. The payment is at $5/hour for all 103 hours worked. Total time spent was as follows: 65 hours on Timelines wiki and 38 hours on Org Watch.
+* June: $515. The payment is at $5/hour for all 103 hours worked. The distribution of time spent was as follows: 65 hours on Timelines wiki and 38 hours on Org Watch.
 
-* July: $550. The payment is at $5/hour for 110 hours eligible for stipend, out of 137 total hours worked. Total time spent was as follows: 102 hours on Timelines wiki (of which 75 hours is eligible for stipend and 27 hours counts as overage) and 35 hours on Org Watch.
+* July: $550. The payment is at $5/hour for 110 hours eligible for stipend, out of 137 total hours worked. The distribution of time spent was as follows: 102 hours on Timelines wiki (of which 75 hours is eligible for stipend and 27 hours counts as overage) and 35 hours on Org Watch.
 
-* August: $630. The payment is at $5/hour for 126 hours eligible for stipend, out of 158 total hours worked. Total time spent was as follows: 107 hours on Timelines wiki (of which 75 hours is eligible for stipend and 32 hours counts as overage), 49 hours on Org Watch, and 2 hours on tech learning (SQL study).
+* August: $630. The payment is at $5/hour for 126 hours eligible for stipend, out of 158 total hours worked. The distribution of time spent was as follows: 107 hours on Timelines wiki (of which 75 hours is eligible for stipend and 32 hours counts as overage), 49 hours on Org Watch, and 2 hours on tech learning (SQL study).
 
-* September: $580. The payment is at $5/hour for 116 hours eligible for stipend, out of 126 total hours worked. Total time spent was as follows: 85 hours on Timelines wiki (of which 75 hours is eligible for stipend and 10 hours counts as overage) and 41 hours on Org Watch.
+* September: $580. The payment is at $5/hour for 116 hours eligible for stipend, out of 126 total hours worked. The distribution of time spent was as follows: 85 hours on Timelines wiki (of which 75 hours is eligible for stipend and 10 hours counts as overage) and 41 hours on Org Watch.
 
-* October: $590. The payment is at $5/hour for 104 hours worked and 14 hours of overage from previous months (totaling 118 hours). Total time spent was as follows: 61 hours on Timelines wiki (out of 75 hours eligible) and 43 hours on Org Watch. A total of 75 - 61 = 14 hours of overage were applied to the month, out of an accumulated overage of 69 hours. An overage of 69 - 14 = 55 hours still remains.
+* October: $590. The payment is at $5/hour for 104 hours worked and 14 hours of overage from previous months (totaling 118 hours). The distribution of time spent was as follows: 61 hours on Timelines wiki (out of 75 hours eligible) and 43 hours on Org Watch. A total of 75 - 61 = 14 hours of overage were applied to the month, out of an accumulated overage of 69 hours. An overage of 69 - 14 = 55 hours still remains.
 
-* November: $330. The payment is at $5/hour for 11 hours worked and 55 hours of overage from previous months (totaling 66 hours). Total time spent was as follows: 4 hours on Timelines wiki (out of 75 hours eligible) and 7 hours on Org Watch. There was a total of 55 hours of overage on Timelines wiki from previous months, all of which were applied to this month since 55 + 4 = 59 is still less than the 75 hours per month that can be used on Timelines wiki.
+* November: $330. The payment is at $5/hour for 11 hours worked and 55 hours of overage from previous months (totaling 66 hours). The distribution of time spent was as follows: 4 hours on Timelines wiki (out of 75 hours eligible) and 7 hours on Org Watch. There was a total of 55 hours of overage on Timelines wiki from previous months, all of which were applied to this month since 55 + 4 = 59 is still less than the 75 hours per month that can be used on Timelines wiki.
 
-* December: $365. The payment is at $5/hour for 73 hours worked. Total time spent was as follows: 52 hours on Timelines wiki (out of 75 hours eligible) and 21 hours on Org Watch.
+* December: $365. The payment is at $5/hour for 73 hours worked. The distribution of time spent was as follows: 52 hours on Timelines wiki (out of 75 hours eligible) and 21 hours on Org Watch.
 
 ===Stipends for Future Fund Regranting Program===
 
@@ -360,27 +360,27 @@ Total: $3940
 
 Total: $3159
 
-* January: $333. 37 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-01-01&until=2023-01-31 for more details. The first commit for the month was on 2023-01-01 and the last commit for the month was on 2023-01-31.
+* January: $333. 37 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-01-01&until=2023-01-31 for more details. The first commit of the month was on 2023-01-01 and the last commit of the month was on 2023-01-31.
 
-* February: $234. 26 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-02-01&until=2023-02-28 for more details. The first commit for the month was on 2023-02-13 and the last commit for the month was on 2023-02-28.
+* February: $234. 26 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-02-01&until=2023-02-28 for more details. The first commit of the month was on 2023-02-13 and the last commit of the month was on 2023-02-28.
 
-* March: $135. 15 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-03-01&until=2023-03-31 for more details. The first commit for the month was on 2023-03-05 and the last commit for the month was on 2023-03-31.
+* March: $135. 15 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-03-01&until=2023-03-31 for more details. The first commit of the month was on 2023-03-05 and the last commit of the month was on 2023-03-31.
 
-* May: $198. 22 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-05-01&until=2023-05-31 for more details. The first commit for the month was on 2023-05-10 and the last commit for the month was on 2023-05-23.
+* May: $198. 22 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-05-01&until=2023-05-31 for more details. The first commit of the month was on 2023-05-10 and the last commit of the month was on 2023-05-23.
 
-* June: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-06-01&until=2023-06-30 for more details. The first commit for the month was on 2023-06-05 and the last commit for the month was on 2023-06-30.
+* June: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-06-01&until=2023-06-30 for more details. The first commit of the month was on 2023-06-05 and the last commit of the month was on 2023-06-30.
 
-* July: $261. 29 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-07-01&until=2023-07-31 for more details. The first commit for the month was on 2023-07-08 and the last commit for the month was on 2023-07-23.
+* July: $261. 29 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-07-01&until=2023-07-31 for more details. The first commit of the month was on 2023-07-08 and the last commit of the month was on 2023-07-23.
 
-* August: $324. 36 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-08-01&until=2023-08-31 for more details. The first commit for the month was on 2023-08-02 and the last commit for the month was on 2023-08-30.
+* August: $324. 36 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-08-01&until=2023-08-31 for more details. The first commit of the month was on 2023-08-02 and the last commit of the month was on 2023-08-30.
 
-* September: $378. 42 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-09-01&until=2023-09-30 for more details. The first commit for the month was on 2023-09-02 and the last commit for the month was on 2023-09-30.
+* September: $378. 42 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-09-01&until=2023-09-30 for more details. The first commit of the month was on 2023-09-02 and the last commit of the month was on 2023-09-30.
 
-* October: $315. 35 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-10-01&until=2023-10-31 for more details. The first commit for the month was on 2023-10-01 and the last commit for the month was on 2023-10-31.
+* October: $315. 35 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-10-01&until=2023-10-31 for more details. The first commit of the month was on 2023-10-01 and the last commit of the month was on 2023-10-31.
 
-* November: $360. 40 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-11-01&until=2023-11-30 for more details. The first commit for the month was on 2023-11-02 and the last commit for the month was on 2023-11-30.
+* November: $360. 40 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-11-01&until=2023-11-30 for more details. The first commit of the month was on 2023-11-02 and the last commit of the month was on 2023-11-30.
 
-* December: $279. 31 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-12-01&until=2023-12-31 for more details. The first commit for the month was on 2023-12-05 and the last commit for the month was on 2023-12-30.
+* December: $279. 31 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2023-12-01&until=2023-12-31 for more details. The first commit of the month was on 2023-12-05 and the last commit of the month was on 2023-12-30.
 
 ===Stipends for Vipul Naik===
 
@@ -388,29 +388,29 @@ Total: $5215
 
 The rule of thumb for stipend is: $5/hour
 
-* January: $280. The payment is at $5/hour for all 56 hours worked. Total time spent was as follows: 19 hours on Timelines wiki and 37 hours on Org Watch.
+* January: $280. The payment is at $5/hour for all 56 hours worked. The distribution of time spent was as follows: 19 hours on Timelines wiki and 37 hours on Org Watch.
 
-* February: $370. The payment is at $5/hour for all 74 hours worked. Total time spent was as follows: 48 hours on Timelines wiki and 26 hours on Org Watch.
+* February: $370. The payment is at $5/hour for all 74 hours worked. The distribution of time spent was as follows: 48 hours on Timelines wiki and 26 hours on Org Watch.
 
-* March: $405. The payment is at $5/hour for all 81 hours worked. Total time spent was as follows: 66 hours on Timelines wiki and 15 hours on Org Watch.
+* March: $405. The payment is at $5/hour for all 81 hours worked. The distribution of time spent was as follows: 66 hours on Timelines wiki and 15 hours on Org Watch.
 
 * April: $10. The payment is at $5/hour for all 2 hours worked. All reported time for Vipul Naik was spent on Timelines wiki.
 
-* May: $510. The payment is at $5/hour for all 102 hours worked. Total time spent was as follows: 51 hours on Timelines wiki, 22 hours on Org Watch, and 29 hours on tech learning.
+* May: $510. The payment is at $5/hour for all 102 hours worked. The distribution of time spent was as follows: 51 hours on Timelines wiki, 22 hours on Org Watch, and 29 hours on tech learning.
 
-* June: $860. The payment is at $5/hour for all 172 hours worked. Total time spent was as follows: 119 hours on Timelines wiki (of which about 90 hours was on AI-related timelines), 38 hours on Org Watch, and 15 hours on tech learning.
+* June: $860. The payment is at $5/hour for all 172 hours worked. The distribution of time spent was as follows: 119 hours on Timelines wiki (of which about 90 hours was on AI-related timelines), 38 hours on Org Watch, and 15 hours on tech learning.
 
-* July: $590. The payment is at $5/hour for all 118 hours worked. Total time spent was as follows: 84 hours on Timelines wiki (of which 70 hours was on AI-related timelines), 29 hours on Org Watch, and 5 hours on tech learning.
+* July: $590. The payment is at $5/hour for all 118 hours worked. The distribution of time spent was as follows: 84 hours on Timelines wiki (of which 70 hours was on AI-related timelines), 29 hours on Org Watch, and 5 hours on tech learning.
 
-* August: $510. The payment is at $5/hour for all 102 hours worked. Total time spent was as follows: 61 hours on Timelines wiki (of which 60 hours was on AI-related timelines), 36 hours on Org Watch, and 5 hours on tech learning.
+* August: $510. The payment is at $5/hour for all 102 hours worked. The distribution of time spent was as follows: 61 hours on Timelines wiki (of which 60 hours was on AI-related timelines), 36 hours on Org Watch, and 5 hours on tech learning.
 
-* September: $500. The payment is at $5/hour for all 100 hours worked. Total time spent was as follows: 56 hours on Timelines wiki (of which 44 hours was on AI-related timelines: timeline of ChatGPT, timeline of artificial intelligence, timeline of Bing Chat, timeline of Google Gemini; the remaining hours were spent on: timeline of Hindi on the web, timeline of mRNA research), 42 hours on Org Watch, and 2 hours on tech learning.
+* September: $500. The payment is at $5/hour for all 100 hours worked. The distribution of time spent was as follows: 56 hours on Timelines wiki (of which 44 hours was on AI-related timelines: timeline of ChatGPT, timeline of artificial intelligence, timeline of Bing Chat, timeline of Google Gemini; the remaining hours were spent on: timeline of Hindi on the web, timeline of mRNA research), 42 hours on Org Watch, and 2 hours on tech learning.
 
-* October: $450. The payment is at $5/hour for all 90 hours worked. Total time spent was as follows: 45 hours on Timelines wiki (of which 40 hours was on AI-related timelines), 35 hours on Org Watch, and 10 hours on tech learning.
+* October: $450. The payment is at $5/hour for all 90 hours worked. The distribution of time spent was as follows: 45 hours on Timelines wiki (of which 40 hours was on AI-related timelines), 35 hours on Org Watch, and 10 hours on tech learning.
 
-* November: $300. The payment is at $5/hour for all 60 hours worked. Total time spent was as follows: 20 hours on Timelines wiki (of which 4 hours was on AI-related timelines) and 40 hours on Org Watch.
+* November: $300. The payment is at $5/hour for all 60 hours worked. The distribution of time spent was as follows: 20 hours on Timelines wiki (of which 4 hours was on AI-related timelines) and 40 hours on Org Watch.
 
-* December: $430. The payment is at $5/hour for all 86 hours worked. Total time spent was as follows: 54 hours on Timelines wiki (of which 31 hours was on AI-related timelines), 31 hours on Org Watch, and 1 hour on tech learning (focused on git).
+* December: $430. The payment is at $5/hour for all 86 hours worked. The distribution of time spent was as follows: 54 hours on Timelines wiki (of which 31 hours was on AI-related timelines), 31 hours on Org Watch, and 1 hour on tech learning (focused on git).
 
 ===Stipends for Future Fund Regranting Program===
 
@@ -500,29 +500,29 @@ Total: $2472.50
 
 Starting March 2022, the first 25 hours per month of work on Org Watch are paid at $9/hour; later hours are paid at $5/hour. Starting July 2022, the first 40 hours per month of work on Org Watch are paid at $9/hour; later hours are paid at $5/hour.
 
-* January: $135. 27 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-01-01&until=2022-01-31 for more details. The first commit for the month was on 2022-01-03 and the last commit for the month was on 2022-01-31.
+* January: $135. 27 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-01-01&until=2022-01-31 for more details. The first commit of the month was on 2022-01-03 and the last commit of the month was on 2022-01-31.
 
-* February: $20. 4 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-02-01&until=2022-02-28 for more details. The first commit for the month was on 2022-02-01 and the last commit for the month was on 2022-02-09.
+* February: $20. 4 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-02-01&until=2022-02-28 for more details. The first commit of the month was on 2022-02-01 and the last commit of the month was on 2022-02-09.
 
-* March: $225. 25 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-03-01&until=2022-03-31 for more details. The first commit for the month was on 2022-03-11 and the last commit for the month was on 2022-03-27.
+* March: $225. 25 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-03-01&until=2022-03-31 for more details. The first commit of the month was on 2022-03-11 and the last commit of the month was on 2022-03-27.
 
-* April: $216. 24 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-04-01&until=2022-04-30 for more details. The first commit for the month was on 2022-04-02 and the last commit for the month was on 2022-04-30.
+* April: $216. 24 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-04-01&until=2022-04-30 for more details. The first commit of the month was on 2022-04-02 and the last commit of the month was on 2022-04-30.
 
-* May: $225. 25 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-05-01&until=2022-05-31 for more details. The first commit for the month was on 2022-05-01 and the last commit for the month was on 2022-05-20.
+* May: $225. 25 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-05-01&until=2022-05-31 for more details. The first commit of the month was on 2022-05-01 and the last commit of the month was on 2022-05-20.
 
-* June: $216. 24 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-06-01&until=2022-06-30 for more details. The first commit for the month was on 2022-06-02 and the last commit for the month was on 2022-06-30.
+* June: $216. 24 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-06-01&until=2022-06-30 for more details. The first commit of the month was on 2022-06-02 and the last commit of the month was on 2022-06-30.
 
-* July: $324. 36 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-07-01&until=2022-07-31 for more details. The first commit for the month was on 2022-07-02 and the last commit for the month was on 2022-07-31.
+* July: $324. 36 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-07-01&until=2022-07-31 for more details. The first commit of the month was on 2022-07-02 and the last commit of the month was on 2022-07-31.
 
-* August: $337.50. 37.5 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-08-01&until=2022-08-31 for more details. The first commit for the month was on 2022-08-13 and the last commit for the month was on 2022-08-31.
+* August: $337.50. 37.5 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-08-01&until=2022-08-31 for more details. The first commit of the month was on 2022-08-13 and the last commit of the month was on 2022-08-31.
 
-* September: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-09-01&until=2022-09-30 for more details. The first commit for the month was on 2022-09-04 and the last commit for the month was on 2022-09-29.
+* September: $342. 38 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-09-01&until=2022-09-30 for more details. The first commit of the month was on 2022-09-04 and the last commit of the month was on 2022-09-29.
 
-* October: $297. 33 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-10-01&until=2022-10-31 for more details. The first commit for the month was on 2022-10-01 and the last commit for the month was on 2022-10-31.
+* October: $297. 33 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-10-01&until=2022-10-31 for more details. The first commit of the month was on 2022-10-01 and the last commit of the month was on 2022-10-31.
 
-* November: $36. 4 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-11-01&until=2022-11-30 for more details. The first commit for the month was on 2022-11-11 and the last commit for the month was on 2022-11-27 (past midnight) in Sebastian's timezone and 2022-11-26 in PST.
+* November: $36. 4 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-11-01&until=2022-11-30 for more details. The first commit of the month was on 2022-11-11 and the last commit of the month was on 2022-11-27 (past midnight) in Sebastian's timezone and 2022-11-26 in PST.
 
-* December: $99. 11 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-12-01&until=2022-12-31 for more details. The first commit for the month was on 2022-12-01 and the last commit for the month was on 2022-12-31.
+* December: $99. 11 hours at $9/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2022-12-01&until=2022-12-31 for more details. The first commit of the month was on 2022-12-01 and the last commit of the month was on 2022-12-31.
 
 === Stipends for Vipul Naik ===
 
@@ -530,29 +530,29 @@ Total: $6030
 
 The rule of thumb for stipend is: $4/hour
 
-* January: $708. The payment is at $4/hour for all 177 hours worked. Total time spent was as follows: 150 hours on Timelines wiki and 27 hours on Org Watch.
+* January: $708. The payment is at $4/hour for all 177 hours worked. The distribution of time spent was as follows: 150 hours on Timelines wiki and 27 hours on Org Watch.
 
-* February: $636. The payment is at $4/hour for 159 hours eligible for stipend. Total time spent was as follows: 165 hours on Timelines wiki (including 5 hours exempt on timeline of GiveDirectly that are exempt from monthly cap, and 150 hours per the monthly cap), and 4 hours on Org Watch.
+* February: $636. The payment is at $4/hour for 159 hours eligible for stipend. The distribution of time spent was as follows: 165 hours on Timelines wiki (including 5 hours exempt on timeline of GiveDirectly that are exempt from monthly cap, and 150 hours per the monthly cap), and 4 hours on Org Watch.
 
-* March: $700. The payment is at $4/hour for 175 hours eligible for stipend. Total time spent was as follows: 161 hours on Timelines wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.
+* March: $700. The payment is at $4/hour for 175 hours eligible for stipend. The distribution of time spent was as follows: 161 hours on Timelines wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.
 
-* April: $696. The payment is at $4/hour for 174 hours eligible for stipend. Total time spent was as follows: 159 hours on Timelines wiki (of which 150 are eligible per the monthly cap) and 24 hours on Org Watch.
+* April: $696. The payment is at $4/hour for 174 hours eligible for stipend. The distribution of time spent was as follows: 159 hours on Timelines wiki (of which 150 are eligible per the monthly cap) and 24 hours on Org Watch.
 
-* May: $700. The payment is at $4/hour for 175 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.
+* May: $700. The payment is at $4/hour for 175 hours eligible for stipend. The distribution of time spent was as follows: 155 hours on Timelines wiki (of which 150 are eligible per the monthly cap) and 25 hours on Org Watch.
 
-* June: $696. The payment is at $4/hour for 174 hours eligible for stipend, compared to 146 hours worked. Total time spent was as follows: 122 hours on Timelines wiki and 24 hours on Org Watch. Since the time on Timelines wiki was less than the cap of 150 hours by 28 hours, 28 of the past accumulated excess of 66 hours were applied.
+* June: $696. The payment is at $4/hour for 174 hours eligible for stipend, compared to 146 hours worked. The distribution of time spent was as follows: 122 hours on Timelines wiki and 24 hours on Org Watch. Since the time on Timelines wiki was less than the cap of 150 hours by 28 hours, 28 of the past accumulated excess of 66 hours were applied.
 
-* July: $452. The payment is at $4/hour for 113 hours eligible for stipend, compared to 75 hours worked. Total time spent was as follows: 39 hours on Timelines wiki and 36 hours on Org Watch. Since the time on Timelines wiki was less than the cap of 135 hours by 96 hours, and the past accumulated excess was 38 hours, all 38 hours were applied.
+* July: $452. The payment is at $4/hour for 113 hours eligible for stipend, compared to 75 hours worked. The distribution of time spent was as follows: 39 hours on Timelines wiki and 36 hours on Org Watch. Since the time on Timelines wiki was less than the cap of 135 hours by 96 hours, and the past accumulated excess was 38 hours, all 38 hours were applied.
 
-* August: $178. The payment is at $4/hour for 44.5 hours worked, all hours being eligible for stipend. Total time spent was as follows: 7 hours on Timelines wiki and 37.5 hours on Org Watch.
+* August: $178. The payment is at $4/hour for 44.5 hours worked, all hours being eligible for stipend. The distribution of time spent was as follows: 7 hours on Timelines wiki and 37.5 hours on Org Watch.
 
 * September: $152. The payment is at $4/hour for 38 hours worked, all hours being eligible for stipend. All time was spent on Org Watch.
 
-* October: $216. The payment is at $4/hour for 54 hours worked, all hours being eligible for stipend. Total time spent was as follows: 21 hours on Timelines wiki and 33 hours on Org Watch.
+* October: $216. The payment is at $4/hour for 54 hours worked, all hours being eligible for stipend. The distribution of time spent was as follows: 21 hours on Timelines wiki and 33 hours on Org Watch.
 
-* November: $412. The payment is at $4/hour for 103 hours worked, all hours being eligible for stipend. Total time spent was as follows: 99 hours on Timelines wiki and 4 hours on Org Watch.
+* November: $412. The payment is at $4/hour for 103 hours worked, all hours being eligible for stipend. The distribution of time spent was as follows: 99 hours on Timelines wiki and 4 hours on Org Watch.
 
-* December: $484. The payment is at $4/hour for 121 hours worked, all hours being eligible for stipend. Total time spent was as follows: 110 hours on Timelines wiki and 11 hours on Org Watch.
+* December: $484. The payment is at $4/hour for 121 hours worked, all hours being eligible for stipend. The distribution of time spent was as follows: 110 hours on Timelines wiki and 11 hours on Org Watch.
 
 === Stipends for Future Fund Regranting Program ===
 
@@ -684,27 +684,27 @@ Total: $5099
 
 Total: $1297.50
 
-* January: $125. 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit for the month was on 2021-01-03 and the last commit for the month was on 2021-01-12.
+* January: $125. 25 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-01-01&until=2021-01-31 for more details. The first commit of the month was on 2021-01-03 and the last commit of the month was on 2021-01-12.
 
-* February: $157.50. 31 hours 30 minutes at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-02-01&until=2021-02-28 for mmore details. The first commit for the month was on 2021-02-01 and the last commit for the month was on 2021-02-22.
+* February: $157.50. 31 hours 30 minutes at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-02-01&until=2021-02-28 for mmore details. The first commit of the month was on 2021-02-01 and the last commit of the month was on 2021-02-22.
 
-* March: $165. 33 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-03-01&until=2021-03-31 for more details. The first commit for the month was on 2021-03-06 and the last commit for the month was on 2021-03-26.
+* March: $165. 33 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-03-01&until=2021-03-31 for more details. The first commit of the month was on 2021-03-06 and the last commit of the month was on 2021-03-26.
 
-* April: $175. 35 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-04-01&until=2021-04-30 for more details. The first commit for the month was on 2021-04-08 and the last commit for the month was on 2021-04-30.
+* April: $175. 35 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-04-01&until=2021-04-30 for more details. The first commit of the month was on 2021-04-08 and the last commit of the month was on 2021-04-30.
 
-* June: $110. 22 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-06-01&until=2021-06-30 for more details. The first commit for the month was on 2021-06-02 and the last commit for the month was on 2021-06-30.
+* June: $110. 22 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-06-01&until=2021-06-30 for more details. The first commit of the month was on 2021-06-02 and the last commit of the month was on 2021-06-30.
 
-* July: $150. 30 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-07-01&until=2021-07-31 for more details. The first commit for the month was on 2021-07-19 and the last commit for the month was on 2021-07-31.
+* July: $150. 30 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-07-01&until=2021-07-31 for more details. The first commit of the month was on 2021-07-19 and the last commit of the month was on 2021-07-31.
 
-* August: $50. 10 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-08-01&until=2021-08-31 for more details. The first commit for the month was on 2021-08-02 and the last commit for the month was on 2021-08-30.
+* August: $50. 10 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-08-01&until=2021-08-31 for more details. The first commit of the month was on 2021-08-02 and the last commit of the month was on 2021-08-30.
 
-* September: $60. 12 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-09-01&until=2021-09-30 for more details. The first commit for the month was on 2021-09-06 and the last commit for the month was on 2021-09-30.
+* September: $60. 12 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-09-01&until=2021-09-30 for more details. The first commit of the month was on 2021-09-06 and the last commit of the month was on 2021-09-30.
 
-* October: $100. 20 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-10-01&until=2021-10-31 for more details. The first commit for the month was on 2021-10-03 and the last commit for the month was on 2021-10-25.
+* October: $100. 20 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-10-01&until=2021-10-31 for more details. The first commit of the month was on 2021-10-03 and the last commit of the month was on 2021-10-25.
 
-* November: $90. 18 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-11-01&until=2021-11-30 for more details. The first commit for the month was on 2021-11-17 and the last commit for the month waas on 2021-11-29.
+* November: $90. 18 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-11-01&until=2021-11-30 for more details. The first commit of the month was on 2021-11-17 and the last commit of the month waas on 2021-11-29.
 
-* December: $115. 23 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-12-01&until=2021-12-31 for more details. The first commit for the month was on 2021-12-15 and the last commit for the month was on 2021-12-31.
+* December: $115. 23 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2021-12-01&until=2021-12-31 for more details. The first commit of the month was on 2021-12-15 and the last commit of the month was on 2021-12-31.
 
 === Stipends ===
 
@@ -712,29 +712,29 @@ Total: $8182
 
 The rule of thumb for stipend is: $4/hour
 
-* January: $560. The payment is at $4/hour for all 140 hours eligible for stipend. Total time spent was as follows: 115 hours on Timelines wiki and 25 hours on Org Watch.
+* January: $560. The payment is at $4/hour for all 140 hours eligible for stipend. The distribution of time spent was as follows: 115 hours on Timelines wiki and 25 hours on Org Watch.
 
-* February: $726. The payment is at $4/hour for all 181.5 hours eligible for stipend. Total time spent was as follows: 150 hours on Timelines wiki and 31.5 hours on Org Watch.
+* February: $726. The payment is at $4/hour for all 181.5 hours eligible for stipend. The distribution of time spent was as follows: 150 hours on Timelines wiki and 31.5 hours on Org Watch.
 
-* March: $808. The payment is at $4/hour for all 202 hours eligible for stipend. Total time spent was as follows: 169 hours on Timelines wiki and 33 hours on Org Watch.
+* March: $808. The payment is at $4/hour for all 202 hours eligible for stipend. The distribution of time spent was as follows: 169 hours on Timelines wiki and 33 hours on Org Watch.
 
-* April: $760. The payment is at $4/hour for all 190 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines wiki and 35 hours on Org Watch.
+* April: $760. The payment is at $4/hour for all 190 hours eligible for stipend. The distribution of time spent was as follows: 155 hours on Timelines wiki and 35 hours on Org Watch.
 
-* May: $680. The payment is at $4/hour for all 170 hours eligible for stipend. Total time spent was as follows: all 170 hours on Timelines wiki.
+* May: $680. The payment is at $4/hour for all 170 hours eligible for stipend. The distribution of time spent was as follows: all 170 hours on Timelines wiki.
 
-* June: $608. The payment is at $4/hour for all 152 hours eligible for stipend. Total time spent was as follows: 130 hours on Timelines wiki and 22 hours on Org Watch.
+* June: $608. The payment is at $4/hour for all 152 hours eligible for stipend. The distribution of time spent was as follows: 130 hours on Timelines wiki and 22 hours on Org Watch.
 
-* July: $740. The payment is at $4/hour for all 185 hours eligible for stipend. Total time spent was as follows: 155 hours on Timelines wiki and 30 hours on Org Watch.
+* July: $740. The payment is at $4/hour for all 185 hours eligible for stipend. The distribution of time spent was as follows: 155 hours on Timelines wiki and 30 hours on Org Watch.
 
-* August: $608. The payment is at $4/hour for all 152 hours eligible for stipend. Total time spent was as follows: 142 hours on Timelines wiki and and 10 hours on Org Watch.
+* August: $608. The payment is at $4/hour for all 152 hours eligible for stipend. The distribution of time spent was as follows: 142 hours on Timelines wiki and and 10 hours on Org Watch.
 
-* September: $648. The payment is at $4/hour for 162 hours eligible for stipend out of a total of 167 hours worked. Total time spent was as follows: 155 hours on Timelines wiki (of which stipend-eligible hours were capped at 150) and and 12 hours on Org Watch.
+* September: $648. The payment is at $4/hour for 162 hours eligible for stipend out of a total of 167 hours worked. The distribution of time spent was as follows: 155 hours on Timelines wiki (of which stipend-eligible hours were capped at 150) and and 12 hours on Org Watch.
 
-* October: $680. The payment is at $4/hour for 170 hours eligible for stipend out of a total of 178 hours worked. Total time spent was as follows: 158 hours on Timelines wiki (of which stipend-eligible hours were capped at 150) and 20 hours on Org Watch.
+* October: $680. The payment is at $4/hour for 170 hours eligible for stipend out of a total of 178 hours worked. The distribution of time spent was as follows: 158 hours on Timelines wiki (of which stipend-eligible hours were capped at 150) and 20 hours on Org Watch.
 
-* November: $672. The payment is at $4/hour for 168 hours eligible for stipend out of a total of 178 hours worked. Total time spent was as follows: 160 hours on Timelines wiki (of which stipend-eligible hours were capped at 150) and 18 hours on Org Watch.
+* November: $672. The payment is at $4/hour for 168 hours eligible for stipend out of a total of 178 hours worked. The distribution of time spent was as follows: 160 hours on Timelines wiki (of which stipend-eligible hours were capped at 150) and 18 hours on Org Watch.
 
-* December: $692. The payment is at $4/hour for 173 hours eligible for stipend out of a total of 181 hours worked. Total time spent was as follows: 158 hours on Timelines wiki (of which stipend-eligible hours were capped at 150) and 23 hours on Org Watch.
+* December: $692. The payment is at $4/hour for 173 hours eligible for stipend out of a total of 181 hours worked. The distribution of time spent was as follows: 158 hours on Timelines wiki (of which stipend-eligible hours were capped at 150) and 23 hours on Org Watch.
 
 === Payments made ===
 
@@ -828,17 +828,17 @@ Total: $3652
 
 Total: $1230
 
-* July: $140. 28 hours at $5/hour. On 2020-07-04, Sebastian, Issa, and Vipul met to discuss Org Watch data entry, after which Issa helped Sebastian get set up. Since then, Sebastian has been making commits in the sebastian branch; see https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-07-01&until=2020-07-31 for a list of commits. The last commit for the month was on 2020-07-27.
+* July: $140. 28 hours at $5/hour. On 2020-07-04, Sebastian, Issa, and Vipul met to discuss Org Watch data entry, after which Issa helped Sebastian get set up. Since then, Sebastian has been making commits in the sebastian branch; see https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-07-01&until=2020-07-31 for a list of commits. The last commit of the month was on 2020-07-27.
 
-* August: $120. 24 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-08-01&until=2020-08-31 for more details. The first commit for the month was on 2020-08-02 and the last commit for the month was on 2020-08-30.
+* August: $120. 24 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-08-01&until=2020-08-31 for more details. The first commit of the month was on 2020-08-02 and the last commit of the month was on 2020-08-30.
 
-* September: $190. 38 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-09-01&until=2020-09-30 for more details. The first commit by Sebastian for the month was on 2020-09-02 and the last commit for the month was on 2020-09-21.
+* September: $190. 38 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-09-01&until=2020-09-30 for more details. The first commit by Sebastian for the month was on 2020-09-02 and the last commit of the month was on 2020-09-21.
 
-* October: $220. 44 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-10-01&until=2020-10-31 for more details. The first commit by Sebastian for the month was on 2020-10-03 and the last commit for the month was on 2020-10-31.
+* October: $220. 44 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-10-01&until=2020-10-31 for more details. The first commit by Sebastian for the month was on 2020-10-03 and the last commit of the month was on 2020-10-31.
 
-* November: $155. 31 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-11-01&until=2020-11-30 for more details. The first commit by Sebastian for the month was on 2020-11-02 and the last commit for the month was on 2020-11-23.
+* November: $155. 31 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-11-01&until=2020-11-30 for more details. The first commit by Sebastian for the month was on 2020-11-02 and the last commit of the month was on 2020-11-23.
 
-* December: $405. 81 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-12-01&until=2020-12-31 for more details. The first commmit by Sebastian for the month was on 2020-12-11 and the last commit for the month was on 2020-12-31.
+* December: $405. 81 hours at $5/hour. See https://github.com/riceissa/aiwatch/commits/sebastian?since=2020-12-01&until=2020-12-31 for more details. The first commmit by Sebastian for the month was on 2020-12-11 and the last commit of the month was on 2020-12-31.
 
 === Stipends ===
 
@@ -860,15 +860,15 @@ The rule of thumb for stipend is: $4/hour if all hours were spent on Timelines w
 
 * July: $740. The payment is at $4/hour for all hours, plus an additional $5/hour for 12 hours for which output is not directly compensated. Worked 170 hours, including 130 on Timelines wiki and 28 on Org Watch.
 
-* August: $612. The payment is at $4/hour for all 153 hours eligible for stipend. Total time spent was as follows: 139 hours on Timelines wiki, 24 hours on Org Watch, and 9 hours on other activities. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend.
+* August: $612. The payment is at $4/hour for all 153 hours eligible for stipend. The distribution of time spent was as follows: 139 hours on Timelines wiki, 24 hours on Org Watch, and 9 hours on other activities. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend.
 
-* September: $700. The payment is at $4/hour for all 160 hours eligible for stipend, plus 15 of 19 excess hours accumulated from last month. Total time spent was follows: 105 hours on Timelines wiki, 17 hours on Timelines wiki promotion, 38 hours on Org Watch, and 15 hours overage on Timelines wiki applied from the previous month. The reason only 15 hours rather than the full 19 hours of the past overage were applied is that with 15 hours, we already hit the cap of 120 hours on Timelines wiki for September.
+* September: $700. The payment is at $4/hour for all 160 hours eligible for stipend, plus 15 of 19 excess hours accumulated from last month. The distribution of time spent was as follows: 105 hours on Timelines wiki, 17 hours on Timelines wiki promotion, 38 hours on Org Watch, and 15 hours overage on Timelines wiki applied from the previous month. The reason only 15 hours rather than the full 19 hours of the past overage were applied is that with 15 hours, we already hit the cap of 120 hours on Timelines wiki for September.
 
-* October: $688. The payment is at $4/hour for all 172 hours eligible for stipend. Total time spent was as follows: 126 hours on Timelines wiki, 8 hours on Timelines wiki promotion, and 44 hours on Org Watch. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend. As of now, we have a total overage of 10 hours on Timelines wiki (4 hours carried over, and 6 more hours this month).
+* October: $688. The payment is at $4/hour for all 172 hours eligible for stipend. The distribution of time spent was as follows: 126 hours on Timelines wiki, 8 hours on Timelines wiki promotion, and 44 hours on Org Watch. For Timelines wiki, the number of hours was in excess of the cap of 120 hours, so only the first 120 hours were eligible for stipend. As of now, we have a total overage of 10 hours on Timelines wiki (4 hours carried over, and 6 more hours this month).
 
-* November: $564. The payment is at $4/hour for all 131 hours eligible for stipend, plus all 10 excess hours accumulated from earlier.  Total time spent was as follows: 98.5 hours on Timelines wiki, 1.5 hours on Timelines wiki SEO research, and 31 hours on Org Watch.
+* November: $564. The payment is at $4/hour for all 131 hours eligible for stipend, plus all 10 excess hours accumulated from earlier.  The distribution of time spent was as follows: 98.5 hours on Timelines wiki, 1.5 hours on Timelines wiki SEO research, and 31 hours on Org Watch.
 
-* December: $656. The payment is at $4/hour for all 164 hours eligible for stipend. Total time spent was as follows: 83 hours on Timelines wiki and 81 hours on Org Watch.
+* December: $656. The payment is at $4/hour for all 164 hours eligible for stipend. The distribution of time spent was as follows: 83 hours on Timelines wiki and 81 hours on Org Watch.
 
 === Payments made ===
 
