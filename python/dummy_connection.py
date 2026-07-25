@@ -6,7 +6,7 @@ def connect():
         host = "localhost",
         user = (user),
         password = (password),
-        db = (db),
+        database = (database),
         cursorclass = pymysql.cursors.DictCursor,
         client_flag = CLIENT.MULTI_STATEMENTS,
     )
