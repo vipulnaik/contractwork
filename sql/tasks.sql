@@ -1372,7 +1372,7 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2026-04-01',0.24,'Organizational structures and dynamics','N/A','Spent 1 minute at $12/hour. Work done 2026-04-01.',1),
   /* Tasks added for May 2026 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2026-05-02',0.36,'Organizational structures and dynamics','N/A','Spent 2 minutes at $12/hour. Work done 2026-05-02.',2),
-  ('Issa Rice','Timelines wiki','Preliminary research','N/A','N/A','2026-05-19',22.80,'Global health/mental health','N/A','Preliminary work on a timeline of a particular subset of meditation (not to be confused with the overall timeline of meditation). This was very early-stage work and did not produce a public timeline. Spent 1 hour 54 minutes at $12/hour. Work done 2026-05-14 to 2026-05-19.',114);
+  ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of awakening-oriented, technically-minded, Buddhist-derived meditation','https://timelines.issarice.com/wiki/Timeline_of_awakening-oriented,_technically-minded,_Buddhist-derived_meditation','2026-05-19',22.80,'Global health/mental health','N/A','Preliminary work on a timeline of a particular subset of meditation (not to be confused with the overall timeline of meditation). This was very early-stage work and the timeline is not completed. Spent 1 hour 54 minutes at $12/hour. Work done 2026-05-14 to 2026-05-19.',114);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
