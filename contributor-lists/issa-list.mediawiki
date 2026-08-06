@@ -34,7 +34,7 @@ Net payment due: $91.41
 
 Total so far: $22.80
 
-* Preliminary work on timeline of meditation: $22.80. 1 hour 54 minutes at $12/hour. Work done 2026-05-14 to 2026-05-19.
+* Preliminary work on timeline of a particular subset of meditation in May 2026: $22.80. Spent 1 hour 54 minutes at $12/hour. Work done 2026-05-14 to 2026-05-19.
 
 === Org Watch ===
 
@@ -46,7 +46,7 @@ NOTE: The rate is $12/hour.
 
 * Work on Org Watch in April (general): $0.24. Spent 1 minute at $12/hour. Work done 2026-04-01.
 
-* Work on Org Watch in May (general): $0.36.  Spent 2 minutes at $12/hour. Work done 2026-05-02.
+* Work on Org Watch in May (general): $0.36. Spent 2 minutes at $12/hour. Work done 2026-05-02.
 
 === Stipends ===
 
