@@ -22,9 +22,9 @@ Total money earned as income: $3064.25 ($2975 for Vipul Naik, $89.25 for Future 
 
 Forward balance carried over from 2025: ($11569.73) (($4185.23) for Vipul Naik, ($7384.50) for Future Fund Regranting Program)
 
-Payment made: $3936.24
+Payment made: $7251 (note that this includes a payment made in July 2026, but a lot of data entry for work until then is pending)
 
-Net payment due: ($12441.72) (($5146.47) for Vipul Naik, ($7295.25) for Future Fund Regranting Program)
+Net payment due: ($15756.48) (($8461.23) for Vipul Naik, ($7295.25) for Future Fund Regranting Program) (see above note regarding pending data entry; the net payment due presented here is misleading until data entry is fully caught up)
 
 Timelines wiki hours overage from 2025: 7 hours
 
@@ -74,9 +74,11 @@ The payment rate is $5.25/hour.
 
 ===Payments made by Vipul Naik===
 
-Total so far: $3936.24
+Total so far: $7251
 
 * $3936.24 sent and received Sunday, May 3, 2026. Transaction in Bitcoin for 0.05 BTC (and calculated in terms of USD value at time of transaction of $78724.86 per BTC) with a very small transaction fee of 0.00000441 BTC ($0.35 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/1ba27c103b9b6b50ef22fcda66797d4e36b8d4eacf4deadfb5e26d1309fa1eb2 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously; the transaction of interest is number 24 on the list).
+
+* $3314.76 sent and received Tuesday, July 21, 2026. Transaction in Bitcoin for 0.05 BTC (and calculated in terms of USD value at time of transaction of $66295.15 per BTC) with a very small transaction fee of 0.00000441 BTC ($0.29 USD). Transaction available online at https://www.blockchain.com/explorer/transactions/btc/3e2532f23da4124e016f1f04ab27142115eb80c726a50d44265b34e9464519b7 (note that the transaction as shown in Blockchain appears to bundle this transaction with others that Coinbase may have executed simultaneously; the transaction of interest is number 15 on the list).
 
 ==Work in 2025==
 
