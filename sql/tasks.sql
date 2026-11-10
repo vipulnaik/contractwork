@@ -1372,7 +1372,18 @@ insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacl
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2026-04-01',0.24,'Organizational structures and dynamics','N/A','Spent 1 minute at $12/hour. Work done 2026-04-01.',1),
   /* Tasks added for May 2026 */
   ('Issa Rice','Org Watch','Consulting','N/A','N/A','2026-05-02',0.36,'Organizational structures and dynamics','N/A','Spent 2 minutes at $12/hour. Work done 2026-05-02.',2),
-  ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of awakening-oriented, technically-minded, Buddhist-derived meditation','https://timelines.issarice.com/wiki/Timeline_of_awakening-oriented,_technically-minded,_Buddhist-derived_meditation','2026-05-19',22.80,'Global health/mental health','N/A','Preliminary work on a timeline of a particular subset of meditation (not to be confused with the overall timeline of meditation). This was very early-stage work and the timeline was not completed in this round of work. Spent 1 hour 54 minutes at $12/hour. Work done 2026-05-14 to 2026-05-19.',114);
+  ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of awakening-oriented, technically-minded, Buddhist-derived meditation','https://timelines.issarice.com/wiki/Timeline_of_awakening-oriented,_technically-minded,_Buddhist-derived_meditation','2026-05-19',22.80,'Global health/mental health','N/A','Preliminary work on a timeline of a particular subset of meditation (not to be confused with the overall timeline of meditation). This was very early-stage work and the timeline was not completed in this round of work. Spent 1 hour 54 minutes at $12/hour. Work done 2026-05-14 to 2026-05-19.',114),
+  /* Tasks added for June 2026 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2026-06-06',0.96,'Organizational structures and dynamics','N/A','Spent 5 minutes at $12/hour. Work done 2026-06-03 to 2026-06-06.',5),
+  /* Tasks added for July 2026 */
+  ('Issa Rice','Timelines wiki','Timelines page creation','Timeline of awakening-oriented, technically-minded, Buddhist-derived meditation','https://timelines.issarice.com/wiki/Timeline_of_awakening-oriented,_technically-minded,_Buddhist-derived_meditation','2026-07-03',23.64,'Global health/mental health','N/A','Continued work on a timeline of a particular subset of meditation (not to be confused with the overall timeline of meditation), following preliminary work in May 2026. Spent 1 hour 58 minutes at $12/hour. Work done 2026-07-01 to 2026-07-03.',118),
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2026-07-30',18.96,'Organizational structures and dynamics','N/A','Spent 1 hour 35 minutes at $12/hour. Work done 2026-07-01 to 2026-07-30.',95),
+  /* Tasks added for August 2026 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2026-08-23',16.80,'Organizational structures and dynamics','N/A','Spent 1 hour 24 minutes at $12/hour, including adding a re-inclusion policy to the About page. Work done 2026-08-01 to 2026-08-23.',84),
+  /* Tasks added for September 2026 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2026-09-21',0.96,'Organizational structures and dynamics','N/A','Spent 5 minutes at $12/hour. Work done 2026-09-21.',5),
+  /* Tasks added for October 2026 */
+  ('Issa Rice','Org Watch','Consulting','N/A','N/A','2026-10-27',7.56,'Organizational structures and dynamics','N/A','Spent 38 minutes at $12/hour, including fixing a datetime deprecation warning in the team page archiving script. Work done 2026-10-26 to 2026-10-27.',38);
 
 /* Issa Rice tasks paid for by Berkeley Existential Risk Initiative (BERI) */
 insert into tasks(worker, task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, payer, minutes_spent) values
