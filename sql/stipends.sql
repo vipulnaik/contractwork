@@ -9,12 +9,13 @@ create table stipends(
   hours_logged decimal(13,2) default null,
   total_work_hours int(11) default null,
   payer varchar(40) default 'Vipul Naik',
+  check (stipend_start_date <= stipend_end_date),
   constraint stipend_payee_is_worker foreign key (payee) references workers (worker),
   constraint stipend_payer_is_payer foreign key (payer) references payers (payer)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged, total_work_hours) values
-  ('Issa Rice',700,'2016-02-01','2016-02-28','2016-12-28','Paid after long deferral as end-of-year award. Constitutes 100% of stipend for that month',null,null),
+  ('Issa Rice',700,'2016-02-01','2016-02-29','2016-12-28','Paid after long deferral as end-of-year award. Constitutes 100% of stipend for that month',null,null),
   ('Issa Rice',900,'2016-03-01','2016-03-31','2016-12-28','Paid after long deferral as end-of-year award. Constitutes 100% of stipend for that month',null,null),
   ('Issa Rice',900,'2016-04-01','2016-04-30','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone. Constitutes 100% of stipend for that month',null,null),
   ('Issa Rice',1000,'2016-05-01','2016-05-31','2017-03-24','Awarded after delay, due to achievement of LiftIgniter milestone. Constitutes deferred part of stipend for that month; remaining $300 was awarded at end of original month',null,null),
@@ -146,9 +147,9 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Issa Rice',82,'2025-11-01','2025-11-30','2025-11-30','Rate of $11.50/hour effective June 2025; this included work on Vipul''s Slack self-chat logs, Org Watch, contract work meta, and Timelines wiki (main page table update).',7.13,50),
   ('Issa Rice',3.80,'2025-12-01','2025-12-31','2025-12-31','Rate of $11.50/hour effective June 2025; this included work on Org Watch and Timelines wiki (main page table update and fixes to the update script).',0.33,50),
   ('Issa Rice',19.55,'2026-01-01','2026-01-31','2026-01-31','Rate of $11.50/hour effective June 2025; this included generic work on Timelines wiki and contract work meta.',1.7,50),
-  ('Issa Rice',21.28,'2026-03-31','2026-03-31','2026-03-31','Rate of $11.50/hour effective June 2025; this included Timelines wiki main page table update, Org Watch work, and contract work meta.',1.85,50),
-  ('Issa Rice',0.23,'2026-04-30','2026-04-30','2026-04-30','Rate of $11.50/hour effective June 2025; this included a small amount of Org Watch work.',0.02,50),
-  ('Issa Rice',45.66,'2026-05-31','2026-05-31','2026-05-31','Rate of $11.50/hour effective June 2025; this included work on Timelines wiki, exploratory work on a timeline of meditation, and Org Watch work.',3.97,50);
+  ('Issa Rice',21.28,'2026-03-01','2026-03-31','2026-03-31','Rate of $11.50/hour effective June 2025; this included Timelines wiki main page table update, Org Watch work, and contract work meta.',1.85,50),
+  ('Issa Rice',0.23,'2026-04-01','2026-04-30','2026-04-30','Rate of $11.50/hour effective June 2025; this included a small amount of Org Watch work.',0.02,50),
+  ('Issa Rice',45.66,'2026-05-01','2026-05-31','2026-05-31','Rate of $11.50/hour effective June 2025; this included work on Timelines wiki, exploratory work on a timeline of meditation, and Org Watch work.',3.97,50);
 
 insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipend_award_date, notes, hours_logged) values
   ('Sebastian Sanchez',100,'2017-05-01','2017-05-31','2017-05-31',null,null),
@@ -184,7 +185,7 @@ insert into stipends(payee, payment, stipend_start_date, stipend_end_date, stipe
   ('Sebastian Sanchez',740,'2019-09-01','2019-09-30','2019-09-30','There was no time spent outside Timelines wiki in this month, so all time is on Timelines wiki',185),
   ('Sebastian Sanchez',700,'2019-10-01','2019-10-31','2019-10-31','There was no time spent outside Timelines wiki in this month, so all time is on Timelines wiki',175),
   ('Sebastian Sanchez',780,'2019-11-01','2019-11-30','2019-11-30','This includes some time spent outside Timelines wiki',185),
-  ('Sebastian Sanchez',700,'2019-12-01','2019-12-01','2019-12-31','The listed amount of time (165 hours) is only on Timelines wiki. However, some time was spent on preparing for projects in 2020 as well, which is not counted in the 165 hours, but is reflected in an extra 40 USD added to the stipend',165),
+  ('Sebastian Sanchez',700,'2019-12-01','2019-12-31','2019-12-31','The listed amount of time (165 hours) is only on Timelines wiki. However, some time was spent on preparing for projects in 2020 as well, which is not counted in the 165 hours, but is reflected in an extra 40 USD added to the stipend',165),
   /* 2020 */
   ('Sebastian Sanchez',720,'2020-01-01','2020-01-31','2020-01-31','The time and payment are only for time spent on Timelines wiki.',180),
   ('Sebastian Sanchez',712,'2020-02-01','2020-02-29','2020-02-29','The payment is at $4/hour for a total of 178 hours: 170 spent on Timelines wiki and 8 spent on initial exploration of the Machinelearning subwiki.',178),
