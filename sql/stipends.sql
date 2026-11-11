@@ -10,6 +10,7 @@ create table stipends(
   total_work_hours int(11) default null,
   payer varchar(40) default 'Vipul Naik',
   check (stipend_start_date <= stipend_end_date),
+  check (stipend_end_date <= stipend_award_date),
   constraint stipend_payee_is_worker foreign key (payee) references workers (worker),
   constraint stipend_payer_is_payer foreign key (payer) references payers (payer)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
